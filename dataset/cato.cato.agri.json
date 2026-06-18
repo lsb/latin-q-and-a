@@ -1,0 +1,12 @@
+{
+  "source": "text/cato/cato.agri.txt",
+  "pairs": [
+    {
+      "locus": "Cato, De Agri Cultura 61",
+      "type": "authorial-rhetorical",
+      "question": "Quid est agrum bene colere?",
+      "answer": "Bene arare.",
+      "derivation": "Cato poses a genuine interrogative and answers it himself: 'Quid est agrum bene colere? Bene arare.' The answer is the complete two-word reply to its full stop. The immediately following exchanges in the source ('Quid secundum? Arare. Quid tertium? Stercorare.') are separate elliptical follow-up questions that depend on this one for their referent, so they are not extracted as standalone self-contained pairs. The section marker '[61]' was stripped as scaffolding."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source": "text/augustine/serm76.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 76.1",
+      "type": "direct-speech",
+      "question": "Vos autem quem me esse dicitis?",
+      "answer": "Tu es Christus filius dei uiui.",
+      "derivation": "The Lord asks (framed by 'rursusque domino interrogante et dicente') and Peter answers (framed by 'respondit Petrus'). Both speech-tags dropped as framing. Answer is the complete one-sentence reply."
+    },
+    {
+      "locus": "Augustine, Sermo 76.3",
+      "type": "authorial-rhetorical",
+      "question": "Quare de meo?",
+      "answer": "Omnia quae habet pater, mea sunt.",
+      "derivation": "Augustine poses 'quare de meo?' and answers it himself with the scriptural quotation introduced by 'quia' (the connective 'quia' is dropped as framing). The reply is the single answering sentence."
+    },
+    {
+      "locus": "Augustine, Sermo 76.7",
+      "type": "authorial-rhetorical",
+      "question": "Quare ergo apostolus es?",
+      "answer": "Gratia dei sum quod sum.",
+      "derivation": "Augustine addresses Paul with the question and Paul's own words answer it. Took the first answering sentence 'gratia dei sum quod sum'; stopped before the following 'Non sum idoneus,' which restarts the prior thought rather than answering."
+    },
+    {
+      "locus": "Augustine, Sermo 76.7",
+      "type": "authorial-rhetorical",
+      "question": "Quid tibi dictum est? Quid audisti quando hoc petisti?",
+      "answer": "Sufficit tibi gratia mea; nam uirtus in infirmitate perficitur.",
+      "derivation": "Augustine's two contiguous interrogatives about what the Lord said to Paul, answered by the Lord's quoted reply. Kept both questions contiguous as the lead-in; the answer is the full quoted response, stopping before 'etenim infirmatus est' which elaborates."
+    },
+    {
+      "locus": "Augustine, Sermo 76.7",
+      "type": "authorial-rhetorical",
+      "question": "Vultis scire quid nos uelit facere?",
+      "answer": "Ego dixi, dii estis, et filii excelsi omnes.",
+      "derivation": "Augustine's self-posed question answered by the psalm quotation. Dropped the framing 'audite psalmum:' that narrates the citing; the answer is the operative quoted verse, stopping before the next clause 'sed humana sapiendo' which turns to a contrast."
+    }
+  ]
+}

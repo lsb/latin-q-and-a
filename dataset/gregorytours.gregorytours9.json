@@ -1,0 +1,33 @@
+{
+  "source": "text/gregorytours/gregorytours9.txt",
+  "pairs": [
+    {
+      "locus": "Gregory of Tours, Historiae 9.10",
+      "type": "direct-speech",
+      "question": "Et quid faciam, si hic a te tenior? Demitte me, ut eam et depraecer misericordiam regis, et fortassis miserebitur tui.",
+      "answer": "Nequaquam, sed transmitte abbates et creditus tuos, ut haec quae loquor exponant.",
+      "derivation": "Gunthchramnus Boso, sword drawn, has begged bishop Magnericus to save him; the bishop asks what he can do and proposes to go plead with the king. Quoted the bishop's whole short reply as the question. Dropped the narrative speech-tags ('Turbatus auditu episcopus ait:' before, 'Et ille:' before the answer). The answer is Boso's full directive sentence (refusing the bishop's proposal and telling him instead to send abbots); next sentence is narration ('Verumtamen non haec rege...')."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 9.20",
+      "type": "whole-speech-as-question",
+      "question": "Non similiter ego gratias ago, quod taliter inrumpitur, quod mihi promissum est. Pars mea de urbe Silvanectensi non redditur; homines, quos pro utilitate mea, quia mihi infensi erant, migrare volui, non permiserunt. Et quomodo dicetis, quod nihil de pactionibus scriptis transcendere vult dulcissimus nepus meus?",
+      "answer": "Nihil vult contra pactiones agere illas, sed omnia inplere promittit, ita ut de praesenti, si ad divisionem Silvanectensim vis mittere, nec tardetur; statim enim recipies tuum.",
+      "derivation": "King Gunthchramnus answers the legates' opening assurance with this whole speech, an extended complaint ending in a real interrogative ('Et quomodo dicetis...?'). Quoted his entire speech contiguously as the question; dropped the framing 'Et rex ad haec ait:' and the answering frame 'Et nos ad haec:'. The answer is the legates' reply up to the first full stop ('...statim enim recipies tuum.'), which directly answers; the following sentence ('De hominibus vero...') turns to the separate matter of the men, so it is cut."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 9.20",
+      "type": "direct-speech",
+      "question": "Dic, o Filex, iam enim plenissime conexuistis amicitias inter sororem meam Brunichildem et inimicam Dei atque hominum Fredegundem?",
+      "answer": "Non dubitet rex, quia illae amicitiae inter easdem costodiuntur, quae ante hos annus plurimus sunt legati.",
+      "derivation": "King Gunthchramnus turns to the legate Felix and asks (yes/no, with '?') whether the friendships between Brunhild and Fredegund have been fully knit. Felix's denial is only narrated ('Quo negante'); Gregory answers in quoted speech. Dropped framing 'Et conversus ad Filicem, qui tunc nobiscum legatus advenerat, ait:' before, and 'Quo negante, ego dixi:' before the answer. Answer cut at the first full stop; the continuation ('Nam certe scias...') elaborates."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 9.20",
+      "type": "whole-speech-as-question",
+      "question": "Indecastis enim nepoti vestro, ut omnes regni sui episcopi in unum convenirent, quia multa sunt, quae debeant indegare. Sed iuxta consuetudinem canonum placebat gloriosissimo nepoti vestro, ut unusquisque metropolis cum provincialibus suis coniungeret et tunc, quae inrationabiliter in regione propria fiebant, sanctione sacerdotali emendarentur. Quae enim causa extat, ut in unum tanta multitudo conveniat? Aeclesiae fides periculo ullo non quatitur; heresis nova non surgit. Quae erit ista necessitas, ut tanti debeant in unum coniungi domni sacerdotes?",
+      "answer": "Sunt multa quae debeant discerni, quae iniuste gesta sunt, tam de incestis quam de ipsis quae inter nos aguntur causis.",
+      "derivation": "Gregory ('Et ego') questions the king's plan to assemble all the bishops; his whole speech is one extended interrogation ending 'Quae erit ista necessitas...?'. Quoted it whole and contiguous as the question, dropping the frame 'Et ego:'. The king answers ('Et ille: Sunt multa, inquid, quae debeant discerni...'); dropped the frame 'Et ille:' and the interior speech-tag 'inquid'. Answer cut at the first full stop ('...causis.'); the following sentences ('Sed praecipue illa Dei causa extat...') elaborate the agenda."
+    }
+  ]
+}

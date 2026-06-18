@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/sulla.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Sulla 22",
+      "type": "direct-speech",
+      "question": "Illud quaero peregrinum cur me esse dixeris?",
+      "answer": "Te esse ex municipio.",
+      "derivation": "Cicero puts a genuine interrogative to Torquatus (why he called him a foreigner); Torquatus answers in quoted direct speech. Dropped the framing speech tag 'Hoc dico,' inquit, before the answer, and the framing 'Mitto iam de rege quaerere;' before the question. Normalized terminal punctuation to '?'. The reply 'te esse ex municipio' is the whole answer; what follows ([23]) is Cicero's rejoinder 'Fateor et addo etiam...', not part of the answer."
+    },
+    {
+      "locus": "Cicero, Pro Sulla 36",
+      "type": "authorial-rhetorical",
+      "question": "Num Sullam dixerit Cassius?",
+      "answer": "Nusquam.",
+      "derivation": "Cicero poses the question about the record (did Cassius name Sulla?) and answers it himself. Dropped the framing verb 'Quaero' that introduces the question. The one-word answer 'Nusquam' fully answers it; what follows ('Sese aiunt quaesisse de Cassio...') turns to a new point."
+    },
+    {
+      "locus": "Cicero, Pro Sulla 48",
+      "type": "direct-speech",
+      "question": "Cur dixisti testimonium in alios?",
+      "answer": "Quia coactus sum.",
+      "derivation": "In the rapid quoted exchange Torquatus asks and Cicero answers. Question and answer are quoted verbatim and contiguous; the answer's first (and only) sentence directly answers. The next exchange ('Cur damnati sunt?') begins a separate pair."
+    },
+    {
+      "locus": "Cicero, Pro Sulla 48",
+      "type": "direct-speech",
+      "question": "Cur damnati sunt?",
+      "answer": "Quia creditum est.",
+      "derivation": "Next quoted question/answer in the same stichomythic stretch: Torquatus asks why the men were condemned, Cicero answers 'because it was believed.' Both verbatim and contiguous; the following line ('Regnum est dicere in quem velis...') is a new objection."
+    }
+  ]
+}

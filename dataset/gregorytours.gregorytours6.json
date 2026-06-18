@@ -1,0 +1,40 @@
+{
+  "source": "text/gregorytours/gregorytours6.txt",
+  "pairs": [
+    {
+      "locus": "Gregory of Tours, Historiae 6.5",
+      "type": "direct-speech",
+      "question": "Numquid Deus homo fieri potuit aut de mulieri nasci, verberibus subdi, morte damnare?",
+      "answer": "Ut Deus, Dei filius, homo fierit, non suae, sed nostrae necessitatis extetit causa.",
+      "derivation": "The Jew (Iudaeus respondit) asks; Gregory (in medio me ingerens, dixi) answers. Question is the verbatim interrogative, speech tag 'Ad haec Iudaeus respondit' dropped. Answer ended at the first full stop; what follows ('Nam captivum peccato homine...' and then a long string of scriptural proofs 'Ego vero non de euangeliis...') is elaboration/digression, cut."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 6.5",
+      "type": "direct-speech",
+      "question": "Quae Deo fuit necessitas, ut ista pateretur?",
+      "answer": "Iam dixi tibi, Deus hominem creavit innoxium, sed astu serpentis circumscriptus, praevaricatur praecepti factus est; et ideo a side paradisi eiectus, mundanis laboribus deputatus est.",
+      "derivation": "The Jew asks; Gregory ('Cui ego:') answers. Speech tags 'Iudaeos ad haec respondit' and 'Cui ego' dropped. Answer ended at the first full stop; the following sentence 'Qui mortem unigeniti Dei Christi Deo reconciliatus est Patri' is a follow-on, cut."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 6.5",
+      "type": "direct-speech",
+      "question": "Non poterat Deus mittere prophetas aut apostulos, qui eum ad viam revocarent salutis, nisi ipse humiliatus fuisset in carne?",
+      "answer": "A principio genus semper diliquit humanum, quem numquam terruit nec submersio diluvii nec incendium Sodomae nec plagae Aegypti nec miraculum maris Iordanisque divisi; qui semper legi Dei restitit, prophetis non crededit, et non solum non crededit, verum etiam ipsos praedicatores paenitentiae interemit.",
+      "derivation": "The Jew ('Iudaeos dixit') asks; Gregory ('Ad haec ego') answers. Speech tags dropped. Answer ended at the first full stop; what follows ('Ideo nisi ipse eum discendisset redemere...' and the chain of prophetic citations) is elaboration, cut."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 6.6",
+      "type": "direct-speech",
+      "question": "O domine mi, qualiter tam valida turmenta tollerare tam fortiter potes?",
+      "answer": "Confortat me ille, pro cuius nomine haec patior.",
+      "derivation": "Crescens asks the recluse Hospicius; he answers ('Cui ille ait'). Speech tags dropped. Answer ended at the first full stop; the following sentence 'Dico autem tibi, quia iam absolvor ab his vinculis et vado in requiem meam' is an added aside, cut."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 6.40",
+      "type": "direct-speech",
+      "question": "Si haec, ut adseris, credis, quae obstetit causa, ut de sacrificiis, quae Deo offerimus, communicare deferris?",
+      "answer": "Quia gloriam non recte responditis.",
+      "derivation": "Gregory ('Cui ego respondi') asks the heretic Oppila; the heretic ('Et ille:') answers. Speech tags and the interior 'inquid' dropped. Answer taken to the operative clause (the direct reason given); what follows after the semicolon ('nam iuxta Paulum apostolum nos dicimus...') is supporting elaboration, cut. Terminal semicolon normalized to a full stop."
+    }
+  ]
+}

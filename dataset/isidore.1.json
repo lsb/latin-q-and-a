@@ -1,0 +1,19 @@
+{
+  "source": "text/isidore/1.txt",
+  "pairs": [
+    {
+      "locus": "Isidore, Etymologiae 1.37.27",
+      "type": "direct-speech",
+      "question": "Numquid nos quaesierit aliquis?",
+      "answer": "Bona Fortuna.",
+      "derivation": "From the charientismos example: 'uti cum interrogantibus, \"numquid nos quaesierit aliquis?\" respondetur: \"Bona Fortuna.\"' Dropped the framing 'cum interrogantibus' and the speech tag 'respondetur'; normalized the first word's capitalization. The reply 'Bona Fortuna' genuinely (if euphemistically) answers the question whether anyone has been asking after them; Isidore's following gloss 'Vnde intellegitur neminem nos quaesisse' is meta-commentary and is left out of the answer span."
+    },
+    {
+      "locus": "Isidore, Etymologiae 1.8.3",
+      "type": "direct-speech",
+      "question": "Quis est?",
+      "answer": "Is est.",
+      "derivation": "From the discussion of relative pronouns: 'Relativa dicuntur, quia ad interrogationem referuntur, ut \"quis est?\" respondetur, \"is est.\"' Dropped the framing 'Relativa dicuntur, quia ad interrogationem referuntur, ut' and the speech tag 'respondetur'; normalized capitalization and terminal punctuation. The interrogative 'quis est?' is directly answered by 'is est.'"
+    }
+  ]
+}

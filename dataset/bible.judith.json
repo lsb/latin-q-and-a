@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/judith.txt",
+  "pairs": [
+    {
+      "locus": "Judith 10.11-12",
+      "type": "direct-speech",
+      "question": "Unde venis aut quo vadis?",
+      "answer": "Filia sum Hebraeorum, ideo ego fugi a facie eorum.",
+      "derivation": "Stripped narrative framing 'occurrerunt ei exploratores Assyriorum et tenuerunt illam dicentes' from the question and the speech tag 'quae respondit' from the answer; capitalized first word and added '?'. The scouts ask whence/whither; Judith answers her identity and that she fled. Cut the answer after 'a facie eorum' (the first full stop equivalent); what follows ('quoniam futurum agnovi quod dentur vobis in depraedationem...' and v.13 'hac de causa cogitavi mecum dicens vadam ad faciem principis Holofernis...') digresses into justification and her intended plan rather than answering the question."
+    },
+    {
+      "locus": "Judith 12.3-4",
+      "type": "direct-speech",
+      "question": "Si defecerint tibi ista quae tecum detulisti, quid faciemus tibi?",
+      "answer": "Vivit anima tua domine meus, quoniam non expendet omnia haec ancilla tua donec faciat Deus in manu mea haec quae cogitavi.",
+      "derivation": "Stripped speech tag 'cui Holofernis ait' from the question and 'et dixit Iudith' from the answer; capitalized first words and added '?' to the question. Holofernes asks what will be done when her provisions run out; Judith answers they will not run out before God accomplishes her plan. Cut the answer before the trailing narration 'et induxerunt illam servi eius in tabernaculo quo praeceperat', which is not part of her utterance."
+    }
+  ]
+}

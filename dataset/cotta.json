@@ -1,0 +1,19 @@
+{
+  "source": "text/cotta.txt",
+  "pairs": [
+    {
+      "locus": "Cotta, Carmina IV (Epitaphium Quinterii), 54-57",
+      "type": "authorial-rhetorical",
+      "question": "Cur non flosculus exeam, cum tantum fuerim puer decorus?",
+      "answer": "Tellus est nimis arida, o viator, nostri facta perustione amoris.",
+      "derivation": "The dead boy poses the question the passer-by would ask (why he does not sprout as a flower) and answers it himself. Dropped the framing verb 'requiris' (\"you ask\") that interrupts the utterance, and the now-dangling comma, keeping the rest contiguous; normalized terminal punctuation to '?'. Answer ends at 'amoris' (where a colon introduces the elaboration 'Sed si lacrimulis tuis madescet, / Forsan flos novus ibit e sepulchro', which turns from answering to hope and is cut)."
+    },
+    {
+      "locus": "Cotta, Carmina VII (Ad Lycorim), 136-139",
+      "type": "authorial-rhetorical",
+      "question": "Quid tamen optarim ostendi mihi? Quid tibi in isto est corpore, quo viso, non subito peream?",
+      "answer": "Tolle, precor, tunicam tantillum, et pascere ocellos in pede languentes me sine candidulo.",
+      "derivation": "The speaker asks himself what he would wish shown and immediately answers with his request. Normalized capitalization of the second interrogative ('Quid') after the question mark. Answer is the contiguous reply; it ends at 'candidulo' before the speaker retracts with 'Sed quid ego optavi mihi?', which is cut as a new turn."
+    }
+  ]
+}

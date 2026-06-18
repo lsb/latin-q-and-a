@@ -1,0 +1,26 @@
+{
+  "source": "text/gregdecretals5.txt",
+  "pairs": [
+    {
+      "locus": "Decretals of Gregory IX, Liber V, Tit. 3 (De simonia), cap. 10 (Alexander III to the bishop of Vigilia)",
+      "type": "direct-speech",
+      "question": "Utrum pro ecclesiarum consecratione quicquam praeter procurationem habere debeas?",
+      "answer": "Nihil pro ecclesiarum consecratione potes vel debes praeter procurationem exigere.",
+      "derivation": "The bishop's consultation contains a genuine indirect interrogative ('utrum... habere debeas') which the pope quotes and then answers ('Consultationi tuae taliter respondemus, quod...'). Dropped the asking/answering framing: the lead-in 'Quaesivisti autem, frater episcope, tuae fraternitati rescribi,' before the question, and 'Et nos Consultationi tuae taliter respondemus, quod' before the answer. Normalized the question's first word capitalization and terminal punctuation (added '?'). The answer is cut at its first full stop, before 'Sed procurationem moderatam, quum Apostolus dicat...' which adds a qualification (that a moderate procuratio may still be exacted) rather than answering the yes/no question."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber V, Tit. 19 (De usuris), cap. 10 (Urbanus III)",
+      "type": "authorial-rhetorical",
+      "question": "An ille in iudicio animarum quasi usurarius debeat iudicari, qui non alias mutuo traditurus, eo proposito mutuam pecuniam credit, ut, licet omni conventione cessante, plus tamen sorte recipiat; et utrum eodem reatu criminis involvatur, qui, ut vulgo dicitur, non aliter parabolam iuramenti concedit, donec, quamvis sine exactione, emolumentum aliquod inde percipiat; et an negotiator poena consimili debeat condemnari, qui merces suas longe maiori pretio distrahit, si ad solutionem faciendam prolixioris temporis dilatio prorogetur, quam si ei in continenti pretium persolvatur?",
+      "answer": "Huiusmodi homines pro intentione lucri, quam habent, quum omnis usura et superabundantia prohibeatur in lege, iudicandi sunt male agere, et ad ea, quae taliter sunt accepta, restituenda, in animarum iudicio efficaciter inducendi.",
+      "derivation": "A threefold real interrogative consultation (an...? et utrum...? et an...?) answered by the pope. Quoted the entire question verbatim and contiguous, dropping only the asking-framing 'Consuluit nos tua devotio, in quo sacerdotalis officii sollicitudinem commendamus,' and normalizing terminal punctuation to '?'. For the answer I advanced the start past the non-answering preamble 'Verum quia, quid in his casibus tenendum sit, ex evangelio Lucae manifeste cognoscitur, in quo dicitur: \"Date mutuum, nihil inde sperantes:\"' (which merely cites scripture) to the operative answering sentence beginning 'huiusmodi homines...', normalizing its first-word capitalization. The answer runs to the end of the decretal."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber V, Tit. 33 (De privilegiis), cap. 10 (Coelestinus III to the bishop of Avila)",
+      "type": "direct-speech",
+      "question": "Utrum Templariis, Hospitalariis et aliis, oratoria in domibus suis habentibus, liceat campanas in eis ponere publiceque pulsare?",
+      "answer": "Non licet eis hoc agere; quin potius per te per censuram ecclesiasticam appellatione remota coercendi sunt, ut ita sint suo iure contenti, quod iustitiam non impediant aliorum.",
+      "derivation": "The bishop's request contains a genuine indirect interrogative ('utrum... liceat... ponere publiceque pulsare') which the pope quotes and then answers ('Respondemus autem consultationi tuae... et dicimus, quod...'). Dropped the asking framing 'Patentibus literis nostris certificari desideras,' before the question and 'Respondemus autem consultationi tuae quam facis, et dicimus, quod' before the answer; normalized the question's first word and added terminal '?'. Kept the answer through its full sentence (the 'quin potius...' clause is part of the same sentence specifying the consequence and ends at the only full stop), normalizing the first word capitalization."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/tusc3.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Tusculanae Disputationes 3.8",
+      "type": "direct-speech",
+      "question": "Quid? tibi omnisne animi commotio videtur insania?",
+      "answer": "Non mihi quidem soli, sed, id quod admirari saepe soleo, maioribus quoque nostris hoc ita visum intellego multis saeculis ante Socratem, a quo haec omnis, quae est de vita et de moribus, philosophia manavit.",
+      "derivation": "Teacher-pupil dialogue in section IV. The question is a genuine interrogative ('does every mental agitation seem to you to be madness?'); the reply affirms it ('not only to me, but to our ancestors too it seemed so...'). Stripped the leading dialogue speaker-label hyphens. Kept the speaker's own interjection 'Quid?' as part of the contiguous utterance. Answer is the full first sentence (to the first full stop); it both answers and trails into elaboration about Socrates within the same sentence, so the whole sentence is retained. No section markers or footer present in the span."
+    }
+  ]
+}

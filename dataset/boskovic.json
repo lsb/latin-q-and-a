@@ -1,0 +1,26 @@
+{
+  "source": "text/boskovic.txt",
+  "pairs": [
+    {
+      "locus": "Boscovich, Ecloga I.48-54",
+      "type": "direct-speech",
+      "question": "Quid Genitrix tali adspectu, quid Pupulus ipse?",
+      "answer": "Pupulus ambrosiis subridens lene labellis tendebat teneros ad regia colla lacertos. Illa verecundo vultum suffusa rubore, atque oculos defixa solo pudibunda modestos, cautes, crede mihi, ipsas, et corda ipsa ferarum mollisset, quercusque sacros rapuisset in ignes.",
+      "derivation": "Lycidas asks a genuine interrogative about what the Mother and the Boy did at the Kings' adoration (quid... quid). Tytirus answers directly: first the Pupulus (smiling, reaching out his arms), then Illa = the Genitrix (blushing, eyes lowered, who would have softened even rocks). Answer ends at 'in ignes' (line 54); line 55 'Ut demum saturatus amor...' turns to the Kings' departure, so it is cut. Speaker labels [Ly.]/[Ty.] and bracketed line numbers stripped."
+    },
+    {
+      "locus": "Boscovich, Ecloga III.20-23",
+      "type": "direct-speech",
+      "question": "Nescis ergo, sacris Infantem ut sisteret aris, ad delubra gradu Matrem properasse pudico?",
+      "answer": "Non equidem audieram, meliora ad pascua namque ivimus, et teneros procul hinc abduximus agnos.",
+      "derivation": "Lycidas poses a yes/no interrogative (Nescis... properasse?). Corydon answers it directly: 'Non equidem audieram' (no, I had not heard), with the reason (we had gone to far pastures). Answer ends at the full stop after 'abduximus agnos' (line 23); line 24 'Nunc demum heu serus redeo...' begins a new turn. Speaker labels and bracketed line numbers stripped."
+    },
+    {
+      "locus": "Boscovich, Ecloga III.24-28",
+      "type": "direct-speech",
+      "question": "Sed prata virentes si tibi sufficiant haedis pascentibus herbas, pergentem licuit sacras deducere ad aras?",
+      "answer": "Et licuit; Lycidam nec dedignata sodalem Virgo Parens; aequo tulimus vestigia gressu.",
+      "derivation": "Corydon asks whether Lycidas was permitted to escort the Virgin to the altars (licuit... deducere ad aras?); the conditional 'Sed prata... herbas' is kept as the setup the question depends on. Lycidas answers directly, echoing the verb: 'Et licuit' (and it was permitted). Answer ends at 'gressu' (line 28); the following 'O Coridon, o qualis erat!...' is elaboration and is cut. Speaker labels and bracketed line numbers stripped."
+    }
+  ]
+}

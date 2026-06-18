@@ -1,0 +1,12 @@
+{
+  "source": "text/gregorytours/gregorytours2.txt",
+  "pairs": [
+    {
+      "locus": "Gregory of Tours, Historiae 2.23",
+      "type": "whole-speech-as-question",
+      "question": "Cur nos deseres, pastor bone, vel cui nos quasi orphanos derelinquis? Numquid erit nobis post transitum tuum vita? Numquid erit postmodum, qui nos sapientiae sale sic condiat aut ad dominici nominis timorem talis prudentiae ratione redarguat?",
+      "answer": "Nolite timere, o populi, ecce! frater meus Aprunculus vivit, et ipse erit sacerdos vester.",
+      "derivation": "The dying bishop Sidonius is surrounded by weeping people whose entire lament is one extended question (cur... numquid... numquid postmodum qui nos...), quoted verbatim and contiguous as the question. Dropped the framing tag 'plangentium atque dicentium:'. Sidonius's reply, introduced by the framing 'tandem sacerdos, Spiritu in se sancto influente, respondit:', directly answers 'cui nos derelinquis / who will be our priest' by naming Aprunculus; the answer is its single full sentence, ending at the full stop before 'Qui non intellegentes...'. Normalized first-word capitalization and terminal punctuation; no Latin words added or reordered."
+    }
+  ]
+}

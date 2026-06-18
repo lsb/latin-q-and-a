@@ -1,0 +1,19 @@
+{
+  "source": "text/epitaphs.txt",
+  "pairs": [
+    {
+      "locus": "Roman Epitaphs B 801",
+      "type": "authorial-rhetorical",
+      "question": "Quid sumus aut loquimur, vita est quid denique nostra?",
+      "answer": "Vel modo nobiscum vixit homo, nunc homo non est.",
+      "derivation": "Rhetorical question answered immediately by the next verse. Square-bracket line-break supplements deni[que and no[n stripped to denique and non, keeping the words. Answer ends at the full stop after 'homo non est'; what follows ('Stat lapis et nomen tantum...' and a second deflecting question 'Quid quasi iam vita est? Non est quod quaerere cures!') is not part of this answer and the later question is answered only by a deflection, so it is excluded."
+    },
+    {
+      "locus": "Roman Epitaphs B 1331",
+      "type": "authorial-rhetorical",
+      "question": "Non dolor est, ut quem amas pereat?",
+      "answer": "Nunc mors perpetua libertatem dedit.",
+      "derivation": "Rhetorical consolation question answered by the following verse. The leading exclamatory interjection 'he.iu' (alas) is framing/cry, not part of the interrogative clause, so it is dropped and the first word capitalized. Answer is the single following verse; it is the last line of the epitaph, so nothing follows to trim."
+    }
+  ]
+}

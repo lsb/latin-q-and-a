@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/fin5.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Finibus 5.6",
+      "type": "direct-speech",
+      "question": "Sed utrum hortandus es nobis, Luci, an etiam tua sponte propensus es?",
+      "answer": "Facio equidem.",
+      "derivation": "Piso asks Lucius a disjunctive question (utrum...an). Dropped the speech tag 'inquit' that splits Lucius' reply ('Facio, inquit. equidem') to give the contiguous utterance 'Facio equidem', which answers the second disjunct (yes, of his own accord). Stopped before 'sed audistine modo de Carneade?' where Lucius turns to a new topic. Also dropped the framing 'Sed' opening the question and 'inquit' inside it; normalized terminal punctuation."
+    },
+    {
+      "locus": "Cicero, De Finibus 5.77-78",
+      "type": "direct-speech",
+      "question": "Utrum igitur tibi non placet, virtutisne tantam esse vim, ut ad beate vivendum se ipsa contenta sit? an, si id probas, fieri ita posse negas, ut ii, qui virtutis compotes sint, etiam malis quibusdam affecti beati sint?",
+      "answer": "Ego vero volo in virtute vim esse quam maximam.",
+      "derivation": "Piso's disjunctive interrogative (utrum...an) to Cicero. Dropped the speech tag 'inquit' from inside the question. The answer is the reply's first operative clause; cut at the semicolon before 'sed quanta sit alias, nunc tantum possitne esse tanta. si quicquam extra virtutem habeatur in bonis', which defers/digresses (and is textually corrupt). Normalized the terminal ';' to '.'."
+    },
+    {
+      "locus": "Cicero, De Finibus 5.83",
+      "type": "direct-speech",
+      "question": "Stoicos roga. Quid igitur eos responsuros putas?",
+      "answer": "Nihilo beatiorem esse Metellum quam Regulum.",
+      "derivation": "Cicero had deflected Piso's Metellus/Regulus question with 'Quid me istud rogas? Stoicos roga.'; Piso then asks what the Stoics would answer. Included the verbatim setup 'Stoicos roga.' so that 'eos' has a referent (the Stoics). Dropped the speech tag 'inquit' from the question. Cicero's reply 'Nihilo beatiorem esse Metellum quam Regulum' directly answers; stopped there before Piso's next line 'Inde igitur ordiendum est.'"
+    },
+    {
+      "locus": "Cicero, De Finibus 5.84",
+      "type": "direct-speech",
+      "question": "Sit enim idem caecus, debilis, morbo gravissimo affectus, exul, orbus, egens, torqueatur eculeo: quem hunc appellas, Zeno?",
+      "answer": "Beatum.",
+      "derivation": "Cicero addresses Zeno directly. Included the preceding verbatim clause describing the wretched man so that 'hunc' has a referent; normalized OCR-split punctuation/capitalization ('debilis. Morbo' -> 'debilis, morbo') without altering or reordering any word. Dropped the speech tag 'inquit' from the reply, giving 'Beatum'. Stopped before the follow-up 'Etiam beatissimum? Quippe...' which is a further exchange with corrupt framing."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/caesar/gall7.txt",
+  "pairs": [
+    {
+      "locus": "Caesar, Bellum Gallicum 7.77",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo mei consili est?",
+      "answer": "Facere, quod nostri maiores nequaquam pari bello Cimbrorum Teutonumque fecerunt; qui in oppida compulsi ac simili inopia subacti eorum corporibus qui aetate ad bellum inutiles videbantur vitam toleraverunt neque se hostibus tradiderunt.",
+      "derivation": "Within Critognatus's speech in [77], the speaker poses his own question ('What then is my counsel?') and answers it himself. Answer starts at its first word 'Facere' and ends at the first full stop after 'tradiderunt'; the following sentence 'Cuius rei si exemplum non haberemus...' turns from answering to justification, so it is cut. The interrogative 'Quid ergo mei consili est?' is a genuine question directly answered by 'Facere, quod...'. No scaffolding or angle-brackets in the span."
+    },
+    {
+      "locus": "Caesar, Bellum Gallicum 7.77",
+      "type": "authorial-rhetorical",
+      "question": "Nam quid illi simile bello fuit?",
+      "answer": "Depopulata Gallia Cimbri magnaque illata calamitate finibus quidem nostris aliquando excesserunt atque alias terras petierunt; iura, leges, agros, libertatem nobis reliquerunt.",
+      "derivation": "Later in Critognatus's speech in [77], the speaker asks what was comparable about the Cimbric war and answers by contrast. Answer starts at 'Depopulata' and ends at the first full stop after 'reliquerunt'; the next sentence 'Romani vero quid petunt aliud...' opens a new contrast and is cut. The interrogative is genuine and the response directly answers it. No scaffolding or angle-brackets in the span."
+    }
+  ]
+}

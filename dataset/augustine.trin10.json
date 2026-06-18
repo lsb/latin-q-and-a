@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/trin10.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Trinitate 10.7",
+      "type": "authorial-rhetorical",
+      "question": "Vtquid ergo ei praeceptum est ut se ipsa cognoscat?",
+      "answer": "Credo ut se cogitet et secundum naturam suam uiuat.",
+      "derivation": "Augustine poses the question (why is the mind commanded to know itself?) and answers it himself with 'Credo ut...'. 'ei' refers to mens, the subject throughout the prior sections. Answer window stops at the operative first clause 'Credo ut se cogitet et secundum naturam suam uiuat'; what follows ('id est ut secundum suam naturam ordinari appetat, sub eo scilicet cui subdenda est...') is 'id est' elaboration and is cut. Section marker [V 7] stripped."
+    },
+    {
+      "locus": "Augustine, De Trinitate 10.14",
+      "type": "authorial-rhetorical",
+      "question": "Viuere se tamen et meminisse et intellegere et uelle et cogitare et scire et iudicare quis dubitet?",
+      "answer": "Quandoquidem etiam si dubitat, uiuit; si dubitat, unde dubitet meminit; si dubitat, dubitare se intellegit; si dubitat, certus esse uult; si dubitat, cogitat; si dubitat, scit se nescire; si dubitat, iudicat non se temere consentire oportere.",
+      "derivation": "Augustine asks the rhetorical question (who could doubt that one lives, remembers, understands, wills, thinks, knows, judges?) and answers it himself, showing each is entailed even by doubting. Answer is the whole following sentence to its first full stop (interior breaks are semicolons, kept); the next sentence ('Quisquis igitur alicunde dubitat...') draws the conclusion and is cut. Section marker [14] stripped; no scaffolding inside the span."
+    }
+  ]
+}

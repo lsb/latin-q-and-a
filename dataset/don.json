@@ -1,0 +1,775 @@
+{
+  "source": "text/don.txt",
+  "pairs": [
+    {
+      "locus": "Donatus, Ars Minor (De partibus orationis)",
+      "type": "authorial-rhetorical",
+      "question": "Partes orationis quot sunt?",
+      "answer": "Octo.",
+      "derivation": "Catechetical Q&A; interrogative quot. Answer is the single-word reply. Capitalization normalized; nothing cut."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De partibus orationis)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Nomen pronomen uerbum aduerbium participium coniunctio praepositio interiectio.",
+      "derivation": "Follows the prior reply 'octo'; interrogative quae. Answer enumerates the eight parts. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Nomen quid est?",
+      "answer": "Pars orationis cum casu corpus aut rem proprie communiterue significans.",
+      "derivation": "Interrogative quid est; full definitional answer to first stop. Section header 'DE NOMINE' stripped as scaffolding. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Nomini quot accidunt?",
+      "answer": "Sex.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Qualitas comparatio genus numerus figura casus.",
+      "derivation": "Follows 'sex'; interrogative quae lists the six accidents. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Qualitas nominum in quo est?",
+      "answer": "Bipertita est: aut enim unius nomen est et proprium dicitur, aut multorum appellatiuum.",
+      "derivation": "Interrogative in quo est. Answer kept whole as a single sentence to the full stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Comparationis gradus quot sunt?",
+      "answer": "Tres.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Qui?",
+      "answer": "Positiuus, ut doctus, comparatiuus, ut doctior, superlatiuus, ut doctissimus.",
+      "derivation": "Follows 'tres'; interrogative qui lists the three degrees. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae nomina comparantur?",
+      "answer": "Appellatiua dumtaxat qualitatem aut quantitatem significantia.",
+      "derivation": "Interrogative quae nomina. Full answer to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Comparatiuus gradus cui casui seruit?",
+      "answer": "Ablatiuo sine praepositione: dicimus enim doctior illo.",
+      "derivation": "Interrogative cui casui. Answer kept whole through the illustrating clause to the full stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Superlatiuus cui?",
+      "answer": "Genetiuo tantum plurali: dicimus enim doctissimus poetarum.",
+      "derivation": "Elliptical interrogative cui (casui). Answer kept whole to the full stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Genera nominum quot sunt?",
+      "answer": "Quattuor.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Masculinum, ut hic magister, femininum, ut haec Musa, neutrum, ut hoc scamnum, commune, ut hic et haec sacerdos. est praeterea trium generum, quod omne dicitur, ut hic et haec et hoc felix; est epicoenon, id est promiscuum, ut passer aquila.",
+      "derivation": "Follows 'quattuor'; interrogative quae. Whole enumerating answer retained as the genuine reply to the gender question. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Numeri nominum quot sunt?",
+      "answer": "Duo.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Qui?",
+      "answer": "Singularis, ut hic magister, pluralis, ut hi magistri.",
+      "derivation": "Follows 'duo'; interrogative qui lists the two numbers. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Figurae nominum quot sunt?",
+      "answer": "Duae.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Simplex, ut decens potens, composita, ut indecens impotens.",
+      "derivation": "Follows 'duae'; interrogative quae lists the two figures. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quibus modis nomina componuntur?",
+      "answer": "Quattuor: ex duobus integris, ut suburbanus; ex duobus corruptis, ut efficax municeps; ex integro et corrupto, ut insulsus; ex corrupto et integro, ut nugigerulus; aliquando ex compluribus, ut inexpugnabilis imperterritus.",
+      "derivation": "Interrogative quibus modis. Whole enumerating answer kept as the genuine reply. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Casus nominum quot sunt?",
+      "answer": "Sex.",
+      "derivation": "Interrogative quot. Answer is the single word 'sex'; the long declension paradigm that follows ('qui? ... per hos ...') belongs to the next question and is not part of this answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quaecumque nomina ablatiuo casu singulari a uel o fuerint terminata genetiuum pluralem in quid mittunt?",
+      "answer": "In rum, datiuum et ablatiuum in is.",
+      "derivation": "Interrogative in quid. Full answer to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quaecumque nomina ablatiuo casu singulari e uel i uel u fuerint terminata genetiuum pluralem in quid mittunt?",
+      "answer": "Si e correpta fuerit, in um; si producta, in rum; si i fuerit, in ium; si u, in uum geminata u littera.",
+      "derivation": "Interrogative in quid. Whole conditional answer retained. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De nomine)",
+      "type": "authorial-rhetorical",
+      "question": "Datiuum et ablatiuum in quid mittunt?",
+      "answer": "In bus omnia.",
+      "derivation": "Interrogative in quid. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Pronomen quid est?",
+      "answer": "Pars orationis, quae pro nomine posita tantundem paene significat personamque interdum recipit.",
+      "derivation": "Interrogative quid est; full definition to the stop. Header 'DE PRONOMINE' stripped. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Pronomini quot accidunt?",
+      "answer": "Sex.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Qualitas genus numerus figura persona casus.",
+      "derivation": "Follows 'sex'; interrogative quae lists the six accidents of the pronoun. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Qualitas pronominum in quo est?",
+      "answer": "Bipertita est: aut enim finita sunt pronomina aut infinita.",
+      "derivation": "Interrogative in quo est. Answer kept whole to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae sunt finita?",
+      "answer": "Quae recipiunt personas, ut ego tu ille.",
+      "derivation": "Interrogative quae sunt. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae sunt infinita?",
+      "answer": "Quae non recipiunt personas, ut quis quae quod.",
+      "derivation": "Interrogative quae sunt. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Genera pronominum quae sunt?",
+      "answer": "Eadem fere quae et nominum: masculinum, ut quis, femininum, ut quae, neutrum, ut quod, commune, ut qualis talis, trium generum, ut ego tu.",
+      "derivation": "Interrogative quae sunt. Whole enumerating answer retained. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Numeri pronominum quot sunt?",
+      "answer": "Duo.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Qui?",
+      "answer": "Singularis, ut hic, pluralis, ut hi.",
+      "derivation": "Follows 'duo'; interrogative qui lists the two numbers. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Figurae pronominum quot sunt?",
+      "answer": "Duae.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Simplex, ut quis, composita, ut quisquis.",
+      "derivation": "Follows 'duae'; interrogative quae lists the two figures. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Personae pronominum quot sunt?",
+      "answer": "Tres.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De pronomine)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Prima, ut ego, secunda, ut tu, tertia, ut ille.",
+      "derivation": "Follows 'tres'; interrogative quae lists the three persons. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Uerbum quid est?",
+      "answer": "Pars orationis cum tempore et persona sine casu aut agere aliquid aut pati aut neutrum significans.",
+      "derivation": "Interrogative quid est; full definition to the stop. Header 'DE VERBO' stripped. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Uerbo quot accidunt?",
+      "answer": "Septem.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Qualitas coniugatio genus numerus figura tempus persona.",
+      "derivation": "Follows 'septem'; interrogative quae lists the seven accidents. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Qualitas uerborum in quo est?",
+      "answer": "In modis et in formis.",
+      "derivation": "Interrogative in quo est. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Modi qui sunt?",
+      "answer": "Indicatiuus, ut lego, imperatiuus, ut lege, optatiuus, ut utinam legerem, coniunctiuus, ut cum legam, infinitiuus, ut legere, impersonalis, ut legitur.",
+      "derivation": "Interrogative qui sunt. Whole enumerating answer retained. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Formae uerborum quot sunt?",
+      "answer": "Quattuor.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Perfecta, ut lego, meditatiua, ut lecturio, frequentatiua, ut lectito, inchoatiua, ut feruesco calesco.",
+      "derivation": "Follows 'quattuor'; interrogative quae lists the four forms. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Coniugationes uerborum quot sunt?",
+      "answer": "Tres.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Prima secunda tertia.",
+      "derivation": "Follows 'tres'; interrogative quae lists the three conjugations. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Prima quae est?",
+      "answer": "Quae indicatiuo modo tempore praesenti numero singulari secunda persona uerbo actiuo et neutrali a productam habet ante nouissimam litteram, passiuo communi et deponenti ante nouissimam syllabam, ut amo amas, amor amaris; et futurum tempus eiusdem modi in bo et in bor syllabam mittit, ut amo amabo, amor amabor.",
+      "derivation": "Interrogative quae est. Whole defining answer retained to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Secunda quae est?",
+      "answer": "Quae indicatiuo modo tempore praesenti numero singulari secunda persona uerbo actiuo et neutrali e productam habet ante nouissimam litteram, passiuo communi et deponenti ante nouissimam syllabam, ut doceo doces, doceor doceris; et futurum tempus eiusdem modi in bo et in bor syllabam mittit, ut doceo docebo, doceor docebor.",
+      "derivation": "Interrogative quae est. Whole defining answer retained. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Tertia quae est?",
+      "answer": "Quae indicatiuo modo tempore praesenti numero singulari secunda persona uerbo actiuo et neutrali i correptam uel i productam habet ante nouissimam litteram, passiuo communi et deponenti pro i littera e correptam uel i productam habet ante nouissimam syllabam, ut lego legis, legor legeris, audio audis, audior audiris; et futurum tempus eiusdem modi in am et in ar syllabam mittit, ut lego legam, legor legar, audio audiam, audior audiar.",
+      "derivation": "Interrogative quae est. Answer cut at the first full stop; the following elaboration 'haec in imperatiuo et in infinitiuo statim discerni possunt...' is digression beyond the definition and is omitted. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quando tertia coniugatio futurum tempus non in am tantum sed etiam in bo mittit?",
+      "answer": "Interdum, cum i litteram non correptam habuerit sed productam, ut eo is ibo, queo quis quibo.",
+      "derivation": "Interrogative quando. Whole answer retained to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Genera uerborum quot sunt?",
+      "answer": "Quinque.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Actiua passiua neutra deponentia communia.",
+      "derivation": "Follows 'quinque'; interrogative quae lists the five genera. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Actiua quae sunt?",
+      "answer": "Quae in o desinunt et accepta r littera faciunt ex se passiua, ut lego legor.",
+      "derivation": "Interrogative quae sunt. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Passiua quae sunt?",
+      "answer": "Quae in r desinunt et ea dempta redeunt in actiua, ut legor lego.",
+      "derivation": "Interrogative quae sunt. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Neutra quae sunt?",
+      "answer": "Quae in o desinunt, ut actiua, sed accepta r littera Latina non sunt, ut sto curro: stor curror non dicimus.",
+      "derivation": "Interrogative quae sunt. Answer kept whole through the illustrative clause to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Deponentia quae sunt?",
+      "answer": "Quae in r desinunt, ut passiua, sed ea dempta Latina non sunt, ut luctor loquor.",
+      "derivation": "Interrogative quae sunt. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Communia quae sunt?",
+      "answer": "Quae in r desinunt, ut deponentia, sed in duas formas cadunt, patientis et agentis, ut osculor criminor: dicimus enim osculor te et osculor a te, criminor te et criminor a te.",
+      "derivation": "Interrogative quae sunt. Answer kept whole to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Numeri uerborum quot sunt?",
+      "answer": "Duo.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Qui?",
+      "answer": "Singularis, ut lego, pluralis, ut legimus.",
+      "derivation": "Follows 'duo'; interrogative qui lists the two numbers. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Figurae uerborum quot sunt?",
+      "answer": "Duae.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Simplex, ut lego, composita, ut neglego.",
+      "derivation": "Follows 'duae'; interrogative quae lists the two figures. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Tempora uerborum quot sunt?",
+      "answer": "Tria.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Praesens, ut lego, praeteritum, ut legi, futurum, ut legam.",
+      "derivation": "Follows 'tria'; interrogative quae lists the three tenses. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quot sunt tempora in declinatione uerborum?",
+      "answer": "Quinque.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Praesens, ut lego, praeteritum imperfectum, ut legebam, praeteritum perfectum, ut legi, praeteritum plusquamperfectum, ut legeram, futurum, ut legam.",
+      "derivation": "Follows 'quinque'; interrogative quae lists the five tenses of conjugation. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Personae uerborum quot sunt?",
+      "answer": "Tres.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De uerbo)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Prima, ut lego, secunda, ut legis, tertia, ut legit.",
+      "derivation": "Follows 'tres'; interrogative quae lists the three persons. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De aduerbio)",
+      "type": "authorial-rhetorical",
+      "question": "Aduerbium quid est?",
+      "answer": "Pars orationis, quae adiecta uerbo significationem eius explanat atque implet.",
+      "derivation": "Interrogative quid est; full definition. Header 'DE ADVERBIO' stripped. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De aduerbio)",
+      "type": "authorial-rhetorical",
+      "question": "Aduerbio quot accidunt?",
+      "answer": "Tria.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De aduerbio)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Significatio comparatio figura.",
+      "derivation": "Follows 'tria'; interrogative quae lists the three accidents. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De aduerbio)",
+      "type": "authorial-rhetorical",
+      "question": "Significatio aduerbiorum in quo est?",
+      "answer": "Quia sunt aut loci aduerbia aut temporis aut numeri aut negandi aut affirmandi aut demonstrandi aut optandi aut hortandi aut ordinis aut interrogandi aut similitudinis aut qualitatis aut quantitatis aut dubitandi aut personalia aut uocandi aut respondendi aut separandi aut iurandi aut eligendi aut congregandi aut prohibendi aut euentus aut comparandi.",
+      "derivation": "Interrogative in quo est. Whole enumerating answer retained to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De aduerbio)",
+      "type": "authorial-rhetorical",
+      "question": "Comparatio aduerbiorum in quo est?",
+      "answer": "In tribus gradibus comparationis, positiuo comparatiuo superlatiuo.",
+      "derivation": "Interrogative in quo est. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De aduerbio)",
+      "type": "authorial-rhetorical",
+      "question": "Figurae aduerbiorum quot sunt?",
+      "answer": "Duae.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De aduerbio)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Simplex et composita, simplex, ut docte prudenter, composita, ut indocte imprudenter.",
+      "derivation": "Follows 'duae'; interrogative quae. Answer cut at the first full stop; the following discussion of local adverbs ('aduerbia localia uel in loco sunt...') is separate digression and is omitted. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Participium quid est?",
+      "answer": "Pars orationis partem capiens nominis, partem uerbi; nominis genera et casus, uerbi tempora et significationes, utriusque numerum et figuram.",
+      "derivation": "Interrogative quid est; full definition. Header 'DE PARTICIPIO' stripped. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Participio quot accidunt?",
+      "answer": "Sex.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Genus casus tempus significatio numerus figura.",
+      "derivation": "Follows 'sex'; interrogative quae lists the six accidents. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Genera participiorum quot sunt?",
+      "answer": "Quattuor.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Masculinum, ut hic lectus, femininum, ut haec lecta, neutrum, ut hoc lectum, commune tribus generibus, ut hic et haec et hoc legens.",
+      "derivation": "Follows 'quattuor'; interrogative quae lists the four genders. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Casus participiorum quot sunt?",
+      "answer": "Sex.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Qui?",
+      "answer": "Nominatiuus, ut hic legens, genetiuus, ut huius legentis, datiuus, ut huic legenti, accusatiuus, ut hunc legentem, uocatiuus, ut o legens, ablatiuus, ut ab hoc legente.",
+      "derivation": "Follows 'sex'; interrogative qui lists the six cases. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Tempora participiorum quot sunt?",
+      "answer": "Tria.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Praesens, ut legens, praeteritum, ut lectus, futurum, ut lecturus et legendus.",
+      "derivation": "Follows 'tria'; interrogative quae lists the three tenses. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Significationes participiorum in quo sunt?",
+      "answer": "Quia ab actiuo uerbo duo participia ueniunt, praesens et futurum, ut legens lecturus; a passiuo duo, praeteritum et futurum, ut lectus legendus; a neutro duo, sicut ab actiuo, praesens et futurum, ut stans staturus, a deponenti tria, praesens praeteritum et futurum, ut loquens locutus locuturus; a communi quattuor, praesens praeteritum et duo futura, ut criminans criminatus criminaturus criminandus.",
+      "derivation": "Interrogative in quo sunt. Whole enumerating answer retained to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Numeri participiorum quot sunt?",
+      "answer": "Duo.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Qui?",
+      "answer": "Singularis, ut hic legens, pluralis, ut hi legentes.",
+      "derivation": "Follows 'duo'; interrogative qui lists the two numbers. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Figurae participiorum quot sunt?",
+      "answer": "Duae.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De participio)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Simplex, ut legens, composita, ut neglegens.",
+      "derivation": "Follows 'duae'; interrogative quae lists the two figures. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Coniunctio quid est?",
+      "answer": "Pars orationis adnectens ordinansque sententiam.",
+      "derivation": "Interrogative quid est; full definition. Header 'DE CONIVNCTIONE' stripped. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Coniunctioni quot accidunt?",
+      "answer": "Tria.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Potestas figura ordo.",
+      "derivation": "Follows 'tria'; interrogative quae lists the three accidents. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Potestas coniunctionum quot species habet?",
+      "answer": "Quinque.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Quas?",
+      "answer": "Copulatiuas disiunctiuas expletiuas causales rationales.",
+      "derivation": "Follows 'quinque'; interrogative quas lists the five species. Terminal colon normalized to a full stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Figurae coniunctionum quot sunt?",
+      "answer": "Duae.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Quae?",
+      "answer": "Simplex, ut nam, composita, ut namque.",
+      "derivation": "Follows 'duae'; interrogative quae lists the two figures. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De coniunctione)",
+      "type": "authorial-rhetorical",
+      "question": "Ordo coniunctionum in quo est?",
+      "answer": "Quia aut praepositiuae coniunctiones sunt, ut ac ast, aut subiunctiuae, ut que autem, aut communes, ut et igitur ergo.",
+      "derivation": "Interrogative in quo est. Whole answer retained to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Praepositio quid est?",
+      "answer": "Pars orationis quae praeposita aliis partibus orationis significationem earum aut complet aut mutat aut minuit.",
+      "derivation": "Interrogative quid est; full definition. Header 'DE PRAEPOSITIONE' stripped. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Praepositioni quot accidunt?",
+      "answer": "Unum.",
+      "derivation": "Interrogative quot. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Quid?",
+      "answer": "Casus tantum.",
+      "derivation": "Follows 'unum'; interrogative quid. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Quot?",
+      "answer": "Duo.",
+      "derivation": "Interrogative quot, asking how many cases. Single-word answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Qui?",
+      "answer": "Accusatiuus et ablatiuus.",
+      "derivation": "Follows 'duo'; interrogative qui names the two cases. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "In et sub quando accusatiuo casui iunguntur?",
+      "answer": "Quando uel nos uel quoslibet in locum ire isse ituros esse significamus.",
+      "derivation": "Interrogative quando. Full answer to the stop. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Quando ablatiuo?",
+      "answer": "Quando uel nos uel quoslibet in loco esse fuisse futuros esse significamus.",
+      "derivation": "Elliptical interrogative quando (casui iunguntur). Answer cut at the first full stop; the following Vergilian citation list ('in accusatiui casus, itur in antiquam siluam...') is illustrative digression and is omitted. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Super quam uim habet?",
+      "answer": "Ubi locum significat, magis accusatiuo casui seruit quam ablatiuo; ubi mentionem alicuius facimus, ablatiuo tantum, ut \"multa super Priamo rogitans\".",
+      "derivation": "Interrogative quam uim. Whole answer retained to the stop, including the embedded Vergilian phrase that is part of this reply. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "In quam uim habet?",
+      "answer": "Etiam tum accusatiuo casui seruit, cum significat contra, ut in adulterum, in desertorem.",
+      "derivation": "Interrogative quam uim. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Subter quam uim habet?",
+      "answer": "Eandem quam superiores ad locum et in loco significantes.",
+      "derivation": "Interrogative quam uim. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Quae praepositiones sunt quae dictionibus seruiunt et separari non possunt?",
+      "answer": "Di dis re se am con.",
+      "derivation": "Interrogative quae sunt. Full answer listing the inseparable prepositions. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Quae sunt quae coniungi non possunt?",
+      "answer": "Apud et penes.",
+      "derivation": "Interrogative quae sunt. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De praepositione)",
+      "type": "authorial-rhetorical",
+      "question": "Quae coniunguntur et separantur?",
+      "answer": "Reliquae omnes.",
+      "derivation": "Interrogative quae. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De interiectione)",
+      "type": "authorial-rhetorical",
+      "question": "Interiectio quid est?",
+      "answer": "Pars orationis significans mentis affectum uoce incondita.",
+      "derivation": "Interrogative quid est; full definition. Header 'DE INTERIECTIONE' stripped. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De interiectione)",
+      "type": "authorial-rhetorical",
+      "question": "Interiectioni quid accidit?",
+      "answer": "Tantum significatio.",
+      "derivation": "Interrogative quid accidit. Full answer. Capitalization normalized."
+    },
+    {
+      "locus": "Donatus, Ars Minor (De interiectione)",
+      "type": "authorial-rhetorical",
+      "question": "Significatio interiectionis in quo est?",
+      "answer": "Quia aut laetitiam significamus, ut euax, aut dolorem, ut heu, aut admirationem, ut papae, aut metum, ut attat, et siqua sunt similia.",
+      "derivation": "Interrogative in quo est. Whole answer retained to the stop. The Latin-Library footer ('The Miscellany / The Latin Library / The Classics Page') that follows is stripped as scaffolding. Capitalization normalized."
+    }
+  ]
+}

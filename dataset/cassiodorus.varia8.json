@@ -1,0 +1,12 @@
+{
+  "source": "text/cassiodorus/varia8.txt",
+  "pairs": [
+    {
+      "locus": "Cassiodorus, Variae 8.24.1",
+      "type": "authorial-rhetorical",
+      "question": "Quid simile rependat deo, qui potitur imperio?",
+      "answer": "Sed licet pro tanto munere nihil compensari possit idonee, ipsi tamen gratia redditur, dum in servientibus honoratur.",
+      "derivation": "Authorial self-posed question in the letter to the Roman clergy. Dropped the leading connective 'nam' before the interrogative and normalized capitalization; the question is the whole 'quid simile rependat deo, qui potitur imperio?'. The answer is the very next sentence (the 'sed... tamen' clause) which directly resolves the question (nothing can be worthily repaid, but thanks is rendered by honoring God in those who serve), ending at the first full stop. The preceding clause 'Tanto divinitati plurima debemus...' is setup and was left out as the question is self-contained; what follows the answer is '[2] Itaque flebili aditione causamini...', which begins the petition narrative and does not bear on the question."
+    }
+  ]
+}

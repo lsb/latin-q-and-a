@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/tusc2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Tusculanae Disputationes 2.14",
+      "type": "direct-speech",
+      "question": "Dolorem existimo maximum malorum omnium. Etiamne malus quam dedecus?",
+      "answer": "Non audeo id dicere equidem, et me pudet tam cito de sententia esse deiectam.",
+      "derivation": "The pupil (A.) states 'Dolorem existimo maximum malorum omnium'; the teacher (M.) asks the genuine interrogative 'Etiamne malus quam dedecus?' (even a worse evil than disgrace?). The pupil's own setup statement is kept as the window's start so 'malus' (the evil = pain) has a referent; both are verbatim and contiguous in source order. The answer is A.'s direct reply, which genuinely answers by declining to affirm it ('Non audeo id dicere'); it runs to the first full stop and is quoted whole. Stripped the section marker '14' that sits before 'Dolorem' in the source. No '...' joins; no words altered."
+    }
+  ]
+}

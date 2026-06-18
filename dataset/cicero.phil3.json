@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/phil3.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippics 3.19",
+      "type": "authorial-rhetorical",
+      "question": "Quae sunt perdita consilia?",
+      "answer": "An ea, quae pertinent ad libertatem populi Romani reciperandam?",
+      "derivation": "Cicero poses his own question 'Quae sunt perdita consilia?' (echoing Antony's edict word 'perditissimorum consiliorum') and answers it himself with the leading rhetorical reply 'an ea, quae pertinent ad libertatem populi Romani reciperandam?' The answer ends at the first full stop (here the '?'); the following sentence 'quorum consiliorum Caesari me auctorem... fateor' elaborates and is cut."
+    },
+    {
+      "locus": "Cicero, Philippics 3.20",
+      "type": "authorial-rhetorical",
+      "question": "Sed cum tam atroci edicto nos concitavisset, cur ipse non adfuit?",
+      "answer": "Vino atque epulis retentus, si illae epulae potius quam popinae nominandae sunt, diem edicti obire neglexit, in ante diem quartum Kalendas Decembres distulit.",
+      "derivation": "Cicero asks why Antony, having stirred everyone with so savage an edict, did not himself attend; the 'cum'-clause is kept so 'ipse' is intelligible. The answer skips the non-answering rhetorical interjection 'Num putatis aliqua re tristi ac severa?' and gives the operative answering sentence 'Vino atque epulis retentus... distulit', which directly states why he was absent; cut at its terminal full stop (the next sentence turns to the Capitoline meeting)."
+    }
+  ]
+}

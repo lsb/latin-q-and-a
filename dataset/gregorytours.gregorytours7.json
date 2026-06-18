@@ -1,0 +1,19 @@
+{
+  "source": "text/gregorytours/gregorytours7.txt",
+  "pairs": [
+    {
+      "locus": "Gregory of Tours, Historiae 7.22",
+      "type": "direct-speech",
+      "question": "Verum est somnium, quod vidisti, quod valde cogitatione meae concordat. Et quid providit cogitatio tua?",
+      "answer": "Deliberatum habui, ut, si me rex ab hoc loco iuberit extrahi, ab una manu pallas altaris tenerem, ab alia vero, evaginato gladio, te prius interfectum, quantuscumque deinceps clericos repperissem, in morte prosternerem.",
+      "derivation": "Eberulf, after Gregory recounts his dream, says 'Verum est somnium, quod vidisti, quod valde cogitatione meae concordat'; Gregory then asks 'Et quid providit cogitatio tua?'. The framing 'ait:' and 'Cui ego:' are dropped. The first sentence of Eberulf's reply is retained as setup so that 'cogitatio tua' has a referent ('cogitatione meae'). Answer drops the framing word 'inquid' (text reads \"'Deliberatum', inquid, 'habui...'\") and a stray pre-comma space, and stops at the first full stop ('...in morte prosternerem.'); the following sentence 'Nec mihi post haec erat iniuria...' is elaboration and is cut."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 7.39",
+      "type": "direct-speech",
+      "question": "Quid sic quasi fugiens venis?",
+      "answer": "Nihil, ut video, de fide promissa servatur; nam cerno me in mortis exitio positum.",
+      "derivation": "Leudegisel asks the fleeing Mummolus 'Quid sic, quasi fugiens venis?'; Mummolus answers explaining his fear. The framing word 'inquid' and the speech tag 'Cui ille:' are dropped, and terminal punctuation normalized. The answer is a single sentence (semicolon-joined), kept whole as the operative reply; the next line ('Cui ille. Ego egrediar foris...') belongs to Leudegisel and is not part of the answer."
+    }
+  ]
+}

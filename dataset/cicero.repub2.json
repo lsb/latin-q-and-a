@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/repub2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Re Publica 2.28",
+      "type": "direct-speech",
+      "question": "Verene hoc memoriae proditum est Africane, regem istum Numam Pythagorae ipsius discipulum aut certe Pythagoreum fuisse?",
+      "answer": "Falsum est enim Manili id totum, neque solum fictum sed etiam imperite absurdeque fictum.",
+      "derivation": "Manilius asks Scipio (speech tag 'inquit Manilius' dropped) whether it is truly recorded that Numa was Pythagoras's pupil; first-word capitalization normalized. The continuation 'saepe enim hoc de maioribus natu audivimus...neque vero satis id annalium publicorum auctoritate declaratum videmus' is supporting elaboration, not interrogative, so the question is bounded at the '?'. Answer: Scipio's reply ('tum Scipio:' and the interior 'inquit' framing dropped), taken to the first full stop ('...absurdeque fictum.'); what follows ('ea sunt enim demum non ferenda mendacia...') begins justifying argument."
+    },
+    {
+      "locus": "Cicero, De Re Publica 2.67",
+      "type": "direct-speech",
+      "question": "Prudentem fortasse quaeris?",
+      "answer": "Istum ipsum.",
+      "derivation": "Scipio has said he is seeking a certain man ('quem iandudum quaero et ad quem cupio pervenire'); Laelius asks whether he means the prudent man (speaker label '(Laelius)' dropped), and Scipio replies 'istum ipsum' ('that very one'), capitalization normalized and framing 'tum ille (Scipio):' dropped. Genuine interrogative directly answered; the following '(Laelius) est tibi ex eis ipsis qui adsunt bella copia...' turns to a new remark."
+    }
+  ]
+}

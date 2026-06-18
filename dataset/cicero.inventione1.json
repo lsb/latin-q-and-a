@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/inventione1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Inventione 1.51 (Aspasia and Xenophon's wife, on gold)",
+      "type": "direct-speech",
+      "question": "Dic mihi, quaeso, Xenophontis uxor, si vicina tua melius habeat aurum, quam tu habes, utrum illudne an tuum malis?",
+      "answer": "Illud.",
+      "derivation": "Within Cicero's reported Socratic dialogue (the inductio illustration), Aspasia asks the wife a genuine interrogative (utrum... an... malis?) and the wife answers 'Illud.' Dropped the trailing narration tag 'inquit'. The vocative address and plea 'Dic mihi, quaeso, Xenophontis uxor' are the speaker's own contiguous words, so kept."
+    },
+    {
+      "locus": "Cicero, De Inventione 1.51 (Aspasia and Xenophon's wife, on clothing and adornment)",
+      "type": "direct-speech",
+      "question": "Quid, si vestem et ceterum ornatum muliebrem pretii maioris habeat, quam tu habes, tuumne an illius malis?",
+      "answer": "Illius vero.",
+      "derivation": "Aspasia poses a real interrogative (tuumne an illius malis?) and the wife answers 'Illius vero.' Dropped the answer's narration tag 'Respondit:'. The question is quoted verbatim; nothing omitted internally."
+    },
+    {
+      "locus": "Cicero, De Inventione 1.52 (Aspasia and Xenophon, on the horse)",
+      "type": "direct-speech",
+      "question": "Quaeso, Xenophon, si vicinus tuus equum meliorem habeat, quam tuus est, tuumne equum malis an illius?",
+      "answer": "Illius.",
+      "derivation": "Aspasia asks Xenophon a genuine interrogative (tuumne... an illius?) and he answers 'Illius.' Dropped the interrupting and trailing narration tags 'inquit'. 'Quaeso, Xenophon' is the speaker's own contiguous utterance (plea + vocative), so kept."
+    },
+    {
+      "locus": "Cicero, De Inventione 1.52 (Aspasia and Xenophon, on the farm)",
+      "type": "direct-speech",
+      "question": "Quid, si fundum meliorem habeat quam tu habes, utrum tandem fundum habere malis?",
+      "answer": "Illum, meliorem scilicet.",
+      "derivation": "Aspasia poses a real interrogative (utrum... malis?) and Xenophon answers 'Illum... meliorem scilicet.' Dropped the interrupting narration tag 'inquit' that split the reply ('Illum,' inquit, 'meliorem scilicet'); the answer's own words are kept contiguous. The third question in this exchange (about the wife) is answered by silence ('Xenophon quoque ipse tacuit'), so it was dropped as non-answering."
+    }
+  ]
+}

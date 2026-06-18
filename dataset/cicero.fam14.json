@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/fam14.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Familiares 14.4",
+      "type": "authorial-rhetorical",
+      "question": "Cicero meus quid aget?",
+      "answer": "Iste vero sit in sinu semper et complexu meo.",
+      "derivation": "Self-posed-and-answered. Source: 'Quid? Cicero meus quid aget? iste vero sit in sinu semper et complexu meo.' Dropped the leading framing exclamation 'Quid?'; kept the operative interrogative 'Cicero meus quid aget?'. The reply directly answers it (what my Cicero will do: be ever in my embrace). Answer is the contiguous first sentence; capitalized 'iste'->'Iste' as presentation normalization. The neighboring questions in this letter (Rogem te ut venias? / Non rogem? / Sine te igitur sim?; quid Tulliola mea fiet?) were dropped: their follow-ups are anguished fragments or explicit deferrals ('iam id vos videte: mihi deest consilium') that do not actually answer."
+    }
+  ]
+}

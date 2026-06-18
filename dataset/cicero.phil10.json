@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/phil10.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippic 10.5",
+      "type": "authorial-rhetorical",
+      "question": "Eum Brutine similem malis an Antoni?",
+      "answer": "Di meliora!",
+      "derivation": "Cicero puts a direct question to Calenus: would he prefer his son like Brutus or like Antony. The framing verb 'Quaero igitur' is dropped as a speech-of-asking tag, and the parenthetical concession 'ac permitto, ut de tribus Antoniis eligas, quem velis' is omitted to keep the question contiguous and interrogative. The supplied reply 'Di meliora' (God grant better!) genuinely answers it; the trailing speech tag 'inquies' is dropped as framing. The single-quote marks and exclamation around 'Di meliora' are presentation, retained as the operative answer; what follows ('Cur igitur non iis faves...') turns to a fresh question and is excluded."
+    },
+    {
+      "locus": "Cicero, Philippic 10.15",
+      "type": "authorial-rhetorical",
+      "question": "At enim veteranis suspectum nomen est M. Bruti. Magisne quam Decimi?",
+      "answer": "Equidem non arbitror.",
+      "derivation": "The objection 'At enim veteranis suspectum nomen est M. Bruti' is kept as setup so the interrogative 'Magisne quam Decimi?' (More than Decimus's?) has its referent. Cicero answers his own question directly with 'Equidem non arbitror' (I think not). The answer ends at the first full stop; what follows ('Etsi est enim Brutorum commune factum...') elaborates rather than answers and is cut."
+    }
+  ]
+}

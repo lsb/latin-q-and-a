@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/corinthians1.txt",
+  "pairs": [
+    {
+      "locus": "1 Corinthians 9.18",
+      "type": "authorial-rhetorical",
+      "question": "Quae est ergo merces mea?",
+      "answer": "ut evangelium praedicans sine sumptu ponam evangelium ut non abutar potestate mea in evangelio",
+      "derivation": "Paul poses the question and answers it within the same verse. Question is the interrogative clause 'quae est ergo merces mea'; the answer is the contiguous remainder of v18 giving the content of that reward ('ut evangelium praedicans... in evangelio'). Nothing cut from the answer; it runs to the end of the verse, which closes the thought before v19 ('nam cum liber essem...') turns to a new point."
+    },
+    {
+      "locus": "1 Corinthians 15.35-36",
+      "type": "authorial-rhetorical",
+      "question": "Quomodo resurgunt mortui? quali autem corpore veniunt?",
+      "answer": "insipiens tu quod seminas non vivificatur nisi prius moriatur",
+      "derivation": "Paul voices an anticipated objector's two interrogatives and then answers them himself. The framing 'sed dicet aliquis' (\"but someone will say\") narrates the asking and is dropped. The two contiguous questions of v35 ('quomodo resurgunt mortui quali autem corpore veniunt') form the question. The answer is v36, the operative first response ('insipiens tu... nisi prius moriatur'), stopping at the full stop before v37 ('et quod seminas...') extends the agricultural elaboration."
+    }
+  ]
+}

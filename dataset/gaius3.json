@@ -1,0 +1,26 @@
+{
+  "source": "text/gaius3.txt",
+  "pairs": [
+    {
+      "locus": "Gaius, Institutiones 3.92",
+      "type": "direct-speech",
+      "question": "Dari spondes?",
+      "answer": "Spondeo.",
+      "derivation": "Gaius defines the verbal contract as arising ex interrogatione et responsione and gives a series of formulae (DARI SPONDES? SPONDEO, DABIS? DABO, ...). Dropped the framing clause 'Verbis obligatio fit ex interrogatione et responsione, uelut'; kept the first interrogation/response formula verbatim. Question is a genuine interrogative; answer directly responds. Normalized capitalization and terminal punctuation."
+    },
+    {
+      "locus": "Gaius, Institutiones 3.169",
+      "type": "direct-speech",
+      "question": "Quod tibi ego promisi, habesne acceptum?",
+      "answer": "Habeo.",
+      "derivation": "Gaius explains acceptilatio (imaginary payment) by quoting the spoken formula. Dropped the framing 'nam quod ex uerborum obligatione tibi debeam, id si uelis mihi remittere, poterit sic fieri, ut patiaris haec uerba me dicere:' before the question and 'et tu respondeas:' before the answer. The -ne marks a real interrogative; HABEO is the explicit response. Normalized capitalization and terminal punctuation."
+    },
+    {
+      "locus": "Gaius, Institutiones 3.198",
+      "type": "authorial-rhetorical",
+      "question": "Cum Titius seruum meum sollicitauerit, ut quasdam res mihi subriperet et ad eum perferret, et seruus id ad me pertulerit, ego, dum uolo Titium in ipso delicto deprehendere, permiserim seruo quasdam res ad eum perferre, utrum furti an serui corrupti iudicio teneatur Titius mihi, an neutro?",
+      "answer": "Neutro eum teneri.",
+      "derivation": "Authorial-rhetorical question and its resolution. Dropped the framing 'unde illud quaesitum [et probatum] est:' before the question (the whole conditional setup is kept verbatim and contiguous so 'utrum... an neutro?' has its referents). For the answer, dropped the framing word 'responsum' and ended the contiguous span at 'teneri', before the explanatory continuation 'furti ideo, quod non inuito me res contrectarit, serui corrupti ideo, quod deterior seruus factus non sit.' Normalized capitalization and terminal punctuation."
+    }
+  ]
+}

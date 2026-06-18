@@ -1,0 +1,12 @@
+{
+  "source": "text/caesar/bellafr.txt",
+  "pairs": [
+    {
+      "locus": "Bellum Africum 4",
+      "type": "direct-speech",
+      "question": "Unde istas?",
+      "answer": "Imperatore a Caesare.",
+      "derivation": "When the captive begins to hand over the letters, Considius asks the genuine interrogative 'Unde istas?' ('Where [did you get] those [letters]?'); the referent 'litteras' is established by the immediately preceding narration 'litterasque... Considio porrigere coepisset'. The captive answers directly: 'Imperatore a Caesare' ('From the commander Caesar'). Dropped the framing speech tags 'inquit' (in the question) and 'Tum captivus:' (before the answer) as narration of the exchange. Both utterances quoted verbatim and contiguous; capitalization and terminal '?' normalized."
+    }
+  ]
+}

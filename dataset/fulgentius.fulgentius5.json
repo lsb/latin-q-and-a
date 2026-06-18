@@ -1,0 +1,12 @@
+{
+  "source": "text/fulgentius/fulgentius5.txt",
+  "pairs": [
+    {
+      "locus": "Fulgentius, Expositio Virgilianae continentiae (on Aeneid 6, reincarnation)",
+      "type": "whole-speech-as-question",
+      "question": "O uatum Latialis autenta, itane tuum clarissimum ingenium tam stultae defensionis fuscare debuisti caligine? Tune ille qui dudum in bucolicis mystice persecutus dixeras: 'Iam redit et uirgo, redeunt Saturnia regna; iam noua progenies caelo promittitur alto', nunc uero dormitanti ingenio Academicum quippiam stertens ais: 'Sublimes animas iterumque ad tarda reuerti corpora'. Numquidnam oportuerat te inter tanta dulcia poma mora etiam ponere tuaeque luculentae sapientiae funalia caligare?",
+      "answer": "Si inter tantas Stoicas ueritates aliquid etiam Epicureum non desipissem, paganus non essem.",
+      "derivation": "Author's whole rebuke to Virgil is one extended interrogative (itane...? Tune ille...? Numquidnam oportuerat...?), quoted verbatim and contiguous; dropped the framing tag 'Ad haec ego:'; embedded verse quotations are part of the spoken utterance and kept inline. Answer: from Virgil's reply 'Ad haec ille subridens: \"Si, inquit, ...\"' the speech tag 'inquit' is dropped; window ends at the first full stop ('paganus non essem.'). Cut the continuation 'nullo enim omnia uera nosse contingit nisi uobis, quibus sol ueritatis inluxit...' which elaborates rather than answers."
+    }
+  ]
+}

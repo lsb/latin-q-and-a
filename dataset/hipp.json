@@ -1,0 +1,26 @@
+{
+  "source": "text/hipp.txt",
+  "pairs": [
+    {
+      "locus": "Plato, Hipparchus (Bekker ed.), opening exchange",
+      "type": "direct-speech",
+      "question": "Quidnam lucri cupiditas est? Et qui sunt lucri cupidi?",
+      "answer": "Mihi quidem videntur, qui lucrandum putant ex rebus nulla aestimatione dignis.",
+      "derivation": "Socrates' opening interrogative (two questions) answered by the friend. Stripped the speaker labels 'So.'/'Am.'. The friend's reply is a single sentence that genuinely answers 'qui sunt lucri cupidi'; kept whole, nothing follows within his turn."
+    },
+    {
+      "locus": "Plato, Hipparchus (Bekker ed.), the planting example",
+      "type": "direct-speech",
+      "question": "Quis peritus est circa plantarum dignitatem, qua in regione ac tempore plantare dignum sit?",
+      "answer": "Agricolam arbitror.",
+      "derivation": "Socrates' 'Quis'-question answered by the friend ('I think a farmer'). Stripped speaker labels. Cut Socrates' following parenthetical aside 'Ut aliquid et nos sapientum verborum, quibus elegantes causidici utuntur, in medium afferamus.', which is framing meta-comment and not part of the question."
+    },
+    {
+      "locus": "Plato, Hipparchus (Bekker ed.), on Hipparchus",
+      "type": "direct-speech",
+      "question": "Neque enim recte facerem, nisi viro bono et sapienti parerem. Cuinam? Aut quid hoc tandem?",
+      "answer": "Concivi meo et tuo, Hipparcho Pisistrati Philaedonici filio, qui filiorum Pisitrati et maior natu erat et sapientior, qui multa praeclara opera sapientiae edidit, et Homeri libros primus in hanc urbem invexit, coegitque poetas cantores carminum apud Athenienses referre per ordinem: quod etiam his temporibus observant.",
+      "derivation": "The friend's 'Cuinam?' question; widened the question window to include Socrates' preceding 'Neque enim recte facerem, nisi viro bono et sapienti parerem.' so 'Cuinam' (to whom) has a referent. Stripped speaker labels. Answer is the first sentence of Socrates' long reply, which identifies the person (Hipparchus); stopped at the first full stop after 'observant', dropping the ensuing biographical excursus that elaborates rather than answers."
+    }
+  ]
+}

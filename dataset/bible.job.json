@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/job.txt",
+  "pairs": [
+    {
+      "locus": "Job 1.7",
+      "type": "direct-speech",
+      "question": "Unde venis?",
+      "answer": "Circuivi terram et perambulavi eam.",
+      "derivation": "The Lord questions Satan and Satan answers. Dropped the framing speech tags 'cui dixit Dominus' before the question and 'qui respondens ait' before the answer; normalized capitalization and terminal punctuation (added '?' to the question, '.' to the answer)."
+    },
+    {
+      "locus": "Job 2.2",
+      "type": "direct-speech",
+      "question": "Unde venis?",
+      "answer": "Circuivi terram et perambulavi eam.",
+      "derivation": "Repetition of the same exchange in chapter 2: the Lord questions Satan and Satan answers. Dropped the framing 'ut diceret Dominus ad Satan' before the question and 'qui respondens ait' before the answer; normalized capitalization and terminal punctuation."
+    }
+  ]
+}

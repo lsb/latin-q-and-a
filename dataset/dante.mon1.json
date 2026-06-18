@@ -1,0 +1,12 @@
+{
+  "source": "text/dante/mon1.txt",
+  "pairs": [
+    {
+      "locus": "Monarchia 1.1.4",
+      "type": "authorial-rhetorical",
+      "question": "Nam quem fructum ille qui theorema quoddam Euclidis iterum demonstraret? qui ab Aristotile felicitatem ostensam reostendere conaretur? qui senectutem a Cicerone defensam resummeret defensandam?",
+      "answer": "Nullum quippe, sed fastidium potius illa superfluitas tediosa prestaret.",
+      "derivation": "Author poses three parallel rhetorical questions (sharing the gapped verb governing 'quem fructum') and answers them himself with 'Nullum quippe'. Question span is the three contiguous interrogative clauses; answer is the single following sentence that directly responds ('None indeed, but rather...'). No words altered, reordered, or invented; terminal punctuation normalized to '?'. Section marker '4.' stripped. Nothing was cut from the answer; the next sentence (1.5, 'Cumque, inter alias veritates...') turns to a new topic and is excluded."
+    }
+  ]
+}

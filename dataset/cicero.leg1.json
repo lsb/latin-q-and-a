@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/leg1.txt",
+  "pairs": [
+    {
+      "locus": "De Legibus 1.16",
+      "type": "direct-speech",
+      "question": "Quid ait Quintus?",
+      "answer": "Nulla de re magis.",
+      "derivation": "Marcus directly asks Quintus's opinion (a real interrogative); Quintus answers that he wishes to hear it about nothing more. Both utterances are short and complete; the speaker labels Marcvs:/Qvintvs: are dropped as scaffolding. No trimming needed; the answer is a single complete sentence that genuinely answers."
+    },
+    {
+      "locus": "De Legibus 1.55-56",
+      "type": "direct-speech",
+      "question": "Quamnam igitur sententiam dicimus?",
+      "answer": "Requiri placere terminos quos Socrates pepigerit, iisque parere.",
+      "derivation": "Quintus asks which view they state (real interrogative); Marcus answers with the view to be adopted (that the boundaries Socrates fixed should be sought and obeyed). Speaker labels Qvintvs:/Marcvs: and the section marker [56] dropped as scaffolding. Marcus's reply is a single complete sentence that directly answers; nothing trimmed."
+    }
+  ]
+}

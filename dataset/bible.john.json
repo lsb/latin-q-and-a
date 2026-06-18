@@ -1,0 +1,75 @@
+{
+  "source": "text/bible/john.txt",
+  "pairs": [
+    {
+      "locus": "John 1.48",
+      "type": "direct-speech",
+      "question": "Unde me nosti?",
+      "answer": "Priusquam te Philippus vocaret, cum esses sub ficu, vidi te.",
+      "derivation": "Nathanahel asks how Jesus knows him; Jesus answers directly. Dropped the speech tags 'Dicit ei Nathanahel:' and 'Respondit Iesus et dixit ei:'. Answer is the whole reply (a single sentence)."
+    },
+    {
+      "locus": "John 3.4-5",
+      "type": "direct-speech",
+      "question": "Quomodo potest homo nasci cum senex sit? Numquid potest in ventrem matris suae iterato introire et nasci?",
+      "answer": "Amen, amen dico tibi: nisi quis renatus fuerit ex aqua et Spiritu non potest introire in regnum Dei.",
+      "derivation": "Nicodemus's two-sentence question, quoted contiguously. Dropped 'Dicit ad eum Nicodemus:' and 'Respondit Iesus:'. Answer ends at the first full stop; what follows ('Quod natum est ex carne...') elaborates rather than answers, so it is cut."
+    },
+    {
+      "locus": "John 4.12-13",
+      "type": "direct-speech",
+      "question": "Numquid tu maior es patre nostro Iacob qui dedit nobis puteum et ipse ex eo bibit et filii eius et pecora eius?",
+      "answer": "Omnis qui bibit ex aqua hac sitiet iterum; qui autem biberit ex aqua quam ego dabo, ei non sitiet in aeternum.",
+      "derivation": "The Samaritan woman's interrogative (verse 12); the preceding verse 11 is non-interrogative complaint, so the question begins at 'Numquid'. Dropped 'Respondit Iesus et dixit ei:'. Answer is verse 13; the further metaphor of verse 14 ('Sed aqua quam dabo ei...') is elaboration and is cut."
+    },
+    {
+      "locus": "John 6.5-7",
+      "type": "direct-speech",
+      "question": "Unde ememus panes ut manducent hii?",
+      "answer": "Ducentorum denariorum panes non sufficiunt eis ut unusquisque modicum quid accipiat.",
+      "derivation": "Jesus asks Philip where to buy bread; Philip answers. Dropped 'dicit ad Philippum:' and 'Respondit ei Philippus:'. Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "John 6.28-29",
+      "type": "direct-speech",
+      "question": "Quid faciemus ut operemur opera Dei?",
+      "answer": "Hoc est opus Dei ut credatis in eum quem misit ille.",
+      "derivation": "The crowd asks what to do; Jesus answers. Dropped 'Dixerunt ergo ad eum:' and 'Respondit Iesus et dixit eis:'. Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "John 9.2-3",
+      "type": "direct-speech",
+      "question": "Rabbi, quis peccavit, hic aut parentes eius ut caecus nasceretur?",
+      "answer": "Neque hic peccavit neque parentes eius, sed ut manifestetur opera Dei in illo.",
+      "derivation": "The disciples' question about the blind man; Jesus answers. Dropped 'Et interrogaverunt eum discipuli sui:' and 'Respondit Iesus:'. Answer ends at the first full stop; the following verses ('Me oportet operari...') turn to broader teaching and are cut."
+    },
+    {
+      "locus": "John 11.26-27",
+      "type": "direct-speech",
+      "question": "et omnis, qui vivit et credit in me, non morietur in aeternum. Credis hoc?",
+      "answer": "Utique, Domine; ego credidi quia tu es Christus Filius Dei, qui in mundum venisti.",
+      "derivation": "Setup kept so 'hoc' has a referent: the clause Jesus has just spoken precedes 'Credis hoc?' verbatim and contiguous. Dropped 'Ait illi:' from Martha's reply, which is quoted in full."
+    },
+    {
+      "locus": "John 14.5-6",
+      "type": "direct-speech",
+      "question": "Domine, nescimus quo vadis; et quomodo possumus viam scire?",
+      "answer": "Ego sum via et veritas et vita. Nemo venit ad Patrem nisi per me.",
+      "derivation": "Thomas's question (kept whole including the 'nescimus quo vadis' setup that grounds the interrogative); Jesus answers. Dropped 'Dicit ei Thomas:' and 'Dicit ei Iesus:'. Answer ends before verse 7 ('Si cognovissetis me...'), which elaborates."
+    },
+    {
+      "locus": "John 18.37",
+      "type": "direct-speech",
+      "question": "Ergo rex es tu?",
+      "answer": "Tu dicis quia rex sum ego.",
+      "derivation": "Pilate's yes/no question; Jesus's affirming clause is the answer. Dropped 'dixit itaque ei Pilatus' and 'respondit Iesus'. Answer cut after 'rex sum ego'; what follows ('ego in hoc natus sum...') elaborates on his mission rather than answering the kingship question. First word capitalized, '?' supplied."
+    },
+    {
+      "locus": "John 20.15",
+      "type": "direct-speech",
+      "question": "Mulier, quid ploras? Quem quaeris?",
+      "answer": "Domine, si tu sustulisti eum, dicito mihi ubi posuisti eum et ego eum tollam.",
+      "derivation": "Jesus's question to Mary ('Quem quaeris?' is the operative interrogative, 'quid ploras' kept as contiguous setup); Mary answers, naming whom she seeks (the supposed body). Dropped 'dicit ei Iesus' and the narration 'illa existimans quia hortulanus esset dicit ei'. Punctuation supplied."
+    }
+  ]
+}

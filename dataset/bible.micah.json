@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/micah.txt",
+  "pairs": [
+    {
+      "locus": "Micah 6.3-4",
+      "type": "authorial-rhetorical",
+      "question": "Populus meus quid feci tibi et quid molestus fui tibi? responde mihi.",
+      "answer": "Quia eduxi te de terra Aegypti et de domo servientium liberavi te et misi ante faciem tuam Mosen et Aaron et Mariam.",
+      "derivation": "God poses an interrogative to his people (verse 3) explicitly demanding an answer ('responde mihi'), and answers it himself in verse 4. Question span is the whole of verse 3, contiguous and verbatim; only the first word capitalization and terminal punctuation normalized. Answer is the whole of verse 4 (a single contiguous sentence opening 'quia eduxi te'), which is the direct response giving what God did for them. Nothing cut at the end; the next verse (6:5) turns to a new imperative ('populus meus memento quaeso')."
+    },
+    {
+      "locus": "Micah 6.6-8",
+      "type": "authorial-rhetorical",
+      "question": "Quid dignum offeram Domino, curvem genu Deo excelso? numquid offeram ei holocaustomata et vitulos anniculos? numquid placari potest Dominus in milibus arietum aut in multis milibus hircorum pinguium? numquid dabo primogenitum meum pro scelere meo, fructum ventris mei pro peccato animae meae?",
+      "answer": "Utique facere iudicium et diligere misericordiam et sollicitum ambulare cum Deo tuo.",
+      "derivation": "Verses 6-7 are one extended worshipper's question about what to offer God (the recurring interrogative 'quid... numquid... numquid... numquid'); kept entire and contiguous as the question per whole-speech-as-question guidance, verbatim apart from capitalization and added question marks. The answer is in verse 8; I skipped the non-answering announcing preamble 'indicabo tibi o homo quid sit bonum et quid Dominus quaerat a te' (which only promises an answer) and advanced the start to the operative answering clause 'utique facere iudicium...', the contiguous span that actually states what God requires. Answer ends with verse 8; verse 9 begins a new oracle ('vox Domini ad civitatem clamat')."
+    }
+  ]
+}

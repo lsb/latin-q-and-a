@@ -1,0 +1,12 @@
+{
+  "source": "text/caeciliusbalbus.txt",
+  "pairs": [
+    {
+      "locus": "Pseudo-Caecilius Balbus, De Nugis Philosophorum 30 (Joa. Saresber. Policr. III.14)",
+      "type": "direct-speech",
+      "question": "Dic mihi adolescens, fuit umquam mater tua Romae?",
+      "answer": "Sed pater meus saepe.",
+      "derivation": "Stripped the section number '30.', the title line, and the trailing Latin-Library footer ('The Miscellany / The Latin Library / The Classics Page'). Dropped the narrative framing 'perductumque ad Caesarem interrogavit Augustus:' before the question and 'Negavit ille, nec contentus adiecit,' before the answer. Augustus asks a genuine direct interrogative ('fuit umquam mater tua Romae?') of the young man who looks just like him; the witty answer pivots to 'Sed pater meus saepe' (my father was often [in Rome]), implying Augustus's father's paternity. Answer is the speaker's verbatim direct utterance; the trailing narration 'Ioci itaque asperitate urbana...' is left out."
+    }
+  ]
+}

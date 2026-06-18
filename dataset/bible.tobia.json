@@ -1,0 +1,61 @@
+{
+  "source": "text/bible/tobia.txt",
+  "pairs": [
+    {
+      "locus": "Tobias 5.6-7",
+      "type": "direct-speech",
+      "question": "Unde te habemus bone iuvenis?",
+      "answer": "Ex filiis Israhel.",
+      "derivation": "Tobias greets the young man (the angel) and asks his origin. Dropped the framing 'salutavit eum et dixit' before the question and 'at ille respondit' before the answer; normalized capitalization and terminal punctuation. The reply is the direct answer to 'unde'."
+    },
+    {
+      "locus": "Tobias 5.7-8",
+      "type": "direct-speech",
+      "question": "Nosti viam quae ducit in regionem Medorum?",
+      "answer": "Novi et omnia itinera eius frequenter ambulavi et mansi apud Gabelum fratrem nostrum qui moratur in Rages civitate Medorum quae posita est in monte Exbathanis.",
+      "derivation": "Tobias asks whether the man knows the road to Media; the man answers. Dropped framing 'et Tobias dixit ei' before the question and 'cui respondit' before the answer. The whole reply is one elaboration of 'novi', kept contiguous to its full stop (verse end)."
+    },
+    {
+      "locus": "Tobias 5.14-15",
+      "type": "direct-speech",
+      "question": "Numquid poteris perducere filium meum ad Gabelum in Rages Medorum et cum redieris restituam tibi mercedem tuam?",
+      "answer": "Ego eum ducam et reducam ad te.",
+      "derivation": "Tobias asks (numquid) whether the man can guide his son. Dropped framing 'dixit itaque illi Tobias' before the question and 'et dixit ei angelus' before the answer. The reply directly answers the request."
+    },
+    {
+      "locus": "Tobias 5.16-18",
+      "type": "direct-speech",
+      "question": "Rogo te indica mihi de qua domo aut de qua tribu es tu?",
+      "answer": "Ego sum Azarias Ananiae magni filius.",
+      "derivation": "Tobias asks the angel his house/tribe. Dropped framing 'cui Tobias respondit' before the question and 'cui Rafahel angelus dixit' before the answer. Skipped the non-answering preamble of the reply ('genus quaeris mercennarii an ipsum mercennarium qui cum filio tuo eat sed ne forte sollicitum te reddam'), which deflects rather than answers; advanced the answer start to the operative naming sentence 'ego sum Azarias...'."
+    },
+    {
+      "locus": "Tobias 6.7-8",
+      "type": "direct-speech",
+      "question": "Obsecro te Azarias frater ut dicas mihi quod remedium habebunt ista quae de pisce servare iussisti?",
+      "answer": "Cordis eius particulam si super carbones ponas fumus eius extricat omne daemonium sive a viro sive a muliere ita ut ultra non accedat ad eos.",
+      "derivation": "Tobias asks what remedy the fish parts provide; the angel answers. Dropped framing 'tunc interrogavit Tobias angelum et dixit ei' before the question and 'respondensque dixit ei' before the answer. Kept the full reply (one continuous explanation) to its full stop at verse end."
+    },
+    {
+      "locus": "Tobias 6.10-11",
+      "type": "direct-speech",
+      "question": "Ubi vis ut maneamus?",
+      "answer": "Est hic Raguhel nomine propinquus vir de tribu tua et hic habet filiam nomine Sarram sed neque masculum neque feminam ullum habet alium praeter eam.",
+      "derivation": "A question about where to lodge, answered by the angel pointing to Raguhel. Dropped framing 'et dixit ei' before the question and 'respondensque angelus ait' before the answer. Kept the reply to its full stop (verse end), before the following imperative verses about marrying Sarra."
+    },
+    {
+      "locus": "Tobias 7.3",
+      "type": "direct-speech",
+      "question": "Unde estis iuvenes fratres nostri?",
+      "answer": "Ex tribu Nepthalim sumus ex captivitate Nineven.",
+      "derivation": "Raguhel asks the travelers their origin; they answer. Dropped framing 'et cum haec dixisset ait' before the question and 'at illi dixerunt' before the answer."
+    },
+    {
+      "locus": "Tobias 7.4",
+      "type": "direct-speech",
+      "question": "Nostis Tobiam fratrem meum?",
+      "answer": "Novimus.",
+      "derivation": "Raguhel asks whether they know Tobias; they answer. Dropped framing 'dixit illis Raguhel' before the question and 'qui dixerunt' before the answer."
+    }
+  ]
+}

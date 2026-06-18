@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/phil12.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippics 12.4",
+      "type": "direct-speech",
+      "question": "Paret senatui?",
+      "answer": "Credo; sed ita, ut teneat dignitatem.",
+      "derivation": "Cicero asks whether Antony obeys the senate; Calenus replies. Dropped the speech tag 'inquit Calenus' as framing, keeping the verbatim utterance 'Credo; sed ita, ut teneat dignitatem.' Answer ends at the full stop, before Cicero's own retort 'Valde hercules vobis laborandum est...'."
+    },
+    {
+      "locus": "Cicero, Philippics 12.27",
+      "type": "direct-speech",
+      "question": "Quem te appellem?",
+      "answer": "Voluntate hospitem, necessitate hostem.",
+      "derivation": "In the colloquy anecdote, Scato asks Sex. Pompeius by what name to address him; Pompeius answers. Dropped framing 'Quem cum Scato salutasset, ... inquit' before the question and 'At ille:' before the answer, keeping both utterances verbatim and contiguous."
+    }
+  ]
+}

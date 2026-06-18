@@ -1,0 +1,19 @@
+{
+  "source": "text/gregorytours/gregorytours1.txt",
+  "pairs": [
+    {
+      "locus": "Gregory of Tours, Historiae 1.47",
+      "type": "direct-speech",
+      "question": "Quid turbaris? Indica, quaeso, mihi.",
+      "answer": "Statueram enim, ut corpusculum meum inmaculatum Christo a virili tactu servarem, sed vae mihi! qui taliter ab eo relicta sum, ut quod obtabam perficere non valerem et quod ab initio aetatis meae servavi in hac novissima die, quam videre non debueram, perdidi.",
+      "derivation": "On their wedding night the husband (Iniuriosus) asks his weeping bride why she is troubled. Dropped the speech tag 'inquid' from the question. For the answer, skipped her opening rhetorical lament ('Si omnibus diebus vitae meae plangam, numquid tantae erunt lacrimae...dolorem?') which does not state the cause; began the answer at the operative sentence 'Statueram enim...' explaining her grief (she had vowed her body to Christ), and stopped at the first full stop after 'perdidi'. What follows ('Ecce enim relicta ab inmortali Christo...') is further elaboration/lament, omitted. Also dropped the speech tag 'Tunc illa conversa ad eum ait'."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 1.48",
+      "type": "authorial-rhetorical",
+      "question": "Cur post transitum Catiani episcopi unus tantum, id est Litorius, usque ad sanctum Martinum fuisset episcopus?",
+      "answer": "Obsistentibus paganis, diu civitas Toronica sine benedictione sacerdotale fuit.",
+      "derivation": "Authorial self-posed question. Stripped the framing 'Quod si quis requiret' before the question and 'noverit, quia' before the answer (both narrate the asking/answering rather than form part of either). Normalized capitalization and added a question mark to the question; capitalized the answer's first word. The question's words ('cur post transitum...fuisset episcopus') and the answer's words ('obsistentibus paganis, diu civitas Toronica sine benedictione sacerdotale fuit') are the author's, unaltered and in source order. The answer ends at its first full stop; what follows ('Nam qui christiani eo tempore videbantur...') is further explanation, omitted."
+    }
+  ]
+}

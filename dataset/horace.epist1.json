@@ -1,0 +1,26 @@
+{
+  "source": "text/horace/epist1.txt",
+  "pairs": [
+    {
+      "locus": "Horace, Epistles 1.16.30-32",
+      "type": "direct-speech",
+      "question": "Cum pateris sapiens emendatusque uocari, respondesne tuo, dic sodes, nomine?",
+      "answer": "Nempe uir bonus et prudens dici delector ego ac tu.",
+      "derivation": "Horace's interrogative respondesne...nomine? (-ne enclitic), with the cum-clause kept as verbatim setup so 'answering to your name' is intelligible. The parenthetical dic sodes is the author's own contiguous words, kept rather than excised mid-sentence. The interlocutor's quoted reply 'Nempe uir bonus...ac tu.' is the answer; it ends at the full stop, after which the text turns to Qui dedit hoc hodie (a new thought about Fortune), so the answer stops there."
+    },
+    {
+      "locus": "Horace, Epistles 1.16.40-43",
+      "type": "authorial-rhetorical",
+      "question": "Vir bonus est quis?",
+      "answer": "Qui consulta patrum, qui leges iuraque seruat, quo multae magnaeque secantur iudice lites, quo res sponsore et quo causae teste tenentur.",
+      "derivation": "Horace poses the interrogative Vir bonus est quis? (quis) and supplies a quoted definition as the answer. Answer runs to the full stop ending tenentur; the following Sed uidet hunc omnis domus (the rejoinder undercutting that definition) is a new movement, so the answer stops at tenentur."
+    },
+    {
+      "locus": "Horace, Epistles 1.16.73-75",
+      "type": "direct-speech",
+      "question": "Pentheu, rector Thebarum, quid me perferre patique indignum coges?",
+      "answer": "Adimam bona.",
+      "derivation": "The vir bonus (in the role of Bacchus) asks Pentheus the interrogative quid...coges?; the vocative Pentheu, rector Thebarum is part of his utterance and kept, while the speech tag Vir bonus et sapiens audebit dicere: is dropped as framing. Pentheus' reply 'Adimam bona.' directly answers; the window stops at that full stop, before the speaker's further retort 'Nempe pecus, rem...' begins."
+    }
+  ]
+}

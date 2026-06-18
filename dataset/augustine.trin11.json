@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/trin11.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Trinitate 11.10.17",
+      "type": "authorial-rhetorical",
+      "question": "Cogitare tamen quis non potest?",
+      "answer": "Facile est enim illam figuram quam uidendo cognouimus nigro colore perfundere quem nihilominus in aliis corporibus uidimus.",
+      "derivation": "Author asks (after \"Quis enim uidit cygnum nigrum? Et propterea nemo meminit.\") whether anyone is unable to imagine a black swan, then answers how it is done. The answer ends at the first full stop (\"...uidimus.\"); the following sentence \"et quia utrumque sensimus, utrumque meminimus\" elaborates and is cut. Dropped the preceding \"Quis enim uidit cygnum nigrum?\" because its reply \"Et propterea nemo meminit\" states a consequence rather than directly answering who has seen one."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "source": "text/bible/kings1.txt",
+  "pairs": [
+    {
+      "locus": "1 Kings 1.16-17",
+      "type": "direct-speech",
+      "question": "Quid tibi vis?",
+      "answer": "Domine mi tu iurasti per Dominum Deum tuum ancillae tuae Salomon filius tuus regnabit post me et ipse sedebit in solio meo.",
+      "derivation": "King David asks Bathsheba quid tibi vis (framing inquit dropped). Her reply opens quae respondens ait domine mi... — answer takes her first sentence stating his oath, ending at solio meo; what follows (et ecce nunc Adonias regnavit...) is further complaint, not the answer."
+    },
+    {
+      "locus": "1 Kings 2.13",
+      "type": "direct-speech",
+      "question": "Pacificusne ingressus tuus?",
+      "answer": "Pacificus.",
+      "derivation": "Bathsheba asks Adonias whether his coming is peaceful (pacificusne ingressus tuus). He answers qui respondit pacificus; framing qui respondit dropped."
+    },
+    {
+      "locus": "1 Kings 13.14",
+      "type": "direct-speech",
+      "question": "Tune es vir Dei qui venisti de Iuda?",
+      "answer": "Ego sum.",
+      "derivation": "The old prophet asks the man of God tune es vir Dei qui venisti de Iuda; he replies respondit ille ego sum, with framing respondit ille dropped."
+    },
+    {
+      "locus": "1 Kings 18.7",
+      "type": "direct-speech",
+      "question": "Num tu es domine mi Helias?",
+      "answer": "Ego.",
+      "derivation": "Abdias asks num tu es domine mi Helias; reply cui ille respondit ego — framing cui ille respondit dropped, answer is the single word ego."
+    },
+    {
+      "locus": "1 Kings 18.17-18",
+      "type": "direct-speech",
+      "question": "Tune es ille qui conturbas Israhel?",
+      "answer": "Non turbavi Israhel sed tu et domus patris tui qui dereliquistis mandata Domini et secuti estis Baalim.",
+      "derivation": "Ahab asks Elias tune es ille qui conturbas Israhel; Elias answers et ille ait non turbavi Israhel... (framing et ille ait dropped). Answer runs to the full stop after Baalim; the next verse (verumtamen nunc mitte...) turns to a command."
+    },
+    {
+      "locus": "1 Kings 20.14",
+      "type": "direct-speech",
+      "question": "Per quem?",
+      "answer": "Per pedisequos principum provinciarum.",
+      "derivation": "Ahab asks per quem (sc. shall the Lord deliver them). The reply dixitque ei haec dicit Dominus per pedisequos principum provinciarum answers per pedisequos principum provinciarum; the prophetic framing dixitque ei haec dicit Dominus is dropped."
+    },
+    {
+      "locus": "1 Kings 20.14",
+      "type": "direct-speech",
+      "question": "Quis incipiet proeliari?",
+      "answer": "Tu.",
+      "derivation": "Ahab's second question quis incipiet proeliari is answered et ille dixit tu; framing et ille dixit dropped, answer is tu."
+    }
+  ]
+}

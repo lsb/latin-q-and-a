@@ -1,0 +1,19 @@
+{
+  "source": "text/innocent1.txt",
+  "pairs": [
+    {
+      "locus": "Innocent III, De Miseria Condicionis Humane 2.7 (Quare cupidus saciari non potest)",
+      "type": "authorial-rhetorical",
+      "question": "Vis, o cupide, scire quare semper es vacuus et nunquam impleris?",
+      "answer": "Non est plena mensura que, quantumcumque contineat, adhuc capax est amplioris.",
+      "derivation": "The author poses a genuine interrogative to the greedy man (why are you always empty and never filled?) and answers it himself. Dropped the framing word 'Adverte:' which introduces the reply but is not part of the answer; advanced the answer's start to the operative answering sentence. The answer ends at its first full stop; what follows ('Set humanus animus capax est Dei...') elaborates the theological point. Section header '[7] QUARE CUPIDUS SACIARI NON POTEST' stripped as scaffolding. Capitalized 'Non' (was mid-sentence after the colon)."
+    },
+    {
+      "locus": "Innocent III, De Miseria Condicionis Humane 2.28 (Exemplum de ambicioso, quoting 2 Samuel 15)",
+      "type": "direct-speech",
+      "question": "De qua civitate es tu?",
+      "answer": "Ex una tribu Israel ego servus tuus.",
+      "derivation": "Within the Absalon exemplum (quoted from Scripture), Absalon asks a real interrogative ('De qua civitate es tu?') and the petitioner answers directly, naming his origin. Dropped the framing 'vocabat ad se et dicebat' before the question and 'Qui, respondens, aiebat' before the answer. Both utterances quoted verbatim. The surrounding section marker '[28] EXEMPLUM DE AMBICIOSO' and the author's quotation marks are stripped as presentation; the words are the author's own (verbatim quotation)."
+    }
+  ]
+}

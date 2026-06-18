@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/att7.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Atticum 7.5.4",
+      "type": "direct-speech",
+      "question": "Quid senties igitur?",
+      "answer": "Nihil scilicet nisi de sententia tua nec prius quidem quam nostrum negotium aut confecerimus aut deposuerimus.",
+      "derivation": "Cicero quotes Atticus's imagined objection (framing 'inquis' = 'you say' dropped) and answers it directly. Answer ends at the first full stop ('deposuerimus.'); what follows ('cura igitur ut valeas...') turns to the letter's sign-off and so is excluded."
+    },
+    {
+      "locus": "Cicero, Ad Atticum 7.6.2",
+      "type": "direct-speech",
+      "question": "Quid tu igitur sensurus es?",
+      "answer": "Non idem quod dicturus.",
+      "derivation": "Imagined Atticus's question, with the framing 'dices' ('you will say') dropped, answered by Cicero. The direct answer is 'non idem quod dicturus'; cut before the semicolon, where the reply turns to elaboration ('sentiam enim omnia facienda ne armis decertetur dicam idem quod Pompeius neque id faciam humili animo')."
+    },
+    {
+      "locus": "Cicero, Ad Atticum 7.7.7",
+      "type": "direct-speech",
+      "question": "Quid ergo facturus es?",
+      "answer": "Idem quod pecudes quae dispulsae sui generis sequuntur greges.",
+      "derivation": "Imagined Atticus's question (framing 'inquis' dropped, as is the preceding statement-and-retort 'depugna potius quam servias' / 'Vt quid?...' which is not a Q&A). Answer ends at the first full stop ('greges.'); the following 'Vt bos armenta sic ego...' elaborates the simile and is cut."
+    },
+    {
+      "locus": "Cicero, Ad Atticum 7.9.1",
+      "type": "direct-speech",
+      "question": "Cotidiene a te accipiendae litterae sunt?",
+      "answer": "Si habebo cui dem, cotidie.",
+      "derivation": "Imagined Atticus's question (framing 'inquis' dropped) opening the letter, answered directly by Cicero. Answer ends at the first full stop ('cotidie.'); the following 'at iam ipse ades.' / 'tum igitur cum venero desinam.' is a separate statement-and-reply, not a question, so it is excluded."
+    }
+  ]
+}

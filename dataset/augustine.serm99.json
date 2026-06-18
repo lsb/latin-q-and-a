@@ -1,0 +1,26 @@
+{
+  "source": "text/augustine/serm99.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 99.3",
+      "type": "authorial-rhetorical",
+      "question": "Quid est, \"sitio?\"",
+      "answer": "Desidero fidem tuam.",
+      "derivation": "Augustine quotes the Lord's word to the Samaritan woman (\"sitio\") and then poses and answers his own question about its meaning. The setup \"sicut et illi mulieri Samaritanae dixit, sitio\" is narration of the saying and is dropped; the question span is the interrogative \"quid est, sitio?\" The answer is the gloss \"desidero fidem tuam,\" which directly supplies the meaning; it stops there before \"dicuntur ergo uerba domini in hac similitudine,\" which moves on to the parable."
+    },
+    {
+      "locus": "Augustine, Sermo 99.3",
+      "type": "direct-speech",
+      "question": "Debebat unus quinquaginta denarios, alius quingentos, donauit ambobus: quis eum plus dilexit?",
+      "answer": "Credo, domine, cui plus donauit.",
+      "derivation": "The Lord's parable of the two debtors put as a direct question to Simon. The framing tag \"inquit\" inside the quotation is dropped (\"debebat unus, inquit, quinquaginta\" becomes \"Debebat unus quinquaginta\"); the question ends at its interrogative \"quis eum plus dilexit?\" The answer drops the narration \"respondit cui similitudo proposita erat, quod respondere utique ratio compellebat\" and quotes the reply verbatim; the interjected vocative position of \"domine\" is preserved as in the source (\"credo, domine, cui plus donauit\"). The reply stops at \"donauit,\" before \"et attendens ad mulierem, dixit ad Simonem,\" which begins a new speech."
+    },
+    {
+      "locus": "Augustine, Sermo 99.10 (Acts 8.36-37)",
+      "type": "direct-speech",
+      "question": "Si credis in Iesum Christum?",
+      "answer": "Credo filium dei esse Iesum Christum.",
+      "derivation": "Philip's question to the eunuch and the eunuch's confession of faith. The speech tag \"ait illi Philippus\" before the question and \"respondit ille\" before the answer are dropped as narration of the exchange. The question is Philip's conditional interrogative; the answer is the eunuch's reply, which directly answers it and stops there, before \"continuo descendit cum illo in aquam,\" which resumes narration."
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "source": "text/gregdecretals1.txt",
+  "pairs": [
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. III (De rescriptis) c. 1 (Alexander III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, si alicuius causa inter aliquos delegatis iudicibus sublato remedio appellationis committitur, et literis apostolicis altera pars munita, quibus ei generaliter est indultum, ut libere sibi liceat appellare, si in vocem appellationis proruperit, an eius in eadem causa debeat appellationi deferri?",
+      "answer": "Eius in hac parte appellatio non debet admitti, postquam est causa iudicibus appellatione remota commissa, quia speciale mandatum derogat generali.",
+      "derivation": "Dropped the asking-frame 'Sane Quaesitum est a nobis ex parte tua,' and the answer-frame 'Huic igitur Inquisitioni tuae praesentibus literis taliter respondemus, quod'. Answer is the single response sentence; the chapter then closes with the editorial cross-reference '[Praeterea etc. cf. c. 5. ...]', which is omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. III (De rescriptis) c. 4 (Alexander III)",
+      "type": "authorial-rhetorical",
+      "question": "Quid tenere debeas, quum aliqua sub disiunctione mandantur, quorum unum verum est, alterum falsum, utputa si proponatur, quod si talis sit sacerdotis filius, et in sacerdotio genitus, qui proximo in tali ecclesia ministravit, vel quod illicite ecclesiam occupavit eandem?",
+      "answer": "Convenit, iudici quodcunque istorum constiterit, illi praelibatam ecclesiam adiudicari debere.",
+      "derivation": "Dropped the asking-frame 'Inter ceteras consultationes tuas [id nobis] fuit propositum coram nobis,' and the answer-frame 'Huic ergo quaestioni taliter respondemus, quod'. Stopped before the elaboration 'Et idem in similibus observandum est' and the closing cross-reference '(cf. c. 8. ...)'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. III (De rescriptis) c. 8 (Lucius III)",
+      "type": "authorial-rhetorical",
+      "question": "Plerumque decani, archidiaconi, praecentores vel alii ecclesiasticis praediti dignitatibus, super minoribus beneficiis per interpositas personas literas impetrantes, nomen supprimunt dignitatis suae, et simplici nomine se appellant, tanquam non habeant aliquem personatum; si fraus ista tacendi praeiudicium eis debeat generare?",
+      "answer": "Literas, in quibus actor suae nomen dignitatis supprimit, vires nolumus aliquas obtinere.",
+      "derivation": "Kept the descriptive setup so 'fraus ista' has a referent; dropped the reporting-frame 'Ad aures nostras te significante pervenit, quod' and 'ideoque rescripto nostro postulas edoceri,'. Answer drops the frame 'Consultationi igitur tuae taliter respondemus, quod, quum non sit intentionis nostrae, ut personae pluribus reditibus abundantes per literas nostras pauperes clericos super minoribus beneficiis inquietent,' (a reasoning preamble) and keeps the operative response. Closing 'Postremo etc.' cross-reference omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. III (De rescriptis) c. 11 (Alexander III)",
+      "type": "direct-speech",
+      "question": "H. de sancto Stephano super absolutione sua literas tibi, ut prima facie videbantur, apostolicas praesentavit, quas, quoniam habuisti suspectas, nec de cancellaria ecclesiae Romanae emanasse putasti, ad nos remittere curavisti, consulens apostolatum nostrum, utrum occasione ipsarum literarum praefatum virum habere debeas absolutum?",
+      "answer": "Quibus quoniam manifestum continent in constructione peccatum, fidem te nolumus adhibere.",
+      "derivation": "Kept the narrative setup so 'ipsarum literarum' has a referent; dropped the meta 'unde devotionem tuam in Domino commendamus,'. The bishop's reported consultation is the question; the pope's reply directly answers it (do not credit the letters)."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. III (De rescriptis) c. 13 (Coelestinus III)",
+      "type": "authorial-rhetorical",
+      "question": "De qua impotentia illud intelligatur, quod in literis nostris saepe consuevit apponi, ut si duo vel tres, vel etiam plures, quibus literae diriguntur, ipsis exsequendis simul interesse nequiverint, unus aut plures eorum, quibus scribitur, nihilominus exsequantur?",
+      "answer": "Tam de iure quam de facto illa impotentia censeatur.",
+      "derivation": "Dropped the asking-frame 'Sciscitatus es a nobis petitorio destinato,' and the answer-frame 'Nos vero in hoc ita sentimus, quod'. Answer is the operative first response; the subsequent 'De iure... de facto...' clauses elaborate the two cases and are omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. III (De rescriptis) c. 14 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Quando de revocatione literarum ambigitur, utrum iudices priores, an posteriores cognoscere debeant, et utrum per secundas sint primae literae revocatae?",
+      "answer": "Nisi posteriores prioribus, vel e converso duxerint deferendum, simul utrique cognoscant, et, si forte nequiverint simul in unam sententiam concordare, quamvis plures sint ex una parte quam ex altera, per arbitros communiter electos a partibus huiusmodi concertatio sopiatur.",
+      "derivation": "Dropped the asking-frame 'Praeterea quaesivisti,' and the answer-frame 'Ad quod tibi respondemus, quod'. This is the first of two questions in the chapter; the second ('an iudex ... habeat potestatem ...') was left out to keep a clean single pair."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. VI (De electione) c. 33 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Cuiusdam ecclesiae decano defuncto, eiusdem loci capitulum sub hac forma in septem ex ipsis canonicis compromisit, ut illum, quem ex se vel aliis de gremio ipsius ecclesiae omnes pariter, vel maior eorum pars nominaret, idem capitulum reciperet in decanum; quum unus ex illis septem a tribus ipsorum, et alius, qui non erat de numero eorundem, a tribus aliis in decanum fuerint nominati, uter eorum assumi debeat a capitulo in decanum?",
+      "answer": "Is, qui de numero septem a tribus eorum dignoscitur nominatus, iuxta compromissi tenorem debet in decanum assumi, dummodo electioni de se factae consentiat, et aliquod canonicum non obsistat.",
+      "derivation": "Kept the case setup (the compromissum and the two nominations) so the question is intelligible; dropped the framing 'Primus siquidem tuae consultationis articulus continebat, quod' and 'Unde ... requisisti,' and the answer-frame 'Super quo tibi taliter respondemus, quod'. Closing 'Praeterea etc.' cross-reference omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. VIII (De auctoritate et usu pallii) c. 2 (Coelestinus III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum liceat tibi pallium tuum metropolitano alii commodare, si contigerit, ipsum sine pallio suo ad ecclesiam tibi commissam in aliqua praecipua solennitate venire, et in eadem ecclesia missarum solennia celebrare?",
+      "answer": "Non videtur esse conveniens, ut pallium tuum alicui commodes, quum pallium personam non transeat, sed quisque cum eo debeat, sicut tua novit discretio, sepeliri.",
+      "derivation": "Dropped the asking-frame 'Ad hoc, quia quaesitum est a nobis ex parte tua,' and the interjected 'licet exinde nos non recolamus expressum canonem invenisse, super hoc tamen Inquisitioni tuae taliter respondemus, quod'. Answer is the single response sentence."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XI (De temporibus ordinationum) c. 3 (Alexander III)",
+      "type": "authorial-rhetorical",
+      "question": "An liceat extra ieiunia quatuor temporum aliquos in ostiarios, lectores, exorcistas, vel acolythos promovere, aut etiam subdiaconos promovere?",
+      "answer": "Licitum est episcopis, dominicis et aliis festivis diebus unum aut duos ad minores ordines promovere; sed ad subdiaconatum, nisi in quatuor temporibus, aut in sabbato sancto, vel in sabbato ante dominicam de passione, nulli episcoporum, praeterquam Romano Pontifici, licet aliquos ordinare.",
+      "derivation": "Dropped the asking-frame 'De eo autem, quod quaesivisti,' and the answer-frame 'prudentiae tuae taliter respondemus, quod'. Answer is the full single response sentence."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XI (De temporibus ordinationum) c. 5 (Lucius III)",
+      "type": "authorial-rhetorical",
+      "question": "Religiosi quidam zelum Dei habentes ad superiores desiderant ordines promoveri, putantes, maius praemium cumulandum, quo in maiore gradu positi sublimius officium fuerint exsecuti; sed praelati eorum desideriis contradicunt. An in inferioribus ordinibus constituti iuxta beneplacitum suorum praelatorum, quibus promotio displicet, a superioribus debeant abstinere, an valeant praelatis suis renitentibus promoveri?",
+      "answer": "Honestius et tutius est subiectis debitam praepositis obedientiam impendendo in inferiori ministerio deservire, quam cum praepositorum scandalo graduum appetere dignitatem.",
+      "derivation": "Kept the setup describing the religiosi and their resisting prelates so the question is intelligible; dropped the reporting-frame 'Ad aures nostras te significante pervenit, quod' and the asking-frame 'Ideoque tua duxit fraternitas requirendum,'. Answer stops at the operative first sentence; the following 'Nec est in hac parte ...' is elaboration and omitted. Answer-frame 'Tuae igitur quaestioni taliter respondemus, quod' dropped."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XVI (De temporibus ordinationum et qualitate ordinandorum) c. 2 (Honorius III)",
+      "type": "authorial-rhetorical",
+      "question": "Quid fieri debeat de mortuorum corporibus, qui tempore schismatici et reprobi Waldemarii a schismaticis sunt sepulti, et de indumentis sacerdotalibus, cum quibus, nec non de altaribus, in quibus degradati presbyteri celebrarunt?",
+      "answer": "Non credimus, ob hoc duntaxat sepultos huiusmodi exhumandos, aut debere indumenta talia iterum benedici, vel reconsecrari altaria supradicta.",
+      "derivation": "Dropped the asking-frame 'A nobis humiliter quaesivistis,' and the answer-frame 'Nos autem inquisitioni vestrae breviter respondemus, quod'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XVII (De filiis presbyterorum) c. 5 (Alexander III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum tibi liceat spurios et servos ad ordines promovere?",
+      "answer": "Neque spurios, neque servos ordinare debes.",
+      "derivation": "Dropped the asking-frame 'Consuluit nos tua fraternitas,' and the answer-frame 'super quo utique Consultationi tuae taliter respondemus, quod'. Answer is the operative clause; the supporting quotation 'et, si memor es, in consecratione tibi dictum fuit: ...' is omitted as elaboration."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XVII (De filiis presbyterorum) c. 6 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "An illorum filii, qui ecclesiae servili conditione tenentur, traditi a parentibus militiae clericali cum suorum conniventia dominorum, ut Deo in eadem cuius sunt, ecclesia debeant deservire, assequentes propterea libertatem, post tempus, ea relicta, possint ad aliam se transferre?",
+      "answer": "In quo capitulo credimus distinguendum, utrum eo tenore fuerint manumissi et obligati ordini clericali, quod manumittenti ecclesiae, dum vixerint, deberent impendere famulatum in obsequiis divinorum, et tunc transferendi se ad aliam est eis licentia deneganda; vel manumissi exstiterint absolute, sicque libertatem habeant ad aliam transeundi.",
+      "derivation": "Dropped the asking-frame 'Adiecisti aliam quaestionem,'. The answer resolves the question by a distinction (two contiguous cases), kept whole; closing date-line omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XX (De corpore vitiatis ordinandis vel non) c. 6 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "I. quondam praedecessor tuus H. in abbatem promovit, nesciens, quod ipse esset manu altera mutilatus. Quia vero abbas ipse noscitur sinistra carere, quid super hoc agendum sit?",
+      "answer": "Quum pro tam enormi defectu ad sacros non possit ordines promoveri, et ipse in promotione sua id tacuerit fraudulenter, ab abbatiae officio est non immerito amovendus.",
+      "derivation": "Kept the case setup so 'hoc' has a referent; dropped the asking-frame 'Exposuisti nobis in nostra praesentia constitutus, quod' and 'nostra voluisti responsione doceri,' and the answer-frame 'Nos igitur fraternitati tuae taliter respondemus quod'. Closing date-line omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXI (De bigamis non ordinandis) c. 2 (Lucius III)",
+      "type": "authorial-rhetorical",
+      "question": "Quid faciendum sit de bigamis?",
+      "answer": "Ordinatores eorum potestate et officio ordinandi, et ordinati, si ad sacros ordines fuerint promoti, ordinibus eis ideo sunt privandi, quia in bigamis contra Apostolum dispensare non licet, ut debeant ad sacros ordines promoveri, vel in eis, si promoti fuerint, possint aliquatenus remanere.",
+      "derivation": "Dropped the asking-frame 'Super eo, quod a nobis tua fraternitas ... requisivit,' and the answer-frame 'inquisitioni tuae taliter respondemus, quod'. Answer stops at the first full stop; the following sentence on the ordainer ('In ordinatore autem ...') is omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXII (De clericis peregrinis) c. 2 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum clericos ad te sine suorum ordinatorum literis venientes, et offerentes praestare corporaliter iuramentum, quod sint in quovis ecclesiasticorum ordinum constituti, debeas ad superiores ordines promovere?",
+      "answer": "Nisi de ipsorum ordinatione canonica per idonea tibi constiterit argumenta, eos nec in illis suscipere, nec ad maiores debes ordines promovere, praesertim antequam conversatio eorum fuerit approbata.",
+      "derivation": "Dropped the asking-frame 'Consuluit nos iterum tua fraternitas,' and the answer-frame 'Nos igitur Inquisitioni tuae taliter respondemus, quod'. Opening 'Inter quatuor (Et infra: ...)' cross-reference and closing date-line omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXII (De clericis peregrinis) c. 3 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum clericos illos, qui ad partes Hierosolymitanas sine commendatitiis literis veniunt, permittere debeas celebrare divina, quum plerique illorum, de quorum canonica ordinatione non constat, statim ut veniunt, praesumunt, non expetita licentia, celebrare?",
+      "answer": "Nisi legitime tibi constiterit, sive per literas sive per testes, de illorum ordinatione canonica, qui penitus sunt ignoti, non debes ipsos permittere in tuis plebibus celebrare; sed si forsitan eorum aliqui secreto ex devotione celebrare voluerint, poteris sustinere.",
+      "derivation": "Dropped the asking-frame 'Tuae fraternitatis discretio postulavit per sedem apostolicam edoceri,' and the answer-frame 'Nos autem tuam in Domino sollicitudinem commendantes super primo articulo Respondemus, quod'. Closing 'Super secundo etc.' cross-reference omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIII (De officio archidiaconi) c. 7 §1 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ad officium archidiaconi debeat pertinere, et in quibus per ipsum cura episcopalis sollicitudinis debeat relevari?",
+      "answer": "Archidiaconus secundum statuta B. Isidori imperat subdiaconibus et Levitis; parochiarum sollicitudo et earum ordinatio ad ipsum pertinet, et audire debet iurgia singulorum.",
+      "derivation": "Dropped the asking-frame 'Sane consuluit nos tuae fraternitatis devotio,' and the answer-frame 'Et nos, prout possumus, respondemus, quod'. Answer is the §1 response; the further sections §2-§5 elaborate the archdeacon's office and are omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIII (De officio archidiaconi) c. 7 §6 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum decani rurales, qui pro tempore statuuntur, ad mandatum tuum solum, vel archidiaconi, vel etiam utriusque institui debeant vel destitui, si fuerint amovendi?",
+      "answer": "Quum iuxta imperialis sanctionis auctoritatem ab omnibus quod omnes tangit approbari debeat, et quum commune eorum decanus officium exerceat, communiter est eligendus, vel etiam amovendus.",
+      "derivation": "Dropped the asking-frame 'Subsequenter postea quaesivisti,' and the answer-frame 'Ad hoc breviter respondemus, quod'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 9 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Usque ad quod tempus iudex delegatus partes suas possit interponere, ut stetur rei iudicatae vel transactioni?",
+      "answer": "Ex quo iudex delegatus per se, vel per alium, si potuerit, sententiam exsecutioni mandavit vel mandari praecepit, eius auctoritas et iurisdictio cessat, quia semel est officio suo functus.",
+      "derivation": "Dropped the asking-frame 'In literis, quas tua nobis destinavit fraternitas, quaestiones quasdam inseruisti ... quarum siquidem una est, scilicet' and the answer-frame 'Super quo utique Consultationi tuae taliter respondemus, quod'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 10 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, si aliquis ecclesia vel possessione qualibet se asseverans absque iudicio et causa rationabili spoliatum, et a nobis ad iudices literas obtinuerit, ut infra certum tempus restituatur sibi possessio, si constiterit iudici, eum esse taliter spoliatum, possessio debeat ei restitui, quum is, qui tenet ecclesiam vel possessionem, quam ipse requirit, antequam de literis ipsis aliqua mentio fieret, studiorum vel peregrinationis, vel alia huiusmodi causa se absentaverit, nec infra tempus praefixum iudici possit suam praesentiam exhibere?",
+      "answer": "Nec potest, nec debet restitutionem habere, quamvis paratus sit coram iudice delegato testibus idoneis possessionem et deiectionem suam probare, nisi is, qui possidet, se per contumaciam absentasset.",
+      "derivation": "Dropped the asking-frame 'Quaesitum est a nobis siquidem,' and the answer-frame 'Super quo utique inquisitioni tuae taliter respondemus, quod'. Answer ends at the first full stop; the following sentence about prorogation ('Si autem iudex ...') addresses a different scenario and is omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 11 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Qualiter a nobis iudex delegatus episcopum, qui ei non subest, ad aliquid faciendum vel dandum compellere debeat, quum causam, quae inter episcopum et clericum vel laicum vertitur, de mandato nostro suscipit terminandam?",
+      "answer": "Iudex a nobis delegatus vices nostras gerit, unde in causa illa superior est, et maior illis, quorum causam suscepit terminandam.",
+      "derivation": "Dropped the asking-frame 'Sane quia nos inprimis consulere voluisti,' and the answer-frame 'id Tuae quaestioni duximus respondendum, quod'. Answer is the operative first sentence; the following 'Ideoque, si episcopus ...' elaborates remedies and is omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 13 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, quum causam aliquam sub certa forma committimus, iudices delegati ita formam sibi commissam debeant sequi, quod rationabiles exceptiones non admittant?",
+      "answer": "Et si quando iudici delegato expediat formam sibi statutam servare, debet tamen rationabiles exceptiones admittere, et in causa iuxta iuris aequitatem procedere, nisi exprimatur in literis nostris, quod nullae debeant exceptiones admitti.",
+      "derivation": "Dropped the asking-frame 'Ex parte tua quaesitum est a nobis,' and the answer-frame 'Super quo Quaestioni tuae taliter respondemus, quod'. Answer ends at the first full stop; the following 'Quod nec nos, nec antecessores nostros ...' is elaboration and omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 18 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum ad te pertineat, sententiam in causis, quam iudices in tua provincia delegati a nobis protulerunt, confirmare, licet de causis ipsis nil in tua praesentia sit tractatum?",
+      "answer": "Sententiam ipsam non teneris, nisi volueris, confirmare; sed id tibi ex officii debito noveris imminere, ut, si ad mandatum illorum iudicum sententia non possit exsecutioni mandari, eis praestes auxilium et favorem, et ipsam, si noveris eam rationabiliter latam, poteris confirmare.",
+      "derivation": "Dropped the asking-frame 'Quum te consulente postulas edoceri,' and the answer-frame 'consultationi tuae praesentibus literis respondemus, quod'; stripped the editorial brackets around 'ipsis' (keeping the word). The following 'Item Si super causa ...' is a separate question and is omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 21 (Coelestinus III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, quum tribus vel pluribus causa committitur ita, quod si omnes interesse nequiverint, duo eam nihilominus exsequantur, si reus a duobus tantum fuerit convocatus, venire necessario teneatur; et si citatus fuerit a duobus tantum seu a pluribus, et coram duobus comparuerit, tertio aut ulteriori nec veniente per se, vel per literas, ut solet fieri excusante, an duo praesentes in causa possint procedere, et eam definire et sententiae calculo terminare?",
+      "answer": "Quum aliquis delegatorum iudicium per certum nuncium vel excusatorem literatorie destinatum non ostenderit, se interesse non posse, vel alias de eodem canonice constare non poterit, residui procedere ad causae cognitionem non debent.",
+      "derivation": "Dropped the asking-frame 'Quinto insuper loco supplicas informari,' and stripped the editorial bracket around 'et'. Answer-frame 'In hoc casu taliter respondemus, quod' dropped; answer ends at the operative first sentence, before the further reasoning ('Quodsi processerint ...')."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 21 §2 (Coelestinus III)",
+      "type": "authorial-rhetorical",
+      "question": "Quum aliquibus iudicibus causa committitur, et quandoque contingit, quod reus actori obiicit, quod stare non potest in iudicio, utpote vinculo excommunicationis adstrictus, si reus non velit statim eum probare excommunicatum, sive non possit, an actor nihilominus audiri debeat, donec super eo, quod obiicitur, rei veritas fuerit patefacta et enodata?",
+      "answer": "Si ille, qui tale quid obiicit, statim vel infra terminum competentem non probaverit legitime quod intendit, actor permitti debet, ut sine offendiculo quolibet audiatur.",
+      "derivation": "Dropped the asking-frame 'Sexta nobis proposita ex parte tua quaestio continebat, quod,' and the answer-frame 'Hanc dubitationem taliter removemus, quod'. Answer ends at the first full stop, before the further 'Ceterum, si vel ex confessione actoris ...' discussion."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 21 §3 (Coelestinus III)",
+      "type": "authorial-rhetorical",
+      "question": "Si vero ab his fuerit, praestito scilicet iuramento, quod stabit mandato ecclesiae, absolutus, an coram eisdem delegatis iudicibus, vel coram ordinario, a quo excommunicatus exstitit, teneatur super eadem causa, pro qua excommunicatus fuerat, respondere, et quorum debeat iudicio vel mandato stare?",
+      "answer": "Coram ipsis excommunicatoribus super illa causa, pro qua fuerat excommunicatus, stare debet, et eorum servare mandatum, nisi specialiter fuerit illud negotium aliis iudicibus a sede apostolica delegatum.",
+      "derivation": "Kept the absolution setup so the question is intelligible; dropped the asking-frame 'rursus interrogas [edoceri]' (stripping the editorial bracket around 'edoceri'). Normalized 'ordinano' is the source spelling but for the interrogative I keep the source word as printed; answer-frame 'In quo quidem casu taliter respondemus, quod' dropped. Answer ends at the first full stop, before 'Quod si excommunicatores malitiose distulerint ...'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 24 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, quum ad recipiendos testes depositiones publicandas eorum, vel sententiam proferendam peremptorie citas partes, et earum altera se absentat contumaciter die data, an circa ultimam saltem partem diei tibi sit in negotio procedendum, vel in diem exspectandum potius subsequentem; et, si exspectaveris, utrum contumax iterum sit citandus, quum non fuerit die partibus assignata processum?",
+      "answer": "Credimus, distinguendum, utrum iurisdictio duret post terminum peremptorium, an exspiret in illo. Si durat, in diem alteram aequitate suadente poteris exspectare, nec erit pars contumax peremptorio elapso citanda, nisi gratiam fecerit ei benignitas iudicantis. Si autem exspiret, nisi partes, maxime quum id noverint, se tibi praesentaverint ea hora, qua congrue possis procedere ad exsequendum id, propter quod eis legitime terminum peremptorium assignasti, ex tunc exsequi poteris quod intendis, ne frustra iudicialis instantia evanescat.",
+      "derivation": "Dropped the asking-frame 'Consuluit nos tua fraternitas,'. The answer resolves the compound question by a distinction plus its two contiguous cases ('Si durat ... / Si autem exspiret ...'); kept whole through the resolution and stopped before the further reflection on the Roman reckoning of the day."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 28 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, si delegatus a principe causam sibi commissam alii delegare voluerit, nolentem delegationem suscipere ad ipsam suscipiendam valeat coarctare?",
+      "answer": "Quum delegato a principe iurisdictio dandi iudicem sit a lege concessa, dummodo ipse exonerare se ipsum malitiose non quaerat, potest compellere renitentem, eo, quod iurisdictio illa nullius videretur esse momenti, si coercitionem aliquam non haberet.",
+      "derivation": "Dropped the asking-frame 'Consuluit etenim nos tuae fraternitatis discretio,' and the answer-frame 'Consultationi tuae de fratrum nostrorum consilio taliter duximus respondendum, quod'. Answer ends at the first full stop; the following caution to the delegate ('Delegatus praedictus tamen debet ...') is omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 28 §1 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum cui voluerit delegatus, quum viderit expedire, possit iniungere, ut ad suam praesentiam citet partes, et eis, si obedire contempserint, poenam infligere pro contemptu?",
+      "answer": "Quum totum negotium alii possit committere delegatus, sicut superius est expressum, citationis officium potest cuilibet discretione praevia demandare, ac punire merito contemptorem.",
+      "derivation": "Dropped the asking-frame 'Item Subsequenter etiam quaesivisti,' and the answer-frame 'Ad quod tuae fraternitati breviter respondemus, quod'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 28 §2 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Si, quum a sententia lata auctoritate literarum nostrarum, in quibus appellatio est inhibita, fuerit appellatum, et literae post appellationem ad iudices alios emanaverint, an ad mandatum posteriorum iudicum exsecutio sententiae, a prioribus delegata, debeat retardari, ut priores iudices ipsam neque per se, neque per alios exsequantur?",
+      "answer": "Quum nos appellationis causam ex certa scientia iudicibus aliis committimus cognoscendam, appellationem videmur recipere, ac iurisdictionem priorum iudicum revocare, ut interim executio sententiae suspendatur, donec appellationis merita plenius sint discussa.",
+      "derivation": "Dropped the asking-frame 'Praeterea postulasti per sedem apostolicam edoceri,' and the answer-frame 'Nos autem inquisitioni tuae taliter respondemus, quod'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 28 §3 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Quia vero saepe contingit, quod exsecutio sententiae ordinario demandatur, an si ordinarius ipsam iniustam esse cognoverit, debeat eam exsecutioni mandare, an sit ei potius subsistendum?",
+      "answer": "Quum ordinarius teneatur obsequi delegato, etsi sciat sententiam illam iniustam, exsequi nihilominus tenetur eandem, nisi apud eum efficere possit, ut ab hoc onere ipsum absolvat.",
+      "derivation": "Dropped the asking-frame 'quaesivisti,' and the answer-frame 'Attendentes itaque, quod non cognitio, sed exsecutio tantum demandatur eidem, inquisitioni tuae taliter respondemus, quod' (a reasoning preamble), keeping the operative response."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 30 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Si causam aliquam tribus iudicibus delegamus, apponi in literis nostris illam clausulam facientes: \"quod si non omnes his exsequendis poteritis interesse, duo vestrum nihilominus eam exsequantur,\" et unus, postquam commiserit cuidam ex aliis vices suas, de medio sit sublatus, tertius ut suspectus merito recusetur, an collega superstes suo nomine ac defuncti possit negotium definire?",
+      "answer": "Si iurisdictione a suo sibi collega delegata eo vivente uti non coeperit, quia mandatum huiusmodi re integra morte mandatoris exspiravit, non habet solus officium iudicandi; si vero ante mortem illius iurisdictione uti coeperit taliter demandata, vices suas et illius poterit adimplere.",
+      "derivation": "Dropped the asking-frame 'Quum igitur a nobis duxeris requirendum,' and the answer-frame 'inquisitioni tuae taliter respondemus, quod'. The quoted rescript clause is the author's own words, kept; answer resolves by two contiguous cases."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXIX (De officio iudicis delegati) c. 30 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Quum tibi ab aliquo sub hac forma mandatur: \"auctoritate, qua fungor, iniungo, ut talem denuncies excommunicationis sententiae subiacere,\" ac tibi super mandato apostolico haesitanti ab aliquo non sit facta fides, an mandatum huiusmodi exsequi tenearis?",
+      "answer": "Nisi de mandato sedis apostolicae certus exstiteris, exsequi non cogeris quod mandatur.",
+      "derivation": "From c. 31 (the source numbering puts this under the chapter beginning 'Quum in iure peritus'). Dropped the asking-frame 'Praeterea quaesivisti,' and the answer-frame 'Super quo tibi huiusmodi damus responsum, quod'. The quoted mandate form is the author's own words, kept; closing 'Contingit etc.' cross-reference omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXX (De officio iudicis ordinarii) c. 9 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Duo simul consultationem scilicet et querimoniam, unica tuae fraternitatis petitio continebat, per quam a venerabili fratre nostro Hierosolymitano patriarcha conquerebaris, clericos tuos tecum iniuste gravari, qui eos, spreto tuo iudicio, coram quo parati sunt de se querimoniam deponentibus iustitiam exhibere, licet ad eum per appellationem causa minime deferatur, coram se respondere compellit, et utrum ad id possint de iure compelli?",
+      "answer": "Quamdiu clerici tui coram te voluerint stare iuri, compelli non debent iudicium eiusdem patriarchae subire, nisi causa forsitan per appellationem ad eius audientiam perferatur, aut, quod non credimus, ei aliquid super hoc a sede apostolica sit indultum.",
+      "derivation": "Kept the complaint/setup so 'ad id' has a referent; dropped the asking-frame 'per nostras postulabas literas edoceri.' and the answer-frame 'Volentes igitur tibi super gravaminibus providere praedictis, Consultationi tuae taliter respondemus, quod, quum sit in canonibus diffinitum ... de fratrum nostrorum consilio respondemus, quod' (a long reasoning preamble), keeping the operative response. Closing date-line omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXX (De officio iudicis ordinarii) c. 10 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, si forte aliqua infirmitate vel alia iusta causa detentus aliquem suffraganeorum tuorum consecrare non posses, alicui coepiscoporum tuorum vices tuas committere licitum tibi esset, et utrum electus, qui pro consecratione instaret, ab eo, cui vices tuas taliter commisisses, deberet licite consecrari?",
+      "answer": "In tali articulo constituto et tuas vices, ut dictum est, tibi committere licet, et consecrandus munus debet ab eo consecrationis accipere, cui eas duxeris committendas, dummodo catholicus habeatur, et impedimentum ei ex subtractione gratiae apostolicae sedis non obsistat.",
+      "derivation": "Dropped the asking-frame 'Nos siquidem consuluisti,' and the answer-frame 'In quo Consultationi tuae taliter respondemus, quod'. Closing date-line omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXX (De officio iudicis ordinarii) c. 11 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, si aliqua causa fuerit ad archiepiscopum per appellationem delata, possit eandem iure ordinariae potestatis suffraganei sui subdito delegare, vel animadvertere in eundem, si causam renuerit suscipere delegatam?",
+      "answer": "Archiepiscopus ipsum ad suscipiendam delegationem huiusmodi compellere nequit invitum, quum in eum, exceptis quibusdam articulis, nullam habeat potestatem, licet episcopus suus eidem sit metropolitana lege subiectus.",
+      "derivation": "Dropped the asking-frame 'Ex parte tua fuit insuper quaesitum,' and the answer-frame 'Ad quod utique respondemus, quod'. Opening 'Pastoralis officii (Et infra: ...)' cross-reference and the following 'Praeterea etc.' omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXX (De officio iudicis ordinarii) c. 11 §1 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "An alicui liceat sine speciali mandato apostolicae sedis, delegato, qui reum propter contumaciam manifestam excommunicationis vinculo innodavit, vel petitorem causa rei servandae in possessionem petitorum induxit, rebus humanis exempto, eidem volenti iuri parere absolutionis beneficium impertiri, et possessionem restituere infra annum, sufficienti recepta primitus cautione?",
+      "answer": "Quum delegatus, quantum ad illud sit maior ordinario, sine mandato summi Pontificis excommunicatus ab huiusmodi delegato non potest per alium, praeterquam in mortis articulo, absolutionis gratiam obtinere, nisi forsan delegatus talis exstiterit, cui alius succedat in onere et honore.",
+      "derivation": "Dropped the asking-frame 'Edoceri Praeterea postulasti,' and the answer-frame 'Ad quod utique dicimus, quod'. Answer ends at the first full stop; the following clauses on recovering possession are omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXXVI (De transactionibus) c. 7 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum de ecclesiastico beneficio in litigium deducto possit fieri transactio?",
+      "answer": "Secundum formam a canonibus in aliis transactionibus adscriptam transigi super re sacra litigiosa non potest.",
+      "derivation": "Dropped the asking-frame 'Super eo, quod quaesivisti,' and the answer-frame 'tale damus, sicut iam pridem, si bene meminimus, alii non absimile quaerenti dedimus responsum, quod'. Answer is the operative response; the following clauses ('Etenim res sacrae ...') elaborate and are omitted."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXXVI (De transactionibus) c. 9 (Lucius III)",
+      "type": "authorial-rhetorical",
+      "question": "Quando inter laicos et viros religiosos de praesentatione alicuius ecclesiae quaestione suborta transigitur inter eos ita, quod praesentationem laicus obtineat, religiosi vero novam vel maiorem percipiant in ecclesia, in qua prius nullam vel minorem habere consueverant portionem, an huiusmodi transactio teneat?",
+      "answer": "De iure non tenet, nec ex ea religiosi ullum debent commodum obtinere.",
+      "derivation": "Dropped the asking-frame 'Praeterea, ... quaesivisti.' (the verb 'quaesivisti' trails the question in the source) and the answer-frame 'Quum igitur ipsa pactio simoniaca merito videatur, respondemus, quod'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XXXVIII (De procuratoribus) c. 15 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "An constitutus ad impetrandum a communitate aliqua procurator ab impetrando deberet excludi pro eo, quod maiores et iurati, per quos eadem communitas regebatur, tempore, quo iniunctum fuit procurationis officium, erant excommunicationis sententia innodati?",
+      "answer": "Nisi essent illi in literis procurationis expressi, vel alias eorum auctoritate procuratoris institutio facta fuisset, aut sciens, eos esse tales, ipsa communitas una cum eis constituisset eundem, non est procurator huiusmodi repellendus.",
+      "derivation": "Dropped the asking-frame 'Consulti sumus' and the answer-frame 'Taliter respondemus, quod'."
+    },
+    {
+      "locus": "Decretals of Gregory IX, Liber I, Tit. XLIII (De arbitris) (Honorius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum coram arbitris reconventioni sit locus?",
+      "answer": "Licet in iudicio convenientem reconvenire valeat is, qui coram iudice convenitur, coram arbitris tamen reconvenire non potest, quum arbitri iudicare non valeant nisi de his tantum, super quibus in eos exstiterit compromissum.",
+      "derivation": "Dropped the asking-frame 'Unde ... postulasti per sedem apostolicam explicari' and the answer-frame 'Nos igitur discretioni vestrae super primo articulo taliter respondemus, quod'. The long case narrative preceding the question was omitted as setup not needed for this self-defining legal interrogative; the following articles ('Ad secundam etc.') are omitted."
+    }
+  ]
+}

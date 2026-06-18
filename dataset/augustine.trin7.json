@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/trin7.txt",
+  "pairs": [
+    {
+      "locus": "Augustine De Trinitate 7.4.7",
+      "type": "authorial-rhetorical",
+      "question": "Cum enim dicimus non eundem esse Iacob qui est Abraham, Isaac autem nec Abraham esse nec Iacob, tres esse utique fatemur, Abraham, Isaac et Iacob. Sed quid tres?",
+      "answer": "Tres homines.",
+      "derivation": "Augustine poses and answers the grammatical question of what the three (Abraham, Isaac, Jacob) are. Setup kept verbatim so the referent of 'tres' is clear. Framing narration of asking ('cum quaeritur') is dropped, leaving the bare interrogative 'quid tres' normalized to 'Sed quid tres?'. The answer's framing ('respondemus') and trailing elaboration ('nomine speciali eos pluraliter appellantes...') are cut after the operative answer 'tres homines'; what follows the cut is the alternative generic naming 'generali autem si dicamus tria animalia'."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/acad.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Academica 1.4",
+      "type": "direct-speech",
+      "question": "Quanam de re?",
+      "answer": "Relictam a te veterem Academiam, tractari autem novam.",
+      "derivation": "Cicero (inquam) asks Varro the genuine interrogative 'Quanam de re?' in response to Varro's 'sed de te ipso quid est quod audio?'. Varro answers directly. Stripped the speech tags ('inquam', 'Va.', 'inquit'), the speaker label 'Va.', and the section marker [4] context. The answer is the whole of Varro's reply; the next turn ('Quid ergo...') is Cicero's follow-up objection, not part of the answer."
+    },
+    {
+      "type": "direct-speech",
+      "locus": "Cicero, Academica 1.11",
+      "question": "Feretis haec?",
+      "answer": "Nos vero.",
+      "derivation": "Varro, having coined 'comprehenibile', asks 'feretis haec?' ('will you accept this [term]?'); Atticus answers 'nos vero' ('indeed yes'). Stripped speech tags ('inquit'), speaker labels ('Att.', 'Va.'), and the preceding clause 'id autem visum cum ipsum per se cerneretur, comprehenibile—' which belongs to Varro's exposition, not the question. Cut the answer after 'Nos vero': what follows ('quonam enim alio modo katalaempton diceres?') is Atticus's own rhetorical counter-question, not part of answering the yes/no question."
+    }
+  ]
+}

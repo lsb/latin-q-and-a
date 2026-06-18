@@ -1,0 +1,47 @@
+{
+  "source": "text/baldo.txt",
+  "pairs": [
+    {
+      "locus": "Baldo, Novus Esopus VIII (De simia, que secare uoluit)",
+      "type": "direct-speech",
+      "question": "Dic, age: qua causa sic sunt tua uiscera clausa?",
+      "answer": "Mea me demencia strinxit, tale per inuentum dum facta relinquo parentum.",
+      "derivation": "Sector asks the trapped ape why its innards are shut up. Dropped the questioner's following declarative line 201 'Non est naturae...' (added comment, not the interrogative) and the answer's speech-tag 'Tristis ad hec infit:'. The ape's reply directly answers (its madness) and is contiguous."
+    },
+    {
+      "locus": "Baldo, Novus Esopus XIV (De uulpe et leone)",
+      "type": "direct-speech",
+      "question": "Dic, rogo, si nosti, locus est ubi cercior hosti?",
+      "answer": "Ecce lacuna uetus, est ubi suetus, hunc ubi predonem poteris punire leonem.",
+      "derivation": "Lion asks the fox where the enemy lion can more surely be found. Dropped the lion's speech tag 'haec ait ipsi' and the answer's interleaved tag 'uulpes ait'; the fox's reply (the old pit) is the contiguous direct answer."
+    },
+    {
+      "locus": "Baldo, Novus Esopus XXIII (De ariete canem simulante)",
+      "type": "direct-speech",
+      "question": "Cur tociens tristi formidine me repulisti?",
+      "answer": "Non ob terrorem, sed ludi propter amorem hoc est factum, quod te sic reris abactum.",
+      "derivation": "Wolf asks the disguised ram why it kept driving him off. Dropped the questioner's narration 'est cui talia fatus:' and the answer's interleaved tag 'ait'. The ram answers (for sport, not terror). Stopped before the wolf's next speech at line 888."
+    },
+    {
+      "locus": "Baldo, Novus Esopus XXVIII (De uulpe et gatto)",
+      "type": "direct-speech",
+      "question": "Qualibus utaris, precor, artibus, ut fatearis?",
+      "answer": "Artem saltantum de cunctis calleo tantum; hac antique sustentor ubique.",
+      "derivation": "Fox asks the cat which arts it uses. Dropped the narration 'uulpes ait obuia gatto:' and the answer's interleaved tags 'ait ... gattus'. The cat answers (only the art of leaping). Stopped before the fox's reply at line 1092."
+    },
+    {
+      "locus": "Baldo, Novus Esopus XXIX (De lupo et yrco)",
+      "type": "direct-speech",
+      "question": "Cur iactas tot inania demens?",
+      "answer": "Denique uulgari solet id sermone probari: 'Yrcus quando bibit, quae non sunt debita, dicit; cum bene potatur, quae non sibi debita, fatur'.",
+      "derivation": "Wolf asks the mortally-wounded goat why it boasts so many empty things. Dropped the interleaved tag 'ait ille fremens'. Advanced the answer's start past the non-answering preamble 'Desine mirari, lupe, me tibi talia fari.' to the operative proverb that gives the actual reason."
+    },
+    {
+      "locus": "Baldo, Novus Esopus XXXIV (De mulo, uulpe et lupo)",
+      "type": "direct-speech",
+      "question": "Non id quero te, sed de nomine uero; quale sit, ignare michi deprecor vt fateare.",
+      "answer": "Nomen id inscriptum speciale, quod est michi dictum tempore primeuo, latet hoc michi sub pede leuo.",
+      "derivation": "After the mule deflects ('quod bestia uulgo uocatur', narration), the fox presses for its true name. Dropped the interleaved tag 'ait'. The mule answers (the name is hidden under its left foot); stopped at the first full stop before the elaboration 'Hoc ibi nactus erit...'."
+    }
+  ]
+}

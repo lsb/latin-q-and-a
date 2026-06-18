@@ -1,0 +1,26 @@
+{
+  "source": "text/erasmus/querela.txt",
+  "pairs": [
+    {
+      "locus": "Erasmus, Querela Pacis (on Isaiah's prophecy of the coming Christ)",
+      "type": "authorial-rhetorical",
+      "question": "Egregius ille vates Esaias, cum coelesti afflatus spiritu, Christum illum rerum omnium conciliatorem venturum annunciaret, num satrapam pollicetur? num urbium eversorem, num bellatorem, num triumphatorem? Nequaquam. Quid igitur?",
+      "answer": "Principem Pacis.",
+      "derivation": "Authorial-rhetorical question posed and answered by the speaker (Pax). Prose declamation, no dialogue, so I extracted only places where a real interrogative is genuinely self-answered. The interrogative cluster (num satrapam... num triumphatorem?) plus its negation 'Nequaquam' and the pivot 'Quid igitur?' is kept verbatim and contiguous as the question so 'igitur' has its referent; these are the speaker's own words, not framing. Answer is the two-word reply 'Principem Pacis.'; stopped before the following sentence 'Siquidem cura omnium optimum Principem intelligi vellet...' which is elaboration."
+    },
+    {
+      "locus": "Erasmus, Querela Pacis (on what the angels sang at Christ's nativity)",
+      "type": "authorial-rhetorical",
+      "question": "Num classicum canunt? Num victorias, triumphos, trophaeaque pollicentur? Minime. Quid tandem?",
+      "answer": "pacem annunciant",
+      "derivation": "Authorial-rhetorical question and self-answer. The subject (pacis Angeli) is established immediately before in 'At genti pacificae longe aliam cantionem canunt pacis Angeli'; the interrogative cluster with its negation 'Minime' and pivot 'Quid tandem?' is kept contiguous and verbatim. Answer trimmed to the operative answering clause 'pacem annunciant'; cut before 'congruentes cum Prophetarum oraculis, et annunciant non iis...' which digresses into elaboration."
+    },
+    {
+      "locus": "Erasmus, Querela Pacis (on what Christ bequeathed to his followers)",
+      "type": "authorial-rhetorical",
+      "question": "Auditis quid relinquat suis? num equos? num satellitium? num imperium? num opes? nihil horum. Quid igitur?",
+      "answer": "pacem dat, pacem relinquit: pacem cum amicis, pacem cum inimicis.",
+      "derivation": "Authorial-rhetorical question and self-answer, set up by the immediately preceding 'Pacem meam do vobis, pacem relinquo vobis' so 'relinquat suis' has a referent. The interrogative span (the num-list, its answer 'nihil horum', and pivot 'Quid igitur?') is kept verbatim and contiguous. Answer ends at the first full stop; the next sentence 'Iam illud mihi consideres velim...' turns to a new point, so it is excluded."
+    }
+  ]
+}

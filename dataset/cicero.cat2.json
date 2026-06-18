@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/cat2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, In Catilinam 2.2",
+      "type": "authorial-rhetorical",
+      "question": "Quod vero non cruentum mucronem, ut voluit, extulit, quod vivis nobis egressus est, quod ei ferrum e manibus extorsimus, quod incolumes cives, quod stantem urbem reliquit, quanto tandem illum maerore esse adflictum et profligatum putatis?",
+      "answer": "Iacet ille nunc prostratus, Quirites, et se perculsum atque abiectum esse sentit et retorquet oculos profecto saepe ad hanc urbem, quam e suis faucibus ereptam esse luget.",
+      "derivation": "Authorial rhetorical question Cicero answers himself. Question is the whole interrogative sentence asking with how great grief the people think Catiline is afflicted. Answer is the first sentence of the reply, which directly states he lies prostrate and feels himself struck down. Cut before the following clause 'quae quidem mihi laetari videtur...' (which turns to the city's reaction, no longer answering); stripped the '[2]' section marker."
+    }
+  ]
+}

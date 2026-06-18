@@ -1,0 +1,12 @@
+{
+  "source": "text/buchanan.txt",
+  "pairs": [
+    {
+      "locus": "Buchanan, De Maria Scotorum Regina 14",
+      "type": "authorial-rhetorical",
+      "question": "Negant claves in sua potestate fuisse. Quis igitur eas habebat?",
+      "answer": "Aiebant reginam.",
+      "derivation": "Genuine interrogative (Quis igitur eas habebat?) directly answered. Kept the preceding sentence 'Negant claves in sua potestate fuisse' as verbatim setup so 'eas' (the keys) has a referent. Answer ends at the first full stop ('Aiebant reginam.'); what follows ('Differtur quaestio in speciem...') resumes the narrative and does not answer. The other ?-lines in the text (quid opus est oratione?, Coetera quis nescit?, Quid enim aliud faceret?, Sed quis auderet... arguere?) are rhetorical with no genuine direct answer and were dropped."
+    }
+  ]
+}

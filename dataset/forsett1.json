@@ -1,0 +1,26 @@
+{
+  "source": "text/forsett1.txt",
+  "pairs": [
+    {
+      "locus": "Pedantius, Actus I scena ii (lines 217-219)",
+      "type": "direct-speech",
+      "question": "Nonne vestes tuae viliores sunt corpore tuo?",
+      "answer": "Sunt.",
+      "derivation": "In Dromodotus's Socratic chain he asks a genuine nonne-interrogative; Crobolus genuinely affirms with 'Sunt' (they are). Dropped the framing 'Unico tecum agam argumento, Socratico more. Quid censes?' which narrates/leads into the asking. Answer window ends at 'Sunt' (first full stop); the following 'Sed quid inde?' turns from answering to a new query, so it is cut."
+    },
+    {
+      "locus": "Pedantius, Actus I scena ii (lines 226-227)",
+      "type": "direct-speech",
+      "question": "Nonne, quod est melius, id est nobilius?",
+      "answer": "Do id tibi.",
+      "derivation": "Dromodotus asks a genuine nonne-interrogative; Crobolus genuinely concedes with 'Do id tibi' (I grant you that). Speaker labels stripped; whole reply is the affirming answer."
+    },
+    {
+      "locus": "Pedantius, Actus I scena ii (lines 228-229)",
+      "type": "direct-speech",
+      "question": "Et animi bona meliora quam corporis?",
+      "answer": "Proculdubio.",
+      "derivation": "Dromodotus asks an elliptical interrogative (Et animi bona meliora quam corporis? = 'And the goods of the soul [are] better than [those] of the body?'); Crobolus genuinely affirms with 'Proculdubio' (Undoubtedly). Speaker labels stripped; the other nonne-questions in this chain (e.g. 'Nonne corpus tuum praestantius est vestibus?') are dropped because they get non-answering deflections (Idem per idem, Quorsum haec, Progredere, Conclude), not real answers."
+    }
+  ]
+}

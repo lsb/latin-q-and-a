@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/fam7.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Familiares 7.13",
+      "type": "authorial-rhetorical",
+      "question": "Utrum superbiorem te pecunia facit an quod te imperator consulit?",
+      "answer": "Moriar, ni, quae tua gloria est, puto te malle a Caesare consuli quam inaurari.",
+      "derivation": "Disjunctive interrogative (utrum...an) addressed to Trebatius, immediately answered by Cicero himself in the next sentence. Dropped the framing address 'Audi, Testa mi:' before the question. Answer is the single contiguous sentence to the first full stop ('...inaurari.'), which resolves the either/or by stating Cicero supposes Trebatius prefers being consulted by Caesar (the latter option) to being gilded; what follows ('Si vero utrumque est, quis te feret praeter me...') is a further rhetorical turn, not part of the answer."
+    }
+  ]
+}

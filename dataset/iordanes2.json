@@ -1,0 +1,26 @@
+{
+  "source": "text/iordanes2.txt",
+  "pairs": [
+    {
+      "locus": "Iordanes, Romana 183",
+      "type": "direct-speech",
+      "question": "In hoc ego sinu bellum pacemque porto, utrum elegitis?",
+      "answer": "Bellum.",
+      "derivation": "Fabius offers war or peace in the fold of his toga and asks 'utrum elegitis?'; the Carthaginians shout back 'bellum'. Kept Fabius's setup 'in hoc ego sinu bellum pacemque porto' so the alternatives (bellum/pacem) have a referent. Dropped the speech tags 'Fabius:' and 'Subclamantibus'. Excluded the prior 'quae, inquid, mora est?' (the legation chief's question, which is not answered) and Fabius's following 'bellum igitur, inquid, accipite' and the narration of the toga. Answer is the crowd's single word 'bellum', normalized with a capital and full stop."
+    },
+    {
+      "locus": "Iordanes, Romana 245",
+      "type": "direct-speech",
+      "question": "Qui vos estis?",
+      "answer": "Romani gentium domini.",
+      "derivation": "A Moesian leader, having called for silence before the line, asks 'qui vos estis?'; the answer is 'Romani gentium domini'. Dropped the framing 'Vt unus ducum ante aciem postulato silentio ... inquid' and 'Responsum est:'. Stopped the answer at its full stop; the subsequent retort 'Et ille: ita fiet, inquid, si nos viceritis' is a separate point, not the answer to the question."
+    },
+    {
+      "locus": "Iordanes, Romana 372",
+      "type": "direct-speech",
+      "question": "Quid vultis?",
+      "answer": "Tollatur de medio qui cum sanguine Gothorum et interitu sua cupit scelera excusari.",
+      "derivation": "Approaching the Campi Barbarici, the army is met by Vitiges' favour, and he asks 'quid vultis?'; the soldiers reply 'tollatur de medio qui cum sanguine Gothorum et interitu sua cupit scelera excusari.' Dropped the speech tags 'inquid' and 'ad illi: ... inquiunt'. Stopped at the full stop before the narration 'Factoque impetu...' which describes what they do next rather than answering."
+    }
+  ]
+}

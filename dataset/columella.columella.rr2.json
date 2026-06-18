@@ -1,0 +1,12 @@
+{
+  "source": "text/columella/columella.rr2.txt",
+  "pairs": [
+    {
+      "locus": "Columella, De Re Rustica 2.1",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo est, quod asseverat Tremellius, intacta et silvestria loca, cum primum coeperint exuberare, mox deinde non ita respondere labori colonorum?",
+      "answer": "Videt sine dubio quid eveniat, sed cur id accidat, non pervidet.",
+      "derivation": "Direct interrogative objection put in the interlocutor's mouth; the framing speech-tag 'inquis' (between 'est' and 'quod') is dropped as narration of the asking, leaving the author's own contiguous words. The answer is the author's reply; its first full-stop sentence directly answers (Tremellius sees the phenomenon but not its cause). The following sentence 'Neque enim idcirco rudis...' turns from answering to explaining the actual cause (the real reason the cleared land is fertile), so it is cut as elaboration/digression. Section marker 'I.', the title lines, and the trailing Latin-Library footer are scaffolding and excluded."
+    }
+  ]
+}

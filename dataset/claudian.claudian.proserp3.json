@@ -1,0 +1,19 @@
+{
+  "source": "text/claudian/claudian.proserp3.txt",
+  "pairs": [
+    {
+      "locus": "Claudian, De Raptu Proserpinae 3.180-204",
+      "type": "whole-speech-as-question",
+      "question": "Quod cernimus excidium? Cui praeda feror? Regnatne maritus an caelum Titanes habent? Quae talia vivo ausa Tonante manus? Rupitne Typhoeia cervix Inarimen? Fractane iugi compage Vesevi Alcyoneus Tyrrhena pedes per stagna cucurrit? An vicina mihi quassatis faucibus Aetna protulit Enceladum? Nostros an forte Penates appetiit centum Briareia turba lacertis? Heu, ubi nunc est nata mihi? Quo mille ministrae, quo Cyane? Volucres quae vis Sirenas abegit? Haeccine vestra fides? Sic fas aliena tueri pignora?",
+      "answer": "Sed divae, multoque minus quod rere, sorores in nostras nimium coniuravere ruinas.",
+      "derivation": "Ceres, having reached the nurse Electra, asks her the whole interrogative speech (what disaster, who took the girl, where is she); the speech tag 'inquit' is dropped. The nurse's reply ('Vix tamen haec:') opens with a non-answering wish + gnome ('Acies utinam vesana Gigantum hanc dederit cladem! Levius communia tangunt;'), so the answer-start is advanced to the operative sentence naming the culprits, ending at the full stop after 'ruinas'. What follows ('Insidias Superum...') elaborates the same point. The parenthetical word 'nimium' is kept (parentheses dropped as punctuation)."
+    },
+    {
+      "locus": "Claudian, De Raptu Proserpinae 3.418-421",
+      "type": "authorial-rhetorical",
+      "question": "Hoc placitum patri. Cur autem ascribimus illum his lacrimis?",
+      "answer": "Ego te, fateor, crudelis ademi, quae te deserui solamque instantibus ultro hostibus exposui.",
+      "derivation": "Within Ceres' lament she poses a question and answers it herself. 'Hoc placitum patri.' is kept as verbatim setup so 'illum' (Jupiter, the father) has a referent. The answer is the self-rebuke that immediately follows, taken to the first full stop after 'exposui'; the following sentences ('Raucis secura fruebar...') digress into her former negligence."
+    }
+  ]
+}

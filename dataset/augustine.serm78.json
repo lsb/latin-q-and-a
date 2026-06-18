@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/serm78.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 78.6",
+      "type": "authorial-rhetorical",
+      "question": "Quia diliges eum, quid illi dabis?",
+      "answer": "Et ostendam me ipsum illi.",
+      "derivation": "Augustine poses a hypothetical question and answers it with the operative clause of the scriptural quotation. Dropped the framing 'et quasi diceretur' (narrates the asking). The question 'quia diliges eum, quid illi dabis?' is answered by the quoted 'et ostendam me ipsum illi.' Normalized initial capitalization and kept the question's '?'. The answer is the full quoted clause; what precedes is the framed question, what follows is 'magnum donum, magna promissio.'"
+    }
+  ]
+}

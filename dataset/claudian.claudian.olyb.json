@@ -1,0 +1,12 @@
+{
+  "source": "text/claudian/claudian.olyb.txt",
+  "pairs": [
+    {
+      "locus": "Claudian, Panegyricus Olybrio et Probino 126-141",
+      "type": "direct-speech",
+      "question": "O numen amicum et legum genetrix longeque regendo circumfusa polo consorsque adiuncta Tonanti, dic agedum, quae causa viae? Cur deseris arces Ausonias caelumque tuum? Dic, maxima rerum! Non ego vel Libycos cessem tolerare vapores Sarmaticosve pati medio sub frigore Coros, si tu, Roma, velis; pro te quascumque per oras ibimus et nulla sub tempestate timentes solstitio Meroen, bruma temptabimus Histrum.",
+      "answer": "Sed, precor, hoc donum cum libertate recenti adicias, si vera manet reverentia nostri.",
+      "derivation": "The victorious general (dux) addresses Roma; framing 'Prior hic ... dux ait' is dropped, leaving the contiguous utterance which carries the explicit interrogatives 'quae causa viae? Cur deseris arces Ausonias caelumque tuum?'. The whole speech is quoted as the question per whole-speech rules (the offer to travel anywhere is the speaker's own contiguous words; only the speech tag 'dux ait' is removed). Roma's reply ('Tum regina refert:' framing dropped) opens with a non-answering preamble acknowledging his labors ('non me latet, inclute rector ... cecidere triumphis'), which is skipped; the operative answer to 'why have you come' is her petition, the first sentence 'Sed, precor, hoc donum ... reverentia nostri.', ending at the first full stop. What follows the cut is the substance of the gift she requests ('Sunt mihi pubentes alto de semine fratres...')."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/godfrey.epigrammata.txt",
+  "pairs": [
+    {
+      "locus": "Godfrey of Winchester, Epigrammata 132",
+      "type": "authorial-rhetorical",
+      "question": "Orandum quid vel gravius vel pejus avaro secula quam vitæ continuare diu?",
+      "answer": "Oro tibi vivas, Nasidiene, diu.",
+      "derivation": "The author poses a rhetorical question (what worse thing could be prayed for a miser than long life?) and answers it by enacting that very prayer. Stripped the section marker 'CXXXII.' and its Latin descriptive title 'Nihil pejus optare avaro quam diu vivere.' Question is the full interrogative couplet (lines 737-738). For the answer I skipped the non-answering preamble line 'Nasidiene, diu vixisti semper avarus,' (a setup statement) and advanced to the operative answering sentence, the poem's final line; the answer ends at the close of the epigram."
+    },
+    {
+      "locus": "Godfrey of Winchester, Epigrammata 194",
+      "type": "direct-speech",
+      "question": "Carbo, quid est quoniam sæpe mihi vina propinas?",
+      "answer": "Naso, non labris, hæc tua vina traho.",
+      "derivation": "Carbo's offering of wine prompts the question 'why is it that you so often offer me wine?', answered by the speaker's witty reply that he draws the wine with his nose not his lips (it only smells). Stripped the section marker 'CXCIV.' and its Latin title 'Non nimis studendum vino.' Question = the first interrogative line; answer cut at the first full stop (its first line), after which the poem digresses to elaborate ('Unde fluant, si prævaleant quæro reperire, / Et non invenio vas aliquod nisi te.')."
+    }
+  ]
+}

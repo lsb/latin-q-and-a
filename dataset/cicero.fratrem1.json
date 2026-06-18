@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/fratrem1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Quintum fratrem 1.3.1",
+      "type": "direct-speech",
+      "question": "Ego te videre noluerim?",
+      "answer": "Immo vero me a te videri nolui.",
+      "derivation": "Cicero quotes (in quotation marks) Quintus's implied worry as an interrogative ('I did not want to see you?') and directly rebuts it with 'Immo vero...' ('On the contrary, I did not want to be seen by you'). The answer is trimmed to the operative direct rebuttal at the first semicolon; the following 'non enim vidisses fratrem tuum... spirantis mortui' is justification/elaboration of why, not the answer itself, so it is cut."
+    },
+    {
+      "locus": "Cicero, Ad Quintum fratrem 1.3.3",
+      "type": "authorial-rhetorical",
+      "question": "Haec ipsa me quo fletu putas scripsisse?",
+      "answer": "Eodem, quo te legere certe scio.",
+      "derivation": "Cicero poses a rhetorical question to his brother ('With what weeping do you think I wrote these very things?') and answers it himself ('With the same, with which I know for certain that you read them'). Self-contained: 'Haec ipsa' refers to the letter being written. Answer's first word capitalized, otherwise verbatim; nothing cut."
+    },
+    {
+      "locus": "Cicero, Ad Quintum fratrem 1.4.4",
+      "type": "direct-speech",
+      "question": "Quid tu igitur?",
+      "answer": "Multa convenerunt, quae mentem exturbarent meam: subita defectio Pompeii, alienatio consulum, etiam praetorum, timor publicanorum, arma.",
+      "derivation": "Cicero anticipates Quintus's question 'Quid tu igitur?' ('What about you, then?' - i.e. why did you not return as expected), framed by 'inquies' ('you will say'), which is dropped as a speech-tag. The reply opens with a bare interjection 'Quid?' which does not answer; per the skip-non-answering-preamble rule the answer starts at the operative sentence 'multa convenerunt...arma' (the list of reasons), ending at the first full stop before 'Lacrimae meorum...'. First word capitalized."
+    }
+  ]
+}

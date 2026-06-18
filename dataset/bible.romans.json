@@ -1,0 +1,54 @@
+{
+  "source": "text/bible/romans.txt",
+  "pairs": [
+    {
+      "locus": "Romans 3.1-2",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo amplius est Iudaeo aut quae utilitas circumcisionis?",
+      "answer": "Multum per omnem modum primum quidem quia credita sunt illis eloquia Dei.",
+      "derivation": "Paul poses a double rhetorical question (v.1) and answers it himself in v.2. Answer kept whole through the explanatory 'quia' clause that constitutes the actual reply; nothing cut. Verse-number scaffolding stripped, capitalization and terminal punctuation normalized."
+    },
+    {
+      "locus": "Romans 6.1-2",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo dicemus? Permanebimus in peccato ut gratia abundet?",
+      "answer": "Absit.",
+      "derivation": "Classic diatribe: rhetorical question (v.1) emphatically answered by Paul's own 'absit' which opens v.2. Answer cut at 'absit' (first full stop); what follows ('qui enim mortui sumus peccato quomodo adhuc vivemus in illo') is elaboration/justification, not the direct answer. Scaffolding stripped, punctuation normalized."
+    },
+    {
+      "locus": "Romans 6.15",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo? Peccavimus quoniam non sumus sub lege sed sub gratia?",
+      "answer": "Absit.",
+      "derivation": "Rhetorical question and Paul's own 'absit' answer occur within v.15. Answer ends at 'absit'; the following 'nescitis quoniam...' (v.16) is subsequent argument, not the direct reply. Scaffolding stripped, capitalization/punctuation normalized."
+    },
+    {
+      "locus": "Romans 7.7",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo dicemus? Lex peccatum est?",
+      "answer": "Absit.",
+      "derivation": "Rhetorical question and immediate 'absit' answer both in v.7. Cut after 'absit'; the continuation 'sed peccatum non cognovi nisi per legem...' is qualification/elaboration, not the direct answer. Scaffolding stripped, punctuation normalized."
+    },
+    {
+      "locus": "Romans 7.24-25",
+      "type": "authorial-rhetorical",
+      "question": "Infelix ego homo, quis me liberabit de corpore mortis huius?",
+      "answer": "Gratia Dei per Iesum Christum Dominum nostrum.",
+      "derivation": "v.24 question; setup 'Infelix ego homo' kept verbatim so the cry has its context. Answer is the opening nominal phrase of v.25; cut before 'igitur ego ipse mente servio...' which turns to summary reflection rather than answering 'who will deliver me'. Scaffolding stripped, punctuation normalized."
+    },
+    {
+      "locus": "Romans 9.14",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo dicemus? Numquid iniquitas apud Deum?",
+      "answer": "Absit.",
+      "derivation": "Rhetorical question with 'numquid' answered by Paul's own 'absit', all within v.14. Cut at 'absit'; the following 'Mosi enim dicit...' (v.15) is scriptural support, not the direct answer. Scaffolding stripped, punctuation normalized."
+    },
+    {
+      "locus": "Romans 11.1",
+      "type": "authorial-rhetorical",
+      "question": "Numquid reppulit Deus populum suum?",
+      "answer": "Absit, nam et ego Israhelita sum ex semine Abraham tribu Beniamin.",
+      "derivation": "v.1 question with 'numquid' answered by Paul's own 'absit'; the 'nam' clause giving himself as living proof is the operative completion of the one-sentence answer, so kept. Cut before v.2 'non reppulit Deus plebem suam...'. The preceding 'dico ergo' (speech framing) dropped. Scaffolding stripped, punctuation normalized."
+    }
+  ]
+}

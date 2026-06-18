@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/phil8.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippics 8.10",
+      "type": "authorial-rhetorical",
+      "question": "Nos nostris exercitibus quid pollicemur?",
+      "answer": "Multo meliora atque maiora.",
+      "derivation": "Cicero poses the question and answers it himself in the immediately following sentence. The framing interjection 'Quid?' before the question is dropped as a meta-narrative attention marker; the first word 'nos' is capitalized. The answer ends at the first full stop; what follows ('Scelerum enim promissio...') is elaboration justifying the contrast, not the answer itself."
+    },
+    {
+      "locus": "Cicero, Philippics 8.17",
+      "type": "authorial-rhetorical",
+      "question": "Ego huic faveo, tu illi?",
+      "answer": "Immo vero ego D. Bruto faveo, tu M. Antonio.",
+      "derivation": "A self-posed question ('do I favor this man, you that one?') answered/corrected by 'Immo vero...'. The window starts at 'Ego huic faveo' (the preceding 'Parva est... dissensio?' is a separate prior question not answered here). The answer ends at the first full stop; what follows ('ego conservari coloniam... studes') is parallel elaboration, not the direct answer."
+    }
+  ]
+}

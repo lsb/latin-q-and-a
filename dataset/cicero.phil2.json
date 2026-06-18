@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/phil2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippic 2.15",
+      "type": "authorial-rhetorical",
+      "question": "Hodie non descendit Antonius. Cur?",
+      "answer": "Dat nataliciam in hortis.",
+      "derivation": "Cicero poses his own question and answers it. The setup statement 'Hodie non descendit Antonius.' is kept verbatim so 'Cur?' has its referent (why Antony did not come down). The answer is the immediately following direct response 'Dat nataliciam in hortis.' The window stops there: what follows ('Cui? Neminem nominabo...') opens a second question whose 'answer' is a refusal to name names (a deflection, not a genuine answer), so it is excluded."
+    },
+    {
+      "locus": "Cicero, Philippic 2.85",
+      "type": "authorial-rhetorical",
+      "question": "Unde diadema?",
+      "answer": "Non enim abiectum sustuleras, sed adtuleras domo meditatum et cogitatum scelus.",
+      "derivation": "Cicero asks where the diadem came from and answers it himself. The answer is the full immediately following sentence, which directly states the origin (brought from home, premeditated), ending at the first full stop. What follows ('Tu diadema inponebas...') turns to narrating the placing/refusing of the diadem and is not part of the answer to 'where from'."
+    },
+    {
+      "locus": "Cicero, Philippic 2.88",
+      "type": "authorial-rhetorical",
+      "question": "Tum tu quid egisses?",
+      "answer": "Audiebam equidem te paratum venisse, quod me de ementitis auspiciis, quibus tamen parere necesse erat, putares esse dicturum.",
+      "derivation": "The speech-frame 'Quaero:' ('I ask') is dropped as framing of the asking. The interrogative 'Tum tu quid egisses?' is answered by Cicero's own following sentence reporting what he had heard Antony was prepared to do, ending at its first full stop. The next sentence ('Sustulit illum diem fortuna rei publicae...') moves on to the death of Caesar and is excluded."
+    }
+  ]
+}

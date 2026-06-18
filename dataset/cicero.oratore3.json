@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/oratore3.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Oratore 3.18",
+      "type": "direct-speech",
+      "question": "Quinam igitur ille locus? An in media silva placet? Est enim is maxime et opacus et frigidus.",
+      "answer": "Sane, etenim est in eo loco sedes huic nostro non importuna sermoni.",
+      "derivation": "Julius asks where they should sit ('Quinam igitur ille locus? An in media silva placet?', a genuine interrogative), adding that the spot is shady and cool. Crassus answers affirmatively 'Sane' and confirms the place suits their conversation. Dropped framing 'inquit' and 'inquit Crassus'. The answer is the complete reply; what follows ('Cum placuisset idem ceteris, in silvam venitur...') is narration of the move, not part of the answer. The preceding exchange (Julius 'quid est, Crasse, imusne sessum?' / Crassus 'an me tam impudentem...') is dropped because Crassus there counter-questions rather than answering."
+    }
+  ]
+}

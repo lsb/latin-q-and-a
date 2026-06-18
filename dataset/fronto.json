@@ -1,0 +1,19 @@
+{
+  "source": "text/fronto.txt",
+  "pairs": [
+    {
+      "locus": "Fronto, ad M. Antoninum de eloquentia 4.11 (Haines 2.72)",
+      "type": "authorial-rhetorical",
+      "question": "Tu igitur praeter ceteros nimirum verbis pulchris et insignibus uteris?",
+      "answer": "Ego immo volgaribus et obsoletis.",
+      "derivation": "Fronto poses an imagined objection and answers it himself. Dropped the speech-tag framing 'Dicet aliquis:' that narrates the asking. The question is a genuine interrogative quoted verbatim. The answer is the direct retort to the first full stop ('Ego immo volgaribus et obsoletis.'); cut before the following self-posed elaboration 'Quid igitur est? Nisi istud saltem scirem, deterioribus uterer.'"
+    },
+    {
+      "locus": "Fronto, ad amicos 1.7 (Haines 2.168)",
+      "type": "authorial-rhetorical",
+      "question": "Antonius Aquila vir doctus est et facundus. Audistine eum declamantem?",
+      "answer": "Non me dius Fidius ipse audivi, sed credidi adfirmantibus id doctissimis et honestissimis et mihi carissimis viris, quos et judicare recte posse et ex animi sententia testimonium perhibere certe scio.",
+      "derivation": "Fronto anticipates an objection and answers it. Kept the prior sentence 'Antonius Aquila vir doctus est et facundus.' as verbatim setup so 'eum' has a referent (rule 2). Dropped the hypothetical framing 'Quod tu dicas' that narrates the asking. The question is the verbatim interrogative; capitalization normalized. The answer is the single contiguous reply sentence (to its full stop 'scio.'), which directly answers 'have you heard him?' ('no, I have not myself, but I trusted...')."
+    }
+  ]
+}

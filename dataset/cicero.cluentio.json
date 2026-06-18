@@ -1,0 +1,54 @@
+{
+  "source": "text/cicero/cluentio.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Cluentio 61",
+      "type": "authorial-rhetorical",
+      "question": "Condemnastis Scamandrum: quo crimine?",
+      "answer": "Nempe, quod Habitum per servum medici veneno necare voluisset.",
+      "derivation": "Cicero stages an imagined interrogation of the jurors ('Quid enim tandem illi iudices responderent, si qui ab eis quaereret:'), which is narration of the asking and is dropped. The setup statement 'Condemnastis Scamandrum' is kept so the interrogative 'quo crimine?' has its referent. The reply answers the charge directly in one sentence; the next staged exchange ('Quid Habiti morte...') begins after it and is excluded."
+    },
+    {
+      "locus": "Cicero, Pro Cluentio 61",
+      "type": "authorial-rhetorical",
+      "question": "Quid Habiti morte Scamander consequebatur?",
+      "answer": "Nihil, sed administer erat Oppianici.",
+      "derivation": "Second exchange of the same staged judge-interrogation. The interrogative is genuine ('what did Scamander gain by Habitus's death?') and is answered directly ('Nothing, but he was Oppianicus's agent'). The answer is taken to its full stop; the following exchange ('Et condemnastis C. Fabricium...') is excluded."
+    },
+    {
+      "locus": "Cicero, Pro Cluentio 61",
+      "type": "authorial-rhetorical",
+      "question": "Et condemnastis C. Fabricium: quid ita?",
+      "answer": "Quia, cum ipse familiarissime Oppianico usus, libertus autem eius in maleficio deprehensus esset, illum expertem eius consilii fuisse non probabatur.",
+      "derivation": "Third exchange of the staged judge-interrogation. The setup 'Et condemnastis C. Fabricium' is kept for the referent of the interrogative 'quid ita?'; the 'Quia...' clause is the genuine answer, quoted to its full stop, ending where the dialogue closes and Cicero resumes ('Si igitur ipsum Oppianicum...')."
+    },
+    {
+      "locus": "Cicero, Pro Cluentio 63",
+      "type": "authorial-rhetorical",
+      "question": "Negasne illud iudicium esse corruptum?",
+      "answer": "Non nego, sed ab hoc corruptum non esse confirmo.",
+      "derivation": "Cicero voices an imagined objection of the audience ('tacita vestra exspectatio, quae mihi obloqui videtur:'), which is framing of the asking and is dropped. The interrogative ('negasne... ?') is genuine and Cicero answers it himself directly. The answer is the full sentence; the following imagined question ('A quo igitur est corruptum?') and its long argumentative reply are excluded."
+    },
+    {
+      "locus": "Cicero, Pro Cluentio 71",
+      "type": "direct-speech",
+      "question": "Ecquid me adiuvas, Bulbe, ne gratis rei publicae serviamus?",
+      "answer": "Quo voles sequar.",
+      "derivation": "Direct speech: Staienus asks Bulbus for help. Dropped the conversational opener and speech tag (\"'Quid tu?' inquit,\") as framing. Bulbus's reply 'Quo voles sequar' answers the question; the window stops there, before he turns to his own counter-question ('sed quid adfers?'), which is a new utterance rather than part of the answer."
+    },
+    {
+      "locus": "Cicero, Pro Cluentio 137",
+      "type": "authorial-rhetorical",
+      "question": "Num istam legem ex isto senatus consulto L. Lucullus consul, homo sapientissimus, tulerit, num anno post M. Lucullus et C. Cassius, in quos tum consules designatos idem illud senatus decreverat?",
+      "answer": "Non tulerunt.",
+      "derivation": "Cicero asks (dropping the framing 'Sed quaero a vobis') whether the consuls passed the law arising from the senate's decree, then answers it himself. The answer is the operative first clause 'Non tulerunt'; the continuation ('et quod tu Habiti pecunia...') is elaboration and is cut."
+    },
+    {
+      "locus": "Cicero, Pro Cluentio 172",
+      "type": "authorial-rhetorical",
+      "question": "Per quem venenum datum?",
+      "answer": "Per M. Asellium.",
+      "derivation": "Cicero poses the accusers' point as a question and answers it in their own terms. Dropped the transitional framing 'Age vero'. The interrogative is genuine and the reply 'per M. Asellium' answers it directly; first words normalized for capitalization and terminal punctuation."
+    }
+  ]
+}

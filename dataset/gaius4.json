@@ -1,0 +1,12 @@
+{
+  "source": "text/gaius4.txt",
+  "pairs": [
+    {
+      "locus": "Gaius, Institutiones 4.1",
+      "type": "authorial-rhetorical",
+      "question": "Quot genera actionum sint?",
+      "answer": "Uerius uidetur duo esse, in rem et in personam.",
+      "derivation": "Authorial self-posed-and-answered question. Dropped the framing/conditional asking-tag 'et si quaeramus' ('and if we should ask'), which narrates the asking rather than being part of the utterance; normalized the interrogative core 'quot genera actionum sint' to a standalone question with capitalized first word and terminal '?'. The answer is the immediately following clause 'uerius uidetur duo esse, in rem et in personam', which directly states the number and the two kinds; cut before the next sentence ('nam qui IIII esse dixerunt...'), which digresses into refuting those who said there were four."
+    }
+  ]
+}

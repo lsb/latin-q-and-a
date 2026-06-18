@@ -1,0 +1,40 @@
+{
+  "source": "text/cicero/leg2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Legibus 2.3",
+      "type": "direct-speech",
+      "question": "Quae tandem ista causa est?",
+      "answer": "Quia si verum dicimus, haec est mea et huius fratris mei germana patria.",
+      "derivation": "Atticus asks for the 'alia causa' Marcus has just mentioned ('me alia quoque causa delectat'); 'ista causa' refers to it. Marcus's reply answers directly; window ends at the first full stop ('germana patria.'), before he turns to elaborating (Hic enim orti stirpe...)."
+    },
+    {
+      "locus": "Cicero, De Legibus 2.5",
+      "type": "direct-speech",
+      "question": "Numquid duas habetis patrias, an est una illa patria communis?",
+      "answer": "Ego mehercule et illi et omnibus municipibus duas esse censeo patrias, unam naturae, alteram civitatis.",
+      "derivation": "Atticus's double interrogative (numquid... an...) about one vs. two homelands. Marcus answers 'two'; answer cut at 'alteram civitatis' (the colon in the source) where he turns to the Cato example as elaboration. Terminal colon normalized to a full stop."
+    },
+    {
+      "locus": "Cicero, De Legibus 2.12",
+      "type": "direct-speech",
+      "question": "Quo si civitas careat ob eam ipsam causam quod eo careat pro nihilo habenda sit, id estne numerandum in bonis?",
+      "answer": "Ac maxumis quidem.",
+      "derivation": "Dropped the speech-framing 'Quaero igitur a te Quinte, sicut illi solent:' as a question tag; kept the interrogative (estne...). Quintus answers; first word capitalized."
+    },
+    {
+      "locus": "Cicero, De Legibus 2.12",
+      "type": "direct-speech",
+      "question": "Lege autem carens civitas estne ob ipsum habenda nullo loco?",
+      "answer": "Dici aliter non potest.",
+      "derivation": "Marcus's -ne interrogative directly answered by Quintus. No trimming needed."
+    },
+    {
+      "locus": "Cicero, De Legibus 2.58",
+      "type": "direct-speech",
+      "question": "Video quae sint in pontificio iure, sed quaero ecquidnam sit in legibus.",
+      "answer": "Pauca sane Tite, et ut arbitror non ignota vobis.",
+      "derivation": "Atticus's indirect interrogative (quaero ecquidnam...) kept whole for the pontifical-vs-statute contrast. Marcus's reply answers 'a few things'; window ends at the first full stop, before he turns to specifics (Sed ea non tam ad religionem...)."
+    }
+  ]
+}

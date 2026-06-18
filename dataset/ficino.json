@@ -1,0 +1,26 @@
+{
+  "source": "text/ficino.txt",
+  "pairs": [
+    {
+      "locus": "Plato Theages (tr. Ficino), Socrates–Demodocus",
+      "type": "direct-speech",
+      "question": "Dic igitur mihi, quod pulchrum nomen est puero? Quo nomine ipsum vocabimus?",
+      "answer": "Theages, o Socrates.",
+      "derivation": "Socrates' genuine question about the boy's name; Demodocus answers directly with the name. Speaker labels (So., Dem.) stripped. Self-contained interrogative with direct answer."
+    },
+    {
+      "locus": "Plato Theages (tr. Ficino), Socrates–Theages",
+      "type": "direct-speech",
+      "question": "Sed tu dic mihi, Theages, cupisne sapiens esse? Ac dignum existimas esse, ut pater hic tuus virum inveniat, qui te sua consuetudine sapientem reddat?",
+      "answer": "Cupio.",
+      "derivation": "Socrates asks Theages directly (cupisne... -ne interrogative) whether he wishes to be wise; Theages answers 'Cupio.' Speaker labels stripped. Question kept whole including the dependent clause that completes its sense; answer is the single-word direct reply."
+    },
+    {
+      "locus": "Plato Theages (tr. Ficino), Socrates–Theages",
+      "type": "direct-speech",
+      "question": "Sapientes autem utrum vocas homines scientiam habentes, quaecumque illa sint quae scierint, necne?",
+      "answer": "Scientes equidem.",
+      "derivation": "Genuine alternative question (utrum... necne) about whom Theages calls wise; answered directly 'Scientes equidem.' Speaker labels stripped."
+    }
+  ]
+}

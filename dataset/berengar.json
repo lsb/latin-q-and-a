@@ -1,0 +1,26 @@
+{
+  "source": "text/berengar.txt",
+  "pairs": [
+    {
+      "locus": "Berengarius, Apologeticus (the council scene, parody of John 11)",
+      "type": "direct-speech",
+      "question": "Quid facimus? quia hic homo multa signa facit. Si dimittimus eum sic, omnes credent in eum.",
+      "answer": "Expedit nobis ut unus exterminetur homo a populo, et non tota gens pereat.",
+      "derivation": "Direct-speech pair embedded in Berengar's parody of John 11. The bishops in council ask 'Quid facimus?' (with its motivating clauses kept for context); Bernardus, as pontifex, answers with the Caiaphas-prophecy. Dropped the framing 'Collegerunt, inquit, pontifices et Pharisaei concilium, et dixerunt:' before the question and 'Unus autem ex ipsis, nomine Bernardus abbas, cum esset pontifex concilii illius, prophetavit, dicens:' before the answer. Answer ends at the full stop; what follows ('Ab illo ergo die cogitaverunt condemnare eum...') is Berengar's narration, not part of the reply."
+    },
+    {
+      "locus": "Berengarius, Apologeticus (the lector at the council)",
+      "type": "direct-speech",
+      "question": "Damnatis?",
+      "answer": "Damnamus.",
+      "derivation": "Direct-speech exchange: the lector shouts 'Damnatis?' to the bishops; some, half-awake, answer 'Damnamus'. Dropped the narration framing the question ('Cum itaque lector in Petri satis aliquod reperiret spinctum, surdis exclamabat auribus pontificum:') and the speech tag after the answer ('aiebant') plus its narrative lead-in ('Tunc quidam vix ad extremam syllabam expergefacti, somnolenta voce, capite pendulo:'). What follows is a separate, garbled variant ('Alii vero... namus inquiunt'), excluded."
+    },
+    {
+      "locus": "Berengarius, Apologeticus (quoting Bernard's letter to Aimericus on love)",
+      "type": "direct-speech",
+      "question": "Quid sit diligendum?",
+      "answer": "Deus.",
+      "derivation": "From Bernard's own words quoted verbatim by Berengar: 'Quaeris quid sit diligendum. Cui breviter respondeo: Deus.' Dropped the asking-frame 'Quaeris' and the answering-frame 'Cui breviter respondeo:'; normalized the indirect question to interrogative form (capital Q, '?'). The answer is the single word 'Deus'; what follows ('Sequitur postea de modo diligendi...') turns to a different question (the manner of loving)."
+    }
+  ]
+}

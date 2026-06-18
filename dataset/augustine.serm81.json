@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/serm81.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 81.2",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo interest inter pressuram et scandalum?",
+      "answer": "In pressura parabas seruare patientiam, tenere constantiam, non relinquere fidem, non consentire peccato.",
+      "derivation": "Augustine poses the question and answers it himself. Answer ends at the first full stop, where the operative distinction is given; the next sentence ('hoc si seruas...') turns to elaborating consequences (the olive-press image) rather than defining the difference, so it is cut. No framing to strip; first-word capitalization normalized."
+    }
+  ]
+}

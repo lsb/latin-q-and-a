@@ -1,0 +1,12 @@
+{
+  "source": "text/bacon/bacon.hist9.txt",
+  "pairs": [
+    {
+      "locus": "Bacon, Historia Regni Henrici Septimi, cap. IX.21",
+      "type": "direct-speech",
+      "question": "Domine mi, multa audiveram de hospitalitate tua, eam autem video fama esse maiorem. Isti generosi et probi homines quos ab utraque manu aspicio sunt certe servi tui domestici, nonne?",
+      "answer": "Si placet celsitudine vestrae, hoc opes meae non ferrent. Sunt certe illi plerique famuli extraordinii suis viventes impensis qui hoc tempore venerunt ut familiam meam decorarent, praecipue autem ut celsitudinem vestram spectarent.",
+      "derivation": "Direct-speech exchange between King Henry VII and the Earl of Oxford. Dropped the speech tag 'Rex comitem ad se vocavit, et dixit,' before the question and 'Comes autem subridens respondit,' before the answer. The King's own words are kept contiguous as setup so that 'Isti ... homines' has a referent (the liveried servants). The question ends with a genuine interrogative ('nonne?'). The answer is the Earl's full reply, which genuinely answers in the negative (they are not his household servants); it stops at the full stop before the King's next speech ('Rex ad haec paulum subsiliit ...')."
+    }
+  ]
+}

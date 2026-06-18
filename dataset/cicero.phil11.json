@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/phil11.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippics 11.26",
+      "type": "authorial-rhetorical",
+      "question": "Qui igitur is est?",
+      "answer": "Aut M. Brutus aut C. Cassius aut uterque.",
+      "derivation": "Cicero asks who the needed commander is (Qui igitur is est?) and answers it himself in the immediately following sentence. The answer ends at the first full stop after 'uterque'; what follows ('Decernerem plane sicut multa...') turns to elaborating on why Brutus is held in Greece, i.e. digression rather than the direct answer. Section marker [XI] and the [26] marker stripped."
+    }
+  ]
+}

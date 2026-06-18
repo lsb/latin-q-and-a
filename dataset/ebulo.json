@@ -1,0 +1,19 @@
+{
+  "source": "text/ebulo.txt",
+  "pairs": [
+    {
+      "locus": "Petrus de Ebulo, Liber ad honorem Augusti, Particula V",
+      "type": "direct-speech",
+      "question": "Elige, quis regnet! Quis erit?",
+      "answer": "Constancia regnet!",
+      "derivation": "Direct exchange between the vicecancellarius and the presul of Panormus. Stripped the speech frame (the question follows the vicecancellarius's address) and the editorial dialogue marks (closing quotation and the ' - ' dash separating speakers). Kept the imperative 'Elige, quis regnet!' as verbatim setup so the interrogative 'Quis erit?' has its referent (who will reign). Answer trimmed to the presul's operative first sentence 'Constancia regnet!'; the following 'Sic lex exposcit, sic sua iura volunt.' justifies/elaborates and was cut."
+    },
+    {
+      "locus": "Petrus de Ebulo, Liber ad honorem Augusti, Particula XXV",
+      "type": "direct-speech",
+      "question": "Quid mea regna petis?",
+      "answer": "Non tua regna peto, set patris iura requiro.",
+      "derivation": "Tancredus questions Constancia (frame 'Auguste frigidus inquit' dropped); the genuine interrogative is 'Quid mea regna petis?' (self-contained: why do you seek my realms). Constancia's reply (frame 'Iulia respondit' dropped) opens with a non-answering preamble acknowledging his words and a fate-digression ('Quod ais, Tancrede, recordor... Per varias vario curritur axe vices.'), so the answer's start is advanced to the operative answering sentence 'Non tua regna peto, set patris iura requiro.' and stops at its first full stop; what follows ('An tu Rogerii filius?...') begins her counter-argument and was cut."
+    }
+  ]
+}

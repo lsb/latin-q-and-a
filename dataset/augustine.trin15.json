@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/trin15.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Trinitate 15.27.48 (XXVII)",
+      "type": "authorial-rhetorical",
+      "question": "Si ergo et de patre et de filio procedit spiritus sanctus, cur filius dixit: De patre procedit?",
+      "answer": "Cur nisi quemadmodum solet ad eum referre et quod ipsius est de quo et ipse est?",
+      "derivation": "From the sermon Augustine quotes verbatim in his own work. The question is a genuine interrogative ('cur ... dixit?'); the conditional 'Si ergo ... procedit spiritus sanctus' clause is kept as setup so 'cur filius dixit: De patre procedit?' has its referent. Dropped the framing tag 'inquam' (narration of his own speaking). The answer is the immediately following sentence, which directly gives the reason ('the Son refers to the Father even what is his own'); dropped the parenthetical address 'putas' (framing interjection to the reader) sitting between 'Cur' and 'nisi', leaving the utterance contiguous. The answer ends at the first full stop; what follows ('Vnde illud est quod ait: Mea doctrina...') turns to scriptural elaboration and is excluded. Other interrogatives in the book (e.g. 15.6.10 'Cur itaque ibi non agnoscimus trinitatem?', the Eunomius dialectic in 15.20 reported in indirect discourse, the closing 'Numquid ergo possumus quaerere...') were dropped: their replies are further counter-questions, argumentative digressions, or indirect-speech narration rather than a clean contiguous answering span."
+    }
+  ]
+}

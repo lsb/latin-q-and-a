@@ -1,0 +1,61 @@
+{
+  "source": "text/augustine/serm88.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 88.4",
+      "type": "authorial-rhetorical",
+      "question": "Quare autem non sufficiebat?",
+      "answer": "Quia non uidebatur.",
+      "derivation": "Augustine asks and immediately answers himself. Question and answer are adjacent sentences; answer ends at the full stop before the next question 'quare non uidebatur?'."
+    },
+    {
+      "locus": "Augustine, Sermo 88.4",
+      "type": "authorial-rhetorical",
+      "question": "Quare non uidebatur?",
+      "answer": "Quia nondum erat sanus oculus, unde posset uideri.",
+      "derivation": "Self-posed question answered immediately. Answer ends at the first full stop, before 'hoc enim quod in carne domini uidebatur...' which digresses."
+    },
+    {
+      "locus": "Augustine, Sermo 88.6",
+      "type": "authorial-rhetorical",
+      "question": "Quid turbat oculum cordis?",
+      "answer": "Cupiditas, auaritia, iniquitas, concupiscentia saecularis turbat, claudit, excaecat oculum cordis.",
+      "derivation": "Author poses the question and answers it himself. Answer is the single following sentence, ending at the full stop before 'et tamen quomodo quaeritur medicus...'."
+    },
+    {
+      "locus": "Augustine, Sermo 88.10",
+      "type": "authorial-rhetorical",
+      "question": "Qui sunt ergo duo populi?",
+      "answer": "Unus Iudaeorum, et alius gentium.",
+      "derivation": "Self-posed question with its own answer immediately following. Answer ends at the full stop before the supporting scriptural quotation 'non sum missus, ait...'."
+    },
+    {
+      "locus": "Augustine, Sermo 88.12",
+      "type": "authorial-rhetorical",
+      "question": "Quis est qui clamat ad Christum?",
+      "answer": "Qui contemnit mundum, clamat ad Christum.",
+      "derivation": "Author asks and answers himself; the answer's first sentence is taken (ending at the full stop), before the parallel further sentences 'qui spernit saeculi uoluptates...' which elaborate the same point."
+    },
+    {
+      "locus": "Augustine, Sermo 88.21",
+      "type": "authorial-rhetorical",
+      "question": "Quis ea seminauit?",
+      "answer": "Inimicus autem, qui ea seminauit, diabolus est.",
+      "derivation": "Augustine poses the question and answers with the Gospel's own words; the framing tag 'inquit' is dropped as narration of the speaking. Answer ends at the full stop before the next question 'quis est ager?'."
+    },
+    {
+      "locus": "Augustine, Sermo 88.21",
+      "type": "authorial-rhetorical",
+      "question": "Quis est ager?",
+      "answer": "Ager est hic mundus.",
+      "derivation": "Self-posed question answered by the Gospel quotation; framing tag 'inquit' dropped. Answer ends at the full stop before the next question."
+    },
+    {
+      "locus": "Augustine, Sermo 88.21",
+      "type": "authorial-rhetorical",
+      "question": "Qui sunt messores?",
+      "answer": "Messores angeli sunt.",
+      "derivation": "Self-posed question answered by the Gospel quotation; framing tag 'inquit' dropped. Answer ends at the full stop before the rhetorical 'numquid Africa est mundus?' series."
+    }
+  ]
+}

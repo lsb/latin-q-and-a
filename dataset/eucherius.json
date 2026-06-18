@@ -1,0 +1,12 @@
+{
+  "source": "text/eucherius.txt",
+  "pairs": [
+    {
+      "locus": "Eucherius, De Laude Eremi 22",
+      "type": "authorial-rhetorical",
+      "question": "Quis hic igitur est Spiritus?",
+      "answer": "Cunctatio nulla subest, quin Sanctus.",
+      "derivation": "Authorial-rhetorical: the author asks which Spirit led Christ into the desert and immediately answers himself. Question taken verbatim (igitur is a connective particle within the interrogative, not a speech tag, so kept). Answer is the operative answering sentence; editorial brackets around the bracketed passage stripped, words kept. Stopped at the first full stop (after 'Sanctus.'); what follows ('Quod deinde Spiritus sanctus pertrahit in desertum...') is elaboration, not part of the direct answer."
+    }
+  ]
+}

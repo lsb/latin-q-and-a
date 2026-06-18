@@ -1,0 +1,12 @@
+{
+  "source": "text/gregdecretals4.txt",
+  "pairs": [
+    {
+      "locus": "Gregory IX, Decretals 4.17.13 (Per venerabilem)",
+      "type": "direct-speech",
+      "question": "Domine, quo vadis?",
+      "answer": "Venio Romam iterum crucifigi.",
+      "derivation": "Embedded Quo Vadis exchange within the decretal 'Per venerabilem': 'Quum enim Petrus urbem fugiens exivisset, volens eum Dominus ad locum, quem elegerat, revocare, interrogatus ab eo: \"Domine, quo vadis?\" respondit: \"venio Romam iterum crucifigi\"'. Dropped the surrounding narration of the asking ('interrogatus ab eo:') and the speech tag ('respondit:') as droppable framing; the two utterances are quoted verbatim and contiguous. Capitalized 'Venio' and supplied the terminal full stop on the answer (the source has a comma there because narration continues: 'quod intelligens pro se dictum...'). The other quoted question marks in the file ('constituit me iudicem super vos?', 'nescitis... saecularia?', 'de his... iudicare?') are scriptural rhetorical questions cited as authority with no answer following, so they were dropped. All consultation chapters pose their questions only as reported indirect interrogatives ('Consuluisti utrum...', 'Quaesivisti an...'), not as real first-person interrogatives, so none were extracted, preferring false negatives."
+    }
+  ]
+}

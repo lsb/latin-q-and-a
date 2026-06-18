@@ -1,0 +1,54 @@
+{
+  "source": "text/cicero/off3.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Officiis 3.29",
+      "type": "authorial-rhetorical",
+      "question": "Nonne igitur sapiens, si fame ipse conficiatur, abstulerit cibum alteri homini ad nullam rem utili?",
+      "answer": "Minime vero: non enim mihi est vita mea utilior quam animi talis affectio, neminem ut violem commodi mei gratia.",
+      "derivation": "Authorial dialectic introduced by the framing 'Forsitan quispiam dixerit:' which is dropped as narration of the asking. Question is the quoted interrogative; answer is the author's reply opening 'Minime vero', taken to the first full stop (the colon after 'Minime vero' is not a sentence end), ending at 'gratia.' before the next question 'Quid? si Phalarim...'."
+    },
+    {
+      "locus": "Cicero, De Officiis 3.52-53",
+      "type": "whole-speech-as-question",
+      "question": "Quid ais? tu, cum hominibus consulere debeas et servire humanae societati eaque lege natus sis et ea habeas principia naturae, quibus parere et quae sequi debeas, ut utilitas tua communis sit utilitas vicissimque communis utilitas tua sit, celabis homines, quid iis adsit commoditatis et copiae?",
+      "answer": "Aliud est celare, aliud tacere, neque ego nunc te celo, si tibi non dico, quae natura deorum sit, qui sit finis bonorum, quae tibi plus prodessent cognita quam tritici vilitas.",
+      "derivation": "Antipater's whole speech (his ratio 'ex altera parte') is the extended question, quoted verbatim and contiguous; the framing 'Exoritur Antipatri ratio ex altera parte:' precedes it and is dropped. The answer is Diogenes' reply; its framing 'Respondebit Diogenes fortasse sic:' is dropped, and the answer is taken to the first full stop ('tritici vilitas.'), stopping before 'Sed non, quicquid tibi audire utile est...' which elaborates."
+    },
+    {
+      "locus": "Cicero, De Officiis 3.59",
+      "type": "direct-speech",
+      "question": "Quaeso, quid est hoc, Pythi? Tantumne piscium? Tantumne cumbarum?",
+      "answer": "Hoc loco est Syracusis quidquid est piscium, hic aquatio, hac villa isti carere non possunt.",
+      "derivation": "Direct speech: Canius asks, Pythius answers. The framing 'Tum Canius ... inquit' and 'Et ille: ... inquit' are dropped; first word capitalized. The answer skips Pythius's non-answering rhetorical preamble 'Quid mirum?' (a deflection, not an answer) and begins at the operative explanation 'Hoc loco est...', which actually answers what Canius saw; it runs to the end of that sentence ('possunt.')."
+    },
+    {
+      "locus": "Cicero, De Officiis 3.90",
+      "type": "authorial-rhetorical",
+      "question": "Si una tabula sit, duo naufragi, eique sapientes, sibine uterque rapiat an alter cedat alteri?",
+      "answer": "Cedat vero, sed ei, cuius magis intersit vel sua vel rei publicae causa vivere.",
+      "derivation": "Authorial self-question and answer from Hecaton's catechism. The transitional interjection 'Quid?' is dropped as framing; the substantive interrogative is kept verbatim. Answer is the full reply 'Cedat vero...' to its first full stop ('vivere.'), before the next 'Quid? si haec paria in utroque?'."
+    },
+    {
+      "locus": "Cicero, De Officiis 3.90",
+      "type": "authorial-rhetorical",
+      "question": "Si pater fana expilet, cuniculos agat ad aerarium, indicetne id magistratibus filius?",
+      "answer": "Nefas id quidem est, quin etiam defendat patrem si arguatur.",
+      "derivation": "Authorial self-question/answer. Transitional 'Quid?' dropped as framing. Question kept verbatim; answer runs to the full stop ('arguatur.'), before the next question 'Non igitur patria praestat omnibus officiis?'."
+    },
+    {
+      "locus": "Cicero, De Officiis 3.90",
+      "type": "authorial-rhetorical",
+      "question": "Non igitur patria praestat omnibus officiis?",
+      "answer": "Immo vero, sed ipsi patriae conducit pios habere cives in parentes.",
+      "derivation": "Authorial self-question and answer, both verbatim. Answer 'Immo vero...' taken to the full stop ('parentes.'), before the next 'Quid? si tyrannidem occupare...'."
+    },
+    {
+      "locus": "Cicero, De Officiis 3.90",
+      "type": "authorial-rhetorical",
+      "question": "Si tyrannidem occupare, si patriam prodere conabitur pater, silebitne filius?",
+      "answer": "Immo vero obsecrabit patrem, ne id faciat.",
+      "derivation": "Authorial self-question/answer. Transitional 'Quid?' dropped as framing; question kept verbatim. Answer is the operative first sentence 'Immo vero obsecrabit patrem, ne id faciat.', stopping before the elaboration 'Si nihil proficiet, accusabit, minabitur etiam...'."
+    }
+  ]
+}

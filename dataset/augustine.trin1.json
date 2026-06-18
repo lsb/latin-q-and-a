@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/trin1.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Trinitate 1.16",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo est: Cum tradiderit regnum deo et patri, quasi modo non habeat regnum deus et pater?",
+      "answer": "Sed quia omnes iustos quibus nunc regnat ex fide uiuentibus mediator dei et hominum homo Christus Iesus perducturus est ad speciem quam uisionem dicit idem apostolus facie ad faciem, ita dictum est: Cum tradiderit regnum deo et patri, ac si diceretur: 'Cum perduxerit credentes ad contemplationem dei et patris.'",
+      "derivation": "Augustine poses the question to himself and answers it. Answer window starts at the operative 'Sed quia omnes iustos...' and ends at the first full stop after \"ad contemplationem dei et patris.'\"; what follows ('Sicut enim dicit: Omnia mihi tradita sunt...') turns to scriptural elaboration and is cut. Section marker [16] and inline scripture remain part of Augustine's own prose; no scaffolding inside the quoted span."
+    },
+    {
+      "locus": "Augustine, De Trinitate 1.18 (quoting John 14:22-23)",
+      "type": "direct-speech",
+      "question": "Domine, quid factum est quia ostensurus es te nobis et non huic mundo?",
+      "answer": "Si quis me diligit, sermonem meum seruabit; et pater meus diliget illum, et ad illum ueniemus et mansionem apud illum faciemus.",
+      "derivation": "Explicit ask/answer framing in the text: 'cum dixisset illi Iudas: ... respondit Iesus et dixit illi: ...'. Dropped the framing tags ('cum dixisset illi Iudas', 'respondit Iesus et dixit illi') as narration of the exchange. Question is Judas's verbatim interrogative; answer is Jesus's whole reply, ending at the single full stop after 'faciemus.' The next sentence ('Ecce quia...') is Augustine's gloss and is excluded."
+    }
+  ]
+}

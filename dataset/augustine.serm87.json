@@ -1,0 +1,47 @@
+{
+  "source": "text/augustine/serm87.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 87.2",
+      "type": "authorial-rhetorical",
+      "question": "Quid facit agricola?",
+      "answer": "Puto quia agrum colit.",
+      "derivation": "Augustine poses and answers his own question. Dropped the intervening framing 'interrogo uos, qui agricolae estis; quid facit agricola?' (the repeated address to the audience) and quote the single interrogative; the answer is his own reply, which ends at the full stop before 'si ergo pater deus agricola est...'."
+    },
+    {
+      "locus": "Augustine, Sermo 87.3 (Matthew 21:40-41)",
+      "type": "direct-speech",
+      "question": "Cum uenerit dominus uineae, quid faciet illis malis colonis?",
+      "answer": "Malos male perdet, et uineam suam locabit aliis agricolis, qui reddant ei fructum in tempore suo.",
+      "derivation": "Gospel parable quoted by Augustine. Kept 'cum uenerit dominus uineae' as setup so 'illis malis colonis' is intelligible. Stripped the framing 'responsum est:' and the editorial quotation marks; the answer ends at the full stop before 'plantata est uinea...'."
+    },
+    {
+      "locus": "Augustine, Sermo 87.4 (Matthew 20:6-7)",
+      "type": "direct-speech",
+      "question": "Quid hic statis? Quare non operamini in uinea?",
+      "answer": "Quia nemo nos conduxit.",
+      "derivation": "The paterfamilias asks the idle workers, who reply. Stripped the speech tags 'et ait illis:' before the question and 'responderunt:' before the answer. Answer stops at the full stop before 'uenite, inquit, et uos...'."
+    },
+    {
+      "locus": "Augustine, Sermo 87.4",
+      "type": "authorial-rhetorical",
+      "question": "Quid est, facti sunt nouissimi primi et primi nouissimi?",
+      "answer": "Quia tantumdem acceperunt et primi et nouissimi.",
+      "derivation": "Augustine poses and answers his own explanatory question. Clean self-contained exchange; nothing trimmed beyond it being the whole question and the whole answering clause."
+    },
+    {
+      "locus": "Augustine, Sermo 87.8",
+      "type": "direct-speech",
+      "question": "Cuius rei finis?",
+      "answer": "Iniquitatum mearum.",
+      "derivation": "Imagined dialogue with the procrastinating sinner. Stripped the framing 'respondetur tibi:' before the question and 'dicis:' before the answer. Question and answer are each quoted whole; 'iniquitatum mearum' (sc. finis) directly answers 'of what matter is it the end?'."
+    },
+    {
+      "locus": "Augustine, Sermo 87.11",
+      "type": "direct-speech",
+      "question": "Recede a me, obsecro te, recede a me. Quare?",
+      "answer": "Dormire uolo.",
+      "derivation": "The lethargic sick man begs to be left alone; an interlocutor asks 'quare?' and he answers. Kept his plea 'recede a me ... recede a me' as setup so 'quare?' has a referent; stripped the framing 'inquit languidus lethargicus' from inside the plea. Answer 'dormire uolo' stops before the statement-and-retort 'sed morieris inde. ... mori uolo' which is not a Q&A."
+    }
+  ]
+}

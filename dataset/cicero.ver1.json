@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/ver1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, In Verrem, Actio Prima 5",
+      "type": "authorial-rhetorical",
+      "question": "At enim haec ita commissa sunt ab isto, ut non cognita sint ab hominibus?",
+      "answer": "Hominem arbitror esse neminem qui nomen istius audierit, quin facta quoque eius nefaria commemorare possit.",
+      "derivation": "Cicero raises an anticipated objection (At enim...) as a genuine interrogative ('but were these crimes committed unknown to men?') and rebuts it himself. Answer cut at the semicolon after 'possit', converting it to a full stop; what follows ('ut mihi magis timendum sit, ne multa crimina praetermittere...') is elaboration on his own caution, not the answer to whether the deeds are known."
+    },
+    {
+      "locus": "Cicero, In Verrem, Actio Prima 7",
+      "type": "authorial-rhetorical",
+      "question": "Quod tota Sicilia, quod omnes Siculi, omnes negotiatores, omnes publicae privataeque litterae Romae sunt, nihilne id valebit?",
+      "answer": "Nihil, invito consule designato!",
+      "derivation": "Authorial rhetorical question and self-given answer within Cicero's report of how honest men reasoned. The framing interjection 'Quid igitur?' immediately before is dropped as framing; the relative clauses 'quod tota Sicilia... Romae sunt' are kept as the verbatim setup that gives 'id' its referent. The answer 'nihil, invito consule designato!' directly answers 'nihilne id valebit?'."
+    },
+    {
+      "locus": "Cicero, In Verrem, Actio Prima 7",
+      "type": "authorial-rhetorical",
+      "question": "Iudices non crimina, non testis, non existimationem populi Romani sequentur?",
+      "answer": "Non: omnia in unius potestate ac moderatione vertentur.",
+      "derivation": "Authorial rhetorical question with self-given answer, continuing the reported reasoning. The framing interjection 'Quid?' immediately before is dropped. The answer ('Non: omnia in unius potestate ac moderatione vertentur') directly answers the question; it is a single sentence ending at the full stop."
+    }
+  ]
+}

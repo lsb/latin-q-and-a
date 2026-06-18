@@ -1,0 +1,12 @@
+{
+  "source": "text/gestafrancorum/gestafrancorum1.txt",
+  "pairs": [
+    {
+      "locus": "Gesta Francorum I.iiii",
+      "type": "direct-speech",
+      "question": "Quare miseri occiditis gentem Christi et meam? Ego cum uestro imperatore nullam altercationem habeo.",
+      "answer": "Nos nequimus aliud agere.",
+      "derivation": "Boamundus addresses the captured Turcopuli/Pincenates ('Quibus ait ipse'); his contiguous utterance is kept whole (the interrogative plus the following statement that gives 'meam' its force). The reply is introduced by 'Qui responderunt'; the answer is cut to its first sentence 'Nos nequimus aliud agere.' (the operative answer to 'quare occiditis'). Cut after this; what follows ('In roga imperatoris locati sumus, et quicquid nobis imperat nos oportet implere.') elaborates the reason and is omitted."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source": "text/bennett.txt",
+  "pairs": [
+    {
+      "locus": "Bennett, New Latin Grammar 162.5.a",
+      "type": "direct-speech",
+      "question": "Vīsne locum mūtēmus?",
+      "answer": "Sānē.",
+      "derivation": "Illustrative example in the section on Answers (the affirmative). Stripped the enclosing single quotes and the trailing English gloss ('Shall we change the place?' 'Certainly.'). One speaker asks, another affirms; real interrogative (-ne) genuinely answered."
+    },
+    {
+      "locus": "Bennett, New Latin Grammar 162.5.a",
+      "type": "direct-speech",
+      "question": "Estīsne vōs lēgatī?",
+      "answer": "Sumus.",
+      "derivation": "Illustrative example in the section on Answers (affirmative by repetition of the verb). Stripped enclosing single quotes and trailing English gloss ('Are you envoys?' 'Yes.'). Real interrogative (-ne) answered by the repeated verb."
+    },
+    {
+      "locus": "Bennett, New Latin Grammar 162.5.b",
+      "type": "direct-speech",
+      "question": "Jam ea praeteriit?",
+      "answer": "Nōn.",
+      "derivation": "Illustrative example in the section on Answers (the negative). Stripped enclosing single quotes and trailing English gloss ('Has it passed?' 'No.'). Real yes/no question answered negatively."
+    },
+    {
+      "locus": "Bennett, New Latin Grammar 162.5.b",
+      "type": "direct-speech",
+      "question": "Estne frāter intus?",
+      "answer": "Nōn est.",
+      "derivation": "Illustrative example in the section on Answers (negative by repeating the verb with a negative). Stripped enclosing single quotes and trailing English gloss ('Is your brother within?' 'No.'). Real interrogative (-ne) answered by the negated verb."
+    }
+  ]
+}

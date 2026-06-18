@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/murena.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Murena 70",
+      "type": "direct-speech",
+      "question": "Quid opus est sectatoribus?",
+      "answer": "Homines tenues unum habent in nostrum ordinem aut promerendi aut referendi benefici locum, hanc in nostris petitionibus operam atque adsectationem.",
+      "derivation": "Cato's quoted objection, framing tag 'inquit' dropped: 'Quid opus est' inquit 'sectatoribus?' -> 'Quid opus est sectatoribus?'. Cicero's reply opens with a non-answering counter-question preamble ('A me tu id quaeris, quid opus sit eo quo semper usi sumus?'), which is skipped per the skip-preamble guidance; the answer starts at the operative answering sentence and ends at its first full stop ('...operam atque adsectationem.'), before the elaboration beginning 'Neque enim fieri potest...'."
+    },
+    {
+      "locus": "Cicero, Pro Murena 76",
+      "type": "authorial-rhetorical",
+      "question": "Cur enim quemquam ut studeat tibi, ut te adiuvet rogas?",
+      "answer": "Rogas tu me ut mihi praesis, ut committam ego me tibi.",
+      "derivation": "Cicero poses the question to Cato and answers it himself in the very next sentence. Answer ends at its full stop, before the further rhetorical question 'Quid tandem? istuc me rogari oportet abs te...' that follows."
+    },
+    {
+      "locus": "Cicero, Pro Murena 73",
+      "type": "authorial-rhetorical",
+      "question": "Quid est volgo?",
+      "answer": "Vniversos.",
+      "derivation": "Self-defining authorial Q&A: Cicero asks what 'volgo' (just used in 'Minime, sed volgo, passim') means and answers 'Vniversos'. The question contains its own referent (the word volgo), so no wider window is needed; the next sentence ('Non igitur, si L. Natta...') turns to a new point."
+    }
+  ]
+}

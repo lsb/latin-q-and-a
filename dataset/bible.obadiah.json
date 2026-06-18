@@ -1,0 +1,12 @@
+{
+  "source": "text/bible/obadiah.txt",
+  "pairs": [
+    {
+      "locus": "Obadiah 1.3-4",
+      "type": "direct-speech",
+      "question": "Quis detrahet me in terram?",
+      "answer": "Inde detraham te.",
+      "derivation": "Edom's prideful boast quoted in v3 (framed by speech-tag 'qui dicit in corde suo', dropped) is a real interrogative: 'who will bring me down to earth?'. The Lord answers in v4; the opening 'si exaltatus fueris ut aquila et si inter sidera posueris nidum tuum' is a non-answering conditional preamble, so the answer starts at the operative 'inde detraham te', dropping the trailing speech-tag 'dicit Dominus'. Section/verse numbers and the title/footer scaffolding were excluded."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/bible/chronicles1.txt",
+  "pairs": [
+    {
+      "locus": "1 Chronicles 14.10",
+      "type": "direct-speech",
+      "question": "si ascendam ad Philistheos si trades eos in manu mea",
+      "answer": "ascende et tradam eos in manu tua",
+      "derivation": "David consults God (deliberative question introduced by 'consuluitque David Deum dicens', dropped as a speech tag). The question is David's two-part deliberative 'si ascendam... si trades...'. The Lord's reply, introduced by the dropped tag 'et dixit ei Dominus', directly answers both clauses: 'ascende et tradam eos in manu tua'. The answer is the whole reply (one sentence)."
+    }
+  ]
+}

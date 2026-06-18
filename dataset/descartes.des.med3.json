@@ -1,0 +1,33 @@
+{
+  "source": "text/descartes/des.med3.txt",
+  "pairs": [
+    {
+      "locus": "Descartes, Meditatio III, 2",
+      "type": "authorial-rhetorical",
+      "question": "Nunquid ergo etiam scio quid requiratur ut de aliquâ re sim certus?",
+      "answer": "Nempe in hac primâ cognitione nihil aliud est, quàm clara quaedam & distincta perceptio ejus quòd affirmo.",
+      "derivation": "Author poses a self-question and answers it. Answer window taken as the operative answering clause 'Nempe ... quòd affirmo', stopping at the semicolon where the reply turns to elaboration ('quae sane non sufficeret ad me certum ... statuere'). Terminal punctuation normalized to a period."
+    },
+    {
+      "locus": "Descartes, Meditatio III, 3",
+      "type": "authorial-rhetorical",
+      "question": "Qualia ergo ista fuere?",
+      "answer": "Nempe terra, coelum, sydera & caetera omnia quae sensibus usurpabam.",
+      "derivation": "Self-posed question immediately answered by the next sentence; clean full-stop boundary on both. No trimming needed."
+    },
+    {
+      "locus": "Descartes, Meditatio III, 3",
+      "type": "authorial-rhetorical",
+      "question": "Quid autem de illis clare percipiebam?",
+      "answer": "Nempe ipsas talium rerum ideas, sive cogitationes, menti meae obversari.",
+      "derivation": "Self-posed question immediately answered by the next sentence; clean full-stop boundary. The following sentence 'Sed ne nunc quidem ...' begins a new turn and is excluded."
+    },
+    {
+      "locus": "Descartes, Meditatio III, 29",
+      "type": "authorial-rhetorical",
+      "question": "A quo essem?",
+      "answer": "A me scilicet, vel a parentibus, vel ab aliis quibuslibet Deo minus perfectis.",
+      "derivation": "Self-posed question answered immediately. Framing word 'Nempe' dropped from the start of the question (it narrates the asking). Answer ends at the full stop before 'nihil enim ipso perfectius ...', which is supporting elaboration. First word of question capitalized after dropping 'Nempe'."
+    }
+  ]
+}

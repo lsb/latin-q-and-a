@@ -1,0 +1,19 @@
+{
+  "source": "text/descartes/des.med2.txt",
+  "pairs": [
+    {
+      "locus": "Descartes, Meditatio II.5",
+      "type": "authorial-rhetorical",
+      "question": "Quidnam igitur antehac me esse putavi?",
+      "answer": "Hominem scilicet.",
+      "derivation": "Section marker [5] stripped. The author poses the interrogative and answers it himself with 'Hominem scilicet.' (a man, of course). The answer ends at that full stop; what follows ('Sed quid est homo? Dicamne animal rationale? Non...') opens a new question and is excluded."
+    },
+    {
+      "locus": "Descartes, Meditatio II.8",
+      "type": "authorial-rhetorical",
+      "question": "Sed quid igitur sum? Res cogitans. Quid est hoc?",
+      "answer": "Nempe dubitans, intelligens, affirmans, negans, volens, nolens, imaginans quoque, & sentiens.",
+      "derivation": "Section marker [8] stripped; this is the entirety of section 8. The setup 'Sed quid igitur sum? Res cogitans.' is kept verbatim so that 'hoc' in 'Quid est hoc?' has its referent (res cogitans). The operative interrogative is 'Quid est hoc?', answered by the full enumeration introduced by 'Nempe'. Nothing was cut after; the answer runs to the end of the section."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/phil14.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippic 14.13",
+      "type": "direct-speech",
+      "question": "Tu igitur ipse de te?",
+      "answer": "Equidem invitus, sed iniuriae dolor facit me praeter consuetudinem gloriosum.",
+      "derivation": "A hypothetical interlocutor objects ('dixerit quispiam' = 'someone might say', dropped as framing narration of the speaking). The question 'Tu igitur ipse de te?' is a genuine interrogative challenge that Cicero answers directly with 'Equidem invitus...'. The answer is its first full sentence; the following 'Nonne satis est...' turns to a fresh rhetorical question and is excluded."
+    },
+    {
+      "locus": "Cicero, Philippic 14.28",
+      "type": "authorial-rhetorical",
+      "question": "An vero quisquam dubitabit appellare Caesarem imperatorem?",
+      "answer": "Aetas eius certe ab hac sententia neminem deterrebit, quandoquidem virtute superavit aetatem.",
+      "derivation": "Cicero poses a rhetorical question (will anyone hesitate to call Caesar imperator?) and answers it himself. The answer span ends at the first full stop; what follows ('Ac mihi semper eo maiora beneficia...') digresses into praise of Caesar's benefactions rather than continuing to answer."
+    }
+  ]
+}

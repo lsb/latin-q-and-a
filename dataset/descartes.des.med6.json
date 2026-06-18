@@ -1,0 +1,12 @@
+{
+  "source": "text/descartes/des.med6.txt",
+  "pairs": [
+    {
+      "locus": "Descartes, Meditationes 6.6",
+      "type": "authorial-rhetorical",
+      "question": "Cur verò ex isto nescio quo doloris sensu quaedam animi tristitia, & ex sensu titillationis laetitia quaedam consequatur, curve illa nescio quae vellicatio ventriculi, quam famem voco, me de cibo sumendo admoneat, gutturis verò ariditas de potu, & ita de caeteris?",
+      "answer": "Non aliam sane habebam rationem, nisi quia ita doctus sum a naturâ.",
+      "derivation": "Authorial rhetorical question posed and answered by the author. Question is the full interrogative period beginning 'Cur verò...' through '& ita de caeteris'; terminal comma normalized to '?'. The answer is the operative answering clause 'non aliam... a naturâ', with initial 'non' capitalized; what follows after the cut ('neque enim ulla plane est affinitas...') is elaboration on the lack of natural affinity, so it is excluded. Page marker [76] does not fall within either span."
+    }
+  ]
+}

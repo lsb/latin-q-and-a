@@ -1,0 +1,12 @@
+{
+  "source": "text/gellius/gellius5.txt",
+  "pairs": [
+    {
+      "locus": "Gellius 5.5.4-5",
+      "type": "direct-speech",
+      "question": "Putasne conferri posse ac satis esse Romanis haec omnia?",
+      "answer": "Satis, plane satis esse credo Romanis haec omnia, etiamsi avarissimi sunt.",
+      "derivation": "Direct-speech exchange: king Antiochus, showing his lavishly armed army, asks Hannibal whether it is enough for the Romans; Hannibal's reply (mocking the soldiers' worth as plunder) directly answers. Dropped the framing narration 'Hannibalem aspicit et \"putasne\" inquit' and 'Tum Poenus eludens ignaviam inbelliamque militum eius pretiose armatorum:' before the answer; capitalized 'Putasne' and added the '?'. The whole quoted answer-sentence is the operative reply (ends at the full stop); what follows ('Nihil prorsum...') is the author's own commentary, not the answer."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/serm7.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 7",
+      "type": "authorial-rhetorical",
+      "question": "Catholica non hoc dicit. Sed quid dicit?",
+      "answer": "Deus pater, deus filius; incommutabilis pater, incommutabilis filius; aeternus pater, coaeternus filius; inuisibilis pater, inuisibilis filius.",
+      "derivation": "Authorial rhetorical question: Augustine asks what the catholic faith says (quid dicit?), with 'catholica non hoc dicit' kept as verbatim setup so the elided subject (catholica fides) has a referent. The answer is the immediately following enumeration, ending at the first full stop after 'inuisibilis filius'; the next sentence ('nam si patrem dixeris...') begins a new argument and is cut."
+    },
+    {
+      "locus": "Augustine, Sermo 7",
+      "type": "authorial-rhetorical",
+      "question": "An ipsa trinitas erat? Quare ergo dominus?",
+      "answer": "Quia trinitas unus dominus non sunt tres domini, et trinitas unus deus non tres dii; una substantia, tres personae.",
+      "derivation": "Authorial rhetorical question answered by a quia-clause. The operative question is 'quare ergo dominus?'; the preceding 'an ipsa trinitas erat?' is kept verbatim and contiguous as setup so 'dominus' (the trinity called lord) has its referent. The earlier 'quare tres?' is dropped because it is not what the quia-clause answers. Answer ends at the first full stop after 'tres personae'; the following sentence ('neque enim pater filius est...') elaborates and is cut."
+    }
+  ]
+}

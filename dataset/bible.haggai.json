@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/haggai.txt",
+  "pairs": [
+    {
+      "locus": "Haggai 2.13",
+      "type": "direct-speech",
+      "question": "Si tulerit homo carnem sanctificatam in ora vestimenti sui et tetigerit de summitate eius panem aut pulmentum aut vinum aut oleum aut omnem cibum numquid sanctificabitur?",
+      "answer": "Non.",
+      "derivation": "Haggai is instructed (interroga sacerdotes legem dicens) to put a legal question to the priests; the utterance is the conditional ending in the interrogative numquid sanctificabitur. The answering speech tag 'respondentes autem sacerdotes dixerunt' is framing/narration and is dropped, leaving the priests' actual one-word answer 'non'."
+    },
+    {
+      "locus": "Haggai 2.14",
+      "type": "direct-speech",
+      "question": "Si tetigerit pollutus in anima ex omnibus his numquid contaminabitur?",
+      "answer": "Contaminabitur.",
+      "derivation": "Aggeus asks (et dixit Aggeus, dropped as framing) a parallel conditional ending in the interrogative numquid contaminabitur. The priests' speech tag 'responderunt sacerdotes et dixerunt' is framing and dropped, leaving their actual answer 'contaminabitur'."
+    }
+  ]
+}

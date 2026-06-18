@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/inventione2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Inventione 2.171",
+      "type": "authorial-rhetorical",
+      "question": "Quid igitur haec perficere potest necessitudinis distributio?",
+      "answer": "Prope dicam plurimum, cum locus necessitudinis videbitur incurrere.",
+      "derivation": "Cicero poses a question to himself and answers it in his own voice. The question is verbatim. The answer window is the first responding sentence (to the first full stop): 'Prope dicam plurimum, cum locus necessitudinis videbitur incurrere.' = 'I would almost say a great deal...', directly answering 'what can it accomplish?' with 'plurimum'. Cut before 'Nam cum simplex erit necessitudo...', which begins elaboration on the mechanism rather than answering. Section marker [171] and the framing narration ('Atque etiam hoc mihi videor videre...') preceding the question are stripped."
+    }
+  ]
+}

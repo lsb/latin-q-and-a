@@ -1,0 +1,12 @@
+{
+  "source": "text/bible/macabees1.txt",
+  "pairs": [
+    {
+      "locus": "1 Maccabees 3.17-18",
+      "type": "direct-speech",
+      "question": "Quomodo poterimus pauci pugnare ad multitudinem tantam tam fortem et nos fatigati sumus ieiunio hodie?",
+      "answer": "Facile est concludi multos in manus paucorum et non est differentia in conspectu Dei caeli liberare in multis et in paucis.",
+      "derivation": "When the men see the approaching army (3.17) they ask Judas a genuine interrogative; the speech tag 'dixerunt Iudae' is dropped as framing and the first word capitalized with a terminal '?' added. The answer is Judas's direct reply (3.18) with the tag 'et ait Iudas' dropped; the window ends at the first full stop ('...in paucis'), which directly answers the 'how can we few fight many?' question. Verse 19 onward ('quia non in multitudine exercitus victoria belli...') elaborates the theology and is cut as digression."
+    }
+  ]
+}

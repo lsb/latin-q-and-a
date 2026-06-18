@@ -1,0 +1,12 @@
+{
+  "source": "text/bible/john1.txt",
+  "pairs": [
+    {
+      "locus": "1 John 3.12",
+      "type": "authorial-rhetorical",
+      "question": "Non sicut Cain: ex maligno erat et occidit fratrem suum et propter quid occidit eum?",
+      "answer": "Quoniam opera eius maligna erant fratris autem eius iusta.",
+      "derivation": "The author poses and answers his own question. The interrogative 'propter quid occidit eum?' needs the preceding clauses 'Non sicut Cain: ex maligno erat et occidit fratrem suum' as setup so 'eum' (Cain's brother) has a referent; all kept verbatim and contiguous. The answer is the immediately following 'Quoniam...' sentence, which directly states the reason. Section/verse number '12' stripped as scaffolding. Other '?'-bearing lines (quomodo caritas Dei manet in eo?; Deum quem non vidit quomodo potest diligere?; Quis est qui vincit mundum...?) were dropped: each is rhetorical with no genuine answering utterance following (an exhortation/command or topic shift follows instead)."
+    }
+  ]
+}

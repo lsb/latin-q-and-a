@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/fam4.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Familiares 4.3",
+      "type": "authorial-rhetorical",
+      "question": "Quid me ista res consolatur in tantis tenebris et quasi parietinis rei publicae?",
+      "answer": "Sed tamen et Caesar ipse ita de te iudicat et omnes cives sic existimant, quasi lumen aliquod exstinctis ceteris elucere sanctitatem et prudentiam et dignitatem tuam: haec tibi ad levandas molestias magna esse debent.",
+      "derivation": "Cicero anticipates Sulpicius's objection, framed by 'Dices:' (meta-narration of speaking, dropped) and quoted with quotation marks (stripped); the utterance is a genuine 'quid' interrogative. He then answers it himself (authorial-rhetorical). The reply opens with a concessive preamble that does NOT answer how the thing consoles ('Est omnino vix consolabilis dolor—tanta est omnium rerum amissio et desperatio recuperandi—'), so the answer's start is advanced to the operative 'sed tamen' clause. The window ends at the full stop after 'magna esse debent'; the next sentence 'Quod autem a tuis abes...' turns to a new topic."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/fin3.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Finibus 3.10",
+      "type": "direct-speech",
+      "question": "Tu autem cum ipse tantum librorum habeas, quos hic tandem requiris?",
+      "answer": "Commentarios quosdam, Aristotelios, quos hic sciebam esse, veni ut auferrem, quos legerem, dum essem otiosus.",
+      "derivation": "Cato asks (interrogative quos...requiris?) what books Cicero is looking for. The section marker [10] and the framing 'Tum ille:' are scaffolding/narration and dropped. In the reply the speech tag 'inquam' is dropped from 'Commentarios quosdam, inquam, Aristotelios'. Answer ends at the first full stop; the following 'quod quidem nobis non saepe contingit' is an added aside on being at leisure, cut as elaboration."
+    },
+    {
+      "locus": "Cicero, De Finibus 3.13",
+      "type": "direct-speech",
+      "question": "Quaero nonne tibi faciendum idem sit nihil dicenti bonum, quod non rectum honestumque sit, reliquarum rerum discrimen omne tollenti?",
+      "answer": "Si quidem tollerem, sed relinquo.",
+      "derivation": "Genuine interrogative (nonne) in which Cicero asks whether Cato must abolish all distinction among other things. The section marker [13], the lead 'Istud quidem, inquam, optime dicis, sed' (praise that precedes the question), and the speech tag 'inquam' are dropped as framing; 'quaero' is kept as it introduces the actual question. Cato answers directly: 'Si quidem, inquit, tollerem, sed relinquo' with the tag 'inquit' dropped. Self-contained answer; nothing cut after it."
+    }
+  ]
+}

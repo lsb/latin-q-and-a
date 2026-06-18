@@ -1,0 +1,19 @@
+{
+  "source": "text/columella/columella.rr11.txt",
+  "pairs": [
+    {
+      "locus": "Columella, De Re Rustica 11.1.11-12",
+      "type": "authorial-rhetorical",
+      "question": "Etenim quae probabilis ratio est obmutescendi, quia nequeas orator esse perfectus, aut in socordiam conpelli, quia desponderis sapientiam?",
+      "answer": "Magnae rei, quantulumcumque possederis, fuisse participem, non minima est gloria.",
+      "derivation": "Author poses a rhetorical question (what reasonable ground is there for giving up because one cannot reach perfection) and answers it himself in the next sentence at the start of section [12]. Answer ends at the first full stop, before the next sentence 'Quis ergo, inquis, docebit...' which begins a new, separate question. Section marker [12] stripped."
+    },
+    {
+      "locus": "Columella, De Re Rustica 11.1.12",
+      "type": "authorial-rhetorical",
+      "question": "Quis ergo docebit futurum vilicum, si nullus professor est?",
+      "answer": "Verumtamen ut universae disciplinae vix aliquem consultum, sic plurimos partium eius invenias magistros, per quos efficere queas perfectum vilicum.",
+      "derivation": "Author voices an interlocutor's question; the framing 'inquis' is dropped as speech-tag narration. The reply opens with a non-answering concession ('Et ego intellego, difficillimum esse ab uno velut auctore cuncta rusticationis consequi praecepta.') which merely grants the difficulty rather than naming a teacher, so the answer's start is advanced to the operative 'Verumtamen...' sentence, which actually answers (there are many teachers of the parts of the discipline). Answer ends at the full stop; what follows ('Nam et arator reperiatur...') is elaboration."
+    }
+  ]
+}

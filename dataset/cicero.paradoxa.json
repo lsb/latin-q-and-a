@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/paradoxa.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Paradoxa Stoicorum 9",
+      "type": "authorial-rhetorical",
+      "question": "Quid est igitur bonum?",
+      "answer": "Si, quod recte fit et honeste et cum virtute, id bene fieri vere dicitur, quod rectum et honestum et cum virtute est, id solum opinor bonum.",
+      "derivation": "Author poses the question himself; framing 'quaeret aliquis' (narration of someone asking) dropped from inside the sentence, leaving the contiguous interrogative 'Quid est igitur bonum?'. Answer is Cicero's own immediately following definition; it runs to the full stop before 'Sed haec videri possunt...', which turns from answering to a new remark."
+    },
+    {
+      "locus": "Cicero, Paradoxa Stoicorum 25",
+      "type": "direct-speech",
+      "question": "Etiamne in minimis rebus?",
+      "answer": "Etiam, siquidem rerum modum figere non possumus, animorum modum tenere possumus.",
+      "derivation": "An interlocutor's genuine interrogative ('Even in the smallest matters?') directly answered with 'Etiam' ('Yes, if...'). Answer ends at the full stop; the next sentence ('Histrio si paulum se movit...') begins a fresh illustration."
+    },
+    {
+      "locus": "Cicero, Paradoxa Stoicorum 34",
+      "type": "authorial-rhetorical",
+      "question": "Quid est enim libertas?",
+      "answer": "Potestas vivendi, ut velis.",
+      "derivation": "Author asks and answers himself. Question kept whole including connective 'enim'; answer is the terse definition that follows, ending at its full stop before the next question 'Quis igitur vivit...'."
+    },
+    {
+      "locus": "Cicero, Paradoxa Stoicorum 42",
+      "type": "authorial-rhetorical",
+      "question": "Quem enim intellegimus divitem aut hoc verbum in quo homine ponimus?",
+      "answer": "Opinor in eo, quoi tanta possessio sit, ut ad liberaliter vivendum facile contentus sit, qui nihil quaerat, nihil appetat, nihil optet amplius.",
+      "derivation": "Author poses the question and answers it himself ('Opinor in eo...'). Answer runs to its full stop before the next sentence ('Animus oportet tuus se iudicet divitem...'), which shifts to exhortation."
+    }
+  ]
+}

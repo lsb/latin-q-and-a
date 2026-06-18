@@ -1,0 +1,12 @@
+{
+  "source": "text/caesar/bc2.txt",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Civili 2.39",
+      "type": "direct-speech",
+      "question": "Quis castris ad Bagradam praesit?",
+      "answer": "Saburram.",
+      "derivation": "Curio interrogates the captives: the framing tag 'e captivis quaerit' is dropped and 'respondent' is dropped from the answer. Question = the indirect-question clause delivered as the operative interrogative 'quis castris ad Bagradam praesit', capitalized with terminal '?'. Answer = the accusative reply 'Saburram' (Saburram esse, accusative of the indirect statement) with terminal period. Nothing was cut from the middle; only the speech tags were removed."
+    }
+  ]
+}

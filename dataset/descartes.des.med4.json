@@ -1,0 +1,12 @@
+{
+  "source": "text/descartes/des.med4.txt",
+  "pairs": [
+    {
+      "locus": "Descartes, Meditationes IV.9",
+      "type": "authorial-rhetorical",
+      "question": "Unde ergo nascuntur mei errores?",
+      "answer": "Nempe ex hoc uno quòd, cùm latius pateat voluntas quàm intellectus, illam non intra eosdem limites contineo, sed etiam ad illa quae non intelligo extendo; ad quae cùm sit indifferens, facile a vero & bono deflectit, atque ita & fallor & pecco.",
+      "derivation": "Author poses the question 'whence do my errors arise?' and answers it himself. The answer begins at 'Nempe' (the operative reply) and runs to the first full stop at 'pecco.'; the whole sentence is retained because it states the cause (will exceeding intellect) and is one continuous explanation with no digression. Stripped section marker '9.'. Nothing precedes 'Unde'/follows 'pecco.' that belongs to the pair."
+    }
+  ]
+}

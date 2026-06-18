@@ -1,0 +1,12 @@
+{
+  "source": "text/caesar/gall6.txt",
+  "pairs": [
+    {
+      "locus": "De Bello Gallico 6.35",
+      "type": "direct-speech",
+      "question": "Quid vos hanc miseram ac tenuem sectamini praedam, quibus licet iam esse fortunatissimos?",
+      "answer": "Tribus horis Aduatucam venire potestis: huc omnes suas fortunas exercitus Romanorum contulit: praesidi tantum est, ut ne murus quidem cingi possit, neque quisquam egredi extra munitiones audeat.",
+      "derivation": "A captive (unus ex captivis) poses a real rhetorical interrogative (Quid... sectamini praedam?) and answers it himself within the same continuous utterance. Dropped the speech tag 'inquit' (interleaved as '\"Quid vos,\" inquit, \"hanc...'); the question is quoted contiguously across that tag. The answer is the operative following sentences of the same speech, beginning at 'Tribus horis' (which directly responds: stop chasing this plunder because a far richer, near-undefended prize is three hours away) and ending at 'audeat', the last sentence of the utterance before the narration resumes with 'Oblata spe Germani...'."
+    }
+  ]
+}

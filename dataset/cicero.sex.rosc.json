@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/sex.rosc.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Sex. Roscio Amerino 2",
+      "type": "authorial-rhetorical",
+      "question": "Audacissimus ego ex omnibus?",
+      "answer": "Minime.",
+      "derivation": "Cicero poses and immediately answers his own question. Stripped the section marker [2] and the preceding framing interjection 'Quid ergo?'. The question 'Audacissimus ego ex omnibus?' is self-contained ('Am I the boldest of all?'); the answer is the single-word retort 'Minime.' What follows ('An tanto officiosior quam ceteri?') is a new, separate question, so the window ends after 'Minime.'"
+    },
+    {
+      "locus": "Cicero, Pro Sex. Roscio Amerino 54",
+      "type": "direct-speech",
+      "question": "Exheredavitne?",
+      "answer": "Non.",
+      "derivation": "Dramatized cross-examination of the imagined accuser: Cicero asks 'Exheredavitne?' ('Did he disinherit him?') and quotes the adversary's reply 'Non.' ('No.'). Quotation marks around 'Non' are presentation only. Self-contained interrogative with a direct quoted answer; the next question 'Quis prohibuit?' begins a new exchange, so the window stops at 'Non.'"
+    },
+    {
+      "locus": "Cicero, Pro Sex. Roscio Amerino 92",
+      "type": "direct-speech",
+      "question": "Ubi occisus est Sex. Roscius?",
+      "answer": "Romae.",
+      "derivation": "Dramatized exchange: Cicero asks where Roscius was killed and gives the answer 'Romae' (set off in the source by an em-dash). Stripped the section marker [92]. Question and answer are both self-contained; the answer is just 'Romae.' The continuation ('Quid? tu, T. Rosci...') is a separate question, so the window ends after 'Romae.'"
+    },
+    {
+      "locus": "Cicero, Pro Sex. Roscio Amerino 92",
+      "type": "direct-speech",
+      "question": "Tu, T. Rosci, ubi tunc eras?",
+      "answer": "Romae.",
+      "derivation": "Second dramatized question in the same exchange, addressed to the defendant's accuser T. Roscius: 'where were you then?' answered 'Romae' (set off by an em-dash in the source). Dropped the framing interjection 'Quid?' and normalized 'tu' to 'Tu' at the start. The answer window ends at 'Romae.'; what follows ('Verum quid ad rem? et alii multi.') is Cicero's own commentary, not the answer."
+    }
+  ]
+}

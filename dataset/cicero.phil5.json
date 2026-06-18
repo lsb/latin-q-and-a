@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/phil5.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippic 5.32",
+      "type": "authorial-rhetorical",
+      "question": "Quarum partium?",
+      "answer": "Alteri victi sunt, alteri sunt e mediis C. Caesaris partibus.",
+      "derivation": "Cicero reports Antonius's claim (partium contentionem esse dictitat), then poses the genuine interrogative 'Quarum partium?' ('Of which parties?') and answers it directly: one side has been defeated, the other comes from the midst of Caesar's own party. The setup 'partium contentionem esse dictitat' precedes and supplies the referent for 'partium', but the question stands self-contained. Answer cut after the first full stop ('...C. Caesaris partibus.'); what follows ('nisi forte Caesaris partes a Pansa et Hirtio...') is further elaboration/digression, not the direct answer."
+    }
+  ]
+}

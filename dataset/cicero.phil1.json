@@ -1,0 +1,40 @@
+{
+  "source": "text/cicero/phil1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Philippic 1.3",
+      "type": "direct-speech",
+      "question": "Num qui exsules restituti?",
+      "answer": "Unum aiebat, praeterea neminem.",
+      "derivation": "Direct-speech exchange: Cicero narrates the senate's question and Antony's reply (aiebat = speech verb). Answer ends at the full stop before the next question 'Num immunitates datae?'. No framing inside the quoted utterance."
+    },
+    {
+      "locus": "Cicero, Philippic 1.3",
+      "type": "direct-speech",
+      "question": "Num immunitates datae?",
+      "answer": "Nullae.",
+      "derivation": "Direct-speech: Cicero asks, Antony replies 'Nullae' (respondebat is the speech tag, dropped as framing). Real interrogative with a genuine answer. The following 'Assentiri etiam nos Ser. Sulpicio...' begins a new topic, so the answer stops at 'Nullae'."
+    },
+    {
+      "locus": "Cicero, Philippic 1.18",
+      "type": "authorial-rhetorical",
+      "question": "Pompei tertius consulatus in quibus actis constitit?",
+      "answer": "Nempe in legibus.",
+      "derivation": "Cicero poses the question and answers it himself. Answer is the immediate reply, ending at the full stop before 'De Caesare ipso si quaereres...'. Real interrogative; genuine self-answer."
+    },
+    {
+      "locus": "Cicero, Philippic 1.20",
+      "type": "direct-speech",
+      "question": "At quae est ista tertia decuria?",
+      "answer": "Centurionum.",
+      "derivation": "Cicero asks what the third judicial panel is; Antony answers 'Centurionum' (inquit dropped as speech tag). Real interrogative + direct answer; the following 'Quid? isti ordini iudicatus...' is Cicero's rebuttal, so the answer stops at 'Centurionum'."
+    },
+    {
+      "locus": "Cicero, Philippic 1.25",
+      "type": "direct-speech",
+      "question": "Quas tu mihi intercessiones? quas religiones?",
+      "answer": "Eas scilicet, quibus rei publicae salus continetur.",
+      "derivation": "Antony's quoted question (inquit dropped as framing; the two interrogative clauses are contiguous in the source) is answered directly by Cicero. Answer ends at the full stop; the next sentence is a fresh quotation of Antony ('Negligimus ista...')."
+    }
+  ]
+}

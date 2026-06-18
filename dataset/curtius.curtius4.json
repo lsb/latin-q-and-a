@@ -1,0 +1,19 @@
+{
+  "source": "text/curtius/curtius4.txt",
+  "pairs": [
+    {
+      "locus": "Curtius Rufus, Historiae Alexandri Magni 4.1",
+      "type": "direct-speech",
+      "question": "Corporis habitus famae generis non repugnat, sed libet scire inopiam qua patientia tuleris?",
+      "answer": "Vtinam eodem animo regnum pati possim! Hae manus suffecere desiderio meo; nihil habenti nihil defuit.",
+      "derivation": "Alexander questions the newly-elevated Abdalonymus and is answered directly. Dropped the speech tag 'inquit' from both utterances (question: 'sed libet scire... inquit, ... tuleris?'; answer: 'Vtinam, inquit, eodem animo...'). Normalized initial capital of the answer. The answer is kept whole through 'nihil habenti nihil defuit' (the reply's full operative content about how he bore poverty); what follows is narration ('Magnae indolis specimen ex hoc sermone...')."
+    },
+    {
+      "locus": "Curtius Rufus, Historiae Alexandri Magni 4.10",
+      "type": "direct-speech",
+      "question": "Num, quod maxime suspicor, et loqui timeo, ludibria meorum nuntiaturus es mihi et, ut credo, ipsis quoque omni tristiora supplicio?",
+      "answer": "Istud quidem procul abest; quantuscumque enim reginis honos ab his qui parent haberi potest, tuis a victore servatus est. Sed uxor tua paulo ante excessit e vita.",
+      "derivation": "Darius questions the eunuch Tyriotes, who answers directly. The question window begins at the interrogative 'Num...' sentence; the preceding 'Vultus tuus...' clause is dropped both as non-interrogative setup and because it carries an OCR-corrupted word ('malium' for 'malum'), which rule 1/3 forbid altering. Question's 'inquit' and the answer's 'inquit' removed. The answer's denial ('Istud quidem procul abest...') and the real news ('Sed uxor tua paulo ante excessit e vita') both directly answer the question and are quoted contiguous and verbatim; what follows is narration ('Tunc vero non gemitus modo...')."
+    }
+  ]
+}

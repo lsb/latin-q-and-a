@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/adbrutum2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Brutum 2.5.4",
+      "type": "authorial-rhetorical",
+      "question": "Confirmarem?",
+      "answer": "Non erat dignitatis tuae.",
+      "derivation": "Deliberative self-question and its own answer. Cicero, narrating his quandary over the letters read in the senate, asks himself whether he should confirm them (confirmarem?) and answers that doing so would not have befitted Brutus's dignity (non erat dignitatis tuae). Stripped the [V] section marker and surrounding narration. The immediately preceding pair 'falsas dicerem? quid si tu eas adprobasses?' was dropped because its reply is itself a counter-question, not an answer. The answer window ends at the first full stop (non erat dignitatis tuae.), before the following sentence 'itaque ille dies silentio.' which moves on to narrating events."
+    }
+  ]
+}

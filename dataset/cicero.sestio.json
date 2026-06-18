@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/sestio.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Sestio 98",
+      "type": "authorial-rhetorical",
+      "question": "Quid est igitur propositum his rei publicae gubernatoribus quod intueri et quo cursum suum derigere debeant?",
+      "answer": "Id quod est praestantissimum maximeque optabile omnibus sanis et bonis et beatis, cum dignitate otium.",
+      "derivation": "A clean authorial-rhetorical Q&A: Cicero poses a genuine interrogative (quid est propositum...?) and answers it himself in the very next sentence, the famous definition 'cum dignitate otium'. Answer ends at its first full stop, before the elaboration 'hoc qui volunt, omnes optimates...'; nothing trimmed internally. Stripped the section marker [98] from the start of the answer span. Only the question's first word was capitalized as presentation normalization."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/trin8.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Trinitate 8.6.9",
+      "type": "authorial-rhetorical",
+      "question": "Sed ubi nouimus quid sit iustus etiam cum iusti nondum sumus?",
+      "answer": "In nobis igitur nouimus quid sit iustus.",
+      "derivation": "Augustine asks where we know what the just is even when not yet just. The reply opens with a hypothesis and its rejection ('Si extra quam nos nouimus, in corpore aliquo nouimus. Sed non est ista res corporis.'), which do not answer the 'ubi' question. Per the skip-preamble rule the answer start advances past these to the operative answering sentence 'In nobis igitur nouimus quid sit iustus.', which directly answers 'where'. What follows ('Non enim alibi hoc inuenio cum quaero...') is elaboration, so the window stops at the first full stop."
+    },
+    {
+      "locus": "Augustine, De Trinitate 8.8.12",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo diligit caritas nisi quod caritate diligimus?",
+      "answer": "Id autem ut a proximo prouehamur frater est.",
+      "derivation": "Augustine poses the interrogative asking what charity loves, then in the immediately following sentence identifies that object: 'Id autem ut a proximo prouehamur frater est.' ('id' refers back to 'quod caritate diligimus'). The window ends at the first full stop; what follows ('Dilectionem autem fraternam quantum commendet Iohannes apostolus attendamus...') turns to scriptural support and is not part of the direct answer. The section marker '[VIII 12]' and surrounding context were stripped as scaffolding/narration."
+    }
+  ]
+}

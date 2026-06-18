@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/topica.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Topica 25",
+      "type": "authorial-rhetorical",
+      "question": "Utrum igitur hactenus satis est?",
+      "answer": "Tibi quidem tam acuto et tam occupato puto.",
+      "derivation": "Cicero poses a real interrogative to himself/Trebatius and answers it. The answer window ends at the first full stop ('...puto.'). What follows ('Sed quoniam avidum hominem ad has discendi epulas recepi...') reverses course to elaborate on continuing anyway, so it is digression and is cut. The section marker [25] and inline Greek/garbled artifacts elsewhere are not in this span."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/hugo/hugo3.txt",
+  "pairs": [
+    {
+      "locus": "Hugo, Didascalicon 3.14",
+      "type": "direct-speech",
+      "question": "Numquid non vides quia te derident homines?",
+      "answer": "Ipsi me derident, et eos asini.",
+      "derivation": "Direct-speech exchange: a man says to the philosopher (framing 'quidam philosopho referebat dicens' dropped) the genuine interrogative 'Numquid non vides quia te derident homines?' The philosopher answers (speech tag 'inquit' dropped from interior of 'Ipsi me, inquit, derident, et eos asini') with 'Ipsi me derident, et eos asini.' which genuinely retorts. Window ends at the full stop; what follows ('cogita si potes, quanti aestimaverit...') is authorial narration."
+    }
+  ]
+}

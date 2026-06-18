@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/serm73.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 73.4",
+      "type": "authorial-rhetorical",
+      "question": "Sinite utraque crescere usque ad messem. Quare?",
+      "answer": "Tales enim estis, ut falli possitis.",
+      "derivation": "Augustine quotes the dominical command and poses his own one-word question 'quare?' answering it himself. The setup 'sinite utraque crescere usque ad messem' is kept so 'quare?' has a referent (why let both grow). The answer ends at the first full stop ('possitis'); what follows ('denique audi: ...') turns to a fresh exhortation/scriptural citation, not part of the answer. Capitalization of 'Sinite' and 'Tales' and terminal punctuation normalized; no Latin words added or reordered."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source": "text/campion/campion.epigr2.txt",
+  "pairs": [
+    {
+      "locus": "Campion, Epigrammata 2.14",
+      "type": "direct-speech",
+      "question": "Furem cur nollet prodere voce?",
+      "answer": "Se clamare cupisse, prehendi solam cum solo sed metuisse viro.",
+      "derivation": "The poet asks (rogo, dropped as speech-frame) why Mellea would not betray the ravisher with her voice; she answers via respondit (the speech verb plus its narration-subject 'mala' dropped as framing). The utterance is the indirect statement 'se clamare cupisse, prehendi solam cum solo sed metuisse viro' (kept contiguous in source order). The closing couplet 'o pudor insignis...' is the poet's own apostrophe, not part of the answer, so it is excluded."
+    },
+    {
+      "locus": "Campion, Epigrammata 2.24",
+      "type": "authorial-rhetorical",
+      "question": "Cur mirabilis omnibus, Marine, scriptor fit Plato?",
+      "answer": "Quippe fabulosus.",
+      "derivation": "Final couplet of the poem: the poet poses the question 'why does Plato become a writer admired by all?' and answers it himself with 'quippe fabulosus' (because he is full of fables). 'quippe' introduces the answering reason. Nothing follows the answer."
+    },
+    {
+      "locus": "Campion, Epigrammata 2.200",
+      "type": "direct-speech",
+      "question": "Nupsisse filiam, Ole, foenorati gestis; quid ita? Corrupta nun datur?",
+      "answer": "Prorsus ut dicis, et gravida.",
+      "derivation": "Setup 'Nupsisse filiam, Ole, foenorati gestis' is kept verbatim so the question 'is she given already corrupted?' has a referent. Olus answers; the speech-frame 'ais' (interleaved between the quoted words) is dropped, leaving the contiguous utterance 'prorsus ut dicis, et gravida'. The poet's following remark 'te, Ole, iam laudo qui fenus addis tale fenoratori' is excluded as not part of the answer."
+    },
+    {
+      "locus": "Campion, Epigrammata 2.210",
+      "type": "direct-speech",
+      "question": "Cur non salutem te equo vectum?",
+      "answer": "Ne equum tuum videar, Ligo, salutasse.",
+      "derivation": "Ligo asks; the speech verb 'rogas' embedded in the question is dropped as framing, leaving the interrogative 'Cur non salutem te equo vectum?'. The poet's reply 'ne equum tuum videar, Ligo, salutasse' is the whole and direct answer; nothing follows."
+    },
+    {
+      "locus": "Campion, Epigrammata 2.222",
+      "type": "authorial-rhetorical",
+      "question": "Iste Bromus quis sit qui se cupit esse facetum?",
+      "answer": "Planus.",
+      "derivation": "The poet poses the question and answers it himself with the punning 'planus'. The interposed framing 'plane vis dicam, Pontiliane?' ('do you want me to say plainly?') narrates the act of answering and is dropped, leaving the operative question 'Iste Bromus quis sit qui se cupit esse facetum?' followed by 'planus'."
+    }
+  ]
+}

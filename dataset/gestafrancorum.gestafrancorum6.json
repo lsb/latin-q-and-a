@@ -1,0 +1,12 @@
+{
+  "source": "text/gestafrancorum/gestafrancorum6.txt",
+  "pairs": [
+    {
+      "locus": "Gesta Francorum 6.17",
+      "type": "authorial-rhetorical",
+      "question": "Sed scitis quid faciemus?",
+      "answer": "Faciamus ex nobis duas partes.",
+      "derivation": "Within Boamundus's direct speech he poses a real interrogative (\"do you know what we shall do?\") and immediately answers it himself with \"Faciamus ex nobis duas partes\" (\"let us make two parts of ourselves\"). Cut the answer at the first full stop; what follows (\"Pars peditum remaneat...\") elaborates the plan rather than giving the core answer. The earlier \"quid facturi erimus?\" is left out as it is a rhetorical lament not directly answered. Speech tag and surrounding narration dropped as framing."
+    }
+  ]
+}

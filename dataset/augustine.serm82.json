@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/serm82.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 82.7",
+      "type": "direct-speech",
+      "question": "Quid dicis, domine?",
+      "answer": "Si peccauerit in te frater tuus, corripe illum inter te et ipsum solum.",
+      "derivation": "Augustine addresses the Lord with a direct interrogative and gives the Lord's own evangelical words as the answer. Boundaries are the single question sentence and the single quoted scriptural reply; what follows is the parallel exchange addressed to the apostle. Capitalized first word, no other changes."
+    },
+    {
+      "locus": "Augustine, Sermo 82.7",
+      "type": "direct-speech",
+      "question": "Quid dicis, apostole?",
+      "answer": "Peccantes coram omnibus argue, ut et caeteri timorem habeant.",
+      "derivation": "Augustine addresses the apostle with a direct interrogative; the answer is the quoted Pauline precept. The quote ends at its full stop; what follows is 'quid facimus? controuersiam istam...'. Capitalized first word."
+    },
+    {
+      "locus": "Augustine, Sermo 82.10",
+      "type": "authorial-rhetorical",
+      "question": "Quando facimus ista cum gaudio?",
+      "answer": "Quando uidemus homines proficere in uerbis dei.",
+      "derivation": "Author poses a real 'quando' interrogative and answers it himself. Answer ends at its full stop; what follows is a further parallel question 'quando laborat cum gaudio operarius in agro?'. Capitalized first word."
+    },
+    {
+      "locus": "Augustine, Sermo 82.10",
+      "type": "authorial-rhetorical",
+      "question": "Quando laborat cum gaudio operarius in agro?",
+      "answer": "Quando attendit arborem, et fructum uidet; quando attendit segetem, et frugum in area prospicit ubertatem.",
+      "derivation": "Author's 'quando' interrogative answered by the parallel 'quando' clauses naming when the worker rejoices; the answer runs to the first full stop. What follows is the elaboration 'non sine causa laborauit...'. Capitalized first word; terminal semicolon replaced by full stop."
+    }
+  ]
+}

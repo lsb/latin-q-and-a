@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/nd1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Natura Deorum 1.60",
+      "type": "direct-speech",
+      "question": "cum saepius duplicaret numerum dierum, cur ita faceret?",
+      "answer": "Quia, quanto diutius considero, tanto mihi spes videtur obscurior.",
+      "derivation": "Hiero/Simonides anecdote within Cotta's speech. The interrogative is Hiero's reported question 'requireret, cur ita faceret'; dropped the asking-narration 'admiransque Hiero requireret' (framing of the asking) but kept the verbatim setup 'cum saepius duplicaret numerum dierum' so 'ita faceret' has a referent (Simonides repeatedly doubling the days he asks for). The answer is Simonides' verbatim direct reply, with the framing tag 'inquit' (which interrupts it: 'Quia, quanto diutius considero,' inquit 'tanto...') removed and the two quoted halves rejoined contiguously as the speaker's own utterance; ends at the full stop. It genuinely answers the 'why'."
+    }
+  ]
+}

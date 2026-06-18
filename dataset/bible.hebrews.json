@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/hebrews.txt",
+  "pairs": [
+    {
+      "locus": "Hebrews 3.17",
+      "type": "authorial-rhetorical",
+      "question": "Quibus autem infensus est quadraginta annos?",
+      "answer": "Nonne illis qui peccaverunt quorum cadavera prostrata sunt in deserto?",
+      "derivation": "Author's self-question-and-answer (subiectio): he asks with whom God was angry forty years, then supplies the answer naming those who sinned and whose corpses fell in the desert. Question is verse 3:17 first clause; answer is the immediately following clause beginning 'nonne illis'. Stripped the verse number '17'; normalized terminal punctuation to '?'. The answer clause functions as the reply to the posed question. The next verse (3:18) begins a fresh question 'quibus autem iuravit...'."
+    },
+    {
+      "locus": "Hebrews 3.18",
+      "type": "authorial-rhetorical",
+      "question": "Quibus autem iuravit non introire in requiem ipsius?",
+      "answer": "Nisi illis qui increduli fuerunt.",
+      "derivation": "Author's self-question-and-answer: he asks to whom God swore they would not enter his rest, then answers 'except to those who were unbelieving'. Question and answer are the single verse 3:18, split at the natural break before 'nisi'. Stripped the verse number '18'; normalized first-word capitalization and terminal punctuation. Verse 3:19 that follows ('et videmus quia non potuerunt introire...') is a separate declarative conclusion, not part of the answer."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "text/gellius/gellius3.txt",
+  "pairs": [
+    {
+      "locus": "Gellius, Noctes Atticae 3.1.11-12",
+      "type": "direct-speech",
+      "question": "Quid igitur dicimus, quod multos videre est pecuniae cupidos et eosdem tamen corpore esse vegeto ac valenti?",
+      "answer": "Quisquis est pecuniae cupiens et corpore tamen est bene habito ac strenuo, aliarum quoque rerum vel studio vel exercitio eum teneri necessum est atque in sese colendo non aeque esse parcum.",
+      "derivation": "Favorinus's question in section 11; the speech tag 'inquit' and the framing 'Tum Favorinus legi denuo... iubet atque, ubi lecta sunt' are dropped, and the framing 'quid igitur inquit dicimus' is rendered as the bare interrogative. Answer is the learned man's reply in section 12: framing 'Tum ille ita respondit non hercle inscite' and the speech tag 'inquit' are dropped; answer ends at the first full stop ('non aeque esse parcum.'), before he elaborates with 'Nam si avaritia sola...'."
+    },
+    {
+      "locus": "Gellius, Noctes Atticae 3.7.8-9",
+      "type": "direct-speech",
+      "question": "Sed istos milites quadringentos ad eum locum in hostium cuneos quisnam erit, qui ducat?",
+      "answer": "Si alium neminem reperis, me licet ad hoc periculum utare; ego hanc tibi et reipublicae animam do.",
+      "derivation": "The consul's question in section 8; the framing 'Consul tribuno respondit consilium quidem istud aeque providens sibi viderier; sed istos inquit milites' is dropped, leaving the interrogative beginning at 'Sed istos milites'. Answer is the tribune's reply in section 9; the speech tag 'inquit tribunus' is dropped. Answer runs to its full stop, before the narration 'Consul tribuno gratias laudesque agit.'"
+    },
+    {
+      "locus": "Gellius, Noctes Atticae 3.16.4 (Caecilius, Plocium)",
+      "type": "direct-speech",
+      "question": "Soletne mulier decimo mense parere?",
+      "answer": "Pol nono quoque, etiam septimo atque octavo.",
+      "derivation": "A quoted dialogue couplet from Caecilius's comedy. The interrogative 'soletne mulier decimo mense parere?' is answered by the second speaker after the dash; the dash speaker-change marker is dropped and the answer's first word capitalized. Both lines are verbatim verse from the quotation."
+    }
+  ]
+}

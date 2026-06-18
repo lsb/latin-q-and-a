@@ -1,0 +1,33 @@
+{
+  "source": "text/bede/bede5.txt",
+  "pairs": [
+    {
+      "locus": "Bede, Historia Ecclesiastica 5.3",
+      "type": "direct-speech",
+      "question": "Uis petamus bibere?",
+      "answer": "Uolo, et multum delector, si potes.",
+      "derivation": "The recovering virgin Quoenburg, sitting up with Bercthun beside her, asks him whether they should drink. The framing 'dixit:' is dropped, leaving the direct interrogative 'Uis petamus bibere?'. Bercthun's reply 'At ego: Uolo, inquam, et multum delector, si potes.' has its framing 'At ego:' and interior tag 'inquam' dropped, leaving 'Uolo, et multum delector, si potes.' Stops at the end of the reply, before the narration 'Cumque oblato poculo biberemus ambo...'"
+    },
+    {
+      "locus": "Bede, Historia Ecclesiastica 5.6",
+      "type": "direct-speech",
+      "question": "Potes uiuere?",
+      "answer": "Possum, per orationes uestras, si uoluerit Dominus.",
+      "derivation": "After his fall, Heribald has just confirmed he recognizes bishop John ('Etiam; tu es antistes meus amatus'); the bishop then asks whether he can live. The framing 'inquit' is dropped, leaving the direct interrogative 'Potes uiuere?'. Heribald's reply 'Et ego: Possum, inquam, per orationes uestras, si uoluerit Dominus.' has its framing 'Et ego:' and interior tag 'inquam' dropped, leaving 'Possum, per orationes uestras, si uoluerit Dominus.' This is the whole answer; the next paragraph resumes narration ('Qui inponens capiti meo manum...')."
+    },
+    {
+      "locus": "Bede, Historia Ecclesiastica 5.12",
+      "type": "direct-speech",
+      "question": "Scis, quae sint ista omnia, quae uidisti?",
+      "answer": "Uallis illa, quam aspexisti flammis feruentibus et frigoribus horrenda rigidis, ipse est locus, in quo examinandae et castigandae sunt animae illorum, qui differentes confiteri et emendare scelera, quae fecerunt, in ipso tandem mortis articulo ad paenitentiam confugiunt, et sic de corpore exeunt; qui tamen, quia confessionem et paenitentiam uel in morte habuerunt, omnes in die iudicii ad regnum caelorum perueniunt.",
+      "derivation": "In Drycthelm's otherworld vision, his guide, having returned to the bright dwellings, asks him whether he knows what all he has seen means. The framing 'dixit mihi:' is dropped, leaving the direct interrogative 'Scis, quae sint ista omnia, quae uidisti?'. Drycthelm answers 'Non.' and the guide then explains ('Et ait:' dropped). The minimal 'Non' does not answer the substance, so the answer is taken as the guide's operative explanation, which identifies the first thing seen (the valley). The window ends at the first full stop after the valley's identification, before the guide turns to the next feature ('Porro puteus ille flammiuomus...')."
+    },
+    {
+      "locus": "Bede, Historia Ecclesiastica 5.21",
+      "type": "direct-speech",
+      "question": "Obsecro, sancte frater, qui ad coronam te uitae, quae terminum nesciat, tendere credis, quid contrario tuae fidei habitu terminatam in capite coronae imaginem portas? et si beati Petri consortium quaeris, cur eius, quem ille anathematizauit, tonsurae imaginem imitaris? et non potius eius, cum quo in aeternum beatus uiuere cupis, etiam nunc habitum te, quantum potes, diligere monstras?",
+      "answer": "Scias pro certo, frater mi dilecte, quia etsi Simonis tonsuram ex consuetudine patria habeam, simoniacam tamen perfidiam tota mente detestor ac respuo; beatissimi autem apostolorum principis, quantum mea paruitas sufficit, uestigia sequi desidero.",
+      "derivation": "In Ceolfrid's letter to king Naiton, Ceolfrid recalls challenging the abbot Adamnan over his tonsure. The framing 'dixi illi inter alia conloquens:' is dropped; the whole challenge (a chain of interrogatives on why Adamnan wears the tonsure of the one Peter anathematized) is kept verbatim and contiguous as the question. Adamnan's reply 'Respondit ille:' (framing dropped) directly answers: though he wears Simon's tonsure by ancestral custom, he detests the simoniac perfidy and desires to follow Peter. The window ends at the first full stop of the reply, before Ceolfrid's rejoinder 'At ego: Credo, inquam, uere...'"
+    }
+  ]
+}

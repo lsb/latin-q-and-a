@@ -1,0 +1,40 @@
+{
+  "source": "text/cicero/fonteio.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Fonteio 4",
+      "type": "authorial-rhetorical",
+      "question": "Quibus in terris gestum negotium est?",
+      "answer": "Illo, illo, inquam, loco quem videtis.",
+      "derivation": "Cicero poses and answers his own question in a catechism series. Question and answer are adjacent and complete; nothing cut. The next unit (Extra ordinemne...) begins a new question."
+    },
+    {
+      "locus": "Cicero, Pro Fonteio 4",
+      "type": "authorial-rhetorical",
+      "question": "Extra ordinemne pecunia est data?",
+      "answer": "Immo vero nummus nullus sine litteris multis commotus est.",
+      "derivation": "Authorial self-question (-ne) with self-answer. Stripped angle brackets from nu<l>lus keeping nullus. Answer ends at first full stop; what follows (Quae est igitur ista accusatio...) is a new rhetorical question."
+    },
+    {
+      "locus": "Cicero, Pro Fonteio 11",
+      "type": "authorial-rhetorical",
+      "question": "A quibus versuras tantarum pecuniarum factas esse dicunt? a Gallis?",
+      "answer": "A civibus Romanis qui negotiantur in Gallia.",
+      "derivation": "Cicero asks (A quibus... a Gallis?), gives a dismissive non-answering interjection (Nihil minus), re-asks (A quibus igitur?), then answers. Per answer-window guidance the non-answering deflections are skipped and the operative answering sentence (A civibus Romanis...) is taken; the re-question A quibus igitur? was omitted as framing of the answering exchange. The setup hoc praetore oppressam esse aere alieno Galliam precedes."
+    },
+    {
+      "locus": "Cicero, Pro Fonteio 21",
+      "type": "authorial-rhetorical",
+      "question": "Potest igitur testibus iudex non credere?",
+      "answer": "Cupidis et iratis et coniuratis et ab religione remotis non solum potest sed etiam debet.",
+      "derivation": "Authorial question answered immediately by Cicero himself. Both adjacent and complete; what follows (Etenim si, quia Galli dicunt...) elaborates."
+    },
+    {
+      "locus": "Cicero, Pro Fonteio 39",
+      "type": "direct-speech",
+      "question": "Quem Pisonem?",
+      "answer": "Cogis me dicere inimicum meum Frugi.",
+      "derivation": "Direct-speech exchange: the viator asks which Piso (quod erant plures), and Gracchus answers. Dropped the speech tags (et viator quaereret framing the question; inquit framing the answer). Normalized capitalization and terminal punctuation. The setup is that Gracchus had Piso summoned and the attendant asked which one because there were several."
+    }
+  ]
+}

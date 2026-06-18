@@ -1,0 +1,47 @@
+{
+  "source": "text/cicero/rosccom.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Roscio Comoedo 22",
+      "type": "authorial-rhetorical",
+      "question": "Roscio cur tanti fuerint causam requiro. Egebat?",
+      "answer": "Immo locuples erat.",
+      "derivation": "Authorial Q&A. Kept the prior sentence 'Roscio cur tanti fuerint causam requiro' as verbatim setup so that the subject of 'Egebat?' (Roscius) has a referent. Answer is the immediately following retort, complete to its full stop; stopped before the next question 'Debebat?'."
+    },
+    {
+      "locus": "Cicero, Pro Roscio Comoedo 22",
+      "type": "authorial-rhetorical",
+      "question": "Debebat?",
+      "answer": "Immo in suis nummis versabatur.",
+      "derivation": "Authorial Q&A within the same run about Roscius's wealth. Subject Roscius is established by the surrounding context. Answer is the contiguous reply, complete to its full stop; stopped before 'Avarus erat?'."
+    },
+    {
+      "locus": "Cicero, Pro Roscio Comoedo 22",
+      "type": "authorial-rhetorical",
+      "question": "Avarus erat?",
+      "answer": "Immo etiam ante quam locuples esset, semper liberalissimus munificentissimusque fuit.",
+      "derivation": "Authorial Q&A continuing the run about Roscius's character. Stripped the editorial angle brackets in '<esset>' keeping the word 'esset'. Answer is the full contiguous reply to its terminal full stop; the section marker [23] follows."
+    },
+    {
+      "locus": "Cicero, Pro Roscio Comoedo 28",
+      "type": "authorial-rhetorical",
+      "question": "Panurgum tu, Saturi, proprium Fanni dicis fuisse. At ego totum Rosci fuisse contendo. Quid erat enim Fanni?",
+      "answer": "Corpus.",
+      "derivation": "Authorial Q&A. Kept the two prior verbatim sentences as setup so that 'Quid erat enim Fanni?' has its referent (Panurgus the slave's value, Fannius's vs Roscius's share). Answer is the one-word reply; stopped before the next question 'Quid Rosci?'."
+    },
+    {
+      "locus": "Cicero, Pro Roscio Comoedo 28",
+      "type": "authorial-rhetorical",
+      "question": "Quid Rosci?",
+      "answer": "Disciplina.",
+      "derivation": "Authorial Q&A immediately following, contrasting Roscius's share of Panurgus. Answer is the one-word reply, complete; 'Facies non erat...' follows as elaboration."
+    },
+    {
+      "locus": "Cicero, Pro Roscio Comoedo 42",
+      "type": "authorial-rhetorical",
+      "question": "Quis iudex? Cluvius. Quid is dicit?",
+      "answer": "HS ccciccc Panurgi nomine Flavium Fannio dissolvisse.",
+      "derivation": "Authorial Q&A. Kept 'Quis iudex? Cluvius.' as verbatim setup so 'is' in 'Quid is dicit?' has its referent (the iudex Cluvius). Answer is the contiguous reported reply to its full stop; the following 'Quem tu si ex censu spectas...' is elaboration and was cut."
+    }
+  ]
+}

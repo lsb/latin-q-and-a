@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/orator.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Orator 41 (quoting Plato, Phaedrus)",
+      "type": "direct-speech",
+      "question": "Adulescens etiam nunc, o Phaedre, Isocrates est, sed quid de illo augurer libet dicere. Quid tandem?",
+      "answer": "Maiore mihi ingenio videtur esse quam ut cum orationibus Lysiae comparetur, praeterea ad virtutem maior indoles; ut minime mirum futurum sit si, cum aetate processerit, aut in hoc orationum genere cui nunc studet tantum quantum pueris reliquis praestet omnibus qui umquam orationes attigerunt aut, si contentus his non fuerit, divino aliquo animi motu maiora concupiscat; inest enim natura philosophia in huius viri mente quaedam.",
+      "derivation": "Cicero quotes the close of Plato's Phaedrus as direct speech. Socrates says he wishes to augur about Isocrates; Phaedrus's genuine interrogative 'Quid tandem?' asks what. Socrates's lead-in ('Adulescens... libet dicere') is kept as setup so 'Quid tandem?' has a referent (Rule 2). The framing tag 'Inquit ille' between question and answer is dropped (narration of the asking). The answer begins at Socrates's reply 'Maiore...' and runs to the first full stop at 'quaedam.' (all preceding stops are semicolons), a single contiguous sentence with no interior ellipsis; what follows the cut is Cicero's own narration 'Haec de adulescente Socrates auguratur.'"
+    }
+  ]
+}

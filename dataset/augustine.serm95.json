@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/serm95.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 95.2",
+      "type": "authorial-rhetorical",
+      "question": "Quid est ergo, \"septies laudabo\"?",
+      "answer": "Nisi, nunquam a laude cessabo.",
+      "derivation": "Augustine poses and answers his own question about the meaning of \"septies in die laudabo te.\" Question span is the interrogative \"quid est ergo, 'septies laudabo'\" (semicolon normalized to terminal '?'). The answer is the \"nisi...\" clause that supplies the gloss; it is followed by \"totum enim tempus significat...\" which elaborates rather than answers, so the answer window stops at \"cessabo.\""
+    },
+    {
+      "locus": "Augustine, Sermo 95.4",
+      "type": "authorial-rhetorical",
+      "question": "Propheta qui dixisti, \"speciosus forma prae filiis hominum,\" ubi uidisti?",
+      "answer": "Cum in forma dei esset non rapinam arbitratus est esse aequalis deo. Ibi uidi.",
+      "derivation": "Augustine apostrophizes the prophet who called Christ beautiful and asks where he saw him so. Leading vocative interjection \"o\" and the repeated framing imperative \"responde, responde, ubi uidisti?\" are dropped as narration of the asking; the identifying relative clause is kept as verbatim setup so \"uidisti\" has a referent (first word capitalized). The answer quotes Philippians (\"cum in forma dei esset...aequalis deo\") plus the operative \"ibi uidi\" that directly answers \"ubi?\"; it stops there, before \"an tu dubitas...\" which moves on to a new challenge."
+    }
+  ]
+}

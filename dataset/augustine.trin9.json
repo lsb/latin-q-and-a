@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/trin9.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Trinitate 9.2.2",
+      "type": "authorial-rhetorical",
+      "question": "Quid si non amem nisi me ipsum, nonne duo erunt, quod amo et amor?",
+      "answer": "Amans enim et quod amatur hoc idem est quando se ipse amat.",
+      "derivation": "Augustine poses a genuine interrogative (nonne ... ?) asking whether, when one loves only oneself, only two things (the loved and the love) remain rather than three. He answers it himself in the next sentence, explaining that lover and loved coincide when one loves oneself. Answer ends at the first full stop; what follows (\"sicut amare et amari eodem modo idipsum est...\") elaborates the same point and is cut."
+    }
+  ]
+}

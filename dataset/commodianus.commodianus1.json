@@ -1,0 +1,19 @@
+{
+  "source": "text/commodianus/commodianus1.txt",
+  "pairs": [
+    {
+      "locus": "Commodianus, Carmen apologeticum 454-456",
+      "type": "authorial-rhetorical",
+      "question": "Non ut illi putant Dauid de ipso referre. Aut si putant illud, congruit uniuersa, quae dixit?",
+      "answer": "Non est flagellatus Dauid nec cruce leuatus.",
+      "derivation": "The author poses a genuine interrogative (453-455): the Psalms speak of the Lord's death, not, as the Jews think, David referring to himself; or, if they do think that (illud = Dauid de ipso referre, line 454, kept so the question is self-contained), does everything he said fit together? The answer (456) directly answers no by giving the disqualifying fact: David was neither scourged nor crucified. Answer ends at the first full stop (line 456); line 457 turns to a new topic ('Quid? Uaticinantur Iudaei more Saturni'). No scaffolding or editorial brackets in this span."
+    },
+    {
+      "locus": "Commodianus, Carmen apologeticum 737-738",
+      "type": "authorial-rhetorical",
+      "question": "Quid nobis strident, quid nos aemulantur heredes?",
+      "answer": "Fecissentque bonum, et erant in parte legati.",
+      "derivation": "A genuine 'why' question posed by the author about the Jews (heredes) snarling at and envying the Christians (nobis); answered (738) with the reason: had they done good, they too would have been among the legatees. Self-contained as a rhetorical complaint and its rebuttal. Answer is the single following line; line 739 ('Nec hodie tacent...') turns to a new statement. No scaffolding or editorial brackets in this span."
+    }
+  ]
+}

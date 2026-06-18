@@ -1,0 +1,82 @@
+{
+  "source": "text/bible/acts.txt",
+  "pairs": [
+    {
+      "locus": "Acts 1.6-7",
+      "type": "direct-speech",
+      "question": "Domine si in tempore hoc restitues regnum Israhel?",
+      "answer": "Non est vestrum nosse tempora vel momenta quae Pater posuit in sua potestate.",
+      "derivation": "The assembled disciples (igitur qui convenerant interrogabant eum dicentes) ask; the asking-frame is dropped. Answer drops the frame 'dixit autem eis' and takes Jesus's reply through its first full stop, stopping before 'sed accipietis virtutem...' which turns to elaboration."
+    },
+    {
+      "locus": "Acts 2.37-38",
+      "type": "direct-speech",
+      "question": "Quid faciemus viri fratres?",
+      "answer": "Paenitentiam agite et baptizetur unusquisque vestrum in nomine Iesu Christi in remissionem peccatorum vestrorum et accipietis donum Sancti Spiritus.",
+      "derivation": "The conscience-stricken crowd asks Peter (dixerunt ad Petrum... quid faciemus viri fratres). Answer drops the frame 'Petrus vero ad illos... inquit' (the interrupting 'inquit' is meta-narration) and reorders nothing: 'paenitentiam agite et baptizetur...'. Stops at the full stop before v.39 'vobis enim est repromissio...' which elaborates."
+    },
+    {
+      "locus": "Acts 5.8",
+      "type": "direct-speech",
+      "question": "Dic mihi si tanti agrum vendidistis.",
+      "answer": "Etiam tanti.",
+      "derivation": "Peter questions Sapphira; frame 'respondit autem ei Petrus' dropped from question. Answer drops the frame 'at illa dixit'. Self-contained yes-answer to the price question."
+    },
+    {
+      "locus": "Acts 9.5",
+      "type": "direct-speech",
+      "question": "Quis es Domine?",
+      "answer": "Ego sum Iesus quem tu persequeris.",
+      "derivation": "Saul, fallen and hearing the voice (v.4 Saule Saule quid me persequeris), asks. Frame 'qui dixit' and the answer-frame 'et ille' are dropped. The whole exchange sits contiguous in v.5."
+    },
+    {
+      "locus": "Acts 10.4",
+      "type": "direct-speech",
+      "question": "Quid est domine?",
+      "answer": "Orationes tuae et elemosynae tuae ascenderunt in memoriam in conspectu Dei.",
+      "derivation": "Cornelius, seeing the angel, asks (at ille intuens eum timore correptus dixit). Answer drops the frame 'dixit autem illi' and runs to the full stop before v.5 'et nunc mitte viros...' which gives further instruction."
+    },
+    {
+      "locus": "Acts 10.21-22",
+      "type": "direct-speech",
+      "question": "Quae causa est propter quam venistis?",
+      "answer": "Cornelius centurio vir iustus et timens Deum et testimonium habens ab universa gente Iudaeorum responsum accepit ab angelo sancto accersire te in domum suam et audire verba abs te.",
+      "derivation": "Peter asks the men sent by Cornelius (descendens autem Petrus ad viros dixit ecce ego sum quem quaeritis quae causa est...). The interrogative is the second sentence; the preceding 'ecce ego sum quem quaeritis' is preamble, so the question starts at the operative interrogative. Answer drops the frame 'qui dixerunt'; v.22 is one sentence answering why they came."
+    },
+    {
+      "locus": "Acts 16.30-31",
+      "type": "direct-speech",
+      "question": "Domini quid me oportet facere ut salvus fiam?",
+      "answer": "Crede in Domino Iesu et salvus eris tu et domus tua.",
+      "derivation": "The jailer asks (et producens eos foras ait). Frame dropped from question. Answer drops the frame 'at illi dixerunt'; one sentence."
+    },
+    {
+      "locus": "Acts 19.3",
+      "type": "direct-speech",
+      "question": "In quo ergo baptizati estis?",
+      "answer": "In Iohannis baptismate.",
+      "derivation": "Paul asks the Ephesian disciples (ille vero ait in quo ergo baptizati estis). Frame 'ait' dropped. Answer drops the frame 'qui dixerunt'; clean direct reply."
+    },
+    {
+      "locus": "Acts 22.8",
+      "type": "direct-speech",
+      "question": "Quis es Domine?",
+      "answer": "Ego sum Iesus Nazarenus quem tu persequeris.",
+      "derivation": "Paul's retelling: he asks (ego autem respondi quis es Domine). Frame 'ego autem respondi' dropped. Answer drops the frame 'dixitque ad me'."
+    },
+    {
+      "locus": "Acts 22.27",
+      "type": "direct-speech",
+      "question": "Dic mihi tu Romanus es?",
+      "answer": "Etiam.",
+      "derivation": "The tribune asks Paul (accedens autem tribunus dixit illi dic mihi tu Romanus es). Frame dropped from question. Answer drops the frame 'at ille dixit'; self-contained affirmation."
+    },
+    {
+      "locus": "Acts 26.15",
+      "type": "direct-speech",
+      "question": "Quis es Domine?",
+      "answer": "Ego sum Iesus quem tu persequeris.",
+      "derivation": "Paul's retelling before Agrippa: he asks (ego autem dixi quis es Domine). Frame 'ego autem dixi' dropped. Answer drops the frame 'Dominus autem dixit'."
+    }
+  ]
+}

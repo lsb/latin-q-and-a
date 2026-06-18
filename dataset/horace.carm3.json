@@ -1,0 +1,26 @@
+{
+  "source": "text/horace/carm3.txt",
+  "pairs": [
+    {
+      "locus": "Horace, Carmina 3.4.5-8",
+      "type": "authorial-rhetorical",
+      "question": "Auditis? An me ludit amabilis insania?",
+      "answer": "Audire et uideor pios errare per lucos, amoenae quos et aquae subeunt et aurae.",
+      "derivation": "The poet asks whether his hearers perceive the divine song or whether sweet madness deceives him; he answers himself that he does indeed seem to hear it and to wander through sacred groves. Question is the two interrogatives 'Auditis? An me ludit amabilis insania?' (stripping the inline verse number 5). Answer is the operative first sentence of the response, ending at the first full stop ('aurae'); what follows ('Me fabulosae Volture in Apulo...') turns to a new narrative about his childhood and does not answer."
+    },
+    {
+      "locus": "Horace, Carmina 3.9.17-24",
+      "type": "direct-speech",
+      "question": "Quid si prisca redit Venus diductosque iugo cogit aeneo, si flaua excutitur Chloe reiectaeque patet ianua Lydiae?",
+      "answer": "Quamquam sidere pulchrior ille est, tu leuior cortice et inprobo iracundior Hadria, tecum uiuere amem, tecum obeam lubens.",
+      "derivation": "Closing exchange of the amoebean dialogue. Lydia asks the genuine interrogative 'Quid si prisca redit Venus...?' (would she take Horace back if old love returned and Chloe were cast off). The respondent (Horace) answers that, although his rival is fairer than a star, he would choose to live and die with her. Quoted verbatim from both speakers; stripped the enclosing single quotes and the inline verse number 20. Whole short reply-speech is the answer and directly resolves the question."
+    },
+    {
+      "locus": "Horace, Carmina 3.28.1-4",
+      "type": "authorial-rhetorical",
+      "question": "Festo quid potius die Neptuni faciam?",
+      "answer": "Prome reconditum, Lyde, strenua Caecubum munitaeque adhibe uim sapientiae.",
+      "derivation": "The poet asks what better thing to do on Neptune's feast day and answers with the directive to bring out the stored Caecuban wine. Question is the interrogative 'Festo quid potius die Neptuni faciam?' (stripping the inline verse... none here). Answer is the first sentence of the response, ending at the first full stop ('sapientiae'); what follows ('Inclinare meridiem sentis...') is further elaboration, not the answer."
+    }
+  ]
+}

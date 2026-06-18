@@ -1,0 +1,12 @@
+{
+  "source": "text/gellius/gellius1.txt",
+  "pairs": [
+    {
+      "locus": "Gellius, Noctes Atticae 1.26.8",
+      "type": "authorial-rhetorical",
+      "question": "Quid autem, verbero, nunc ego tibi irasci videor? Ex vultune meo an ex voce an ex colore an etiam ex verbis correptum esse me ira intellegis?",
+      "answer": "Mihi quidem neque oculi, opinor, truces sunt neque os turbidum, neque inmaniter clamo neque in spumam ruboremve effervesco neque pudenda dico aut paenitenda neque omnino trepido ira et gestio.",
+      "derivation": "Within Taurus's report of Plutarch's words, Plutarch poses a genuine interrogative to the slave being flogged (do I seem angry to you? do you perceive from face/voice/color/words that I am seized by anger?) and immediately answers it himself describing the absent signs of anger. Dropped the speech tag 'inquit' (interleaved as '\"quid autem,\" inquit \"verbero...\"'), keeping the speaker's contiguous words; normalized initial capital and kept terminal '?'. Answer cut at the first full stop after 'gestio'; the inline section number '9' and the following elaboration 'Haec enim omnia, si ignoras, signa esse irarum solent.' fall outside the answering span and were excluded. Other interrogatives in the file (chapter-heading indirect questions, Greek-passage questions, and the oratio-obliqua exchanges of Socrates/Alcibiades in 1.17 and Papirius/mother in 1.23) were dropped because the question is narrated indirectly, not quoted as a real interrogative utterance."
+    }
+  ]
+}

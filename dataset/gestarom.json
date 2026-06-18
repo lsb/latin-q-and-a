@@ -1,0 +1,145 @@
+{
+  "source": "text/gestarom.txt",
+  "pairs": [
+    {
+      "locus": "Gesta Romanorum 5 (Filia Piratae)",
+      "type": "direct-speech",
+      "question": "Qualis est ista puella, quam tecum duxisti?",
+      "answer": "Filia regis est, quam in uxorem habeo.",
+      "derivation": "Father questions son on his return. Dropped the speech-tag framing 'Sed dic mihi,' before the interrogative and the tag 'Ait ille:' before the answer. Question is the father's interrogative clause; answer is the son's full reply sentence. Normalized capitalization and the terminal '!' to '?'."
+    },
+    {
+      "locus": "Gesta Romanorum 53 (De perfectione vitae / Focus faber)",
+      "type": "direct-speech",
+      "question": "Quare legem editam violas?",
+      "answer": "Legem illam servare non possum, quia omni die octo denarios oportet me habere, et illos sine labore non potero acquirere.",
+      "derivation": "Emperor interrogates the smith. Dropped the framing 'Ait imperator:' and the preceding rhetorical 'Carissime, quid est, quod audio de te?' to keep the operative interrogative; dropped the tag 'Ait ille: \"Domine,' from the reply. Answer ends at the first full stop. Normalized capitalization."
+    },
+    {
+      "locus": "Gesta Romanorum 53 (De perfectione vitae / Focus faber)",
+      "type": "direct-speech",
+      "question": "Et quare octo denarios?",
+      "answer": "Omni die per annum duos denarios teneor dare, quos mutuavi in iuventute, duos accomodo, duos perdo, duos expendo.",
+      "derivation": "Emperor follows up; the smith itemizes his eight pence. Dropped speech tags 'Ait imperator:' and 'Qui ait:'. Answer ends at the first full stop, before 'Ait imperator: \"De istis manifestius...\"'."
+    },
+    {
+      "locus": "Gesta Romanorum 61 (De praemeditatione / Socrates and Alexander)",
+      "type": "direct-speech",
+      "question": "Carissime, quis est dominus tuus, de quo talia dicis, quod servus eius est dominus meus?",
+      "answer": "Dominus meus est ratio, servus eius voluntas, sic est ergo, quod tu per voluntatem tuam regnum tuum et non per rationem huc usque gubernasti.",
+      "derivation": "Alexander asks Socrates to name his master. Dropped framing 'ait ei rex:' and 'Ait ille:'. Question carries its own referent for 'talia'. Answer ends at the first full stop, before the elaborating 'Ideo servus domini mei, hoc est voluntas, est dominus tuus.'"
+    },
+    {
+      "locus": "Gesta Romanorum 61 (De praemeditatione / Socrates)",
+      "type": "direct-speech",
+      "question": "O bone magister, ob quam rem affligitur anima tua?",
+      "answer": "Filiam regis sub tali condicione desponsavi, quod, quocumque tempore ipsa in societate mea moriatur, ego vitam meam amittam, et iam ad mortem infirmatur, et haec est causa doloris mei.",
+      "derivation": "An old man asks why Socrates grieves. Dropped framing 'ait:' and 'Et ille:'. Answer is the full reply (one sentence ending in 'haec est causa doloris mei')."
+    },
+    {
+      "locus": "Gesta Romanorum 81 (De ortu beati Gregorii)",
+      "type": "direct-speech",
+      "question": "Domine mi reverende, qualis domina ista est?",
+      "answer": "Domina nostra soror regis est.",
+      "derivation": "The knight's wife asks who the lady is; he answers. Dropped framing 'ait:' and 'Qui ait:'. Answer ends at the first full stop, before the elaborating 'Iura mihi per deum...'."
+    },
+    {
+      "locus": "Gesta Romanorum 81 (De ortu beati Gregorii)",
+      "type": "direct-speech",
+      "question": "Carissime, unde venis?",
+      "answer": "De terra sancta venio.",
+      "derivation": "The returning knight is asked by the king's messenger where he comes from. Dropped framing 'ait ei:' and 'Qui ait:'. Self-contained short exchange."
+    },
+    {
+      "locus": "Gesta Romanorum 81 (De ortu beati Gregorii)",
+      "type": "direct-speech",
+      "question": "Et quales rumores habetis?",
+      "answer": "Dominus meus rex mortuus est et corpus suum ad unum de castris suis est ductum.",
+      "derivation": "Follow-up to the previous exchange; the messenger reports the news. Dropped framing 'Et ille:'. Answer is the full reply sentence."
+    },
+    {
+      "locus": "Gesta Romanorum 81 (De ortu beati Gregorii)",
+      "type": "direct-speech",
+      "question": "Quomodo est de domino meo?",
+      "answer": "Dominus vester mortuus est et eius corpus de terra sancta translatum est ad castrum suum, et cum patre vestro sepelietur.",
+      "derivation": "The lady asks the messenger about her brother (the king). Dropped framing 'ait ei domina:' and 'Qui respondit:'. Answer is the full reply sentence."
+    },
+    {
+      "locus": "Gesta Romanorum 81 (De ortu beati Gregorii)",
+      "type": "direct-speech",
+      "question": "Domine, quo tenditis?",
+      "answer": "Hospitium quaero.",
+      "derivation": "A citizen asks Gregorius where he is heading. Dropped framing 'ait ei:' and 'Et ille:'. Self-contained short exchange."
+    },
+    {
+      "locus": "Gesta Romanorum 81 (De ortu beati Gregorii)",
+      "type": "direct-speech",
+      "question": "Domine, qualis est civitas illa et quis dominus istius terrae?",
+      "answer": "Carissime, unum virum valentem imperatorem habuimus, qui mortuus est in terra sancta, qui nullum heredem praeter suam sororem post se reliquit.",
+      "derivation": "Gregorius asks his host about the city and its lord. Dropped framing 'dominus Gregorius hospiti dixit:' and 'At ille:'. Answer ends at the first full stop, before the elaborating 'quidam dux eam in uxorem petiit...'."
+    },
+    {
+      "locus": "Gesta Romanorum 81 (De ortu beati Gregorii)",
+      "type": "direct-speech",
+      "question": "De qua progenie es tu, dicite mihi?",
+      "answer": "Scias sine dubio, quod de longinqua terra sum ego.",
+      "derivation": "The lady asks Gregorius his lineage. Dropped framing 'ait:' and 'Qui ait:'. Skipped the non-answering preamble 'Ista est mirabilis quaestio;' and advanced the answer start to the operative clause."
+    },
+    {
+      "locus": "Gesta Romanorum 108 (De promissionis fideli constantia)",
+      "type": "direct-speech",
+      "question": "O carissime, dic mihi causam, quare adivicem estis tam fideles?",
+      "answer": "Domine, a pueritia quilibet alteri fidem dedit, ut in omnibus fideles essemus.",
+      "derivation": "The judge asks the two thieves why they are so faithful to each other. Dropped framing 'Iudex respexit eum et ait:' and 'Et ille:'. Answer ends at the first full stop, before the elaborating 'Et haec est causa...'."
+    },
+    {
+      "locus": "Gesta Romanorum 116 (De dilectione dei)",
+      "type": "direct-speech",
+      "question": "Quare sic mecum agis? Indica mihi! Rogo te.",
+      "answer": "Nolo, et haec est causa: Si veritatem tibi dixissem, unum scilicet filium tuum velles eum diligere et alterum odio habere, et ideo volo, quod ambos aequaliter diligas et nutrias.",
+      "derivation": "The queen presses the king for the truth. Dropped framing 'At illa:' and 'Et ille:'. Kept the contiguous utterance (interrogative plus plea). Answer ends at the natural stop before 'et cum ad aetatem legitimam veniunt, tunc tibi veritatem pandam...'."
+    },
+    {
+      "locus": "Gesta Romanorum 121 (De gloria mundi et luxuria)",
+      "type": "direct-speech",
+      "question": "Carissima, qua de causa de lecto singulis noctibus surgis?",
+      "answer": "Super arborem fici omni nocte residet philomena, quae tam dulciter cantat, quod oportet me surgere et eam audire.",
+      "derivation": "The husband asks his wife why she rises every night. Dropped framing 'ait ei:' and 'Quae respondit:'. Answer is the full reply sentence."
+    },
+    {
+      "locus": "Gesta Romanorum 195 (cf. The Merchant of Venice)",
+      "type": "direct-speech",
+      "question": "Quid tibi dabo, quod possum una nocte tecum dormire?",
+      "answer": "Mille marcas florenas.",
+      "derivation": "The knight asks the emperor's daughter her price. Dropped framing 'ait ei:' and 'Quae ait:'. Self-contained exchange."
+    },
+    {
+      "locus": "Gesta Romanorum 195 (cf. The Merchant of Venice)",
+      "type": "direct-speech",
+      "question": "Quam securitatem mihi praestabis?",
+      "answer": "Quidquid vis.",
+      "derivation": "The merchant asks the knight what security he will give. Dropped framing 'Qui ait:' and 'Et ille:'. Self-contained exchange."
+    },
+    {
+      "locus": "Gesta Romanorum 273 (cf. King Lear)",
+      "type": "direct-speech",
+      "question": "Quantum diligis me?",
+      "answer": "Certe plus quam me ipsam.",
+      "derivation": "Theodosius asks his eldest daughter how much she loves him. Dropped framing 'dixitque filiae seniori:' and 'At illa:'. Self-contained exchange."
+    },
+    {
+      "locus": "Gesta Romanorum 273 (cf. King Lear)",
+      "type": "direct-speech",
+      "question": "Quantum diligis me?",
+      "answer": "Tantum sicut me ipsam.",
+      "derivation": "Theodosius asks his second daughter the same question. Dropped framing 'ait ei:' and 'At illa:'. Self-contained exchange."
+    },
+    {
+      "locus": "Gesta Romanorum 273 (cf. King Lear)",
+      "type": "direct-speech",
+      "question": "Quantum me diligis?",
+      "answer": "Tantum sicut vales et non plus neque minus.",
+      "derivation": "Theodosius asks his youngest daughter how much she loves him. Dropped framing 'ait ei:' and 'At illa:'. Self-contained exchange."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/serm72.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 72",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit bonum, quale bonum, unde bonum?",
+      "answer": "Hoc est bonum, quod non potes inuitus amittere.",
+      "derivation": "Author narrates a hearer asking 'quaerit quid sit bonum, quale bonum, unde bonum' and answers it himself. Dropped the framing narration of the asking ('quaerit ergo aliquis admonitus his uerbis meis, et forte compunctus, quaerit') and of the answering ('bene intellexisti hoc te quaerere debere. respondebo quaerenti, et dicam:'), keeping the verbatim indirect-question words as the question and normalizing capitalization and terminal punctuation to a question mark. Answer ends at the first full stop; what follows ('potes enim aurum perdere, et nolens...') elaborates rather than answers."
+    }
+  ]
+}

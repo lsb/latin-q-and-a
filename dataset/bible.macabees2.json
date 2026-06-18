@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/macabees2.txt",
+  "pairs": [
+    {
+      "locus": "2 Maccabees 3.37-38",
+      "type": "direct-speech",
+      "question": "Quis est aptus adhuc semel Hierosolymam mitti?",
+      "answer": "Si quem habes hostem aut regni tui insidiatorem mitte illuc et flagellatum eum recipies si tamen evaserit eo quod in loco vere sit Dei quaedam virtus.",
+      "derivation": "The king asks Heliodorus a direct quis-question; framing 'cum autem rex interrogasset Heliodorum' and trailing speech-tag 'ait' dropped, first word capitalized and ? added. Answer is Heliodorus' reply (v.38), the operative response naming whom to send; cut before the elaboration that follows in v.39 ('nam ipse qui habet in caelis habitationem...'). End at first full stop of the reply."
+    },
+    {
+      "locus": "2 Maccabees 15.3-4",
+      "type": "direct-speech",
+      "question": "Est potens in saeculo qui imperavit agi diem sabbatorum?",
+      "answer": "Est Dominus vivus ipse in caelo potens qui iussit agi septimam diem.",
+      "derivation": "Nicanor asks a yes/no question; framing 'at ille infelix interrogavit si' dropped (speech verb + indirect-question particle), first word capitalized and ? added; the clause itself uses indicative 'est' and stands as a direct interrogative. Answer is the Jews' reply, framing 'et respondentibus illis' dropped, first word capitalized; it directly answers by affirming who is powerful and commanded the sabbath."
+    }
+  ]
+}

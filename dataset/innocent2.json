@@ -1,0 +1,26 @@
+{
+  "source": "text/innocent2.txt",
+  "pairs": [
+    {
+      "locus": "Innocent III, Dialogus inter Deum et peccatorem (Peccator/Deus)",
+      "type": "whole-speech-as-question",
+      "question": "Deus aeterne, cujus natura bonitas, et opus misericordia est, qui etiam cum iratus fueris, misericordiae recordaberis, quibus verbis digne te potero invocare ut et tu digneris invocantem misericorditer exaudire? Scio quia Redemptor meus, Filius tuus, doctor veritatis et sapientiae, cum ad eum diceret unus ex discipulis suis: Domine, doce me orare; ait: \"Dicite: Pater noster qui es in coelis.\" Si igitur, Domine, sic orando invocavero te, poterone percipere quod verbum illud a fideli propheta tuo probatum in me impleatur?",
+      "answer": "Pro certo quod sic orare docuit te Filius consubstantialis mihi et coaeternus; sed quia tu temetipsum mihi non exhibes sicut filium, non potes in oratione praedicta digne invocare me sicut patrem.",
+      "derivation": "Whole Peccator speech quoted as the question; it is one contiguous utterance with no internal speech-tag to drop. Stripped the speaker label 'PECCATOR AD DEUM' and the parenthetical scripture citation '(Luc. II)' (an editorial reference artifact, not the author's utterance). Answer: kept God's first full sentence (to the first full stop after 'sicut patrem'); the affirming clause 'Pro certo... coaeternus' is part of that sentence and the operative answer 'sed quia... sicut patrem' directly answers 'poterone percipere'. Stopped before 'Nam ex persona mea dicit propheta...', which elaborates with further scripture."
+    },
+    {
+      "locus": "Innocent III, Dialogus inter Deum et peccatorem (Peccator/Deus)",
+      "type": "direct-speech",
+      "question": "Quid ergo, piissime Domine, faciam ut redeas ad me, a quo te propter iniquitates meas, proh dolor! elongasti? ut sic intus existens respondeas invocanti, et salvus fiam, qui fueram a te derelictus, cum scriptum sit: \"Longe a peccatoribus salus.\"",
+      "answer": "Audi Scripturae sanctae consilium, et si feceris illud, reduces me statim ut invocantem exaudiam te ad hospitium tuum.",
+      "derivation": "Stripped the speaker labels 'PECCATOR AD DEUM' and 'DEUS AD PECCATOREM' and the scripture citation '(Psal. CXVIII)'. The Peccator genuinely asks what to do so that God returns; God's first full sentence directly answers ('Hear Scripture's counsel, and if you do it, you will bring me back at once'). Stopped before 'Habe contritionem cordis...', which begins the detailed elaboration of the counsel."
+    },
+    {
+      "locus": "Innocent III, Dialogus inter Deum et peccatorem (Peccator/Deus)",
+      "type": "direct-speech",
+      "question": "Cur autem, Domine, requiris a me ut per contritionem bonum me faciam, qualem me ipsum facere non possum? cum etiam tanquam reus et sordidatus eam mereri nequeam, nisi per inaestimabilem gratiam misericordiae tuae.",
+      "answer": "Noli errare vel te ipsum decipere; non enim requiro a te ut te facias bonum, qualem te scio facere non posse, cum hoc sit in me; sed ut applicando liberum arbitrium tuum ad me, divina super beneficia meditando, reddas te mihi habilem.",
+      "derivation": "Stripped the speaker labels. Included the 'cum etiam... misericordiae tuae' clause as setup so the 'Cur requiris' question is intelligible; both are the Peccator's verbatim contiguous words. God's reply directly rebuts the premise of the question ('I do NOT require you to make yourself good... but to make yourself fit'). Kept through the first full stop after 'reddas te mihi habilem'; stopped before 'Quod si feceris...', which elaborates the consequence."
+    }
+  ]
+}

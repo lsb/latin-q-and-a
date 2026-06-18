@@ -1,0 +1,33 @@
+{
+  "source": "text/bede/bedeproverbs.txt",
+  "pairs": [
+    {
+      "locus": "Bede, Proverbiorum Liber (Q)",
+      "type": "authorial-rhetorical",
+      "question": "Quis dives?",
+      "answer": "Qui nil cupit.",
+      "derivation": "Self-contained authorial question-and-answer within the line 'Quis dives? Qui nil cupit. Et quis pauper? Avarus.' Question is a real interrogative (quis) answered immediately by the relative clause. The following 'Et quis pauper? Avarus.' is a separate pair, not included here. Scaffolding '·' line marker stripped."
+    },
+    {
+      "locus": "Bede, Proverbiorum Liber (Q)",
+      "type": "authorial-rhetorical",
+      "question": "Et quis pauper?",
+      "answer": "Avarus.",
+      "derivation": "Second self-contained authorial question-and-answer in the line 'Quis dives? Qui nil cupit. Et quis pauper? Avarus.' Real interrogative (quis) answered by the single word 'Avarus'. The preceding 'Quis dives? Qui nil cupit.' is a separate pair. Scaffolding '·' line marker stripped."
+    },
+    {
+      "locus": "Bede, Proverbiorum Liber (Q)",
+      "type": "authorial-rhetorical",
+      "question": "Quid stulti proprium?",
+      "answer": "Non posse et velle nocere.",
+      "derivation": "Self-contained authorial question (quid) and its answer, the whole verbatim line. The answer genuinely answers the question (what is proper to a fool). Scaffolding '·' line marker stripped."
+    },
+    {
+      "locus": "Bede, Proverbiorum Liber (Q)",
+      "type": "authorial-rhetorical",
+      "question": "Quod prudentis opus?",
+      "answer": "Cum possit, nolle nocere.",
+      "derivation": "Self-contained authorial question (quod) and its answer, the whole verbatim line. The answer genuinely answers the question (what is the work of the prudent). Scaffolding '·' line marker stripped."
+    }
+  ]
+}

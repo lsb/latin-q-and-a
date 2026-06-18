@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/repub6.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De re publica 6.15 (Somnium Scipionis)",
+      "type": "direct-speech",
+      "question": "Quaeso, pater sanctissime atque optime, quoniam haec est vita, ut Africanum audio dicere, quid moror in terris? Quin huc ad vos venire propero?",
+      "answer": "Non est ita. Nisi enim deus is, cuius hoc templum est omne, quod conspicis, istis te corporis custodiis liberaverit, huc tibi aditus patere non potest.",
+      "derivation": "Scipio's question to his father Paulus; dropped the framing 'Quaeso, inquam' speech tag (kept 'Quaeso' as part of the address). Answer begins at Paulus's reply, dropping 'inquit ille'. 'Non est ita' is the direct retort; extended through the explanatory 'Nisi enim... patere non potest' which states why, stopping at that full stop. What follows ('Homines enim sunt hac lege generati...') digresses into doctrine, so it is cut."
+    },
+    {
+      "locus": "Cicero, De re publica 6.18 (Somnium Scipionis)",
+      "type": "direct-speech",
+      "question": "Quid hic? Quis est, qui complet aures, tantus et tam dulcis sonus?",
+      "answer": "Hic est ille, qui intervallis disiunctus imparibus, sed tamen pro rata parte distinctis, impulsu et motu ipsorum orbium efficitur et acuta cum gravibus temperans varios aequabiliter concentus efficit.",
+      "derivation": "Scipio asks Africanus about the sound; dropped the interjected 'inquam' speech tag. Answer dropped the framing 'inquit'; took Africanus's reply through the first full stop ('concentus efficit'). The continuation ('nec enim silentio tanti motus...') elaborates the physics of the harmony and is cut."
+    }
+  ]
+}

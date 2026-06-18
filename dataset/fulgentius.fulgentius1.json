@@ -1,0 +1,19 @@
+{
+  "source": "text/fulgentius/fulgentius1.txt",
+  "pairs": [
+    {
+      "locus": "Fulgentius, Mitologiae 1, prologue (Calliope and Fulgentius)",
+      "type": "direct-speech",
+      "question": "Non paues Musicum tuis receptare dogma penatibus, cum barbarorum morem auscultauerim ita litterarios mercatos penitus abdicare, ut hos qui primis elementorum figuris uel proprium discripserint nomen cassata inquisitione mutum in carnificina reptarent?",
+      "answer": "Non ita est ut audieras, sed fama fuit.",
+      "derivation": "Calliope's question is one interrogative sentence; dropped the speech tag 'inquit' and changed the final '.' to '?'. The reply is introduced by 'Tum ego:'; dropped that frame plus 'inquam' and the quotation marks around the Virgil borrowing 'audieras'. Stopped the answer at its first full stop ('...sed fama fuit.'), the operative reply that directly denies what she had heard; the following sentences ('Nam carmina tantum nostra ualent...') elaborate and are cut."
+    },
+    {
+      "locus": "Fulgentius, Mitologiae 1.17 (De tripo, sagittis et Pithone)",
+      "type": "authorial-rhetorical",
+      "question": "Quare sine barba pingitur, cum pater dicatur?",
+      "answer": "Quia occidendo et renascendo semper est iuuenior siue quod numquam in sua uirtute deficiat ut luna, quae crescit aut minuit.",
+      "derivation": "An authorial rhetorical question that stands on its own line; changed the final '.' to '?'. The next line answers it directly, opening with 'Quia' (because); kept the whole single sentence to its full stop. Nothing cut from the answer; the following text is the numbered section title 'XVIII. Fabula Mercurii.' (scaffolding)."
+    }
+  ]
+}

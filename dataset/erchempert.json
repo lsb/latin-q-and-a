@@ -1,0 +1,12 @@
+{
+  "source": "text/erchempert.txt",
+  "pairs": [
+    {
+      "locus": "Erchempert, Historia Langobardorum Beneventanorum 75",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo ero de his qui praedant proximos et proximas, traduntque prostibulo? Itane praedabuntur deinde?",
+      "answer": "Sicuti enim Neapolites vastantur, qui vastarunt, ita et nos forsan devorabimur, qui nunc devorantes sumus.",
+      "derivation": "Prose chronicle; authorial-rhetorical question the author poses and answers himself. Question span begins at 'Quid ergo ero de his qui praedant...' so the subject of 'praedabuntur' (those who plunder neighbors) is present for self-containment; the operative interrogative is 'Itane praedabuntur deinde?'. The preceding apostolic quotation 'Nonne qui praedat et ipse praedaverit?' (framed by 'cum dicat apostolus') is not the author's own words and is left out. The answer is the immediately following sentence ('Sicuti enim... devorantes sumus'), which affirms the question via the Sicuti...ita comparison; it ends at the full stop, before the closing benediction 'Beati ergo, qui Domino custodiente...'. First word capitalization and the mid-sentence 'itane' normalized to 'Itane' at sentence start; no Latin words added, removed, or reordered."
+    }
+  ]
+}

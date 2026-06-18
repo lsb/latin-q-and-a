@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/fratrem3.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Quintum fratrem 3.3.3",
+      "type": "direct-speech",
+      "question": "Quid fiet de Gabinio?",
+      "answer": "Quid futurum sit, nescio. Locum tamen illi in civitate non video.",
+      "derivation": "Cicero quotes Quintus's question verbatim ('Quaeris: \"quid fiet de Gabinio?\"'); the framing speech-tag 'Quaeris:' is dropped and the first word capitalized. The reply opens with a non-answering preamble describing the trial ('Sciemus de maiestate triduo: ... Pompeius vehemens in iudicibus rogandis.'), which is cut; the answer's start advances to the operative answering sentences 'Quid futurum sit, nescio. Locum tamen illi in civitate non video.' which directly answer what will become of Gabinius. The window ends there, before 'Animum praebeo ad illius perniciem moderatum...', which turns to Cicero's own disposition."
+    }
+  ]
+}

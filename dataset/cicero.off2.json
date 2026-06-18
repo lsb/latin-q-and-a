@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/off2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Officiis 2.71",
+      "type": "direct-speech",
+      "question": "Utrum bono viro pauperi an minus probato diviti filiam collocaret?",
+      "answer": "Ego vero malo virum, qui pecunia egeat, quam pecuniam quae viro.",
+      "derivation": "Themistocles is asked whether to marry his daughter to a poor good man or a less-reputable rich one, and answers verbatim. Dropped the speech framing 'nimirum Themistocles est auctor adhibendus, qui cum consuleretur,' before the question and 'inquit' inside the answer; capitalized 'Utrum' and added '?' to the verbatim indirect-question clause; the answer is the speaker's own complete reply. After the answer the passage turns to Cicero's own digression ('Sed corrupti mores...')."
+    },
+    {
+      "locus": "Cicero, De Officiis 2.89",
+      "type": "direct-speech",
+      "question": "Quid faenerari?",
+      "answer": "Quid hominem occidere?",
+      "derivation": "From Cato the Elder's exchange on what is most profitable in estate management. The interlocutor's direct question 'Quid faenerari?' is answered by Cato's verbatim retort equating usury with murder. Dropped the surrounding narration 'et cum ille, qui quaesierat, dixisset:' and 'tum Cato:' and the interruptive 'inquit' within the answer; kept the answer contiguous. The earlier turns ('Bene pascere', etc.) are narrated indirect questions and were not used. After the retort the text resumes Cicero's commentary ('Ex quo et multis aliis...')."
+    }
+  ]
+}

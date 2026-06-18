@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/att9.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Atticum 9.7.3",
+      "type": "authorial-rhetorical",
+      "question": "Cum hocne igitur esse vis?",
+      "answer": "Beneficium sequor, mihi crede, non causam.",
+      "derivation": "Cicero ventriloquizes Atticus's anticipated objection ('inquies' = 'you will say'); the speech tag 'inquies', which sits inside the quoted clause ('Cum hocne igitur' inquies 'esse vis?'), is dropped as framing, leaving the contiguous utterance. The answer is taken to the first full stop; what follows ('ut in Milone, ut in . . . sed hactenus.') is a digressive elaboration with a lacuna and is cut."
+    },
+    {
+      "locus": "Cicero, Ad Atticum 9.7.3-4",
+      "type": "authorial-rhetorical",
+      "question": "Causa igitur non bona est?",
+      "answer": "Immo optima, sed agetur, memento, foedissime.",
+      "derivation": "Cicero's imagined interlocutor's question ends 9.7.3; the section marker [4] (scaffolding) is stripped so the answer begins immediately. The answer runs to the first full stop; what follows ('primum consilium est suffocare urbem...') turns from answering the question to detailing Pompey's plans and is cut."
+    },
+    {
+      "locus": "Cicero, Ad Atticum 9.18.3",
+      "type": "authorial-rhetorical",
+      "question": "Vidisti igitur virum, ut scripseras? Ingemuisti?",
+      "answer": "Certe.",
+      "derivation": "Cicero quotes Atticus's anticipated double question and answers it himself. The whole imagined question is kept contiguous as the question; 'certe' is Cicero's direct answer. The following imagined prompt 'cedo reliqua.' begins a new exchange and is excluded."
+    }
+  ]
+}

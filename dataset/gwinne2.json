@@ -1,0 +1,19 @@
+{
+  "source": "text/gwinne2.txt",
+  "pairs": [
+    {
+      "locus": "Gwinne, Nero, Actus II.3 (lines 790-791)",
+      "type": "direct-speech",
+      "question": "Quodnam excubantes milites signum ferent?",
+      "answer": "Signum excubantes Optimae Matris ferant.",
+      "derivation": "Burrhus genuinely asks what watchword the guards on duty shall carry (quodnam ... signum ferent?); Nero directly answers with the watchword (Optimae Matris). Drama speaker-labels BUR./NERO stripped; the inline verse number 790 dropped; the conversion artifact 'signumferent' (run-together words) restored to 'signum ferent'; the edition's emphatic all-caps OPTIMAE MATRIS normalized to standard capitalization, keeping every word. Single-line exchange, fully self-contained."
+    },
+    {
+      "locus": "Gwinne, Nero, Actus II.7 (lines 1144-1145)",
+      "type": "direct-speech",
+      "question": "Quae sit refer.",
+      "answer": "Poppaea, deliciae meae.",
+      "derivation": "Nero asks Otho to identify his beloved (quae sit refer = 'tell who she is'); Otho answers by naming her, Poppaea, deliciae meae. Speaker-labels NERO/OTHO stripped, inline verse number 1145 dropped. Answer cut at the first full stop: the continuation 'measne dixi? dicerem caeli ac soli...' digresses and is omitted. The earlier question quaenam illa tanti? was not used because Otho deflected it (praise without naming), so it has no genuine answer."
+    }
+  ]
+}

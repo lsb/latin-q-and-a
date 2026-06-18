@@ -1,0 +1,19 @@
+{
+  "source": "text/dante/mon3.txt",
+  "pairs": [
+    {
+      "locus": "Monarchia 3.3.15",
+      "type": "direct-speech",
+      "question": "Quare discipuli tui traditionem seniorum transgrediuntur?",
+      "answer": "Quare et vos transgredimini mandatum Dei propter traditionem vestram?",
+      "derivation": "Pharisees' question to Christ, framed by 'Cum enim interrogassent'; the parenthetical narration 'negligebant enim manuum lotionem' interrupts but is not part of the utterance and is dropped. Christ's reply framed by 'Cristus eis, Matheo testante, respondit' is dropped; the answer is his quoted counter-response in full, ending at the question mark."
+    },
+    {
+      "locus": "Monarchia 3.9.10",
+      "type": "direct-speech",
+      "question": "Quem me esse dicitis?",
+      "answer": "Tu es Cristus, filius Dei vivi.",
+      "derivation": "Christ's question to the disciples, framed by 'cum Iesus interrogasset discipulos', tag dropped. Peter's reply framed by 'Petrum ante omnes respondisse' dropped; answer is his quoted words in full, one sentence."
+    }
+  ]
+}

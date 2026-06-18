@@ -1,0 +1,12 @@
+{
+  "source": "text/cassiodorus/varia2.txt",
+  "pairs": [
+    {
+      "locus": "Cassiodorus, Variae 2.22.2",
+      "type": "authorial-rhetorical",
+      "question": "Priamus quanto pretio sepeliendum Hectorem redemit?",
+      "answer": "Rogavit furentem, supplicavit armato vitamque suam exponere maluit, ut cadaveri debita non negaret.",
+      "derivation": "Authorial-rhetorical pair within letter XXII section [2]. The interrogative 'quanto pretio... redemit?' (at what price did Priam ransom Hector?) is directly answered by the following sentence naming the price: his entreaties, his supplication, and his willingness to risk his own life. Answer window ends at the first full stop ('non negaret'); the next sentence ('et quoniam in his personis mutua sunt officia pietatis...') turns from answering to drawing the moral lesson, so it is excluded. No scaffolding ([n] markers, numbers) falls inside either span."
+    }
+  ]
+}

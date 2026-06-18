@@ -1,0 +1,19 @@
+{
+  "source": "text/horace/arspoet.txt",
+  "pairs": [
+    {
+      "locus": "Horace, Ars Poetica 137-139",
+      "type": "authorial-rhetorical",
+      "question": "\"Fortunam Priami cantabo et nobile bellum.\" Quid dignum tanto feret hic promissor hiatu?",
+      "answer": "Parturient montes, nascetur ridiculus mus.",
+      "derivation": "The cyclic poet's boast (\"Fortunam Priami cantabo et nobile bellum\") is kept as verbatim setup so that hic promissor and tanto... hiatu have a referent. The question Quid dignum tanto feret hic promissor hiatu? is a genuine interrogative answered contemptuously by the next sentence Parturient montes, nascetur ridiculus mus. Answer ends at the full stop; what follows (Quanto rectius hic, qui nil molitur inepte...) turns to a new contrast and is excluded."
+    },
+    {
+      "locus": "Horace, Ars Poetica 329-330",
+      "type": "direct-speech",
+      "question": "Redit uncia, quid fit?",
+      "answer": "Semis.",
+      "derivation": "Schoolroom dialogue between the master and Albinus's son. The setup Redit uncia (\"the ounce is restored\") is kept verbatim so quid fit? has a referent; quid fit? is a real interrogative and the pupil's reply Semis answers it contiguously. The earlier exchange (si de quincunce remota est uncia, quid superat?... Triens) is excluded because it is scaffolding-corrupted with the ellipsis . . . and the interpolated retorts Poteras dixisse and Eu! between question and answer, which cannot be quoted contiguously. After Semis the text turns to An, haec animos aerugo... and is excluded."
+    }
+  ]
+}

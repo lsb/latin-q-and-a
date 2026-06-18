@@ -1,0 +1,82 @@
+{
+  "source": "text/bible/exodus.txt",
+  "pairs": [
+    {
+      "locus": "Exodus 1.18-19",
+      "type": "direct-speech",
+      "question": "Quidnam est hoc quod facere voluistis ut pueros servaretis?",
+      "answer": "Non sunt hebraeae sicut aegyptiae mulieres ipsae enim obsetricandi habent scientiam et priusquam veniamus ad eas pariunt.",
+      "derivation": "Pharaoh questions the midwives. Dropped the narrative frame 'quibus ad se accersitis rex ait' before the question and 'quae responderunt' before the answer. The whole reply explains why the boys lived, so it is kept entire as the genuine answer."
+    },
+    {
+      "locus": "Exodus 2.7-8",
+      "type": "direct-speech",
+      "question": "Vis ut vadam et vocem tibi hebraeam mulierem quae nutrire possit infantulum?",
+      "answer": "Vade.",
+      "derivation": "Moses' sister to Pharaoh's daughter. Dropped the frame 'cui soror pueri ... inquit' (speech tag interrupts the utterance). Answer is 'respondit vade' with the speech verb 'respondit' dropped; what follows ('perrexit puella et vocavit matrem eius') is narration."
+    },
+    {
+      "locus": "Exodus 2.18-19",
+      "type": "direct-speech",
+      "question": "Cur velocius venistis solito?",
+      "answer": "Vir aegyptius liberavit nos de manu pastorum insuper et hausit aquam nobiscum potumque dedit ovibus.",
+      "derivation": "Reuel asks his daughters why they returned early. Dropped frame 'quae cum revertissent ad Raguhel patrem suum dixit ad eas' and the answer's speech verb 'responderunt'. The reply explains the cause of their early return and is kept entire."
+    },
+    {
+      "locus": "Exodus 3.11-12",
+      "type": "direct-speech",
+      "question": "Quis ego sum ut vadam ad Pharaonem et educam filios Israhel de Aegypto?",
+      "answer": "Ero tecum.",
+      "derivation": "Moses objects, God reassures. Dropped 'dixit Moses ad Deum' and 'qui dixit ei'. Answer cut at first full stop; what follows ('et hoc habebis signum quod miserim te ... immolabis Deo super montem istum') elaborates with the sign and does not bear on the 'who am I' question."
+    },
+    {
+      "locus": "Exodus 3.13-14",
+      "type": "whole-speech-as-question",
+      "question": "Ecce ego vadam ad filios Israhel et dicam eis Deus patrum vestrorum misit me ad vos si dixerint mihi quod est nomen eius quid dicam eis?",
+      "answer": "Ego sum qui sum.",
+      "derivation": "Moses' whole speech is one extended question ending in 'quid dicam eis'; quoted entire and contiguous per the whole-speech rule. Answer drops 'dixit Deus ad Mosen' and cuts after 'ego sum qui sum'; what follows ('ait sic dices filiis Israhel qui est misit me ad vos') is the further instruction, not the name itself."
+    },
+    {
+      "locus": "Exodus 4.2",
+      "type": "direct-speech",
+      "question": "Quid est hoc quod tenes in manu tua?",
+      "answer": "Virga.",
+      "derivation": "God questions Moses about the object in his hand. Dropped frame 'dixit ergo ad eum' and the answer's speech verb 'respondit'. One-word reply is the complete genuine answer."
+    },
+    {
+      "locus": "Exodus 8.9-10",
+      "type": "whole-speech-as-question",
+      "question": "Constitue mihi quando deprecer pro te et pro servis tuis et pro populo tuo ut abigantur ranae a te et a domo tua et tantum in flumine remaneant?",
+      "answer": "Cras.",
+      "derivation": "Moses asks Pharaoh to fix the time ('quando deprecer'); the whole utterance is kept as the question. Dropped frame 'dixitque Moses Pharaoni'. Answer drops 'qui respondit'; the reply 'cras' answers the 'when', and what follows ('at ille iuxta verbum inquit tuum ...') is Moses speaking again."
+    },
+    {
+      "locus": "Exodus 10.8-9",
+      "type": "direct-speech",
+      "question": "Quinam sunt qui ituri sunt?",
+      "answer": "Cum parvulis nostris et senibus pergemus cum filiis et filiabus cum ovibus et armentis.",
+      "derivation": "Pharaoh asks who is to go; Moses answers. Dropped the preceding command-and-frame 'revocaveruntque Mosen et Aaron ad Pharaonem qui dixit eis ite sacrificate Domino Deo vestro' and the answer's 'ait Moses'. Cut the answer before 'est enim sollemnitas Domini nostri', which justifies rather than answers the 'who' question."
+    },
+    {
+      "locus": "Exodus 12.26-27",
+      "type": "direct-speech",
+      "question": "Quae est ista religio?",
+      "answer": "Victima transitus Domini est quando transivit super domos filiorum Israhel in Aegypto percutiens Aegyptios et domos nostras liberans.",
+      "derivation": "Prescribed exchange: when the children ask, the people answer. Dropped frame 'et cum dixerint vobis filii vestri' and the answer's 'dicetis eis'. Cut before 'incurvatusque populus adoravit', which is narration of the people's response, not part of the answer."
+    },
+    {
+      "locus": "Exodus 13.14",
+      "type": "direct-speech",
+      "question": "Quid est hoc?",
+      "answer": "In manu forti eduxit nos Dominus de Aegypto de domo servitutis.",
+      "derivation": "Prescribed father-son exchange. Dropped frame 'cumque interrogaverit te filius tuus cras dicens' and the answer's 'respondebis ei'. Cut after the first full stop; the next verse (13.15) elaborates the Passover rationale."
+    },
+    {
+      "locus": "Exodus 18.14-15",
+      "type": "direct-speech",
+      "question": "Quid est hoc quod facis in plebe? Cur solus sedes et omnis populus praestolatur de mane usque ad vesperam?",
+      "answer": "Venit ad me populus quaerens sententiam Dei.",
+      "derivation": "Jethro questions Moses about judging the people alone. Dropped frame 'quod cum vidisset cognatus eius omnia scilicet quae agebat in populo ait' and the answer's 'cui respondit Moses'. Cut after the first sentence; 18.16 ('cumque acciderit eis aliqua disceptatio ...') elaborates on the procedure."
+    }
+  ]
+}

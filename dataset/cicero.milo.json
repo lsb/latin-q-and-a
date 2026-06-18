@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/milo.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Milone 13",
+      "type": "authorial-rhetorical",
+      "question": "Cur igitur incendium curiae, oppugnationem aedium M. Lepidi, caedem hanc ipsam contra rem publicam senatus factam esse decrevit?",
+      "answer": "Quia nulla vis umquam est in libera civitate suscepta inter civis non contra rem publicam.",
+      "derivation": "Cicero poses a genuine 'Cur...?' interrogative and immediately answers it himself with 'quia...'. Question taken whole through the '?'; answer is the contiguous 'quia' clause to its full stop (stops before 'Non enim est illa defensio...', which begins a new point). Section marker '13.' and surrounding scaffolding excluded; first word of answer capitalized for presentation."
+    },
+    {
+      "locus": "Cicero, Pro Milone 15",
+      "type": "authorial-rhetorical",
+      "question": "Tulit enim de caede quae in Appia via facta esset, in qua P. Clodius occisus esset. Quid ergo tulit?",
+      "answer": "Nempe ut quaereretur.",
+      "derivation": "Authorial self-question 'Quid ergo tulit?'; the preceding verbatim sentence is kept as setup (rule 2) so the subject (Pompeius) and 'tulit' have a referent. Answer is the immediate self-reply through its full stop; stops before the next volley 'Quid porro quaerendum est?' Section marker '15.' / 'At enim Cn. Pompeius...' framing excluded; answer's first word capitalized."
+    },
+    {
+      "locus": "Cicero, Pro Milone 16",
+      "type": "authorial-rhetorical",
+      "question": "Num igitur ulla quaestio de Africani morte lata est?",
+      "answer": "Certe nulla.",
+      "derivation": "Genuine 'Num...?' interrogative answered by Cicero himself. 'de Africani morte' makes the question self-contained. Answer is the immediate self-reply 'certe nulla' through its full stop; stops before the following 'Quid ita? quia...' (a separate, weaker self-contained micro-pair dropped to avoid overlap, preferring false negatives). Section markers and first-word capitalization normalized."
+    }
+  ]
+}

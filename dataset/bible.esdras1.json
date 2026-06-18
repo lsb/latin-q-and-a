@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/esdras1.txt",
+  "pairs": [
+    {
+      "locus": "1 Esdras 4.14-15",
+      "type": "authorial-rhetorical",
+      "question": "Viri, non magnus rex et multi homines? nec vinum praecellit? quis est ergo qui dominatur eorum?",
+      "answer": "Nonne mulieres? genuerunt regem et omnem populum, qui dominantur mari et terrae.",
+      "derivation": "Zorobabel poses his own question and answers it. Question span begins at the start of his speech (verse 14, after dropping the speech-tag narration 'tertius, qui dixerat de mulieribus et veritate, hic est Zorobabel, coepit loqui:') so that 'eorum' has its referent (rex, homines). Answer ends at the first full stop after 'terrae'; what follows (verse 16, 'et ex illis nati sunt...') is elaboration on women, so it is cut. Inline verse numbers stripped; capitalized first word and added terminal '?' are presentation only."
+    },
+    {
+      "locus": "1 Esdras 6.11-13",
+      "type": "direct-speech",
+      "question": "Quo permittente vobis aedificatis domum istam et opera haec fundatis?",
+      "answer": "Nos sumus servi Domini, qui fecit caelum et terram.",
+      "derivation": "The satraps' letter to Darius quotes their exchange with the elders. Question is the quoted utterance of verse 11 after dropping the speech tag 'tunc interrogavimus seniores dicentes:'. The intervening verse 12 ('ideo autem interrogavimus eos, ut notum faceremus tibi...') is meta-narration of why they asked, dropped as framing. Answer is the quoted utterance of verse 13 after dropping 'at illi responderunt nobis dicentes:'; it ends at the first full stop after 'terram', cutting verse 14's continued history ('et aedificabatur haec domus...'). Inline verse numbers stripped; first word capitalized."
+    }
+  ]
+}

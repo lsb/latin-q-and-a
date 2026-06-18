@@ -1,0 +1,12 @@
+{
+  "source": "text/bible/chronicles2.txt",
+  "pairs": [
+    {
+      "locus": "2 Chronicles 25.9",
+      "type": "direct-speech",
+      "question": "Quid ergo fiet de centum talentis quae dedi militibus Israhel?",
+      "answer": "Habet Dominus unde tibi dare possit multo his plura.",
+      "derivation": "Amasias asks the man of God a real interrogative (quid). Dropped the speech tag 'dixitque Amasias ad hominem Dei' before the question and 'et respondit ei homo Dei' before the answer. The answer is the man of God's full reply, which directly answers the worry about the wasted talents; nothing follows the cut within his reply (v.10 returns to narration)."
+    }
+  ]
+}

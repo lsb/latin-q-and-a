@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/fin1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Finibus 1.17",
+      "type": "direct-speech",
+      "question": "Quid igitur est? Audire enim cupio, quid non probes.",
+      "answer": "Principio in physicis, quibus maxime gloriatur, primum totus est alienus.",
+      "derivation": "Torquatus genuinely asks what Cicero disapproves of in Epicurus; Cicero begins his answer. Dropped framing tags 'inquit' and 'inquam'; capitalized 'Audire' after splitting the question. Answer cut at the first full stop ('alienus.'); what follows ('Democritea dicit perpauca mutans...') elaborates the critique."
+    },
+    {
+      "locus": "Cicero, De Finibus 1.28",
+      "type": "direct-speech",
+      "question": "Utrum igitur percurri omnem Epicuri disciplinam placet an de una voluptate quaeri, de qua omne certamen est?",
+      "answer": "Tuo vero id quidem arbitratu.",
+      "derivation": "Genuine utrum...an question from Torquatus, answered by Cicero leaving the choice to him. Dropped framing tag 'inquam' from the answer. Answer ends at the full stop; what follows ('Sic faciam igitur, inquit...') is Torquatus proceeding, not part of the reply."
+    },
+    {
+      "locus": "Cicero, De Finibus 1.35",
+      "type": "direct-speech",
+      "question": "At magnum periculum adiit. In oculis quidem exercitus. Quid ex eo est consecutus?",
+      "answer": "Laudem et caritatem, quae sunt vitae sine metu degendae praesidia firmissima.",
+      "derivation": "Imagined dialectical exchange; the interrogative is 'Quid ex eo est consecutus?', preceded by verbatim setup ('At magnum periculum adiit. In oculis quidem exercitus.') so that 'eo' has a referent (the danger faced). Stripped the dialogue dash marks. Answer ends at the full stop; what follows ('Filium morte multavit.') is the next exchange."
+    },
+    {
+      "locus": "Cicero, De Finibus 1.39",
+      "type": "direct-speech",
+      "question": "Numquidnam manus tua sic affecta, quem ad modum affecta nunc est, desiderat?",
+      "answer": "Nihil sane.",
+      "derivation": "The rogatiuncula attributed to Chrysippus' statue: a genuine 'numquidnam' interrogative answered directly. Stripped the surrounding single quotes and dialogue dash. Answer is the complete reply ('Nihil sane.'); what follows ('At, si voluptas esset bonum, desideraret.') is the next step of the syllogism."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "text/gregdecretals2.txt",
+  "pairs": [
+    {
+      "locus": "Decretales Gregorii IX 2.1.7 (Alexander III, Paduano Episcopo)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum excommunicatus in iudicio stare possit?",
+      "answer": "Conveniri potest, et debet per alium in iudicio respondere, ne videatur de sua malitia commodum reportare, si ex ea fuerit ab eorum impetitione securus.",
+      "derivation": "Consultation Q&A. Dropped the asking-framing 'Quia postulasti a nobis,' before the verbatim interrogative clause 'utrum excommunicatus in iudicio stare possit'; normalized capital U and added '?'. Answer: dropped the responding-framing 'respondemus, quod' and took the operative reply; runs to the end of the chapter (the whole reply is the answer, ending at 'securus')."
+    },
+    {
+      "locus": "Decretales Gregorii IX 2.1.10 (Coelestinus III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum liceat regi vel alicui saeculari personae iudicare clericos cuiuscunque ordinis, sive in furto, sive in homicidio, vel periurio, seu quibuscunque fuerint criminibus deprehensi?",
+      "answer": "Si clericus in quocunque ordine constitutus in furto, vel homicidio, vel periurio, seu alio mortali crimine fuerit deprehensus legitime atque convictus, ab ecclesiastico iudice deponendus est.",
+      "derivation": "Consultation Q&A. Dropped the asking-framing 'A nobis itaque fuit ex parte tua quaesitum,' keeping the verbatim interrogative; normalized capital U and added '?'. Answer: dropped 'Consultationi tuae taliter respondemus, quod,' and stopped at the first full stop ('deponendus est'); what follows ('Qui si depositus incorrigibilis fuerit...') elaborates further escalation and is cut."
+    },
+    {
+      "locus": "Decretales Gregorii IX 2.2.14 (Innocentius III)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum sacerdos habens ecclesiam in una dioecesi, et residens in eadem, domicilium vero patrimonii ratione in alia, ibi delinquens, ab eo, in cuius dioecesi habet patrimonium, pro delicto ibidem commisso debeat iudicari, praesertim in causis, quae officii sui seu beneficii privationem exposcunt?",
+      "answer": "Per episcopum, in cuius dioecesi deliquit, sententia promulgari poterit in eundem.",
+      "derivation": "Consultation Q&A. Dropped the asking-framing 'Postulasti per sedem apostolicam edoceri,' before the verbatim interrogative; normalized capital U (kept original '?'). Answer: dropped 'Ad quod breviter respondemus, quod' and took the first sentence ('...poterit in eundem'); what follows ('Sed ab eo, in cuius dioecesi beneficium obtinet...') addresses execution of the sentence and is cut."
+    },
+    {
+      "locus": "Decretales Gregorii IX 2.4.2 (Coelestinus III, Rothomagensi Decano)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum, quum causa appellatione remota committitur, et reus coram eodem iudice actorem reconvenerit vel eisdem, quod quidem ex constitutione tam canonici quam forensis iuris licite fieri potest, et actor super reconventione appellationis obstaculum interponit, an sit huiusmodi appellationi deferendum?",
+      "answer": "Quum in hoc casu actoris et rei eadem sit conditio vel causa, et uno eodemque iure circa appellationis remedium debeat uterque censeri, unde nec appellationi taliter interpositae deferendum esse iudicamus.",
+      "derivation": "Consultation Q&A. Dropped the asking-framing 'Sane consuluisti nos,' before the verbatim interrogative (which itself ends '...an sit huiusmodi appellationi deferendum?'); normalized capital U. Answer: dropped the responding-framing 'Nos vero ita sentimus, quod,' and took the contiguous operative reply through 'iudicamus'; the following scriptural justification ('Etenim ipso Christo...') is cut."
+    },
+    {
+      "locus": "Decretales Gregorii IX 2.7.2 (Honorius III, Ordinatori Romanae ecclesiae Subdiacono et Magistro Omnibono)",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in causa, quae inter venerabilem fratrem nostrum G. Bononiensem episcopum, et dilectum filium nostrum Aldricum Paduansum abbatem sub vestro examine agitatur, iuramentum calumniae praestari conveniat?",
+      "answer": "Romana ecclesia in his casibus, in quibus de ecclesiis, decimis et rebus spiritualibus tantum agitur, iuramentum calumniae nec dare, nec recipere consuevit eo, quod tales causae non ex legum districtione, sed ex canonum aequitate finem debitum sortiuntur, canones autem iuramentum calumniae in huiusmodi causis nulli prorsus indicunt.",
+      "derivation": "Consultation Q&A. Dropped the asking-framing wrapping the question ('Literas benignitatis vestrae benigne recepimus, in quibus, ... requisistis.'), keeping the verbatim interrogative clause 'utrum ... conveniat'; normalized capital U and added '?'. Answer: dropped 'Sane' and took the first sentence ('...nulli prorsus indicunt'); the closing procedural directive ('Unde, contentione ... procedat.') is cut."
+    },
+    {
+      "locus": "Decretales Gregorii IX 2.10.1 (Clemens III, Alatrino Episcopo)",
+      "type": "authorial-rhetorical",
+      "question": "An prius sit de impedimento consanguinitatis agendum, quam super causa matrimonii sententia proferatur?",
+      "answer": "Quum exceptione probata quaestio principalis perimatur, ante est cognoscendum de ipsa, quam ad diffinitionis articulum procedatur.",
+      "derivation": "Consultation Q&A. Dropped the asking-framing 'Quia vero nos consulere voluisti,' before the verbatim interrogative; normalized capital A and added '?'. Answer: dropped 'Inquisitioni tuae taliter duximus respondendum, quod,' and took the operative reply through the first full stop ('...procedatur'); the following applied directive ('Quo facto virum ab impetitione mulieris... absolvas.') is cut."
+    }
+  ]
+}

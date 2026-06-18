@@ -1,0 +1,47 @@
+{
+  "source": "text/cicero/repub1.txt",
+  "pairs": [
+    {
+      "locus": "De Re Publica 1.14",
+      "type": "direct-speech",
+      "question": "Quid tu tam mane Tubero? dabant enim hae feriae tibi opportunam sane facultatem ad explicandas tuas litteras.",
+      "answer": "Mihi vero omne tempus est ad meos libros vacuum; numquam enim sunt illi occupati; te autem permagnum est nancisci otiosum, hoc praesertim motu rei publicae.",
+      "derivation": "Scipio asks Tubero why he has come so early; speech tags 'inquit' and 'tum ille (Tubero)' dropped as framing. Answer is Tubero's full reply (his words run to the next speaker tag 'tum Scipio'); kept whole as it is contiguous and directly responsive."
+    },
+    {
+      "locus": "De Re Publica 1.17",
+      "type": "direct-speech",
+      "question": "Quid vos agitis? num sermonem vestrum aliquem diremit noster interventus?",
+      "answer": "Minime vero.",
+      "derivation": "Furius asks on arriving whether they interrupted; speech tag 'Furius:' dropped. Answer is Africanus' direct denial 'minime vero' (the attribution 'Africanus' is narration, dropped); cut before 'soles enim tu haec studiose investigare...' which turns to elaboration."
+    },
+    {
+      "locus": "De Re Publica 1.19",
+      "type": "direct-speech",
+      "question": "Quid tandem agebatis, aut cui sermoni nos intervenimus?",
+      "answer": "Quaesierat ex me Scipio quidnam sentirem de hoc quod duo soles visos esse constaret.",
+      "derivation": "Laelius asks what they were discussing; speaker tags 'hic Laelius' and '(Philus)' dropped as framing. Philus' reply is a single sentence that directly answers; no trimming needed."
+    },
+    {
+      "locus": "De Re Publica 1.33",
+      "type": "direct-speech",
+      "question": "Quid esse igitur censes Laeli discendum nobis, ut istud efficere possimus ipsum quod postulas?",
+      "answer": "Eas artis quae efficiant ut usui civitati simus; id enim esse praeclarissimum sapientiae munus maximumque virtutis vel documentum vel officium puto.",
+      "derivation": "Mucius asks what must be learned; tags 'Tum Mucius' and '(Laelius)' dropped. Answer kept to the first full stop; cut before 'quam ob rem ut hae feriae...' which turns to a proposal."
+    },
+    {
+      "locus": "De Re Publica 1.54",
+      "type": "direct-speech",
+      "question": "Quid tu Scipio? e tribus istis quod maxime probas?",
+      "answer": "Recte quaeris quod maxime e tribus, quoniam eorum nullum ipsum per se separatim probo, anteponoque singulis illud quod conflatum fuerit ex omnibus.",
+      "derivation": "Laelius asks which of the three constitutions Scipio most approves; tags 'Tum Laelius', 'inquit', '(Scipio)' dropped. Answer kept to the first full stop; cut before 'sed si unum ac simplex...' which is corrupted/elaborating text."
+    },
+    {
+      "locus": "De Re Publica 1.61",
+      "type": "direct-speech",
+      "question": "Quid quaeso interest inter unum et plures, si iustitia est in pluribus?",
+      "answer": "Quia animum adverti nuper, cum essemus in Formiano, te familiae valde interdicere, ut uni dicto audiens esset.",
+      "derivation": "Laelius asks what difference it makes between one ruler and several if justice is present; tags 'Tum Laelius', 'et Scipio' dropped. Scipio's first reply ('quoniam testibus meis... ut hoc quod dico probem') is a non-answering preamble announcing he will use Laelius himself as witness, and Laelius interjects 'me? quonam modo?'; the operative answering sentence is Scipio's '(Scipio) quia animum adverti nuper...', kept as the contiguous answer."
+    }
+  ]
+}

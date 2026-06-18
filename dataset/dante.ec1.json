@@ -1,0 +1,13 @@
+{
+  "source": "text/dante/ec1.txt",
+  "type": "verse",
+  "pairs": [
+    {
+      "locus": "Dante, Ecloga 1.56-64",
+      "type": "direct-speech",
+      "question": "Ergo quid faciemus Mopsum revocare volentes?",
+      "answer": "Est mecum quam noscis ovis gratissima, ubera vix que ferre potest, tam lactis abundans; rupe sub ingenti carptas modo ruminat herbas; nulli iuncta gregi nullis assuetaque caulis, sponte venire solet, numquam vi, poscere mulctram.",
+      "derivation": "Melibeus asks the genuine interrogative 'Ergo quid faciemus ... Mopsum revocare volentes?' (speech tag 'ait' inside the quote dropped as framing). Tityrus answers with his plan, opening 'Est mecum quam noscis ovis gratissima ...'; the inline speech tag 'dixi' is dropped as framing and the utterance kept contiguous (comma supplied where 'dixi' was removed). Answer window ends at the first full stop ('... poscere mulctram.'), giving the operative means (the ewe) by which they will recall Mopsus; what follows ('Hanc ego prestolor ... inplebo decem ... vascula Mopso') elaborates the same plan and is cut."
+    }
+  ]
+}

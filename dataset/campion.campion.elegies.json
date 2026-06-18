@@ -1,0 +1,12 @@
+{
+  "source": "text/campion/campion.elegies.txt",
+  "pairs": [
+    {
+      "locus": "Campion, Elegies 1.20-21",
+      "type": "direct-speech",
+      "question": "quam, rogo, diva, refers? anne Sybillam?",
+      "answer": "illam",
+      "derivation": "Echo dialogue: the poet asks Echo whom she means by her reply (\"whom, I ask, goddess, do you report? Sybilla?\"), and Echo answers \"illam\" (her). Dropped the trailing speech tag \"respondit\"; kept the interrogative span contiguous. The verse-number \"20\" scaffolding is not present in the quoted words. Setup is intelligible since the question names its own referent (Sybillam)."
+    }
+  ]
+}

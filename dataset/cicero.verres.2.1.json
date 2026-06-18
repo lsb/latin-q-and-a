@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/verres.2.1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, In Verrem 2.1.26",
+      "type": "authorial-rhetorical",
+      "question": "Verum, ut opinor, Glaucia primus tulit ut comperendinaretur reus; antea vel iudicari primo poterat vel amplius pronuntiari. Utram igitur putas legem molliorem?",
+      "answer": "Opinor, illam veterem, qua vel cito absolvi vel tarde condemnari licebat.",
+      "derivation": "Cicero poses an interrogative (Utram... legem molliorem?) and answers it himself. Setup kept: the prior sentence contrasting the comperendinatio law (Glaucia) with the old procedure (antea vel iudicari... vel amplius pronuntiari), so that 'Utram... legem' and 'illam veterem' have their two referents. Answer ends at the first full stop; the following sentence ('Ego tibi illam Aciliam legem restituo...') turns to elaboration."
+    },
+    {
+      "locus": "Cicero, In Verrem 2.1.37",
+      "type": "authorial-rhetorical",
+      "question": "Malus civis, improbus consul, seditiosus homo Cn. Carbo fuit. Fuerit aliis: tibi quando esse coepit?",
+      "answer": "Posteaquam tibi pecuniam, rem frumentariam, rationes omnis suas exercitumque commisit.",
+      "derivation": "A quando-interrogative answered by Cicero with a posteaquam-clause. Quotation marks around the imagined objection are presentation punctuation, stripped (no words altered). The quoted objection plus 'Fuerit aliis:' is kept as setup so 'esse coepit' (i.e. began to be such a bad citizen) has its referent. Answer is the single sentence directly answering 'when'; the next sentence ('Nam si tibi antea displicuisset...') is elaboration and is cut."
+    },
+    {
+      "locus": "Cicero, In Verrem 2.1.83",
+      "type": "authorial-rhetorical",
+      "question": "Themistagoram et Thessalum scribis populum concitasse. Quem populum?",
+      "answer": "Qui te circumsedit, qui te vivum comburere conatus est.",
+      "derivation": "Cicero asks 'Quem populum?' and immediately answers himself, identifying which populus. The prior sentence (Themistagoram et Thessalum scribis populum concitasse) is kept as setup so 'populum' has its referent. Answer ends at the first full stop; what follows ('Ubi hos persequeris...') is a fresh string of rhetorical questions, cut."
+    },
+    {
+      "locus": "Cicero, In Verrem 2.1.142",
+      "type": "authorial-rhetorical",
+      "question": "Si pupillo opus redimitur, mihi praeda de manibus eripitur. Quod est igitur remedium? Quod?",
+      "answer": "Ne liceat pupillo redimere.",
+      "derivation": "Cicero ventriloquizes Verres' reasoning, posing 'Quod est igitur remedium?' and answering it. The surrounding quotation marks are presentation punctuation, stripped. The opening conditional (Si pupillo opus redimitur, mihi praeda de manibus eripitur) is kept as setup so 'remedium' refers to a remedy for losing the plunder. The doubled 'quod?' is the author's own emphatic repetition within the question, kept verbatim. Answer is the closing clause; what follows ('Ubi illa consuetudo...') is a new rhetorical question, cut."
+    }
+  ]
+}

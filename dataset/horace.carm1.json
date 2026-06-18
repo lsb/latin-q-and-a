@@ -1,0 +1,12 @@
+{
+  "source": "text/horace/carm1.txt",
+  "pairs": [
+    {
+      "locus": "Horace, Odes 1.31.1-8",
+      "type": "authorial-rhetorical",
+      "question": "Quid dedicatum poscit Apollinem uates?",
+      "answer": "Non opimae Sardiniae segetes feraces, non aestuosae grata Calabriae armenta, non aurum aut ebur Indicum, non rura, quae Liris quieta mordet aqua taciturnus amnis.",
+      "derivation": "Authorial-rhetorical: the poet asks what the bard prays for from Apollo, then answers himself. Question is the core interrogative (Quid dedicatum poscit Apollinem uates?); the parallel restatement 'Quid orat, de patera nouum fundens liquorem?' is dropped as framing/narration of the act of asking and libation. Answer begins at the operative response 'Non opimae...' (what he does NOT ask, which is Horace's actual answer) and stops at the first full stop after 'amnis.', before the poem turns to the merchant's lot ('Premant Calena falce...') and the later positive prayer ('Frui paratis...'). Inline verse number 5 stripped; line breaks normalized to spaces."
+    }
+  ]
+}

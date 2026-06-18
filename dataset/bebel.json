@@ -1,0 +1,54 @@
+{
+  "source": "text/bebel.txt",
+  "pairs": [
+    {
+      "locus": "Bebel, Liber Facetiarum, De confessione monialis",
+      "type": "direct-speech",
+      "question": "Hoc nihil nocet, sed quid latuit sub illo?",
+      "answer": "Monachus.",
+      "derivation": "The nun confesses she once covered herself with someone else's cowl (cucullo alieno se aliquando contexisse); the priest asks what was hiding under it (illo = the cucullus). Answer is the nun's one-word reply 'Monachus' (a monk). Quoted the priest's full direct utterance; the referent of 'illo' is the cowl from the confession. Stopped before the priest's following moralizing line."
+    },
+    {
+      "locus": "Bebel, Liber Facetiarum, De confessione cuiusdam",
+      "type": "direct-speech",
+      "question": "Habesne tot annos o fili?",
+      "answer": "Etiam, cum et frater sit mihi tribus annis senior.",
+      "derivation": "Penitent declares he is guilty of all sins committed 'a nativitate Christi usque in hanc diem'; the priest asks 'Have you so many years, my son?' (tot annos = the years since Christ's birth). Capitalized the answer's first word ('etiam' -> 'Etiam'); no other change."
+    },
+    {
+      "locus": "Bebel, Liber Facetiarum, De doctore",
+      "type": "direct-speech",
+      "question": "Domine doctor ubi sunt calcaria tua?",
+      "answer": "Credebam o princeps mihi famulum ea induisse.",
+      "derivation": "The prince (Palatinus Rheni) asks the spurless doctor where his spurs are; the doctor answers he thought his servant had put them on. Dropped the interleaved speech tag 'inquit' from 'Credebam, inquit o princeps, mihi...'; vocative 'o princeps' kept as part of the utterance. All words contiguous in source order."
+    },
+    {
+      "locus": "Bebel, Liber Facetiarum, De caupone (De eodem)",
+      "type": "direct-speech",
+      "question": "Cur ita clamas?",
+      "answer": "Credebam ignem esse in cellario, cum te ita aqua oneres, illudque crebro incursites.",
+      "derivation": "An innkeeper hauling water at night is taken for raising a fire alarm by his guest, who cries out; the host (hospes) asks 'Why are you shouting so?' and the guest explains he thought there was a fire because of all the water. Dropped speech tag 'inquit ille'."
+    },
+    {
+      "locus": "Bebel, Liber Facetiarum, De alia puella",
+      "type": "direct-speech",
+      "question": "Quid ibi fecisti?",
+      "answer": "Puh, nescis domine quid faciant adolescentes in feno puellis.",
+      "derivation": "A young girl confesses she was with young men on the hay (super feno fuisse); the priest asks what she did there (ibi = on the hay), and she replies coyly. Quoted the girl's full reply; capitalization/punctuation normalized ('Puh.' -> 'Puh,'). The setup referent for 'ibi' is the hay from the confession."
+    },
+    {
+      "locus": "Bebel, Liber Facetiarum, De fatuo cuiusdam principis",
+      "type": "direct-speech",
+      "question": "Et quis fecisse potest praeter te, cum nemo alius affuerit?",
+      "answer": "Oportet Regulum fecisse.",
+      "derivation": "The fool defecated in the prince's boots; finding them fouled, the prince first asks who did it (the fool denies, a non-answer), then asks 'who could have done it besides you, since no one else was present?' This second, fuller question is the genuine interrogative. The fool answers it blamed Regulus, the tiny caged bird. Joined the prince's two clauses ('et quis fecisse potest praeter te? cum nemo alius affuerit') into one question, dropping no words; capitalized first word and set terminal '?'."
+    },
+    {
+      "locus": "Bebel, Liber Facetiarum, De somnolento servo",
+      "type": "direct-speech",
+      "question": "Cur somnolente asine in tam longum diem dormis, et quae officii tui sunt non curas?",
+      "answer": "Ego ante quattuordecim dies in balneo fui, unde mihi ignoscendum duco.",
+      "derivation": "The angry master asks the lazy servant why he sleeps so late and neglects his duties; the servant answers he was at the baths a fortnight ago and so deserves pardon. Dropped speech tag 'inquit dominus' from the question. Answer cut at the first full stop (operative answering sentence); omitted the following elaboration ('Assolent enim... contigit') which digresses into a general claim about post-bath drowsiness."
+    }
+  ]
+}

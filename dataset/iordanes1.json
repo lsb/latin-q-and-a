@@ -1,0 +1,26 @@
+{
+  "source": "text/iordanes1.txt",
+  "pairs": [
+    {
+      "locus": "Iordanes, Getica 20",
+      "type": "authorial-rhetorical",
+      "question": "Ita alternato merore cum gaudio benificio aliis damnoque impar est. Et hoc quare?",
+      "answer": "Quia prolixioribus diebus solem ad orientem per axis marginem vident redeuntem, brevioribus vero non sic conspicitur apud illos, sed aliter, quia austrinis signis percurrit, et quod nobis videtur sol ab imo surgere, illos per terrae marginem dicitur circuire.",
+      "derivation": "Authorial self-posed question. Kept the preceding sentence 'Ita alternato merore cum gaudio benificio aliis damnoque impar est.' as setup so that 'hoc' has its referent (the Adogit's unequal alternation of long days/nights). Answer is the single contiguous causal explanation introduced by 'Quia'; it runs to the first full stop, which here closes section 20 ('...per terrae marginem dicitur circuire.'). Nothing cut from the answer; section number markers omitted as scaffolding."
+    },
+    {
+      "locus": "Iordanes, Getica 86",
+      "type": "direct-speech",
+      "question": "Num quid vis post cursum, Thracisce, luctare?",
+      "answer": "Quantum libet, imperator.",
+      "derivation": "Direct-speech exchange: Severus asks Maximinus, who answers. Dropped framing 'ac deinde ait illi:' before the question and 'Respondit:' before the answer. Both utterances are quoted verbatim and entire; capitalization/terminal punctuation normalized. What follows the answer ('Ita Severus, ex equo desiliens...') is narration of the ensuing wrestling, not part of the reply, so it is excluded."
+    },
+    {
+      "locus": "Iordanes, Getica 187-189",
+      "type": "whole-speech-as-question",
+      "question": "Prudentiae vestrae est, fortissimi gentium, adversus orbis conspirare tyrannum, qui optat mundi generale habere servitium, qui causas proelii non requirit, sed, quidquid commiserit, hoc putat esse legitimum, ambitum suum brachio metitur, superbiam licentia satiat; qui ius fasque contemnens, hostem se exhibet et naturae. Cunctorum etenim meretur hic odium, qui in commune omnium se adprobat inimicum. Recordamini, quaeso, quod certe non potest oblivisci, ab Hunnis non per bella, ubi communis casus est, fusum, sed, quod graviter anget, insidiis appetitum. Vt de nobis taceamus, potestis hanc inulti ferre superbiam? Armorum potentes favete propriis doloribus et communes iungite manus. Auxiliamini etiam rei publicae, cuius membrum tenetis. Quam sit autem nobis expetenda vel amplexanda societas, hostis interrogate consilia.",
+      "answer": "Habetis, Romani, desiderium vestrum; fecistis Attilam et nobis hostem.",
+      "derivation": "Whole-speech-as-question: Valentinian's envoys deliver an entire exhortation/plea to Theodorid, pivoting on the interrogative 'potestis hanc inulti ferre superbiam?' and the demand to join arms. Quoted the full speech verbatim and contiguous, dropping only the framing 'Tunc Valentinianus imperator ad Vesegothas eorumque regem Theoderidum in his verbis legationem direxit:' and stripping the inline section marker '188'. For the answer, dropped the framing 'His et similia legati Valentiniani regem permoverunt Theodoridum. Quibus ille respondit:' and 'inquid,' from within the reply; kept the operative answering sentence ('Habetis, Romani, desiderium vestrum; fecistis Attilam et nobis hostem.') which grants the plea (Theodorid will fight Attila), stopping at its first full stop. What follows ('Sequimur illum quocumque vocaverit...') elaborates and is cut."
+    }
+  ]
+}

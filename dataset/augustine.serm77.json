@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/serm77.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 77.21",
+      "type": "authorial-rhetorical",
+      "question": "Unde discernimus qui sint porci, qui sint canes?",
+      "answer": "Hoc in ista muliere demonstratum est.",
+      "derivation": "Dropped the parenthetical framing 'tanquam responderent' which narrates the rhetorical posing rather than being part of the question. The question is the genuine interrogative 'et unde discernimus... qui sint porci, qui sint canes?' (capitalized, leading 'et' kept out as it merely connects to prior sentence; 'unde' begins the interrogative). The answer is the immediately following self-supplied response, ending at the first full stop; what follows ('nam illi mulieri instanti respondit hoc...') begins the elaboration."
+    },
+    {
+      "locus": "Augustine, Sermo 77.27",
+      "type": "authorial-rhetorical",
+      "question": "Tantam, quid est?",
+      "answer": "Tam magnam.",
+      "derivation": "Self-posed question glossing the word 'tantam' from the quoted 'non inueni tantam fidem'; the referent 'tantam' is included so the question is self-contained. Answer is the immediate gloss, stopping at the full stop before the next question 'unde magnam?'."
+    },
+    {
+      "locus": "Augustine, Sermo 77.27",
+      "type": "authorial-rhetorical",
+      "question": "Unde magnam?",
+      "answer": "De minimo, id est, de humilitate grandem.",
+      "derivation": "Self-posed question following 'tam magnam'; 'magnam' supplies its own referent. Answer is the contiguous self-supplied reply, ending at the full stop before 'non inueni tantam fidem'."
+    },
+    {
+      "locus": "Augustine, Sermo 77.27",
+      "type": "authorial-rhetorical",
+      "question": "Quare multum habent diuites?",
+      "answer": "Quia multum indigent.",
+      "derivation": "Clean authorial question-and-answer about the rich. Answer is the immediate 'quia' clause, ending at the full stop; what follows ('maior indigentia quasi maiores comparat facultates') is elaboration."
+    }
+  ]
+}

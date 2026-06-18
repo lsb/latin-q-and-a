@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/verres.2.2.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, In Verrem 2.2.21",
+      "type": "authorial-rhetorical",
+      "question": "Tum ad Verrem quis detulit?",
+      "answer": "Nemo.",
+      "derivation": "Authorial dialogue with imagined interlocutor about the Dio inheritance affair. Dropped the framing filler 'Quid?' that precedes the question. Question is the interrogative 'quis detulit?'; answer is the immediately following one-word reply 'Nemo' (terminal semicolon in source normalized to a full stop), before Cicero resumes with 'nisi forte existimatis...'."
+    },
+    {
+      "locus": "Cicero, In Verrem 2.2.72",
+      "type": "direct-speech",
+      "question": "Ad quos?",
+      "answer": "Ad me, si tibi idoneus videor qui de homine Siculo ac Graeculo iudicem.",
+      "derivation": "Minucius, suddenly ordered to plead (iubetur dicere), asks 'Ad quos?' ('Before whom?'); Verres answers. Dropped the speech tags 'Respondet' before the question and 'inquit' inside the answer ('\"Ad me\", inquit, \"si tibi...\"'), leaving Verres's utterance contiguous. Answer ends at 'iudicem'; what follows is Minucius's next turn ('\"Idoneus es\", inquit...')."
+    },
+    {
+      "locus": "Cicero, In Verrem 2.2.127",
+      "type": "direct-speech",
+      "question": "Quot ergo sunt renuntiati?",
+      "answer": "Tres.",
+      "derivation": "After Verres has the law read out (scriptum ita est, QUOT RENUNTIATI ERUNT, giving 'renuntiati' its referent), he asks how many were declared. Dropped the framing 'inquit' that splits the question in source ('\"Quot ergo\", inquit, \"sunt renuntiati?\"'), making it contiguous; dropped 'Respondent' before the reply 'Tres'. Answer is the bystanders' one-word reply, before Verres's next question 'Numquid igitur...'."
+    },
+    {
+      "locus": "Cicero, In Verrem 2.2.127",
+      "type": "direct-speech",
+      "question": "Numquid igitur oportet nisi tres sortis conici, unam educi?",
+      "answer": "Nihil.",
+      "derivation": "Verres's follow-up question (interrogative 'numquid') after establishing that three were declared; the Syracusans answer 'Nihil'. No speech tags to drop on the question; answer is the immediate one-word reply, before the narration resumes 'Conici iubet tres...'."
+    }
+  ]
+}

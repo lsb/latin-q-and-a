@@ -1,0 +1,47 @@
+{
+  "source": "text/capellanus/capellanus2.txt",
+  "pairs": [
+    {
+      "locus": "Andreas Capellanus, De Amore 2.4.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum finitus amor valeat resumere vitam?",
+      "answer": "Et si quidem amoris defectus provenerit ex alicuius ignorantia facti, sine dubio reviviscere potest.",
+      "derivation": "The author poses the question (introduced by the dropped framing 'Hic tamen quaerere posses,') and answers it himself. Question normalized to a terminal '?'. Answer ends at the first full stop ('...reviviscere potest.'); the continuation 'si vero ex coamantis delicto procedat...' qualifies further and is dropped."
+    },
+    {
+      "locus": "Andreas Capellanus, De Amore 2.6.23",
+      "type": "authorial-rhetorical",
+      "question": "An purum amorem cum una possit aliquis muliere servare, ac cum altera retinere mixtum sive communem?",
+      "answer": "Et irrefragabili tibi auctoritate monstramus neminem posse taliter duabus mulieribus cordis dilectione coniungi.",
+      "derivation": "Author's self-posed question; dropped the framing 'non sine causa quaerere posses' and capitalized the now-initial 'an'. Answer is the author's reply, ending at the first full stop; the following 'Licet enim purus et mixtus...' is elaboration and is dropped."
+    },
+    {
+      "locus": "Andreas Capellanus, De Amore 2.7 (iudicium XI)",
+      "type": "authorial-rhetorical",
+      "question": "Quidam vir bonus et prudens ab aliqua domina petit amorem; postea vero accedit vir alius probior eo et ab eadem instanter petit amari. Quis ergo alteri praefertur amandus?",
+      "answer": "In mulieris confertur arbitrium, quem potius velit bonum an meliorem exaudire petentem.",
+      "derivation": "The posed case ends in a real interrogative ('Quis ergo alteri praefertur amandus?'); the two preceding declarative sentences are kept verbatim as setup so the question has a referent. Dropped the framing 'Hanc autem litem taliter Narbonensis Mengarda definit:' before the answer, which is the ruling quoted in full."
+    },
+    {
+      "locus": "Andreas Capellanus, De Amore 2.8.11 (the pontanus)",
+      "type": "direct-speech",
+      "question": "Quid quaeris, armate Brito, ex tam longinquis partibus absens?",
+      "answer": "Fluvium per pontem transire laboro.",
+      "derivation": "Direct-speech exchange in the frame-tale. The bridge-keeper's question and Brito's reply; speech tags ('Ait enim', 'Cui Brito respondit') dropped. OCR-corrupted closing quote glyph after 'absens' removed; terminal '?' restored."
+    },
+    {
+      "locus": "Andreas Capellanus, De Amore 2.8.22-23 (the doorkeeper)",
+      "type": "direct-speech",
+      "question": "Quis tu tantae praesumptionis homo, qui ad haec regia veritus non es accedere loca, et in regia mensa militum tam audacter et irreverenter stipendia sumis?",
+      "answer": "Cunctis abundanter regia debet esse exposita mensa, nec cibum regiumque potum decet alicui denegari.",
+      "derivation": "Direct-speech exchange: the giant doorkeeper challenges Brito, who answers. Speech tags ('qui etiam discumbenti iuveni dixit', 'Cui Brito respondit') dropped. OCR-corrupted closing quote glyph after 'sumis' removed; terminal '?' restored. Answer ends at the first full stop; the following 'Nam et mihi licet...' elaborates and is dropped."
+    },
+    {
+      "locus": "Andreas Capellanus, De Amore 2.8.37 (in Arthur's court)",
+      "type": "direct-speech",
+      "question": "Ob quam causam accipitrem accipere quaeris?",
+      "answer": "Quia dominae gaudeo pulchrioris amore quam aliquis istius curiae miles.",
+      "derivation": "Direct-speech exchange: a knight of the court asks Brito why he seeks the hawk, and Brito answers. Speech tags ('Cui unus de militibus curiae ait', 'Cui Brito respondit') dropped."
+    }
+  ]
+}

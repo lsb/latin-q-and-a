@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/fam15.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Familiares 15.16",
+      "type": "authorial-rhetorical",
+      "question": "Qui id tibi in mentem venit?",
+      "answer": "Quia nihil habebam aliud, quod scriberem.",
+      "derivation": "Cicero poses an interlocutor's question on Cassius's behalf and answers it himself. Dropped the framing tag 'inquies' that follows the quoted question. Answer ends at the first full stop ('Quia nihil habebam aliud, quod scriberem'); the following 'de re publica enim nihil scribere possum...' is elaboration on why and is cut."
+    },
+    {
+      "locus": "Cicero, Ad Familiares 15.18",
+      "type": "authorial-rhetorical",
+      "question": "Ridere igitur possumus?",
+      "answer": "Non mehercule facillime.",
+      "derivation": "Cicero supplies the interlocutor's question and answers it. Dropped the interleaved framing tag 'inquies' that splits the quoted question. Question normalized to a single interrogative. Answer cut at the first full stop; what follows ('verumtamen aliam aberrationem a molestiis nullam habemus') elaborates and is omitted."
+    },
+    {
+      "locus": "Cicero, Ad Familiares 15.18",
+      "type": "authorial-rhetorical",
+      "question": "Ubi igitur philosophia?",
+      "answer": "Tua quidem in culina, mea in palaestra est.",
+      "derivation": "Cicero supplies the interlocutor's question and answers it himself. Dropped the interleaved framing tag 'inquies'. The topic 'philosophia' is contained in the question, so the answer is self-contained. Answer ends at the first full stop; the following 'pudet enim servire...' is elaboration and is cut."
+    }
+  ]
+}

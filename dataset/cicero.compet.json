@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/compet.txt",
+  "pairs": [
+    {
+      "locus": "Commentariolum Petitionis 8",
+      "type": "authorial-rhetorical",
+      "question": "Num maiore?",
+      "answer": "Non.",
+      "derivation": "Authorial self-question and self-answer about Antonius's nobility relative to Catiline. The preceding 'Primum nobilitate eadem qua Catilina.' answers a separate question (quo splendore est?); here 'Num maiore?' ('Is it by greater nobility?') is answered curtly 'Non.' The window stops at the full stop; what follows ('Sed virtute. Quam ob rem?...') is a new exchange. Crux marks (+ +) around Catilina in the preceding sentence are kept out of this pair."
+    },
+    {
+      "locus": "Commentariolum Petitionis 8",
+      "type": "authorial-rhetorical",
+      "question": "Quam ob rem?",
+      "answer": "Quod Antonius umbram suam metuit, hic ne leges quidem.",
+      "derivation": "Following 'Sed virtute' (he excels by virtue), the author asks 'Quam ob rem?' ('For what reason?') and answers it himself with a Quod-clause. End of the answer window placed at 'ne leges quidem' (the first full stop / clean contrast: Antonius fears his own shadow, this one not even the laws); what follows ('natus in patris egestate, educatus in sororiis stupris...') is elaboration/digression, so it is cut."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/bible/revelation.txt",
+  "pairs": [
+    {
+      "locus": "Apocalypsis 5.2-5",
+      "type": "direct-speech",
+      "question": "Quis est dignus aperire librum et solvere signacula eius?",
+      "answer": "Ecce vicit leo de tribu Iuda radix David aperire librum et septem signacula eius.",
+      "derivation": "A strong angel proclaims the question (5:2); after narration that no one was found worthy and John wept (5:3-4), one of the elders gives the answer (5:5). Speech tag 'et unus de senioribus dicit mihi' and the preceding 'ne fleveris' (a consolation, not an answer to who is worthy) are dropped; the answer begins at the operative 'Ecce vicit leo...' which identifies the worthy one, and ends at the full stop."
+    },
+    {
+      "locus": "Apocalypsis 7.13-14",
+      "type": "direct-speech",
+      "question": "Hii qui amicti sunt stolis albis qui sunt et unde venerunt?",
+      "answer": "Hii sunt qui veniunt de tribulatione magna et laverunt stolas suas et dealbaverunt eas in sanguine agni.",
+      "derivation": "An elder asks John the interrogative (7:13); the speech tag 'et respondit unus de senioribus dicens mihi' is dropped. John's reply 'domine mi tu scis' is a non-answering deflection and is skipped per the preamble rule; the elder then answers his own question (7:14). The answer begins at 'Hii sunt qui veniunt...' and ends at the full stop, before the elaboration in 7:15."
+    }
+  ]
+}

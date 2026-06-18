@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/serm80.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 83.1",
+      "type": "direct-speech",
+      "question": "Nos quare eum non potuimus eiicere?",
+      "answer": "Propter incredulitatem uestram.",
+      "derivation": "The disciples ask (framing 'cum enim dixissent' dropped); Jesus's reply introduced by 'respondit' (dropped). Real interrogative (quare) directly answered. Capitalization and terminal punctuation normalized."
+    },
+    {
+      "locus": "Augustine, Sermo 83.3",
+      "type": "direct-speech",
+      "question": "Et quid, si dixerit ei medicus: sanari aliter non potes, nisi te ligauero, adussero, secuero?",
+      "answer": "Fac quod uis, tantum sana me.",
+      "derivation": "Hypothetical exchange with a physician. Question kept whole including the physician's conditional; answer introduced by 'respondet' (dropped). The reply that follows ('quanto ardore desiderat...') is elaboration, excluded."
+    },
+    {
+      "locus": "Augustine, Sermo 83.6",
+      "type": "authorial-rhetorical",
+      "question": "Quae conuersio?",
+      "answer": "Sanguinem Christi, quem saeuientes fuderunt, credentes biberunt.",
+      "derivation": "Author poses 'quae conuersio?' after 'atque est facta conuersio' and answers it himself. The answer is the single following sentence, which ends the section."
+    },
+    {
+      "locus": "Augustine, Sermo 83.8",
+      "type": "authorial-rhetorical",
+      "question": "Quando dormitat oratio?",
+      "answer": "Quando friguerit desiderium.",
+      "derivation": "Authorial question-and-answer pair: 'quando dormitat oratio? quando friguerit desiderium.' Real interrogative directly answered by the immediately following clause; what follows ('ergo illa beneficia...') is the next exhortation, excluded."
+    }
+  ]
+}

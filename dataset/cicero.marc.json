@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/marc.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Marcello 26",
+      "type": "authorial-rhetorical",
+      "question": "Parumne igitur magna relinquemus?",
+      "answer": "Immo vero aliis quamvis multis satis, tibi uni parum.",
+      "derivation": "Cicero anticipates Caesar's objection and answers it himself. Dropped the framing word 'inquies' ('you will say') from the source 'Parumne igitur, inquies, magna relinquemus?', leaving the contiguous utterance with its question mark. Answer is the immediately following full sentence 'Immo vero aliis quamvis multis satis, tibi uni parum.', stopping at the full stop before 'Quicquid est enim...', which elaborates rather than answers."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/serm75.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 75.5",
+      "type": "authorial-rhetorical",
+      "question": "Quando habet absentem dominum?",
+      "answer": "Quando uincitur aliqua cupiditate.",
+      "derivation": "Authorial self-question and answer. The preceding sentence 'in ecclesia constitutus, absentem habet dominum?' is the lead-in; I take the sharpened repetition 'quando habet absentem dominum?' as the operative question since it directly governs the 'quando uincitur aliqua cupiditate' answer. Answer ends at the full stop before 'quomodo enim quodam loco...', which turns to a scriptural digression."
+    },
+    {
+      "locus": "Augustine, Sermo 75.9",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo significat etiam quod Petrus ausus est ad illum uenire super aquas?",
+      "answer": "Gestat enim Petrus ecclesiae plerumque personam.",
+      "derivation": "Author poses the interpretive question, then answers it himself. Answer stops at the first full stop; what follows ('quid ergo aliud dictum putamus...') opens a further question and elaboration, so it is excluded."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/cicero/rabirio.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Rabirio 29",
+      "type": "direct-speech",
+      "question": "Quid iam ista C. Mario nocere possunt, quoniam sensu et vita caret?",
+      "answer": "Non est ita, Quirites; neque quisquam nostrum in rei publicae periculis cum laude ac virtute versatur quin spe posteritatis fructuque ducatur.",
+      "derivation": "Labienus poses a genuine interrogative (framing 'inquit' dropped) about whether his deeds can still harm/benefit the dead Marius. Cicero's reply opens with the non-answering rejoinder 'Itane vero?' and a counter-rhetorical-question ('tantis in laboribus C. Marius periculisque vixisset, si...'), neither of which is a declarative answer; per the skip-non-answering-preamble guidance the answer-start is advanced to the operative answering sentence 'Non est ita...', which directly rebuts the question. Window ends at the first full stop after 'ducatur'; the following sentence ('Itaque cum multis aliis...') elaborates on the immortality of good men's souls and is digression."
+    }
+  ]
+}

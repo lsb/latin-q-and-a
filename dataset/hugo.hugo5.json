@@ -1,0 +1,26 @@
+{
+  "source": "text/hugo/hugo5.txt",
+  "pairs": [
+    {
+      "locus": "Hugo of St. Victor, Didascalicon 5.5",
+      "type": "authorial-rhetorical",
+      "question": "Cur quae adhuc facienda erant, iam facta narrantur?",
+      "answer": "Quia ea quae nobis futura sunt, apud Dei aeternitatem iam facta sunt.",
+      "derivation": "Authorial question and its own answer. Dropped the framing connective 'sed' before 'cur'; capitalized 'Cur'. Answer is the full sentence beginning 'quia...' (capitalized 'Quia'), ending at the first full stop; what follows ('quapropter quando aliquid faciendum...') elaborates and is cut."
+    },
+    {
+      "locus": "Hugo of St. Victor, Didascalicon 5.7",
+      "type": "authorial-rhetorical",
+      "question": "Ubi ergo est finis?",
+      "answer": "Deum time, et mandata eius observa: hoc est omnis homo.",
+      "derivation": "Authorial rhetorical question answered by the closing Ecclesiastes citation. Skipped the non-answering hortatory preamble 'finem loquendi omnes pariter audiamus' (it defers rather than answers); answer starts at the operative 'Deum time...' (capitalized 'Deum') and runs to the first full stop after 'omnis homo'."
+    },
+    {
+      "locus": "Hugo of St. Victor, Didascalicon 5.8",
+      "type": "direct-speech",
+      "question": "Nonne saltem, si volo, discere mihi licet?",
+      "answer": "Lege, et occupari noli.",
+      "derivation": "Quoted interlocutor's question ('inquis'/'inquiens' frame dropped) answered by the author. Dropped the answer's framing 'supra dixi tibi,' which narrates the speaking; the operative answer is the quoted 'Lege, et occupari noli.' (quotation marks removed)."
+    }
+  ]
+}

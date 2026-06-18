@@ -1,0 +1,20 @@
+{
+  "source": "text/bible/james.txt",
+  "type": "prose",
+  "pairs": [
+    {
+      "locus": "Iacobus 2.14-17",
+      "type": "authorial-rhetorical",
+      "question": "Quid proderit fratres mei si fidem quis dicat se habere opera autem non habeat numquid poterit fides salvare eum?",
+      "answer": "Sic et fides si non habeat opera mortua est in semet ipsam.",
+      "derivation": "Author's rhetorical question (verses 14, ending 'numquid poterit fides salvare eum') answered at verse 17. Cut starts after the question at the end of 14; verses 15-16 are an intervening illustration (the hungry brother) restating the question ('quid proderit'), so the operative answer is taken at 17 which directly states the conclusion: faith without works is dead. Stopped at the first full stop of 17; nothing of the answer trimmed beyond that. Verse numbers and capitalization normalized; terminal '?' supplied."
+    },
+    {
+      "locus": "Iacobus 4.1",
+      "type": "authorial-rhetorical",
+      "question": "Unde bella et lites in vobis?",
+      "answer": "Nonne hinc ex concupiscentiis vestris quae militant in membris vestris?",
+      "derivation": "Self-contained authorial question-and-answer within verse 1: the author asks whence wars and quarrels arise, then answers (rhetorically, expecting assent) 'is it not hence, from your desires that war in your members.' Split at the natural boundary between the question and the answering 'nonne' clause. Leading verse number '1' stripped; first word capitalized; terminal punctuation supplied."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "text/cicero/caecina.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Caecina 44",
+      "type": "authorial-rhetorical",
+      "question": "Quid igitur fugiebant?",
+      "answer": "Propter metum.",
+      "derivation": "Cicero poses a self-question about why Caecina's party fled and answers it himself. The interrogative carries its own subject (fugiebant), so it is self-contained. Answer is the immediately following two-word reply; stops there, before the next question 'Quid metuebant?'. No framing to strip."
+    },
+    {
+      "locus": "Cicero, Pro Caecina 80",
+      "type": "direct-speech",
+      "question": "Quonam modo?",
+      "answer": "Quia certe deiectus est Caecina vi hominibus armatis aliquo ex loco; si non ex eo loco quem in locum venire voluit, at ex eo certe unde fugit.",
+      "derivation": "Reported dialogue between Cicero and the iuris consultus. Stripped the speech tag 'inquam' from the question and 'inquit' from the answer. The consultant's reply directly answers 'in what way' the words of the sponsio favour Cicero; the whole sentence (to its full stop) is the operative answer."
+    },
+    {
+      "locus": "Cicero, Pro Caecina 80",
+      "type": "direct-speech",
+      "question": "Quid tum?",
+      "answer": "Praetor interdixit ut, unde deiectus esset, eo restitueretur, hoc est, quicumque is locus esset unde deiectus esset.",
+      "derivation": "Continuation of the same reported exchange. Stripped 'inquit' from the answer. Cut the answer at the first full stop (after 'unde deiectus esset'); what follows ('Aebutius autem qui fatetur...') is a further inference, not the direct answer to 'what then?'."
+    },
+    {
+      "locus": "Cicero, Pro Caecina 87",
+      "type": "authorial-rhetorical",
+      "question": "Vnde deiectus est Cinna?",
+      "answer": "Ex urbe.",
+      "derivation": "Authorial question-and-answer catalogue illustrating 'unde'. This entry is fully self-contained (its own subject Cinna and verb). Question and direct two-word answer taken verbatim; the following 'Vnde Telesinus?...' is a separate item."
+    },
+    {
+      "locus": "Cicero, Pro Caecina 87",
+      "type": "authorial-rhetorical",
+      "question": "Vnde deiecti Galli?",
+      "answer": "A Capitolio.",
+      "derivation": "Another item in the same authorial 'unde' catalogue, self-contained (subject Galli, verb deiecti understood). Genuine interrogative with a direct answer; bounded by the preceding and following catalogue items."
+    },
+    {
+      "locus": "Cicero, Pro Caecina 89",
+      "type": "authorial-rhetorical",
+      "question": "Si quis te ex aedibus tuis vi hominibus armatis deiecerit, quid ages?",
+      "answer": "Opinor, hoc interdicto quo nos usi sumus persequere.",
+      "derivation": "Cicero addresses Piso, posing a hypothetical and answering it himself. Kept the conditional clause as setup so 'quid ages?' has its referent; normalized the first word's capitalization. Answer is the full sentence that follows, before the next 'Quid? si qui...' hypothetical."
+    }
+  ]
+}

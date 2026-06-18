@@ -1,0 +1,47 @@
+{
+  "source": "text/aus.sept.sent.txt",
+  "pairs": [
+    {
+      "locus": "Ausonius, Septem Sapientum Sententiae 1 (Bias Prieneus)",
+      "type": "authorial-rhetorical",
+      "question": "Quaenam summa boni?",
+      "answer": "Mens semper conscia recti.",
+      "derivation": "Riddle-line: question and its self-answer are the two halves of one verse. Question is the interrogative clause up to the '?'; answer is the remainder of the line, capitalized and given a terminal stop."
+    },
+    {
+      "locus": "Ausonius, Septem Sapientum Sententiae 1 (Bias Prieneus)",
+      "type": "authorial-rhetorical",
+      "question": "Quis dives?",
+      "answer": "Qui nil cupiet.",
+      "derivation": "First of two Q&A pairs on the verse 'Quis dives? qui nil cupiet. Quis pauper? avarus.' Answer ends at the full stop before the next question."
+    },
+    {
+      "locus": "Ausonius, Septem Sapientum Sententiae 1 (Bias Prieneus)",
+      "type": "authorial-rhetorical",
+      "question": "Quis pauper?",
+      "answer": "Avarus.",
+      "derivation": "Second Q&A pair on the same verse 'Quis dives? qui nil cupiet. Quis pauper? avarus.' Answer is the final word, capitalized with terminal stop."
+    },
+    {
+      "locus": "Ausonius, Septem Sapientum Sententiae 1 (Bias Prieneus)",
+      "type": "authorial-rhetorical",
+      "question": "Quae casta est?",
+      "answer": "De qua mentiri fama veretur.",
+      "derivation": "Riddle-line: interrogative clause answered by the rest of the verse, capitalized with terminal stop."
+    },
+    {
+      "locus": "Ausonius, Septem Sapientum Sententiae 1 (Bias Prieneus)",
+      "type": "authorial-rhetorical",
+      "question": "Quod prudentis opus?",
+      "answer": "Cum possis, nolle nocere.",
+      "derivation": "Riddle-line: interrogative clause answered by the rest of the verse, capitalized with terminal stop."
+    },
+    {
+      "locus": "Ausonius, Septem Sapientum Sententiae 1 (Bias Prieneus)",
+      "type": "authorial-rhetorical",
+      "question": "Quid stulti proprium?",
+      "answer": "Non posse et velle nocere.",
+      "derivation": "Riddle-line: interrogative clause answered by the rest of the verse, capitalized with terminal stop."
+    }
+  ]
+}

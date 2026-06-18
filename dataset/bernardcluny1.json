@@ -1,0 +1,26 @@
+{
+  "source": "text/bernardcluny1.txt",
+  "pairs": [
+    {
+      "locus": "Bernard of Cluny, De Contemptu Mundi 1.121-122",
+      "type": "authorial-rhetorical",
+      "question": "Pax erit omnibus unica, sed quibus?",
+      "answer": "Immaculatis, pectore mitibus, ordine stantibus, ore sacratis.",
+      "derivation": "Author poses and answers his own question. The setup 'Pax erit omnibus unica' is kept so 'quibus' has its referent. The answer runs from 'immaculatis' through the end of the sentence at 'ore sacratis.' (verse 122); the next sentence 'Pax ea pax rata...' restates rather than answers, so the window stops there. First word capitalized and terminal punctuation normalized."
+    },
+    {
+      "locus": "Bernard of Cluny, De Contemptu Mundi 1.171-172",
+      "type": "authorial-rhetorical",
+      "question": "Quid datur? Et quibus?",
+      "answer": "Aether egentibus et cruce dignis, sidera vermibus, optima sontibus, astra malignis.",
+      "derivation": "Author's twofold self-question 'Quid datur? Et quibus?' answered immediately. Answer is the full distich from 'Aether' to 'astra malignis.' (verse 172), naming both what (aether/sidera/astra) and to whom (egentibus/vermibus/sontibus/malignis). Terminal punctuation normalized."
+    },
+    {
+      "locus": "Bernard of Cluny, De Contemptu Mundi 1.765",
+      "type": "authorial-rhetorical",
+      "question": "Cur homo nascitur aut puer editur?",
+      "answer": "Ut moriatur.",
+      "derivation": "Self-contained question and answer within a single verse. Answer ends at the full stop after 'moriatur'; the following sentence 'Exit in aera...' elaborates rather than answers, so it is cut. Terminal punctuation normalized."
+    }
+  ]
+}

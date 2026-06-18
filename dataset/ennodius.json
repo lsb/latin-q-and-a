@@ -1,0 +1,12 @@
+{
+  "source": "text/ennodius.txt",
+  "pairs": [
+    {
+      "locus": "Ennodius, Panegyricus IV",
+      "type": "authorial-rhetorical",
+      "question": "Quid mihi, vetustas, obicias agrestis membra paludamentis decorata?",
+      "answer": "Ego tibi, quod admirationem vincat, oppono principem meum ita ortum, ut eum non liceat improbari, ita agere, quasi inter imperatores adhuc precetur adiungi.",
+      "derivation": "The author personifies antiquity (vetustas) and poses a real interrogative objecting to old exempla of farmers raised to command (cf. preceding Serranum scipionibus aratra peperunt), then answers it himself in the next sentence with 'ego tibi... oppono principem meum...' which directly counters the objection. Question is the full interrogative sentence (capitalized initial, terminal ? kept from source). Answer is the single contiguous reply sentence ending at the full stop after 'adiungi'; nothing cut, no preamble. No editorial brackets present."
+    }
+  ]
+}

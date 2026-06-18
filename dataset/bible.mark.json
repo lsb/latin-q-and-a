@@ -1,0 +1,124 @@
+{
+  "source": "text/bible/mark.txt",
+  "pairs": [
+    {
+      "locus": "Mark 5:9",
+      "type": "direct-speech",
+      "question": "Quod tibi nomen est?",
+      "answer": "Legio nomen mihi est, quia multi sumus.",
+      "derivation": "Jesus interrogates the demoniac; framing 'Et interrogabat eum' and the reply tag 'Et dicit ei' dropped. Answer is the full reply sentence."
+    },
+    {
+      "locus": "Mark 6:24",
+      "type": "direct-speech",
+      "question": "Quid petam?",
+      "answer": "Caput Ioannis Baptistae.",
+      "derivation": "Daughter asks her mother, who answers. Tags 'dixit matri suae' and 'Et illa dixit' dropped. Answer is the complete reply."
+    },
+    {
+      "locus": "Mark 6:38",
+      "type": "direct-speech",
+      "question": "Quot panes habetis?",
+      "answer": "Quinque et duos pisces.",
+      "derivation": "Question quoted to its first full stop; the following command 'Ite et videte' is a separate sentence, not part of the interrogative, so it is excluded. Reply tag 'Et cum cognovissent, dicunt' dropped; answer is the reply."
+    },
+    {
+      "locus": "Mark 8:5",
+      "type": "direct-speech",
+      "question": "Quot panes habetis?",
+      "answer": "Septem.",
+      "derivation": "Jesus questions the disciples in the feeding of four thousand. Framing 'interrogavit eos' and 'Qui dixerunt' dropped; answer is the one-word reply."
+    },
+    {
+      "locus": "Mark 8:18-19",
+      "type": "direct-speech",
+      "question": "Nec recordamini, quando quinque panes fregi in quinque milia, et quot cophinos fragmentorum plenos sustulistis?",
+      "answer": "Duodecim.",
+      "derivation": "Contiguous interrogative sentence from Jesus' rebuke kept as the question (setup 'Nec recordamini' is part of the same sentence). Reply tag 'Dicunt ei' dropped; answer is the one-word reply."
+    },
+    {
+      "locus": "Mark 8:20",
+      "type": "direct-speech",
+      "question": "Quando et septem panes in quattuor milia, quot sportas fragmentorum tulistis?",
+      "answer": "Septem.",
+      "derivation": "Standalone interrogative sentence; reply tag 'Et dicunt ei' dropped; answer is the one-word reply."
+    },
+    {
+      "locus": "Mark 8:23-24",
+      "type": "direct-speech",
+      "question": "Vides aliquid?",
+      "answer": "Video homines velut arbores ambulantes.",
+      "derivation": "Jesus asks the blind man of Bethsaida. Framing 'interrogavit eum' and 'Et aspiciens ait' dropped; answer is the full reply."
+    },
+    {
+      "locus": "Mark 8:27-28",
+      "type": "direct-speech",
+      "question": "Quem me dicunt esse homines?",
+      "answer": "Ioannem Baptistam, alii Eliam, alii vero quasi unum de prophetis.",
+      "derivation": "Jesus' question on the road to Caesarea Philippi. Framing 'interrogabat discipulos suos dicens eis' and reply tag 'Qui responderunt illi dicentes' dropped; answer is the full reply."
+    },
+    {
+      "locus": "Mark 8:29",
+      "type": "direct-speech",
+      "question": "Vos vero quem me dicitis esse?",
+      "answer": "Tu es Christus.",
+      "derivation": "Jesus' follow-up question, answered by Peter. Tags 'Tunc dicit illis' and 'Respondens Petrus ait ei' dropped; answer is Peter's full confession."
+    },
+    {
+      "locus": "Mark 9:20-21",
+      "type": "direct-speech",
+      "question": "Quantum temporis est ex quo hoc ei accidit?",
+      "answer": "Ab infantia.",
+      "derivation": "Jesus asks the boy's father. Framing 'Et interrogavit patrem eius' and 'At ille ait' dropped. Answer cut to the operative 'Ab infantia'; the remainder ('et frequenter eum... adiuva nos') is digressive elaboration following the semicolon and is excluded."
+    },
+    {
+      "locus": "Mark 10:36-37",
+      "type": "direct-speech",
+      "question": "Quid vultis ut faciam vobis?",
+      "answer": "Da nobis ut unus ad dexteram tuam et alius ad sinistram tuam sedeamus in gloria tua.",
+      "derivation": "Jesus asks James and John what they want; they state their request. Tags 'At ille dixit eis' and 'Et dixerunt' dropped; answer is the full reply."
+    },
+    {
+      "locus": "Mark 10:51",
+      "type": "direct-speech",
+      "question": "Quid vis tibi faciam?",
+      "answer": "Rabboni, ut videam.",
+      "derivation": "Jesus asks blind Bartimaeus. Tags 'Et respondens illi Iesus dixit' and 'Caecus autem dixit ei' dropped; answer is the full reply."
+    },
+    {
+      "locus": "Mark 12:16",
+      "type": "direct-speech",
+      "question": "Cuius est imago haec et inscriptio?",
+      "answer": "Caesaris.",
+      "derivation": "Jesus asks about the denarius. Framing 'Et ait illis' and 'Dicunt illi' dropped; answer is the one-word reply."
+    },
+    {
+      "locus": "Mark 12:28-29",
+      "type": "direct-speech",
+      "question": "Quod esset primum omnium mandatum?",
+      "answer": "Primum omnium mandatum est: 'Audi, Israhel, Dominus Deus noster Deus unus est, et diliges Dominum Deum tuum ex toto corde tuo et ex tota anima tua et ex tota mente tua et ex tota virtute tua.'",
+      "derivation": "A scribe asks Jesus the first commandment. Framing 'interrogavit eum' and 'Iesus autem respondit ei' dropped. Answer cut at the first full stop after stating the first commandment; the continuation ('Hoc est primum mandatum. Secundum autem...') is excluded."
+    },
+    {
+      "locus": "Mark 14:12-14",
+      "type": "direct-speech",
+      "question": "Quo vis eamus et paremus tibi ut manduces pascha?",
+      "answer": "Ite in civitatem et occurret vobis homo laguenam aquae baiulans.",
+      "derivation": "Disciples ask where to prepare the Passover. Tag 'dicunt ei discipuli' dropped, and the narrative framing 'Et mittit duos ex discipulis suis et dicit eis' that opens the reply is dropped. Answer cut to the first full stop of Jesus' directions; the following instructions ('Sequimini eum et quocumque introierit...') are excluded."
+    },
+    {
+      "locus": "Mark 14:61-62",
+      "type": "direct-speech",
+      "question": "Tu es Christus Filius Benedicti?",
+      "answer": "Ego sum et videbitis Filium hominis a dextris sedentem Virtutis et venientem cum nubibus caeli.",
+      "derivation": "The high priest questions Jesus. Framing 'summus sacerdos interrogabat eum et dicit ei' and reply tag 'Iesus autem dixit illi' dropped; answer is the full reply."
+    },
+    {
+      "locus": "Mark 15:2",
+      "type": "direct-speech",
+      "question": "Tu es rex Iudaeorum?",
+      "answer": "Tu dicis.",
+      "derivation": "Pilate questions Jesus. Framing 'Et interrogavit eum Pilatus' and reply tag 'At ille respondens ait illi' dropped; answer is the full reply."
+    }
+  ]
+}

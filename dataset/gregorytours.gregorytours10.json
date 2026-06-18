@@ -1,0 +1,33 @@
+{
+  "source": "text/gregorytours/gregorytours10.txt",
+  "pairs": [
+    {
+      "locus": "Gregory of Tours, Historiae 10.13",
+      "type": "whole-speech-as-question",
+      "question": "Manifestum est hoc celebre ferri, sed certi non sumus, utrum sit an non, praesertim cum Dominus iratus primo homini, quem manu sacra plasmaverat, dixerit: In sudore vultus tui vesceris panem tuum, donec revertaris in terram, de qua sumptus es; quia pulvis es, et in pulverem reverteris. Quid ad haec respondebitis, qui resurrectionem futuram praedicatis, cum in pulverem redacturum hominem resurgere ulterius Divinitas non promittat?",
+      "answer": "Quid de hac causa vel ipsius Domini et Redemptoris nostri vel patrum praecessorum verba loquantur, nullum catholicorum nescire reor.",
+      "derivation": "The heretical presbyter's whole speech is one extended challenge ending in the interrogative 'Quid ad haec respondebitis...?'; quoted contiguously including its scriptural setup. Framing 'respondit:' dropped. The answer is Gregory's reply ('Cui ego:' framing dropped); cut at the first full stop after the operative assertion that every Catholic knows the answer, before he piles up the scriptural proofs ('Nam in Genesi...') which follow."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 10.13",
+      "type": "direct-speech",
+      "question": "Numquid possunt ossa in favilla redacta iterum animari et hominem viventem proferre?",
+      "answer": "Nos credimus, quia, quamlibet in pulvere redigatur homo et aquis ac terrae venti violenti inpetu dispergatur, non sit difficile Deo haec ad vitam resuscitari.",
+      "derivation": "Presbyter's interrogative ('Et presbiter ait:' framing dropped) directly answered by Gregory ('Et ego respondi:' framing dropped). The reply is a single sentence and fully answers; nothing trimmed."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 10.13",
+      "type": "direct-speech",
+      "question": "Quomodo autem in psalmo dicitur, quia: Non resurgunt impii in iudicio?",
+      "answer": "Non resurgunt, ut iudicent, sed resurgunt, ut iudicentur.",
+      "derivation": "Presbyter's interrogative ('Ad haec presbiter:' framing dropped) answered by Gregory ('Et ego respondi:' framing dropped). Cut at the first full stop; the following sentence 'Nec enim sedire cum impiis Iudex potest...' elaborates and is omitted."
+    },
+    {
+      "locus": "Gregory of Tours, Historiae 10.19",
+      "type": "direct-speech",
+      "question": "Dic mihi, o episcope, quid tibi visum fuit, ut, relicto rege, in cuius urbe episcopati honus fruebaris, Chilperici regis amicitiis subderis, qui semper inimicus domino nostro rege fuisse probatur, qui patrem eius interfecit, matrem exilio condemnavit regnumque pervasit, et in his urbibus, quas, ut diximus, iniquo pervasionis ordine suo dominio subiugavit, tu ab eodem possessionum fiscalium praedia meruisti?",
+      "answer": "Quod fuerim amicus regis Chilperici, negare non potero, non tamen contra utilitatem regis Childeberthi haec amicitia pullulavit. Villas vero, quas memoras, per istius regis chartas emerui.",
+      "derivation": "Ennodius's prosecutorial interrogative to bishop Egidius (narration 'cuius propositio prima haec fuit:' dropped; the speaker's own apostrophe 'Dic mihi, o episcope' kept as utterance). Answered by Egidius ('Ad haec ille respondit:' framing dropped). Both sentences kept because the question has two prongs (the friendship and the estates) and each sentence answers one; reply ends here."
+    }
+  ]
+}

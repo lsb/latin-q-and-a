@@ -1,0 +1,12 @@
+{
+  "source": "text/cassiodorus/varia11.txt",
+  "pairs": [
+    {
+      "locus": "Cassiodorus, Variae 11.1.20",
+      "type": "authorial-rhetorical",
+      "question": "Quaeratis forsitan sequestratim principis bona?",
+      "answer": "Abunde praedicat subolem, qui eius laudat auctorem.",
+      "derivation": "Authorial-rhetorical: the author anticipates the senators' question ('perhaps you ask separately about the prince's own merits') and answers it himself. In the source the two clauses are joined by a colon, not a question mark; normalized the terminal colon to '?' on the question and capitalized 'Quaeratis'. The interrogative force is carried by the deliberative subjunctive 'quaeratis' + 'forsitan', so that verb is retained as the question (stripping it would leave no interrogative). The answer is the immediately following clause, contiguous and verbatim, cut at its full stop; what follows ('deinde retinetis facundissimi Symmachi eximium dictum...') is further elaboration and was omitted. Stripped scaffolding section marker [20]. No editorial brackets present."
+    }
+  ]
+}

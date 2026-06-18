@@ -1,0 +1,19 @@
+{
+  "source": "text/ilias.txt",
+  "pairs": [
+    {
+      "locus": "Ilias Latina 7-8",
+      "type": "authorial-rhetorical",
+      "question": "Quis deus hos ira tristi contendere iussit?",
+      "answer": "Latonae et magni proles Iouis.",
+      "derivation": "Authorial rhetorical question (line numbered 9 in raw text) immediately self-answered. The question is the full interrogative line. The answer is the operative naming phrase 'Latonae et magni proles Iouis' (Apollo), cut at the first full stop; what follows ('Ille Pelasgum infestam regi pestem...') is narrative elaboration on what the god did, not part of the identification answer."
+    },
+    {
+      "locus": "Ilias Latina 621-627",
+      "type": "direct-speech",
+      "question": "Quae te terra uirum, qui te genuere parentes?",
+      "answer": "Hesiona de matre uides Telamone creatum, nobilis est domus et fama generosa propago.",
+      "derivation": "Hector asks Ajax his land and parentage; introduced by the framing 'Tunc bello maximus Hector:' which is dropped. The following line 'Viribus es proles generosa atque inclita - dixit -' is a separate complimentary statement plus speech tag, not part of the interrogative, so it is excluded. Ajax's reply is introduced by the framing 'At contra se ferre parat Telamonius Aiax:' (dropped); the two-line answer directly states his parentage and house. Stops there; what follows (Hector recognizing Hesione's name and proposing they cease fighting) is the next move, not the answer."
+    }
+  ]
+}

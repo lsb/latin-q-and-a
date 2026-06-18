@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/serm74.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 74.3",
+      "type": "authorial-rhetorical",
+      "question": "Unde ergo illi mali bona proferebant?",
+      "answer": "Quia in cathedra Moysi sedebant.",
+      "derivation": "Authorial rhetorical question with its own immediate answer. Question taken verbatim; answer is the directly following sentence ending at the full stop before 'nisi praedixisset...'. First word capitalized as presentation; no Latin altered."
+    },
+    {
+      "locus": "Augustine, Sermo 74.5",
+      "type": "authorial-rhetorical",
+      "question": "Unde uetera?",
+      "answer": "Quia iamdiu praedicantur.",
+      "derivation": "Authorial rhetorical question and answer. Source reads 'unde \"uetera?\"' with editorial quotation marks around the cited word; quotation marks stripped as scaffolding, words kept. Answer is the immediately following sentence."
+    },
+    {
+      "locus": "Augustine, Sermo 74.5",
+      "type": "authorial-rhetorical",
+      "question": "Unde noua?",
+      "answer": "Quia ad regnum dei pertinent.",
+      "derivation": "Authorial rhetorical question and answer. Source reads 'unde \"noua?\"'; quotation marks around the cited word stripped, words kept. Answer is the directly following sentence."
+    },
+    {
+      "locus": "Augustine, Sermo 74.5",
+      "type": "authorial-rhetorical",
+      "question": "Quare euacuantur?",
+      "answer": "Quia ueniente imperatore imagines tolluntur de medio.",
+      "derivation": "Authorial rhetorical question with its own answer. Question taken verbatim after 'quae euacuantur.'; answer is the immediately following sentence ending at the full stop before 'ibi spectatur imago...'. First word capitalized as presentation."
+    }
+  ]
+}

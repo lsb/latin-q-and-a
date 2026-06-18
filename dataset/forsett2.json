@@ -1,0 +1,19 @@
+{
+  "source": "text/forsett2.txt",
+  "pairs": [
+    {
+      "locus": "Pedantius, Actus II.ii (Dromodotus & Pedantius)",
+      "type": "direct-speech",
+      "question": "Et tu sic irrationalis es, ut ames, quae odit te?",
+      "answer": "Quasi non non dixerim Apollinem idem fecisse, quem ego praeposui mihi in omnibus imitandum.",
+      "derivation": "Dromodotus asks a genuine interrogative (are you so irrational as to love one who hates you?); Pedantius answers by justifying himself with the precedent of Apollo. The answer's non-answering exclamatory preamble 'O plumbeum pugionem!' is cut from the start; the operative answering sentence begins at 'Quasi'. The doubled 'non non' is reproduced verbatim from the source."
+    },
+    {
+      "locus": "Pedantius, Actus II.iv (Tyrophagus & Crobolus)",
+      "type": "direct-speech",
+      "question": "At quid si fraudes has nostras senserit?",
+      "answer": "Hic quovis est obtusior lapide, nec maioris negotii est istum fallere, quam ferire trunctum.",
+      "derivation": "Tyrophagus asks what if the victim senses their frauds. Crobolus opens his reply with a non-answering rhetorical counter-question ('Quid si loquantur lapides, et videant postes?'), which is cut as a preamble; the operative answering sentence follows, asserting the man is duller than any stone and as easy to deceive as a tree-trunk is to strike. The answer ends at the first full stop, before Crobolus turns to 'Tu me vel nescire...' and the rest of his elaboration."
+    }
+  ]
+}

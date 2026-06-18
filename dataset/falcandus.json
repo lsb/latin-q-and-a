@@ -1,0 +1,12 @@
+{
+  "source": "text/falcandus.txt",
+  "pairs": [
+    {
+      "locus": "Hugo Falcandus, Liber de Regno Sicilie 27 (De eo quod in vita hodio habebatur)",
+      "type": "direct-speech",
+      "question": "Quot, o cardinal, videtur tibi miliariis Panormum ab urbe Romana distare?",
+      "answer": "XV dierum itinere.",
+      "derivation": "A jester (quidam insanie) asks the cardinal John of Naples how many miles Palermo is from Rome; a reply is given before the jester resumes his mockery. Question framing dropped: the speech tag 'inquit' interleaved within the utterance, and the narrative lead-in 'Hic... Iohannem Neapolitanum intuitus'. The vocative 'o cardinal' is kept as part of the address. Answer is the narrated reply 'Cumque responsum esset .XV. dierum itinere' with the framing 'Cumque responsum esset' stripped, leaving the author's own answering words 'XV dierum itinere'. Stopped before the jester's follow-up 'At ego, inquit, te videns...', which is commentary, not part of the answer."
+    }
+  ]
+}

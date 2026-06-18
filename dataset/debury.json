@@ -1,0 +1,12 @@
+{
+  "source": "text/debury.txt",
+  "pairs": [
+    {
+      "locus": "Richard de Bury, Philobiblon I",
+      "type": "authorial-rhetorical",
+      "question": "Quo lates potissime, praeelecte thesaure, et ubi te reperient animae sitibundae?",
+      "answer": "In libris proculdubio posuisti tabernaculum tuum, ubi te fundavit Altissimus, lumen luminum, liber vitae.",
+      "derivation": "Authorial-rhetorical question posed at end of chapter I (the 'thesaurus' = treasure of wisdom, established in the chapter opening 'THESAURUS desiderabilis sapientiae') and answered by the author himself in the next paragraph. Answer cut at the first full stop ('liber vitae.'); what follows ('Ibi te omnis qui petit accipit...') elaborates rather than directly answering where the treasure is found. No framing to drop; capitalization and terminal punctuation preserved as in source."
+    }
+  ]
+}

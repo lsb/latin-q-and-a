@@ -1,0 +1,19 @@
+{
+  "source": "text/gregory7.txt",
+  "pairs": [
+    {
+      "locus": "Gregory VII, Epistolae Vagantes 34",
+      "type": "authorial-rhetorical",
+      "question": "Si iusti apud Deum praeualuit oratio, quid iustorum?",
+      "answer": "Praeualebit equidem, immo impetrabit sine dubio quod petierit.",
+      "derivation": "Dropped the framing address 'Nosti, frater:' that introduces the rhetorical question; kept 'Si iusti apud Deum praeualuit oratio' so the contrasting 'iustorum' (many righteous, vs. singular 'iusti') has its referent. Answer stops at the first full stop; what follows ('Ipsius etiam ueritatis auctoritate cogimur hoc confiteri...') is elaboration with a scriptural proof, not the direct answer."
+    },
+    {
+      "locus": "Gregory VII, Epistolae Vagantes 39",
+      "type": "direct-speech",
+      "question": "Placet ita uobis?",
+      "answer": "Placet, laudamus.",
+      "derivation": "Synod narrative: dropped the speech-tag framing 'percunctatus est eos dicens' and 'Responderunt'. The pope's utterance is two interrogative sentences; the second as transmitted reads 'Iaudatis?', a corrupt token (capital-I for L), so it is omitted rather than included or silently corrected, leaving the clean first interrogative 'Placet ita uobis?' answered directly by 'Placet, laudamus.'"
+    }
+  ]
+}

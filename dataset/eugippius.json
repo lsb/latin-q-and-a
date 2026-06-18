@@ -1,0 +1,26 @@
+{
+  "source": "text/eugippius.txt",
+  "pairs": [
+    {
+      "locus": "Eugippius, Vita Sancti Severini 14",
+      "type": "direct-speech",
+      "question": "Quidnam est, quod facere voluistis?",
+      "answer": "Ut oratione tua vitae reddatur exanimis.",
+      "derivation": "A near-dead woman has been laid before Severinus's cell. Seeing the door blocked by the bed, 'ait ad eos' (framing dropped). His question 'Quidnam est, quod facere voluistis?' is a genuine interrogative ('What is it you wanted to do?'). The reply is introduced by 'Responderunt:' (framing dropped) and directly answers: they want the lifeless woman restored to life by his prayer. Answer is a single complete utterance; nothing trimmed. The later 'Quid a parvo magna deposcitis?' / 'Credimus quod, si oraveris, reviviscet.' exchange was not also extracted (the reply to that question is split by Severinus's intervening self-deprecation), keeping precision. No editorial brackets or scaffolding in either span."
+    },
+    {
+      "locus": "Eugippius, Vita Sancti Severini 16",
+      "type": "direct-speech",
+      "question": "Cur istic famulo Dei posito tuam credideras potuisse latere praesentiam?",
+      "answer": "Pietatis amor talia me facere persuasit: videns enim cunctos foras expelli cogitavi mecum, quod servus Christi, invocata divina maiestate, praesentem mortuum suscitaret.",
+      "derivation": "After the others were dismissed, Severinus discerns a hidden consecrated virgin; the doorkeeper rebukes her ('Hanc ergo memoratus sic increpavit aedituus:' framing dropped). His question 'Cur istic... potuisse latere praesentiam?' is a genuine interrogative ('Why had you believed your presence could lie hidden here...?'). Her reply, introduced by 'At illa:' with the inline tag '-inquit-' dropped, directly answers the 'why': love of piety persuaded her, because she expected the saint would raise the dead man. The whole reply is one contiguous answering utterance. No editorial brackets or scaffolding in either span."
+    },
+    {
+      "locus": "Eugippius, Vita Sancti Severini 16",
+      "type": "direct-speech",
+      "question": "Vis rogemus Dominum, ut te adhuc servis suis in hac vita condonare dignetur?",
+      "answer": "Per Dominum te coniuro, ne hic diutius tenear et frauder quiete perpetua, in qua me esse cernebam.",
+      "derivation": "After the dead presbyter Silvinus has opened his eyes at Severinus's word, the saint addresses him again ('Et denuo ad eum:' framing dropped, inline tag '-inquit-' dropped). The yes/no question 'Vis rogemus Dominum, ut te... condonare dignetur?' ('Do you wish us to ask the Lord to grant you to remain in this life?') is a genuine interrogative. The reply, introduced by 'At ille ait:' (framing dropped), genuinely answers it by declining: he adjures the saint not to keep him here and rob him of the perpetual rest he was experiencing. One contiguous utterance; nothing trimmed. No editorial brackets or scaffolding in either span."
+    }
+  ]
+}

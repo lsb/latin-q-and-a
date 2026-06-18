@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/legagr1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, De Lege Agraria 1.14",
+      "type": "authorial-rhetorical",
+      "question": "Quis ergo emet agros istos?",
+      "answer": "Idem xviri.",
+      "derivation": "Cicero poses the question and answers it himself in the next words. The text reads 'Quis ergo emet agros istos? Idem xviri; tu, Rulle...'; the answer ends at 'Idem xviri' (terminal semicolon normalized to a full stop), where Cicero turns from answering to addressing Rullus directly."
+    },
+    {
+      "locus": "Cicero, De Lege Agraria 1.15",
+      "type": "authorial-rhetorical",
+      "question": "Referetur pecunia?",
+      "answer": "Non licet.",
+      "derivation": "Authorial rhetorical Q&A: 'Referetur pecunia? Non licet.' Cicero asks whether the money will be repaid and answers it himself. The following 'Exigetur? Vetat.' is a separate exchange and is not joined."
+    }
+  ]
+}

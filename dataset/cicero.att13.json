@@ -1,0 +1,26 @@
+{
+  "source": "text/cicero/att13.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Ad Atticum 13.42.1",
+      "type": "direct-speech",
+      "question": "Quae vis igitur?",
+      "answer": "Aes alienum et tamen ne viaticum quidem.",
+      "derivation": "Cicero asks the young Quintus what he wants; Quintus answers. Dropped the speech tags 'inquam' and the interrupting 'inquit' (in \"'Aes' inquit 'alienum...'\") as framing; capitalized the first word. The reply is a single contiguous utterance, ending at the full stop."
+    },
+    {
+      "locus": "Cicero, Ad Atticum 13.42.1",
+      "type": "direct-speech",
+      "question": "Sed me maxime angit avunculus. Quidnam?",
+      "answer": "Quod mihi iratus est.",
+      "derivation": "Quintus says his uncle (avunculus = Atticus) troubles him most; Cicero asks 'quidnam?' and Quintus answers 'quod mihi iratus est.' Included the prior statement 'sed me maxime angit avunculus' verbatim as setup so the answer's referent is intelligible. Dropped the 'inquam'/'inquit' speech tags; capitalized first words. Answer is the contiguous utterance to its full stop."
+    },
+    {
+      "locus": "Cicero, Ad Atticum 13.42.1",
+      "type": "direct-speech",
+      "question": "Quod mihi iratus est. Cur pateris?",
+      "answer": "Non patiar, causam enim tollam.",
+      "derivation": "Cicero asks why Quintus endures the uncle's anger; Quintus replies he will not endure it but remove the cause. Included the preceding 'quod mihi iratus est' verbatim as setup so 'pateris' has its referent. Dropped the speech tags and the parenthetical 'malo enim ita dicere quam cur committis?' is left out by ending the question at 'cur pateris?'. Dropped 'inquit'; the answer is the contiguous utterance 'non patiar, causam enim tollam' to its full stop."
+    }
+  ]
+}

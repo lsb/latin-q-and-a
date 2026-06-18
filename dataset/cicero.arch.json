@@ -1,0 +1,19 @@
+{
+  "source": "text/cicero/arch.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Archia 12",
+      "type": "authorial-rhetorical",
+      "question": "Cur tanto opere hoc homine delectemur?",
+      "answer": "Quia suppeditat nobis ubi et animus ex hoc forensi strepitu reficiatur, et aures convicio defessae conquiescant.",
+      "derivation": "Dropped the speech-frame 'Quaeres a nobis, Grati,' that narrates the asking; the residual interrogative 'cur tanto opere hoc homine delectemur' is the real question (capitalized, '?' supplied). The answer is the immediately following sentence 'Quia suppeditat... conquiescant.' which directly answers 'why' with 'because'; it ends at the full stop, before the next sentence ('An tu existimas...')."
+    },
+    {
+      "locus": "Cicero, Pro Archia 15",
+      "type": "authorial-rhetorical",
+      "question": "Quid? Illi ipsi summi viri, quorum virtutes litteris proditae sunt, istane doctrina, quam tu effers laudibus, eruditi fuerunt?",
+      "answer": "Ego multos homines excellenti animo ac virtute fuisse, et sine doctrina naturae ipsius habitu prope divino per se ipsos et moderatos et gravis exstitisse, fateor.",
+      "derivation": "Dropped the framing 'Quaeret quispiam:' that narrates the asking; the quoted interrogative is kept verbatim and is a genuine question. The reply opens with a non-answering preamble ('Difficile est hoc de omnibus confirmare, sed tamen est certe quod respondeam.') which only promises an answer, so the answer's start is advanced to the operative answering sentence 'Ego multos homines... fateor.', ending at its full stop before the elaboration 'etiam illud adiungo...'."
+    }
+  ]
+}

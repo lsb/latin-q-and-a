@@ -1,0 +1,40 @@
+{
+  "source": "text/bede/bede2.txt",
+  "pairs": [
+    {
+      "locus": "Bede, Historia Ecclesiastica 2.1",
+      "type": "direct-speech",
+      "question": "Quod habet nomen ipsa prouincia, de qua isti sunt adlati?",
+      "answer": "Deiri uocarentur idem prouinciales.",
+      "derivation": "Gregory in the Roman market asks the name of the province the boys came from. Direct interrogative quoted verbatim. The reply is reported with the framing 'Responsum est, quod...'; that narration of the answering is dropped, leaving the author's own answering words 'Deiri uocarentur idem prouinciales' in source order. Stops before 'At ille: Bene...', which is Gregory's own wordplay, not the answer."
+    },
+    {
+      "locus": "Bede, Historia Ecclesiastica 2.1",
+      "type": "direct-speech",
+      "question": "Rex prouinciae illius quomodo appellatur?",
+      "answer": "Aelli diceretur.",
+      "derivation": "Gregory asks the name of the king of that province (Deira). Direct interrogative quoted verbatim. The reply is reported with framing 'Responsum est, quod...', which is dropped, leaving the author's answering words 'Aelli diceretur'. Stops before 'At ille adludens ad nomen ait: Alleluia...', Gregory's wordplay rather than the answer."
+    },
+    {
+      "locus": "Bede, Historia Ecclesiastica 2.2",
+      "type": "direct-speech",
+      "question": "Et unde hoc possumus probare?",
+      "answer": "Si ergo Augustinus ille mitis est et humilis corde, credibile est, quia iugum Christi et ipse portet, et uobis portandum offerat; sin autem inmitis ac superbus est, constat, quia non est de Deo, neque nobis eius sermo curandus.",
+      "derivation": "The Britons ask the anchorite how they can prove whether Augustine is a man of God. The reply opens with a non-answering scriptural premise ('Dominus ait: Tollite iugum meum...'); per the skip-a-preamble guidance the answer's start is advanced to the operative answering sentence 'Si ergo Augustinus...', a contiguous span giving the criterion. The speech tag 'At ille' and 'Dominus, inquit, ait' framing/premise are omitted; the answer runs to the speech's end 'curandus.'"
+    },
+    {
+      "locus": "Bede, Historia Ecclesiastica 2.2",
+      "type": "direct-speech",
+      "question": "Et unde uel hoc dinoscere ualemus?",
+      "answer": "Procurate, ut ipse prior cum suis ad locum synodi adueniat, et, si uobis adpropinquantibus adsurrexerit, scientes, quia famulus Christi est, obtemperanter illum audite; sin autem uos spreuerit, nec coram uobis adsurgere uoluerit, cum sitis numero plures, et ipse spernatur a uobis.",
+      "derivation": "The Britons ask how they can discern Augustine's humility. The anchorite answers with the practical test (whether he rises when they approach). Speech tag 'inquit' dropped; whole answer kept contiguous to its end 'a uobis.'"
+    },
+    {
+      "locus": "Bede, Historia Ecclesiastica 2.5",
+      "type": "direct-speech",
+      "question": "Quare non et nobis porrigis panem nitidum, quem et patri nostro Saba dabas, et populo adhuc dare in ecclesia non desistis?",
+      "answer": "Si uultis ablui fonte illo salutari, quo pater uester ablutus est, potestis etiam panis sancti, cui ille participabat, esse participes; sin autem lauacrum uitae contemnitis, nullatenus ualetis panem uitae percipere.",
+      "derivation": "Saberct's pagan sons ask the bishop why he will not give them the consecrated bread he gave their father. Direct interrogative; the embedded gloss 'sic namque eum appellare consuerant' is authorial framing interrupting the utterance, dropped to keep the question contiguous. The bishop's reply ('Quibus ille respondebat:' tag dropped) answers fully; kept to its end 'percipere.'"
+    }
+  ]
+}

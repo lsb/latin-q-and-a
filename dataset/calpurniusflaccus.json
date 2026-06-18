@@ -1,0 +1,12 @@
+{
+  "source": "text/calpurniusflaccus.txt",
+  "pairs": [
+    {
+      "locus": "Calpurnius Flaccus, Declamationes, Vir fortis gladiator",
+      "type": "authorial-rhetorical",
+      "question": "Vtrum igitur gladiatorem negat aliquis infamem, an negat gladiatorem?",
+      "answer": "Vtrumque mendacium est: neque enim condicione gladiatoria quicquam est humilius in vulgo nec meo nomine quicquam nobilius in ludo.",
+      "derivation": "Authorial-rhetorical: the speaker poses a disjunctive question and immediately answers it himself. The answer 'Vtrumque mendacium est' directly resolves both horns ('both are lies'), then the colon introduces the substantiation of that answer; per answer-window guidance a colon does not end the window, so the answer runs to the first full stop after 'nobilius in ludo'. Editorial deletion-bracket dittography 'gladiatorem negat [negat] aliquis' is stripped to 'gladiatorem negat aliquis'. Question and answer are self-contained. No earlier setup needed."
+    }
+  ]
+}

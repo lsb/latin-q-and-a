@@ -1,0 +1,33 @@
+{
+  "source": "text/cicero/quinc.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Pro Quinctio 11",
+      "type": "authorial-rhetorical",
+      "question": "Non fuit causa cur postularet. Qui hoc intellegi potest?",
+      "answer": "Quia Sex. Naevio neque ex societatis ratione neque privatim quicquam debuit Quinctius.",
+      "derivation": "Cicero poses and answers his own question. The preceding statement 'Non fuit causa cur postularet' is kept as verbatim setup so 'hoc' has a referent. Answer ends at the first full stop ('...Quinctius.'); what follows is a new question ('Quis huic rei testis est?')."
+    },
+    {
+      "locus": "Cicero, Pro Quinctio 11",
+      "type": "authorial-rhetorical",
+      "question": "Quis huic rei testis est?",
+      "answer": "Idem qui acerrimus adversarius.",
+      "derivation": "Self-posed question and answer. Answer stops at the semicolon ('Idem qui acerrimus adversarius;'); terminal punctuation normalized to a full stop. What follows ('in hanc rem te, te inquam, testem, Naevi, citabo') elaborates rather than answering."
+    },
+    {
+      "locus": "Cicero, Pro Quinctio 25",
+      "type": "direct-speech",
+      "question": "Quid? Si habes eius modi causam ut hoc tibi planum sit faciendum, neminem esse qui possit biduo aut summum triduo DCC milia passuum ambulare, tamenne vereris ut possis hoc contra Hortensium contendere?",
+      "answer": "Minime.",
+      "derivation": "Roscius asks Cicero a genuine question (interrogative 'tamenne vereris...?'); Cicero answers 'Minime.' The framing 'inquit'/'inquam' is dropped. The whole question-utterance is quoted contiguous. Answer stops at 'Minime'; the following 'sed quid id ad rem?' is Cicero's own counter-question, not part of the answer."
+    },
+    {
+      "locus": "Cicero, Pro Quinctio 25",
+      "type": "direct-speech",
+      "question": "Quam longe est hinc in saltum vestrum Gallicanum?",
+      "answer": "MDCC milia passuum.",
+      "derivation": "Cicero questions Naevius directly; Naevius answers with the distance. The framing 'Naevi, te rogo' is dropped, and Cicero's following comment 'Optime' is excluded. A stray quotation mark in the source after the figure is treated as scaffolding and removed, keeping the words."
+    }
+  ]
+}
