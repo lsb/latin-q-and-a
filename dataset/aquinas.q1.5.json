@@ -1,0 +1,47 @@
+{
+  "source": "text/aquinas/q1.5.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I q.5 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum bonum differat secundum rem ab ente?",
+      "answer": "Bonum et ens sunt idem secundum rem: sed differunt secundum rationem tantum.",
+      "derivation": "Question is the article title (embedded interrogative 'utrum...'), capitalized and given '?'. Answer is the operative first sentence of the Respondeo (to the first full stop), dropping the framing 'Respondeo dicendum quod' and capitalizing 'Bonum'. The continuation 'Quod sic patet...' begins the demonstration/elaboration, so it is cut."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.5 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum bonum secundum rationem sit prius quam ens?",
+      "answer": "Ens secundum rationem est prius quam bonum.",
+      "derivation": "Question is the article title; answer is the first declarative sentence of the Respondeo (to the first full stop), with 'Respondeo dicendum quod' framing dropped and 'Ens' capitalized. The next sentence 'Ratio enim significata...' begins the justification and is cut."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.5 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum omne ens sit bonum?",
+      "answer": "Omne ens, inquantum est ens, est bonum.",
+      "derivation": "Question is the article title; answer is the first sentence of the Respondeo, framing 'Respondeo dicendum quod' dropped and 'Omne' capitalized. The following 'Omne enim ens... est in actu' begins the reasoning and is cut."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.5 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum bonum habeat rationem causae finalis?",
+      "answer": "Cum bonum sit quod omnia appetunt, hoc autem habet rationem finis; manifestum est quod bonum rationem finis importat.",
+      "derivation": "Question is the article title; answer is the first full sentence of the Respondeo (to the first full stop), with 'Respondeo dicendum quod,' framing dropped and 'Cum' capitalized. The next sentence 'Sed tamen ratio boni praesupponit...' qualifies/elaborates and is cut."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.5 a.5",
+      "type": "authorial-rhetorical",
+      "question": "Utrum ratio boni consistat in modo, specie et ordine?",
+      "answer": "Ratio boni, secundum quod consistit in perfectione, consistit etiam in modo, specie et ordine.",
+      "derivation": "Question is the article title. The Respondeo opens with a non-answering preamble ('unumquodque dicitur bonum, inquantum est perfectum...') and a long derivation; per the skip-the-preamble guidance the answer's start is advanced to the operative concluding sentence, which directly affirms the question. The framing connective 'Unde' is dropped and 'Ratio' capitalized; this is the final sentence of the Respondeo, so nothing follows."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.5 a.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum convenienter dividatur bonum per honestum, utile et delectabile?",
+      "answer": "Si tamen altius et communius rationem boni consideremus, invenitur haec divisio proprie competere bono, secundum quod bonum est.",
+      "derivation": "Question is the article title. The Respondeo's first sentence ('haec divisio proprie videtur esse boni humani') restricts rather than answers whether the division is fitting; per the skip-the-preamble guidance the answer's start is advanced to the next sentence, which affirms the division properly belongs to good as such. Framing 'Respondeo dicendum quod' is not present in this span; 'Si' is already capitalized. The continuation 'Nam bonum est aliquid...' begins the explanation and is cut."
+    }
+  ]
+}

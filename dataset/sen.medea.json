@@ -1,0 +1,40 @@
+{
+  "source": "text/sen/sen.medea.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Medea 171",
+      "type": "direct-speech",
+      "question": "Non metuis arma?",
+      "answer": "Sint licet terra edita.",
+      "derivation": "Nutrix asks a genuine interrogative ('Non metuis arma?' = do you not fear weapons?); Medea answers that she does not, even were they earth-born (the Sown Men she once faced). Speaker labels Nvt./Me. dropped, question mark kept. Single-line exchange, self-contained. The preceding 'Rex est timendus.' / 'Rex meus fuerat pater.' is a statement-and-retort, not a question, and is excluded."
+    },
+    {
+      "locus": "Seneca, Medea 290-292",
+      "type": "direct-speech",
+      "question": "Quae fraus timeri tempore exiguo potest?",
+      "answer": "Nullum ad nocendum tempus angustum est malis.",
+      "derivation": "Medea asks a genuine interrogative ('Quae fraus timeri tempore exiguo potest?' = what fraud can be feared in so short a time?); Creo answers directly that for the wicked no span of time is too narrow to do harm. Speaker labels Me./Cr. dropped. Clean single-line question and single-line answer."
+    },
+    {
+      "locus": "Seneca, Medea 497-498",
+      "type": "direct-speech",
+      "question": "Obicere crimen quod potes tandem mihi?",
+      "answer": "Quodcumque feci.",
+      "derivation": "Iason asks a genuine interrogative ('Obicere crimen quod potes tandem mihi?' = what crime can you charge me with at last?); Medea answers 'Quodcumque feci' (whatever I did, since she did every crime for him). Speaker labels Ia./Me. dropped, question mark normalized. The answer stops at the full stop; Iason's following 'Restat hoc unum insuper...' is a new turn and is excluded."
+    },
+    {
+      "locus": "Seneca, Medea 879-882",
+      "type": "direct-speech",
+      "question": "Periere cuncta, concidit regni status; nata atque genitor cinere permixto iacent. Qua fraude capti?",
+      "answer": "Qua solent reges capi: donis.",
+      "derivation": "The Nuntius announces the catastrophe, then the Chorus genuinely asks 'Qua fraude capti?' (by what trick were they caught?). The Nuntius answers directly: 'Qua solent reges capi: donis' (by the trick kings are usually caught: by gifts). The Nuntius's opening lines 'Periere cuncta... iacent' are kept verbatim as setup so 'capti' has its referents (nata atque genitor). Speaker labels Nvn./Cho. dropped. The answer ends at 'donis.'; the next interrogative 'In illis esse quis potuit dolus?' opens a separate exchange (and is dropped because the reply 'Et ipse miror...' only deflects)."
+    },
+    {
+      "locus": "Seneca, Medea 884-887",
+      "type": "direct-speech",
+      "question": "Quis cladis modus?",
+      "answer": "Auidus per omnem regiae partem furit immissus ignis: iam domus tota occidit, urbi timetur.",
+      "derivation": "The Chorus asks a genuine interrogative ('Quis cladis modus?' = what is the limit of the disaster?); the Nuntius answers that the loosed fire rages through every part of the palace, the house has fallen, and the city is in danger. The answer runs to the first full stop after 'urbi timetur.' (the interior ':' is not a sentence boundary). Speaker labels Cho./Nvn. dropped. The following 'Vnda flammas opprimat' is the Chorus's next utterance and is excluded."
+    }
+  ]
+}

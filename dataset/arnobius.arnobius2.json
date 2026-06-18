@@ -1,0 +1,47 @@
+{
+  "source": "text/arnobius/arnobius2.txt",
+  "pairs": [
+    {
+      "locus": "Arnobius, Adversus Nationes 2.64",
+      "type": "direct-speech",
+      "question": "Sed si generis Christus humani conservator advenit, quor omnino non omnes aequali munificentia liberat?",
+      "answer": "Non aequaliter liberat qui aequaliter omnes vocat?",
+      "derivation": "Pagan objection introduced in quotation marks; dropped the inserted speech-tag framing 'ut inquitis' (\"as you say\") from within the objector's sentence. The question is a real interrogative (quor = cur, 'why'). The answer is Arnobius's reply after the dash; cut at the first full stop (the '?' after 'vocat'), which substantively rebuts the charge by asserting Christ does free all equally since he calls all equally. The continuation ('aut ab indulgentia principali quemquam repellit...') elaborates and was dropped."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 2.71",
+      "type": "direct-speech",
+      "question": "Et dii vestri non fuerunt ante milia annorum duo. Quibus istud rationibus colligi aut quibus supputationibus potest?",
+      "answer": "Non difficilibus, non obscuris, sed quas possit videre qui volet et contrectare, quemadmodum dicitur, manibus.",
+      "derivation": "Catechetical dialogue. Included Arnobius's preceding assertion verbatim as setup so 'istud' has a referent (the gods' nonexistence 2000 years ago); the interlocutor then asks the interrogative. Answer is Arnobius's reply after the dash, cut at the full stop 'manibus.' before the folio marker '| f. 61b? |', which begins the next exchange."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 2.71",
+      "type": "direct-speech",
+      "question": "Quis Iovem cum fratribus genuit?",
+      "answer": "Genialibus Opis adiunctus Saturnus, ut vos fertis, Caelo atque Hecata procreatus.",
+      "derivation": "Self-contained question/answer in the genealogical dialogue: Arnobius asks 'who begot Jupiter with his brothers?'; the interlocutor's reply after the dash names Saturn. Quoted contiguously (the attribution 'ut vos fertis' is left in place to avoid stitching non-adjacent fragments). Answer ends at the full stop before the next question."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 2.71",
+      "type": "direct-speech",
+      "question": "Ab Iove et Pico quot sunt generis usque ad Latinum gradus?",
+      "answer": "Trini, ut indicat series.",
+      "derivation": "Arnobius asks (his own line after a dash) how many generations from Jupiter and Picus to Latinus; the interlocutor answers in quotation marks 'Trini, ut indicat series' ('Three, as the sequence shows'). Real interrogative answered by a real count. Quoted whole."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 2.71",
+      "type": "direct-speech",
+      "question": "Quot apud Albam regnatum est annis?",
+      "answer": "Quadringentis et prope bis denis.",
+      "derivation": "Arnobius asks how many years there was reign at Alba; the interlocutor answers in quotation marks 'Quadringentis et prope bis denis' ('four hundred and nearly twice ten'). Self-contained interrogative and numeric answer; quoted whole."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 2.71",
+      "type": "direct-speech",
+      "question": "Aetatis urbs Roma cuius esse in annalibus indicatur?",
+      "answer": "Annos ducit quinquaginta et mille aut non multum ab his minus.",
+      "derivation": "Arnobius asks what age the city of Rome is recorded to be in the annals; the interlocutor answers in quotation marks. Real interrogative answered by a real figure; quoted whole."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/albertanus/albertanus.liberconsol.txt",
+  "pairs": [
+    {
+      "locus": "Albertanus, Liber Consolationis et Consilii, Caput XXXIV-XXXV (De munitione)",
+      "type": "direct-speech",
+      "question": "Quomodo domum meam aliter munire valeam?",
+      "answer": "Munitio multiplex est.",
+      "derivation": "Melibeus's direct interrogative; stripped the speech tag 'At Melibeus respondens dixit:'. Stripped the intervening scaffolding 'Prudentia respondit dicens:' and the chapter heading 'Caput XXXV. De munitione.' Took Prudentia's first answering sentence 'Munitio multiplex est.' as the operative reply ('fortification is manifold'); cut before the elaboration 'Est enim munitio, quae ad dilectionem pertinet...' which begins enumerating kinds with an embedded Tullius quotation."
+    },
+    {
+      "locus": "Albertanus, Liber Consolationis et Consilii, Caput XLVIII (De guerra vitanda per reconciliationem)",
+      "type": "direct-speech",
+      "question": "Quomodo possum reconciliari meis inimicis? quia ipsi initium discordiae fecerunt, nec reconciliationem quaerunt.",
+      "answer": "Si adversarii tui, te velle reconciliationem, crederent, cum magna devotione illam a te postularent.",
+      "derivation": "Melibeus's direct interrogative; stripped the speech tag 'At Melibeus dixit:'. Kept the contiguous 'quia ipsi...quaerunt' clause as setup for the question. Stripped 'Prudentia vero respondit:' and took her first sentence as the answer; cut before 'Audivi namque, quod de peccato...' which then digresses into supporting authorities (Prophet, Apostle, Seneca) on pursuing peace."
+    }
+  ]
+}

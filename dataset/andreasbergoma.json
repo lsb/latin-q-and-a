@@ -1,0 +1,26 @@
+{
+  "source": "text/andreasbergoma.txt",
+  "pairs": [
+    {
+      "locus": "Andreas Bergomatis, Chronicon 11",
+      "type": "direct-speech",
+      "question": "Bone archiepiscope, quid debet facere homo de inimicum suum?",
+      "answer": "Dominus dixit in evangelio: Diligite inimicos vestros, et benefacite his qui vos oderunt.",
+      "derivation": "Emperor Hludowicus asks the archbishop at table. Dropped the framing 'Dum ad mensam uterque reficerent, causa exurgens imperator et dixit:' before the question and the speech-tag 'Ille respondit:' before the answer. The answer ('Dominus dixit in evangelio: Diligite...') is the archbishop's own utterance citing Scripture and directly answers what a man should do with his enemy; it ends at the full stop, before the next exchange ('Imperator dixit: Et si haec non fecero?')."
+    },
+    {
+      "locus": "Andreas Bergomatis, Chronicon 11",
+      "type": "direct-speech",
+      "question": "Et si haec non fecero?",
+      "answer": "Si non feceris, non habebis vitam aeternam, si in ipso odio mortuus fueris.",
+      "derivation": "Follow-up question from the emperor and the archbishop's direct reply. Dropped speech-tags 'Imperator dixit:' and 'Archiepiscopus respondit:'. Answer ends at the full stop, before the next line ('Imperator vero iratus dixit: Si me vindicabo...'), which is a new utterance that receives no answer and so is not extracted."
+    },
+    {
+      "locus": "Andreas Bergomatis, Chronicon 11",
+      "type": "direct-speech",
+      "question": "Scitis, quia sumus omnes fratres in Christo?",
+      "answer": "Scimus, quia unum patrem vocamus in coelis.",
+      "derivation": "The archbishop questions the assembled wise men; they answer. Dropped framing 'Archiepiscopus eorum praesentia dixit:' and the speech-tag 'Illi autem respondentes dixerunt:'. 'Scitis...?' is answered point-for-point by 'Scimus...'. The answer ends at the full stop, before the archbishop's next speech ('Ille autem dixit: Ergo si scitis...')."
+    }
+  ]
+}

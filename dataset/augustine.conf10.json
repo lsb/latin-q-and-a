@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/conf10.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessions 10.6.9",
+      "type": "direct-speech",
+      "question": "tu quis es?",
+      "answer": "homo.",
+      "derivation": "Augustine turns to himself: 'et direxi me ad me et dixi mihi, \"tu quis es?\" et respondi, \"homo.\"' Dropped the framing narration of asking/answering ('et direxi me ad me et dixi mihi' before the question, 'et respondi' before the answer); kept only the quoted interrogative and its quoted reply. The interrogative 'tu quis es?' is genuine and 'homo' directly answers it."
+    }
+  ]
+}

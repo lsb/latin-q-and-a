@@ -1,0 +1,19 @@
+{
+  "source": "text/aquinas/q1.37.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.37 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Amor sit proprium nomen Spiritus Sancti?",
+      "answer": "Et secundum quod personaliter sumitur, est proprium nomen Spiritus Sancti.",
+      "derivation": "The article poses the interrogative (utrum = whether) and the Respondeo answers it. Dropped the framing tag 'Respondeo dicendum quod' and skipped the non-answering preamble distinction 'nomen amoris in divinis sumi potest et essentialiter et personaliter' (which only sets up the essential/personal distinction without answering). The answer window is the operative affirming sentence; cut ends at the first full stop, before the digression 'sicut Verbum est proprium nomen Filii' (an analogy) and the long 'Ad cuius evidentiam' elaboration that follows."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.37 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Pater et Filius diligant se Spiritu Sancto?",
+      "answer": "Sicut ergo dicitur arbor florens floribus, ita dicitur Pater dicens Verbo vel Filio, se et creaturam: et Pater et Filius dicuntur diligentes Spiritu Sancto, vel Amore procedente, et se et nos.",
+      "derivation": "The article poses the interrogative; the Respondeo answers it affirmatively in the notional sense. Skipped the long non-answering preamble (the statement of the difficulty 'circa hanc quaestionem difficultatem affert...' and the survey of opinions 'quidam dixerunt... quidam vero dixerunt...', plus the 'Ad huius evidentiam' explanation of formal-effect denomination). Advanced the answer start to the operative affirming sentence in the 'Secundum vero quod notionaliter sumitur' passage; this final sentence contiguously affirms that the Father and Son are said to love by the Holy Spirit, directly answering the 'utrum'. It is the last sentence of the Respondeo, followed by the replies to objections (Ad primum...)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "text/arnobius/arnobius5.txt",
+  "pairs": [
+    {
+      "locus": "Arnobius, Adversus Nationes 5.38.2",
+      "type": "authorial-rhetorical",
+      "question": "Minime istud videtur certum. Qua quaeritis ratione, qua causa?",
+      "answer": "Quia omne quod gestum est et in alicuius operis evidentia constitutum est conversionem non potest in allegoricam duci; neque enim potest infectum esse quod factum est aut rei gestae natura in alienam potest degenerare naturam.",
+      "derivation": "Arnobius voices the objector's question against his own denial. Kept 'Minime istud videtur certum.' as setup so 'qua causa' has a referent (it asks why he says the allegory-claim is not certain); dropped the preceding quoted objection 'Allegorico genere scripta sunt haec omnia'. Stripped the editorial brackets from '<qua>' keeping the word and capitalized it; stripped the folio marker '| f. 118 |' from the surrounding text. Answer taken to the first full stop ('...naturam.'); cut the following sentence beginning 'Numquid bellum Iliacum in Socraticam verti condemnationem...' which illustrates rather than answers."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 5.39.1",
+      "type": "authorial-rhetorical",
+      "question": "Unde igitur probamus historias has omnes rerum esse gestarum conscriptiones?",
+      "answer": "Ex sollemnibus scilicet sacris atque initiorum mysteriis, vel quae statis fiunt temporibus ac diebus vel quae in abdito tradunt gentes moris proprii perpetuitate servata.",
+      "derivation": "Arnobius poses the dialectical question and answers it himself. Answer is the direct reply taken to its first full stop ('...servata.'); cut the following sentence 'Neque enim credendum est sine suis originibus haec esse...' which elaborates rather than answers."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 5.39.5",
+      "type": "authorial-rhetorical",
+      "question": "Eleusinia illa mysteria et sacrorum reconditi ritus cuius memoriam continent?",
+      "answer": "Nonne illius erroris quo in filiae conquisitione Ceres, fessa oras ut venit ad Atticas, triticeas attulit fruges, Nebridarum familiam pellicula cohonestavit hinnulae et illud spectaculum maximum Baubonis in inguinibus risit?",
+      "derivation": "Genuine interrogative ('cuius memoriam continent?') answered by Arnobius's own 'Nonne illius erroris quo...' which supplies the content ('the memory of that wandering by which Ceres...'). The subject 'Eleusinia illa mysteria et sacrorum reconditi ritus' is kept as the referent of 'cuius'. Answer ends at the close of its contiguous clause; the following section 39.6 'Aut si alia causa est...' turns to a new point."
+    }
+  ]
+}

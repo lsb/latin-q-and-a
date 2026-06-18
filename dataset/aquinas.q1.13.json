@@ -1,0 +1,12 @@
+{
+  "source": "text/aquinas/q1.13.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.13 a.11 (Exodus 3,13-14)",
+      "type": "direct-speech",
+      "question": "Si dixerint mihi: Quod est nomen eius? quid dicam eis?",
+      "answer": "Sic dices eis: Qui est misit me ad vos.",
+      "derivation": "From the Sed contra of Article 11, which quotes Ex. 3,13-14. Dropped the asking-narration framing 'Sed contra est quod dicitur Ex. 3,13-14, quod Moysi quaerenti,' before the question, and the speech tag 'et respondit ei Dominus:' before the answer. Moses's utterance is kept contiguous (the conditional 'Si dixerint mihi' through the interrogatives 'Quod est nomen eius? quid dicam eis?') to supply setup; first word capitalized. The Lord's reply is the genuine answer naming God ('Qui est misit me ad vos') and ends at the full stop; the following authorial 'Ergo hoc nomen Qui est...' is excluded."
+    }
+  ]
+}

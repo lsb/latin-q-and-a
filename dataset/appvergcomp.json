@@ -1,0 +1,12 @@
+{
+  "source": "text/appvergcomp.txt",
+  "pairs": [
+    {
+      "locus": "Catalepton 11.1-4",
+      "type": "direct-speech",
+      "question": "Quis deus, Octaui, te nobis abstulit? An quae dicunt, a, nimio pocula dura mero?",
+      "answer": "Vobiscum, si est culpa, bibi: sua quemque secuntur fata: quid inmeriti crimen habent cyathi?",
+      "derivation": "Verse; stripped the poem-number heading 'XI' and removed the pentameter-line indentation (a formatting artifact). The poet directly asks the dead Octavius what killed him: 'What god, Octavius, took you from us? Or, as they say, the harsh cups of too much wine?' (lines 1-2). Octavius's ghost answers in quotation marks (lines 3-4): 'I drank with you, if there is blame; his own fates follow each man: what guilt do the innocent cups bear?' — directly rebutting the wine/cups hypothesis posed in the question. Stripped the surrounding quotation marks (presentation). Kept the whole quoted reply verbatim and contiguous as the answer, since its closing clause ('quid inmeriti crimen habent cyathi?') is what actually answers the 'pocula dura mero' part of the question; stopped at the end of the quotation and did not extend into 'scripta quidem tua nos multum mirabimur' (line 5), which is the poet resuming, not part of the reply."
+    }
+  ]
+}

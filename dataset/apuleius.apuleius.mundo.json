@@ -1,0 +1,12 @@
+{
+  "source": "text/apuleius/apuleius.mundo.txt",
+  "pairs": [
+    {
+      "locus": "Apuleius, De Mundo 22",
+      "type": "authorial-rhetorical",
+      "question": "Quid enim mundo praestantius?",
+      "answer": "Lauda, quam putas, speciem: portio a te laudabitur mundi; admirare, quam voles, temperantiam, ordinationem, figuram: hic et per hunc illud quodcumque est invenietur esse laudandum.",
+      "derivation": "Authorial rhetorical question opening section XXII, immediately answered by the author himself: whatever you praise turns out to be a portion of, or praiseworthy through, the world. The section marker 'XXII.' was stripped. The answer runs to the first full stop (after 'esse laudandum'); the interior colons are not sentence-ends per the guidance, so they are retained within the single answering sentence. The next sentence ('Nam quid, oro te, ornatum...') begins a fresh rhetorical move and is not included."
+    }
+  ]
+}

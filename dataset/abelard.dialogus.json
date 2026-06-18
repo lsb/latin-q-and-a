@@ -1,0 +1,19 @@
+{
+  "source": "text/abelard/dialogus.txt",
+  "pairs": [
+    {
+      "locus": "Abelard, Dialogus inter Philosophum, Iudaeum et Christianum (Philosophus-Christianus exchange on the way to the highest good)",
+      "type": "direct-speech",
+      "question": "Et quam, rogo, viam ad hoc summum bonum, id est virtutem, perveniendi constituebant?",
+      "answer": "Ipsum prorecto moralis lectionis studium vel domandae carnis exercitium, ut bona in habitum solidata voluntas virtus dici queat.",
+      "derivation": "Christianus asks a real interrogative (quam viam... constituebant?), and the Philosophus answers directly. Dropped the speaker labels 'Christianus:' and 'Philosophus:' as drama/dialogue scaffolding. The answer is a single sentence to its first full stop; nothing was trimmed from it. Question quoted verbatim including the speaker's own interjection 'rogo'."
+    },
+    {
+      "locus": "Abelard, Dialogus inter Philosophum, Iudaeum et Christianum (Philosophus-Christianus exchange defining the blessed man)",
+      "type": "direct-speech",
+      "question": "Et quem esse beatum definiunt?",
+      "answer": "Beatum quasi bene aptum dicunt, hoc est in omnibus bene et facile se agentem, ut idem sit scilicet beatum esse, quod bonis moribus, id est virtutibus, pollere.",
+      "derivation": "Christianus poses a genuine interrogative (quem... beatum definiunt?) and the Philosophus answers it directly with a definition. Dropped the 'Christianus:' and 'Philosophus:' speaker labels. The answer is one contiguous sentence to its full stop; nothing omitted internally."
+    }
+  ]
+}

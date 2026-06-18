@@ -1,0 +1,19 @@
+{
+  "source": "text/aquinas/q1.57.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.57 a.4 sed contra (Jer. 17,9-10)",
+      "type": "direct-speech",
+      "question": "Pravum est cor hominis et inscrutabile, quis cognoscet illud?",
+      "answer": "Ego, Dominus, scrutans corda.",
+      "derivation": "Scriptural quotation (Ier. 17,9-10) embedded in the sed contra. The question is the genuine interrogative 'quis cognoscet illud?'; the preceding clause 'Pravum est cor hominis et inscrutabile' is kept as verbatim setup so that 'illud' has a referent. The answer is God's reply 'Ego, Dominus, scrutans corda.' The narrative frame 'secundum illud Ier. 17,9-10:' before it is dropped as scaffolding; the verb of speaking is implicit. Nothing between question and answer is omitted."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.57 a.5 sed contra (Isaiah 63,1)",
+      "type": "direct-speech",
+      "question": "Quis est iste qui venit de Edom?",
+      "answer": "Ego, qui loquor iustitiam.",
+      "derivation": "Direct-speech exchange (Isaiae 63,1) embedded in the sed contra: angels ask, Jesus answers. The speech tags 'ubi quaerentibus angelis,' (framing the asking) and 'respondit Iesus:' (framing the reply) are dropped as narration of the exchange. Question and answer are quoted verbatim and contiguous; nothing internal is elided."
+    }
+  ]
+}

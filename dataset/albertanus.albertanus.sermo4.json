@@ -1,0 +1,12 @@
+{
+  "source": "text/albertanus/albertanus.sermo4.txt",
+  "pairs": [
+    {
+      "locus": "Albertanus, Sermo 4 (de timore Domini)",
+      "type": "direct-speech",
+      "question": "Si ingenuam es, quomodo ancillam Christi te esse comemoras?",
+      "answer": "Summa ingenuita hec est in qua servitus, Christi comemoratur.",
+      "derivation": "Quintianus rebukes Agatha and asks a direct interrogative (quomodo...?); Agatha answers directly. Cut the framing tag 'Et cum ille reprehendisset eam, dicens:' before the question and 'et illa respondit:' before the answer. After the answer follows the citation tag 'ut in passione dicte Virginis legitur', which is omitted. Capitalization of 'si' normalized to 'Si'."
+    }
+  ]
+}

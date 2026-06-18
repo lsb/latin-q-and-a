@@ -1,0 +1,12 @@
+{
+  "source": "text/ammianus/22.txt",
+  "pairs": [
+    {
+      "locus": "Ammianus Marcellinus 22.9.10-11",
+      "type": "direct-speech",
+      "question": "Quibus indiciis ad hoc pervenisti?",
+      "answer": "Purpureum sibi indumentum ex serico pallio parat.",
+      "derivation": "Direct exchange: a man persistently accuses an enemy of maiestas; Julian, smiling, asks the direct question. Question is the author's '´quibus indiciisª ait ´ad hoc pervenisti?ª' with the interleaved speech tag 'ait' (and the quote-mark artifacts) dropped, leaving the contiguous utterance and the first word capitalized. Answer is '´purpureum sibiª inquit ´indumentum ex serico pallio paratª' with the speech tag 'inquit' dropped; it ends at the close of the reply (next clause 'iussusque post haec...' is narration of what follows). The accuser's reply genuinely answers 'by what evidence' (a purple imperial garment = treason). The preceding indirect Q&A ('interrogatus... qui esset quem argueret, respondit, municipem locupletem') is reported, not a direct interrogative utterance, so it is left out as setup/narration."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "text/aquinas/q1.26.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.26, a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum beatitudo Deo competat?",
+      "answer": "Beatitudo maxime Deo competit.",
+      "derivation": "Question is the article title 'Utrum beatitudo Deo competat' (the genuine interrogative posed; the following 'Videtur quod...' is the objector's negative position, not the question). Answer is the operative first sentence of the Respondeo, dropping the framing 'Respondeo dicendum quod' and capitalizing 'beatitudo'. Cut before the elaboration 'Nihil enim aliud sub nomine beatitudinis intelligitur...' which explains rather than answers."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.26, a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus dicatur beatus secundum intellectum?",
+      "answer": "Attribuenda ergo est Deo beatitudo secundum intellectum, sicut et aliis beatis, qui per assimilationem ad beatitudinem ipsius, beati dicuntur.",
+      "derivation": "Question is the article title. The Respondeo opens with a non-answering preamble building the argument ('beatitudo... significat bonum perfectum intellectualis naturae... In Deo autem non est aliud esse et intelligere...'), so the answer's start is advanced to the operative concluding sentence beginning 'Attribuenda ergo est Deo beatitudo secundum intellectum', which directly answers the 'secundum intellectum' question. This is the last sentence of the Respondeo; no cut needed at the end."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.26, a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in Dei beatitudine omnis beatitudo includatur?",
+      "answer": "Quidquid est desiderabile in quacumque beatitudine, vel vera vel falsa, totum eminentius in divina beatitudine praeexistit.",
+      "derivation": "Question is the article title 'Utrum in Dei beatitudine omnis beatitudo includatur'. Answer is the operative first sentence of the Respondeo, dropping the framing 'Respondeo dicendum quod' and capitalizing 'Quidquid'. Cut before the enumeration 'De contemplativa enim felicitate...' which elaborates the examples rather than answering. Article 3 was dropped: its Respondeo answers only with a split distinction (yes ex parte obiecti, no ex parte actus) with no clean contiguous answering span, so per prefer-false-negatives it is omitted."
+    }
+  ]
+}

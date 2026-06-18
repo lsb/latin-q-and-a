@@ -1,0 +1,33 @@
+{
+  "source": "text/aquinas/q1.41.txt",
+  "pairs": [
+    {
+      "locus": "Summa Theologiae I q.41 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum actus notionales sint attribuendi personis?",
+      "answer": "In divinis personis attenditur distinctio secundum originem.",
+      "derivation": "Article title is the posed question (indirect 'utrum' rendered as a real interrogative). Dropped the framing 'Respondeo dicendum quod' that narrates the answering. The answer window is the first answering sentence of the Respondeo; stops at the first full stop, before the elaboration 'Origo autem convenienter designari...'."
+    },
+    {
+      "locus": "Summa Theologiae I q.41 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum actus notionales sint de aliquo?",
+      "answer": "Filius non est genitus de nihilo, sed de substantia Patris.",
+      "derivation": "Article title is the posed question. Dropped framing 'Respondeo dicendum quod'. The Respondeo's first sentence directly answers; cut before 'Ostensum est enim supra...' which begins the supporting argument."
+    },
+    {
+      "locus": "Summa Theologiae I q.41 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Si Deus Pater non potuit generare Filium sibi aequalem, ubi est omnipotentia Dei Patris?",
+      "answer": "Est ergo in divinis potentia respectu actuum notionalium.",
+      "derivation": "A genuine direct interrogative ('ubi est...?') posed in the Sed contra and answered immediately. Dropped the framing speech-tag 'Sed contra est quod dicit Augustinus: Contra Maximinum haereticum:'. The answer is the very next sentence, which draws the conclusion."
+    },
+    {
+      "locus": "Summa Theologiae I q.41 a.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum actus notionalis ad plures personas terminari possit?",
+      "answer": "In divinis est tantum unus Pater, unus Filius, unus Spiritus Sanctus.",
+      "derivation": "Article title (the heading line, which carries no appended gloss) is the posed question. Dropped framing 'Respondeo dicendum quod, sicut Athanasius dicit,' which narrates the answering and attributes the source. The answer is the operative first claim; cut before 'Cuius quidem ratio quadruplex assignari potest,' which begins the fourfold proof."
+    }
+  ]
+}

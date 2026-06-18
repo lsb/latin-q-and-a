@@ -1,0 +1,33 @@
+{
+  "source": "text/albertanus/albertanus.sermo3.txt",
+  "pairs": [
+    {
+      "locus": "Albertanus of Brescia, Sermo 3 (on Iob 6:30, the word \"vere\")",
+      "type": "authorial-rhetorical",
+      "question": "Quid est veritas?",
+      "answer": "Certe Deus veritas est.",
+      "derivation": "The preacher poses the question himself and answers it. Question is the second occurrence of 'Quid est veritas?' (the first, before Pilate, is explicitly left unanswered: 'Noluit respondere'). Answer ends at the first full stop, before the supporting scriptural citation 'ut ipse dicit in Evangelio: \"Ego sum via, veritas, et vita.\"'"
+    },
+    {
+      "locus": "Albertanus of Brescia, Sermo 3 (quoting Solomon/Proverbs 29:20)",
+      "type": "authorial-rhetorical",
+      "question": "Vidisti hominem velocem ad loquendum?",
+      "answer": "Stulticia magis speranda est, quam illius corectio.",
+      "derivation": "Quoted Solomonic proverb posing a rhetorical question that it then answers. The framing 'Et Salomon ait:' is dropped. Answer is the full continuation of the proverb; stops at the full stop before the next citation 'Et alibi: \"Qui prius respondit...\"'."
+    },
+    {
+      "locus": "Albertanus of Brescia, Sermo 3 (on the word \"iudicate\")",
+      "type": "authorial-rhetorical",
+      "question": "Numquid ergo erit contrarium verbum Domini dicto Prophete?",
+      "answer": "Absit, si ea attenderitis, que sunt in iudicio necessaria.",
+      "derivation": "The preacher raises the apparent contradiction between the Prophet's 'recte iudicate' and the Lord's 'Nolite iudicare', then answers his own question. Answer ends at the first full stop, before the enumeration 'et certe, meo arbitrio, septem sunt in iudicio...' that elaborates."
+    },
+    {
+      "locus": "Albertanus of Brescia, Sermo 3 (woman caught in adultery, cf. John 8:10-11)",
+      "type": "direct-speech",
+      "question": "Mulier, ubi sunt qui te accusant?",
+      "answer": "Nemo, Domine.",
+      "derivation": "Direct-speech exchange. The Lord's question 'Mulier, ubi sunt qui te accusant?' is answered by the woman: framing 'Et illa dixit:' is dropped, leaving 'Nemo, Domine.' The Lord's following 'Si nullus te accusat...' is a further pronouncement, not the answer to this question."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/aquinas/q1.9.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.9, a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus sit omnino immutabilis?",
+      "answer": "Ex praemissis ostenditur Deum esse omnino immutabilem.",
+      "derivation": "Article title 'Utrum Deus sit omnino immutabilis' is a genuine deliberative interrogative posed by the author. The corresponding 'Respondeo' answers it; I dropped the framing 'Respondeo dicendum quod' (narration of answering) and took the operative first answering sentence to its full stop: 'Ex praemissis ostenditur Deum esse omnino immutabilem.' What follows ('Primo quidem, quia supra ostensum est...') is elaboration of the three reasons, so the answer window stops there."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.9, a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum esse immutabile sit Dei proprium?",
+      "answer": "Solus Deus est omnino immutabilis: omnis autem creatura aliquo modo est mutabilis.",
+      "derivation": "Article title 'Utrum esse immutabile sit Dei proprium' is a genuine deliberative interrogative posed by the author. The corresponding 'Respondeo' answers it; I dropped the framing 'Respondeo dicendum quod' and took the operative first answering sentence to its full stop (keeping the internal colon, which is not a full stop): 'Solus Deus est omnino immutabilis: omnis autem creatura aliquo modo est mutabilis.' What follows ('Sciendum est enim quod...') begins the elaboration on the two senses of mutability, so the answer window stops there."
+    }
+  ]
+}

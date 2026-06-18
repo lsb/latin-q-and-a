@@ -1,0 +1,12 @@
+{
+  "source": "text/albertanus/albertanus3.txt",
+  "pairs": [
+    {
+      "locus": "Albertanus, De amore, Liber III, Caput XV (John 8:10-11)",
+      "type": "direct-speech",
+      "question": "Mulier, ubi sunt qui te accusant?",
+      "answer": "Nemo, Domine.",
+      "derivation": "Direct-speech exchange from the adultery pericope quoted in Caput XV. Stripped the speech tags 'dixit' (before the question) and 'Et illa dixit' (before the answer). The question is a genuine interrogative ('where are those who accuse you?'); the woman's reply 'Nemo, Domine.' answers it directly. Stopped the answer at the first full stop; the following sentence 'Et ille respondet, \"Si nullus te accusat, nec ego te condempnabo.\"' is Jesus's subsequent verdict, not the answer to the question, so it is excluded."
+    }
+  ]
+}

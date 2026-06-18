@@ -1,0 +1,12 @@
+{
+  "source": "text/albertanus/albertanus.sermo2.txt",
+  "pairs": [
+    {
+      "locus": "Albertanus, Sermo 2 (De auditu)",
+      "type": "authorial-rhetorical",
+      "question": "Si ergo, dum pauper clamat, Deus clamare intelligitur et nos non exaudiemus eum clamantem, quare ipse nos clamantes exaudire deberet?",
+      "answer": "Certe ipse rationabilter non debet nos exaudire nisi de misericordia sua hoc faciat.",
+      "derivation": "Authorial rhetorical question and its self-answer in the De auditu section. The conditional setup 'Si ergo, dum pauper clamat... clamantem' is kept verbatim so that 'ipse' (God) and 'nos clamantes' have referents. The answer is the immediately following sentence, which directly responds to the 'quare... deberet?' question; the text then moves to the next section (De gustu). Scaffolding (title line, rule separators, footer) is outside this span and not included."
+    }
+  ]
+}

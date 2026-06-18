@@ -1,0 +1,12 @@
+{
+  "source": "text/alcuin/epitaphium.txt",
+  "pairs": [
+    {
+      "locus": "Alcuin, Epitaphium 13-14",
+      "type": "authorial-rhetorical",
+      "question": "Cur tibi rura paras?",
+      "answer": "Quam parvo cernis in antro me tenet hic requies: sic tua parva fiet.",
+      "derivation": "Speaker (the deceased) poses a rhetorical question to the passerby and answers it himself. Question is the verbatim interrogative 'cur tibi rura paras?'. Answer is the contiguous explanation that immediately follows, kept whole through 'sic tua parva fiet' because it directly answers why amassing estates is futile (your resting place will be as tiny as mine). Stripped the title line, the trailing prose colophon and the Latin-Library footer; no editorial brackets or verse numbers present. Did not extend into the next couplet (the second 'cur Tyrio...' question), which is a separate unit. Dropped the 'cur Tyrio corpus inhias...' question as a candidate because its only following matter is a simile ('ut flores pereunt...') that does not directly answer it."
+    }
+  ]
+}

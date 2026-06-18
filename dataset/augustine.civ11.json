@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/civ11.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 11.4",
+      "type": "authorial-rhetorical",
+      "question": "Quod autem Deus fecerit mundum, nulli tutius credimus quam ipsi Deo. Vbi eum audiuimus?",
+      "answer": "Nusquam interim nos melius quam in scripturis sanctis, ubi dixit propheta eius: In principio fecit Deus caelum et terram.",
+      "derivation": "Augustine poses and answers his own question. Kept the preceding sentence 'Quod autem Deus fecerit mundum, nulli tutius credimus quam ipsi Deo' as verbatim setup so that 'eum' (= God) has a referent. Answer is the full responding sentence; ends at the first full stop after the scriptural quotation. Nothing trimmed from the answer; the next sentence 'Numquidnam ibi fuit iste propheta...' begins a new question."
+    },
+    {
+      "locus": "Augustine, De Civitate Dei 11.4",
+      "type": "authorial-rhetorical",
+      "question": "Numquidnam ibi fuit iste propheta, quando fecit Deus caelum et terram?",
+      "answer": "Non; sed ibi fuit sapientia Dei, per quam facta sunt omnia.",
+      "derivation": "Genuine yes/no question ('Numquidnam...?') answered directly with 'Non; sed ibi fuit sapientia Dei...'. Cut the answer at 'per quam facta sunt omnia'; what follows in the source ('quae in animas sanctas etiam se transfert...') is the same sentence continuing into elaboration/digression about wisdom transferring into holy souls, so the contiguous operative answer ends there (normalized the trailing comma to a full stop)."
+    },
+    {
+      "locus": "Augustine, De Civitate Dei 11.9",
+      "type": "authorial-rhetorical",
+      "question": "Iam ergo erant angeli, quando facta sunt sidera. Facta sunt autem quarto die. Numquidnam ergo die tertio factos esse dicemus?",
+      "answer": "Absit. In promptu est enim, quid illo die factum sit.",
+      "derivation": "Augustine's own question with an emphatic direct answer. Kept the two preceding verbatim sentences ('Iam ergo erant angeli, quando facta sunt sidera. Facta sunt autem quarto die.') as setup so that 'die tertio' and the elided subject of 'factos' (angels) are intelligible. Answer kept through 'In promptu est enim, quid illo die factum sit'; what follows ('Ab aquis utique terra discreta est...') details the third day's actual work, an elaboration, so the answer stops there."
+    },
+    {
+      "locus": "Augustine, De Civitate Dei 11.26",
+      "type": "authorial-rhetorical",
+      "question": "Quid si falleris?",
+      "answer": "Si enim fallor, sum. Nam qui non est, utique nec falli potest; ac per hoc sum, si fallor.",
+      "derivation": "The interrogative is the Academics' objection; the framing 'Nulla in his ueris Academicorum argumenta formido dicentium' narrates the asking and is dropped per the prompt, leaving the bare question 'Quid si falleris?'. Augustine's answer ('Si enim fallor, sum...') is kept through 'ac per hoc sum, si fallor', the contiguous core argument; the following sentence ('Qui ergo sum si fallor, quo modo esse me fallor...') turns to further consequence, so the answer stops there."
+    }
+  ]
+}

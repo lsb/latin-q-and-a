@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/conf7.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessions 7.10.16",
+      "type": "direct-speech",
+      "question": "Numquid nihil est veritas, quoniam neque per finita neque per infinita locorum spatia diffusa est?",
+      "answer": "Immo vero ego sum qui sum.",
+      "derivation": "Augustine's question and God's reply are framed by speech tags 'et dixi, ...' and 'et clamasti de longinquo, ...'. Both tags are dropped as framing/narration of the speaking; the utterances are quoted verbatim and contiguous. First word capitalized; question keeps its '?'. God's 'immo vero ego sum qui sum' directly refutes the doubt that 'truth is nothing', so it genuinely answers. The following sentence 'et audivi, sicut auditur in corde...' returns to narration and is excluded from the answer."
+    }
+  ]
+}

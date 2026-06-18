@@ -1,0 +1,61 @@
+{
+  "source": "text/augustine/serm6.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "et cum dicitur: dixit deus per Esaiam, quid erat Esaias?",
+      "answer": "nonne homo portans carnem, natus de patre et matre sicuti omnes nos?",
+      "derivation": "Real interrogative 'quid erat Esaias?' with the contiguous setup giving the referent (Esaias). Answer is the immediately following sentence answering what Isaiah was (a man bearing flesh), ending at the question mark; cut before 'et tamen loquitur...' which digresses."
+    },
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "putamus rubum bonum aliquid significare, cum sint spinae?",
+      "answer": "spinae peccatores significant.",
+      "derivation": "Interrogative asking whether the bush signifies something good. Answer is the immediately following sentence; stopped at the full stop before 'ergo rubus significabat...' which elaborates the application."
+    },
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "o deus, o domine noster, quid uocaris?",
+      "answer": "est uocor, dixit.",
+      "derivation": "Vocatives kept as verbatim setup so 'quid uocaris' is intelligible. The reply 'est uocor, dixit' directly answers; 'dixit' is retained as the operative answering clause. Cut before the next question 'quid est, est uocor?'."
+    },
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "quid est, est uocor?",
+      "answer": "quia maneo in aeternum, quia mutari non possum.",
+      "derivation": "Interrogative asking the meaning of 'est uocor'. Answer is the following explanatory sentence; cut at its full stop before 'ea enim quae mutantur non sunt...' which generalizes."
+    },
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "sed quando uenit ad uitam et redit ad regnum?",
+      "answer": "in fine saeculi.",
+      "derivation": "Real interrogative ('when does he come to life and return to the kingdom?') answered by the terse following sentence; cut before 'nam ideo caudam tenuit...' which explains the symbolism."
+    },
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "quid illa manus?",
+      "answer": "certum est quia et illa manus populum ipsum significat, sinus homines.",
+      "derivation": "Interrogative about the meaning of the hand. Answer is the immediately following sentence stating what the hand (and bosom) signify; cut before 'quid est sinus Moysi?' which is the next question."
+    },
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "quid est sinus Moysi?",
+      "answer": "secretum dei.",
+      "derivation": "Interrogative answered by the terse following sentence; cut before 'cum esset homo in secreto dei...' which elaborates."
+    },
+    {
+      "locus": "Augustine, Sermo 6",
+      "type": "authorial-rhetorical",
+      "question": "quid autem illa aqua?",
+      "answer": "aqua illa significat sapientiam.",
+      "derivation": "Interrogative answered by the immediately following sentence; cut at its full stop before 'saepe enim posita est aqua...' which supports the claim with scripture."
+    }
+  ]
+}

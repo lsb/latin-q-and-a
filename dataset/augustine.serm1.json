@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/serm1.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 1 (Tractatus contra Manicheos)",
+      "type": "authorial-rhetorical",
+      "question": "Cur ergo isti Moysen sibi elegerunt, quem Iohanni euangelistae opponerent, Paulum autem apostolum ei opponere noluerunt?",
+      "answer": "Quia scilicet imperitis hominibus duo testamenta persuadere uoluerunt esse contraria, ut uno teste utantur, alterum respuant.",
+      "derivation": "Augustine poses his own question (why the Manichaeans set Moses against John the evangelist but declined to set Paul against him) and answers it immediately. Answer window is the single following sentence beginning 'quia scilicet...', which directly states the cause and ends at the first full stop; the next sentence ('hoc enim profitetur error ipsorum...') begins elaboration and is cut. Only first-word capitalization normalized."
+    }
+  ]
+}

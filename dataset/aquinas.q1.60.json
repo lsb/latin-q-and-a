@@ -1,0 +1,40 @@
+{
+  "source": "text/aquinas/q1.60.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I q.60 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in angelo sit amor seu dilectio naturalis?",
+      "answer": "Necesse est in angelis ponere dilectionem naturalem.",
+      "derivation": "Question is the article 1 title (line 31), a genuine indirect interrogative (Utrum...). Answer is the operative first sentence of the Respondeo (line 43), dropping the framing tag 'Respondeo dicendum quod' (analogous to a speech-tag) and normalizing capitalization. Cut ends at the first full stop; what follows ('Ad cuius evidentiam, considerandum est...') is supporting argumentation, not the direct answer."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.60 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in angelis sit dilectio electiva?",
+      "answer": "In angelis est quaedam dilecto naturalis, et quaedam electiva.",
+      "derivation": "Question is the article 2 title (line 53). Answer is the operative first sentence of the Respondeo (line 63), dropping the framing tag 'Respondeo dicendum quod' and normalizing capitalization. ('dilecto' is the source's own spelling, kept unaltered.) Cut ends at the first full stop; what follows ('Et naturalis dilectio in eis est principium electivae...') elaborates the relation between the two, not the bare answer."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.60 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus diligat seipsum dilectione naturali et electiva?",
+      "answer": "Naturaliter tam angelus quam homo diligit seipsum, inquantum aliquod bonum naturali appetitu sibi desiderat. Inquantum vero sibi desiderat aliquod bonum per electionem, intantum amat seipsum dilectione electiva.",
+      "derivation": "Question is the article 3 title (line 74). The Respondeo (lines 86-87) opens with a non-answering preamble ('cum amor sit boni... primum vero amicitiam') distinguishing modes of love; per the skip-preamble rule the answer's start is advanced past it (and past 'Unde et angelus et homo naturaliter appetunt suum bonum...') to the operative pair of sentences that answer both naturali and electiva. The lead 'Unde' is dropped as a now-dangling connective and capitalization normalized; the span is contiguous to the paragraph's end."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.60 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum unus angelus naturali dilectione diligat alium sicut seipsum?",
+      "answer": "Unus angelus diligit alium naturali dilectione, inquantum convenit cum eo in natura.",
+      "derivation": "Question is the article 4 title (line 97). The Respondeo (lines 109-111) opens with preamble restating prior conclusions and the fire analogy; per the skip-preamble rule the answer's start is advanced to the concluding operative sentence 'Sic ergo dicendum est quod unus angelus diligit alium...' (line 111). The framing lead-in 'Sic ergo dicendum est quod' is dropped (it narrates the act of concluding) and capitalization normalized. Cut ends at the first full stop; what follows ('Sed inquantum convenit cum eo in aliquibus aliis...') is the qualifying counter-case."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.60 a.5",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus naturali dilectione diligat Deum plus quam seipsum?",
+      "answer": "Naturali dilectione etiam angelus et homo plus et principalius diligat Deum quam seipsum.",
+      "derivation": "Question is the article 5 title (line 121). The Respondeo (lines 137-139) opens by reporting and then refuting an opinion of others ('quidam dixerunt... Sed falsitas huius opinionis manifeste apparet...'); per the skip-preamble rule the answer's start is advanced to Aquinas's own operative conclusion in the final paragraph (line 139). The framing 'sequitur quod' is dropped and capitalization normalized; cut ends at the first full stop, before the conditional consequence 'Alioquin, si naturaliter plus seipsum diligeret...'."
+    }
+  ]
+}

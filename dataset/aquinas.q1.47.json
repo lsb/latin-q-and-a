@@ -1,0 +1,12 @@
+{
+  "source": "text/aquinas/q1.47.txt",
+  "pairs": [
+    {
+      "locus": "Ecclesiasticus 33,7-8 (quoted in Summa Theologiae Ia q.47 a.2 sed contra)",
+      "type": "direct-speech",
+      "question": "Quare dies diem superat, et iterum lux lucem, et annus annum, sol solem?",
+      "answer": "A Domini scientia separata sunt.",
+      "derivation": "From the 'Sed contra' of Article 2 (line 52), Aquinas quotes Eccli. 33,7-8 verbatim. It is a genuine direct interrogative (Quare...?) immediately followed by its own answer in the same scriptural quotation. The framing 'Sed contra est quod dicitur Eccli. 33,7-8:' is dropped as speech-tag/citation narration. Question ends at the '?'; answer is the full sentence 'A Domini scientia separata sunt.' which directly answers the why-question. Nothing interior was ellipted."
+    }
+  ]
+}

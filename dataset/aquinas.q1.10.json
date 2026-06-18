@@ -1,0 +1,33 @@
+{
+  "source": "text/aquinas/q1.10.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.10 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus sit aeternus?",
+      "answer": "Unde, cum Deus sit maxime immutabilis, sibi maxime competit esse aeternum.",
+      "derivation": "Question is the article-2 Utrum title (a real interrogative), answered by Aquinas in the Respondeo. The Respondeo opens with a non-answering general principle ('ratio aeternitatis consequitur immutabilitatem, sicut ratio temporis consequitur motum, ut ex dictis patet.'), so the answer start is advanced to the operative answering sentence beginning 'Unde, cum Deus...'. Cut at the first full stop; what follows ('Nec solum est aeternus, sed est sua aeternitas...') elaborates and is omitted."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.10 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum esse aeternum sit proprium Dei?",
+      "answer": "Aeternitas vere et proprie in solo Deo est.",
+      "derivation": "Question is the article-3 Utrum title, answered by Aquinas in the Respondeo. The first sentence of the Respondeo ('Respondeo dicendum quod aeternitas vere et proprie in solo Deo est.') directly and fully answers; framing 'Respondeo dicendum quod' is dropped as narration of the response and the first word capitalized. Cut at the first full stop; what follows ('Quia aeternitas immutabilitatem consequitur...') gives the supporting reasons and is omitted."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.10 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum aeternitas differat a tempore?",
+      "answer": "Manifestum est tempus et aeternitatem non esse idem.",
+      "derivation": "Question is the article-4 Utrum title, answered by Aquinas in the Respondeo. The first sentence of the Respondeo ('Respondeo dicendum quod manifestum est tempus et aeternitatem non esse idem.') directly answers (time and eternity are not the same, i.e. eternity does differ from time); framing 'Respondeo dicendum quod' dropped and first word capitalized. Cut at the first full stop; what follows ('Sed huius diversitatis rationem quidam assignaverunt...') discusses the basis of the difference and is omitted."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.10 a.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum sit unum aevum tantum?",
+      "answer": "Et quia secunda opinio verior est, ut infra ostendetur, concedimus ad presens unum esse aevum tantum.",
+      "derivation": "Question is the article-6 Utrum title, answered by Aquinas's concluding determination in the Respondeo. The Respondeo opens by laying out two opinions ('circa hoc est duplex opinio...') and argues at length without answering, so the answer start is advanced to Aquinas's operative determination, the final contiguous sentence 'Et quia secunda opinio verior est... concedimus ad presens unum esse aevum tantum.' (there is one aeviternity only). This is a single contiguous sentence, not stitched; the long intervening argument is omitted."
+    }
+  ]
+}

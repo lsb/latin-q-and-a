@@ -1,0 +1,40 @@
+{
+  "source": "text/horace/serm1.txt",
+  "pairs": [
+    {
+      "locus": "Horace, Sermones 1.9.4-5",
+      "type": "direct-speech",
+      "question": "Quid agis, dulcissime rerum?",
+      "answer": "Suaviter, ut nunc est, et cupio omnia quae vis.",
+      "derivation": "The bore grasps Horace's hand and asks how he is; Horace replies. Dropped the framing 'inquam' that interrupts the reply ('suaviter, ut nunc est,' inquam 'et cupio...'); the answer is the contiguous utterance with that speech-tag removed. Normalized capitalization of 'suaviter' and terminal punctuation."
+    },
+    {
+      "locus": "Horace, Sermones 1.9.16-18",
+      "type": "direct-speech",
+      "question": "Est tibi mater, cognati, quis te salvo est opus?",
+      "answer": "Haud mihi quisquam. Omnis conposui.",
+      "derivation": "Horace asks whether the bore has a mother or kin who need him alive (an opening to wish him dead); the bore answers no, he has buried them all. Answer ends at the full stop after 'conposui'; what follows ('felices. nunc ego resto...') is Horace's next turn, dropped. Normalized capitalization and punctuation."
+    },
+    {
+      "locus": "Horace, Sermones 1.9.33-34",
+      "type": "direct-speech",
+      "question": "Maecenas quomodo tecum?",
+      "answer": "Paucorum hominum et mentis bene sanae.",
+      "derivation": "The bore asks how Horace stands with Maecenas; Horace answers (describing Maecenas as a man of few intimates and sound mind). The answer is the first full reply; what follows ('nemo dexterius fortuna est usus...') is the bore resuming. Normalized capitalization and punctuation."
+    },
+    {
+      "locus": "Horace, Sermones 1.9.40-41",
+      "type": "direct-speech",
+      "question": "Dubius sum, quid faciam, tene relinquam an rem.",
+      "answer": "Me, sodes.",
+      "derivation": "The bore says he is unsure whether to leave Horace or his lawsuit; Horace answers 'me, please.' Dropped the framing 'inquit' that interrupts the bore's line ('quid faciam', inquit, 'tene relinquam an rem.'); kept the speaker's own words contiguous including the setup clause so 'tene...an rem' is intelligible. Normalized capitalization and punctuation."
+    },
+    {
+      "locus": "Horace, Sermones 1.9.69-72",
+      "type": "direct-speech",
+      "question": "Vin tu curtis Iudaeis oppedere?",
+      "answer": "Nulla mihi relligio est.",
+      "derivation": "Fuscus pleads the thirtieth sabbath and asks if Horace would affront the circumcised Jews; Horace answers that he has no such scruple. Dropped the framing 'inquam' interrupting the reply ('nulla mihi' inquam 'relligio est'); kept the utterance contiguous. Normalized capitalization and punctuation."
+    }
+  ]
+}

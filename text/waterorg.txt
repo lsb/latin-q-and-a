@@ -1,0 +1,17 @@
+The Hydraulicus (Water Organ)
+Described by Vitruvius circa A.D. 20
+Longitudinal Cross Section
+
+Compressed air (shown in green) is forced by the pump (A) into the air vessel (B). The piston (grey) is shown at the top of its stroke. The air vessel is nearly empty of water (blue) and the surrounding water chest (C) is nearly full. On the downstroke of the piston, water within the water chest flows into the air vessel from beneath, and continues to maintain air pressure within the vessel.[]
+
+Water can flow into and out of the air vessel because there are spaces between the blocks upon which it sits. On the upstroke of the piston, water is forced back up into the water chest, compressing the air at the top of the water chest (yellow), as well as in the air vessel. (These reservoirs of compressed air may exist for some little time, subject to leaks and to any key being played.) When the piston reaches the top of the cylinder, the pumping cycle is repeated. Valves on the cylinder prevent the escape of air.
+
+The pressure within the air vessel forces air into the wind chest (D), where other valves (shown in red) may be opened or closed by depressing the organ keys (not shown). The organ pipes (grey) are shown truncated. The valves slide in and out, perpendicular to the plane of this cross-section. There is a hole in each valve which permits air within the wind chest to escape into the corresponding pipe when the valve is open. The valve for pipe (E) is shown in the open position, releasing air into the pipe and causing it to produce a note, according to the musician's art.
+
+Another bank or banks of pipes, each with its own manual (i.e., keyboard) may be added to give the instrument additional voices or range. The configuration shown above is octochord (i.e., having eight pipes). A full modern octave comprised of twelve half-steps would require four more pipes in the bank.
+
+The sketch above is not to scale, and the breadth of the organ (about 185 cm or six feet) is based upon the size of present-day pipe organs.
+
+Top of Page
+Return to Vitruvius 10.8.1
+Index of Books One to Ten

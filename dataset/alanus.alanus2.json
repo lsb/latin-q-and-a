@@ -1,0 +1,19 @@
+{
+  "source": "text/alanus/alanus2.txt",
+  "pairs": [
+    {
+      "locus": "Alanus de Insulis, Anticlaudianus 9.190-195",
+      "type": "authorial-rhetorical",
+      "question": "Cur quaeris tibi concessum? Cur poscis inepte quod Natura parat, quod mors uicina minatur?",
+      "answer": "Vtere quae restat uita nec quaere propinquos anticipare dies.",
+      "derivation": "Within the iuuenis's single speech to Senectus (verse poem; stripped the speech tag 'Prodit in hec:' and the [149-209] line-number marker). The speaker poses real interrogatives ('Why do you seek for yourself what is granted? Why foolishly ask for what Nature is preparing, what nearby death threatens?') and answers them himself. Question: I take the two contiguous 'Cur...' interrogative sentences; I omit the preceding 'Cur fata paras... cui uiuere fatum?' line to keep the question tight on the operative 'why seek death' point. Answer: the operative imperative 'Vtere quae restat uita nec quaere propinquos anticipare dies' (ends at the semicolon/first full sense stop); I cut the trailing maxim 'uite compendia mortem solentur, mortis dispendia uita repenset' which elaborates rather than answers."
+    },
+    {
+      "locus": "Alanus de Insulis, Anticlaudianus 9.339-341",
+      "type": "authorial-rhetorical",
+      "question": "Vincere cur uictos temptas? Cur bella mouere quaeris in imbelles?",
+      "answer": "Satis est potuisse nec ultra nobilitas animi querit, nisi uincere posse.",
+      "derivation": "Within Fraus's flattering speech to the iuuenis (verse poem; stripped the [307-353] line-number marker and the narration 'Has ergo mouet illa preces... palliat artem:'). Fraus poses real interrogatives ('Why do you try to conquer the conquered? Why seek to wage war on the unwarlike?') and answers them herself in the same breath ('It is enough to have been able, and nobility of spirit seeks nothing beyond, except being able to win'). Question: the two contiguous 'cur...' interrogative sentences. Answer: the resolving statement immediately following, to its full stop (the speech ends there)."
+    }
+  ]
+}

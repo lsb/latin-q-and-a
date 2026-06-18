@@ -1,0 +1,26 @@
+{
+  "source": "text/aquinas/q1.81.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.81 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum sensualitas solum sit appetitiva?",
+      "answer": "Et sic sensualitas est nomen appetitus sensitivi.",
+      "derivation": "Article title 'Utrum sensualitas solum sit appetitiva' is the author's own posed question (capitalization kept, '?' added). The Respondeo opens with framing ('Respondeo dicendum quod') and a long derivation about the term 'sensualitas' deriving from 'sensualis motus'; that reasoning does not state the answer, so I advance the start to the operative concluding sentence 'Et sic sensualitas est nomen appetitus sensitivi' (the article's determination that sensuality IS only appetitive). What follows the cut is the 'Ad primum' replies to objections."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.81 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum appetitus sensitivus distinguatur in irascibilem et concupiscibilem, sicut in potentias diversas?",
+      "answer": "Appetitus sensitivus est una vis in genere, quae sensualitas dicitur; sed dividitur in duas potentias, quae sunt species appetitus sensitivi, scilicet in irascibilem et concupiscibilem.",
+      "derivation": "Article title is the author's posed question (capitalization kept, '?' added). Dropped the framing 'Respondeo dicendum quod' and normalized the next word's capitalization. Answer ends at the first full stop, which is also the operative direct answer (yes, it is divided into irascibilis and concupiscibilis). Cut before 'Ad cuius evidentiam...', which begins the supporting explanation/derivation."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.81 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum irascibilis et concupiscibilis obediant rationi?",
+      "answer": "Irascibilis et concupiscibilis obediunt superiori parti, in qua est intellectus sive ratio et voluntas, dupliciter: uno modo quidem, quantum ad rationem; alio vero modo, quantum ad voluntatem.",
+      "derivation": "Article title is the author's posed question (capitalization kept, '?' added). Dropped the framing 'Respondeo dicendum quod' and normalized the next word's capitalization. Answer ends at the first full stop (after 'voluntatem'), giving the direct answer (yes, they obey, in two ways). Cut before 'Rationi quidem obediunt...', which begins the detailed exposition of the two modes."
+    }
+  ]
+}

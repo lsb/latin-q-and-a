@@ -1,0 +1,12 @@
+{
+  "source": "text/ammianus/18.txt",
+  "pairs": [
+    {
+      "locus": "Ammianus 18.1.4",
+      "type": "direct-speech",
+      "question": "Ecquis, florentissime Caesar, nocens esse poterit usquam si negare sufficiet?",
+      "answer": "Ecquis innocens esse poterit si accusasse sufficiet?",
+      "derivation": "Direct-speech exchange before Julian's tribunal. Delphidius the orator asks the genuine interrogative (ecquis... poterit?); the speech tag 'exclamavit' is dropped from the question and the first word capitalized. Julian's reply is quoted with the interleaved speech tag 'ait' (which splits 'ecquis' from 'innocens...') removed, leaving his contiguous utterance, a directly answering counter-question. The trailing 'et haec quidem et huius modi multa civilia' is narration and excluded."
+    }
+  ]
+}

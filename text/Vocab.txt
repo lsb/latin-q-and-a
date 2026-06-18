@@ -1,0 +1,14 @@
+Latin 202 Vocabulary Tutorial
+For Cupid & Psyche
+
+  ------ ---------
+  Word   Meaning
+         
+  ------ ---------
+
+------------------------------------------------------------------------
+
+Special thanks to Bill Carey for creating this JavaScript exercise.
+
+Note: This is a beta version.
+If you discover a bug, please email carey@patriot.net

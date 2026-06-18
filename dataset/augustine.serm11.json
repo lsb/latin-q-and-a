@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/serm11.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 11 (De Helia et de patientia Iob)",
+      "type": "authorial-rhetorical",
+      "question": "Non poterat Helias de misericordia dei dare sibi quod lagunculae dedit?",
+      "answer": "Uidetis nempe, et manifestum est, quod aliquando serui dei ideo non habent, ut probentur qui habent.",
+      "derivation": "Augustine poses a rhetorical question (could Elijah not, by God's mercy, have given himself what he gave to the widow's jar?) and answers it himself. Answer window is the immediately following sentence, which directly states the point: God's servants sometimes lack so that those who have may be tested. Stopped at the first full stop; what follows ('et tamen illa uidua nihil habebat...') turns to elaborating the widow's poverty rather than answering. Square brackets in the source mark Scripture citations and contain author/edition words, not scaffolding numbers, so they are not present in this span."
+    }
+  ]
+}

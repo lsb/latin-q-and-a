@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/civ3.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 3.4",
+      "type": "authorial-rhetorical",
+      "question": "Itane tu ista credis?",
+      "answer": "Ego uero ista non credo.",
+      "derivation": "Imagined objector's question and Augustine's own answer (diatribe/subiectio). Dropped the framing 'Dixerit aliquis:' ('someone may say:') as narration of the asking. 'ista' refers to the divine-parentage stories just discussed in section 3 (Aeneas son of Venus, Romulus son of Mars); the answer reuses the same 'ista', so the tight pair is self-contained ('Do you then believe these things?' / 'I for my part do not believe them'). Answer is the first sentence of the reply; cut before 'Nam et uir doctissimus eorum Varro...', which begins an extended discussion of Varro and is elaboration, not a direct answer."
+    }
+  ]
+}

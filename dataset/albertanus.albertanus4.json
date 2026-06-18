@@ -1,0 +1,12 @@
+{
+  "source": "text/albertanus/albertanus4.txt",
+  "pairs": [
+    {
+      "locus": "Albertanus, De amore et dilectione, lib. IV, cap. I (De iustitia), Seneca quote",
+      "type": "authorial-rhetorical",
+      "question": "Sequitur autem ratio naturam. Quid est ergo ratio?",
+      "answer": "Nature imitatio.",
+      "derivation": "Within the Seneca quotation the author poses a self-answered question. Setup 'Sequitur autem ratio naturam' is kept verbatim so 'ratio' has a referent; the question is the interrogative 'Quid est ergo ratio?' The answer is the immediately following two-word reply 'Nature imitatio.', stopping at its full stop before the text turns to a new definition ('Aliter eciam diffinitur...'). Dropped the surrounding framing 'de qua Seneca in epistolis dixit'."
+    }
+  ]
+}

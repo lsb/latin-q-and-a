@@ -1,0 +1,33 @@
+{
+  "source": "text/aquinas/q1.83.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I q.83 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum homo sit liberi arbitrii?",
+      "answer": "Homo est liberi arbitrii: alioquin frustra essent consilia, exhortationes, praecepta, prohibitiones, praemia et poenae.",
+      "derivation": "Article heading is the author's own interrogative (utrum...). Answer is the operative first sentence of the Respondeo, with the framing 'Respondeo dicendum quod' dropped and the first word capitalized. Stops at the first full stop; what follows ('Ad cuius evidentiam, considerandum est...') is elaboration/argument, not the bare answer."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.83 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum liberum arbitrium sit potentia?",
+      "answer": "Unde impossibile est quod liberum arbitrium sit habitus. Relinquitur ergo quod sit potentia.",
+      "derivation": "Article heading is the author's interrogative. The Respondeo opens with a long preamble (whether it is a power, habit, or power-with-habit) that does not directly answer; the start is advanced to the operative concluding sentences. The penultimate sentence ('Unde impossibile est quod liberum arbitrium sit habitus.') is kept contiguously so the elliptical subject of 'sit potentia' is supplied. Ends at the final full stop of the Respondeo."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.83 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum liberum arbitrium sit potentia appetitiva?",
+      "answer": "Liberum arbitrium est appetitiva potentia.",
+      "derivation": "Article heading is the author's interrogative. The Respondeo opens with an extended argument (proprium liberi arbitrii est electio... Aristotle's discussion) that does not directly answer; the start is advanced to the operative concluding sentence, with the connective framing 'Et sic' dropped and the first word capitalized. This final clause is the direct affirmative answer."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.83 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum liberum arbitrium sit alia potentia a voluntate?",
+      "answer": "Voluntas et liberum arbitrium non sunt duae potentiae, sed una.",
+      "derivation": "Article heading is the author's interrogative. The Respondeo is a long demonstration (proportion of appetitive to apprehensive powers, will to reason) that does not directly answer until the end; the start is advanced to the concluding sentence, with the connective framing 'Et propter hoc' dropped and the first word capitalized. This is the direct (negative) answer to whether free will is a power other than the will."
+    }
+  ]
+}

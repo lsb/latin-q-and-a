@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/civ21.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 21.8",
+      "type": "authorial-rhetorical",
+      "question": "Omnia quippe portenta contra naturam dicimus esse; sed non sunt. Quo modo est enim contra naturam, quod Dei fit uoluntate, cum uoluntas tanti utique conditoris conditae rei cuiusque natura sit?",
+      "answer": "Portentum ergo fit non contra naturam, sed contra quam est nota natura.",
+      "derivation": "Authorial self-question with its own answer introduced by 'ergo'. Question span widened back one sentence to 'Omnia quippe portenta contra naturam dicimus esse; sed non sunt.' so 'contra naturam' has its referent (self-containment); both sentences are contiguous in the source. Answer is the single 'Portentum ergo...' sentence (to the first full stop), which directly resolves the question; cut before the following 'Quis autem portentorum numerat multitudinem...' which turns to a new rhetorical question/digression. No words altered; only terminal punctuation is the source's own."
+    }
+  ]
+}

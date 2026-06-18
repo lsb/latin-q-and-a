@@ -1,0 +1,12 @@
+{
+  "source": "text/ambrose/mysteriis.txt",
+  "pairs": [
+    {
+      "locus": "Ambrose, De Mysteriis 8",
+      "type": "authorial-rhetorical",
+      "question": "Quid vidisti?",
+      "answer": "Aquas utique, sed non solas: levitas illic ministrantes, summum sacerdotem interrogantem et consecrantem.",
+      "derivation": "Genuine authorial-rhetorical interrogative posed and immediately answered. Answer ends at the first full stop; what follows (\"Primo omnium docuit te Apostolus non ea contemplanda...\") turns from answering to a long scriptural digression and is cut. No framing words to strip; no editorial brackets present. The section marker \"8.\" was stripped."
+    }
+  ]
+}

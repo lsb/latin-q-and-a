@@ -1,0 +1,12 @@
+{
+  "source": "text/abbofloracensis.txt",
+  "pairs": [
+    {
+      "locus": "Abbo Floriacensis, Passio S. Edmundi 13",
+      "type": "direct-speech",
+      "question": "Ubi es?",
+      "answer": "Hic, hic, hic!",
+      "derivation": "Search party calls out 'Ubi es?' and the severed head answers, locating itself. Framing dropped: 'ad voces se invicem cohortantium et utpote socii ad socium alternatim clamantium' before the question, and 'illud respondebat designando locum patria lingua dicens' before the answer. The head's literal utterance is 'Her, her, her!' in the vernacular; the author supplies its Latin equivalent ('quod interpretatum Latinus sermo exprimit'), so the answer is given as the Latin words 'Hic, hic, hic!'. Stopped before the following narration 'Nec umquam eadem repetendo clamare destitit...'."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "source": "text/aquinas/q1.14.txt",
+  "pairs": [
+    {
+      "locus": "Summa Theologiae Ia q.14 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in Deo sit scientia?",
+      "answer": "In Deo perfectissime est scientia.",
+      "derivation": "Article-level quaestio: the 'Utrum...' topic is the genuine (indirect) question, answered by the determination opening 'Respondeo dicendum quod...'. Dropped the 'Respondeo dicendum quod' framing; took the operative answering clause through its first full stop. Normalized capitalization of 'In' and added '?' to the question."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus intelligat se?",
+      "answer": "Deus se per seipsum intelligit.",
+      "derivation": "Dropped 'Respondeo dicendum quod' framing; the first sentence of the determination directly answers and stops at the first full stop (the following 'Ad cuius evidentiam...' begins the elaboration). Added '?' to the question."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus comprehendat seipsum?",
+      "answer": "Deus perfecte comprehendit seipsum.",
+      "derivation": "Dropped 'Respondeo dicendum quod' framing; took the answering sentence to its first full stop ('Quod sic patet.' begins the proof and is omitted). Added '?'."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum ipsum intelligere Dei sit eius substantia?",
+      "answer": "Est necesse dicere quod intelligere Dei est eius substantia.",
+      "derivation": "Dropped only the 'Respondeo dicendum quod' framing; the operative answering clause is 'est necesse dicere quod intelligere Dei est eius substantia' (contiguous, the author's own words). Capitalized 'Est' and added '?'. The proof ('Nam si...') follows and is cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.5",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus cognoscat alia a se?",
+      "answer": "Necesse est Deum cognoscere alia a se.",
+      "derivation": "Dropped 'Respondeo dicendum quod' framing; first answering sentence to its full stop ('Manifestum est enim...' begins the demonstration and is cut). Capitalized 'Necesse', added '?'."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus cognoscat alia a se propria cognitione?",
+      "answer": "Oportet igitur dicere quod alia a se cognoscat propria cognitione; non solum secundum quod communicant in ratione entis, sed secundum quod unum ab alio distinguitur.",
+      "derivation": "The determination opens with a non-answering preamble reporting an erroneous opinion ('Respondeo dicendum quod circa hoc quidam erraverunt... omnia alia inquantum sunt entia') and its refutation ('Sed hoc non potest esse... ut patet in I Physic.'). Advanced the answer start to the operative sentence 'Oportet igitur dicere quod...', the contiguous span that genuinely answers; cut before 'Et ad huius evidentiam...' which begins further elaboration. Added '?' to question."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.7",
+      "type": "authorial-rhetorical",
+      "question": "Utrum scientia Dei sit discursiva?",
+      "answer": "In scientia divina nullus est discursus.",
+      "derivation": "Dropped 'Respondeo dicendum quod' framing; first answering sentence to full stop ('Quod sic patet.' begins the proof and is cut). Capitalized 'In', added '?'."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.8",
+      "type": "authorial-rhetorical",
+      "question": "Utrum scientia Dei sit causa rerum?",
+      "answer": "Scientia Dei est causa rerum.",
+      "derivation": "Dropped 'Respondeo dicendum quod' framing; first answering sentence to full stop ('Sic enim scientia Dei se habet...' begins the explanation and is cut). Capitalized 'Scientia', added '?'."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.9",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus habeat scientiam non entium?",
+      "answer": "Et pro tanto dici potest quod habet etiam non entium scientiam.",
+      "derivation": "The determination opens with the general principle 'Deus scit omnia quaecumque sunt quocumque modo' and works through the sense in which non-beings 'are' in potency; the sentence that directly answers the question about non-entia is 'Et pro tanto dici potest quod habet etiam non entium scientiam', a contiguous span in the author's own words. Took that sentence; the diversity-distinction discussion ('Sed horum quae actu non sunt...') follows and is cut. Added '?'."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.10",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus cognoscat mala?",
+      "answer": "Unde Deus non perfecte cognosceret bona, nisi etiam cognosceret mala.",
+      "derivation": "The determination opens with a non-answering general premise ('quicumque perfecte cognoscit aliquid, oportet quod cognoscat omnia quae possunt illi accidere. Sunt autem quaedam bona...'). Advanced the answer start to the operative 'Unde Deus non perfecte cognosceret bona, nisi etiam cognosceret mala.' which genuinely answers; the further 'Sic autem est cognoscibile...' is cut. Added '?'."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.11",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus cognoscat singularia?",
+      "answer": "Deus cognoscit singularia.",
+      "derivation": "Dropped 'Respondeo dicendum quod' framing; first answering sentence to full stop ('Omnes enim perfectiones...' begins the demonstration and is cut). Capitalized 'Deus', added '?'."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.12",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus possit cognoscere infinita?",
+      "answer": "Cum Deus sciat non solum ea quae sunt actu, sed etiam ea quae sunt in potentia vel sua vel creaturae, ut ostensum est; haec autem constat esse infinita; necesse est dicere quod Deus sciat infinita.",
+      "derivation": "Dropped 'Respondeo dicendum quod,' framing; the answer is the determination's first sentence (to its first full stop), whose concluding clause 'necesse est dicere quod Deus sciat infinita' answers and whose preceding clauses are inseparable premises within the same sentence (no interior ellipsis possible). Capitalized 'Cum', added '?' to question. The next sentence ('Et licet scientia visionis...') is cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.13",
+      "type": "authorial-rhetorical",
+      "question": "Utrum scientia Dei sit futurorum contingentium?",
+      "answer": "Cum supra ostensum sit quod Deus sciat omnia non solum quae actu sunt, sed etiam quae sunt in potentia sua vel creaturae; horum autem quaedam sunt contingentia nobis futura; sequitur quod Deus contingentia futura cognoscat.",
+      "derivation": "Dropped 'Respondeo dicendum quod,' framing; answer is the determination's first sentence to its full stop, concluding 'sequitur quod Deus contingentia futura cognoscat'; the premise clauses are inseparable within the one sentence. Capitalized 'Cum', added '?'. 'Ad cuius evidentiam...' is cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.14",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus cognoscat enuntiabilia?",
+      "answer": "Cum formare enuntiabilia sit in potestate intellectus nostri; Deus autem scit quidquid est in potentia sua vel creaturae, ut supra dictum est; necesse est quod Deus sciat omnia enuntiabilia quae formari possunt.",
+      "derivation": "Dropped 'Respondeo dicendum quod,' framing; answer is the determination's first sentence to its full stop, concluding 'necesse est quod Deus sciat omnia enuntiabilia quae formari possunt'. Capitalized 'Cum', added '?'. The qualification 'Sed, sicut scit materialia...' is cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.15",
+      "type": "authorial-rhetorical",
+      "question": "Utrum scientia Dei sit variabilis?",
+      "answer": "Cum scientia Dei sit eius substantia, ut ex dictis patet; sicut substantia eius est omnino immutabilis, ut supra ostensum est, ita oportet scientiam eius omnino invariabilem esse.",
+      "derivation": "Dropped 'Respondeo dicendum quod,' framing; the determination is a single sentence whose concluding clause 'ita oportet scientiam eius omnino invariabilem esse' answers (knowledge is invariable, i.e. not variable). Capitalized 'Cum', added '?' to question."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.14 a.16",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus de rebus habeat scientiam speculativam?",
+      "answer": "Deus de seipso habet scientiam speculativam tantum: ipse enim operabilis non est. De omnibus vero aliis habet scientiam et speculativam et practicam.",
+      "derivation": "The determination opens with a non-answering taxonomy of how a science may be called speculative ('aliqua scientia est speculativa tantum... Cum vero ordinatur ad finem operationis, est simpliciter practica'). Advanced the answer start past the 'Secundum hoc ergo, dicendum est quod' framing to the operative answering span 'Deus de seipso habet scientiam speculativam tantum... habet scientiam et speculativam et practicam.', which directly answers; cut before 'Speculativam quidem, quantum ad modum...'. Added '?' to question."
+    }
+  ]
+}

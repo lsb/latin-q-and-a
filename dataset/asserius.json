@@ -1,0 +1,19 @@
+{
+  "source": "text/asserius.txt",
+  "pairs": [
+    {
+      "locus": "Asser, De Rebus Gestis Aelfredi 23",
+      "type": "direct-speech",
+      "question": "Quisquis vestrum discere citius istum codicem possit, dabo illi illum. Verene dabis istum librum uni ex nobis, scilicet illi, qui citissime intelligere et recitare eum ante te possit?",
+      "answer": "Dabo illi.",
+      "derivation": "Alfred's mother shows the book and offers it (declarative: 'Quisquis vestrum discere citius istum codicem possit, dabo illi illum.'), kept as verbatim setup so 'istum librum' has a referent. The real interrogative is Alfred's reply 'Verene dabis istum librum...?'; the narration framing 'ita matri respondens... inquit' is dropped. The answer drops the framing 'Ad haec illa, arridens et gaudens atque affirmans' and 'infit', leaving the contiguous utterance 'Dabo... illi' -> 'Dabo illi.'; what follows ('Tunc ille statim tollens librum...') is narration, not part of the answer."
+    },
+    {
+      "locus": "Asser, De Rebus Gestis Aelfredi 88",
+      "type": "direct-speech",
+      "question": "Placetne tibi, quod illud testimonium in aliqua foliuncula segregatim scribam?",
+      "answer": "Ratum esse consilium.",
+      "derivation": "Asser asks the king a real yes/no interrogative ('placetne tibi...?'); the framing 'inquam' before it is dropped and the first word capitalized. The rest of Asser's speech ('Incognitum est enim... segregasse gaudebimus.') is supporting rationale, not part of the question, so it is excluded. The king's answer drops the framing 'Quod ille audiens' and 'inquit', leaving the quoted reply 'ratum esse consilium' -> 'Ratum esse consilium.'; what follows ('Quod ego audiens et gaudens festinus quaternionem...') is narration."
+    }
+  ]
+}

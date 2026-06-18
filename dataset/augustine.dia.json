@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/dia.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Dialectica VI",
+      "type": "direct-speech",
+      "question": "Quare 'via' dicta est?",
+      "answer": "A flexu, quod flexum velut incurvum 'vietum' veteres dixerunt, unde 'vietos' etiam quae cantho ambiantur rotarum ligna vocant.",
+      "derivation": "Real direct interrogative answered explicitly. Dropped the asking-narration framing 'Quaerit ergo a me quispiam quare...' (kept the interrogative content 'quare via dicta est?') and the answer speech-tag 'respondeo:'. Answer runs to the first full stop ('...vocant.'); what follows is a new exchange ('Persequitur quaerere, unde vietum flexum dicatur...'), a separate question, so it is cut there. Normalized capitalization of 'Quare' and 'A flexu'."
+    }
+  ]
+}

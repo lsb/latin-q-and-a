@@ -1,0 +1,26 @@
+{
+  "source": "text/aquinas/q1.8.txt",
+  "pairs": [
+    {
+      "locus": "Summa Theologiae Ia q.8 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus sit in omnibus rebus?",
+      "answer": "Deus est in omnibus rebus, non quidem sicut pars essentiae, vel sicut accidens, sed sicut agens adest ei in quod agit.",
+      "derivation": "Question is the article's own 'Utrum...' interrogative heading. Answer is the operative first sentence of the Respondeo, dropping the framing 'Respondeo dicendum quod' and ending at the first full stop ('...in quod agit.'); what follows ('Oportet enim omne agens coniungi...') elaborates the reason, so it is cut. Directly affirms God is in all things."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.8 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus sit ubique?",
+      "answer": "Utroque autem modo, secundum aliquid, Deus est in omni loco, quod est esse ubique.",
+      "derivation": "Question is the article's 'Utrum...' interrogative heading. The Respondeo opens with a non-answering preamble distinguishing two senses of being in a place ('cum locus sit res quaedam... locata sunt in loco'); that preamble is skipped and the answer's start advanced to the operative affirming sentence 'Utroque autem modo... quod est esse ubique.' What follows ('Primo quidem, sicut est in omnibus rebus...') elaborates each mode, so it is cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.8 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum esse ubique sit proprium Dei?",
+      "answer": "Esse ubique primo et per se, est proprium Dei.",
+      "derivation": "Question is the article's 'Utrum...' interrogative heading. Answer is the operative first sentence of the Respondeo, dropping the framing 'Respondeo dicendum quod' and ending at the first full stop; what follows ('Dico autem esse ubique primo...') defines the terms, so it is cut. Directly affirms that being everywhere is proper to God."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "source": "text/alfonsi.disciplina.txt",
+  "pairs": [
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De ypocrisi (Socrates and a disciple)",
+      "type": "direct-speech",
+      "question": "Estne aliud genus ypocrisis, unde homini cavendum sit?",
+      "answer": "Est homo qui in aperto et in occulto obedire se Deo ostendit, ut sanctus ab hominibus habeatur et ab eis ideo plus honoretur.",
+      "derivation": "A disciple poses a genuine interrogative (Estne... ?) and Socrates answers it. Dropped the framing 'Dicit ei unus ex discipulis:' before the question and 'Dicit Socrates:' before the answer. Stripped the scaffolding section marker '[p. 3]' that fell mid-sentence in the answer (habeatur [p. 3] et ab eis). The answer ends at its first full stop ('...plus honoretur.'); what follows ('Est alius isto subtilior...') describes a further, subtler kind and is elaboration beyond the direct yes-and-here-it-is answer, so it was cut."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, I. Exemplum de dimidio amico (father and son)",
+      "type": "direct-speech",
+      "question": "Quomodo probare consulis?",
+      "answer": "Vitulum interfectum et frustatim comminutum in sacco repone, ita ut saccus forinsecus sanguine infectus sit.",
+      "derivation": "The son asks a real interrogative (Quomodo... ?) about how to test his friends, and the father answers with the concrete method. Dropped the framing 'Dixit filius:' and 'Dixit pater:'. The answer ends at its first full stop; what follows ('Et cum ad amicum veneris, dic ei...') continues the instructions and was cut."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, I. Exemplum de dimidio amico (son and father)",
+      "type": "direct-speech",
+      "question": "Vidisti hominem qui integrum sibi amicum lucratus fuerit?",
+      "answer": "Non vidi quidem, sed audivi.",
+      "derivation": "The son asks a genuine interrogative (Vidisti... ?) and the father answers directly. Dropped the framing 'Dixit filius ad patrem:' and 'Tunc pater:'. The answer is the father's complete reply (one sentence to its full stop); nothing was trimmed."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De sapientia (father and son)",
+      "type": "direct-speech",
+      "question": "Quid malles tibi dari, an censum an sapientiam?",
+      "answer": "Horum quodlibet alio indiget.",
+      "derivation": "A genuine interrogative (Quid malles... an... an... ?) answered by the son. Dropped the framing 'Quidam loquens filio inquit:' and 'Cui filius:'. The answer is the son's complete one-sentence reply; nothing trimmed."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De silentio (disciple and master)",
+      "type": "direct-speech",
+      "question": "Quomodo habendo me inter sapientes discipulos computabor?",
+      "answer": "Serva silentium, donec sit tibi loqui necessarium.",
+      "derivation": "The disciple asks a real interrogative (Quomodo... computabor?) and the master answers directly. Dropped the framing 'Discipulus magistro:' and 'Magister:'. The answer ends at its first full stop; what follows ('Ait enim philosophus: Silentium est signum sapientiae...') is the master's supporting citation and was cut."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De divitiis (disciple and master)",
+      "type": "direct-speech",
+      "question": "Laudas congregare pecuniam?",
+      "answer": "Ita! Acquire, sed iuste et in bono dispende nec in thesauro reconde.",
+      "derivation": "A genuine interrogative (Laudas... ?) directly answered. Dropped the framing 'Dispiculus magistro:' and 'Magister:'. The whole short reply is the answer (the emphatic 'Ita!' plus the qualification); nothing trimmed."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De benefacto (disciple and master)",
+      "type": "direct-speech",
+      "question": "Prohibuit philosophus benefactum denegare; sed non divisit benefactum creatoris vel creaturae?",
+      "answer": "Dico tibi quod ille qui denegat benefactum, denegat Deum; et ille qui non obedit regi vel rectori, est inobediens Deo.",
+      "derivation": "The disciple poses a real interrogative (sed non divisit... ?) and the master answers it. Kept the disciple's leading clause ('Prohibuit philosophus benefactum denegare;') as verbatim setup so the question's referent is intelligible. Dropped the framing 'Interrogavit discipulus magistrum suum:' and 'Ad haec magister:'. The answer ends at its first full stop; what follows ('Discipulus: Ostende mihi rationem...') is a fresh request and was cut."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De modo comedendi (son and father)",
+      "type": "direct-speech",
+      "question": "O pater, quare oblitus es dicere quomodo debet homo comedere coram rege?",
+      "answer": "Non oblitus fui dicere, quia nulla differentia est inter comedere coram rege et alibi.",
+      "derivation": "A genuine interrogative (quare... ?) answered directly. Dropped the framing 'Filius:' and 'Pater:'. The answer is the father's complete one-sentence reply; nothing trimmed."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De modo comedendi (son and father, on accepting an invitation)",
+      "type": "direct-speech",
+      "question": "Si quis invitaverit me ad prandium, quomodo respondebo: concedam statim annon?",
+      "answer": "Fac sicut auctoritas Iudaeorum praecipit!",
+      "derivation": "A real interrogative (quomodo respondebo... annon?) answered by the father. Dropped the framing 'Filius:' and 'Pater:'. The answer ends at its first full stop; what follows ('Dicit enim: Si quis invitaverit te, videas personam invitantis...') unpacks the rule and was cut."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De modo comedendi (young man and old man, on how much to eat)",
+      "type": "direct-speech",
+      "question": "Cum invitatus fuero ad prandium, quid faciam: parum vel nimis comedam?",
+      "answer": "Nimis!",
+      "derivation": "A genuine interrogative (quid faciam... ?) answered by the old man with a single emphatic word. Dropped the framing 'Iuvenis senem interrogavit:' and 'Cui senex:'. The answer is the operative reply; the justification that follows ('Quoniam si amicus tuus fuerit...') is reasoning and was cut."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De familiaritate regis / domus delitiarum (Arab son and father)",
+      "type": "direct-speech",
+      "question": "Quomodo domum delitiarum et gloriam eius lucrari potero?",
+      "answer": "Quicquid melius et pretiosius habes, repone in ea custodiendum, et invenies cum illuc veneris tibi paratum.",
+      "derivation": "A real interrogative (Quomodo... potero?) answered directly. Dropped the framing 'Arabs interrogavit patrem:' and 'Pater:'. The answer is the father's complete one-sentence reply; nothing trimmed."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De vitae termino (disciple and master)",
+      "type": "direct-speech",
+      "question": "Cum saecularia ita sint exilia, cur praeparamus tanta quasi durabilia?",
+      "answer": "Quoniam vitae terminus est incertus.",
+      "derivation": "A genuine interrogative (cur... ?) answered directly. Dropped the framing 'Item discipulus magistro:' and 'Magister:'. The answer ends at its first full stop; what follows ('Et philosophus ait: Operare pro futuro saeculo...') is a supporting citation and was cut."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De morte (son and father)",
+      "type": "direct-speech",
+      "question": "Mortis nexus aliquo modo fugere poterimus?",
+      "answer": "Minime, quia illius incurabilis est morsus, nec medicis artibus eius avaras fugiemus manus.",
+      "derivation": "A real interrogative (fugere poterimus?) answered directly. Dropped the framing 'Item filius:' and 'Pater:'. The answer is the father's complete one-sentence reply; nothing trimmed."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De morte (son and father, on enduring death)",
+      "type": "direct-speech",
+      "question": "Quomodo ergo ne nimis laedat sustinebimus?",
+      "answer": "Fac sicut dicit versificator quidam: Quod vitare nequis constanti sustine mente! Sic quae dura fuit mors tibi mitis erit.",
+      "derivation": "A genuine interrogative (Quomodo... sustinebimus?) answered by the father, who replies by quoting a versifier. Dropped the framing 'Filius:' and 'Pater:'. Kept the answer through the quoted couplet, which is the substance of the reply; the inline two-line verse is the author's own text. Nothing trimmed internally."
+    },
+    {
+      "locus": "Petrus Alfonsi, Disciplina Clericalis, De aliis heremitarum dictis (hermit and master)",
+      "type": "direct-speech",
+      "question": "Quid faciam in hoc saeculo, quod me praecedat in alio?",
+      "answer": "Fac quod est bonum in genere tuo.",
+      "derivation": "A real interrogative (Quid faciam... ?) answered directly. Dropped the framing 'Heremita quidam quaesivit a quodam magistro:' and 'Respondit magister:'. The answer is the master's complete one-sentence reply; nothing trimmed."
+    }
+  ]
+}

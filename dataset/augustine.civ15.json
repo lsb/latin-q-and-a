@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/civ15.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 15.7",
+      "type": "authorial-rhetorical",
+      "question": "Et tu dominaberis illius. Numquid fratris?",
+      "answer": "Absit.",
+      "derivation": "Augustine quotes the divine words to Cain (ad te enim conuersio eius, et tu dominaberis illius) and then poses his own rhetorical question about the referent of illius: Numquid fratris? answered immediately by Absit. The setup 'Et tu dominaberis illius' is kept verbatim so 'fratris' has a referent. The answer stops at the full stop Absit.; what follows (Cuius igitur, nisi peccati?) is a further rhetorical question, not part of this answer."
+    },
+    {
+      "locus": "Augustine, De Civitate Dei 15.20",
+      "type": "authorial-rhetorical",
+      "question": "Si hoc intendebat scriptor huius historiae in commemorandis generationibus, ex Adam per filium eius Seth, ut per illas perueniret ad Noe, sub quo factum est diluuium, a quo rursus contexeretur ordo nascentium, quo perueniret ad Abraham, a quo Matthaeus, euangelista incipit generationes, quibus ad Christum peruenit aeternum regem ciuitatis Dei: quid intendebat in generationibus ex Cain et quo eas perducere uolebat?",
+      "answer": "Vsque ad diluuium, quo totum illud genus terrenae ciuitatis absumptum est, sed reparatum est ex filiis Noe.",
+      "derivation": "Augustine raises an objection framed by 'Dicet aliquis:' (dropped as framing) and answers it under 'Respondetur:' (dropped as framing). The whole objection is one extended question ending in 'quo eas perducere uolebat?' and is quoted contiguously as the question. The answer is the first answering sentence directly responding to 'quo eas perducere uolebat' (up to the flood); it stops at the full stop, before the following elaboration beginning 'Neque enim deesse poterit...'."
+    }
+  ]
+}

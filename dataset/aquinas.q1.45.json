@@ -1,0 +1,61 @@
+{
+  "source": "text/aquinas/q1.45.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum creare sit ex nihilo aliquid facere?",
+      "answer": "Sicut igitur generatio hominis est ex non ente quod est non homo, ita creatio, quae est emanatio totius esse, est ex non ente quod est nihil.",
+      "derivation": "The article title 'Utrum creare sit ex nihilo aliquid facere' is the interrogative; the Respondeo answers it. I cut the framing 'Respondeo dicendum quod' and the long preamble distinguishing particular vs. universal emanation, advancing the answer's start to the operative concluding sentence ('Sicut igitur generatio hominis...') which directly states what creation is (out of non-being which is nothing). That sentence is the final sentence of the Respondeo, ending it."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus possit aliquid creare?",
+      "answer": "Non solum non est impossibile a Deo aliquid creari, sed necesse est ponere a Deo omnia creata esse, ut ex praemissis habetur.",
+      "derivation": "Title 'Utrum Deus possit aliquid creare' is the interrogative. Dropped the framing 'Respondeo dicendum quod'; the very first operative sentence directly answers (it is not impossible, indeed necessary). Cut before 'Quicumque enim facit aliquid ex aliquo...' which begins the supporting argument/elaboration."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum creatio sit aliquid in creatura?",
+      "answer": "Creatio ponit aliquid in creato secundum relationem tantum.",
+      "derivation": "Title 'Utrum creatio sit aliquid in creatura' is the interrogative. Dropped framing 'Respondeo dicendum quod'; the first sentence is the direct answer (creation places something in the created thing only by way of relation). Cut before 'Quia quod creatur, non fit per motum...' which begins the justification."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum creari sit proprium compositorum et subsistentium?",
+      "answer": "Proprie vero creata sunt subsistentia.",
+      "derivation": "Title 'Utrum creari sit proprium compositorum et subsistentium' is the interrogative. The Respondeo opens with a preamble ('creari est quoddam fieri... Fieri autem ordinatur ad esse rei') and a long development about which things have esse, which does not yet answer; I advanced the answer's start to the final concluding sentence 'Proprie vero creata sunt subsistentia' (properly, subsistent things are what is created), which directly answers and ends the Respondeo."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.5",
+      "type": "authorial-rhetorical",
+      "question": "Utrum solius Dei sit creare?",
+      "answer": "Satis apparet in primo aspectu, secundum praemissa, quod creare non potest esse propria actio nisi solius Dei.",
+      "derivation": "Title 'Utrum solius Dei sit creare' is the interrogative. Dropped framing 'Respondeo dicendum quod'; the first sentence directly answers (to create can be the proper action of God alone). Cut before 'Oportet enim universaliores effectus...' which begins the demonstration. Capitalized the now-first word 'Satis'."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum creare sit proprium alicuius Personae?",
+      "answer": "Unde creare non est proprium alicui Personae, sed commune toti Trinitati.",
+      "derivation": "Title 'Utrum creare sit proprium alicuius Personae' is the interrogative. The Respondeo opens with a preamble defining creating and arguing from agent-likeness ('creare est proprie causare... ignis enim est qui generat ignem. Et ideo creare convenit Deo secundum suum esse...') before reaching the answer; I advanced the start to the concluding 'Unde creare non est proprium alicui Personae, sed commune toti Trinitati', which directly answers (creating is not proper to any one Person but common to the whole Trinity). Kept 'Unde' as it is the author's word beginning this sentence; cut after this sentence, before the further 'Sed tamen...' qualification."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.7",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in creaturis sit necesse inveniri vestigium Trinitatis?",
+      "answer": "Omnis effectus aliqualiter repraesentat suam causam, sed diversimode.",
+      "derivation": "Title 'Utrum in creaturis sit necesse inveniri vestigium Trinitatis' is the interrogative. Dropped framing 'Respondeo dicendum quod'; the first operative principle ('every effect somehow represents its cause, but in diverse ways') opens the answer and is the contiguous sentence that grounds the determination that a vestige of the Trinity is found in creatures. Cut before 'Nam aliquis effectus repraesentat solam causalitatem...' which begins the detailed distinction of vestigium vs. imago. Capitalized the now-first word 'Omnis'."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.45 a.8",
+      "type": "authorial-rhetorical",
+      "question": "Utrum creatio admisceatur in operibus naturae et artis?",
+      "answer": "Unde in operibus naturae non admiscetur creatio: sed praesupponitur ad operationem naturae.",
+      "derivation": "Title 'Utrum creatio admisceatur in operibus naturae et artis' is the interrogative. The Respondeo opens with a long preamble surveying erroneous opinions (latitatio formarum, forms caused by a separate agent) before reaching the determination; I advanced the start to the concluding 'Unde in operibus naturae non admiscetur creatio: sed praesupponitur ad operationem naturae' (creation is not mixed into the works of nature but presupposed), which directly answers and ends the Respondeo."
+    }
+  ]
+}

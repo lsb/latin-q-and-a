@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/serm14.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 14",
+      "type": "authorial-rhetorical",
+      "question": "Quid est, in sinum eorum?",
+      "answer": "In secreta eorum.",
+      "derivation": "Augustine poses and answers his own exegetical question about the phrase 'in sinum eorum'. The scriptural phrase is in editorial brackets in the source; brackets stripped, words kept. The 'inquit'-free question and its one-clause answer stand contiguous; the parallel 'quid est, redde in sinum eorum? torque conscientiam eorum.' follows and is a separate exchange, not included."
+    },
+    {
+      "locus": "Augustine, Sermo 14",
+      "type": "direct-speech",
+      "question": "Quid attendo?",
+      "answer": "Lege scripturas et inuenies quod dico.",
+      "derivation": "The imagined poor man interjects asking what he should notice; Augustine answers. The speech tag 'inquit' (in 'quid inquit attendo?') is dropped as framing; first word capitalized, question mark normalized. Answer ends at the first full stop ('quod dico.'); 'Lazarus pauper fuit...' follows as elaboration and is cut."
+    },
+    {
+      "locus": "Augustine, Sermo 14",
+      "type": "authorial-rhetorical",
+      "question": "Qui sunt isti qui a fide pererrauerunt, et inseruerunt se doloribus multis?",
+      "answer": "Qui uolunt diuites fieri.",
+      "derivation": "Augustine quotes 1 Tim 6 then asks who these people are and answers himself. Editorial brackets around the scriptural phrases stripped, words kept. Question and answer are contiguous; 'modo mihi respondeat ille pannosus...' follows and is cut."
+    },
+    {
+      "locus": "Augustine, Sermo 14",
+      "type": "authorial-rhetorical",
+      "question": "Quae est eius oratio?",
+      "answer": "Quoniam pater meus et mater mea dereliquerunt me.",
+      "derivation": "Augustine asks what the orphan's prayer is and answers by quoting it (Ps 26:10). Editorial brackets stripped. Answer taken to the first full stop; the subsequent restatement 'pater, inquit, meus et mater mea dereliquerunt me; dominus autem adsumpsit me' (with interior 'inquit' framing and repetition) is cut."
+    }
+  ]
+}

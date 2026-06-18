@@ -1,0 +1,47 @@
+{
+  "source": "text/aquinas/q1.42.txt",
+  "pairs": [
+    {
+      "locus": "Summa Theologiae Ia q.42 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum aequalitas locum habeat in divinis?",
+      "answer": "Necesse est ponere aequalitatem in divinis personis.",
+      "derivation": "Question is the article title (Utrum...), a genuine indirect interrogative posed by the author. Answer is the operative thesis of the Respondeo; dropped the framing 'Respondeo dicendum quod', kept the answering clause and stopped at its first full stop. What follows ('Quia secundum Philosophum...') is the supporting argument, cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.42 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum persona procedens sit coaeterna suo principio, ut Filius Patri?",
+      "answer": "Necesse est dicere Filium esse coaeternum Patri.",
+      "derivation": "Article-title interrogative + Respondeo thesis. Dropped 'Respondeo dicendum quod'; stopped at the first full stop. What follows ('Ad cuius evidentiam, considerandum est...') is the explanatory development, cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.42 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in divinis personis sit ordo naturae?",
+      "answer": "Oportet ibi esse ordinem secundum originem, absque prioritate.",
+      "derivation": "Article-title interrogative. The Respondeo opens with a non-answering definitional preamble ('ordo semper dicitur per comparationem ad aliquod principium... ita etiam dicitur ordo. In divinis autem dicitur principium secundum originem, absque prioritate'), which does not yet answer whether there is an order of nature. Advanced the answer start to the operative answering sentence 'Unde oportet ibi esse ordinem...'; dropped the inferential connective 'Unde' and normalized capitalization; stopped at the first full stop. What follows ('Et hic vocatur ordo naturae...') elaborates, cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.42 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Filius sit aequalis Patri secundum magnitudinem?",
+      "answer": "Necesse est dicere Filium esse aequalem Patri in magnitudine.",
+      "derivation": "Article-title interrogative + Respondeo thesis. Dropped 'Respondeo dicendum quod'; stopped at the first full stop. What follows ('Magnitudo enim Dei...') is the justification, cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.42 a.5",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Filius sit in Patre, et e converso?",
+      "answer": "In Patre et Filio tria est considerare, scilicet essentiam, relationem et originem; et secundum quodlibet historum Filius est in Patre, et e converso.",
+      "derivation": "Article-title interrogative + Respondeo thesis. Dropped 'Respondeo dicendum quod'; kept the whole first sentence to its first full stop, since the operative answer ('Filius est in Patre, et e converso') sits after the internal semicolon and the window ends at the full stop, not the semicolon. 'historum' retained verbatim (source spelling). What follows ('Secundum essentiam enim Pater est in Filio...') develops each of the three respects, cut."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.42 a.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Filius sit aequalis Patri secundum potentiam?",
+      "answer": "Necesse est dicere quod Filius est aequalis Patri in potestate.",
+      "derivation": "Article-title interrogative + Respondeo thesis. Dropped 'Respondeo dicendum quod'; stopped at the first full stop. What follows ('Potentia enim agendi...') is the supporting argument, cut."
+    }
+  ]
+}

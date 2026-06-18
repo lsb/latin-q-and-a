@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/serm2.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 2 (De Abraham)",
+      "type": "authorial-rhetorical",
+      "question": "Sed si placet qui obtemperabat, quomodo displicet qui iubebat?",
+      "answer": "Quia si Abraham bene fecit obtemperando, multo melius, et longe melius incomparabili modo deus iubendo.",
+      "derivation": "Real interrogative (quomodo) posed and answered by Augustine. The setup clause 'sed si placet qui obtemperabat' is kept because it supplies the contrast (obeyer vs. commander) that the question turns on. Answer ends at the first full stop ('deus iubendo.'); the following sentence ('fortasse sacramentum quaeratur') turns to a new topic and is cut."
+    },
+    {
+      "locus": "Augustine, Sermo 2 (De Abraham)",
+      "type": "authorial-rhetorical",
+      "question": "Sic ergo ignarus est deus rerum, sic nescius cordis humani, ut temptando hominem inueniat?",
+      "answer": "Absit. Sed ut ipse homo se inueniat.",
+      "derivation": "Clear rhetorical interrogative answered by 'absit' plus the corrective clause. Answer ends after 'se inueniat.'; the next sentence ('primo itaque, fratres...') begins a new argument and is cut."
+    },
+    {
+      "locus": "Augustine, Sermo 2 (De Abraham)",
+      "type": "authorial-rhetorical",
+      "question": "Ubi igitur legimus temptantem Christum?",
+      "answer": "Euangelium loquitur.",
+      "derivation": "Interrogative (ubi) directly answered: where do we read of Christ tempting? The gospel speaks it. Answer is the single sentence 'euangelium loquitur.'; what follows ('ait: inquit Philippo...') begins quoting the passage and is cut."
+    },
+    {
+      "locus": "Augustine, Sermo 2 (De Abraham)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo nos docet Abraham?",
+      "answer": "Ut breuiter dicam: ut deo non praeponamus quod dat deus.",
+      "derivation": "Interrogative (quid docet) answered directly. Answer ends at the first full stop ('quod dat deus.'); the next sentence ('interim ad litteram rerum gestarum...') resumes narrative exposition and is cut."
+    }
+  ]
+}

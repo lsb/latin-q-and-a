@@ -1,0 +1,12 @@
+{
+  "source": "text/ammianus/28.txt",
+  "pairs": [
+    {
+      "locus": "Ammianus Marcellinus 28.4.15",
+      "type": "direct-speech",
+      "question": "Quid ei poterit hoc prodesse morituro postridie?",
+      "answer": "Ut aliquid sciens amplius e vita discedam.",
+      "derivation": "Socrates anecdote: condemned Socrates asks a musician to teach him a song by Stesichorus 'while it is still permitted'. The musician's question and Socrates' reply form a genuine direct-speech Q&A. Dropped the framing speech tags 'interroganteque musico' before the question and 'respondisse' before the answer. Normalized capitalization of the first words and the terminal punctuation (added '?' to the question; the answer's quote-mark dropped). Stopped the answer at its single sentence; the surrounding clause merely narrates the exchange."
+    }
+  ]
+}

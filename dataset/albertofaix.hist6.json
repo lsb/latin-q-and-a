@@ -1,0 +1,19 @@
+{
+  "source": "text/albertofaix/hist6.txt",
+  "pairs": [
+    {
+      "locus": "Albert of Aix, Historia Hierosolymitana 6.43",
+      "type": "direct-speech",
+      "question": "Miror, et sufficienter mirari nequeo, unde populus hic in tanta laetitia in voce exsultationis glorietur, quasi ad convivium iturus, cum hodie mors illi praesens sit, et praesens martyrium universos praestoletur, et varius sit eventus belli; atque multa nunc et intolerabilis virtus ad versariorum congregata, non procul hinc castra sua locaverit.",
+      "answer": "Populus hic, quem vides et audis in voce exsultationis adversus inimicos properare, et praelium in nomine Domini Jesu Christi, Filii Dei vivi, committere, scito quod certus est hodie de corona regni coelorum.",
+      "derivation": "Direct speech: the praefectus of Rama asks the duke (Godfrey) why his people rejoice as though going to a feast when death and battle await. His whole interrogative speech is the question, verbatim and contiguous; the inline section marker [0558D] was stripped from mid-question. The reply's speech-tag framing (Ad haec dux... Dicebat enim:) is dropped. The answer is the operative first sentence of the duke's reply, ending at the first full stop ('coronam regni coelorum.'); the marker [0559A] was stripped from before 'coelorum'. Cut continues with elaboration 'et quia ad meliorem transibit vitam...', which is dropped."
+    },
+    {
+      "locus": "Albert of Aix, Historia Hierosolymitana 6.57",
+      "type": "direct-speech",
+      "question": "Si Christianorum prosperitati congaudetis, et saluti arridetis, cur Christianis civibus, videlicet urbis Laodiceae injuste vim intulistis, turres eorum cepistis, custodes trucidastis, et adhuc urbem obsidione vastastis?",
+      "answer": "Mundi a sanguine hoc sumus.",
+      "derivation": "Direct speech: the returning pilgrims ask the Pisan bishop Dagobert why he attacked the Christian citizens of Laodicea. The interrogative speech is the question verbatim. The reply's framing (His auditis, episcopus benigne... dicens:) is dropped. The answer is the bishop's operative first sentence asserting his innocence of the accusation, ending at the first full stop. The cut continues with the explanatory 'Nam cum rudes ac totius guerrae ignari navigio ad has partes venissemus, Boemundus... nobis obviam factus est...', which is dropped as elaboration."
+    }
+  ]
+}

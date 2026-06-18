@@ -1,0 +1,40 @@
+{
+  "source": "text/cicero/tusc1.txt",
+  "pairs": [
+    {
+      "locus": "Cicero, Tusculan Disputations 1.9",
+      "type": "direct-speech",
+      "question": "Malum mihi videtur esse mors. Iisne, qui mortui sunt, an iis, quibus moriendum est?",
+      "answer": "Utrisque.",
+      "derivation": "Two-party dialogue (unlabeled A/M). Kept the verbatim setup statement 'Malum mihi videtur esse mors.' so the disjunctive question has a referent (death as evil). Question is the interrogative 'Iisne... an iis... moriendum est?'; answer is the direct 'Utrisque' (to both). Stopped the answer at the full stop; what follows ('Est miserum igitur...') is the next move, not part of this reply. Stripped the leading section number '9' and chapter marker 'V.'"
+    },
+    {
+      "locus": "Cicero, Tusculan Disputations 1.10",
+      "type": "direct-speech",
+      "question": "Male hercule narras. Cur? quaeso.",
+      "answer": "Quia disertus esse possem, si contra ista dicerem.",
+      "derivation": "Kept the prior statement 'Male hercule narras.' as verbatim setup so 'Cur?' (why?) has a referent. Question is 'Cur? quaeso.'; answer 'Quia disertus esse possem, si contra ista dicerem' directly answers the why with a because-clause. Stopped at the full stop; next sentence ('Quis enim non in eius modi causa?') begins a new turn. Stripped section number '10' and chapter marker 'VI.'"
+    },
+    {
+      "locus": "Cicero, Tusculan Disputations 1.25",
+      "type": "direct-speech",
+      "question": "Hoc dasne aut manere animos post mortem aut morte ipsa interire?",
+      "answer": "Do vero.",
+      "derivation": "Self-contained interrogative (-ne): 'hoc' is glossed by the appended disjunction in the same sentence (souls either remain or perish). Answer 'Do vero' (indeed I grant it) directly grants it. Did not extend into the following elliptical exchanges ('Quid, si maneant? ...', 'Sin intereant? ...') since those questions lack their subject 'animos' verbatim without further stitching. Normalized capitalization of 'Do'. Stripped section number '25'."
+    },
+    {
+      "locus": "Cicero, Tusculan Disputations 1.100",
+      "type": "direct-speech",
+      "question": "Contemnisne leges Lycurgi?",
+      "answer": "Ego vero illi maximam gratiam habeo, qui me ea poena multaverit, quam sine mutuatione et sine versura possem dissolvere.",
+      "derivation": "Embedded direct-speech anecdote with explicit speech tags. Dropped the framing/narration ('dixissetque ei quidam inimicus:' and 'responderit:'). Question is the quoted interrogative (-ne) 'contemnisne leges Lycurgi?'; answer is the Spartan's quoted reply, kept whole to the full stop (the gratitude for a penalty payable 'sine mutuatione et sine versura'). Normalized 'ego' -> 'Ego'. Stripped section number '100' and chapter marker 'XLII.'"
+    },
+    {
+      "locus": "Cicero, Tusculan Disputations 1.104",
+      "type": "direct-speech",
+      "question": "Volucribusne et feris?",
+      "answer": "Minime vero, sed bacillum propter me, quo abigam, ponitote.",
+      "derivation": "Diogenes anecdote; setup 'proici se iussit inhumatum' makes the friends' clipped question intelligible. Dropped framing tags 'tum amici:' and 'inquit,'. Question is the quoted interrogative (-ne) 'volucribusne et feris?' (to the birds and beasts?); answer is Diogenes' quoted reply. Normalized 'minime' -> 'Minime'. Did not extend to the following 'qui poteris?' exchange, where Diogenes counters with a question rather than the friends answering. Stripped section number '104'."
+    }
+  ]
+}

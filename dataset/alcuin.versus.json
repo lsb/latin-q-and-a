@@ -1,0 +1,12 @@
+{
+  "source": "text/alcuin/versus.txt",
+  "pairs": [
+    {
+      "locus": "Alcuin, Versus de Cuculo 24-25",
+      "type": "authorial-rhetorical",
+      "question": "Solus abest cuculus, quis, rogo, pascit eum?",
+      "answer": "Heu, male pascit eum Bachus, reor, impius ille.",
+      "derivation": "The author poses an interrogative (quis ... pascit eum?) and answers it himself in the following couplet, naming Bachus as the one who feeds him (badly). Kept 'Solus abest cuculus' as setup so 'eum' has its referent. Answer ends at the first full stop, before the relative clause 'qui sub cuncta cupit vertere corda mala' which digresses to characterize Bacchus. Inline verse scaffolding, title line, attribution and Latin Library footer omitted as non-authorial."
+    }
+  ]
+}

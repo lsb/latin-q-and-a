@@ -1,0 +1,26 @@
+{
+  "source": "text/arnobius/arnobius3.txt",
+  "pairs": [
+    {
+      "locus": "Arnobius, Adversus Nationes 3.2",
+      "type": "direct-speech",
+      "question": "Si vobis divina res cordi est, cur alios nobiscum neque deos colitis neque adoratis nec cum vestris gentibus communia sacra, miscetis et religionum coniungitis ritus?",
+      "answer": "Ad cultum divinitatis obeundum satis est nobis deus primus, deus, inquam, primus, pater rerum ac dominus, constitutor moderatorque cunctorum, in hoc omne quod colendum est colimus, quod adorari convenit adoramus, quod obsequium venerationis exposcit venerationibus promeremur.",
+      "derivation": "The pagans' objection (introduced by the speech-tag 'Subiciunt enim haec:', dropped) is a real interrogative (cur...?). The reply is introduced by the framing 'Possumus interim dicere:' (meta-narration of speaking, ending in a colon, dropped); the operative answer is the first sentence to the first full stop, which states that the first God suffices for all worship. Stops before 3.3 ('Cum enim divinitatis ipsius teneamus caput...'), which elaborates the reason rather than continuing the direct answer. 'deus, inquam, primus' is the author's own emphatic repetition within the utterance and is kept."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 3.17",
+      "type": "direct-speech",
+      "question": "Sed si vobis nostra opinatio displicet, vos demonstrate, vos dicite, qua sit deus praeditus forma.",
+      "answer": "Si veram vultis audire sententiam, aut nullam habet deus formam, aut si informatus est aliqua, ea quae sit profecto nescimus.",
+      "derivation": "The pagan demand (speech-tag 'inquiunt' dropped) embeds a genuine interrogative ('qua sit deus praeditus forma'). The reply answers it directly and is taken to its first full stop. Stops before 17.2 ('Aeque enim quod vidimus numquam nescire...'), which elaborates with a justifying analogy rather than answering."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 3.18",
+      "type": "direct-speech",
+      "question": "Quid ergo, non audit deus, non loquitur, non ante se positas res videt, non intuetur?",
+      "answer": "Suo forsitan genere, non nostro.",
+      "derivation": "The objection (speech-tag 'inquiet aliquis' dropped) is a real interrogative. The reply 'Suo forsitan genere, non nostro' answers it tersely and completely; it is its own full sentence. Stops before 'Neque enim veri aliquid scire tanta in re possumus...', which elaborates."
+    }
+  ]
+}

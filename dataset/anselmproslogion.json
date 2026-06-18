@@ -1,0 +1,19 @@
+{
+  "source": "text/anselmproslogion.txt",
+  "pairs": [
+    {
+      "locus": "Anselm, Proslogion 14",
+      "type": "authorial-rhetorical",
+      "question": "An invenisti, anima mea, quod quaerebas?",
+      "answer": "Quaerebas Deum et invenisti eum esse quiddam summum omnium, quo nihil melius cogitari potest; et hoc esse ipsam vitam, lucem, sapientiam, bonitatem, aeternam beatitudinem et beatam aeternitatem; et hoc esse ubique et semper.",
+      "derivation": "Genuine interrogative addressed by Anselm to his own soul, answered immediately in the same author's voice. Answer window is the single following sentence ending at the first full stop after 'ubique et semper'; what follows ('Nam si non invenisti Deum tuum: quomodo est ille hoc quod invenisti...') turns to a fresh series of questions and elaboration, so it is excluded."
+    },
+    {
+      "locus": "Anselm, Proslogion 26",
+      "type": "authorial-rhetorical",
+      "question": "Quantum te cognoscent, Domine, tunc, et quantum amabunt?",
+      "answer": "Certe nec oculus vidit, nec auris audivit, nec in cor hominis ascendit in hac vita, quantum te cognoscent et amabunt in illa vita.",
+      "derivation": "Genuine interrogative (quantum... quantum) posed by Anselm to God and answered in his own next sentence. Editorial scripture-reference bracket [1 Kor 2,9] stripped as scaffolding. Answer window stops at the full stop after 'in illa vita'; what follows ('Oro, Deus, cognoscam te...') is a fresh prayer, so excluded."
+    }
+  ]
+}

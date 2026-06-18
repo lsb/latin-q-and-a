@@ -1,0 +1,19 @@
+{
+  "source": "text/ambrose/epistvaria.txt",
+  "pairs": [
+    {
+      "locus": "Ambrose, Epistula II.11",
+      "type": "authorial-rhetorical",
+      "question": "Vis bene aedificare civitatem?",
+      "answer": "Melius est exiguum cum Dei timore, quam thesauri magni sine timore.",
+      "derivation": "Ambrose poses a direct question to the reader and answers it with the operative scriptural maxim that follows. The answer ends at the first full stop, before the next sentence ('Divitiae hominis ad redemptionem animae debent proficere...') which elaborates rather than answers. The parenthetical scriptural citation '(Prov. XV, 16)' is a conversion artifact and is excluded; no inline page numbers fall within the quoted span."
+    },
+    {
+      "locus": "Ambrose, Epistula XVIII.7",
+      "type": "authorial-rhetorical",
+      "question": "Quid me casso quotidie gregis innoxii sanguine cruentatis?",
+      "answer": "Non in fibris pecudum, sed in viribus bellatorum tropaea victoriae sunt.",
+      "derivation": "Prosopopoeia: Ambrose has Roma speak. The speech-tag framing 'Aliis illa eos interpellat vocibus:' is dropped as narration of the speaking. Roma's opening interrogative asks why she is daily bloodied with futile sacrifice; the very next sentence answers that victory's trophies lie not in beasts' entrails but in warriors' valor. The answer stops at the first full stop, before 'Aliis ego disciplinis orbem subegi' (which begins the historical elaboration with Camillus, Atilius, Africanus)."
+    }
+  ]
+}

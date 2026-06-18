@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/civ13.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 13.5",
+      "type": "authorial-rhetorical",
+      "question": "Cur hoc commemorandum putauimus?",
+      "answer": "Quia scilicet, sicut lex non est malum, quando auget peccantium concupiscentiam, ita nec mors bonum est, quando auget patientium gloriam, cum uel illa pro iniquitate deseritur et efficit praeuaricatores, uel ista pro ueritate suscipitur et efficit martyres.",
+      "derivation": "Authorial self-question (Cur...putauimus?) immediately answered by Quia scilicet... Answer ends at the first full stop, where the operative explanation completes; the following sentence (Ac per hoc lex quidem bona est...) elaborates and is cut. No scaffolding or angle-brackets in span."
+    },
+    {
+      "locus": "Augustine, De Civitate Dei 13.12",
+      "type": "authorial-rhetorical",
+      "question": "Cum ergo requiritur, quam mortem Deus primis hominibus fuerit comminatus, si ab eo mandatum transgrederentur acceptum nec oboedientiam custodirent, utrum animae an corporis an totius hominis an illam quae appellatur secunda?",
+      "answer": "Omnes.",
+      "derivation": "Augustine frames an explicit question (requiritur... utrum... an... an... an...) and gives the direct answer. The answer-framing 'respondendum est:' is dropped as narration of the reply; the terminal colon is normalized to a period after 'Omnes'. The following sentence (Prima enim constat ex duabus...) explains why and is cut. The trailing colon on the question is normalized to a question mark."
+    }
+  ]
+}

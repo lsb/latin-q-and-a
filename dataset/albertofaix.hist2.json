@@ -1,0 +1,12 @@
+{
+  "source": "text/albertofaix/hist2.txt",
+  "pairs": [
+    {
+      "locus": "Albert of Aix, Historia Hierosolymitanae Expeditionis 2.2-2.3",
+      "type": "whole-speech-as-question",
+      "question": "Regi Hungarorum CALOMANO GODEFRIDUS, dux Lotharingorum, et caeteri comprimores Galliae, salutem et omne bonum in Christo. Mirantur domini et principes nostri, cum Christianae professionis sitis, cur tam crudeli martyrio exercitum Dei viventis interemistis, terram vero et regnum pertransire interdixistis, et variis calumniis eos affecistis. Quapropter nunc timore et dubietate concussi, Tollenburg moram facere decreverunt, donec ex ore regis intelligant cur tam crudele facinus a Christianis, persecutoribus Christianorum, commissum sit.",
+      "answer": "Non Christianorum persecutores sumus, sed quidquid crudelitatis ostendimus aut in illorum interitu commisimus, nimia necessitate compulsi fecimus.",
+      "derivation": "Whole legation of Godfrey and the Frankish princes to King Calomanus (CAP. II) is the question; it genuinely asks 'cur ... interemistis' / 'cur tam crudele facinus ... commissum sit' (why did you slaughter the army of God). Dropped the framing tag 'ut legationem tantorum principum hoc modo aperirent:' before it, the guillemets, and the stray section marker [0411C] that fell mid-speech before 'Christo'. The answer is the king's reply (CAP. III); dropped the framing 'Respondit rex, universo coetu suorum audiente:'. Cut the answer at the first full stop after 'fecimus' — that operative first sentence directly answers the 'why' ('compelled by dire necessity'); what follows ('Cum enim primo exercitui vestro...') elaborates the grievances and is omitted."
+    }
+  ]
+}

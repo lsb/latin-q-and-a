@@ -1,0 +1,19 @@
+{
+  "source": "text/aquinas/q1.53.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.53 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus possit moveri localiter?",
+      "answer": "Angelus beatus potest moveri localiter.",
+      "derivation": "The article-heading interrogative ('Utrum angelus possit moveri localiter') is the question; scaffolding 'ARTICULUS 1' stripped. The answer is the first operative sentence of the Respondeo, with the framing 'Respondeo dicendum quod' dropped and the first word capitalized. The Respondeo continues 'Sed sicut esse in loco aequivoce convenit...' which begins elaborating the manner of motion rather than answering whether it can occur, so the window ends after the first full stop."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.53 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum motus angeli sit in instanti?",
+      "answer": "Relinquitur quod motus angeli sit in tempore.",
+      "derivation": "The article-heading interrogative is the question; 'ARTICULUS 3' scaffolding stripped. The Respondeo opens with a long non-answering preamble reporting and refuting another view ('quidam dixerunt motum localem angeli esse in instanti...'), so the answer-start is advanced to the operative concluding sentence 'Unde relinquitur quod motus angeli sit in tempore'; the framing connective 'Unde' is dropped and the first word capitalized. What follows ('In continuo quidem tempore, si sit motus eius continuus...') subdivides the kind of time rather than answering the in-instanti question."
+    }
+  ]
+}

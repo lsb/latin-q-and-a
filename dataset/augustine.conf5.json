@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/conf5.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessions 5.2.2",
+      "type": "authorial-rhetorical",
+      "question": "Quo enim fugerunt, cum fugerent a facie tua? aut ubi tu non invenis eos?",
+      "answer": "Sed fugerunt ut non viderent te videntem se atque excaecati in te offenderent, quia non deseris aliquid eorum quae fecisti.",
+      "derivation": "Augustine poses two interrogatives about where the wicked have fled and where God fails to find them, then answers with the 'sed' clause: they did not really escape but fled so as not to see God seeing them. The two contiguous question sentences are kept together as setup. The answer ends at the first full stop ('quae fecisti.'); what follows ('in te offenderent iniusti et iuste vexarentur...') elaborates and digresses, so it is cut."
+    },
+    {
+      "locus": "Augustine, Confessions 5.9.17",
+      "type": "authorial-rhetorical",
+      "question": "Huiusne tu lacrimas, quibus non a te aurum et argentum petebat, nec aliquod nutabile aut volubile bonum, sed salutem animae filii sui, tu, cuius munere talis erat, contemneres et repelleres ab auxilio tuo?",
+      "answer": "Nequaquam, domine.",
+      "derivation": "Augustine asks whether God would despise and reject his mother's tears, which begged only for her son's salvation; the entire single interrogative sentence is quoted contiguously as the question. The answer is the direct reply 'nequaquam, domine.' What follows ('immo vero aderas et exaudiebas et faciebas ordine quo praedestinaveras...') affirms and elaborates beyond the direct answer, so the answer window stops at the first full stop. The preceding rhetorical question ('An vero tu, deus misericordiarum, sperneres...?') is dropped to keep a single clean interrogative."
+    }
+  ]
+}

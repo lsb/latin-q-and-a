@@ -1,0 +1,61 @@
+{
+  "source": "text/augustine/serm4.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 4 (Matt. 5:8)",
+      "type": "authorial-rhetorical",
+      "question": "Beati mundo corde. Ad quam uisionem beati sunt?",
+      "answer": "Quoniam ipsi deum uidebunt.",
+      "derivation": "Author cites the beatitude 'beati mundo corde' (kept as verbatim setup so 'beati' has a referent), then asks 'ad quam uisionem beati sunt?' and answers with the scriptural clause 'quoniam ipsi deum uidebunt', which directly names the vision. Editorial brackets around both scriptural fragments stripped, words kept; first word capitalized, terminal punctuation normalized. Answer ends at the full stop."
+    },
+    {
+      "locus": "Augustine, Sermo 4",
+      "type": "authorial-rhetorical",
+      "question": "Quare lumina sunt?",
+      "answer": "Quia possunt lumen recipere.",
+      "derivation": "On the bodily eyes called 'lumina': author asks 'quare lumina sunt?' (preceded by 'et tamen lumina sunt') and answers 'quia possunt lumen recipere'. The 'quia' clause genuinely answers the 'quare'. Answer ends at the full stop; the following 'etenim cum fuerit lumen illatum...' is elaboration and was cut."
+    },
+    {
+      "locus": "Augustine, Sermo 4 (Matt. 9:11-13)",
+      "type": "direct-speech",
+      "question": "Quare magister uester cum publicanis et peccatoribus manducat?",
+      "answer": "Non est opus sanis medicus, sed male habentibus: non ueni uocare iustos, sed peccatores.",
+      "derivation": "Direct speech from the gospel: the Jews ask the disciples 'quare magister uester cum publicanis et peccatoribus manducat?' and the Lord answers 'non est opus sanis medicus, sed male habentibus: non ueni uocare iustos, sed peccatores'. The author's framing question 'respondens dominus, quomodo se defendit?' is meta-narration of the answering and was dropped; the speech tag 'inquit' inside the reply was dropped. Editorial brackets stripped, words kept; first word capitalized. The reply is a single scriptural sentence; the interior colon precedes the operative clause, so the window runs to the first full stop after 'peccatores'."
+    },
+    {
+      "locus": "Augustine, Sermo 4",
+      "type": "authorial-rhetorical",
+      "question": "Quare dictus est leo?",
+      "answer": "Propter fortitudinem.",
+      "derivation": "In the series explaining why Christ is given figurative titles, author asks 'quare dictus est leo?' and answers 'propter fortitudinem'. The subject (the Lord called a lion of the tribe of Judah) is established just above. Clean interrogative with its direct answer; window ends at the full stop, before the next question 'quare dictus est petra?'."
+    },
+    {
+      "locus": "Augustine, Sermo 4",
+      "type": "authorial-rhetorical",
+      "question": "Quare dictus est agnus?",
+      "answer": "Propter innocentiam.",
+      "derivation": "Same series of figurative titles of Christ: author asks 'quare dictus est agnus?' and answers 'propter innocentiam'. Clean interrogative with its direct answer; window ends at the full stop, before the next question 'quare dictus est uitulus?'."
+    },
+    {
+      "locus": "Augustine, Sermo 4",
+      "type": "authorial-rhetorical",
+      "question": "Dolus ergo quid est?",
+      "answer": "Dolus est, quando aliud agitur et aliud simulatur.",
+      "derivation": "Author asks for a definition 'dolus ergo quid est?' and answers with the definitional clause 'dolus est, quando aliud agitur et aliud simulatur'. The answer genuinely defines the term. Window ends at the full stop; the following 'quando itaque aliud est in intentione...' is restatement/elaboration and was cut."
+    },
+    {
+      "locus": "Augustine, Sermo 4 (Gen. 27:18-19)",
+      "type": "direct-speech",
+      "question": "Quis es tu?",
+      "answer": "Ego sum filius tuus maior Esau.",
+      "derivation": "Direct speech from Genesis quoted in the sermon: Isaac asks 'quis es tu?' and the reply 'ego sum filius tuus maior Esau' answers. The speech tags 'dicit ille' (before) and 'respondit' (between) are framing and were dropped. Editorial brackets stripped, words kept. Answer ends at the full stop, before the next question 'et quis est ille...'."
+    },
+    {
+      "locus": "Augustine, Sermo 4 (Gen. 27:24)",
+      "type": "direct-speech",
+      "question": "Tu es filius meus Esau?",
+      "answer": "Ego.",
+      "derivation": "Direct speech from Genesis: Isaac asks Jacob 'tu es filius meus Esau?' and Jacob answers 'ego' (yes, I am). The frame 'ipse Isaac ad Iacob' and the tag 'respondit' were dropped. Editorial brackets stripped, words kept. Short but a genuine interrogative answered."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/fide.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De fide et symbolo 9.16",
+      "type": "authorial-rhetorical",
+      "question": "Deus est Pater?",
+      "answer": "Deus.",
+      "derivation": "From 'Tamen si interrogemur de singulis, et dicatur nobis, Deus est Pater? respondebimus, Deus.' Stripped the asking-narration framing 'Tamen si interrogemur de singulis, et dicatur nobis,' before the question and the speech tag 'respondebimus,' before the answer. The question 'Deus est Pater?' is a genuine direct interrogative and 'Deus' genuinely answers it. The contrary-discussion in section 7 ('quid sit albo contrarium, responderemus nigrum') was dropped as merely hypothetical conditionals ('si quaereretur... responderemus'), and the fons/fluvius analogy in section 17 was dropped because no quoted answer word follows ('nihil aliud respondetur')."
+    }
+  ]
+}

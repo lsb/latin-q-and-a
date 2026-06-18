@@ -1,0 +1,33 @@
+{
+  "source": "text/aquinas/q1.11.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I q.11 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum unum addat aliquid supra ens?",
+      "answer": "Unum non addit supra ens rem aliquam, sed tantum negationem divisionis: unum enim nihil aliud significat quam ens indivisum.",
+      "derivation": "Question is the article's Utrum interrogative (article heading 'ARTICULUS 1' and the restating frame 'Videtur quod unum addat aliquid supra ens' dropped as scaffolding/framing). Answer drops the framing 'Respondeo dicendum quod' and takes the operative determination; cut after 'ens indivisum.' (first full stop), which directly answers; what follows ('Et ex hoc ipso apparet quod unum convertitur cum ente...') elaborates."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.11 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum unum et multa opponantur?",
+      "answer": "Unum opponitur multis, sed diversimode.",
+      "derivation": "Question is the article's Utrum interrogative ('ARTICULUS 2' and 'Videtur quod unum et multa non opponantur' dropped). Answer drops 'Respondeo dicendum quod' and stops at the first full stop; this directly affirms the opposition. What follows ('Nam unum quod est principium numeri...') explains the modes (mensura/privatio)."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.11 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus sit unus?",
+      "answer": "Deum esse unum ex tribus demonstratur.",
+      "derivation": "Question is the article's Utrum interrogative ('ARTICULUS 3' and 'Videtur quod Deus non sit unus' dropped). Answer drops 'Respondeo dicendum quod' and takes the first full sentence, which directly answers that God is one. What follows ('Primo quidem ex eius simplicitate...') gives the three demonstrations."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I q.11 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus sit maxime unus?",
+      "answer": "Deus est maxime unus.",
+      "derivation": "Question is the article's Utrum interrogative ('ARTICULUS 4' and 'Videtur quod Deus non sit maxime unus' dropped). The Respondeo opens with a conditional premise ('cum unum sit ens indivisum, ad hoc quod aliquid sit maxime unum, oportet quod sit et maxime ens et maxime indivisum') that does not yet answer; advancing past the premises and the proof ('Utrumque autem competit Deo...') to the concluding answering clause, dropping the framing 'Unde manifestum est quod'. This contiguous span is the genuine answer."
+    }
+  ]
+}

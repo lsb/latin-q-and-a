@@ -1,0 +1,26 @@
+{
+  "source": "text/aquinas/q1.20.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.20 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in Deo sit amor?",
+      "answer": "Necesse est ponere amorem in Deo.",
+      "derivation": "Question taken verbatim from the framed list of articles (\"Primo: utrum in Deo sit amor.\"), dropping the framing label \"Primo:\" and normalizing terminal punctuation to \"?\". Answer is the operative first sentence of the Respondeo for article 1, with the answering-frame \"Respondeo dicendum quod\" stripped (it narrates that the author is answering) and the first word capitalized. The Respondeo continues \"Primus enim motus voluntatis...\" which elaborates rather than answers, so the window stops at the first full stop."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.20 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum amet omnia?",
+      "answer": "Deus omnia existentia amat.",
+      "derivation": "Question taken verbatim from the framed list of articles (\"Secundo: utrum amet omnia.\"), dropping the framing label \"Secundo:\" and normalizing terminal punctuation to \"?\". Answer is the operative first sentence of the Respondeo for article 2, with \"Respondeo dicendum quod\" framing stripped. The Respondeo continues \"Nam omnia existentia, inquantum sunt, bona sunt...\" which gives the supporting reason, so the window stops at the first full stop."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.20 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum meliora magis amet?",
+      "answer": "Necesse est dicere, secundum praedicta, quod Deus magis diligat meliora.",
+      "derivation": "Question taken verbatim from the framed list of articles (\"Quarto: utrum meliora magis amet.\"), dropping the framing label \"Quarto:\" and normalizing terminal punctuation to \"?\". Answer is the operative first sentence of the Respondeo for article 4, with \"Respondeo dicendum quod\" framing stripped and the first word capitalized. The Respondeo continues \"Dictum est enim quod Deum diligere magis aliquid...\" which justifies the claim, so the window stops at the first full stop. Article 3 was dropped: its Respondeo opens with a distinction (\"cum amare sit velle bonum alicui, duplici ratione...\") rather than a direct answer to \"utrum magis amet unum quam aliud\", and the operative answer (\"necesse est dicere quod Deus quaedam aliis magis amat\") sits mid-paragraph and cannot be reached without an interior cut, so it was excluded to avoid a false positive."
+    }
+  ]
+}

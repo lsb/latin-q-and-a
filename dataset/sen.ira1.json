@@ -1,0 +1,33 @@
+{
+  "source": "text/sen/sen.ira1.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, De Ira 1.6.1",
+      "type": "direct-speech",
+      "question": "Quid ergo? non aliquando castigatio necessaria est?",
+      "answer": "Quidni? sed haec sine ira, cum ratione; non enim nocet sed medetur specie nocendi.",
+      "derivation": "Imagined interlocutor's objection (quoted verbatim) is directly answered. Answer ends at the first full stop after the operative reply 'Quidni? ... specie nocendi.'; the next sentence ('Quemadmodum quaedam hastilia detorta...') begins an analogy/elaboration and is cut. No framing tag present to drop."
+    },
+    {
+      "locus": "Seneca, De Ira 1.8.7",
+      "type": "direct-speech",
+      "question": "Quid ergo? non aliquando in ira quoque et dimittunt incolumes intactosque quos oderunt et a nocendo abstinent?",
+      "answer": "Faciunt: quando? cum adfectus repercussit adfectum et aut metus aut cupiditas aliquid inpetrauit.",
+      "derivation": "Interlocutor objection quoted verbatim, directly answered. Answer ends at the first full stop ('...aliquid inpetrauit.'); the following sentence ('Non rationis tunc beneficio quieuit...') elaborates the cause and is cut. No framing tag in the quoted span."
+    },
+    {
+      "locus": "Seneca, De Ira 1.12.1",
+      "type": "direct-speech",
+      "question": "Quid ergo? uir bonus non irascitur, si caedi patrem suum uiderit, si rapi matrem?",
+      "answer": "Non irascetur, sed uindicabit, sed tuebitur.",
+      "derivation": "Interlocutor objection; dropped the framing speech tag 'inquit' (which interrupted the utterance between 'Quid ergo?' and 'uir bonus...') per the framing-removal rule, leaving the speaker's own contiguous words. Answered directly. Answer ends at the first full stop; what follows ('Quid autem times...') turns to a counter-question and is cut."
+    },
+    {
+      "locus": "Seneca, De Ira 1.16.1",
+      "type": "direct-speech",
+      "question": "Quid ergo? non irascar latroni? Quid ergo? non irascar uenefico?",
+      "answer": "Non; neque enim mihi irascor, cum sanguinem mitto.",
+      "derivation": "Interlocutor's paired objections quoted verbatim and contiguous, answered directly with 'Non' and its justification. Answer ends at the first full stop; the next sentence ('Omne poenae genus remedi loco admoueo.') generalizes and is cut. No framing tag to drop."
+    }
+  ]
+}

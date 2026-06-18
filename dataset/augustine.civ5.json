@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/civ5.txt",
+  "pairs": [
+    {
+      "locus": "De Civitate Dei 5.9",
+      "type": "authorial-rhetorical",
+      "question": "Quid est ergo, quod Cicero timuit in praescientia futurorum, ut eam labefactare disputatione detestabili niteretur?",
+      "answer": "Videlicet quia, si praescita sunt omnia futura, hoc ordine uenient, quo uentura esse praescita sunt; et si hoc ordine uenient, certus est ordo rerum praescienti Deo; et si certus est ordo rerum, certus est ordo causarum; non enim fieri aliquid potest, quod non aliqua efficiens causa praecesserit; si autem certus est ordo causarum, quo fit omne quod fit, fato fiunt omnia quae fiunt.",
+      "derivation": "Augustine asks what Cicero feared in foreknowledge of the future, and answers himself with 'Videlicet quia...' (namely, because...). The answer is the single sorites-sentence running to its first full stop ('fiunt omnia quae fiunt.'); the next sentence ('Quod si ita est, nihil est in nostra potestate...') continues drawing out the consequences and is excluded. The framing speech-tag 'inquit' (in 'fato, inquit, fiunt omnia quae fiunt') is dropped as Augustine's narration of attributing the conclusion to Cicero, leaving 'fato fiunt omnia quae fiunt'."
+    }
+  ]
+}

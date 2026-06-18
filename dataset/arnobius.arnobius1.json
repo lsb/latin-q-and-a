@@ -1,0 +1,33 @@
+{
+  "source": "text/arnobius/arnobius1.txt",
+  "pairs": [
+    {
+      "locus": "Arnobius, Adversus Nationes 1.60",
+      "type": "authorial-rhetorical",
+      "question": "Sed si deus fuit Christus, cur forma est in hominis visus et cur more est interemptus humano?",
+      "answer": "An aliter potuit invisibilis illa vis et habens nullam substantiam corporalem inferre et commodare se mundo, conciliis interesse mortalium, quam ut aliquod tegmen materiae solidioris adsumeret, quod oculorum susciperet iniectum et ubi se figere ineptissimae posset contemplationis obtutus?",
+      "derivation": "The pagan objector poses a genuine double interrogative (cur... cur...). Dropped the inline speech tag 'inquiunt'; the objector's own 'Sed' is kept as part of the utterance. Answer is Arnobius's reply (60.2), one sentence to its first full stop, which directly answers why Christ took human form (how else could an incorporeal power show itself to mortals); nothing trimmed internally."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 1.61",
+      "type": "authorial-rhetorical",
+      "question": "Quid enim rex summus ea quae in mundo facienda esse decreverat sine homine simulato non quibat efficere?",
+      "answer": "Si oporteret ita fieri quemadmodum dicitis, ita fortasse fecisset; quia non oportuit, aliter fecit.",
+      "derivation": "Objector asks a real interrogative (could the supreme king not accomplish his purposes without an assumed human?). Dropped the inline speech tag 'dicit'. Answer is Arnobius's direct reply, one contiguous sentence to its full stop (semicolons are internal); it answers the question (he would have done so had it been needful; since it was not, he did otherwise)."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 1.62",
+      "type": "authorial-rhetorical",
+      "question": "Quis est ergo visus in patibulo pendere, quis mortuus?",
+      "answer": "Homo quem induerat et secum ipse portabat.",
+      "derivation": "Objector asks a genuine interrogative (who then was seen hanging on the cross, who died?). No speech tag present in this clause. Answer is Arnobius's terse direct reply identifying the man Christ had put on; complete and untrimmed."
+    },
+    {
+      "locus": "Arnobius, Adversus Nationes 1.63",
+      "type": "authorial-rhetorical",
+      "question": "Quae sunt ista clausa atque obscura mysteria?",
+      "answer": "Quae nulli nec homines scire nec ipsi, qui appellantur dii mundi, parte queunt aliqua suspicionis atque opinationis attingere, nisi quos ipse dignatus est cognitionis tantae inpertire muneribus et in abditos recessus thesauri interioris inducere.",
+      "derivation": "Objector asks a real interrogative (what are these closed and obscure mysteries?). Dropped the inline speech tag 'inquies'. Answer is Arnobius's reply (63.1), one sentence to its first full stop, a relative clause answering 'what are these mysteries' (those none can attain save whom he deigns to instruct); nothing trimmed internally."
+    }
+  ]
+}

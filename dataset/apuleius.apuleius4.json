@@ -1,0 +1,12 @@
+{
+  "source": "text/apuleius/apuleius4.txt",
+  "pairs": [
+    {
+      "locus": "Apuleius, Metamorphoses 4.7",
+      "type": "direct-speech",
+      "question": "Etiamne tu, busti cadaver extremum et vitae dedecus primum et Orci fastidium solum, sic nobis otiosa domi residens lusitabis nec nostris tam magnis tamque periculosis laboribus solacium de tam sera refectione tribues?",
+      "answer": "At vobis, fortissimi fidelissimeque mei sospitatores iuvenes, adfatim cuncta suavi sapore percocta pulmenta praesto sunt, panis numerosus vinum probe calicibus ecfricatis affluenter immissum et ex more calida tumultuario lavacro vestro praeparata.",
+      "derivation": "The robbers interrogate the old woman with a real reproachful question ('Etiamne tu... lusitabis nec... solacium... tribues?'); I end the question at 'tribues?' and drop the following sentence 'Quae diebus ac noctibus...' which is a continuation of their taunt, not part of the interrogative. I drop the speech tags ('sic infesti compellant' before, 'sic anus' before her reply) and the framing 'Tremens ad haec et stridenti vocula pavida'. The answer is her operative reply asserting that all the food and bath are ready; it runs as one sentence to the full stop at 'praeparata.', then the narration 'In fine sermonis huius...' follows and is cut."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/aquinas/q1.31.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.31 a.2 ad 4",
+      "type": "authorial-rhetorical",
+      "question": "Quis est iste?",
+      "answer": "Socrates.",
+      "derivation": "Authorial-rhetorical example embedded in continuous prose: 'Unde etiam in rebus humanis, si quaeratur, Quis est iste? respondetur, Socrates, quod nomen est suppositi'. Dropped the framing 'si quaeratur' before the question and 'respondetur' before the answer (speech-framing narration). Answer ends at the verbatim word 'Socrates'; the following clause 'quod nomen est suppositi' is the author's gloss on the answer, not the answer itself, so it is cut. Normalized terminal punctuation to a period on 'Socrates'."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.31 a.2 ad 4",
+      "type": "authorial-rhetorical",
+      "question": "Quid est iste?",
+      "answer": "Animal rationale et mortale.",
+      "derivation": "Authorial-rhetorical example in continuous prose: 'si autem quaeratur, Quid est iste? respondetur, animal rationale et mortale.' Dropped the framing 'si autem quaeratur' before the question and 'respondetur' before the answer. Answer is the verbatim phrase to the full stop; normalized capitalization of the first word ('animal' -> 'Animal') as presentation."
+    }
+  ]
+}

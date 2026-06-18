@@ -1,0 +1,20 @@
+NEO-LATIN
+
+  --------------------- ------------------------ ------------------ ----------------- -------------
+  Addison               Bacon                    Balde              Bigges            Bebel
+  Borbonii              Boskovic                 Boym               Buchanan          Bultelius
+  Campion               Columbus                 Conradus Celtis    Contemporary      Cotta
+  Descartes             Epistulae de Priapismo   Erasmus            Fletcher          Forsett
+  Galileo               Garcilaso de la Vega     Gaudeamus Igitur   Gauss             Gwinne
+  Halley                Holberg                  Janus Secundus     Kepler            Landor
+  Laurentius Corvinus   Lhomond                  Lotichius          Luther            Marullo
+  Marx                  May                      Melanchthon        Milton            Mirandola
+  Montanus              More                     Navagero           Newton            Owen
+  Pascoli               Passerat                 Patricius          Petrarch          Piccolomini
+  Pontano               Poggio Bracciolini       Poree              Pseudoplatonica   Rimbaud
+  Ruaeus' Aeneid        Sannazaro                Scaliger           Spinoza           Theophanes
+  Tünger                Vegius                   Vico               Vida              Waardenburg
+  Johann H. Withof      Johann P. L. Withof      Xylander           TBD               TBD
+  --------------------- ------------------------ ------------------ ----------------- -------------
+
+The Latin Library The Classics Page

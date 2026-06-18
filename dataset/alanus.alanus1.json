@@ -1,0 +1,33 @@
+{
+  "source": "text/alanus/alanus1.txt",
+  "pairs": [
+    {
+      "locus": "Alanus de Insulis, De planctu Naturae, quaestio 1 et solutio",
+      "type": "direct-speech",
+      "question": "Tu viae causam resera petenti, cur petis terras, peregrina coelis? Cur tuae nostris deitatis offers munera terris?",
+      "answer": "Cum omnia lege suae originis meis legibus teneantur obnoxia, mihique debeant jus statuti vectigalis persolvere, fere omnia tributarii juris exhibitione legitima, meis edictis regulariter obsequuntur; sed ab hujus universitatis regula, solus homo anomala exceptione excluditur, qui pudoris trabea denudatus, impudicitiaeque meretricali prostibulo prostitutus, in suae dominae majestatem, litis audet excitare tumultum, imo etiam in matrem intestini belli rabiem inflammare.",
+      "derivation": "Alanus's first quaestio (verse) asks why Natura, a stranger from heaven, descends to earth; I kept his full interrogative including the imperative setup 'Tu viae causam resera petenti' so the cur-clauses have their frame. I skipped the non-answering preamble 'Ratio naturae' (a counter-question 'An ignoras...' plus a condition) and started the answer at the 'Solutio primae quaestionis': Natura's operative reply that all things obey her laws but man alone is the lawless exception who incites strife against her. Answer ends at the first full stop ('...rabiem inflammare.'); what follows ('Caetera quibus meae gratiae...') elaborates with further examples."
+    },
+    {
+      "locus": "Alanus de Insulis, De planctu Naturae, quaestio 2 et solutio",
+      "type": "direct-speech",
+      "question": "Ora cur fletus pluvia rigantur? Quid tui vultus lacrymae prophetant?",
+      "answer": "Ideo enim a supernis coelestis regiae secretariis egrediens, ad hujus caducae terrenitatis occasum deveni, ut de exsecrabilibus hominum excessibus, tecum quasi cum familiari et secretario meo, querimoniale lamentum exponerem, tecumque decernerem, tali criminum oppositioni, qualis poenae debeat dari responsio: ut praedictorum facinorum morsibus coaequata punitio, poenae talionem remordeat.",
+      "derivation": "Alanus's second quaestio (verse) asks why her cheeks run with weeping and what her tears foretell; I quoted the two genuine interrogative lines, omitting the following declarative gloss 'Fletus interni satis est doloris lingua fidelis' (not a question). The 'Solutio secundae quaestionis' answers directly: she descended to lay out a lamenting complaint about men's crimes and to decide their punishment. Answer is one sentence to its first full stop ('...poenae talionem remordeat.'); what follows ('Tunc ego: O rerum omnium mediatrix...') is Alanus's transition to the next question."
+    },
+    {
+      "locus": "Alanus de Insulis, De planctu Naturae, quaestio 3 et responsio",
+      "type": "direct-speech",
+      "question": "Miror cur poetarum commenta pertractans, solummodo in humani generis pestes, praedictarum invectionum armas aculeos, cum et eodem exorbitationis pede, deos claudicasse legamus?",
+      "answer": "Quamvis ergo, ut poetae testati sunt plerique homines talibus Veneris terminis sint abusi ad litteram, narratio tamen illa vel deos esse, vel ipsos in Veneris gymnasiis latuisse, mentitur, et in nimiae falsitatis vesperascit occasum: ideo, ista nube taciturnitatis obduxi, alia vero in luce verae narrationis explicui.",
+      "derivation": "Alanus's third quaestio asks why she attacks only mankind's sins and not the gods, who (per the poets) sinned likewise; I stripped the speech tag 'Tunc ego:' and kept the interrogative sentence, omitting the following declarative examples (Jupiter/Ganymede, Bacchus, Apollo) that merely illustrate it. The 'Responsio naturae' opens with a long non-answering preamble of rhetorical counter-questions and a disquisition on poetic fiction; I advanced the answer's start to its operative answering sentence, which directly resolves the premise: the tale that gods exist or hid in Venus's games is a lie, so she covered it in silence. Answer ends at the full stop ('...verae narrationis explicui.'); what follows is Alanus conceding and moving on."
+    },
+    {
+      "locus": "Alanus de Insulis, De planctu Naturae, quaestio 4 et solutio",
+      "type": "direct-speech",
+      "question": "Miror, cur quaedam tuae tunicae portiones, quae texturae matrimonii deberent esse confines, in ea parte suae conjunctionis patiantur divortia, in qua hominis imaginem picturae repraesentant insomnia?",
+      "answer": "Jam ex explicatis potes elicere, quid mysticum figuret scissurae figurata parenthesis: cum enim ut diximus, plerique homines in suam matrem vitiorum armentur injuriis, inde inter se et ipsam maximum chaos dissensionis firmantes, in me violentas manus violenter injiciunt, mea sibi particulatim vestimenta diripiunt, et quam reverentiae deberent honore vestire, me vestibus orphanatam (quantum in ipsis est) cogunt meretricaliter lupari; hoc ergo in tegumento per hanc scissuram depingitur, quod in solius hominis vitiosis insultibus, mea pudoris ornamenta scissionis contumelias patiuntur.",
+      "derivation": "Alanus's fourth quaestio asks why parts of Natura's tunic are torn precisely where the picture depicts the image of man; I stripped the speech tag 'Tunc ego' and capitalized 'Miror'. The 'Solutio quaestionis' answers directly: the tear depicts that man alone, arming himself against his mother Nature with vices, tears at her ornaments. The whole reply is a single sentence (colons/semicolons internal) ending at the first full stop ('...scissionis contumelias patiuntur.'); the round-bracket '(quantum in ipsis est)' is the author's own parenthesis, not an editorial angle-bracket supplement, so it is retained. What follows ('Tunc ego: Jam mearum dubitationum fluctus...') is Alanus's transition."
+    }
+  ]
+}

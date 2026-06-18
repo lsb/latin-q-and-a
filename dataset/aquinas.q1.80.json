@@ -1,0 +1,19 @@
+{
+  "source": "text/aquinas/q1.80.txt",
+  "pairs": [
+    {
+      "locus": "Summa Theologiae Ia q.80 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum appetitus sit aliqua specialis animae potentia?",
+      "answer": "Necesse est ponere quandam potentiam animae appetitivam.",
+      "derivation": "The scholastic quaestio title (ARTICULUS 1) is the genuine interrogative posed by the author; 'Utrum...' = 'whether'. The answer is the body's 'Respondeo dicendum quod...' which directly resolves it. Dropped the framing 'Respondeo dicendum quod' (meta-narration of answering) and took the operative first sentence to the first full stop; what follows ('Ad cuius evidentiam, considerandum est quod...') is elaboration/argument, so cut there."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.80 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum appetitus sensitivus et intellectivus sint diversae potentiae?",
+      "answer": "Necesse est dicere appetitum intellectivum esse aliam potentiam a sensitivo.",
+      "derivation": "The scholastic quaestio title (ARTICULUS 2) is the genuine interrogative; answered by the body's 'Respondeo dicendum quod...'. Dropped the framing 'Respondeo dicendum quod' and took the operative first sentence to the first full stop; what follows ('Potentia enim appetitiva est potentia passiva...') is the supporting argument, so cut there."
+    }
+  ]
+}

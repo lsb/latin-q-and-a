@@ -1,0 +1,33 @@
+{
+  "source": "text/aquinas/q1.61.txt",
+  "pairs": [
+    {
+      "locus": "Summa Theologiae Ia q.61 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angeli habeant causam sui esse?",
+      "answer": "Necesse est dicere et angelos, et omne id quod praeter Deum est, a Deo factum esse.",
+      "derivation": "Article title 'Utrum angeli habeant causam sui esse' is the author's interrogative (Whether angels have a cause of their being). Answer is the operative opening sentence of the Respondeo, cutting the framing 'Respondeo dicendum quod' and stopping at the first full stop; what follows ('Solus enim Deus est suum esse...') is supporting explanation, ending with the restatement 'Unde necesse est angelos a Deo creatos esse.'"
+    },
+    {
+      "locus": "Summa Theologiae Ia q.61 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus sit productus a Deo ab aeterno?",
+      "answer": "Solus Deus, Pater et Filius et Spiritus Sanctus, est ab aeterno.",
+      "derivation": "Article title is the author's interrogative (Whether the angel was produced by God from eternity). Answer is the operative opening sentence of the Respondeo, cutting framing 'Respondeo dicendum quod' and stopping at the first full stop; what follows ('Hoc enim fides catholica indubitanter tenet...') elaborates and applies it to creatures. The answer entails that angels are not from eternity."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.61 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angeli sint creati ante mundum corporeum?",
+      "answer": "Circa hoc invenitur duplex sanctorum doctorum sententia: illa tamen probabilior videtur, quod angeli simul cum creatura corporea sunt creati.",
+      "derivation": "Article title is the author's interrogative (Whether the angels were created before the corporeal world). Answer cuts framing 'Respondeo dicendum quod' and runs to the first full stop, which delivers the operative answer (angels created simultaneously with corporeal creation, so not before); what follows ('Angeli enim sunt quaedam pars universi...') argues the point. The first full stop falls after 'sunt creati', not at the interior colon."
+    },
+    {
+      "locus": "Summa Theologiae Ia q.61 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angeli sint creati in caelo empyreo?",
+      "answer": "Conveniens fuit quod angeli in supremo corpore crearentur, tanquam toti naturae corporeae praesidentes; sive id dicatur caelum empyreum, sive qualitercumque nominetur.",
+      "derivation": "Article title is the author's interrogative (Whether the angels were created in the empyrean heaven). The Respondeo opens with a non-answering preamble recalling the prior conclusion ('sicut dictum est, ex creaturis corporalibus et spiritualibus unum universum constituitur. Unde sic creatae sunt spirituales creaturae...'); the answer's start is advanced to the operative answering sentence beginning 'Conveniens fuit quod angeli in supremo corpore crearentur', taken to its full stop. What follows ('Unde Isidorus dicit...') is a citation in support."
+    }
+  ]
+}

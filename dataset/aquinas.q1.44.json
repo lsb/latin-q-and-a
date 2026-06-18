@@ -1,0 +1,33 @@
+{
+  "source": "text/aquinas/q1.44.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.44 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum sit necessarium omne ens esse creatum a Deo?",
+      "answer": "Necesse est dicere omne quod quocumque modo est, a Deo esse.",
+      "derivation": "The article title 'Utrum sit necessarium omne ens esse creatum a Deo' is the question posed; normalized terminal punctuation to '?'. The answer is the operative first sentence of the Respondeo, dropping the framing tag 'Respondeo dicendum quod' (capitalizing 'Necesse'). The answer ends at the first full stop; what follows ('Si enim aliquid invenitur...') is supporting argument, not the answer itself."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.44 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum materia prima sit creata a Deo?",
+      "answer": "Et sic oportet ponere etiam materiam primam creatam ab universali causa entium.",
+      "derivation": "The article title is the question; normalized terminal punctuation to '?'. The Respondeo opens with a long non-answering preamble surveying the ancient philosophers ('antiqui philosophi paulatim... assignaverunt'), which does NOT answer the question. Per the skip-preamble guidance, the answer's start is advanced to the operative concluding sentence 'Et sic oportet ponere etiam materiam primam creatam ab universali causa entium', which is the actual answer (prime matter must be created). It is the final sentence of the Respondeo; nothing answering follows."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.44 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum causa exemplaris sit aliquid praeter Deum?",
+      "answer": "Deus est prima causa exemplaris omnium rerum.",
+      "derivation": "The article title is the question; normalized terminal punctuation to '?'. The answer is the operative first sentence of the Respondeo, dropping the framing 'Respondeo dicendum quod' (capitalizing 'Deus'). It directly answers (God is the first exemplar cause, i.e. the exemplar cause is not something outside God). Ends at the first full stop; what follows ('Ad cuius evidentiam...') is the explanatory development."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.44 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum Deus sit causa finalis omnium?",
+      "answer": "Sic ergo divina bonitas est finis rerum omnium.",
+      "derivation": "The article title is the question; normalized terminal punctuation to '?'. The Respondeo opens with premises about agents acting for an end ('omne agens agit propter finem... quae est similitudo perfectionis et bonitatis divinae'), which build toward but do not yet state the answer. Per the skip-preamble guidance, the answer's start is advanced to the concluding 'Sic ergo divina bonitas est finis rerum omnium', the operative answer (the divine goodness is the end of all things). It is the final sentence of the Respondeo; nothing answering follows."
+    }
+  ]
+}

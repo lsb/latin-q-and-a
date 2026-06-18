@@ -1,0 +1,33 @@
+{
+  "source": "text/aquinas/q1.86.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.86 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum intellectus noster cognoscat singularia?",
+      "answer": "Singulare in rebus materialibus intellectus noster directe et primo cognoscere non potest.",
+      "derivation": "Article 1 poses 'Utrum intellectus noster cognoscat singularia' (the author's own question, here normalized with a question mark); the body answers it. Dropped the 'ARTICULUS 1' section marker and the 'Ad primum sic procedit/Videtur quod' objection framing. The answer takes the operative first sentence of the Respondeo, dropping the framing tag 'Respondeo dicendum quod' and stopping at the first full stop; what follows ('Cuius ratio est, quia...') is the supporting reason, not the answer itself."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.86 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum intellectus noster possit cognoscere infinita?",
+      "answer": "Actu autem vel habitu non potest cognoscere infinita intellectus noster.",
+      "derivation": "Article 2 poses 'Utrum intellectus noster possit cognoscere infinita' (author's question, normalized with question mark). Dropped 'ARTICULUS 2' and the 'Videtur quod' objections. The Respondeo opens with a distinction-preamble ('Respondeo dicendum quod, cum potentia proportionetur... in accipiendo scilicet unum post aliud') that sets up rather than answers; the operative answering sentence is 'Actu autem vel habitu non potest cognoscere infinita intellectus noster.' Stopped at the first full stop; what follows ('Actu quidem non, quia...') elaborates the reasons."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.86 a.3",
+      "type": "authorial-rhetorical",
+      "question": "Utrum intellectus sit cognoscitivus contingentium?",
+      "answer": "Contingentia dupliciter possunt considerari.",
+      "derivation": "Article 3 poses 'Utrum intellectus sit cognoscitivus contingentium' (author's question, normalized with question mark). Dropped 'ARTICULUS 3' and the objections. The answer is the operative first sentence of the Respondeo, dropping the tag 'Respondeo dicendum quod' and stopping at the first full stop; what follows ('Uno modo, secundum quod contingentia sunt...') develops the twofold distinction."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae I, q.86 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum intellectus noster cognoscat futura?",
+      "answer": "De cognitione futurorum eodem modo distinguendum est, sicut de cognitione contingentium.",
+      "derivation": "Article 4 poses 'Utrum intellectus noster cognoscat futura' (author's question, normalized with question mark). Dropped 'ARTICULUS 4', the objections, and the trailing Latin-Library footer (St. Thomas Aquinas / Christian Latin / The Latin Library / The Classics Page). The answer is the operative first sentence of the Respondeo, dropping the tag 'Respondeo dicendum quod' and stopping at the first full stop; what follows ('Nam ipsa futura ut sub tempore cadunt...') explains the distinction."
+    }
+  ]
+}

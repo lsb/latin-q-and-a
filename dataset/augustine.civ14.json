@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/civ14.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De ciuitate Dei 14.7 (quoting John 21:15)",
+      "type": "direct-speech",
+      "question": "Diligis me plus his?",
+      "answer": "Domine, tu scis quia amo te.",
+      "derivation": "Direct-speech exchange embedded in section VII. Dropped the framing narration 'ipse Dominus Petrum apostolum interrogans cum dixisset:' before the question and 'ille respondit:' before the answer. Question kept verbatim with its source '?'. Answer ends at the first full stop; source had a trailing ';' (the sentence continues 'et iterum Dominus quaesiuit...'), normalized to '.'. The later repetitions ('Amas me?', 'utrum diligeret') are woven into Augustine's meta-commentary on diligere vs amare and are reported partly in indirect discourse, so only this first clean exchange is extracted."
+    }
+  ]
+}

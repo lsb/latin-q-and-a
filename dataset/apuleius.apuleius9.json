@@ -1,0 +1,33 @@
+{
+  "source": "text/apuleius/apuleius9.txt",
+  "pairs": [
+    {
+      "locus": "Apuleius, Metamorphoses 9.3",
+      "type": "direct-speech",
+      "question": "Adhucine miserum istum asinum iugi furore iactari credimus?",
+      "answer": "Immo vero iam virus increscente saevitia prorsum extinctum.",
+      "derivation": "Two of Lucius's guards debate ('altercare') whether the ass is still rabid. First speaker asks the interrogative ('Do we still think...?'); second answers 'Immo vero...' (no, the poison is now extinguished). Both verbatim quoted speech; no framing tags inside the quotes to strip."
+    },
+    {
+      "locus": "Apuleius, Metamorphoses 9.6-7",
+      "type": "direct-speech",
+      "question": "Et quis est ille qui tanto praestinavit?",
+      "answer": "Olim, inepte, descendit in dolium sedulo soliditatem eius probaturus.",
+      "derivation": "Husband asks who bought the jar at such a price. Dropped the framing tag 'ait' between 'ille' and 'qui'. The wife's reply is introduced by framing 'At illa: ...inquit...' (dropped) and 'Olim, inepte' is her verbatim answer identifying the buyer as the man who 'long ago went down into the jar to test its soundness' (= the hidden adulterer). Answer ends at the full stop."
+    },
+    {
+      "locus": "Apuleius, Metamorphoses 9.16-17",
+      "type": "direct-speech",
+      "question": "Ergo nostri totam Philesitheri et ipsius fabulam?",
+      "answer": "Minime gentium, sed nosse valde cupio et oro, ordine mihi singula retexe.",
+      "derivation": "The old bawd asks whether they know the whole story of Philesitherus. Dropped framing 'inquit anus' after 'Ergo'. The wife answers, framing tag 'inquit' (dropped) between 'gentium' and 'sed': 'By no means, but I greatly desire to know it; tell me each detail in order.' Genuine question and genuine answer; answer kept whole through the request as it is a single contiguous reply, not a digression."
+    },
+    {
+      "locus": "Apuleius, Metamorphoses 9.30",
+      "type": "authorial-rhetorical",
+      "question": "Vnde autem tu, astutule asine, intra terminos pistrini contentus, quid secreto, ut adfirmas, mulieres gesserint scire potuisti?",
+      "answer": "Accipe igitur quem ad modum homo curiosus iumenti faciem sustinens cuncta quae in perniciem pistoris mei gesta sunt cognovi.",
+      "derivation": "The narrator anticipates the reader's objection and answers it himself. Dropped the framing introduction 'Sed forsitan lector scrupulosum reprehendes narratum meum sic argumentaberis:' before the quoted question. The answer 'Accipe igitur...' directly answers how he came to know the women's secret doings (as a curious man in a beast's shape). Answer ends at the first full stop, before the narrative resumes with 'Diem ferme circa mediam...'."
+    }
+  ]
+}

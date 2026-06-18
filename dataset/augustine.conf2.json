@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/conf2.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessions 2.5.11",
+      "type": "authorial-rhetorical",
+      "question": "Homicidium fecit. Cur fecit?",
+      "answer": "Adamavit eius coniugem aut praedium, aut voluit depraedari unde viveret, aut timuit ab illo tale aliquid amittere, aut laesus ulcisci se exarsit.",
+      "derivation": "Authorial self-question: setup 'homicidium fecit' kept so 'fecit' has a referent, followed by the real interrogative 'cur fecit?'. Answer is the contiguous sentence enumerating the motives, ending at 'exarsit.' (first full stop). What follows is a new rhetorical question 'num homicidium sine causa faceret...?', which is not part of this answer, so the window stops there."
+    },
+    {
+      "locus": "Augustine, Confessions 2.5.11",
+      "type": "authorial-rhetorical",
+      "question": "Ne per otium torpesceret manus aut animus. Cur ita?",
+      "answer": "Ut scilicet illa exercitatione scelerum capta urbe honores, imperia, divitias adsequeretur et careret metu legum et difficultate rerum propter inopiam rei familiaris et conscientiam scelerum.",
+      "derivation": "Authorial self-question about Catiline. The quoted Sallustian reason 'ne per otium torpesceret manus aut animus' is kept as setup so the interrogative 'cur ita?' has an antecedent; the framing 'inquit' and 'quaere id quoque' (narration of the asking) are dropped per the prompt. Answer is the contiguous explanatory sentence ending at 'scelerum.'; the next sentence ('nec ipse igitur Catilina amavit facinora sua...') turns from answering to a fresh conclusion, so the window stops there. Editorial single-quote marks around the embedded Sallust phrases removed, words kept."
+    }
+  ]
+}

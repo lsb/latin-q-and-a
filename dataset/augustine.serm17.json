@@ -1,0 +1,33 @@
+{
+  "source": "text/augustine/serm17.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Sermo 17",
+      "type": "authorial-rhetorical",
+      "question": "nam quantum attinet ad uoces ipsius nobis necessarias, quando siluit?",
+      "answer": "non siluit per patriarchas, non siluit per prophetas, non siluit per os carnis suae.",
+      "derivation": "Augustine asks when Christ was ever silent (real interrogative quando...siluit?) and answers himself with the threefold non siluit. Answer ends at the full stop before 'et modo si sileret', where he turns to a new rhetorical move."
+    },
+    {
+      "locus": "Augustine, Sermo 17",
+      "type": "authorial-rhetorical",
+      "question": "quid autem uolo? quid desidero? quid cupio? quare loquor? quare hic sedeo? quare uiuo?",
+      "answer": "nisi hac intentione, ut cum Christo simul uiuamus?",
+      "derivation": "Contiguous run of six rhetorical questions answered by the 'nisi...' clause that responds to them all. Kept the whole question run for sense; answer is the nisi-clause that directly resolves the questions, stopping before the following 'cupiditas mea ista est' elaboration."
+    },
+    {
+      "locus": "Augustine, Sermo 17",
+      "type": "authorial-rhetorical",
+      "question": "numquid audis illum quando facis adulterium, et latere te putas quia homo te non uidet?",
+      "answer": "ille te uidet, sed tacet.",
+      "derivation": "Real interrogative (numquid...?) directly answered by 'ille te uidet, sed tacet.' Answer stops at the full stop before the next sentence 'quando furtum facis', which moves to a new example."
+    },
+    {
+      "locus": "Augustine, Sermo 17",
+      "type": "authorial-rhetorical",
+      "question": "et quid tibi faciam, quando arguam te?",
+      "answer": "statuam te ante faciem tuam.",
+      "derivation": "Augustine's question 'what shall I do to you when I accuse you?' answered by the quoted divine reply 'statuam te ante faciem tuam'. Square brackets marking the scripture quotation stripped, words kept; answer is that single clause, stopping before the 'modo enim quando male facis' explanation."
+    }
+  ]
+}

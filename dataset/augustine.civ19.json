@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/civ19.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 19.22",
+      "type": "authorial-rhetorical",
+      "question": "Quis iste Deus est aut unde dignus probatur, cui deberent obtemperare Romani, ut nullum deorum praeter ipsum colerent sacrificiis?",
+      "answer": "Ipse est Deus, cuius prophetae praedixerunt ista quae cernimus.",
+      "derivation": "An imagined objector's question, quoted directly; the framing tag 'Sed responderi potest:' is dropped as narration of the asking. The reply opens with a non-answering rebuke ('Magnae caecitatis est, adhuc quaerere, quis iste sit Deus'), which is skipped per the non-answering-preamble rule. The answer's start advances to the operative answering sentence 'Ipse est Deus...', ending at the first full stop after 'cernimus'; what follows ('Ipse est Deus, a quo responsum accepit Abraham...') is further enumeration of the same answer, cut off."
+    },
+    {
+      "locus": "Augustine, De Civitate Dei 19.23 (Porphyry, quoting the oracle of Hecate)",
+      "type": "direct-speech",
+      "question": "Cur ergo damnatus est?",
+      "answer": "Corpus quidem debilitantibus tormentis semper oppositum est; anima autem piorum caelesti sedi insidet.",
+      "derivation": "A direct-speech exchange embedded in Porphyry's quoted oracle: the inquirers ask 'Cur ergo damnatus est?' (about Christ) and the goddess answers. The framing tags 'Interrogantibus autem, inquit:' (before) and 'oraculo respondit dea:' (after) are dropped as narration of the asking/answering. The answer runs to the first full stop after 'insidet'; what follows ('Illa uero anima aliis animabus fataliter dedit...') turns from explaining the condemnation to digressing on fate and is cut."
+    }
+  ]
+}

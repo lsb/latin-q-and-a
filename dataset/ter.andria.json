@@ -1,0 +1,33 @@
+{
+  "source": "text/ter.andria.txt",
+  "pairs": [
+    {
+      "locus": "Andria 352-355",
+      "type": "direct-speech",
+      "question": "uxorem tibi non dat iam Chremes. qui scis?",
+      "answer": "tuo' pater modo me prehendit: ait tibi uxorem dare hodie.",
+      "derivation": "Davos asserts uxorem tibi non dat iam Chremes; Pamphilus asks qui scis? (\"how do you know?\"). The assertion is kept as verbatim setup so qui scis has a referent. Davos answers scio (an empty affirmation) then gives the basis tuo' pater modo me prehendit: ait tibi uxorem dare hodie; the answer window starts at the operative tuo' (the bracketed <ai>t restored as ait, edition spelling kept) and stops at the first full stop after hodie, before item alia multa quae nunc non est narrandi locus."
+    },
+    {
+      "locus": "Andria 765",
+      "type": "direct-speech",
+      "question": "quoiu's nostri?",
+      "answer": "Pamphili.",
+      "derivation": "Within Davos's interrogation, Mysis says the child is vostri (\"yours, plural\"); Davos presses quoius nostri? (printed quoi(u)s; rendered with the edition's elision mark) and Mysis answers Pamphili. The speaker label MY. is stripped. Self-contained as a who-question with its one-word answer."
+    },
+    {
+      "locus": "Andria 928-929",
+      "type": "direct-speech",
+      "question": "ei(u)s nomen?",
+      "answer": "verum hercle opinor fuisse Phaniam.",
+      "derivation": "Chremes asks ei(u)s nomen? (\"his name?\"). Crito's reply opens with a deflecting preamble nomen tam cito? Phania? hem perii! (a hesitant guess, not yet the answer); the answer-start is advanced to the operative verum hercle opinor f<ui>sse Phaniam (editorial <ui> bracket kept verbatim), stopping at that full stop before hoc certo scio. Speaker labels stripped."
+    },
+    {
+      "locus": "Andria 932",
+      "type": "direct-speech",
+      "question": "quoiam igitur?",
+      "answer": "fratri' filiam.",
+      "derivation": "After Crito says the man did NOT call the girl his own daughter (non), Chremes asks quoiam igitur? (\"whose then?\") and Crito answers fratri' filiam (\"his brother's daughter\"). The prior non is the rejected alternative, so igitur is intelligible from the question itself; kept tight. Speaker labels CH./CR. stripped."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+INDEX AUCTORUM
+
+  ---------------------- ----------------------- ------------------------ ------------------------ ---------------------
+  Abelard                Claudian                Historia Augusta         Minucius Felix           Roman Epitaphs
+  Addison                Claudius Caesar         Historia Brittonum       Mirandola                Ruaeus
+  Adso Dervensis         Conradus Celtis         Hugo of St. Victor       Miscellany               Rutilius Namatianus
+  Albertano of Brescia   Dante                   Hyginus                  Naevius                  Sallust
+  Alcuin                 Cotta                   Hymni et cantica         Navagero                 Sannazaro
+  Asconius               Declaratio Arbroathis   Iacobus de Voragine      Neo-Latin                Scaliger
+  Ambrosius              Descartes               Ius Romanum              Nepos                    Sedulius
+  Ammianus               Disticha Catonis        Janus Secundus           Newton                   Seneca
+  Ampelius               Donatus                 Jordanes                 Nithardus                Septem Sapientum
+  Anonymus Neveleti      Einhard                 Julius Obsequens         Ovid                     Silius Italicus
+  Apuleius               Ennius                  Junillus                 Owen                     Statius
+  Aquinas                Epistolae Austrasicae   Justin                   Pascoli                  Stephanus de Varda
+  Arnobius               Erasmus                 Justinian                Passerat                 Suetonius
+  Asserius               Eucherius               Juvenal                  Paulus Diaconus          Sulpicia
+  Augustine              Eutropius               Lactantius               Persius                  Syrus
+  Augustus               Fabricius Montanus      Landor                   Petrarch                 Tacitus
+  Aurelius Victor        Ficino                  Legenda Regis Stephani   Petronius                Terence
+  Ausonius               Florus                  Lhomond                  Phaedrus                 Tertullian
+  Avianus                Foedus Aeternum         Livy                     Phineas Fletcher         Theganus
+  Bacon                  Forsett                 Lotichius                Piccolomini              Theophanes
+  Balde                  Frontinus               Lucan                    Planctus destructionis   Thomas à Kempis
+  Biblia Sacra           Gaius                   Lucretius                Plautus                  Theodosian Code
+  Bonaventure            Galileo                 Luther                   Pliny the Elder          Tibullus
+  Boskovic               Gellius                 Magna Carta              Pliny the Younger        Valerius Flaccus
+  Boym                   Gesta Romanorum         Maidstone                Poggio Bracciolini       Valerius Maximus
+  Caesar                 Girolamo Vida           Manilius                 Pontano                  Varro
+  Campion                Godfrey of Winchester   Marullo                  Priapea                  Vegetius
+  Cassiodorus            Gregory of Tours        Martial                  Propertius               Vegius
+  Cato                   Gregory the Great       Maximianus               Prudentius               Velleius Paterculus
+  Catullus               Gwinne                  May                      Pseudoplatonica          Virgil
+  Cicero                 Henry VII               Medieval Latin           Quintilian               Vico
+  Christian Creeds       Historia Apolloni       Melanchthon              Ricardi de Bury          Vitruvius
+  Christian Latin        Horace                  Milton                   Rimbaud                  Waardenburg
+
+  ---------------------- ----------------------- ------------------------ ------------------------ ---------------------
+
+Quid Novi?
+
+The Latin Library
+
+The Classics Page

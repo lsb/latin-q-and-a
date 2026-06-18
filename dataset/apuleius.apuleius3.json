@@ -1,0 +1,12 @@
+{
+  "source": "text/apuleius/apuleius3.txt",
+  "pairs": [
+    {
+      "locus": "Apuleius, Metamorphoses 3.23",
+      "type": "direct-speech",
+      "question": "Sed, quod sciscitari praene praeterivi, quo dicto factove rursum exutis pinnulis illis ad meum redibo Lucium?",
+      "answer": "Bono animo es, quod ad huius rei curam pertinet. Nam mihi domina singula monstravit, quae possunt rursus in facies hominum tales figuras reformare.",
+      "derivation": "Lucius asks Photis by what word or deed he will, once the feathers are shed, return to being Lucius. Photis answers directly. Dropped the framing speech tag 'ait' that interrupts the reply. The answer window keeps the reassuring first sentence ('Bono animo es...') plus the operative answering sentence ('Nam mihi domina singula monstravit... reformare'), which states the means of reversal; cut before 'Nec istud factum putes ulla benivolentia...' where Photis turns to her motive and then to the specific herbal recipe, digressing from the asked question of by-what-means."
+    }
+  ]
+}

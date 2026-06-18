@@ -1,0 +1,47 @@
+{
+  "source": "text/aquinas/q1.62.txt",
+  "pairs": [
+    {
+      "locus": "Summa Theologiae I q.62 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus indiguerit gratia ad hoc quod converteretur in Deum?",
+      "answer": "Angeli indiguerunt gratia ad hoc quod converterentur in Deum, prout est obiectum beatitudinis.",
+      "derivation": "Question is the article-title interrogative (Utrum...). Dropped the 'Ad secundum sic proceditur. Videtur quod...' objection preamble (which states the opposing view, not an answer) and the 'Sed contra'. Answer is the operative first sentence of the Respondeo, with the framing tag 'Respondeo dicendum quod' dropped and the first word capitalized; it stops at the first full stop, before the following 'Sicut enim superius dictum est...' elaboration."
+    },
+    {
+      "locus": "Summa Theologiae I q.62 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus beatus suam beatitudinem meruerit?",
+      "answer": "Relinquitur quod tam homo quam angelus suam beatitudinem meruerit.",
+      "derivation": "Question is the article-title interrogative. Answer skips the non-answering Respondeo preamble ('Respondeo dicendum quod soli Deo beatitudo perfecta est naturalis... Beatitudo autem ultima excedit naturam angelicam et humanam, ut ex dictis patet.') which only lays out premises, and advances to the operative concluding sentence; the framing 'Unde' is dropped and the first word capitalized. It stops at the first full stop, before the following 'Et si quidem angelus in gratia creatus fuit...' elaboration."
+    },
+    {
+      "locus": "Summa Theologiae I q.62 a.5",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus statim post unum actum meriti beatitudinem habuerit?",
+      "answer": "Angelus post primum actum caritatis quo beatitudinem meruit, statim beatus fuit.",
+      "derivation": "Question is the article-title interrogative. Dropped the 'Ad quintum sic proceditur. Videtur quod...' objection preamble and the 'Sed contra'. Answer is the operative first sentence of the Respondeo, framing tag 'Respondeo dicendum quod' dropped and first word capitalized; it stops at the first full stop, before the following 'Cuius ratio est, quia...' explanation."
+    },
+    {
+      "locus": "Summa Theologiae I q.62 a.6",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angeli sint consecuti gratiam et gloriam secundum quantitatem suorum naturalium?",
+      "answer": "Rationabile est quod secundum gradum naturalium angelis data sint dona gratiarum et perfectio beatitudinis.",
+      "derivation": "Question is the article-title interrogative (the article header wraps it across two lines; quoted contiguous). Dropped the objection preamble and 'Sed contra'. Answer is the operative first sentence of the Respondeo, framing tag dropped and first word capitalized; it stops at the first full stop, before the following 'Cuius quidem ratio ex duobus accipi potest.' explanation."
+    },
+    {
+      "locus": "Summa Theologiae I q.62 a.7",
+      "type": "authorial-rhetorical",
+      "question": "Utrum in angelis beatis remaneat cognitio et dilectio naturalis?",
+      "answer": "In angelis beatis remanet cognitio et dilectio naturalis.",
+      "derivation": "Question is the article-title interrogative. Dropped the objection preamble and 'Sed contra'. Answer is the operative first sentence of the Respondeo, framing tag 'Respondeo dicendum quod' dropped and first word capitalized; it stops at the first full stop, before the following 'Sicut enim se habent principia...' explanation."
+    },
+    {
+      "locus": "Summa Theologiae I q.62 a.8",
+      "type": "authorial-rhetorical",
+      "question": "Utrum angelus beatus peccare possit?",
+      "answer": "Angeli beati peccare non possunt.",
+      "derivation": "Question is the article-title interrogative. Dropped the objection preamble and 'Sed contra'. Answer is the operative first sentence of the Respondeo, framing tag 'Respondeo dicendum quod' dropped and first word capitalized; it stops at the first full stop, before the following 'Cuius ratio est, quia...' explanation."
+    }
+  ]
+}

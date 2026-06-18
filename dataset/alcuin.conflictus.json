@@ -1,0 +1,12 @@
+{
+  "source": "text/alcuin/conflictus.txt",
+  "pairs": [
+    {
+      "locus": "Alcuin, Conflictus Veris et Hiemis 54-60",
+      "type": "direct-speech",
+      "question": "Quis tibi, tarda Hiems, semper dormire parata, divitias cumulat, gazas vel congregat ullas, si ver vel aestas ante tibi nulla laborant?",
+      "answer": "Illi, quoniam mihi multa laborant, sunt etiam servi nostra ditione subacti.",
+      "derivation": "Ver asks Hiems a genuine interrogative (Quis... cumulat... congregat?) about who amasses her wealth; the speaker labels 'Ver:'/'Hiems:' are drama scaffolding, stripped. Hiems's reply opens with the non-answering concession-preamble 'Vera refers:' ('you speak truly'), which is cut; the answer starts at the operative response 'illi' (capitalized as first word). The window ends at the first full stop ('subacti.'); the trailing line 'iam mihi servantes domino, quaecumque laborant.' is elaboration and is omitted."
+    }
+  ]
+}

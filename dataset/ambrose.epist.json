@@ -1,0 +1,19 @@
+{
+  "source": "text/ambrose/epist.txt",
+  "pairs": [
+    {
+      "locus": "Ambrose, Epistula XX.27",
+      "type": "direct-speech",
+      "question": "Quid tibi visum est, ut contra placitum faceres?",
+      "answer": "Quod placitum sit, ignoro, quidve temere factum dicatur, incertum habeo.",
+      "derivation": "The notarius bearing imperial mandates asks the interrogative directly; the interleaved framing tag 'inquit' is dropped and the first word capitalized. Ambrose's 'respondi:' tag is dropped; his reply directly answers by professing ignorance of the placitum. The answer ends at the full stop; what follows is a new exchange ('ait: cur presbyteros...')."
+    },
+    {
+      "locus": "Ambrose, Epistula XX.33",
+      "type": "direct-speech",
+      "question": "Tristis es pro cucurbita?",
+      "answer": "Tristis.",
+      "derivation": "From the recounted book of Jonah: 'Deum quoque dixisse ad prophetam' (framing dropped) introduces God's interrogative; 'respondisse Ionam' (framing dropped) introduces Jonah's one-word answer. First words capitalized. The reply directly answers; what follows ('dixisse dominum, si illud doleret...') is the Lord resuming, not part of Jonah's answer."
+    }
+  ]
+}

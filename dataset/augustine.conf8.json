@@ -1,0 +1,19 @@
+{
+  "source": "text/augustine/conf8.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessions 8.9.21",
+      "type": "authorial-rhetorical",
+      "question": "Unde hoc monstrum? Et quare istuc, ut velit qui non imperaret nisi vellet, et non facit quod imperat?",
+      "answer": "Sed non ex toto vult: non ergo ex toto imperat.",
+      "derivation": "Authorial self-posed question (unde/quare) about why the mind that commands does not do what it commands. Stripped the internal framing tag 'inquam' that sits inside the sentence ('et quare istuc, inquam, ut velit...') as narration of the asking. Answer is the immediately following explanatory sentence; cut at the first full stop after 'imperat' (the colon before 'non ergo' is not a sentence end). What follows the cut is 'nam in tantum imperat, in quantum vult...', which elaborates further rather than giving the direct cause."
+    },
+    {
+      "locus": "Augustine, Confessions 8.10.24",
+      "type": "authorial-rhetorical",
+      "question": "Quaero ab eis utrum bonum sit delectari lectione apostoli et utrum bonum sit delectari psalmo sobrio et utrum bonum sit evangelium disserere?",
+      "answer": "Bonum.",
+      "derivation": "Augustine reports questioning the Manichees and their reply. Kept the governing verb 'quaero ab eis' because the indirect-question grammar (utrum...sit) depends on it and it makes the interrogative self-contained; normalized the terminal punctuation to '?'. Dropped the answer-framing 'respondebunt ad singula:' which narrates the responding. The answer is their verbatim one-word reply 'bonum.' What follows is 'quid si ergo pariter delectent omnia...', a new question, so the answer cut is clean."
+    }
+  ]
+}

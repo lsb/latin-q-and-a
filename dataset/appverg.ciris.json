@@ -1,0 +1,12 @@
+{
+  "source": "text/appverg.ciris.txt",
+  "pairs": [
+    {
+      "locus": "Ciris 166-167",
+      "type": "authorial-rhetorical",
+      "question": "Etsi quis nocuisse tibi periuria credat?",
+      "answer": "Causa pia est: timuit fratri te ostendere Iuno.",
+      "derivation": "The poet poses a rhetorical question (whether anyone would believe the perjury harmed Scylla) and answers it himself in the next line. Question is the whole interrogative line 166 (terminal punctuation kept as ?). Answer is the whole of line 167, ending at its full stop; the interior colon is not used as a cut point, since 'timuit fratri te ostendere Iuno' is the operative content explaining the 'causa pia'. Inline verse number 155 belongs to line 155, not to these lines, so nothing scaffolding-wise intrudes here."
+    }
+  ]
+}

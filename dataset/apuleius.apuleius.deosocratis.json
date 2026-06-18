@@ -1,0 +1,26 @@
+{
+  "source": "text/apuleius/apuleius.deosocratis.txt",
+  "pairs": [
+    {
+      "locus": "Apuleius, De deo Socratis 4",
+      "type": "authorial-rhetorical",
+      "question": "Nullone conexu natura se vinxit, sed in divinam et humanam partem partitam se et interruptam ac veluti debilem passa est?",
+      "answer": "Nullus deus miscetur hominibus, sed hoc praecipuum eorum sublimitatis specimen est, quod nulla adtrectatione nostra contaminantur.",
+      "derivation": "Author poses the question (preceded by the framing exclamation 'Quid igitur?', dropped) and answers it himself. The answer's framing tag 'Nam, ut idem Plato ait,' narrates the citation and is dropped; the operative answering clause 'Nullus deus miscetur hominibus...' is kept, capitalized at the new start. Window ends at the first full stop, before the sentence on stars ('Pars eorum tantummodo...') which digresses."
+    },
+    {
+      "locus": "Apuleius, De deo Socratis 8",
+      "type": "authorial-rhetorical",
+      "question": "Vacabitne animalibus suis atque erit ista naturae pars mortua ac debilis?",
+      "answer": "Immo enim si sedulo advertas, ipsae quoque aves per terrestre animal, non aerium rectius perhibeantur.",
+      "derivation": "Author asks whether the vast air-region will be void of its own animals and dead; answers with 'Immo' rejecting that premise. Preceding framing exclamations 'Quid igitur tanta vis aeris...?' and 'Quid tandem?' are dropped as the lead-in. Editorial supplement '(per)' has its parentheses stripped, word 'per' kept. Window ends at the first full stop, before the elaboration on birds' terrestrial life ('Enim semper illis victus...')."
+    },
+    {
+      "locus": "Apuleius, De deo Socratis 12",
+      "type": "authorial-rhetorical",
+      "question": "Qui potest videri perfectus fuisse, qui a priore statu ad alium rectiorem statum migrat, cum praesertim nemo sponte capessat nova, nisi quem paenituit priorum?",
+      "answer": "Non potest enim subsequi illa mutata ratio sine praecedentium infirmatione.",
+      "derivation": "Author asks how one can seem to have been perfect who changes state; answers 'Non potest...' directly. The lead-in connective 'Porro autem' is dropped and the relative 'qui' capitalized at the new start. The answer is its own complete sentence ending at the full stop; the following sentence ('Quapropter debet deus...') draws the consequence and is excluded."
+    }
+  ]
+}

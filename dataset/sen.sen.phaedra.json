@@ -1,0 +1,19 @@
+{
+  "source": "text/sen/sen.phaedra.txt",
+  "pairs": [
+    {
+      "locus": "Phaedra 431-436",
+      "type": "whole-speech-as-question",
+      "question": "Quid huc seniles fessa moliris gradus, o fida nutrix, turbidam frontem gerens et maesta uultu? sospes est certe parens sospesque Phaedra stirpis et geminae iugum?",
+      "answer": "Metus remitte, prospero regnum in statu est domusque florens sorte felici uiget.",
+      "derivation": "Hippolytus' entire speech is one anxious question to the Nurse (why this troubled approach; is parent and Phaedra safe?), quoted verbatim and contiguous. Stripped speaker labels 'Hippolytvs'/'Nvt.' and the inline verse number 435. Answer is the Nurse's operative first response ('set aside fear; the kingdom prospers'); cut at 'uiget.' (first full stop) before she turns to elaborating ('sed tu beatis mitior rebus ueni... namque anxiam me cura sollicitat tui')."
+    },
+    {
+      "locus": "Phaedra 565-566",
+      "type": "direct-speech",
+      "question": "Cur omnium fit culpa paucarum scelus?",
+      "answer": "Detestor omnis, horreo fugio execror.",
+      "derivation": "Nurse asks why the crime of a few becomes the fault of all; Hippolytus answers that he does indeed loathe them all. Stripped speaker labels 'Nvt.'/'Hi.' and inline verse number 565. Answer cut at 'execror.' (first full stop) before the elaboration 'sit ratio, sit natura, sit dirus furor...'."
+    }
+  ]
+}

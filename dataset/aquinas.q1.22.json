@@ -1,0 +1,26 @@
+{
+  "source": "text/aquinas/q1.22.txt",
+  "pairs": [
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.22 a.1",
+      "type": "authorial-rhetorical",
+      "question": "Utrum providentia Deo conveniat?",
+      "answer": "Necesse est ponere providentiam in Deo.",
+      "derivation": "Question is the article 1 title (interrogative 'utrum' quaestio), also posed at line 18 'Primo: utrum Deo conveniat providentia'. Answer is the operative first sentence of the Respondeo (line 39), dropping the framing tag 'Respondeo dicendum quod'; it ends at the first full stop. What follows ('Omne enim bonum quod est in rebus...') is the supporting argument/elaboration, not part of the direct answer."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.22 a.2",
+      "type": "authorial-rhetorical",
+      "question": "Utrum omnia sint subiecta divinae providentiae?",
+      "answer": "Necesse est dicere omnia divinae providentiae subiacere, non in universali tantum, sed etiam in singulari.",
+      "derivation": "Question is the article 2 title. The Respondeo (line 65) opens with a non-answering preamble surveying others' positions ('quidam totaliter providentiam negaverunt, sicut Democritus et Epicurei... aliorum opinionem est secutus'), which does not answer; per the skip-preamble rule I advance the answer's start to the operative answering sentence, dropping its leading 'Sed' which merely contrasts with the surveyed opinions. Answer ends at the first full stop; what follows ('Quod sic patet. Cum enim omne agens...') is the demonstration."
+    },
+    {
+      "locus": "Aquinas, Summa Theologiae Ia q.22 a.4",
+      "type": "authorial-rhetorical",
+      "question": "Utrum providentia rebus provisis necessitatem imponat?",
+      "answer": "Providentia divina quibusdam rebus necessitatem imponit, non autem omnibus, ut quidam crediderunt.",
+      "derivation": "Question is the article 4 title. Answer is the operative first sentence of the Respondeo (line 113), dropping the framing 'Respondeo dicendum quod'; it directly and fully answers (necessity on some things, not all). Ends at the first full stop; what follows ('Ad providentiam enim pertinet ordinare res in finem...') is the supporting reasoning."
+    }
+  ]
+}

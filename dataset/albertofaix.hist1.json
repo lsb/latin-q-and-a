@@ -1,0 +1,12 @@
+{
+  "source": "text/albertofaix/hist1.txt",
+  "pairs": [
+    {
+      "locus": "Albert of Aix, Historia Hierosolymitanae Expeditionis 1.4",
+      "type": "whole-speech-as-question",
+      "question": "O fidelissime Christianorum, quid super his compellas et inquietas paternitatem nostram, cum nostrae vires vel potentia non magis quam formica exigua adversus tantorum superbiam computentur? Vita enim nostra aut assiduis redimitur tributis; aut mortiferis deputatur suppliciis. Et majora asperamus de die in diem adfore pericula, nisi Christianorum adfuerint auxilia, quae tua legatione invitamus.",
+      "answer": "Qua de causa, ob Domini gratiam, et vestram liberationem et sanctorum emundationem, Domino comite, vita sospite rediens imprimis dominum apostolicum requiram, deinde omnes primates Christianorum reges, duces, comites, et principatum regni tenentes, servitutis vestrae miseriam, et angustiarum tolerantiam cunctis insinuans.",
+      "derivation": "The patriarch's entire speech is an extended question-plus-plea (why do you press us when we are powerless, and we beg for Christian aid), quoted verbatim and contiguous as the question after dropping the framing tag 'pia et fidelia profert responsa:'. Petrus's reply is framed by 'Cui Petrus in hunc modum respondit:' (dropped). The answer skips Petrus's non-answering preamble ('Venerande Pater, satis comperimus... oppressionibus gentilium.', an acknowledgement of the Christians' weakness) and takes the operative answering sentence in which he promises to seek the pope and the Christian princes' aid; it stops before the closing sentence 'Jam omnia inter se haec nuntia aeque videntur ut fiant.'. Section markers [0390C]/[0391A] and the colon framing were stripped."
+    }
+  ]
+}

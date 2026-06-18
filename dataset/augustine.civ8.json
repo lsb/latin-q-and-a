@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/civ8.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 8.23 (Hermes/Asclepius, Asclepius Latinus)",
+      "type": "direct-speech",
+      "question": "Statuas dicis, o Trismegiste?",
+      "answer": "Statuas, o Asclepi, uides quatenus tu ipse diffidas; statuas animatas sensu et spiritu plenas tantaque facientes et talia, statuas futurorum praescias eaque sorte uate somniis multisque aliis rebus praedicentes, inbecillitates hominibus facientes easque curantes, tristitiam laetitiamque pro meritis.",
+      "derivation": "Direct-speech exchange quoted by Augustine from the Hermetic Asclepius. Question: dropped the asking-narration framing 'Hic cum Asclepius, ad quem maxime loquebatur, ei respondisset atque dixisset:' and kept Asclepius's verbatim utterance. Answer: dropped the reply-tag 'tum ille:' and the inline framing 'inquit' (narration of speaking) from 'Statuas, inquit, o Asclepi...'. The answer affirms and elaborates the question (yes, statues, and what they are). Cut the answer at the first full stop after 'tristitiam laetitiamque pro meritis.'; what follows ('An ignoras, o Asclepi, quod Aegyptus imago sit caeli...') turns from answering to a digression on Egypt as image of heaven, so it is excluded."
+    }
+  ]
+}

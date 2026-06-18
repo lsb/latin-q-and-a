@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/conf6.txt",
+  "pairs": [
+    {
+      "locus": "Confessions 6.6.9",
+      "type": "direct-speech",
+      "question": "Utrum mallem exultare an metuere?",
+      "answer": "Exultare.",
+      "derivation": "Framed by 'et si quisquam percontaretur me' (asking) and 'responderem' (answering), which are dropped as narration. The question is the verbatim indirect-interrogative content 'utrum mallem exultare an metuere' (utrum...an), normalized with initial capital and terminal '?'. The answer is the author's own quoted single word 'exultare', capitalized and given a full stop; the following clause 'rursus si interrogaret...' begins a new exchange and is excluded."
+    }
+  ]
+}

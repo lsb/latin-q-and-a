@@ -1,0 +1,26 @@
+{
+  "source": "text/albertanus/albertanus.arsloquendi.txt",
+  "pairs": [
+    {
+      "locus": "Albertanus, Ars loquendi et tacendi, Quis, punctum secundum",
+      "type": "direct-speech",
+      "question": "Cur tantum taceret, an quia stultus esset?",
+      "answer": "Stultus tacere non potest.",
+      "derivation": "From 'Nam et quidam sapiens interrogatus, cur tantum taceret, an quia stultus esset, respondit: Stultus tacere non potest.' Dropped the speech-tag framing 'Nam et quidam sapiens interrogatus' and 'respondit'; the indirect question 'cur tantum taceret, an quia stultus esset' is the verbatim content of what was asked, normalized with a terminal '?'. Answer is the full responding utterance to the first stop; what follows ('Alibi Salomo dixit...') is a new citation."
+    },
+    {
+      "locus": "Albertanus, Ars loquendi et tacendi, Quis, punctum quartum",
+      "type": "direct-speech",
+      "question": "Quomodo optime posset dicere?",
+      "answer": "Si tantummodo dixeris quod bene scieris.",
+      "derivation": "From 'Nam quidam sapiens interrogatus, quomodo optime posset dicere, respondit: Si tantummodo dixeris quod bene scieris.' Dropped framing 'Nam quidam sapiens interrogatus' and 'respondit'; 'quomodo optime posset dicere' is the verbatim asked content, normalized with '?'. Answer ends at the first full stop; what follows ('Et Jesus Sidrach: Si est tibi intellectus...') is a new citation."
+    },
+    {
+      "locus": "Albertanus, Ars loquendi et tacendi, Quid, punctum octavum (Ps. 119:3)",
+      "type": "authorial-rhetorical",
+      "question": "Quid detur aut quid apponatur ad linguam dolosam?",
+      "answer": "Dabuntur acutae sagittae potentis Dei cum carbonibus desolatoriis.",
+      "derivation": "From 'Et idem praeclare quaerit: Quid detur aut quid apponatur ad linguam dolosam? Et respondet verbo terribili: «Dabuntur acutae sagittae potentis Dei cum carbonibus desolatoriis.»' Dropped the framing 'Et idem praeclare quaerit' and 'Et respondet verbo terribili' and the surrounding quotation guillemets; the prophet poses the question and answers it himself. Answer is the full responding utterance; what follows ('Cavendum tibi summe...') is new exposition."
+    }
+  ]
+}

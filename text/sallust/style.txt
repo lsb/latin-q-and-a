@@ -1,0 +1,31 @@
+Sallust's Style
+
+Among the more common of Sallust's oddities—at least for the intermediate student—are the following:
+
+The accusative plural of third declension adjectives (and some nouns) regularly show -îs rather than -es. Thus montîs for montes, fortîs for fortes. Because the text has no macrons the form can be confused with the third declension genitive singular. Check the notes.
+
+Sallust regularly contracts the -erunt of the third person plural perfect to -êre. Thus fuêre in place of fuerunt, coepêre in place of coeperunt. These also are in the notes.
+
+An alternative form of the imperfect subjective of esse is sometimes found in Latin authors: foret in place of esset. This form will also appear in the pluperfect passive subjunctive. Thus, compertum foret instead of the more common compertum esset. Sallust makes wide use of this variant.
+
+Although Sallust uses the ut of purpose, he is equally likely to use uti and (very often) quo (which in other authors is normally used to express ut only in conjunction with a comparative).
+
+As with all Latin authors, Sallust regularly uses adjectives as substantives. Thus boni for "good men," incerta for "uncertain things," and quieta for "settled condition". This is by no means peculiar to Sallust (though his brevity will make it seem that he makes more use of it than other authors).
+
+Sallust's brevity can be challenging at first, but will soon become one of the charms of his style. Among the more common devices to achieve the "breathelssness" of his style are:
+
+1) Ellipsis. Expect verbs to be missing when not required for meaning. In indirect speech the esse of perfect passive and future active infinitives will often disappear. Indicative perfect passives can also lose their conjugated form of esse, as in: De superiore coniuratione satis dictum (where we would expect dictum est).
+
+2) Asyndeton (the ommission of conjunctions) resulting in "strings" of clauses without connectors, lists of words, and frequent lists of historical infinitives (see below).
+
+3) Use of polar opposites to express an entire range.
+
+4) Frequent parataxis in place of the complexities of Ciceronian Latin—short clauses, coordinated rather than subordinated, making frequent use of pronouns and particles to tie sentences together.
+
+Sallust is in love with the "historical infinitive". He will use an infinitive where normal rules of syntax would required a conjugated perfect tense. Rare in other authors, this form is used by Sallust so frequently that you will become accustomed to it quickly.
+
+Sallust uses some archaic spellings, such as -umus for -imus in superlatives (maxumum in place of maximum, proximum in place of proximum); -undus for -endus in gerunds (dicundi in place of dicendi, etc.); voltum in place of vultum, and the like.
+
+Sallust's choice of words was bold, sometimes innovative. He is fond of adverbs ending in -im (privatim, singillatim, partim, praesertim, paulatim, separatim), adjectives ending -osus (formidulosus, negotiosus, factiosus,) and abstract nouns in -tudo (multitudo, necessitudo, magnitudo, fortitudo, etc.). He uses common words with archaic meaning (check the notes, which will have both). On occasion a word will appear not found in earlier authors (antecapere, portatio, incruentus). Other composite words (incelebratus, incuriousus, etc.) may be his creations as well.
+
+Perhaps most disconcerting to the novice reader is Sallust's famous inconcinnitas—the lack of congruity or harmony in grammatical structures and a tendency to the unusual, unexpected, and asymmetrical. Sallust will vary the order of words in standard expressions; postpositives are found at the beginning of their sentence or clause. The balanced structures of Ciceronian prose are avoided in favor of odd pairings of prepositional phrases, of adverbs and ablatives, of conjugated verbs with historical infinitives, and the like. The result is striking and, according to Quintilian, ideally suited to historical narrative—provided the reader is attentive and intelligent!

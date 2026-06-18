@@ -1,0 +1,12 @@
+{
+  "source": "text/augustine/civ12.txt",
+  "pairs": [
+    {
+      "locus": "Augustine, De Civitate Dei 12.15",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo tu credis, sentis, intellegis? Numquidnam existimandum est subito Deo placuisse hominem facere, quem numquam antea infinita retro aeternitate fecisset, cui nihil noui accidere potest, in quo mutabile aliquid non est?",
+      "answer": "Secundum altitudinem tuam multiplicasti filios hominum.",
+      "derivation": "Authorial-rhetorical: Augustine voices an imagined question put to the psalmist and gives the psalm verse as its answer. Dropped the framing 'tamquam ei diceretur:' before the question and 'continuo respondit ad ipsum Deum loquens:' before the answer (both narrate the exchange). Stripped the editorial double-quote marks that the digitization put around the question. Normalized the capitalization of 'Numquidnam' after the first sentence. The answer is the full quoted psalm verse, ending at its full stop; what follows ('Sentiant, inquit, homines quod putant...') is Augustine's gloss elaborating on the verse, so the answer stops there."
+    }
+  ]
+}

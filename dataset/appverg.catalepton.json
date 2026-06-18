@@ -1,0 +1,12 @@
+{
+  "source": "text/appverg.catalepton.txt",
+  "pairs": [
+    {
+      "locus": "Catalepton 4.9-10",
+      "type": "authorial-rhetorical",
+      "question": "O quis te in terris loquitur iucundior uno?",
+      "answer": "Clio nam certe candida non loquitur.",
+      "derivation": "Verse; stripped poem-number marker 'IV.' and the dangling inline verse number '10'. Line 9 is a genuine interrogative ('who on earth speaks more pleasantly than you alone?') and line 10 answers it ('for surely not even fair Clio speaks [more pleasantly]', i.e. no one does). Kept verbatim and contiguous; 'O' is the speaker's own interjection. Did not extend forward into 'Quare illud satis est...' (line 11), which turns to a new conclusion, nor back into the preceding rhetorical questions (lines 4, 8) which receive no answer."
+    }
+  ]
+}
