@@ -1,0 +1,19 @@
+{
+  "source": "text/ovid/ovid.met8.txt",
+  "pairs": [
+    {
+      "locus": "Metamorphoses 8.573-578",
+      "type": "direct-speech",
+      "question": "quis ille locus? et insula nomen quod gerit illa, doce, quamquam non una videtur!",
+      "answer": "non est quod cernitis unum: quinque iacent terrae; spatium discrimina fallit.",
+      "derivation": "Theseus (maximus heros) asks Achelous about the land/island; speech tag 'inquit' and the parenthetical gesture-narration '(digitoque ostendit)' dropped as framing, keeping Theseus's own words contiguous. Answer is Achelous's reply ('Amnis ad haec ... inquit' tag dropped); cut at the first full stop after 'fallit' (the operative answer: it is not one but five lands), before he digresses into the naiads' tale ('quoque minus spretae factum mirere Dianae...')."
+    },
+    {
+      "locus": "Metamorphoses 8.855-868",
+      "type": "direct-speech",
+      "question": "o qui pendentia parvo aera cibo celas, moderator harundinis, sic mare conpositum, sic sit tibi piscis in unda credulus et nullos, nisi fixus, sentiat hamos: quae modo cum vili turbatis veste capillis litore in hoc steterat (nam stantem in litore vidi), dic, ubi sit: neque enim vestigia longius exstant.",
+      "answer": "quisquis es, ignoscas; in nullam lumina partem gurgite ab hoc flexi studioque operatus inhaesi, quoque minus dubites, sic has deus aequoris artes adiuvet, ut nemo iamdudum litore in isto, me tamen excepto, nec femina constitit ulla.",
+      "derivation": "The buyer/owner (dominus), seeing the girl transformed by Neptune into a fisherman, asks where the girl went; whole speech quoted as the question with only the 'inquit' speech tag dropped (the apostrophe and wish are the intelligible setup leading to 'dic, ubi sit'). Answer is the daughter's full deceptive reply ('illa ... his est resecuta rogantem:' tag dropped), which genuinely answers the 'where is she' question by denying any woman stood there; one sentence to the full stop after 'ulla', before the narration 'credidit et verso dominus...'."
+    }
+  ]
+}

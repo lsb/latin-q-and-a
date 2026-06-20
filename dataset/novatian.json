@@ -1,0 +1,12 @@
+{
+  "source": "text/novatian.txt",
+  "pairs": [
+    {
+      "locus": "Novatian, De Trinitate 2.8",
+      "type": "authorial-rhetorical",
+      "question": "Et quid per singula quaeque percurrens longum facio?",
+      "answer": "Semel totum explicabo.",
+      "derivation": "Novatian poses a genuine authorial self-question (why he prolongs the discourse by going through each attribute of God one by one) and answers it himself with the resolution 'Semel totum explicabo' ('I will explain the whole at once'). The answer window stops at the first full stop; the following sentence 'Quicquid omnino de illo rettuleris, rem aliquam ipsius magis et uirtutem quam ipsum explicaueris.' is the elaboration of the explanation, not the direct answer to the 'why am I doing this at length' question, so it is cut. Stripped the leading section marker 'II. 8.' as scaffolding. No editorial brackets present in this span."
+    }
+  ]
+}

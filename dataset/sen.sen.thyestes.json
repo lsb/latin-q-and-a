@@ -1,0 +1,40 @@
+{
+  "source": "text/sen/sen.thyestes.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Thyestes 205-207",
+      "type": "direct-speech",
+      "question": "Fama te populi nihil aduersa terret?",
+      "answer": "Maximum hoc regni bonum est, quod facta domini cogitur populus sui tam ferre quam laudare.",
+      "derivation": "Satelles asks a real interrogative; Atreus answers directly. Answer runs to the first full stop after 'laudare'; what follows is Satelles' next turn ('Quos cogit metus...'). Speaker labels SATELLES:/ATREVS: stripped."
+    },
+    {
+      "locus": "Seneca, Thyestes 716-718",
+      "type": "direct-speech",
+      "question": "Quem tamen ferro occupat?",
+      "answer": "Primus locus (ne desse pietatem putes) auo dicatur: Tantalus prima hostia est.",
+      "derivation": "Chorus asks whom Atreus strikes first; Nuntius answers. Answer ends at the full stop after 'hostia est'; the parenthetical '(ne desse pietatem putes)' is the speaker's own contiguous words and is kept. Speaker labels CHORVS:/NVNTIVS: and inline verse-number scaffolding stripped."
+    },
+    {
+      "locus": "Seneca, Thyestes 719-725",
+      "type": "direct-speech",
+      "question": "Quo iuuenis animo, quo tulit uultu necem?",
+      "answer": "Stetit sui securus et non est preces perire frustra passus; ast illi ferus in uulnere ensem abscondit et penitus premens iugulo manum commisit: educto stetit ferro cadauer, cumque dubitasset diu hac parte an illa caderet, in patruum cadit.",
+      "derivation": "Chorus asks with what spirit/expression the youth met death; Nuntius answers. Window kept contiguous to the first full stop after 'in patruum cadit' (the semicolons/colon inside are not sentence ends); what follows is a new sentence ('tunc ille ad aras Plisthenem...'). Speaker labels and inline verse number 720 stripped."
+    },
+    {
+      "locus": "Seneca, Thyestes 730-743",
+      "type": "direct-speech",
+      "question": "Quid deinde gemina caede perfunctus facit? puerone parcit, an scelus sceleri ingerit?",
+      "answer": "non aliter Atreus saeuit atque ira tumet, ferrumque gemina caede perfusum tenens, oblitus in quem fureret, infesta manu exegit ultra corpus, ac pueri statim pectore receptus ensis in tergo exstitit; cadit ille et aras sanguine extinguens suo per utrumque uulnus moritur.",
+      "derivation": "Chorus asks whether Atreus spares the boy. Nuntius's reply opens with a non-answering epic simile ('Silua iubatus qualis Armenia leo... piger'); per the skip-preamble rule the answer start is advanced to the operative 'non aliter Atreus saeuit...', which narrates the killing. Window ends at the full stop after 'moritur'. Speaker labels and inline verse number 740 stripped."
+    },
+    {
+      "locus": "Seneca, Thyestes 1100",
+      "type": "direct-speech",
+      "question": "Quid liberi meruere?",
+      "answer": "Quod fuerant tui.",
+      "derivation": "Thyestes asks what his children deserved; Atreus answers directly ('That they were yours'). Both half-lines are complete utterances; speaker labels THYESTES:/ATREVS: and inline verse number 1100 stripped."
+    }
+  ]
+}

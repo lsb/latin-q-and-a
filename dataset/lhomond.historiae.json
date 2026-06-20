@@ -1,0 +1,75 @@
+{
+  "source": "text/lhomond.historiae.txt",
+  "pairs": [
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 4",
+      "type": "direct-speech",
+      "question": "Cur non comedis fructum istius arboris?",
+      "answer": "Deus id prohibuit. Si tetigerimus illum, moriemur.",
+      "derivation": "Serpent's interrogative to the woman; speech tag 'dixit mulieri' dropped. Answer is the woman's reply via 'Mulier respondit:'; the tag is cut and both reply sentences kept (they explain why she does not eat). Stops before the serpent's next speech 'Minime, inquit serpens...'."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 5",
+      "type": "direct-speech",
+      "question": "Cur times nisi quia comedisti fructum vetitum?",
+      "answer": "Mulier, quam dedisti mihi sociam, porrexit mihi fructum istum, ut ederem.",
+      "derivation": "God's question; the interjected framing 'inquit Deus,' is dropped, leaving 'Cur times nisi quia...' contiguous. Answer from 'Adamus respondit:' with the tag cut; one sentence to the full stop. Stops before 'Dominus dixit mulieri:'."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 9",
+      "type": "direct-speech",
+      "question": "Ubi est tuus frater?",
+      "answer": "Nescio; num ego sum custos fratris mei?",
+      "derivation": "God's question 'Deus dixit Caino: ubi est tuus frater?'; speech tag dropped. Answer via 'Cainus respondit:' with tag cut; Cain's evasive reply genuinely answers. End of the exchange/section."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 18",
+      "type": "direct-speech",
+      "question": "Mi pater, ecce ligna; sed ubinam est hostia immolanda?",
+      "answer": "Deus sibi providebit hostiam, fili mi.",
+      "derivation": "Isaac's interrogative to his father; the framing 'Isaacus dixit patri:' dropped. The vocative setup 'mi pater, ecce ligna' is kept verbatim so the question is intelligible. Answer from 'Cui Abrahamus: Deus, inquit, sibi providebit...'; the framing 'Cui Abrahamus:' and interjected 'inquit,' are dropped, leaving the utterance contiguous."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 26",
+      "type": "direct-speech",
+      "question": "Quis est ille vir?",
+      "answer": "Ipse est herus meus.",
+      "derivation": "Rebecca's question 'interrogavit Eliezerem: quis est ille vir?'; narration dropped. Answer via 'Eliezer respondit:' with tag cut. Stops before 'Illa statim operuit se pallio.'"
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 31 (a)",
+      "type": "direct-speech",
+      "question": "Quisnam es tu?",
+      "answer": "Ego sum Esaus primogenitus tuus; feci quod iussisti, pater; surge, et comede de venatione mea.",
+      "derivation": "Isaac's question 'Cui Isaacus dixit: quisnam es tu?'; framing dropped. Answer from 'Iacobus respondit:' with tag cut; kept to the full stop (the contiguous reply identifying himself and urging Isaac to eat). Stops before 'Quomodo, ait Isaacus...'."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 31 (b)",
+      "type": "direct-speech",
+      "question": "Quomodo potuisti invenire tam cito?",
+      "answer": "Inveni, pater; Deus ita voluit.",
+      "derivation": "Isaac's question; the interjected framing 'ait Isaacus,' is dropped, leaving 'Quomodo potuisti invenire tam cito?' contiguous. Answer is the unframed reply 'Inveni, pater; Deus ita voluit.' Stops before 'Isaacus rursum:'."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 35 (a)",
+      "type": "direct-speech",
+      "question": "Fratres, unde estis?",
+      "answer": "Ex urbe Haran.",
+      "derivation": "Jacob's question 'dixit pastoribus: fratres, unde estis?'; narration dropped. Answer via 'Qui responderunt:' with tag cut. Stops before the next question."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 35 (b)",
+      "type": "direct-speech",
+      "question": "Nostisne Labanum?",
+      "answer": "Novimus.",
+      "derivation": "Jacob's question 'Quos interrogavit iterum: nostisne Labanum?'; narration dropped. Answer via 'Dixerunt: novimus.' with tag cut. The garbled '‚ Valetne? ‚' exchange that follows (scaffolding-corrupted punctuation) is left out."
+    },
+    {
+      "locus": "Lhomond, Epitome Historiae Sacrae 63",
+      "type": "direct-speech",
+      "question": "Salvusne est senex ille quem vos patrem habetis? Vivitne adhuc?",
+      "answer": "Salvus est pater noster; adhuc vivit.",
+      "derivation": "Joseph's two interrogatives 'interrogavitque: salvusne est... Vivitne adhuc?'; the framing verb dropped. Answer via 'Qui responderunt:' with tag cut. Stops before 'Iosephus autem, conjectis...'."
+    }
+  ]
+}

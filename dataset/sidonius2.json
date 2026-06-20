@@ -1,0 +1,19 @@
+{
+  "source": "text/sidonius2.txt",
+  "pairs": [
+    {
+      "locus": "Sidonius, Epistulae 2.1.1",
+      "type": "direct-speech",
+      "question": "Duo nunc pariter mala sustinent Arverni tui. Quaenam?",
+      "answer": "Praesentiam Seronati et absentiam tuam.",
+      "derivation": "Ecdicius asks 'quaenam?' ('which?'); the setup sentence 'Duo nunc pariter mala sustinent Arverni tui' is kept verbatim so 'quaenam' has its referent (the two evils). The framing tag 'inquis' after 'quaenam' is dropped as narration of the asking. The answer is Sidonius's reply naming the two evils; cut before 'Seronati, inquam: de cuius...', which turns from answering to digressing on the name Seronatus. First word capitalized, terminal punctuation normalized."
+    },
+    {
+      "locus": "Sidonius, Epistulae 2.13.6",
+      "type": "direct-speech",
+      "question": "Vis hodie saltim in hac mensa bonis meis pariter ac malis uti?",
+      "answer": "Libenter.",
+      "derivation": "Within the Damocles anecdote, Dionysius asks whether Damocles wishes to share his goods and ills at table; Damocles answers 'libenter'. The interleaved speech tags 'inquit Dionysius' (inside the question) and 'inquit' (after the answer) are dropped as framing. Question's first word capitalized; answer's terminal comma normalized to a full stop."
+    }
+  ]
+}

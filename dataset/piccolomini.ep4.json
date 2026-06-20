@@ -1,0 +1,96 @@
+{
+  "source": "text/piccolomini.ep4.txt",
+  "pairs": [
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quenam est hec domina, cujus expectatur vocatio?",
+      "answer": "Hera Fortuna, cujus munere omnes, qui sumus hic, feliciter vivimus.",
+      "derivation": "Aeneas asks Vegius about the awaited mistress. Answer drops the framing 'respondit Vegius' and normalizes the capital H; the operative answering sentence runs to the first full stop ('feliciter vivimus.'); what follows ('illi totus obedit orbis...') is elaboration and is cut."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Qui sunt hi, obsecro, sedentes viri, reverentia digni subtristesque?",
+      "answer": "Hi sunt, quos hec domina ab initio nascentis mundi dignata est magnos facere.",
+      "derivation": "Aeneas asks Vegius about the seated translucent shades. Answer drops the framing 'inquit Vegius' and ends at the first full stop ('magnos facere.'); what follows ('sed jam satis functi huc venerunt...') is elaboration and is cut."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quenam horum fortuna est omnium?",
+      "answer": "Bona, si tuus herus fortune vocibus auscultaverit, varia si obaudiverit.",
+      "derivation": "Aeneas asks Vegius about the fortune of the assembled living men. Answer drops the framing 'inquit Vegius' and normalizes the capital B; runs to the full stop ('obaudiverit.'); the next sentence ('dum famur, video parva statura virum...') resumes the narrative and is cut."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Video togatos quosdam, quinam sunt hi?",
+      "answer": "Primus est meus pontifex.",
+      "derivation": "Aeneas asks Vegius about the toga-clad figures. Setup 'Video togatos quosdam' is kept verbatim so 'hi' has a referent. Answer drops the framing 'inquit Vegius' and ends at the first full stop ('meus pontifex.'); what follows ('num Eugenium nosti?') is a new question and is cut."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quis te huc accersivit, Enea?",
+      "answer": "Nemo, sed avidus te visendi introgressus sum.",
+      "derivation": "Fortuna challenges Aeneas. Question drops the inline speech tag 'inquit'. Answer drops 'inquam ego', normalizes the capital N, and runs to the full stop ('introgressus sum.'); what follows ('noli mihi succensere...') is a further plea and is cut."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quamdiu es hominibus blanda?",
+      "answer": "Nulli diu.",
+      "derivation": "First of Fortuna's rapid-fire replies to Aeneas. Answer drops the framing 'respondit' and normalizes the capital N; ends at the full stop before the next question ('iterum ego:')."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quibus artibus potest tuus favor acquiri?",
+      "answer": "Nullis, nisi solius importunitatis remedio.",
+      "derivation": "Aeneas asks how Fortune's favor is won. Answer drops the framing 'inquit illa' and normalizes the capital N; runs to the full stop before the next question."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quis te plus aliis retinet?",
+      "answer": "Qui meum imperium majori sustinet animo.",
+      "derivation": "Stichomythic Q&A with Fortuna; question and answer are adjacent with no framing to strip; ends at the full stop before the next question."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quis tibi odiosior?",
+      "answer": "Pusillanimis.",
+      "derivation": "Stichomythic Q&A with Fortuna; one-word answer adjacent to the question, no framing; ends at the full stop before the next question."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quis te tute spernere potest?",
+      "answer": "Sapiens.",
+      "derivation": "Stichomythic Q&A with Fortuna; one-word answer adjacent to the question, no framing; ends at the full stop before the next question."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quando mihi blandior eris?",
+      "answer": "Cum te vocabo.",
+      "derivation": "Stichomythic Q&A with Fortuna; answer adjacent to the question, no framing; ends at the full stop before the next question."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Sumne vocandus?",
+      "answer": "Scies postea.",
+      "derivation": "Stichomythic Q&A with Fortuna; answer adjacent to the question, no framing; ends at the full stop before the next question."
+    },
+    {
+      "locus": "Piccolomini, Epistula ad Procopium de Rabenstein (Somnium de Fortuna)",
+      "type": "direct-speech",
+      "question": "Quis tibi ex omnibus viventibus est acceptior?",
+      "answer": "Qui me fugat, non qui fugit.",
+      "derivation": "Last of Fortuna's stichomythic replies; answer adjacent to the question, no framing; ends at the full stop ('non qui fugit.'); what follows ('satis habeo, vale.') is Aeneas closing the dialogue."
+    }
+  ]
+}

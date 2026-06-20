@@ -1,0 +1,12 @@
+{
+  "source": "text/sha/firmus.txt",
+  "pairs": [
+    {
+      "locus": "Historia Augusta, Quadrigae Tyrannorum (Firmus) 4.4",
+      "type": "direct-speech",
+      "question": "Quare non faeces bibisti?",
+      "answer": "Stulte, terra non bibitur.",
+      "derivation": "Direct-speech exchange: the soldier Burburus, having lost the drinking contest, genuinely asks Firmus (interrogative 'quare') why he did not drink the dregs; Firmus answers. Stripped framing 'et cum ei Burburus diceret:' before the question and 'respondit ille:' after it; normalized capitalization of 'quare' and 'stulte'. No editorial brackets in this span. Both utterances quoted verbatim and complete."
+    }
+  ]
+}

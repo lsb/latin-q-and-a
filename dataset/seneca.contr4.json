@@ -1,0 +1,26 @@
+{
+  "source": "text/seneca.contr4.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Controversiae 4.3",
+      "type": "authorial-rhetorical",
+      "question": "Quomodo me excusabo rei publicae, cui duos abstuli?",
+      "answer": "Neutrum mea culpa: in altero me fortuna decepit, in altero filius.",
+      "derivation": "Declamatory sententia: the speaker poses the rhetorical interrogative (quomodo) and immediately answers it. Answer window is the next full sentence, which exculpates him ('neither was my fault...'). Stops at the full stop before 'Filia etiam fratri paruit', which begins a new point. First word of answer capitalized; no Latin altered."
+    },
+    {
+      "locus": "Seneca, Controversiae 4.5",
+      "type": "authorial-rhetorical",
+      "question": "Quo pacto istud evenit, ut abdicatione mea pater aegrotaret, reditu noverca?",
+      "answer": "Pietati cessere morbi.",
+      "derivation": "Sententia from the Privignus medicus declamation: the disowned son's rhetorical question (Quo pacto = 'how did it come about') is answered by the following sentence explaining the cause ('the diseases yielded to filial duty'). Answer ends at the full stop; what follows ('Medicinam relinquo...') begins a separate sententia. No Latin altered."
+    },
+    {
+      "locus": "Seneca, Controversiae 4.5",
+      "type": "authorial-rhetorical",
+      "question": "Quomodo te sanaverim?",
+      "answer": "Non tibi medicus sed filius profui.",
+      "derivation": "From '...quaeris, quomodo te sanaverim? non tibi medicus sed filius profui.' The framing verb 'quaeris,' ('you ask') narrates the asking and is dropped per the rules; the bare interrogative remains, first word capitalized. The next sentence genuinely answers it ('I helped you not as a doctor but as a son'). Answer stops at the full stop before 'desiderio laborabas', which begins elaboration. No Latin altered."
+    }
+  ]
+}

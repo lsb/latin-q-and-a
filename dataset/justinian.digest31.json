@@ -1,0 +1,40 @@
+{
+  "source": "text/justinian/digest31.txt",
+  "pairs": [
+    {
+      "locus": "Digest 31.33.1",
+      "type": "authorial-rhetorical",
+      "question": "Qui plures heredes instituit, testamento a quibusdam nominatim reliquit legata, postea codicillos ad omnes heredes scripsit: quae legata debeant?",
+      "answer": "Cum manifeste testator testamento expresserit, a quibus heredibus legata praestari vellet, licet codicillos ad omnes scripserit, apparet tamen ea quae codicillis dedit ab his praestanda esse, quos munere fungi debere testamento suo ostendit testator.",
+      "derivation": "Consultation form. Dropped framing verb 'quaero' before the interrogative and 'modestinus respondit:' before the answer; capitalized 'Quae'->question opener kept, normalized terminal to '?'. Question's setup (the 'Qui plures heredes...' clause) is kept verbatim so 'quae legata' has a referent. Answer is the full response sentence (one full stop)."
+    },
+    {
+      "locus": "Digest 31.88pr",
+      "type": "authorial-rhetorical",
+      "question": "Si id, quod exegisset pater ex nominibus filii ante testamentum factum, iterum post testamentum factum in nomen filii convertisset, an ad filium secundum sententiam pertineret?",
+      "answer": "Id, quod ex eadem causa exactum in eandem causam redisset, deberi.",
+      "derivation": "Dropped framing 'quaero,' before the question and 'respondi' before the answer; capitalized 'Si', normalized terminal to '?' and dropped the dangling comma after 'respondi'. The 'an...pertineret' interrogative is preserved; the answer (indirect statement 'deberi') directly resolves it."
+    },
+    {
+      "locus": "Digest 31.88.10",
+      "type": "authorial-rhetorical",
+      "question": "\"Quisquis mihi heres erit, sciat debere me demetrio patruo meo denaria tria et deposita apud me a seleuco patruo meo denaria tria, quae etiam protinus reddi et solvi eis iubeo\": an, si non deberentur, actio esset?",
+      "answer": "Si non deberentur, nullam quasi ex debito actionem esse, sed ex fideicommisso.",
+      "derivation": "Kept the verbatim testamentary clause as setup so 'si non deberentur' has a referent. Dropped framing 'quaesitum est,' before the question and 'respondi,' before the answer; capitalized 'Si', normalized terminal to '?'. Answer is the full responding sentence."
+    },
+    {
+      "locus": "Digest 31.88.13",
+      "type": "authorial-rhetorical",
+      "question": "Codicillis gaio seio centum legavit eiusque fidei commisit, ut ancillae testatoris ea daret: an utile fideicommissum sit, quod legatarius ancillae testatoris dare iussus est?",
+      "answer": "Non esse.",
+      "derivation": "Kept the verbatim setup ('Codicillis gaio seio... daret') so the question is intelligible. Dropped framing 'quaero,' and 'respondi'; capitalized 'Codicillis', normalized terminal to '?'. Answer 'non esse' (= it is not [valid]) directly answers 'an utile... sit'."
+    },
+    {
+      "locus": "Digest 31.89.2",
+      "type": "authorial-rhetorical",
+      "question": "Seio, si mihi heres non erit, et uxori eius Marcellae argenti libras quindecim dari volo. Cum seius heres exstiterit, an Marcellae legati dimidia portio debeatur?",
+      "answer": "Secundum ea quae proponerentur deberi.",
+      "derivation": "Kept the verbatim legacy clause ('Seio, si mihi heres non erit... dari volo') as setup so 'dimidia portio' is intelligible; the bracketing speech-frame around the quote and the framing 'quaero,'/'respondi' are dropped. Capitalized openers, normalized terminal to '?'. Answer directly resolves whether the half-share is owed."
+    }
+  ]
+}

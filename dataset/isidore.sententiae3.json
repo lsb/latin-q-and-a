@@ -1,0 +1,19 @@
+{
+  "source": "text/isidore/sententiae3.txt",
+  "pairs": [
+    {
+      "locus": "Isidore, Sententiae 3.5.6",
+      "type": "authorial-rhetorical",
+      "question": "Si Domini cur malus? Si malus, cur Domini?",
+      "answer": "Duobus uerbis conprehensa est et Dei potestas iusta et diaboli uoluntas iniusta.",
+      "derivation": "On the scriptural phrase 'spiritus Domini malus inruebat in Saul' Isidore poses a paired question and answers it himself. Dropped the asking-framing 'Vbi iuste quaeritur:' before the question and the connective 'Sed' before the answer (both narrate the posing). Answer ends at the first full stop; the following 'Nam spiritus malus per nequissimam uoluntatem...' is explanatory elaboration and is omitted."
+    },
+    {
+      "locus": "Isidore, Sententiae 3.48.10",
+      "type": "authorial-rhetorical",
+      "question": "Dum apostolus dicat: Non est potestas nisi a Deo, quomodo Dominus per prophetam de quibusdam potestatibus dicit: Ipsi regnauerunt, sed non ex me, quasi diceret non me propitio, etiamsi me irato?",
+      "answer": "Quo manifestius elucet bonam malamque potestatem a Deo ordinari, sed bonam propitius, malam iratus.",
+      "derivation": "Isidore raises an apparent contradiction between Rom. 13:1 and a prophetic text, then resolves it. Question kept whole and contiguous (only the artifact missing space in 'a Deo,quomodo' normalized to 'a Deo, quomodo'). The answer's start is advanced past the non-answering scriptural elaboration 'Vnde inferius per eundem prophetam adicit: Dabo, inquit, tibi regem in furore meo.' to the operative answering sentence, which is the final sentence of the section."
+    }
+  ]
+}

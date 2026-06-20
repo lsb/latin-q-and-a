@@ -1,0 +1,47 @@
+{
+  "source": "text/justinian/digest21.txt",
+  "pairs": [
+    {
+      "locus": "Digest 21.1.25.5 (Ulpian)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo, si culpa, non etiam dolo emptoris servus deterior factus sit?",
+      "answer": "Aeque condemnabitur.",
+      "derivation": "Self-contained authorial rhetorical question and answer forming the whole of section 21.1.25.5. The interrogative 'Quid ergo, si... factus sit?' is answered directly by 'Aeque condemnabitur.' No framing to cut; only normalized the initial capital and terminal punctuation. Surrounding sections (25.4, 25.6) are separate juristic points."
+    },
+    {
+      "locus": "Digest 21.1.62 (Modestinus)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo si res ab eo cui donata est melior facta sit, numquid quanti eius qui meliorem fecit interest donator conveniatur?",
+      "answer": "Quod minime dicendum est, ne eo casu liberalitatis suae donator poenam patiatur.",
+      "derivation": "Authorial self-posed question (signalled by 'quid ergo si... numquid... conveniatur?') answered immediately by 'Quod minime dicendum est...'. Answer window ends at the first full stop ('patiatur'); the following 'itaque si qua res donetur...' moves on to a fresh consequence, so it is excluded. The earlier setup in the section establishes that gifts (res donatae) are not covered by the aedilician edict, giving 'res' its referent, but the question is self-intelligible. Normalized only capitalization/terminal punctuation."
+    },
+    {
+      "locus": "Digest 21.1.56 (Paulus)",
+      "type": "direct-speech",
+      "question": "Quaero, an fideiussori emptionis redhiberi mancipium possit?",
+      "answer": "Si in universam causam fideiussor sit acceptus, putat Marcellus posse ei fideiussori redhiberi.",
+      "derivation": "Consultation: 'Latinus largus:' (naming the questioner) is framing and dropped. The question 'quaero, an fideiussori emptionis redhiberi mancipium possit' is kept verbatim. The reply's speech-tag 'respondi,' is dropped; the operative answer 'si in universam causam fideiussor sit acceptus, putat Marcellus posse ei fideiussori redhiberi' is the entire response, ending at the section's full stop. Normalized capitalization and added '?'."
+    },
+    {
+      "locus": "Digest 21.2.12 (Scaevola)",
+      "type": "direct-speech",
+      "question": "Quidam ex parte dimidia heres institutus universa praedia vendidit et coheredes pretium acceperunt: evictis his quaero, an coheredes ex empto actione teneantur?",
+      "answer": "Si coheredes praesentes adfuerunt nec dissenserunt, videri unumquemque partem suam vendidisse.",
+      "derivation": "The setup sentence is kept verbatim so that 'coheredes' and 'his' have referents (self-contained rule). The interrogative is 'quaero, an coheredes ex empto actione teneantur'. The reply's speech-tag 'respondi,' is dropped; the operative conditional answer 'si coheredes praesentes adfuerunt nec dissenserunt, videri unumquemque partem suam vendidisse' is the full response. Normalized capitalization and terminal '?'."
+    },
+    {
+      "locus": "Digest 21.2.39.3 (Julian)",
+      "type": "direct-speech",
+      "question": "Pater sciens filium suum quem in potestate habebat ignoranti emptori vendidit: quaesitum est, an evictionis nomine teneatur?",
+      "answer": "Qui liberum hominem sciens vel ignorans tamquam servum vendat, evictionis nomine tenetur.",
+      "derivation": "The fact-setup is kept so 'pater' and 'teneatur' have referents. Interrogative: 'quaesitum est, an evictionis nomine teneatur'. The reply tag 'respondit:' is dropped; the answer's first sentence 'qui liberum hominem sciens vel ignorans tamquam servum vendat, evictionis nomine tenetur' is taken as the operative answer, stopping before 'quare etiam pater...' which restates the application. Normalized capitalization and '?'."
+    },
+    {
+      "locus": "Digest 21.2.46.2 (Africanus)",
+      "type": "direct-speech",
+      "question": "Cum tibi stichum venderem, dixi eum statuliberum esse sub hac condicione manumissum \"si navis ex asia venerit\", is autem \"si titius consul factus fuerit\" manumissus erat: quaerebatur, si prius navis ex asia venerit ac post titius consul fiat atque ita in libertatem evictus sit, an evictionis nomine teneatur?",
+      "answer": "Non teneri eum: etenim dolo malo emptorem facere, cum prius exstiterit ea condicio, quam evictionis nomine exsolverit.",
+      "derivation": "The hypothetical setup is kept verbatim so the question's references (the seller, the conditions, 'teneatur') are intelligible. Interrogative: 'quaerebatur, si... an evictionis nomine teneatur'. The reply tag 'respondit' is dropped; the answer 'non teneri eum: etenim dolo malo emptorem facere...' is the whole response to the section's end. Normalized capitalization and '?'."
+    }
+  ]
+}

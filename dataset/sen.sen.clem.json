@@ -1,0 +1,26 @@
+{
+  "source": "text/sen/sen.clem.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, De Clementia 1.12.1",
+      "type": "direct-speech",
+      "question": "Quid ergo? Non reges quoque occidere solent?",
+      "answer": "Sed quotiens id fieri publica utilitas persuadet; tyrannis saevitia cordi est.",
+      "derivation": "An interlocutor's objection (quoted in single quotes) is genuinely answered by the author. The answer is the direct reply; it ends at the first full stop after 'cordi est', before the digression beginning 'Tyrannus autem a rege factis distat...' which elaborates on the tyrant/king distinction rather than answering the question."
+    },
+    {
+      "locus": "Seneca, De Clementia 1.14.1",
+      "type": "authorial-rhetorical",
+      "question": "Quod ergo officium eius est?",
+      "answer": "Quod bonorum parentium, qui obiurgare liberos non numquam blande, non numquam minaciter solent, aliquando admonere etiam verberibus.",
+      "derivation": "Author poses the question (the prince's duty) and answers it himself. Section marker '1.' stripped from the start. The answer runs to the first full stop; the following sentence 'Numquid aliquis sanus filium a prima offensa exheredat?' opens a new line of argument and is cut."
+    },
+    {
+      "locus": "Seneca, De Clementia 2.7.1",
+      "type": "direct-speech",
+      "question": "At quare non ignoscet?",
+      "answer": "Ei ignoscitur, qui puniri debuit; sapiens autem nihil facit, quod non debet, nihil praetermittit, quod debet; itaque poenam, quam exigere debet, non donat.",
+      "derivation": "An interlocutor's objection (quoted) about why the wise man will not pardon. The reply opens with a non-answering preamble ('Agedum constituamus nunc quoque, quid sit venia... Venia est poenae meritae remissio. Hanc sapiens quare non debeat dare, reddunt rationem diutius, quibus hoc propositum est; ego ut breviter tamquam in alieno iudicio dicam:'), so the answer start is advanced to the operative contiguous sentence 'Ei ignoscitur...'. It ends at the first full stop after 'non donat', before the new point '2. Sed illud, quod ex venia consequi vis...'."
+    }
+  ]
+}

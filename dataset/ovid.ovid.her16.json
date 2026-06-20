@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.her16.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Heroides 16.187-188",
+      "type": "authorial-rhetorical",
+      "question": "Quid tibi de turba narrem numeroque virorum?",
+      "answer": "Vix populum tellus sustinet illa suum.",
+      "derivation": "Paris poses a deliberative question to himself (quid narrem, 'what should I tell you of the crowd and number of men?') and immediately answers it in the pentameter by describing the multitude (the land scarcely holds its own people). Question is the hexameter, answer is the following pentameter (one full sentence). Inline verse-number scaffolding and the title/footer were stripped; no editorial brackets present here. Surrounding rhetorical questions (e.g. 369-372 num/numquid series, Cassandra's 'quo ruis?') were dropped as rhetorical with no real self-answer."
+    }
+  ]
+}

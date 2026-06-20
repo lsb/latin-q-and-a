@@ -1,0 +1,61 @@
+{
+  "source": "text/justinian/digest33.txt",
+  "pairs": [
+    {
+      "locus": "Digest 33.1.5 (Modestinus)",
+      "type": "direct-speech",
+      "question": "Uxor supervixit marito quinquennio et quattuor mensibus: an heredibus eius sexti anni legatum integrum debeatur?",
+      "answer": "Integri sexti anni legatum deberi.",
+      "derivation": "Question is the verbatim 'an heredibus eius sexti anni legatum integrum debeatur' after dropping the speech-frame 'quaero,'; I kept the immediately preceding verbatim sentence 'Uxor supervixit marito quinquennio et quattuor mensibus' so 'sexti anni' has its referent. Answer follows the dropped tag 'modestinus respondit'; it directly answers (the full sixth-year legacy is owed)."
+    },
+    {
+      "locus": "Digest 33.1.6 (Modestinus)",
+      "type": "direct-speech",
+      "question": "An, cum praesidendi mentionem fecerit, ad tempus fideicommissum an perpetuo praestari voluerit?",
+      "answer": "Fideicommissum quotannis in perpetuum rei publicae praestandum esse.",
+      "derivation": "Question is the verbatim 'an, cum praesidendi mentionem fecerit, ad tempus fideicommissum an perpetuo praestari voluerit' after dropping the frame 'quaero igitur,'; words kept in source order, only first-letter capitalized. Answer follows dropped tag 'modestinus respondit' and substantively answers (in perpetuity, every year, to the city)."
+    },
+    {
+      "locus": "Digest 33.1.13pr. (Scaevola)",
+      "type": "direct-speech",
+      "question": "Cum lucius titius aliquo tempore maevii negotia gesserit et per eum non stet, quo minus gerat, publius autem maevius nollet eum administrare, an fideicommissum praestari debeat?",
+      "answer": "Si non propter fraudem aliamve quam iustam causam improbandae operae causa remotus esset a negotiis, quae administrare secundum defuncti voluntatem vellet, percepturum legatum.",
+      "derivation": "Question is verbatim and contiguous after dropping the frame 'quaero,'. Answer follows the dropped tag 'respondi'; it is the full conditional ruling that genuinely answers (he takes the legacy unless removed for fraud or just cause)."
+    },
+    {
+      "locus": "Digest 33.2.8 (Gaius)",
+      "type": "authorial-rhetorical",
+      "question": "Si usus fructus municipibus legatus erit, quousque in eo usu fructu tuendi sint?",
+      "answer": "Centum annos observandos esse constat, qui finis vitae longissimus esset.",
+      "derivation": "A genuine 'quousque' question the jurist poses and answers. Question is the verbatim conditional plus interrogative after dropping the frame 'quaeritur,'. Answer is the operative concluding sentence 'unde centum annos observandos esse constat...' with the connective 'unde' dropped as framing; it directly answers (a hundred years). The intervening sentence 'nam si quis eos perpetuo tuetur...' is explanatory, not the answer, so the answer-window starts at 'centum annos'."
+    },
+    {
+      "locus": "Digest 33.2.16 (Modestinus)",
+      "type": "direct-speech",
+      "question": "Legatum civitati relictum est, ut ex reditibus quotannis in ea civitate memoriae conservandae defuncti gratia spectaculum celebretur, quod illic celebrari non licet: quid de legato existimes?",
+      "answer": "Iniquum esse hanc quantitatem, quam in spectaculum defunctus destinaverit, lucro heredum cedere: igitur adhibitis heredibus et primoribus civitatis dispiciendum est, in quam rem converti debeat fideicommissum, ut memoria testatoris alio et licito genere celebretur.",
+      "derivation": "Question is 'quid de legato existimes' (frame 'quaero,' dropped), preceded by its verbatim setup so 'de legato' has a referent. The reply opens 'respondit, cum testator spectaculum edi voluerit in civitate, sed tale, quod ibi celebrari non licet,' which only restates the premise and does not answer; I advance the answer-start to the operative clause 'iniquum esse...' and run contiguously to the end, where the real holding lies (convert the fideicommissum to another lawful commemoration)."
+    },
+    {
+      "locus": "Digest 33.2.18 (Modestinus)",
+      "type": "direct-speech",
+      "question": "Qui plures habebat libertos, testamento suo dixit se habitationem relinquere iis quos codicillis designasset: cum nullos postea designaverit, an omnes admitti debeant?",
+      "answer": "Si patronus, qui se designaturum personas libertorum pollicitus est, nullum postea designavit, legatum habitationis perfectum esse non videtur, non existente cui datum intellegi possit.",
+      "derivation": "Question is the verbatim 'cum nullos postea designaverit, ... an omnes admitti debeant' (frame 'quaero,' dropped), with its preceding verbatim setup so 'omnes' has a referent. Answer follows dropped tag 'respondit' and genuinely answers (the habitatio legacy is not perfected, so they are not all admitted)."
+    },
+    {
+      "locus": "Digest 33.4.16 (Scaevola, ap. Paulus)",
+      "type": "direct-speech",
+      "question": "Qui dotem a matre uxoris acceperat et stipulanti ei promiserat, testamento uxori dotem legavit. An uxor dotis summam consequi posset?",
+      "answer": "Non videri dari uxori, quod necesse sit matri reddi.",
+      "derivation": "Question is the verbatim 'an uxor dotis summam consequi posset' (frame 'cum quaesitum esset,' dropped), preceded by its verbatim factual setup. Answer follows the dropped tag 'respondit scaevola' and genuinely answers (it is not deemed given to the wife, since it must be returned to her mother). Stopped at the first full stop, before the alternative qualification 'alias sic respondit...'."
+    },
+    {
+      "locus": "Digest 33.5.21 (Scaevola)",
+      "type": "direct-speech",
+      "question": "Cum mater elegerit, an ea, quae ex his mancipiis ante nuptias adgnata sunt, ad puellam supra numerum decem mancipiorum pertineant?",
+      "answer": "Cum mancipiorum legatum in tempus nuptiarum testator transtulit, id quod medio tempore ancillae enixae sunt ad filiam non pertinere.",
+      "derivation": "Question is verbatim after dropping the frame 'quaesitum est,'. Answer follows the dropped tag 'respondit' and genuinely answers (slaves born in the interim do not belong to the girl beyond the ten). Stopped at the first full stop, before the separate 'idem quaesiit...' question."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/quintilian/quintilian.decl.mai9.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Declamatio Maior 9.7-8",
+      "type": "direct-speech",
+      "question": "Et unde tibi pecunia, nisi redistis in gratiam, et te pater meus misit?",
+      "answer": "Si dives essem, pecuniam pro te attulissem. Quod unum pauperibus praesidium est, manus habeo. Has piratis daturus fui, has pro te in pugnam vicarias dabo.",
+      "derivation": "Direct-speech exchange at the reunion in the gladiatorial school. The speaker asks his friend where he got money to redeem him (framing tag 'inquam' dropped; the utterance kept contiguous, including 'nisi redistis in gratiam, et te pater meus misit'). The friend's reply (framing 'inquit' dropped) directly answers 'unde tibi pecunia': he has no money, only his hands, which he will give as a vicarius. The whole reply is one continuous answer, so no trimming. The authorial apostrophe 'Audite gentes... fuisse captivi?' that intervenes between question and answer in the printed text is narration of the exchange, not part of either utterance, so it is excluded. Not included: the earlier exchange 'Quid tu... numquid et te vendidere piratae?' — the friend's uttered reply 'satis vixi' does not answer how/whether he was sold here, and the real answer (he came to redeem the speaker) is given only in indirect narration ('ut vero causas itineris reddidit et venisse se ad redimendum indicavit'), so that pair is dropped (prefer false negatives)."
+    }
+  ]
+}

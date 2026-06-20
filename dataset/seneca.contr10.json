@@ -1,0 +1,54 @@
+{
+  "source": "text/seneca.contr10.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Controversiae 10.3 (theme)",
+      "type": "direct-speech",
+      "question": "Quemadmodum tibi vis satisfaciam?",
+      "answer": "Morere!",
+      "derivation": "From the controversia theme: the daughter, not received into the house, 'dixit: quemadmodum tibi vis satisfaciam?' and 'ille respondit: morere!' Dropped the framing 'dixit'/'ille respondit'. Genuine direct-speech question explicitly answered (respondit). Capitalized first word; the answer is the father's whole one-word reply."
+    },
+    {
+      "locus": "Seneca, Controversiae 10.1.3 (Moschus)",
+      "type": "direct-speech",
+      "question": "Quare me reum non facis?",
+      "answer": "Quia accusatorem me non times.",
+      "derivation": "Moschus voices the rich man's quoted question (\"'Quare' inquit 'me reum non facis?'\") and the poor man answers. Dropped the framing 'inquit'; stripped the editorial bracket in 'qui(a)' -> 'quia', capitalizing it. Genuine interrogative directly answered; stops at the full stop before the next sentence ('Mortuo patre...')."
+    },
+    {
+      "locus": "Seneca, Controversiae 10.1.5 (Fulvius Sparsus)",
+      "type": "direct-speech",
+      "question": "Cur non agis?",
+      "answer": "Quia vis tecum agi.",
+      "derivation": "Quoted adversary's question ('Cur non agis?') immediately answered by the speaker ('quia vis tecum agi'). Capitalized the answer's first word. Genuine interrogative + genuine answer; bounded by the surrounding rhetorical questions which are not part of the exchange."
+    },
+    {
+      "locus": "Seneca, Controversiae 10.1.11 (Albucius)",
+      "type": "direct-speech",
+      "question": "Quare sequeris me?",
+      "answer": "Ut aliquando mei miserearis, ut desinas afflictam domum persequi, ut scias me in hoc habitu accusare non posse, ut concupiscas gloriam vindicatae mortis: tu solus potes, si voles, invenire, quis occiderit, tu accusare.",
+      "derivation": "Albucius voices the rich man's quoted question (\"'quare' inquit 'sequeris me?'\") answered by the poor man's purpose-clauses. Dropped framing 'inquit'; capitalized first words. Stripped editorial bracket '(hoc)' -> 'hoc'. Answer ends at the first full stop ('tu accusare.'); the reply then turns to a new quoted objection ('at me quidam propter hoc suspectum habent')."
+    },
+    {
+      "locus": "Seneca, Controversiae 10.1.12 (Gallio)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo? Si inimicus est, protinus interfector est?",
+      "answer": "Non; ideo non accuso.",
+      "derivation": "Gallio frames an imagined objector ('dicet aliquis') posing the question, then answers it himself. Dropped the framing 'dicet aliquis'; capitalized first words. Genuine interrogative ('is he immediately the killer?') answered directly ('No; that is why I do not prosecute')."
+    },
+    {
+      "locus": "Seneca, Controversiae 10.2.10 (Gallio)",
+      "type": "authorial-rhetorical",
+      "question": "Si nihil profecero, quid me facturum putas?",
+      "answer": "Ad statuas tuas confugiam.",
+      "derivation": "Self-posed question answered by the speaker. Dropped narration ('cum diu deprecatus esset, ait'); stripped editorial bracket 'prof(ec)ero' -> 'profecero'. Skipped the non-answering preamble of rejected options ('ad templa iturum aut ad deos supplicem?') and advanced the answer's start to the operative answering clause."
+    },
+    {
+      "locus": "Seneca, Controversiae 10.3.16 (Montanus Votienus)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo? Propter quem?",
+      "answer": "Scis illam unum habuisse, pro quo mori posset.",
+      "derivation": "Montanus, having argued she did not die because of her father, voices an imagined interlocutor's question ('Quid ergo? inquis, propter quem?') and answers it. Dropped the framing 'inquis'; capitalized first words. Genuine interrogative ('on whose account [did she die]?') genuinely answered."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/petrarch.ep1.txt",
+  "pairs": [
+    {
+      "locus": "Petrarch, Epistolae ad Familiares (Rerum Familiarium) 24.4",
+      "type": "authorial-rhetorical",
+      "question": "Quisnam dux ille sit?",
+      "answer": "Publius Virgilius Maro est, Mantuanus civis, de quo egregie vaticinatus es.",
+      "derivation": "Author poses the reader's own question and answers it. Dropped the framing speech-tag 'quaeris' (\"you ask\") that narrates the asking; normalized the leading 'quisnam' to a capital and added the terminal '?'. The reply opens with the non-answering preamble/deflection 'nosti hominem, si modo nominis meministi:' (\"you know the man, if only you remember the name\"), which is skipped; the answer start advances to the operative answering sentence 'Publius Virgilius Maro est...'. Ended at the first full stop, before the next sentence 'Cum enim, ut scriptum legimus...' which digresses into Cicero's prophecy about Virgil."
+    }
+  ]
+}

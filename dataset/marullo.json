@@ -1,0 +1,19 @@
+{
+  "source": "text/marullo.txt",
+  "pairs": [
+    {
+      "locus": "Marullus, Epigrammata 1.28",
+      "type": "direct-speech",
+      "question": "Qui comites?",
+      "answer": "Dolor, Querelae, Lamentatio, Lacrimae perennes, Langor, Anxietas, Amaritudo, aut si triste magis potest quid esse.",
+      "derivation": "Question is the interrogative 'Qui - dicis - comites?' with the framing speech tag '- dicis -' (\"you say\") stripped, leaving the verbatim 'Qui comites?'. Answer is the immediate reply listing the companions; it runs to the full stop after 'esse.' The following line 'Hos tu das comites, Neaera, vitae.' is post-answer summary narration and is excluded."
+    },
+    {
+      "locus": "Marullus, Epigrammata 1.53",
+      "type": "direct-speech",
+      "question": "Cessant quid tua spicula?",
+      "answer": "Spicula, mater, quae tenet illa, refers.",
+      "derivation": "Venus asks Amor the verbatim interrogative 'Cessant quid tua spicula?' (line 49), narrative tag 'ait' dropped. The boy's reply spans the quoted utterance on line 51; the framing 'Cui deus humentes lacrimis deiectus ocellos' and the interrupting 'ait, \"mater' speech tags are stripped, keeping the contiguous spoken words 'Spicula, mater, quae tenet illa, refers.'"
+    }
+  ]
+}

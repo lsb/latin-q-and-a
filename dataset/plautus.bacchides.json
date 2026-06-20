@@ -1,0 +1,26 @@
+{
+  "source": "text/plautus/bacchides.txt",
+  "pairs": [
+    {
+      "locus": "Plautus, Bacchides 199-200",
+      "type": "direct-speech",
+      "question": "An invenisti Bacchidem?",
+      "answer": "Samiam quidem.",
+      "derivation": "Chrysalus asks Pistoclerus directly. Dropped the framing interjection 'Eho,' that opens Chrysalus's line; the genuine interrogative is 'an invenisti Bacchidem?'. Pistoclerus answers 'Samiam quidem' (the Samian one, yes). Answer ends at the full stop; the next line begins a new directive ('Vide quaeso, ne quis tractet illam indiligens')."
+    },
+    {
+      "locus": "Plautus, Bacchides 248",
+      "type": "direct-speech",
+      "question": "Benene usque valuit?",
+      "answer": "Pancratice atque athletice.",
+      "derivation": "Nicobulus asks about his son Mnesilochus (established in the immediately preceding lines 'ubinamst Mnesilochus? ... Venitne?'); the -ne interrogative 'benene usque valuit?' asks whether he stayed well throughout. Chrysalus answers with the vivid 'pancratice atque athletice' (athletically and like a champion). Answer is the whole one-line reply; next line is a new question from Nicobulus ('Quid hoc?')."
+    },
+    {
+      "locus": "Plautus, Bacchides 308-309",
+      "type": "direct-speech",
+      "question": "Quis istic Theotimust?",
+      "answer": "Megalobuli filius, qui nunc in Ephesost Ephesiis carissimus.",
+      "derivation": "Nicobulus asks who Theotimus is (named in the preceding lines as the priest with whom the gold was deposited). Chrysalus answers identifying him: son of Megalobulus, now most dear to the Ephesians. Kept both lines of the answer as one contiguous identifying sentence to the full stop; the next line is Nicobulus's own reaction ('Ne ille hercle mihi sit multo tanto carior')."
+    }
+  ]
+}

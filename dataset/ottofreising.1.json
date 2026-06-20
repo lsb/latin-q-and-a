@@ -1,0 +1,26 @@
+{
+  "source": "text/ottofreising/1.txt",
+  "pairs": [
+    {
+      "locus": "Otto of Freising, Gesta Friderici 1.7",
+      "type": "direct-speech",
+      "question": "Cur eum, qui rex non fuerat, velut regali honore sepultum iacere permitteret?",
+      "answer": "Utinam omnes inimici mei tam honorifice iacerent.",
+      "derivation": "Emperor Henry, seeing the slain anti-king Rudolf buried with royal honor at Merseburg, is asked why he permits it. Dropped the narrative framing 'Fertur de imperatore, quod, cum... prefatum Rudolfum velut regem humatum vidisset, cuidam dicenti,' before the question, and the speech tag 'dixerit:' after it; the question is the author's verbatim indirect-discourse words (cur... permitteret). Answer is the emperor's direct reply, complete in one sentence; what follows is the next narrative sentence 'Occiso Rudolfo gener eius Berhtolfus...', which is dropped."
+    },
+    {
+      "locus": "Otto of Freising, Gesta Friderici 1.54",
+      "type": "direct-speech",
+      "question": "Quare in theologia personas in tantum distingueret?",
+      "answer": "Quia omnis persona res est per se una.",
+      "derivation": "Bishop Gilbert of Poitiers is asked by the bystanders why he distinguishes the persons in theology so far. Dropped the framing 'Post haec sedato clamore, cum a circumstantibus rogaretur episcopus Gisilbertus, ut,' before the interrogative and 'aperire vellet, breviter respondit:' after it; the verbatim interrogative words (quare... distingueret) are the author's. Answer is Gilbert's direct one-sentence reply; what follows is the narrative 'Et ita non sine magno multorum qui aderant stupore conventus ea die solvitur,' which is dropped."
+    },
+    {
+      "locus": "Otto of Freising, Gesta Friderici 1.58",
+      "type": "whole-speech-as-question",
+      "question": "Multa, frater, dicis, multa et ea fortassis, quae a nobis non intelliguntur, legi facis; sed simpliciter a te cognoscere velim, anne illam summam essentiam, qua tres personas profiteris Deum, unum credas esse Deum?",
+      "answer": "Non.",
+      "derivation": "At the Council of Reims, Pope Eugenius presses Gilbert of Poitiers whether he believes the supreme essence to be one God. The entire papal utterance is quoted verbatim and contiguous as the question, per the whole-speech rule (the operative interrogative is the closing 'anne... unum credas esse Deum'); dropped only the speech tag 'tamquam tedio affectus Romanus inquit antistes:'. Answer is Gilbert's one-word direct reply; dropped the framing 'Qui diutina collatione fatigatus minus premeditate respondit:' and what follows ('Quod dictum mox ab eius ore raptum notarius excepit...')."
+    }
+  ]
+}

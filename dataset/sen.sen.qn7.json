@@ -1,0 +1,26 @@
+{
+  "source": "text/sen/sen.qn7.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Naturales Quaestiones 7.8.3",
+      "type": "authorial-rhetorical",
+      "question": "Num quis nostrum crederet lunam aut quinque sidera rapi uento aut turbine rotari?",
+      "answer": "Non, ut puto.",
+      "derivation": "Seneca poses a rhetorical question and answers it himself with 'Non, ut puto.' ('No, I think not.'). The answer stops at the first full stop; what follows is a further self-posed 'Quare? Quia non est illis perturbatus et impotens cursus.' which explains the negation rather than answering this question. Verbatim, only terminal punctuation normalized."
+    },
+    {
+      "locus": "Seneca, Naturales Quaestiones 7.21.2",
+      "type": "authorial-rhetorical",
+      "question": "Quare ergo non stat cometes sed procedit?",
+      "answer": "Ignium modo alimentum suum sequitur.",
+      "derivation": "Self-posed question answered by Seneca. Dropped the framing tag 'Dicam:' that narrates his answering, then quoted the operative first sentence 'ignium modo alimentum suum sequitur' (capitalized as now sentence-initial); stopped at the first full stop. What follows ('quamuis enim illi ad superiora nisus sit...') elaborates the mechanism."
+    },
+    {
+      "locus": "Seneca, Naturales Quaestiones 7.25.1",
+      "type": "direct-speech",
+      "question": "Quare ergo non, quemadmodum quinque stellarum, ita harum obseruatus est cursus?",
+      "answer": "Multa sunt quae esse concedimus, qualia sint ignoramus.",
+      "derivation": "A question explicitly put to Seneca, framed by 'Si quis hoc loco me interrogauerit:' and answered after 'huic ego respondebo:'. Dropped both framing/speech-tag clauses (the author's words but narration of the asking/answering). Question and answer quoted verbatim, capitalization and terminal punctuation normalized. The answer is a complete sentence ending at the first full stop."
+    }
+  ]
+}

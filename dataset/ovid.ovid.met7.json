@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.met7.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Metamorphoses 7.796-799",
+      "type": "direct-speech",
+      "question": "Iaculo quod crimen in ipso est?",
+      "answer": "Gaudia principium nostri sunt, Phoce, doloris: illa prius referam.",
+      "derivation": "Phocus directly asks the interrogative 'iaculo quod crimen in ipso est?' (line 796). Dropped the framing 'Phocus ait; iaculi sic crimina reddidit ille:' (narration of speaker and of the reply). The answer is the opening of Cephalus's reply (lines 798-799); the window ends at the first full stop after 'referam', leaving 'Gaudia principium nostri sunt, Phoce, doloris: illa prius referam.' (the intervening punctuation after 'doloris' is a colon, not a full stop). What follows ('iuvat o meminisse beati temporis...') begins the digressive narration of the tale and is cut. First word capitalization and terminal '?'/'.' normalized; no Latin words added, removed, or reordered."
+    }
+  ]
+}

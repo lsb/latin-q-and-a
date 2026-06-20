@@ -1,0 +1,19 @@
+{
+  "source": "text/seneca.suasoriae.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Suasoriae 1.12",
+      "type": "authorial-rhetorical",
+      "question": "Vergilius quid ait?",
+      "answer": "Rapit haud partem exiguam montis.",
+      "derivation": "Seneca, after quoting a bombastic Greek line, poses his own interrogative 'Vergilius quid ait?' and answers it with the Vergilian verse, which the text prints as a verse block ('rapit' / 'haud partem exiguam montis'); rejoined as the contiguous answer. The preceding setup ('tumidum est OROUS OROS APOSPATAI') is transliterated Greek and is dropped as it is not the author's Latin utterance and is not needed for the question to make sense."
+    },
+    {
+      "locus": "Seneca, Suasoriae 1.12",
+      "type": "authorial-rhetorical",
+      "question": "Vergilius quid ait de navibus?",
+      "answer": "Credas innare revolsas Cycladas.",
+      "derivation": "Seneca again poses 'Vergilius quid ait de navibus?' and answers with the Vergilian verse, printed as a verse block ('credas innare revolsas' / 'Cycladas') and rejoined contiguously. The editorial deletion-bracket [qui] is scaffolding and is stripped; the preceding setup 'est inflatum CHAI CHEIRIA BALLETAI NESSOS' is transliterated Greek and is dropped."
+    }
+  ]
+}

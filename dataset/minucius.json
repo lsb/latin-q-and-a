@@ -1,0 +1,12 @@
+{
+  "source": "text/minucius.txt",
+  "pairs": [
+    {
+      "locus": "Minucius Felix, Octavius 4",
+      "type": "direct-speech",
+      "question": "Quid hoc est rei? cur non agnosco, Caecili, alacritatem tuam illam et illam oculorum etiam in seriis hilaritatem requiro?",
+      "answer": "Iam dudum me Octavi nostri acriter angit et remordet oratio, qua in te invectus obiurgavit neglegentiae, ut me dissimulanter gravius argueret inscientiae.",
+      "derivation": "Direct-speech exchange. Marcus (the narrator) asks why Caecilius has lost his cheerfulness; Caecilius answers that Octavius's speech has been gnawing at him. Dropped the narrative speech-tags 'Cui ego:' before the question and 'Tum ille:' before the answer. Answer-window: kept only Caecilius's operative first sentence, which directly states why he is downcast; cut at the first full stop, before 'Itaque progrediar ulterius...', where he stops answering and turns to proposing that he debate Octavius. Question is a real interrogative (Quid... cur...?). No words altered, added, or reordered."
+    }
+  ]
+}

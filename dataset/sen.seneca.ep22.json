@@ -1,0 +1,12 @@
+{
+  "source": "text/sen/seneca.ep22.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, fr. 10.1 (Gellius N.A. 12.2.13)",
+      "type": "authorial-rhetorical",
+      "question": "Quid enim refert quantum habeas?",
+      "answer": "Multo illud plus est quod non habes.",
+      "derivation": "Authorial rhetorical question and its immediate self-answer, the only genuine interrogative-and-answer in the file. The question runs to the '?'; the answer is the following full sentence which directly responds. No scaffolding (fr. label, Gellius citation) included. Other fragments are purely declarative with no real Q&A."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/pauldeacon/histrom3.txt",
+  "pairs": [
+    {
+      "locus": "Paulus Diaconus, Historia Romana 3.7",
+      "type": "direct-speech",
+      "question": "In hoc ego sinu bellum pacemque porto; utrum eligitis?",
+      "answer": "Bellum",
+      "derivation": "Fabius offers war or peace in his toga's fold and asks 'utrum eligitis?' ('which do you choose?'); the Carthaginians answer by shouting 'Bellum' ('War'). The framing speech tag 'inquit' and the narration 'Succlamantibus' are dropped; the leading clause 'In hoc ego sinu bellum pacemque porto' is kept as setup so 'utrum eligitis' has a referent. After the answer follows '«Igitur», inquid, «accipite»' (Fabius's reply, not part of the question/answer). The earlier exchange in the same section ('«Quae», inquit, «mora est?»' answered by Fabius's own question) is not a Q&A because Fabius does not answer 'Quae mora est?' but poses a new question instead."
+    }
+  ]
+}

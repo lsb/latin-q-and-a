@@ -1,0 +1,12 @@
+{
+  "source": "text/juvenal/13.txt",
+  "pairs": [
+    {
+      "locus": "Juvenal 13.174-177",
+      "type": "authorial-rhetorical",
+      "question": "Nullane peiuri capitis fraudisque nefandae poena erit?",
+      "answer": "Abreptum crede hunc grauiore catena protinus et nostro (quid plus uelit ira?) necari arbitrio.",
+      "derivation": "An imagined interlocutor's quoted objection (a real interrogative, 'Will there be no punishment for the perjured and for foul fraud?') answered by the author. Stripped the dangling inline verse-number 175 that falls after 'catena'. The answer is the operative response granting maximal punishment; it ends at 'arbitrio' (source has a colon there). Cut what follows, 'manet illa tamen iactura nec umquam depositum tibi sospes erit...', which turns from answering to elaborating that the deposit is still lost. The interior '(quid plus uelit ira?)' is the author's own contiguous words and is kept. Normalized initial capital and terminal punctuation only."
+    }
+  ]
+}

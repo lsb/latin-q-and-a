@@ -1,0 +1,19 @@
+{
+  "source": "text/ovid/ovid.her12.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Heroides 12.45-46",
+      "type": "authorial-rhetorical",
+      "question": "Quis enim bene celat amorem?",
+      "answer": "Eminet indicio prodita flamma suo.",
+      "derivation": "Medea poses a rhetorical question and answers it in the following pentameter. Dropped the preceding exclamatory framing 'perfide, sensisti!' on line 45; began the question at 'quis' (capitalized) and kept 'enim' as part of the utterance. Answer is the full next sentence (line 46), which directly answers it: the betraying flame shows itself, so no one hides love well."
+    },
+    {
+      "locus": "Ovid, Heroides 12.207-208",
+      "type": "authorial-rhetorical",
+      "question": "Dos ubi sit?",
+      "answer": "Campo numeravimus illo, qui tibi laturo vellus arandus erat.",
+      "derivation": "Medea voices the question Jason might ask and answers it. Stripped the speech-tag 'quaeris' (= 'you ask', framing like 'fortasse requiris') that follows the question on line 207; normalized capitalization of 'Dos' and terminal punctuation to '?'. Answer is the contiguous response running to the first full stop at the end of line 208 ('erat'); the following line 209 ('aureus ille aries...') begins fresh elaboration and is excluded."
+    }
+  ]
+}

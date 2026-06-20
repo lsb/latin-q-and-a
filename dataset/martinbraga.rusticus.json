@@ -1,0 +1,40 @@
+{
+  "source": "text/martinbraga/rusticus.txt",
+  "pairs": [
+    {
+      "locus": "De correctione rusticorum 15",
+      "type": "direct-speech",
+      "question": "Quomodo diceris?",
+      "answer": "Iohannes dicitur.",
+      "derivation": "Baptismal interrogation. The priest's question and the respondent's reply are both quoted in direct speech (sic a sacerdote interrogati fuistis ... Respondisti ... et dixit ... ). Speech tags 'a sacerdote interrogati fuistis', 'Respondisti', 'et dixit, verbi gratia' dropped as framing; the answer ends at the full stop of the quoted reply."
+    },
+    {
+      "locus": "De correctione rusticorum 15",
+      "type": "direct-speech",
+      "question": "Iohannes, abrenuntias diabolo et angelis eius, culturis et idolis eius, furtis et fraudibus eius, fornicationibus et ebrietatibus eius, et omnibus operibus eius malis?",
+      "answer": "Abrenuntio.",
+      "derivation": "Baptismal interrogation. Genuine question ('Et interrogavit sacerdos: ...') answered in direct speech ('Et respondisti: \"Abrenuntio.\"'). Speech tags 'Et interrogavit sacerdos' and 'Et respondisti' dropped as framing; verbatim quoted utterance kept contiguous."
+    },
+    {
+      "locus": "De correctione rusticorum 15",
+      "type": "direct-speech",
+      "question": "Credis in deum patrem omnipotentem?",
+      "answer": "Credo.",
+      "derivation": "Baptismal interrogation. Question ('iterum interrogatus es a sacerdote: ...') and answer ('Respondisti: \"Credo.\"') both in direct speech. Speech tags dropped as framing."
+    },
+    {
+      "locus": "De correctione rusticorum 15",
+      "type": "direct-speech",
+      "question": "Et in Iesum Christum, filium eius unicum, deum et dominum nostrum, qui natus est de spiritu sancto ex Maria virgine, passus sub Pontio Pilato, crucifixus et sepultus, descendit ad inferna, tertia die resurrexit vivus a mortuis, ascendit in caelos, sedet ad dexteram patris, inde venturus iudicare vivos et mortuos? Credis?",
+      "answer": "Credo.",
+      "derivation": "Baptismal interrogation, second credal article. The whole quoted clause ending 'Credis?' is the question; answered by 'Et respondisti: \"Credo.\"'. Speech tag 'Et respondisti' dropped. Utterance kept contiguous and verbatim."
+    },
+    {
+      "locus": "De correctione rusticorum 15",
+      "type": "direct-speech",
+      "question": "Credis in spiritum sanctum, sanctam ecclesiam catholicam, remissionem omnium peccatorum, carnis resurrectionem, et vitam aeternam?",
+      "answer": "Credo.",
+      "derivation": "Baptismal interrogation, third credal article. Question ('Et iterum interrogatus es: ...') answered in direct speech ('Et respondisti: \"Credo.\"'). Speech tags dropped as framing."
+    }
+  ]
+}

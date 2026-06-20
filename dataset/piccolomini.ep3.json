@@ -1,0 +1,12 @@
+{
+  "source": "text/piccolomini.ep3.txt",
+  "pairs": [
+    {
+      "locus": "Piccolomini, Epistula ad Wilhelmum de Lapide",
+      "type": "authorial-rhetorical",
+      "question": "An nescis, quantus est epistolarum usus, quantus historiarum, quantus orationum?",
+      "answer": "Rex regi per litteras conciliatur, civitates federa percutiunt, absentes cum absentibus fabulant. Historia nobis res gestas refert, que testis est temporum, lux veritatis et vite magistra, orationes senatum regunt, populos ducunt, leges suadent.",
+      "derivation": "Authorial rhetorical question 'an nescis, quantus est epistolarum usus, quantus historiarum, quantus orationum?' (kept whole, including the interrogative 'an nescis'). The author answers himself by enumerating the use of each of the three: letters (rex regi... fabulant), histories (historia... vite magistra), and orations (orationes... leges suadent). Answer ends at 'leges suadent' before the next rhetorical question 'sed quis hec bene agat...' begins. No framing dropped; capitalization of 'An' and 'Rex' normalized."
+    }
+  ]
+}

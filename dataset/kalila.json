@@ -1,0 +1,103 @@
+{
+  "source": "text/kalila.txt",
+  "pairs": [
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum I, sec. 9 (Kalila and Dimna)",
+      "type": "direct-speech",
+      "question": "Quomodo manifestum est tibi quod leo sit in cogitacione?",
+      "answer": "Cognosco motum ipsius, quia vir intelligens potest cognoscere cogitacionem propinqui, investigans vultum eius et cogitaciones ipsius.",
+      "derivation": "Kililes asks Dimnes how he can tell the lion is preoccupied; Dimnes answers directly. Stripped speech tags 'Kililes ait' / 'Et Dimnes respondit'. The answer is a single sentence ending at the first full stop; the next line is a new question from Kililes ('Quomodo potest aliquis graciam invenire...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum I, sec. 10 (lion and Dimna)",
+      "type": "direct-speech",
+      "question": "Quis es tu et quid queris et ubi tantum temporis conversatus es?",
+      "answer": "Cottidie assisto imperialibus ianuis, sperans inde aliquem honorem adipisci, sciens quod multis opus habet imperator. Et oportet quod recipiat magnos et parvos, nam hii multociens iuvant imperium sicut lignum iacens in terra derelictum, magno tamen edificio aliquando necessarium est.",
+      "derivation": "Lion's three-part question to Dimnes; Dimnes answers who he is and what he seeks. Stripped framing 'Leo vero interrogavit eum' / 'Et Dimnes respondit'; stripped editorial '+' artifact after 'adipisci' and editorial brackets on 'hii'. Answer kept through Dimnes's reply (two sentences) before the narrator resumes ('Audiens leo hunc sermonem...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum I, sec. 15 (bull and Dimna)",
+      "type": "direct-speech",
+      "question": "Quis est iste leo qui te ad me misit et ubi manet?",
+      "answer": "Imperator est omnium ferarum et in hoc loco cum suo exercitu manet.",
+      "derivation": "The bull (thaurus) asks who and where the lion is; Dimnes answers both. Stripped speech tags 'Ait thaurus' / 'Respondit Dimnes'. Answer is the full single sentence of the reply before narration resumes ('Thaurus vero timens secutus est eum...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum I, sec. 37 (lion and the crow / camel tale)",
+      "type": "direct-speech",
+      "question": "Quomodo?",
+      "answer": "Comede camelum qui inter nos conversatur.",
+      "derivation": "The crow says he can refresh the ailing lion; the lion asks 'Quomodo?' and the crow answers what to do. Setup retained via the preceding clause is unnecessary because 'Quomodo' + answer is self-contained as a how-question. Stripped tags 'Leo dixit' / 'Corvus ait'. Answer is the single-sentence reply before the lion's furious retort ('Et leo furibundus ait...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum III, sec. 77 (mouse and crow)",
+      "type": "direct-speech",
+      "question": "Quis es, amice?",
+      "answer": "Ego sum corvus et vidi pulcram amiciciam quam ad amicos habes et vellem esse amicus tuus, et propterea veni ad te.",
+      "derivation": "The mouse asks the unseen caller who he is; the crow identifies himself and his purpose. Stripped tags 'Ipse autem respondit' / 'Et corvus respondit'. Answer kept to the crow's full self-identifying sentence before the mouse's objection ('Mus autem dixit: Quid est commune...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum III, sec. 79 (hermit and stranger / mouse tale)",
+      "type": "direct-speech",
+      "question": "Subsanas me, quia loquor tecum?",
+      "answer": "Oportet te prius interrogare qua occasione ego plaudo manibus, et dicam tibi: nam in ista domo est mus a quo magnum pacior contrarium, quia comedit annonam meam et corrumpit eam.",
+      "derivation": "The indignant stranger asks whether the hermit is mocking him by clapping; the hermit explains he claps not in mockery but because of a destructive mouse. Stripped tags 'Extraneus autem indignatus dixit' / 'Heremita respondit'. The reply is a single connected explanation (the colon is internal, not a sentence end); kept whole through the operative answer before the stranger's next question ('Extraneus ait: Unus mus est an multi?')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum IV, sec. 113 (old serpent and frog tale)",
+      "type": "direct-speech",
+      "question": "Quare es in cogitacione?",
+      "answer": "Quomodo non debeo cogitare, cum semper de hoc gurgite vitam habuerim? Et nunc ivi ad patriam et heremita dixit mihi ut nullam de vobis amplius per vim accipiam et volo de cetero regi vestro esse subiectus.",
+      "derivation": "A frog asks the brooding serpent why he is lost in thought; the serpent answers (the deceitful pretext that explains his presence). Stripped tags 'dixit' / 'Ipse respondit'. Answer kept through the serpent's full reply before narration resumes ('Rana autem ivit et renunciavit...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum IV, sec. 114 (crow and his king)",
+      "type": "direct-speech",
+      "question": "Quomodo vidisti regem bubonum et conversacionem eorum?",
+      "answer": "Stultam, malam et anomalam et sine ordine preter illum qui consiliatus est me occidere; ipse enim erat omnibus intelligencior.",
+      "derivation": "The king of the crows asks the crow how he found the owl-king and his court; the crow answers. Stripped tags 'Rex ait' / 'Et ille ait'. Answer is the full single reply before the king's follow-up question ('Rex dixit: Quid tibi visum est...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum V, sec. 116 (turtle and the monkey)",
+      "type": "direct-speech",
+      "question": "Quis es, amice, qui tales fructus mihi dedisti?",
+      "answer": "Miser alienigena sum qui propter senectutem meam eiectus sum de regno meo, et nisi fugissem, occisus fuissem.",
+      "derivation": "The turtle, sweetened by the figs, asks who the monkey is; the monkey identifies himself as an exiled stranger. Stripped tags 'respexit sursum et dixit' / 'Symeus respondit'. Answer cut after the first full stop ('...occisus fuissem.'); the monkey then elaborates ('Et ego qui eram multarum gencium dominus...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum V, sec. 116 (turtle and the monkey)",
+      "type": "direct-speech",
+      "question": "Ergo non habes tecum cor tuum?",
+      "answer": "Non, quia preceptum habemus in lege nostra ut, cum ad domos amicorum pergimus, domi corda nostra relinquamus, ne forte aliquid adversum contra amicum nostrum cogitemus.",
+      "derivation": "The turtle, having let slip she needs the monkey's heart, asks in surprise whether he hasn't his heart with him; the monkey (saving himself by a ruse) answers no, with a reason. Stripped tags 'Ait testudo' / 'Respondit symeus'. Answer kept to the monkey's full single reply before narration resumes ('Hec dicens testudo veloci cursu reversa est...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum V, sec. 117 (sick lion, fox, and ass)",
+      "type": "direct-speech",
+      "question": "O rex, qualiter video te ita afflictum?",
+      "answer": "Propter infirmitatem istam que me occupavit, de qua non potero sanari nisi per cor et auriculas asini.",
+      "derivation": "The fox asks the sick lion why he is so afflicted; the lion answers, naming the cure he needs. Stripped tags 'Dixit ei vulpis' / 'Respondit leo'. Answer is the lion's full single reply before the fox's offer ('Vulpis dixit: Leve est hoc facere...')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum V, sec. 117 (fox and ass)",
+      "type": "direct-speech",
+      "question": "Quare te video macilentum et plagis plenum?",
+      "answer": "Malicia patroni mei facit hoc; pondere magno me onerat et parvam mihi tribuit comestionem et tota die me ligatum stare facit.",
+      "derivation": "The fox asks the ass why he is so emaciated and beaten; the ass answers, blaming his master. Stripped tags 'dixit ei' / 'Respondit asinus'. Answer is the ass's full single reply before the fox's next question ('Vulpis dixit: Quare hec omnia suffers?')."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum V, sec. 117 (lion and fox / the ass's heart)",
+      "type": "direct-speech",
+      "question": "Ubi sunt aures et cor asini?",
+      "answer": "Si habuisset iste asinus cor ad intelligendum et aures ad audiendum, nunquam ad te reversus fuisset, videns primum periculum unde evaserat.",
+      "derivation": "The returning lion asks where the ass's ears and heart are; the fox (who has eaten them) wittily answers that the ass plainly had neither, since it came back. Stripped tags 'Reversus leo dixit' / 'Vulpis respondit'. The fox's reply is the final sentence of the tale; nothing follows."
+    },
+    {
+      "locus": "Liber Kalilae et Dimnae, Capitulum X, sec. 135 (lion and the panther/hermit)",
+      "type": "direct-speech",
+      "question": "Quid fecisti de carne?",
+      "answer": "Dedi eam senescalo tuo.",
+      "derivation": "The lion, finding the meat gone (planted in the panther's house by enemies), summons the panther and asks what he did with the meat; the panther answers directly. Stripped tags 'dixit ei' / 'Panther dixit'. Answer is the panther's full single reply before the steward is summoned ('Vocatus senescalus...')."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/sall.macer.txt",
+  "pairs": [
+    {
+      "locus": "Sallust, Histories 3.48 (Oratio Macri ad plebem)",
+      "type": "authorial-rhetorical",
+      "question": "Quid censes igitur?",
+      "answer": "Primum omnium, omittendum morem hunc quem agitis, impigrae linguae, animi ignaui, non ultra contionis locum memores libertatis.",
+      "derivation": "The speaker stages an imagined interlocutor asking 'Quid censes igitur?'; the speech tag 'aliquis uostrum subiecerit' is dropped as framing. The answer begins at the operative directive 'Primum omnium, omittendum morem hunc...'. Cut at 'libertatis' (the first directive clause, originally ending in a semicolon, normalized to a full stop); what follows is 'deinde--ne uos ad uirilia illa uocem...', a further, digressive directive plus an embedded rhetorical question, omitted to keep a clean contiguous answering span."
+    }
+  ]
+}

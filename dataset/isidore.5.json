@@ -1,0 +1,54 @@
+{
+  "source": "text/isidore/5.txt",
+  "pairs": [
+    {
+      "locus": "Etymologiae 5.4",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit ius naturale?",
+      "answer": "Ius naturale est, aut civile, aut gentium.",
+      "derivation": "Chapter heading 'QVID SIT IVS NATVRALE' is a genuine interrogative posed and answered by Isidore. First-word capitalization kept; terminal '?' supplied. Answer is the opening sentence of the body; the bracketed editorial supplement '[est]' is stripped keeping the word 'est'. Window ends at the first full stop; what follows ('Ius naturale est commune omnium nationum...') elaborates with examples rather than giving the direct division."
+    },
+    {
+      "locus": "Etymologiae 5.5",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit ius civile?",
+      "answer": "Ius civile est quod quisque populus vel civitas sibi proprium humana divinaque causa constituit.",
+      "derivation": "Heading 'QVID SIT IVS CIVILE' is an interrogative; the single-sentence body answers it. The chapter contains only this one sentence, so the whole body is the answer. Terminal '?' supplied on the question."
+    },
+    {
+      "locus": "Etymologiae 5.6",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit ius gentium?",
+      "answer": "Ius gentium est sedium occupatio, aedificatio, munitio, bella, captivitates, servitutes, postliminia, foedera pacis, indutiae, legatorum non violandorum religio, conubia inter alienigenas prohibita.",
+      "derivation": "Heading 'QVID SIT IVS GENTIVM' answered by the opening definitional sentence. Window ends at the first full stop; what follows ('Et inde ius gentium, quia eo iure...') is an etymological aside, not the definition."
+    },
+    {
+      "locus": "Etymologiae 5.7",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit ius militare?",
+      "answer": "Ius militare est belli inferendi sollemnitas, foederis faciendi nexus, signo data egressio in hostem vel commissio.",
+      "derivation": "Heading 'QVID SIT IVS MILITARE' answered by the opening definitional clause. Window ends at the first full stop; what follows ('Item signo dato receptio...') continues enumerating further items rather than giving the core definition."
+    },
+    {
+      "locus": "Etymologiae 5.8",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit ius publicum?",
+      "answer": "Ius publicum est in sacris et sacerdotibus, in magistratibus.",
+      "derivation": "Heading 'QVID SIT IVS PVBLICVM' answered by the chapter's single sentence (the whole body). Terminal '?' supplied on the question."
+    },
+    {
+      "locus": "Etymologiae 5.9",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit ius Quiritum?",
+      "answer": "Ius Quiritum est proprie Romanorum, quo nulli tenentur nisi Quirites, id est Romani, tamquam de legitimis hereditatibus, de cretionibus, de tutelis, de usucapionibus.",
+      "derivation": "Heading 'QVID SIT IVS QVIRITVM' answered by the opening definitional sentence. Window ends at the first full stop ('...de usucapionibus.'); what follows ('quae iura apud alium nullum populum reperiuntur...') is elaboration on the same."
+    },
+    {
+      "locus": "Etymologiae 5.10",
+      "type": "authorial-rhetorical",
+      "question": "Quid sit lex?",
+      "answer": "Lex est constitutio populi, qua maiores natu simul cum plebibus aliquid sanxerunt.",
+      "derivation": "Heading 'QVID SIT LEX' is an interrogative answered by the chapter's single defining sentence (the whole body). Terminal '?' supplied on the question."
+    }
+  ]
+}

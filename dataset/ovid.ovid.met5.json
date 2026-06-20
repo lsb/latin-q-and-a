@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.met5.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Metamorphoses 5.552-560",
+      "type": "authorial-rhetorical",
+      "question": "Vobis, Acheloides, unde pluma pedesque avium, cum virginis ora geratis?",
+      "answer": "An quia, cum legeret vernos Proserpina flores, in comitum numero, doctae Sirenes, eratis? quam postquam toto frustra quaesistis in orbe, protinus, et vestram sentirent aequora curam, posse super fluctus alarum insistere remis optastis facilesque deos habuistis et artus vidistis vestros subitis flavescere pennis.",
+      "derivation": "Calliope-as-narrator poses a rhetorical question to the Sirens (whence your wings and birds' feet, given you keep maidens' faces?) and answers it herself with 'an quia...'. Question is the full interrogative 'vobis... geratis?'. Answer begins at the operative 'an quia' explanation and runs to the full stop after 'flavescere pennis' (giving the reason: they were Proserpina's companions, sought her in vain over the world, and wished for wings). Cut the following sentence 'ne tamen ille canor... remansit' which elaborates on why their faces/voices stayed human. Stripped editorial quote-marks ('\") at line starts and inline verse numbers 555/560."
+    }
+  ]
+}

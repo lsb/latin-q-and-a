@@ -1,0 +1,68 @@
+{
+  "source": "text/psplato.amatores.txt",
+  "pairs": [
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 133b",
+      "type": "direct-speech",
+      "question": "Pulchrum igitur tibi philosophari videtur?",
+      "answer": "Et maxime quidem.",
+      "derivation": "Socrates asks the music-lover directly. Dropped the speech tag 'inquit ille' from the answer 'Et maxime quidem, inquit ille' and normalized capitalization/terminal punctuation. Both words traceable verbatim and contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 133b-c",
+      "type": "direct-speech",
+      "question": "Num videtur tibi fieri posse, ut norit quis turpene sit aliquid, an pulchrum, nisi prius quid ipsum sit norit?",
+      "answer": "Non.",
+      "derivation": "Socrates' interrogative 'Quid ergo, inquam, num videtur tibi...'; dropped the framing 'Quid ergo, inquam,' at the start. Answer is the bare 'Non.' which directly follows. Verbatim and contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 133c",
+      "type": "direct-speech",
+      "question": "Nosti igitur quod est aliquid philosophari?",
+      "answer": "Novi equidem.",
+      "derivation": "Socrates asks; interlocutor answers. Dropped the embedded speech tag 'inquam' from 'Nosti igitur inquam quod est aliquid philosophari?'. Answer follows directly. Verbatim, contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 133d",
+      "type": "direct-speech",
+      "question": "Existimas pulchrum aliquid solum esse philosophiam, vel etiam bonum?",
+      "answer": "Et bonum.",
+      "derivation": "Socrates' question; dropped 'inquam' from 'Existimas inquam pulchrum...'. Answer 'Et bonum inquit' with speech tag 'inquit' dropped. Verbatim and contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 135b",
+      "type": "direct-speech",
+      "question": "Bonos viros, utilesne, an inutiles esse censes?",
+      "answer": "Utiles, o Socrates.",
+      "derivation": "Socrates asks 'bonos, inquam, viros, utilesne, an inutiles esse censes?'; dropped framing 'inquam' and normalized initial capitalization. Answer 'Utiles, inquit, o Socrates' with speech tag 'inquit' dropped. Verbatim, contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 135c",
+      "type": "direct-speech",
+      "question": "Utrum ad curam valetudinis philosophum illum secundarium domum induces, an medicum?",
+      "answer": "Utrunque.",
+      "derivation": "Socrates' 'si vel tu... aegrotaret, utrum ad curam valetudinis...' question; quoted from 'Utrum' for a self-contained interrogative. Answer is the bare 'Utrunque.' that follows directly. Verbatim and contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 135c",
+      "type": "direct-speech",
+      "question": "Sed utrum potius?",
+      "answer": "Nemo ambigat, medicum et magis et prius.",
+      "derivation": "Follow-up after 'Utrunque'. Socrates presses 'sed utrum potius?'. Answer 'Nemo, inquit, ambigat, medicum et magis et prius' with embedded speech tag 'inquit' dropped. Stops at the full stop. Verbatim, contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 135d",
+      "type": "direct-speech",
+      "question": "Quid autem in navi fluctibus agitata, utrum te et tua gubernatori, an philosopho commiteres?",
+      "answer": "Gubernatori.",
+      "derivation": "Socrates' question on whom to entrust the storm-tossed ship to. Answer 'Gubernatori, inquit' with speech tag 'inquit' dropped. Verbatim, contiguous."
+    },
+    {
+      "locus": "Pseudo-Plato, Amatores (Ficino) 138a",
+      "type": "direct-speech",
+      "question": "Seipsum itaque nosse, sapere est?",
+      "answer": "Est.",
+      "derivation": "Socrates' question; answer 'Est, inquit' with speech tag 'inquit' dropped. Bare affirmation, verbatim and contiguous."
+    }
+  ]
+}

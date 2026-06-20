@@ -1,0 +1,26 @@
+{
+  "source": "text/quintilian/quintilian.institutio2.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Institutio Oratoria 2.3.7",
+      "type": "authorial-rhetorical",
+      "question": "Non est quaedam eloquentia maior quam ut eam intellectu consequi puerilis infirmitas possit?",
+      "answer": "Ego uero confiteor.",
+      "derivation": "Authorial self-question-and-answer. Dropped the framing interjection 'Quid ergo?' that precedes the question (meta-narration, not part of the utterance) and normalized 'non' to capital 'Non'. The answer ends at the first full stop after 'confiteor'; what follows ('sed hunc disertum praeceptorem prudentem quoque... esse oportebit') turns from answering ('I do admit it') to qualifying/elaborating, so it is cut."
+    },
+    {
+      "locus": "Quintilian, Institutio Oratoria 2.20.15",
+      "type": "authorial-rhetorical",
+      "question": "De quibus ergo dicet?",
+      "answer": "De quibus didicit.",
+      "derivation": "Crisp authorial question answered immediately in the next sentence. Included the preceding verbatim setup 'Neque enim omnis causas nouit, et debet posse de omnibus dicere.' so that 'de quibus' has a referent (the matters an orator must speak about). 'ergo' is part of the interrogative phrasing and is kept. The answer is the complete following sentence; the text then moves on to 'Similiter de artibus quoque...', which is cut as new material."
+    },
+    {
+      "locus": "Quintilian, Institutio Oratoria 2.20.16-17",
+      "type": "authorial-rhetorical",
+      "question": "Non faber de fabrica melius aut de musice musicus?",
+      "answer": "Si nesciat orator quid sit de quo quaeratur, plane melius.",
+      "derivation": "Authorial self-question-and-answer. Dropped the framing 'Quid ergo?' before the question and normalized 'non' to 'Non' and the terminal punctuation. The operative answer ('plainly better, if the orator does not know the subject') resolves the question; I stop at 'plane melius' (changing the original semicolon to a full stop) because what follows ('nam et litigator rusticus... sed accepta a musico, a fabro... melius orator quam ipse qui docuerit') elaborates with supporting examples and a counterpoint rather than answering."
+    }
+  ]
+}

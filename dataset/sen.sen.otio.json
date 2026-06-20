@@ -1,0 +1,33 @@
+{
+  "source": "text/sen/sen.otio.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, De Otio 1.4-5",
+      "type": "whole-speech-as-question",
+      "question": "Quid ais, Seneca? deseris partes? Certe Stoici uestri dicunt: \"usque ad ultimum uitae finem in actu erimus, non desinemus communi bono operam dare, adiuuare singulos, opem ferre etiam inimicis senili manu. Nos sumus qui nullis annis uacationem damus et, quod ait ille uir disertissimus, canitiem galea premimus; nos sumus apud quos usque eo nihil ante mortem otiosum est ut, si res patitur, non sit ipsa mors otiosa.\" Quid nobis Epicuri praecepta in ipsis Zenonis principiis loqueris? Quin tu bene gnauiter, si partium piget, transfugis potius quam prodis?",
+      "answer": "Non quo miserint me illi, sed quo duxerint ibo.",
+      "derivation": "The interlocutor's whole objection (whole-speech-as-question), quoted verbatim and contiguous, dropping the framing tag 'Dices mihi:' before it. The answer is taken from Seneca's reply, dropping the framing 'Hoc tibi in praesentia respondebo:' and the preamble 'numquid uis amplius quam ut me similem ducibus meis praestem? Quid ergo est?' which is itself a counter-question/throat-clearing, not the answer. The operative answering sentence is the final one. First word capitalization normalized."
+    },
+    {
+      "locus": "Seneca, De Otio 4.2",
+      "type": "authorial-rhetorical",
+      "question": "Haec qui contemplatur, quid deo praestat?",
+      "answer": "Ne tanta eius opera sine teste sint.",
+      "derivation": "Author poses and answers his own question. Question ends at the '?'; answer is the immediately following purpose clause, which is the whole and only response (sentence ends the section). First word capitalization normalized."
+    },
+    {
+      "locus": "Seneca, De Otio 6.4",
+      "type": "authorial-rhetorical",
+      "question": "Quo animo ad otium sapiens secedit?",
+      "answer": "Ut sciat se tum quoque ea acturum per quae posteris prosit.",
+      "derivation": "Author asks and answers. Answer cut at the first full stop, before 'Nos certe sumus qui dicimus...' which elaborates with examples (Zeno, Chrysippus) rather than answering the question. First word capitalization normalized."
+    },
+    {
+      "locus": "Seneca, De Otio 7.4",
+      "type": "authorial-rhetorical",
+      "question": "Quo pertinet haec dicere?",
+      "answer": "Ut appareat contemplationem placere omnibus.",
+      "derivation": "Author asks and answers. Answer cut at the colon, before 'alii petunt illam, nobis haec statio, non portus est' which is a further reflection, not the direct answer to 'quo pertinet'. Terminal colon normalized to a full stop; first word capitalization normalized."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "source": "text/justinian/institutes3.txt",
+  "pairs": [
+    {
+      "locus": "Justinian, Institutes 3.8 (De adsignatione libertorum)",
+      "type": "authorial-rhetorical",
+      "question": "Si eum cui adsignaverit, postea emancipaverit num evanescat adsignatio?",
+      "answer": "Sed placuit, evanescere.",
+      "derivation": "Dropped the asking-frame 'unde quaerebatur' before the question. Answer ends at 'evanescere'; cut the trailing attribution 'quod et Iuliano et aliis plerisque visum est' which only names jurists and does not add to the ruling. Genuine indirect question (num...?) with its resolving 'sed placuit' answer."
+    },
+    {
+      "locus": "Justinian, Institutes 3.11 (De eo cui libertatis causa bona addicuntur)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo, si quis intestatus decedens codicillis libertates dederit neque adita sit ab intestato hereditas?",
+      "answer": "Favor constitutionis debet locum habere.",
+      "derivation": "Self-posed hypothetical (quid ergo, si...?) answered by the next sentence. Answer ends at the first full stop; what follows ('certe si testatus decedat...') is a separate further case, not part of this answer."
+    },
+    {
+      "locus": "Justinian, Institutes 3.11 (De eo cui libertatis causa bona addicuntur)",
+      "type": "authorial-rhetorical",
+      "question": "Si is qui in integrum restitui potest abstinuit se ab hereditate, an, quamvis potest in integrum restitui, potest admitti constitutio?",
+      "answer": "Et debet addictio bonorum fieri.",
+      "derivation": "Genuine interrogative (an...?) answered by the immediately following clause. Answer is the operative resolving sentence; the next sentence ('quid ergo, si post addictionem...') opens a new question and is excluded."
+    },
+    {
+      "locus": "Justinian, Institutes 3.11 (De eo cui libertatis causa bona addicuntur)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo, si post addictionem libertatum conservandarum causa factam in integrum sit restitutus?",
+      "answer": "Utique non erit dicendum revocari libertates quae semel competierunt.",
+      "derivation": "Self-posed hypothetical answered by the next sentence. Answer ends at the full stop; what follows ('Haec constitutio libertatum tuendarum causa introducta est...') begins a new line of reasoning."
+    },
+    {
+      "locus": "Justinian, Institutes 3.11 (De eo cui libertatis causa bona addicuntur)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo, si vivus dedit libertates vel mortis causa et, ne de hoc quaeratur, utrum in fraudem creditorum an non factum sit, idcirco velint addici sibi bona, an audiendi sunt?",
+      "answer": "Et magis est, ut audiri debeant, etsi deficiant verba constitutionis.",
+      "derivation": "Self-posed hypothetical (an audiendi sunt?) answered by the next sentence. Answer ends at the full stop; what follows ('Sed cum multas divisiones...') is closing summary, not part of the answer."
+    },
+    {
+      "locus": "Justinian, Institutes 3.24 (De locatione et conductione)",
+      "type": "authorial-rhetorical",
+      "question": "Si cum aurifice Titio convenerit, ut is ex auro suo certi ponderis certaeque formae anulos ei faceret et acciperet verbi gratia aureos decem, utrum emptio et venditio contrahi videatur, an locatio et conductio?",
+      "answer": "Sed placuit, tantum emptionem et venditionem contrahi.",
+      "derivation": "Dropped the asking-frame 'Item quaeritur' before the question. The reply opens with Cassius's non-final partial view ('et Cassius ait, materiae quidem... locationem et conductionem'); advanced the answer's start past that preamble to the operative ruling 'sed placuit, tantum emptionem et venditionem contrahi', which is the genuine resolution. Stopped before the next sentence ('quodsi suum aurum Titius dederit...'), a different case."
+    },
+    {
+      "locus": "Justinian, Institutes 3.26 (De mandato)",
+      "type": "authorial-rhetorical",
+      "question": "An mandati teneatur qui mandavit tibi, ut Titio pecuniam fenerares?",
+      "answer": "Sed obtinuit Sabini sententia, obligatorium esse in hoc casu mandatum.",
+      "derivation": "Dropped the asking-frame 'et adeo haec ita sunt, ut quaesitum sit'. Source separates question and answer with a colon (no '?'); normalized terminal punctuation to '?'. Answer ends at the first full stop; what follows ('quia non aliter Titio credidisses quam si tibi mandatum esset') gives the rationale and is excluded."
+    }
+  ]
+}

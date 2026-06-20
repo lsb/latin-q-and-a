@@ -1,0 +1,12 @@
+{
+  "source": "text/pauldeacon/hist1.txt",
+  "pairs": [
+    {
+      "locus": "Paulus Diaconus, Historia Langobardorum 1.20",
+      "type": "direct-speech",
+      "question": "Numquid fugiunt Heruli mei?",
+      "answer": "Non hoc ego, sed tu rex ipse dixisti.",
+      "derivation": "Rodulfus, watching his army rout, asks his lookout the genuine interrogative \"Numquid fugiunt Heruli mei?\". The lookout (who had been forbidden on pain of death to report a flight) answers with the operative reply, confirming the rout by attribution. Dropped surrounding narration: the question is preceded by \"Ad haec verba conmotus rex ait:\"; the answer is the quoted span within \"At ille: 'Non' inquit 'hoc ego, sed tu rex ipse dixisti'\", with the speech tags \"At ille\" and \"inquit\" removed and terminal punctuation normalized. What follows the answer is the narration \"Tunc, ut in talibus fieri adsolet, rex ipse et omnes perturbati...\"."
+    }
+  ]
+}

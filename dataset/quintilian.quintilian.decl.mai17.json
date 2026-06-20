@@ -1,0 +1,19 @@
+{
+  "source": "text/quintilian/quintilian.decl.mai17.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Declamatio Maior 17.15",
+      "type": "direct-speech",
+      "question": "Sed, ut credamus, voluisse te mori, cur potissimum veneno?",
+      "answer": "mihi tamen praecipue cum hoc mortis instrumento propria concordia est: non spargit cruorem, nec trucem cadaveris relinquit aspectum; placida est, quieta est.",
+      "derivation": "Father's quoted interrogative in [15], with the framing 'inquit' dropped. The son's reply opens with a long non-answering preamble (possis quidem, pater, hanc de omni supremorum genere litem facere... up through 'cur non veneno?' ... sed nihil est delicatius exitu...) which deflects rather than answers why poison specifically. Advanced the answer's start to the operative sentence 'mihi tamen praecipue...' which genuinely explains the choice of poison (special affinity; no blood, no grim corpse, peaceful). Ended at the first full stop after 'quieta est'; what follows is an apostrophe to the father (ingratissime senex...)."
+    },
+    {
+      "locus": "Quintilian, Declamatio Maior 17.16",
+      "type": "direct-speech",
+      "question": "Cur ergo, si tibi paraveras, non bibisti?",
+      "answer": "breviter, pater, et secundum naturam condicionis humanae respondeo nihil aliud esse in potestate miserorum, quam ut mori velint.",
+      "derivation": "Father's quoted interrogative in [16], with framing 'inquit' dropped. The son's answer is the first sentence of his reply (to the first full stop); 'respondeo' is retained because it governs the indirect-statement clause and dropping it would leave the accusative-infinitive ungrammatical. Ended before the next sentence 'ego cum dico mori volo...' which elaborates."
+    }
+  ]
+}

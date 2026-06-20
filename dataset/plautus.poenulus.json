@@ -1,0 +1,47 @@
+{
+  "source": "text/plautus/poenulus.txt",
+  "pairs": [
+    {
+      "locus": "Plautus, Poenulus 474-476",
+      "type": "direct-speech",
+      "question": "An, opsecro, usquam sunt homines volatici?",
+      "answer": "Fuere. verum ego interfeci.",
+      "derivation": "Lyco asks whether flying men exist anywhere; the soldier Antamonides answers that they did exist but he killed them. Question taken verbatim (interjection 'opsecro' kept). Answer is the full direct reply, stopping before Lyco's next question 'Quo modo potuisti?'. Inline verse-numbers not present within the span."
+    },
+    {
+      "locus": "Plautus, Poenulus 1056-1059",
+      "type": "direct-speech",
+      "question": "Qui potuit fieri, ut Carthagini gnatus sis? hic autem habuisti Aetolum patrem.",
+      "answer": "Surruptus sum illinc. hic me Antidama hospes tuos emit, et is me sibi adoptavit filium.",
+      "derivation": "Hanno asks Agorastocles how he could have been born at Carthage yet have had an Aetolian father here. The framing tag 'quid ais?' that opens line 1143 is dropped as a speech-opener; the question is normalized to a single '?'. Answer is the full contiguous reply explaining he was kidnapped and bought/adopted, stopping at the end of line 1146 before Hanno's next remark 'Demarcho item ipse fuit adoptaticius.'. Inline verse number 1060 stripped (falls at line 1147, outside the span)."
+    },
+    {
+      "locus": "Plautus, Poenulus 1066-1067",
+      "type": "direct-speech",
+      "question": "An mortui sunt?",
+      "answer": "Factum, quod aegre tuli.",
+      "derivation": "After Hanno wishes Agorastocles' parents were alive ('Patrem atque matrem viverent vellem tibi'), Agorastocles asks whether they are dead; Hanno answers confirming it ('It happened, which I bore with grief'). Question and answer taken verbatim. Answer stops at the full stop before the trailing tilde and Hanno's elaboration 'nam mihi sobrina Ampsigura tua mater fuit...'. The setup line is Hanno's own immediately preceding line, giving 'they' its referent."
+    },
+    {
+      "locus": "Plautus, Poenulus 1131-1132",
+      "type": "direct-speech",
+      "question": "Ubi sunt meae gnatae?",
+      "answer": "Apud aedem Veneris.",
+      "derivation": "Hanno asks the nurse Giddenes where his daughters are; she answers 'At the temple of Venus.' The opening word 'Novi' (answering a prior question) and the closing meta-framing 'id scire expeto' ('I long to know this') are dropped as not part of the question proper. Answer taken verbatim, stopping before Hanno's next question 'Quid ibi faciunt?'."
+    },
+    {
+      "locus": "Plautus, Poenulus 1132-1134",
+      "type": "direct-speech",
+      "question": "Quid ibi faciunt?",
+      "answer": "oratum ierunt deam, ut sibi esset propitia.",
+      "derivation": "Hanno asks what his daughters are doing at the temple; Giddenes answers that they went to pray to the goddess. The speech-tag 'dic mihi' is dropped. The reply opens with a non-answering preamble 'Aphrodisia hodie Veneris est festus dies' (context, ending at a colon); per the answer-window guidance the start is advanced to the operative answering clause 'oratum ierunt deam, ut sibi esset propitia', a contiguous sub-span that directly answers the question."
+    },
+    {
+      "locus": "Plautus, Poenulus 1143-1144",
+      "type": "direct-speech",
+      "question": "Quid illi locuti sunt inter se?",
+      "answer": "Matrem hic salutat suam, haec autem hunc filium.",
+      "derivation": "After the boy and Giddenes exchange Punic lines, Agorastocles asks Hanno what they said to each other; Hanno answers that the boy greets his mother and she greets him as her son. The speech-tag 'dic mihi' is dropped. Both fields verbatim; self-contained."
+    }
+  ]
+}

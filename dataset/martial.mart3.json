@@ -1,0 +1,61 @@
+{
+  "source": "text/martial/mart3.txt",
+  "pairs": [
+    {
+      "locus": "Martial 3.8",
+      "type": "direct-speech",
+      "question": "Thaida Quintus amat. Quam Thaida?",
+      "answer": "Thaida luscam.",
+      "derivation": "Three-part dialogue. Setup statement \"Thaida Quintus amat.\" kept so \"Quam Thaida?\" (Which Thais?) has a referent; answered directly by \"Thaida luscam.\" The following pentameter \"Vnum oculum Thais non habet, ille duos.\" is authorial comment, not part of the answer, so cut there."
+    },
+    {
+      "locus": "Martial 3.15",
+      "type": "direct-speech",
+      "question": "Plus credit nemo tota quam Cordus in urbe. Cum sit tam pauper, quomodo?",
+      "answer": "Caecus amat.",
+      "derivation": "Setup \"Plus credit nemo tota quam Cordus in urbe.\" kept so the question \"Cum sit tam pauper, quomodo?\" is intelligible (how does he extend so much credit?). Answered by \"Caecus amat.\""
+    },
+    {
+      "locus": "Martial 3.20",
+      "type": "whole-speech-as-question",
+      "question": "Dic, Musa, quid agat Canius meus Rufus: utrumque chartis tradit ille uicturis legenda temporum acta Claudianorum, an quae Neroni falsus adstruit scriptor? An aemulatur inprobi iocos Phaedri? Lasciuus elegis an seuerus herois? An in cothurnis horridus Sophocleis? An otiosus in schola poetarum lepore tinctos Attico sales narrat? Hinc si recessit, porticum terit templi an spatia carpit lentus Argonautarum? An delicatae sole rursus Europae inter tepentes post meridiem buxos sedet ambulatue liber acribus curis? Titine thermis an lauatur Agrippae an inpudici balneo Tigillini? an rure Tulli fruitur atque Lucani? An Pollionis dulce currit ad quartum? an aestuantis iam profectus ad Baias piger Lucrino nauculatur in stagno?",
+      "answer": "Vis scire quid agat Canius tuus? Ridet.",
+      "derivation": "The entire poem is one extended question (a catalogue of \"what is Canius doing?\" alternatives) addressed to the Muse; quoted contiguously and verbatim including the speech-framing imperative \"Dic, Musa\" which is internal to the utterance. Answered by the closing reply; \"Ridet\" is the operative answer but the whole quoted reply \"Vis scire quid agat Canius tuus? Ridet.\" is the contiguous response sentence(s)."
+    },
+    {
+      "locus": "Martial 3.27",
+      "type": "direct-speech",
+      "question": "Vitium est utriusque. Quod?",
+      "answer": "Et mihi cor non est et tibi, Galle, pudor.",
+      "derivation": "Setup \"Vitium est utriusque.\" kept so the one-word question \"Quod?\" (which [vice]?) has a referent. Dropped the framing \"inquis\". Answered by \"Et mihi cor non est et tibi, Galle, pudor.\""
+    },
+    {
+      "locus": "Martial 3.38",
+      "type": "direct-speech",
+      "question": "Quid faciam? Suade: nam certum est uiuere Romae.",
+      "answer": "Si bonus es, casu uiuere, Sexte, potes.",
+      "derivation": "Closing exchange of the poem: Sextus asks \"Quid faciam?\" with contiguous own words \"suade: nam certum est uiuere Romae\". Answered directly by the poet \"Si bonus es, casu uiuere, Sexte, potes.\""
+    },
+    {
+      "locus": "Martial 3.47",
+      "type": "authorial-rhetorical",
+      "question": "Vrbem petebat Bassus?",
+      "answer": "Immo rus ibat.",
+      "derivation": "After the long description of Bassus's loaded cart, the author poses the closing question \"Vrbem petebat Bassus?\" and answers it himself \"Immo rus ibat.\""
+    },
+    {
+      "locus": "Martial 3.63",
+      "type": "direct-speech",
+      "question": "Sed quid sit, dic mihi, bellus homo?",
+      "answer": "Bellus homo est, flexos qui digerit ordine crines, balsama qui semper, cinnama semper olet; cantica qui Nili, qui Gaditana susurrat, qui mouet in uarios bracchia uolsa modos; inter femineas tota qui luce cathedras desidet atque aliqua semper in aure sonat; qui legit hinc illinc missas scribitque tabellas; pallia uicini qui refugit cubiti; qui scit quam quis amet, qui per conuiuia currit, Hirpini ueteres qui bene nouit auos.",
+      "derivation": "The poet asks \"sed quid sit, dic mihi, bellus homo?\" (so what is a fine fellow?) and the interlocutor answers with the full definition speech \"Bellus homo est ... auos.\" Quoted verbatim to the close of the defining speech; the poet's subsequent \"Quid narras?...\" is a new turn and excluded."
+    },
+    {
+      "locus": "Martial 3.84",
+      "type": "direct-speech",
+      "question": "Quid narrat tua moecha?",
+      "answer": "Non puellam dixi, Gongylion.",
+      "derivation": "Dialogue. \"Quid narrat tua moecha?\" answered by \"Non puellam dixi, Gongylion\" (clarifying that \"moecha\" was not meant as \"girl\"). The further exchange \"Quid ergo? Linguam.\" is a separate follow-up turn and is not included."
+    }
+  ]
+}

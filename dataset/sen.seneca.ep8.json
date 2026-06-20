@@ -1,0 +1,26 @@
+{
+  "source": "text/sen/seneca.ep8.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Epistulae 71.37",
+      "type": "authorial-rhetorical",
+      "question": "Quem vicerim?",
+      "answer": "Non Persas nec extrema Medorum nec si quid ultra Dahas bellicosum iacet, sed avaritiam, sed ambitionem, sed metum mortis, qui victores gentium vicit.",
+      "derivation": "Author voices the interlocutor's question and answers it himself. The framing speech-verb 'quaeris' is dropped from 'Quem vicerim quaeris?', leaving the bare interrogative. The answer is the full following sentence; it is contiguous and answers 'whom have I conquered' directly. Nothing trimmed from the answer, which ends at the full stop before 'Vale.'"
+    },
+    {
+      "locus": "Seneca, Epistulae 73.13",
+      "type": "authorial-rhetorical",
+      "question": "Iuppiter quo antecedit virum bonum?",
+      "answer": "Diutius bonus est.",
+      "derivation": "Author poses and answers his own question. The answer is taken to the first full stop ('Diutius bonus est'); what follows after the colon ('sapiens nihilo se minoris aestimat...') is elaboration, so it is cut. First-word capitalization normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 74.24",
+      "type": "authorial-rhetorical",
+      "question": "Est quod illorum expleat locum. Quid sit?",
+      "answer": "Quod illos quoque bonos fecerat, virtus.",
+      "derivation": "Author asks and answers. Setup 'Est quod illorum expleat locum' is kept verbatim so 'Quid sit' has a referent. The framing 'quaeris' is dropped from 'Quid sit quaeris?'. Answer is the immediately following sentence; first-word capitalization normalized."
+    }
+  ]
+}

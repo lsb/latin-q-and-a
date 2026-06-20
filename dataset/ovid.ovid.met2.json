@@ -1,0 +1,26 @@
+{
+  "source": "text/ovid/ovid.met2.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Metamorphoses 2.35-41",
+      "type": "whole-speech-as-question",
+      "question": "O lux inmensi publica mundi, Phoebe pater, si das usum mihi nominis huius, nec falsa Clymene culpam sub imagine celat, pignora da, genitor, per quae tua vera propago credar, et hunc animis errorem detrahe nostris!",
+      "answer": "Nec tu meus esse negari dignus es, et Clymene veros edidit ortus.",
+      "derivation": "Phaethon's entire speech is one extended plea for proof of his divine paternity, answered by Sol. The whole speech is quoted verbatim and contiguous as the question (dropping only the speech tag 'ille refert:' and capitalizing 'O'). For the answer, the embedded speech tag 'ait' is dropped (framing) to keep the utterance contiguous: 'nec tu meus esse negari dignus es, et Clymene veros edidit ortus'. The answer is cut at 'ortus' (comma normalized to a full stop); what follows ('quoque minus dubites, quodvis pete munus...') turns from confirming paternity to offering the fatal boon, i.e. elaboration beyond the answer."
+    },
+    {
+      "locus": "Ovid, Metamorphoses 2.514-515",
+      "type": "authorial-rhetorical",
+      "question": "Aetheriis quare regina deorum sedibus huc adsim?",
+      "answer": "Pro me tenet altera caelum.",
+      "derivation": "Juno poses a question and answers it herself (subiectio). The asking-narration framing 'quaeritis,' is dropped, leaving the verbatim interrogative 'aetheriis quare regina deorum sedibus huc adsim?' (first word capitalized). The answer is her own immediate reply 'pro me tenet altera caelum' (first word capitalized, exclamation normalized to a full stop); what follows ('mentior, obscurum nisi nox...') moves on to a further proof/threat, beyond the answer."
+    },
+    {
+      "locus": "Ovid, Metamorphoses 2.665-666",
+      "type": "authorial-rhetorical",
+      "question": "In equam cognataque corpora vertor. Tota tamen quare?",
+      "answer": "Pater est mihi nempe biformis.",
+      "derivation": "Ocyroe poses a question about her own transformation and answers it herself. The verbatim setup 'in equam cognataque corpora vertor' is kept with the interrogative so 'tota' ('wholly') has a referent (widening the window with contiguous source text; first word capitalized, colon normalized to a full stop). The answer is her own immediate reply 'pater est mihi nempe biformis' (first word capitalized); what follows ('talia dicenti pars est extrema querellae...') is the narrator resuming, beyond the answer."
+    }
+  ]
+}

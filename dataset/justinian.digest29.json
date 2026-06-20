@@ -1,0 +1,82 @@
+{
+  "source": "text/justinian/digest29.txt",
+  "pairs": [
+    {
+      "locus": "Digest 29.1.25 (Marcellus)",
+      "type": "direct-speech",
+      "question": "Titius priusquam tribunus legionis factus esset, testamentum fecit et postea cinctus manente eodem defunctus est: an militis testamentum videatur esse?",
+      "answer": "Testamentum quod ante tribunatum fecisset, nisi postea ab eo factum dictum esse probaretur quod valere vellet, ad commune ius pertinet.",
+      "derivation": "Setup (the Titius case) kept verbatim so 'an militis testamentum videatur esse' has a referent. Dropped the asking-frame 'quaero,' and lower-cased 'an'; dropped the answer-frame 'Marcellus respondit:' and capitalized 'Testamentum'. Answer ends at the first full stop; what follows ('constitutionibus enim principum... declaravit') is elaboration/justification, so it is cut."
+    },
+    {
+      "locus": "Digest 29.1.40pr (Paulus, responsa)",
+      "type": "direct-speech",
+      "question": "Lucius titius miles notario suo testamentum scribendum notis dictavit et antequam litteris praescriberetur, vita defunctus est: an haec dictatio valere possit?",
+      "answer": "Militibus, quoquo modo velint et quo modo possunt, testamentum facere concessum esse, ita tamen, ut hoc ita subsecutum esse legitimis probationibus ostendatur.",
+      "derivation": "Case setup kept verbatim to make the question self-contained. Dropped 'quaero,' (asking-frame) and lower-cased 'an'; dropped 'respondi' (answer-frame) and capitalized 'Militibus'. The reply is a single sentence and answers directly, so the whole sentence is the answer."
+    },
+    {
+      "locus": "Digest 29.1.40.2 (Paulus, responsa)",
+      "type": "direct-speech",
+      "question": "Lucius titius miles testamentum ita fecit: pamphila serva mea ex asse mihi heres esto: alio deinde capite sempronio commilitoni suo eandem pamphilam reliquit, cuius fidei commisit, ut eam manumitteret: an heres esset pamphila atque si directo accepisset libertatem?",
+      "answer": "Intellegendum militem, qui ancillam suam heredem instituerat, ignorasse posse ex ea institutione etiam libertatem ei competere et ideo sine causa postea a commilitone petisse, ut eandem manumitteret.",
+      "derivation": "Case setup kept verbatim (including the quoted testament clause, whose stray quotation marks are stripped but words kept) so the question is intelligible. Dropped 'quaero,' and lower-cased 'an'; dropped 'respondi' and capitalized 'Intellegendum'. Answer ends at the colon-separated clause that states the holding; the following 'cum ex priore scriptura... frustra legata est' is consequence/explanation and is cut."
+    },
+    {
+      "locus": "Digest 29.2.75 (Marcellus)",
+      "type": "direct-speech",
+      "question": "Ex semisse titius heres scriptus est: quadrantis bonorum possessionem per errorem petit. An nihil actum sit an vero perinde omnia servanda sint, ac si quadrans nominatus non sit?",
+      "answer": "Magis nihil actum esse, quemadmodum cum ex semisse scriptus heres ex quadrante per errorem adiit hereditatem.",
+      "derivation": "Setup ('Ex semisse... per errorem petit') kept verbatim. Dropped the asking-frame 'quaero,' and capitalized 'An'. Dropped 'respondit' and capitalized 'Magis'. The reply is one sentence answering the disjunctive question."
+    },
+    {
+      "locus": "Digest 29.2.76pr (Iavolenus, epist.)",
+      "type": "direct-speech",
+      "question": "Si tu ex parte sexta sub condicione institutus fuisses heres et omittente partem suam titio, cui substitutus eras, ex substitutione adisses, deinde condicio iure sextantis exstitisset, an adire necesse habueris, ne sextans tuus intereat?",
+      "answer": "Nihil interest, utrum ex substitutione prius adierim an ex prima institutione, cum ab utraque causa una aditio sufficiat.",
+      "derivation": "Conditional setup kept verbatim so 'an adire necesse habueris' is intelligible. Dropped 'quaero,' and lower-cased 'an'; dropped 'respondit:' and capitalized 'Nihil'. Answer ends at the first full stop; the following 'sextans itaque... ad me solum pertinet' is the corollary and is cut."
+    },
+    {
+      "locus": "Digest 29.2.76.1 (Iavolenus, epist.)",
+      "type": "direct-speech",
+      "question": "Item si tu sextantis, ex quo institutus esses heres, omiseris actionem, numquid dubitas, quin ex substitutione adeundo titianae partis habiturus partem esses?",
+      "answer": "Non dubito, quin, si prima institutione adeundo heres esse possim, in potestate mea sit, quam partem hereditatis aut amittere velim aut vindicare.",
+      "derivation": "A genuine interrogative ('numquid dubitas, quin...?') answered by 'respondit: non dubito, quin...'. Kept the conditional setup verbatim. Dropped only the answer-frame 'respondit:' and capitalized 'Non'. Single-sentence reply, kept whole."
+    },
+    {
+      "locus": "Digest 29.2.92 (Paulus, responsa)",
+      "type": "direct-speech",
+      "question": "Filius familias duxit uxorem: ea filiis sublatis intestata decessit: filii iussu patris, non avi adierunt hereditatem: an avo adquisita sit hereditas?",
+      "answer": "Secundum ea quae proponuntur nihil actum esse.",
+      "derivation": "Case setup kept verbatim. Dropped 'quaero,' and lower-cased 'an'; dropped 'paulus respondit' and capitalized 'Secundum'. The reply is the single answering clause."
+    },
+    {
+      "locus": "Digest 29.5.15pr (Marcianus)",
+      "type": "authorial-rhetorical",
+      "question": "Si sequens gradus ultus fuerit necem testatoris, an priore hereditas ad illum transferatur?",
+      "answer": "Non esse hoc: nam poena illius huius praemium esse non debet.",
+      "derivation": "Author poses and answers his own question. Conditional setup kept so 'an priore hereditas ad illum transferatur' is intelligible. Dropped the answer-frame 'et ait papinianus' and capitalized 'Non'. Answer kept through the justifying 'nam...' clause, which directly supports the negative holding."
+    },
+    {
+      "locus": "Digest 29.5.22 (Paulus, responsa)",
+      "type": "direct-speech",
+      "question": "Gaius seius cum languesceret, questus est se veneno occidi a servo suo et sic exspiravit: cui heres exstitit lucia titia soror et mortem eius exsequi neglexit et ipsa post annum decimum decessit: exstitit qui bona nuntiaret gaii seii: an morte titiae extinctum sit crimen?",
+      "answer": "Causam, de qua quaeritur, cum sit pecuniaria, morte ingratae heredis extinctam non videri.",
+      "derivation": "Full case narrative kept verbatim so 'an morte titiae extinctum sit crimen' has its referents (Titia, the crimen). Dropped 'quaero,' and lower-cased 'an'; dropped 'paulus respondit' and capitalized 'Causam'. Single-sentence responsum kept whole."
+    },
+    {
+      "locus": "Digest 29.5.26 (Scaevola)",
+      "type": "direct-speech",
+      "question": "Fideicommissum, quod ex testamento fratris patruelis gaius seius titio debebat, ab heredibus seii titius accepit: cum necem gaii seii heredes eius non vindicaverint, an titius nihilo minus eos heredes ut indignos accusare possit ob id, quod necem eius non vindicaverint, nec obsit ei, quod ab isdem fideicommissum ex testamento fratris patruelis consecutus sit?",
+      "answer": "Nihil proponi, cur obstaret.",
+      "derivation": "Case setup kept verbatim. Dropped the asking-frame 'quaesitum est,' and capitalized 'cum' (now the question's first word); 'an' remains lower-case mid-question as in source. Dropped 'respondit' and capitalized 'Nihil'. The reply is the single answering clause."
+    },
+    {
+      "locus": "Digest 29.7.18 (Celsus)",
+      "type": "direct-speech",
+      "question": "Lucius titius his verbis ita cavit: si quid tabulis aliove quo genere ad hoc testamentum pertinens reliquero, ita valere volo. Quaero, an codicilli, qui ante hoc testamentum scripti sunt, debeant rati esse?",
+      "answer": "Haec verba: si quid ad hoc testamentum pertinens reliquero, valere volo, etiam ea, quae ante testamentum scripta sunt, comprehendere.",
+      "derivation": "A genuine epistolary exchange: Plotiana's letter asks Celsus a question, Celsus replies. Dropped the salutation framings 'Plotiana celso suo salutem.' (opening of the question-letter) and 'iuventius celsus plotianae salutem.' (opening of the reply); these narrate the correspondence, not the substance. Stripped the quotation marks around the cited testament clauses, keeping the words. The question retains 'Quaero, an...' as the operative interrogative with its quoted clause as setup. The answer is the entire single-sentence reply."
+    }
+  ]
+}

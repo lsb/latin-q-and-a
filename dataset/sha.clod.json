@@ -1,0 +1,12 @@
+{
+  "source": "text/sha/clod.txt",
+  "pairs": [
+    {
+      "locus": "Historia Augusta, Clodius Albinus 13.10",
+      "type": "authorial-rhetorical",
+      "question": "Et quid dico senatus?",
+      "answer": "Vos ipsi et patres vestri; eritis enim ipsi senatores.",
+      "derivation": "Within Albinus's contio, the speaker poses a self-correcting rhetorical question (Et quid dico senatus? = 'And why do I say the senate?') and answers it himself. The preceding clause 'Senatus imperet, provincias dividat, senatus nos consules faciat.' gives the referent for 'senatus' but is not part of the interrogative, so it is left out of the question. The answer is taken contiguous through the first full stop: 'Vos ipsi et patres vestri; eritis enim ipsi senatores.' (the semicolon is interior, not a stop). This sentence ends section XIII; section XIV begins 'Haec contio...'. No words altered or reordered."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/livy/liv.39.txt",
+  "pairs": [
+    {
+      "locus": "Livy 39.36",
+      "type": "authorial-rhetorical",
+      "question": "Quid ita?",
+      "answer": "Quia in uestro foedere erat, ut maritimis urbibus abstinerent Lacedaemonii.",
+      "derivation": "Within Lycortas's speech to Appius Claudius and the Roman legates: he poses a self-directed rhetorical question and immediately answers it himself. Question is the verbatim 'quid ita?' (first word capitalized). Answer begins at 'quia' (the operative answering clause) and ends at the first full stop after 'Lacedaemonii'; what follows ('quo tempore armis captis urbes...') turns to narrating the Spartans' seizure of the maritime cities and is elaboration, not the direct answer, so it is cut. No interior ellipsis; all words verbatim and contiguous."
+    }
+  ]
+}

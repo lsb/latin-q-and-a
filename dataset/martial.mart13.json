@@ -1,0 +1,26 @@
+{
+  "source": "text/martial/mart13.txt",
+  "pairs": [
+    {
+      "locus": "Martial 13.76",
+      "type": "authorial-rhetorical",
+      "question": "Rustica sim an perdix quid refert, si sapor idem est?",
+      "answer": "Carior est perdix. Sic sapit illa magis.",
+      "derivation": "Single elegiac couplet (epigram LXXVI Rusticulae). First line poses the genuine interrogative 'quid refert... si sapor idem est?' (what does it matter whether I am a woodcock or a partridge, if the taste is the same?). The pentameter answers it directly: the partridge is dearer, and so it tastes better. Stripped the section marker 'LXXVI. Rusticulae.'; nothing cut from the answer (the poem ends here)."
+    },
+    {
+      "locus": "Martial 13.78",
+      "type": "authorial-rhetorical",
+      "question": "Nomen habet magni volucris tam parva gigantis?",
+      "answer": "Et nomen prasini Porphyrionis habet.",
+      "derivation": "Single elegiac couplet (epigram LXXVIII Porphyriones). Hexameter is the interrogative: does so small a bird bear the name of a great giant? Pentameter answers affirmatively and adds it also bears the name of the green-faction charioteer Porphyrion. Stripped the section marker 'LXXVIII. Porphyriones.'; answer is the whole pentameter and the poem ends there."
+    },
+    {
+      "locus": "Martial 13.111",
+      "type": "authorial-rhetorical",
+      "question": "Condita quo consule?",
+      "answer": "Nullus erat.",
+      "derivation": "Epigram CXI (Falernum). Source reads 'condita quo quaeris consule? Nullus erat.' Dropped the framing verb 'quaeris' ('you ask') as narration of the asking, leaving the genuine interrogative 'condita quo consule?' (under what consul was it stored?), capitalized as the question's first word. The answer 'Nullus erat.' (there was none - i.e. older than the consular fasti) follows immediately and ends the poem. Stripped the section marker 'CXI. Falernum.' Did not include the preceding pentameter clause 'De Sinuessanis venerunt Massica prelis' as it is not needed for the Q&A to be intelligible."
+    }
+  ]
+}

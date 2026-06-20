@@ -1,0 +1,12 @@
+{
+  "source": "text/nepos/nepos.eum.txt",
+  "pairs": [
+    {
+      "locus": "Nepos, Eumenes 11.4-5",
+      "type": "direct-speech",
+      "question": "Quid tu? animo si isto eras, cur non in proelio cecidisti potius, quam in potestatem inimici venires?",
+      "answer": "Utinam quidem istud evenisset! Sed eo non accidit, quod numquam cum fortiore sum congressus.",
+      "derivation": "Onomarchus directly addresses Eumenes with a real interrogative (cur non... cecidisti?). The answer's framing tag 'Huic Eumenes' is dropped as a speech tag. The reply opens with 'Utinam quidem istud evenisset!' (a direct response) and the operative answering sentence 'Sed eo non accidit, quod numquam cum fortiore sum congressus.' explains why he did not fall in battle. Cut at the first full stop after 'congressus'; what follows ('Non enim cum quoquam arma contuli, quin is mihi succubuerit; non enim virtute hostium, sed amicorum perfidia decidi.') elaborates and is omitted."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "source": "text/ovid/ovid.fasti1.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Fasti 1.149-164",
+      "type": "direct-speech",
+      "question": "Frigoribus quare novus incipit annus, qui melius per ver incipiendus erat? omnia tunc florent, tunc est nova temporis aetas, et nova de gravido palmite gemma tumet, et modo formatis operitur frondibus arbor, prodit et in summum seminis herba solum, et tepidum volucres concentibus aera mulcent, ludit et in pratis luxuriatque pecus. tum blandi soles, ignotaque prodit hirundo et luteum celsa sub trabe figit opus: tum patitur cultus ager et renovatur aratro. haec anni novitas iure vocanda fuit.",
+      "answer": "Bruma novi prima est veterisque novissima solis: principium capiunt Phoebus et annus idem.",
+      "derivation": "Ovid's whole speech asking why the year starts in winter rather than spring; quoted entire and contiguous as the question, dropping the speech tag 'dic, age' framing the asking. Stripped inline verse numbers 150/155/160. Janus's full two-line reply (the narrator notes 'contulit in versus... duos') is the answer; dropped the narration 'quaesieram multis; non multis ille moratus contulit in versus sic sua verba duos'."
+    },
+    {
+      "locus": "Ovid, Fasti 1.171-174",
+      "type": "direct-speech",
+      "question": "Cur, quamvis aliorum numina placem, Iane, tibi primum tura merumque fero?",
+      "answer": "Ut possis aditum per me, qui limina servo, ad quoscumque voles habere deos.",
+      "derivation": "Direct question from Ovid (framing tag 'mox ego' dropped) and Janus's reply; the speech tag 'inquit' (interior to the answer) removed, words kept contiguous and in order."
+    },
+    {
+      "locus": "Ovid, Fasti 1.175-182",
+      "type": "direct-speech",
+      "question": "At cur laeta tuis dicuntur verba Kalendis, et damus alternas accipimusque preces?",
+      "answer": "Omina principiis inesse solent.",
+      "derivation": "Ovid asks why glad words are spoken on the Kalends; Janus answers 'omina principiis inquit inesse solent'. Interior speech tag 'inquit' dropped; answer ends at the first full stop. The continuation ('ad primam vocem timidas advertitis aures...') elaborates the omen-doctrine rather than answering, so it is cut. Stripped inline number 175."
+    },
+    {
+      "locus": "Ovid, Fasti 1.185-187",
+      "type": "direct-speech",
+      "question": "Quid volt palma sibi rugosaque carica et data sub niveo candida mella cado?",
+      "answer": "Omen causa est, ut res sapor ille sequatur et peragat coeptum dulcis ut annus iter.",
+      "derivation": "Ovid asks the meaning of the New Year gifts (palm, fig, honey); framing 'dixi' interrupting the quote and the answer's 'ait' tag dropped. Stripped inline number 185."
+    },
+    {
+      "locus": "Ovid, Fasti 1.189-222",
+      "type": "direct-speech",
+      "question": "Dulcia cur dentur video: stipis adice causam, pars mihi de festo ne labet ulla tuo.",
+      "answer": "O quam te fallunt tua saecula, qui stipe mel sumpta dulcius esse putas!",
+      "derivation": "Ovid asks the reason for the coin (stips). Janus's long reply opens with the operative answering exclamation; the speech tags 'risit, et... dixit' framing it are dropped. The remainder ('vix ego Saturno quemquam regnante videbam...') is a digression on greed across the ages, so the answer is cut at the first full stop. Stripped inline number 190."
+    },
+    {
+      "locus": "Ovid, Fasti 1.229-234",
+      "type": "direct-speech",
+      "question": "Cur navalis in aere altera signata est, altera forma biceps?",
+      "answer": "Noscere me duplici posses ut imagine, ni vetus ipsa dies extenuasset opus.",
+      "derivation": "Ovid asks why one side of the coin bears a ship and the other the two-faced head; the preceding framing 'multa quidem didici: sed' and the answer's 'dixit' tag dropped. Answer ends at the first full stop; the following 'causa ratis superest...' begins the etiological narrative. Stripped inline number 230."
+    },
+    {
+      "locus": "Ovid, Fasti 1.257-279",
+      "type": "direct-speech",
+      "question": "Cum tot sint iani, cur stas sacratus in uno, hic ubi iuncta foris templa duobus habes?",
+      "answer": "Inde, velut nunc est, per quem descenditis arduus in valles per fora clivus erat.",
+      "derivation": "Ovid asks why Janus stands consecrated in a single arch. Janus's answer begins after a narrated preamble (the narrator's 'ille, manu mulcens... rettulit arma Tati, utque... duxerit arcis iter') with his own quoted words; the interior tag 'inquit' is dropped. The answer is cut at the first full stop, where the Tatius/Sabine narrative continues ('et iam contigerat portam...'). Stripped inline numbers 260/265."
+    },
+    {
+      "locus": "Ovid, Fasti 1.277-280",
+      "type": "direct-speech",
+      "question": "At cur pace lates, motisque recluderis armis?",
+      "answer": "Ut populo reditus pateant ad bella profecto, tota patet dempta ianua nostra sera.",
+      "derivation": "Ovid asks why Janus is shut in peace and opened in war; the narration 'nec mora, quaesiti reddita causa mihi est' dropped, Janus's direct reply quoted. Answer ends at the first full stop, before 'pace fores obdo...' Stripped inline number 280."
+    }
+  ]
+}

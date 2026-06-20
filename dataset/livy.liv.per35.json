@@ -1,0 +1,12 @@
+{
+  "source": "text/livy/liv.per35.txt",
+  "pairs": [
+    {
+      "locus": "Livy Periochae 35",
+      "type": "direct-speech",
+      "question": "Quidnam tu diceres si me uicisses?",
+      "answer": "Tunc vero me et ante Alexandrum et ante Pyrrhum et ante alios posuissem.",
+      "derivation": "Direct-speech exchange between Scipio and Hannibal. Scipio's question quoted verbatim with the framing tag 'inquit' (which splits 'quidnam tu diceres, inquit, si me uicisses') dropped and capitalization normalized. Hannibal's reply quoted verbatim with the interior framing tag 'inquit' (splitting 'Tunc vero me, inquit, et ante...') dropped. The earlier exchanges in the paragraph (quem maximum imperatorem... respondit Alexandrum, etc.) are reported in indirect discourse, not genuine quoted interrogatives, so they are not extracted."
+    }
+  ]
+}

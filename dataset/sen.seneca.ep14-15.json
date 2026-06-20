@@ -1,0 +1,40 @@
+{
+  "source": "text/sen/seneca.ep14-15.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Epistulae 92.3",
+      "type": "authorial-rhetorical",
+      "question": "Quid est beata vita?",
+      "answer": "Securitas et perpetua tranquillitas.",
+      "derivation": "Seneca poses and answers his own question. Question and answer quoted verbatim. The answer stops at the first full stop; what follows (`Hanc dabit animi magnitudo...`) elaborates how it is attained and is omitted. First word of the answer capitalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 92.25",
+      "type": "authorial-rhetorical",
+      "question": "Quid est in virtute praecipuum?",
+      "answer": "Futuro non indigere nec dies suos conputare.",
+      "derivation": "Authorial question and direct answer, both verbatim. The answer ends at the first full stop; what follows (`In quantulo libet tempore bona aeterna consummat.`) is further elaboration and is cut. First word capitalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 93.8",
+      "type": "authorial-rhetorical",
+      "question": "Quod sit amplissimum vitae spatium?",
+      "answer": "Usque ad sapientiam vivere.",
+      "derivation": "The framing verb `Quaeris` is dropped as narration of the asking, leaving the embedded interrogative `Quod sit amplissimum vitae spatium?`. The answer `usque ad sapientiam vivere` is the direct reply, cut at the comma before `qui ad illam pervenit...` which elaborates. First word capitalized, terminal punctuation normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 95.49",
+      "type": "authorial-rhetorical",
+      "question": "Quae causa est dis bene faciendi?",
+      "answer": "Natura.",
+      "derivation": "Authorial one-word answer to a self-posed question, both verbatim. The answer stops at `natura`; what follows (`Errat si quis illos putat nocere nolle...`) is a separate point and is omitted. First word capitalized, terminal punctuation normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 95.50",
+      "type": "authorial-rhetorical",
+      "question": "Vis deos propitiare?",
+      "answer": "Bonus esto.",
+      "derivation": "Rhetorical question answered directly by the imperative. Both verbatim. The answer ends at the full stop; the following sentence (`Satis illos coluit quisquis imitatus est.`) restates the point and is cut. First word capitalized."
+    }
+  ]
+}

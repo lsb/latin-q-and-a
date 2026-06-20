@@ -1,0 +1,26 @@
+{
+  "source": "text/justinian/digest1.txt",
+  "pairs": [
+    {
+      "locus": "Digest 1.5.10 (Ulpian)",
+      "type": "authorial-rhetorical",
+      "question": "Hermaphroditum cui comparamus?",
+      "answer": "Et magis puto eius sexus aestimandum, qui in eo praevalet.",
+      "derivation": "Source: 'Quaeritur: hermaphroditum cui comparamus? et magis puto eius sexus aestimandum, qui in eo praevalet.' Dropped the framing 'Quaeritur:' ('it is asked') which narrates the asking, capitalized the first word of the now-leading interrogative. Answer is the jurist's direct reply, a single sentence ending at the full stop."
+    },
+    {
+      "locus": "Digest 1.7.22pr (Ulpian)",
+      "type": "authorial-rhetorical",
+      "question": "Si adrogator decesserit impubere relicto filio adoptivo et mox impubes decedat, an heredes adrogatoris teneantur?",
+      "answer": "Et dicendum est heredes quoque restituturus et bona adrogati et praeterea quartam partem.",
+      "derivation": "Direct interrogative ('an heredes adrogatoris teneantur?') kept with its conditional setup (Si adrogator decesserit... mox impubes decedat) so the question has its referents. Answer is the operative responding sentence introduced by 'et dicendum est'; it runs to the full stop and is the whole reply, so nothing trimmed."
+    },
+    {
+      "locus": "Digest 1.14.3 (Ulpian, Barbarius Philippus)",
+      "type": "authorial-rhetorical",
+      "question": "Si servus quamdiu latuit, dignitate praetoria functus sit, quid dicemus? quae edixit, quae decrevit, nullius fore momenti? an fore propter utilitatem eorum, qui apud eum egerunt vel lege vel quo alio iure?",
+      "answer": "Et verum puto nihil eorum reprobari.",
+      "derivation": "Dropped the framing 'et tamen videamus:' ('and yet let us consider'), which narrates the deliberation, and capitalized the now-leading 'Si'. The conditional 'Si servus... functus sit' is kept as setup so 'quid dicemus' / 'quae edixit, quae decrevit' have referents. The three contiguous interrogatives form the question. Answer cut at the full stop after 'reprobari'; what follows ('hoc enim humanius est: cum etiam potuit populus romanus...') is justification/elaboration, omitted."
+    }
+  ]
+}

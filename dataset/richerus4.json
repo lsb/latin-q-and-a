@@ -1,0 +1,26 @@
+{
+  "source": "text/richerus4.txt",
+  "pairs": [
+    {
+      "locus": "Richer, Historiae 4.75",
+      "type": "direct-speech",
+      "question": "Cur Odoni praejuditium fit, cum sepenumero reddi sibi petierit, et se inferior eo nunc potiatur?",
+      "answer": "Quoniam id regi sic visum est.",
+      "derivation": "Direct dialogue between Odo's agent (iste) and the warden of Milidunum (ille). Stripped the speech tags 'Et iste:' / 'inquit' from the question and 'Quoniam inquit' from the answer, keeping the warden's reply verbatim. The answer ends at its first full stop; the next sentence ('Et non solum id...') belongs to a different exchange below and elaborates, so it is excluded."
+    },
+    {
+      "locus": "Richer, Historiae 4.75",
+      "type": "direct-speech",
+      "question": "Putasne ipsam Divinitatem non offendi, cum mortuo patre pupillus absque re patrimonio frustratur?",
+      "answer": "Ita. Et non solum id, sed et bonorum desperatio fit.",
+      "derivation": "Same Milidunum negotiation. Stripped 'Et iste:' / 'inquit' from the question and 'Et ille:' / 'inquit' from the answer. The reply 'Ita' directly answers the yes/no question (putasne); the contiguous following sentence continues answering on-topic ('and not only that...'), so it is retained. Cut before 'Quis enim inter primates...' which digresses into praise of Odo."
+    },
+    {
+      "locus": "Richer, Historiae 4.73",
+      "type": "direct-speech",
+      "question": "Numquid tu es qui Karolo portas aperuisti, et hostiliter cum illo sancta sanctorum ingressus es? Numquid tu es qui adolescentem cum tui similibus perdidisti?",
+      "answer": "Negare non possum.",
+      "derivation": "Bishop Arnulf of Orleans (Arnulfus Aurelianensis) interrogates the priest Adalgerus. Stripped the speech tag 'Arnulfus Aurelianensis episcopus adorsus: ... inquit' and the trailing imperative interjection 'Confitere, infandissime!'; also dropped the opening 'Numquidnam juditii expertem te tua conficta hodie facient?' which the confession does not address. Kept the two contiguous 'Numquid tu es qui...' accusatory questions, which the verbatim reply 'Negare non possum' (stripping 'Quo respondente:') answers as a confession. Stopped at the full stop; what follows ('ille mox prosecutus: An ideo...') is a new question."
+    }
+  ]
+}

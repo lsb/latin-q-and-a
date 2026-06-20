@@ -1,0 +1,13 @@
+{
+  "source": "text/justin/1.txt",
+  "type": "prose",
+  "pairs": [
+    {
+      "locus": "Justin 1.6",
+      "type": "direct-speech",
+      "question": "Si condicio ponatur, utrius vitae sortem legant, hesterni laboris an praesentium epularum?",
+      "answer": "Praesentium",
+      "derivation": "Cyrus, having feasted the people, asks them which life they choose. Dropped the framing speech tag 'rogat:' that introduces the question; capitalized 'Si' and kept the author's words contiguous through the alternative 'hesterni laboris an praesentium epularum'. The answer is the people's direct acclamation '\"Praesentium\"', after which the narration continues 'ut adclamavere omnes, ait hesterno similem labori...'; cut there since what follows is narration of the acclaim and Cyrus's resumed speech, not part of the one-word answer. 'praesentium epularum' in the question supplies the referent for 'Praesentium'."
+    }
+  ]
+}

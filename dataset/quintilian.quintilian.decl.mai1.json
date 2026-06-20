@@ -1,0 +1,12 @@
+{
+  "source": "text/quintilian/quintilian.decl.mai1.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Declamationes Maiores 1.8",
+      "type": "direct-speech",
+      "question": "Cur ergo gladium in cubiculo tuo habebas?",
+      "answer": "Quia habueram semper, quia usurus illo non eram.",
+      "derivation": "Quoted objection and reply in section [8]. The framing 'inquis' (narrating the imagined interlocutor's question) is dropped, and the split quotation '\"Cur ergo\", inquis, \"gladium in cubiculo tuo habebas?\"' is joined into the contiguous utterance 'Cur ergo gladium in cubiculo tuo habebas?'. The answer is the direct reply 'Quia habueram semper, quia usurus illo non eram.'; the window ends at this full stop, before the next sentence ('Ferrum ego parricidio meo tot ante annos praeparavi...'), which turns from answering to indignant elaboration. Section marker [8] stripped."
+    }
+  ]
+}

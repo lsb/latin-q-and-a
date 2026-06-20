@@ -1,0 +1,82 @@
+{
+  "source": "text/justinian/digest23.txt",
+  "pairs": [
+    {
+      "locus": "Digest 23.2.43.12 (Ulpianus 1 ad l. iul. et pap.)",
+      "type": "authorial-rhetorical",
+      "question": "Quod si non sit deprehensa, damnata autem, idcirco notetur, quia publico iudicio damnata est, at si deprehensa quidem sit, damnata autem non sit, notata erit?",
+      "answer": "Ego puto, etsi absoluta sit post deprehensionem, adhuc tamen notam illi obesse debere, quia verum est eam in adulterio deprehensam, quia factum lex, non sententiam notaverit.",
+      "derivation": "Ulpian poses the self-question 'notata erit?' about the case of a woman caught but not condemned. Question begins at 'Quod si non sit deprehensa' (verbatim contiguous with the preceding contrastive clause, supplying the antecedent so 'notata erit?' has a referent); capital Q normalized, terminal '?' kept. Answer kept from 'Ego puto' because the governing verb 'puto' takes the accusative+infinitive 'notam... obesse debere' that constitutes the answer (dropping it would leave a dangling infinitive); runs to the first full stop at 'notaverit.'."
+    },
+    {
+      "locus": "Digest 23.3.7.3 (Ulpianus 31 ad sab.)",
+      "type": "authorial-rhetorical",
+      "question": "Fiunt autem res mariti, si constante matrimonio in dotem dentur. Quid ergo, si ante matrimonium?",
+      "answer": "Si quidem sic dedit mulier, ut statim eius fiant, efficiuntur: enimvero si hac condicione dedit, ut tunc efficiantur, cum nupserit, sine dubio dicemus tunc eius fieri, cum nuptiae fuerint secutae.",
+      "derivation": "Ulpian sets up the rule for dowry given during marriage, then asks the substantive self-question 'Quid ergo, si ante matrimonium?'. Setup sentence 'Fiunt autem res mariti...' kept verbatim for self-containment (gives the contrast 'ante matrimonium' answers against); capital normalized. Answer is the contiguous reply distinguishing the two cases, to the first full stop at 'secutae.'; intervening colons are within one sentence, not stitched fragments."
+    },
+    {
+      "locus": "Digest 23.3.49 (Iulianus 5 ex minic.)",
+      "type": "direct-speech",
+      "question": "Vir ab eo, qui uxori eius dotem facere volebat, certam pecuniam eo nomine stipulatus est, deinde acceptam eam fecit: essetne ea pecunia in dotem?",
+      "answer": "Cum vero acceptam fecit, omnimodo periculum ad eum pertinebit: perinde enim est, ac si acceperit pecuniam et eandem promissori donaverit.",
+      "derivation": "Setup narrative kept verbatim so 'ea pecunia' has a referent; the framing 'quaerebatur,' dropped before the genuine interrogative 'essetne ea pecunia in dotem' (terminal '?' normalized). The reply opens with a non-answering conditional preamble ('respondit, si acceptam non fecisset... quaereremus, an...'), so per the skip-preamble rule the answer's start is advanced to the operative answering clause 'Cum vero acceptam fecit...' (capital normalized); contiguous to the full stop at 'donaverit.'."
+    },
+    {
+      "locus": "Digest 23.3.60 (Celsus 11 Dig.)",
+      "type": "direct-speech",
+      "question": "Quantae pecuniae dotem promittenti adultae mulieri curator consensum accommodare debeat?",
+      "answer": "Modus ex facultatibus et dignitate mulieris maritique statuendus est, quousque ratio patitur.",
+      "derivation": "Framing verb 'Quaero,' dropped from the indirect question, which is restored to a direct interrogative (capital normalized, terminal '?' added). The answering verb 'respondit:' dropped; the answer is the finite independent clause that follows, taken whole to its full stop."
+    },
+    {
+      "locus": "Digest 23.3.78.3 (Tryphonus 11 disp.)",
+      "type": "direct-speech",
+      "question": "Uxor viro usum fructum dotis nomine dedit, manente matrimonio eidem fundum vendidit: divortio facto quid dotis iudicio reciperare debeat?",
+      "answer": "Dixi referre, quanti fundus venisset: nam si nudae proprietatis aestimatio facta fuisset, mulier dotis iudicio pretium usus fructus reciperare debet.",
+      "derivation": "Setup of the facts kept verbatim; framing 'quaesitum est,' dropped before the interrogative 'divortio facto quid... reciperare debeat' (terminal '?' normalized). Answer kept from 'Dixi' because 'dixi' governs the accusative+infinitive 'referre, quanti...' that is the answer (dropping it leaves a dangling infinitive); runs to the first full stop at 'debet.'."
+    },
+    {
+      "locus": "Digest 23.4.17 (Proculus 11 epist.)",
+      "type": "direct-speech",
+      "question": "Cum inter virum et uxorem pactum conventum ante nuptias factum sit, ut quibus diebus dos data esset, isdem divortio facto redderetur, post quinquennium quam nuptiae factae sunt uxor viro dotem dedit: divortio facto utrum quinquennii die vir uxori dotem redderet an statuto legibus tempore?",
+      "answer": "Quod ad diem reddendae dotis attinet, pacto existimo meliorem condicionem mulieris fieri posse, deteriorem non posse.",
+      "derivation": "Epistolary salutation 'Atilicinus proculo suo salutem.' and the framing 'quaero,' dropped; the pactum setup is kept verbatim for self-containment. Answering tag 'proculus respondit:' dropped; the answer is the operative finite clause 'Quod ad diem... deteriorem non posse', stopping at the colon (normalized to a full stop) before 'itaque si cautum est...', where Proculus turns from answering to applying the rule."
+    },
+    {
+      "locus": "Digest 23.4.23 (Africanus 7 quaest.)",
+      "type": "direct-speech",
+      "question": "Pater cum filiae suae nomine dotem daret, pactus est, ut mortua filia uno pluribusve liberis superstitibus deducta parte tertia reliqua dos sibi aut post mortem suam illi aut illi filiis quos in potestate habebat reddatur: deinde haec ita fieri stipulatus est: post mortem eius mulier in matrimonio decesserat relictis filiis: an ex stipulatione duas partes illi petere possint?",
+      "answer": "Respondi posse: etenim vim eius stipulationis hanc esse, ut, si in matrimonio mortua esset, dos patri redderetur.",
+      "derivation": "Facts of the pactum and stipulatio kept verbatim for self-containment; framing 'quaesitum est,' dropped before the interrogative 'an ex stipulatione duas partes illi petere possint' (terminal '?' normalized). Answer kept from 'Respondi' because it governs 'posse'; trimmed to the first reasoning clause 'etenim vim... dos patri redderetur', stopping (comma normalized to full stop) before the 'navis ex asia' analogy that elaborates."
+    },
+    {
+      "locus": "Digest 23.4.28 (Paulus 5 quaest.)",
+      "type": "direct-speech",
+      "question": "Si pacta sit mulier vel ante nuptias vel post nuptias, ut ex fundi fructibus quem dedit in dotem creditor mulieris dimittatur, an valeat pactum?",
+      "answer": "Dico, si ante nuptias id convenerit, valere pactum eoque modo minorem dotem constitutam: post nuptias vero cum onera matrimonii fructus relevaturi sunt, iam de suo maritus paciscitur ut dimittat creditorem, et erit mera donatio.",
+      "derivation": "Framing 'Quaeris,' dropped; the conditional setup is kept verbatim so the question 'an valeat pactum' is intelligible (capital normalized). Answer kept from 'Dico' because it governs the accusative+infinitive 'valere pactum'; taken to the full stop at 'donatio.', which contrasts the before- and after-marriage cases the question raises."
+    },
+    {
+      "locus": "Digest 23.4.29pr. (Scaevola 2 resp.)",
+      "type": "direct-speech",
+      "question": "Cum maritus, qui aestimata praedia in dotem acceperat, manente matrimonio pactus est circumscribendae mulieris gratia, ut praedia inaestimata essent, ut sine periculo suo ea deteriora faceret: an secundum priores dotales tabulas praedia aestimata remanerent et periculum eorum ad maritum pertineret?",
+      "answer": "Respondi non idcirco pactum de quo quaereretur impediri, quod in matrimonio factum esset, si deteriore loco dos non esset: nihilo minus eo pacto admisso, si deteriora praedia faceret, eo etiam nomine dotis eum actione teneri.",
+      "derivation": "Facts of the husband's pactum kept verbatim; framing 'quaesitum est,' dropped before the interrogative 'an secundum priores dotales tabulas...' (terminal '?' normalized). Answer kept from 'Respondi' because it governs the accusative+infinitives 'impediri'/'teneri'; taken whole to the full stop at 'teneri.'."
+    },
+    {
+      "locus": "Digest 23.4.29.1 (Scaevola 2 resp.)",
+      "type": "direct-speech",
+      "question": "Titius mulieris nomine dotem dedit et stipulatus est in casum mortis et divortii: divortio secuto non repetita dote titius decessit: mulier ex voluntate heredis eius redintegravit matrimonium: an ex stipulatu dotem petere possit?",
+      "answer": "Respondi heredem titii, si consensisset, ut ea quantitas, quam ex stipulatu consequi potuerat, dotis reconciliato matrimonio fieret, posse pacti exceptione summoveri.",
+      "derivation": "Facts kept verbatim for self-containment; framing 'quaesitum est,' dropped before the interrogative 'an ex stipulatu dotem petere possit' (terminal '?' normalized). Answer kept from 'Respondi' because it governs the accusative+infinitive 'posse... summoveri'; taken whole to the full stop."
+    },
+    {
+      "locus": "Digest 23.4.29.2 (Scaevola 2 resp.)",
+      "type": "direct-speech",
+      "question": "Mulier de dote quam dedit pacta est, ut, si in matrimonio decessisset, fratri eius redderetur isque in eum casum stipulatus est: mulier decedens quasdam res dotales marito legavit et aliis, quosdam ex servis dotalibus manumisit: an maritus earum nomine, quas legavit mulier, et servorum, quos manumisit, fratri tenetur?",
+      "answer": "Respondi nihil proponi, cur non teneretur, cum et iam heredes defunctae tam legatariis quam libertatibus obnoxii sint.",
+      "derivation": "Facts kept verbatim for self-containment; framing 'quaesitum est,' dropped before the interrogative 'an maritus earum nomine... fratri tenetur' (terminal '?' normalized). Answer kept from 'Respondi' because it governs 'nihil proponi'; taken whole to the full stop."
+    }
+  ]
+}

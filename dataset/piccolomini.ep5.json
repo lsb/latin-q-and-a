@@ -1,0 +1,12 @@
+{
+  "source": "text/piccolomini.ep5.txt",
+  "pairs": [
+    {
+      "locus": "Piccolomini, Epistula ad Sigismundum (Persius, Prol. 8-11 quoted)",
+      "type": "authorial-rhetorical",
+      "question": "Quis expedivit psitaco suum chere picasque docuit nostra verba conari?",
+      "answer": "Magister artis ingeniique largitor venter.",
+      "derivation": "Quoted Persius. Question is the interrogative 'quis expedivit psitaco suum chere picasque docuit nostra verba conari'; first word capitalized and '?' supplied. Dropped the intervening authorial framing 'et addit causam' which narrates the answering, not part of the utterance. Answer is the verbatim reply naming the cause ('venter'); terminal punctuation kept. Other '?'-bearing lines in the letter (e.g. the tempters' 'cur non compateris...', 'quid torpes?', 'quid stas... princeps?', 'quid melius est quam imperare?', and rhetorical 'quid Fabios... referam?', 'videsne...?') are rhetorical or unanswered and were dropped; the Roboam exchange ('minue paululum... serviemus tibi' / 'ite ad tertium diem t revertimini') is scaffolding-corrupted and not a clean interrogative, so dropped."
+    }
+  ]
+}

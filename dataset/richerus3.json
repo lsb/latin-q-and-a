@@ -1,0 +1,26 @@
+{
+  "source": "text/richerus3.txt",
+  "pairs": [
+    {
+      "locus": "Richer, Historiarum III.62-63",
+      "type": "direct-speech",
+      "question": "Cur unius rei causam, tot dictionibus nominasti? Cum ex una fortassis nominari potuit, et philosophorum sit brevitati studere?",
+      "answer": "Non omnes causae, uno valent nomine proferri.",
+      "derivation": "Otric directly asks Gerbert (interrogative Cur...?) why he named one thing's cause with several words. Dropped the framing 'Et Otricus:' and 'inquit'. Answer is Gerbert's operative thesis sentence (ch. 63), dropping framing 'Gerbertus quoque:' and 'inquit'; cut at the first full stop after 'proferri', before the elaborating Plato example ('Etenim cum a Platone...')."
+    },
+    {
+      "locus": "Richer, Historiarum III.63-64",
+      "type": "authorial-rhetorical",
+      "question": "Quae enim tibi umbrae causa videtur? An haec una dictione indicari valet?",
+      "answer": "Sed dico umbrae causam esse corpus luci objectum.",
+      "derivation": "At the end of ch. 63 Gerbert poses the interrogative about the cause of a shadow, then answers it himself at the start of ch. 64 (the section heading 'Quae sit causa umbrae' is scaffolding and is dropped). Answer cut at the first full stop after 'objectum', before the elaboration 'Atque haec brevius nullo modo dici valet...'. Normalized 'an' to 'An' after the question mark."
+    },
+    {
+      "locus": "Richer, Historiarum III.65",
+      "type": "direct-speech",
+      "question": "An mortale rationali supponis? Quis nesciat quod rationale Deum et angelum hominemque concludat, mortale vero utpote majus et continentius omnia mortalia et per hoc infinita colligat?",
+      "answer": "Si secundum Porphirium atque Boetium, substantiae divisionem, usque ad individua idonea partitione perpenderes, rationale continentius quam mortale sine dubio haberes, idque congruis rationibus enucleari, in promptu est.",
+      "derivation": "Otric challenges Gerbert with a genuine interrogative (An... supponis? Quis nesciat...?), claiming mortale is broader than rationale. Dropped framing 'Tunc vehementius Otricus admirans ait:'. Gerbert's reply (dropping 'Ad haec Gerbertus:' and 'inquit') answers directly that rationale is in fact more comprehensive; cut at the first full stop after 'in promptu est', before the subordinate-division proof that follows ('Etenim cum constet substantiam...')."
+    }
+  ]
+}

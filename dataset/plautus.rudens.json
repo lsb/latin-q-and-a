@@ -1,0 +1,40 @@
+{
+  "source": "text/plautus/rudens.txt",
+  "pairs": [
+    {
+      "locus": "Rudens 142-143",
+      "type": "direct-speech",
+      "question": "Fortasse tu huc vocatus es ad prandium, ille qui vocavit nullus venit?",
+      "answer": "Admodum.",
+      "derivation": "Daemones' full yes/no question kept verbatim; Plesidippus answers with the single affirming word Admodum (\"just so\"). No framing to cut; only terminal punctuation normalized."
+    },
+    {
+      "locus": "Rudens 1305",
+      "type": "direct-speech",
+      "question": "Num medicus, quaeso, es?",
+      "answer": "Immo edepol una littera plus sum quam medicus.",
+      "derivation": "Gripus' question (num ... es?) and Labrax's direct reply, a punning \"no\" (medicus plus one letter = mendicus). Speech labels G./LABR. dropped; quaeso is part of the utterance, not a speech tag, so kept. Answer ends at the full stop before the next line's wordplay."
+    },
+    {
+      "locus": "Rudens 1309",
+      "type": "direct-speech",
+      "question": "Quid perdidisti?",
+      "answer": "Vidulum cum auro atque argento multo.",
+      "derivation": "Gripus asks what Labrax lost; Labrax answers directly. Speaker labels GRIP./LABR. stripped. The following Gripus line (Ecquid meministi...) is a fresh question, not part of this answer."
+    },
+    {
+      "locus": "Rudens 1156-1157",
+      "type": "direct-speech",
+      "question": "In eo ensiculo litterarum quid est?",
+      "answer": "Mei nomen patris.",
+      "derivation": "Daemones asks what letters are on the little sword; Palaestra answers. The imperative speech-framing 'Dice dum,' is dropped as a speech tag; the interrogative sentence is kept verbatim. First word capitalized after dropping the preceding tag."
+    },
+    {
+      "locus": "Rudens 1160",
+      "type": "direct-speech",
+      "question": "In ensiculo quid nomen est paternum?",
+      "answer": "Daemones.",
+      "derivation": "Daemones asks the father's name on the sword; Palaestra answers with the name. The imperative framing 'dic,' is dropped as a speech tag; the interrogative is kept verbatim, first word capitalized."
+    }
+  ]
+}

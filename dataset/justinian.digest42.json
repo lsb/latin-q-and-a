@@ -1,0 +1,19 @@
+{
+  "source": "text/justinian/digest42.txt",
+  "pairs": [
+    {
+      "locus": "Digesta 42.1.41pr",
+      "type": "direct-speech",
+      "question": "Si te donaturum mihi delegavero creditori meo, an in solidum conveniendus sis?",
+      "answer": "Nulla creditor exceptione summoveretur, licet is, qui ei delegatus est, poterit uti adversus eum, cuius nomine promisit: cui similis est maritus, maxime si constante matrimonio petat.",
+      "derivation": "Nesennius Apollinaris poses a question to Paulus answered by 'respondit'. Dropped the asker's name-tag 'Nesennius apollinaris:' (framing) and the 'respondit:' tag. Kept the conditional setup 'Si te donaturum mihi delegavero creditori meo' so the interrogative 'an in solidum conveniendus sis?' has its referent. Cut the two further follow-up questions ('et si in solidum conveniendus, an diversum putes...' and 'et quid de eo...') so the question is the single first interrogative. Answer ends at the first full stop after 'petat'; what follows is 'et sicut heres donatoris in solidum condemnatur...', further elaboration, omitted. Internal colons are not full stops, so the answer runs to 'petat.'"
+    },
+    {
+      "locus": "Digesta 42.1.15.10",
+      "type": "authorial-rhetorical",
+      "question": "Utrum ipsi iudices convenient nomen exigentque id quod debetur et in causam iudicati convertent, an vero vendent nomen, ut pignora corporalia solent?",
+      "answer": "Et necesse est, ut quod eis facilius videatur ad rem exsequendam, hoc faciant.",
+      "derivation": "Ulpianus poses a disjunctive question and answers it himself. Dropped the opening framing 'Item quid dicemus?' ('what shall we say?'). The question is the verbatim 'utrum ... an vero vendent nomen, ut pignora corporalia solent?'; the answer 'et necesse est, ut quod eis facilius videatur ad rem exsequendam, hoc faciant' resolves the disjunction (do whichever is easier). This fragment is the whole text; capitalization normalized on the first words 'Utrum' and 'Et'."
+    }
+  ]
+}

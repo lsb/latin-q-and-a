@@ -1,0 +1,12 @@
+{
+  "source": "text/montanus.txt",
+  "pairs": [
+    {
+      "locus": "Montanus, De Wilhelmo Thellio Elegia 96-99",
+      "type": "direct-speech",
+      "question": "experiar quid et haec sibi tela secunda velint?",
+      "answer": "ipse peremissem si natum exitio fuerant illa parata tuo.",
+      "derivation": "The praeses asks the purpose of the second arrow (embedded interrogative 'quid... velint'). Dropped the speech tag 'dixit' and the medial parenthetical narration '(viderat a tergo tela reposta)' so the utterance is contiguous: 'experiar' + 'quid et haec sibi tela secunda' + 'velint'; normalized terminal punctuation to '?'. The answer drops the medial speech tag 'Thellius inquit', joining 'ipse peremissem si natum' to 'exitio fuerant illa parata tuo' (Tell's full reply). What follows the answer is narration 'dixerat: et constat non haec impune locutum...'"
+    }
+  ]
+}

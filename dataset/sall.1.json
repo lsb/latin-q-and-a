@@ -1,0 +1,12 @@
+{
+  "source": "text/sall.1.txt",
+  "pairs": [
+    {
+      "locus": "Sallust, Bellum Catilinae 51 (Caesar's speech in the senate)",
+      "type": "authorial-rhetorical",
+      "question": "Placet igitur eos dimitti et augeri exercitum Catilinae?",
+      "answer": "Minume. Sed ita censeo: publicandas eorum pecunias, ipsos in vinculis habendos per municipia, quae maxume opibus valent.",
+      "derivation": "Within Caesar's oration, he poses a genuine interrogative (Placet igitur eos dimitti...?) and answers it himself: the direct denial 'Minume.' followed by his operative counter-proposal. Answer-window ends at 'valent' where the relative clause closes; the sentence continues with further provisions ('neu quis de iis postea ad senatum referat...') which elaborate the decree rather than answer the question, so they are cut. Section marker [51] and surrounding narration stripped; no editorial brackets present in the span."
+    }
+  ]
+}

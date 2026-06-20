@@ -1,0 +1,19 @@
+{
+  "source": "text/ovid/ovid.amor1.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Amores 1.2.9-10",
+      "type": "authorial-rhetorical",
+      "question": "Cedimus, an subitum luctando accendimus ignem?",
+      "answer": "Cedamus!",
+      "derivation": "The poet poses a deliberative either/or question to himself ('Do I yield, or by struggling kindle a sudden fire?') and answers it himself with the hortatory 'cedamus!'. The answer ends at the exclamation mark; what follows ('leve fit, quod bene fertur, onus') is elaboration justifying the choice, so it is cut. First word capitalization normalized."
+    },
+    {
+      "locus": "Ovid, Amores 1.10.11-12",
+      "type": "authorial-rhetorical",
+      "question": "Cur sim mutatus?",
+      "answer": "Quia munera poscis. Haec te non patitur causa placere mihi.",
+      "derivation": "The poet quotes the addressee's implied query and answers it. The framing verb 'quaeris' ('you ask') is dropped as narration of the asking. Question is the interrogative 'cur sim mutatus?'. The answer 'quia munera poscis' directly answers, and the following sentence 'haec te non patitur causa placere mihi' completes the operative reply (the cause that follows from it); the next couplet ('donec eras simplex...') turns to retrospective elaboration and is cut. First words capitalized."
+    }
+  ]
+}

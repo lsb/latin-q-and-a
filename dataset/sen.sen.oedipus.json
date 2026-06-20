@@ -1,0 +1,82 @@
+{
+  "source": "text/sen/sen.oedipus.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Oedipus 307-308",
+      "type": "direct-speech",
+      "question": "Quid flamma? largas iamne comprendit dapes?",
+      "answer": "Subito refulsit lumine et subito occidit.",
+      "derivation": "Tiresias asks Manto about the sacrificial flame; she answers directly that it flared up suddenly and suddenly went out. Speaker labels Ti./Ma. stripped. Answer is a single complete sentence (to the first full stop)."
+    },
+    {
+      "locus": "Seneca, Oedipus 309-320",
+      "type": "direct-speech",
+      "question": "Vtrumne clarus ignis et nitidus stetit rectusque purum uerticem caelo tulit et summam in auras fusus explicuit comam? an latera circa serpit incertus uiae et fluctuante turbidus fumo labat?",
+      "answer": "Non una facies mobilis flammae fuit: imbrifera qualis implicat uarios sibi Iris colores, parte quae magna poli curuata picto nuntiat nimbos sinu (quis desit illi quiue sit dubites color), caerulea fuluis mixta oberrauit notis, sanguinea rursus; ultima in tenebras abit.",
+      "derivation": "Tiresias' either/or interrogative on the flame's appearance. Manto answers that it had no single appearance, then describes the shifting colours. Answer cut at the first full stop ('ultima in tenebras abit.'); the following 'sed ecce pugnax ignis...' begins a new, separate development (the splitting fire), so it is excluded."
+    },
+    {
+      "locus": "Seneca, Oedipus 336-339",
+      "type": "direct-speech",
+      "question": "Placidone uultu sacra et admotas manus patiuntur?",
+      "answer": "Altum taurus attollens caput primos ad ortus positus expauit diem trepidusque uultum obliquat et radios fugit.",
+      "derivation": "Tiresias asks whether the victims endure the rites with calm aspect; Manto answers that the bull, raising its head, dreaded the daylight and turned its face away. Question span begins at 'placidone' (verse 336); preceding 'Huc propere admoue et sparge salsa colla taurorum mola' are imperatives, not part of the question. Answer is a single sentence to the full stop."
+    },
+    {
+      "locus": "Seneca, Oedipus 340-344",
+      "type": "direct-speech",
+      "question": "Vnone terram uulnere afflicti petunt?",
+      "answer": "Iuuenca ferro semet opposito induit et uulnere uno cecidit, at taurus duos perpessus ictus huc et huc dubius ruit animamque fessus uix reluctantem exprimit.",
+      "derivation": "Tiresias asks whether the victims fall by a single blow; Manto answers that the heifer fell by one wound but the bull took two. Answer is a single complete sentence to the full stop."
+    },
+    {
+      "locus": "Seneca, Oedipus 345-350",
+      "type": "direct-speech",
+      "question": "Vtrum citatus uulnere angusto micat an lentus altas irrigat plagas cruor?",
+      "answer": "Huius per ipsam qua patet pectus uiam effusus amnis, huius exiguo graues maculantur ictus imbre; sed uersus retro per ora multus sanguis atque oculos redit.",
+      "derivation": "Tiresias' either/or question about how the blood flows; Manto answers contrasting the two victims (gushing river vs. scant drops), through to the first full stop ('oculos redit.'). The semicolon before 'sed uersus retro' is not a sentence end, so the clause is retained as part of the answering sentence."
+    },
+    {
+      "locus": "Seneca, Oedipus 778-779",
+      "type": "direct-speech",
+      "question": "Frequensne turba regium cinxit latus?",
+      "answer": "Plures fefellit error ancipitis uiae, paucos fidelis curribus iunxit labor.",
+      "derivation": "Oedipus asks Iocasta whether a large throng surrounded Laius; she answers that most strayed on the forking road and only a few stayed loyally with the chariots. Speaker labels Oe./Ioc. stripped; single-sentence answer."
+    },
+    {
+      "locus": "Seneca, Oedipus 780-781",
+      "type": "direct-speech",
+      "question": "Aliquisne cecidit regio fato comes?",
+      "answer": "Vnum fides uirtusque consortem addidit.",
+      "derivation": "Oedipus asks whether any companion shared the king's fate; Iocasta answers that loyalty and valour joined one man to him. Single-sentence answer."
+    },
+    {
+      "locus": "Seneca, Oedipus 803-804",
+      "type": "direct-speech",
+      "question": "Quod subditiui praemium gnati petit?",
+      "answer": "Regum superbam liberi astringunt fidem.",
+      "derivation": "Oedipus asks what reward the old man seeks for a suppositious child; the Corinthian answers that children bind the proud loyalty of kings. Single-sentence answer."
+    },
+    {
+      "locus": "Seneca, Oedipus 807-808",
+      "type": "direct-speech",
+      "question": "Tu me parenti tradis; at quis me tibi?",
+      "answer": "Pastor niuoso sub Cithaeronis iugo.",
+      "derivation": "Setup 'Tu me parenti tradis' retained verbatim so that 'me tibi' has its referent; the interrogative is 'at quis me tibi?' ('but who gave me to you?'). The Corinthian answers: a shepherd beneath Cithaeron's snowy ridge."
+    },
+    {
+      "locus": "Seneca, Oedipus 809-810",
+      "type": "direct-speech",
+      "question": "In illa temet nemora quis casus tulit?",
+      "answer": "Illo sequebar monte cornigeros greges.",
+      "derivation": "Oedipus asks what chance brought the old man into those groves; he answers that he was following horned flocks on that mountain. Single-sentence answer."
+    },
+    {
+      "locus": "Seneca, Oedipus 819-821",
+      "type": "direct-speech",
+      "question": "Potesne facie noscere ac uultu uirum?",
+      "answer": "Fortasse noscam: saepe iam spatio obrutam leuis exoletam memoriam reuocat nota.",
+      "derivation": "Oedipus asks whether the old man can recognize the man by face; he answers the yes/no question ('perhaps I shall recognize him') and explains that a slight token often revives a memory buried by time. Single-sentence answer to the full stop."
+    }
+  ]
+}

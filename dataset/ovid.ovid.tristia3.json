@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.tristia3.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Tristia 3.4.21-24",
+      "type": "authorial-rhetorical",
+      "question": "Quid fuit, ut tutas agitaret Daedalus alas, Icarus inmensas nomine signet aquas?",
+      "answer": "Nempe quod hic alte, demissius ille uolabat: nam pennas ambo non habuere suas.",
+      "derivation": "Author poses a why-question (Quid fuit, ut... = 'what was the cause that Daedalus flew safely but Icarus marks the sea with his name?') and answers it himself with Nempe quod ('surely because the one flew high, the other lower; both lacked their own wings'). Question spans the full couplet 234-235; answer is the full responding couplet 236-237, contiguous, ending at the full stop before Crede mihi (238). Inline verse-number scaffolding and the title/footer were stripped; nothing omitted within the span."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/lucretius/lucretius4.txt",
+  "pairs": [
+    {
+      "locus": "Lucretius, De Rerum Natura 4.491-494",
+      "type": "authorial-rhetorical",
+      "question": "An poterunt oculos aures reprehendere, an aures tactus? an hunc porro tactum sapor arguet oris, an confutabunt nares oculive revincent?",
+      "answer": "Non, ut opinor, ita est.",
+      "derivation": "Authorial rhetorical question: Lucretius asks whether the senses can refute one another (an... an... an..., a real interrogative). He answers himself directly with 'non, ut opinor, ita est.' ('No, in my opinion, it is not so'), which is the contiguous reply up to the first full stop. The window stops there: what follows ('nam seorsum cuique potestas divisast...') is the supporting explanation/elaboration, not the answer itself, so it is cut. The question span begins at the interrogative 'An' (4.491); the preceding line 'quid maiore fide porro quam sensus haberi debet?' is a separate rhetorical question and is excluded. No scaffolding, brackets, or speaker labels present in this span; capitalization of the answer's first word normalized."
+    }
+  ]
+}

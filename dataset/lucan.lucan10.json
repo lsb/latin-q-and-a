@@ -1,0 +1,12 @@
+{
+  "source": "text/lucan/lucan10.txt",
+  "pairs": [
+    {
+      "locus": "Lucan, Bellum Civile 10.237-239",
+      "type": "authorial-rhetorical",
+      "question": "Quis causas reddere possit?",
+      "answer": "Sic iussit natura parens discurrere Nilum, sic opus est mundo.",
+      "derivation": "Within Acoreus' discourse on the Nile, the speaker poses a rhetorical question (who could give the causes of the flooding?) and immediately answers it himself: nature the parent ordered the Nile to flow thus, and thus the world requires it. Answer window ends at the full stop after 'mundo'; what follows ('Zephyros quoque uana uetustas...') turns to refuting the wind-theory and no longer answers this question."
+    }
+  ]
+}

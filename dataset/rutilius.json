@@ -1,0 +1,12 @@
+{
+  "source": "text/rutilius.txt",
+  "pairs": [
+    {
+      "locus": "Rutilius, De Reditu Suo 1.525-526",
+      "type": "authorial-rhetorical",
+      "question": "Num, rogo, deterior Circaeis secta venenis?",
+      "answer": "Tunc mutabuntur corpora, nunc animi.",
+      "derivation": "Authorial rhetorical question on the monastic 'secta' (the exiled monk described in the preceding lines 519-524). The interrogative 'Num... deterior Circaeis secta venenis?' is answered by the author himself in the very next pentameter, which substantiates 'yes, worse': Circe's poisons only changed bodies, this changes minds. Question quoted verbatim including the parenthetical 'rogo', which is woven into the interrogative and cannot be removed without ellipting interior text. Answer is the single contiguous pentameter; nothing cut from it. The following line begins a new topic ('Inde Triturritam petimus'), so the answer stops at the full stop after 'animi'. Stripped scaffolding: the inline verse number 525."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/sha/helio.txt",
+  "pairs": [
+    {
+      "locus": "Historia Augusta, Heliogabalus 31.2",
+      "type": "direct-speech",
+      "question": "Non times pauper fieri?",
+      "answer": "Quid melius quam ut ipse mihi heres sim et uxori meae?",
+      "derivation": "Dropped the asking-narration framing 'Huic eidem privato cum quidam diceret' before the question and the speech tag 'dixisse dicitur :' before the answer. 'Non times pauper fieri?' is a real interrogative and its retort genuinely responds by dismissing the fear of poverty. Both utterances are quoted verbatim, contiguous, and complete (each ends at its own punctuation). Nothing follows the answer within the exchange; 31.3 ('Habuerat praeterea facultates...') begins new narration."
+    }
+  ]
+}

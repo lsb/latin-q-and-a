@@ -1,0 +1,12 @@
+{
+  "source": "text/sidonius6.txt",
+  "pairs": [
+    {
+      "locus": "Sidonius, Epistulae 6.12.1",
+      "type": "direct-speech",
+      "question": "Aliquis aliquem, ego illum praecipue puto suo vivere bono, qui vivit alieno quique fidelium calamitates indigentiamque miseratus facit in terris opera caelorum. Quorsum istaec?",
+      "answer": "Te ista sententia quam maxume, papa beatissime, petit, cui non sufficit illis tantum necessitatibus opem ferre, quas noveris, quique usque in extimos terminos Galliarum caritatis indage porrecta prius soles indigentum respicere causas quam inspicere personas.",
+      "derivation": "Sidonius states a sententia, then the interlocutor asks 'quorsum istaec?' ('to what end this?'). Per Rule 2 the preceding sententia is kept as setup so 'istaec' has a referent; the speech tag 'inquis' is dropped as framing. The answer begins at the operative answering clause 'te ista sententia... petit' (this maxim is aimed at you), running to the first full stop at '...inspicere personas.'; the following sentences ('nullius obest tenuitati...') begin a new elaboration and are cut."
+    }
+  ]
+}

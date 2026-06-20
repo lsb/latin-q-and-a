@@ -1,0 +1,47 @@
+{
+  "source": "text/petronius1.txt",
+  "pairs": [
+    {
+      "locus": "Petronius, Satyricon 7",
+      "type": "direct-speech",
+      "question": "Rogo, mater, numquid scis ubi ego habitem?",
+      "answer": "Quidni sciam?",
+      "derivation": "Encolpius asks an old vegetable-seller for directions; she replies. Dropped the asking-narration frames 'inquam' (in the question) and 'inquit' (after the answer). Question normalized only in terminal punctuation; the speaker's own 'Rogo, mater' address is kept as part of the utterance. Answer is the woman's complete retort 'Quidni sciam?'; what follows ('consurrexitque et coepit me praecedere') is narration, not part of the utterance."
+    },
+    {
+      "locus": "Petronius, Satyricon 24",
+      "type": "direct-speech",
+      "question": "Per fidem, vestram, Ascyltos in hoc triclinio solus ferias agit?",
+      "answer": "Ita, et Ascylto embasicoetas detur.",
+      "derivation": "Encolpius asks whether Ascyltos alone is getting off easy; Quartilla answers and orders the cinaedus sent to him too. Dropped the framing 'inquam' from the question and 'inquit Quartilla' from the answer. Answer stops at the full stop; what follows ('Ab hac voce equum cinaedus mutavit...') is narration."
+    },
+    {
+      "locus": "Petronius, Satyricon 50",
+      "type": "authorial-rhetorical",
+      "question": "Quare solus Corinthea vera possideam?",
+      "answer": "Quia scilicet aerarius, a quo emo, Corinthus vocatur.",
+      "derivation": "Trimalchio poses the audience's question and answers it himself. Dropped the 'fortasse requiris'-type frame 'Et forsitan, inquit, quaeris' (which narrates the asking), leaving the operative indirect question, normalized to direct interrogative form (only capitalization and terminal punctuation changed, no words altered). Answer ends at the colon's clause boundary; what follows ('Quid est autem Corintheum...') is further elaboration, cut."
+    },
+    {
+      "locus": "Petronius, Satyricon 57",
+      "type": "authorial-rhetorical",
+      "question": "Quare ergo servivisti?",
+      "answer": "Quia ipse me dedi in servitutem et malui civis Romanus esse quam tributarius.",
+      "derivation": "Hermeros, mid-tirade, asks himself why he was a slave and answers it. Self-contained question and full-sentence answer quoted verbatim. The preceding 'Eques Romanus es? Et ego regis filius.' is a statement-and-retort (not answered), so it is excluded. Answer ends at the full stop; what follows ('Et nunc spero me sic vivere...') is digression."
+    },
+    {
+      "locus": "Petronius, Satyricon 67",
+      "type": "direct-speech",
+      "question": "Fortunata quare non recumbit?",
+      "answer": "Quomodo nosti illam, nisi argentum composuerit, nisi reliquias pueris diviserit, aquam in os suum non coniciet.",
+      "derivation": "Habinnas asks Trimalchio why Fortunata is not reclining; Trimalchio explains she will not touch a drop until the silver is put away and leftovers shared out. Dropped the asking-frame 'Sed narra mihi, Gai, rogo' before the question and the speech-tag 'inquit ... Trimalchio' inside the answer. Answer ends at the full stop; what follows ('Atqui, respondit Habinnas...') is the next turn."
+    },
+    {
+      "locus": "Petronius, Satyricon 76",
+      "type": "authorial-rhetorical",
+      "question": "Putatis me defecisse?",
+      "answer": "Non mehercules mi haec iactura gusti fuit, tanquam nihil facti.",
+      "derivation": "After saying Neptune swallowed thirty million in one day, Trimalchio asks whether the company thinks he gave up and answers that the loss meant nothing to him. Self-contained question and answer, both verbatim. Answer ends at the full stop; what follows ('Alteras feci maiores...') resumes the narrative."
+    }
+  ]
+}

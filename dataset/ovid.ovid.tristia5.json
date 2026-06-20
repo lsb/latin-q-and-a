@@ -1,0 +1,26 @@
+{
+  "source": "text/ovid/ovid.tristia5.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Tristia 5.1.39-40",
+      "type": "authorial-rhetorical",
+      "question": "Quis tibi, Naso, modus lacrimosi carminis?",
+      "answer": "Idem, fortunae qui modus huius erit.",
+      "derivation": "Quoted question to Ovid; the framing speech-tag 'inquis' (which follows the question on line 39) is dropped as narration of the asking. The answer is Ovid's own reply in the pentameter, complete in one sentence; first word capitalized."
+    },
+    {
+      "locus": "Ovid, Tristia 5.1.83-84",
+      "type": "authorial-rhetorical",
+      "question": "Cur mittam, isto?",
+      "answer": "Vobiscum cupio quolibet esse modo.",
+      "derivation": "From line 83 'Cur scribam, docui. Cur mittam, quaeritis, isto?' the operative interrogative is 'Cur mittam... isto?'; the framing verb 'quaeritis' (the author narrating that the addressees ask) is dropped, and the prior independent clause 'Cur scribam, docui' is left out as a separate already-answered point. Answer is the pentameter (line 84), first word capitalized."
+    },
+    {
+      "locus": "Ovid, Tristia 5.5.337-338",
+      "type": "authorial-rhetorical",
+      "question": "Cum Pelia genitae tot sint, cur nobilis una est?",
+      "answer": "Nempe fuit misero nupta quod una uiro.",
+      "derivation": "Author poses a question (line 337) and answers it himself; 'Nempe' introduces the direct reply in the pentameter (line 338). Both quoted whole and verbatim."
+    }
+  ]
+}

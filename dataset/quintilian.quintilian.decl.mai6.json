@@ -1,0 +1,19 @@
+{
+  "source": "text/quintilian/quintilian.decl.mai6.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Declamatio Maior 6.14",
+      "type": "authorial-rhetorical",
+      "question": "Quid est ergo non deserere?",
+      "answer": "Opem ferre, non deesse.",
+      "derivation": "Authorial rhetorical question and its immediate self-answer in the running prose. Question ends at the '?'; the answer is the next sentence, ending at the full stop after 'deesse'. Cut what follows ('omnia haec enim eo spectant...'), which elaborates rather than answers. First words capitalized as sentence starts; otherwise verbatim."
+    },
+    {
+      "locus": "Quintilian, Declamatio Maior 6.11",
+      "type": "authorial-rhetorical",
+      "question": "Quae tamen lex est?",
+      "answer": "Qui parentes in calamitate deseruerit, insepultus abiciatur.",
+      "derivation": "Author poses the rhetorical question 'What then is the law?' and answers by quoting the statute verbatim in the running text. Answer ends at the full stop after 'abiciatur'; what follows ('omnis nobis in hac... contentio est') begins the legal argument and does not answer the question. 'Qui' capitalized as standalone answer start; otherwise verbatim. The '[12]' section marker appears only later and is not included."
+    }
+  ]
+}

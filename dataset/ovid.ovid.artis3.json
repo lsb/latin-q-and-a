@@ -1,0 +1,19 @@
+{
+  "source": "text/ovid/ovid.artis3.txt",
+  "pairs": [
+    {
+      "locus": "Ars Amatoria 3.41-42",
+      "type": "authorial-rhetorical",
+      "question": "Quid vos perdiderit, dicam?",
+      "answer": "Nescistis amare: defuit ars vobis.",
+      "derivation": "The author poses the self-question 'Shall I tell what destroyed you?' (the speech-introducing dicam? is part of the rhetorical question) and answers it himself: you did not know how to love; you lacked the art. The answer stops before the general maxim 'arte perennat amor' that closes the couplet, which turns from answering to a sententia. First word capitalized, terminal full stop supplied at the cut."
+    },
+    {
+      "locus": "Ars Amatoria 3.655-656",
+      "type": "authorial-rhetorical",
+      "question": "Quid sapiens faciet, stultus cum munere gaudet?",
+      "answer": "Ipse quoque accepto munere mutus erit.",
+      "derivation": "The author asks what the wise (incorruptible) guardian will do, given that even the fool delights in a gift, and answers in the next line: he too, once a gift is accepted, will be silent. Clean one-sentence question and one-sentence answer; the answer ends at the line-final full stop, after which 'Sed semel est custos...' begins a new thought."
+    }
+  ]
+}

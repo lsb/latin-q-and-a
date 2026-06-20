@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.tristia2.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Tristia 2.31-36",
+      "type": "authorial-rhetorical",
+      "question": "Sed nisi peccassem, quid tu concedere posses?",
+      "answer": "Materiam ueniae sors tibi nostra dedit.",
+      "derivation": "Ovid poses the rhetorical question to Caesar (line 35) and answers it himself in the immediately following pentameter (line 36): 'my lot gave you the matter for pardon.' The question is a genuine interrogative (quid... posses?) and the next line directly answers what Caesar can pardon. Boundaries: question is the single hexameter ending in '?'; answer is the single contiguous pentameter that follows, which is its own complete sentence. The preceding line (34, 'non adeo nostro fugit ab ore pudor') belongs to a different sentence and is not needed for intelligibility, so it is not included; what follows (line 37, 'Si, quotiens peccant homines...') begins a new argument and is cut."
+    }
+  ]
+}

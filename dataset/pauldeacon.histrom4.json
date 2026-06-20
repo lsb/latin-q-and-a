@@ -1,0 +1,12 @@
+{
+  "source": "text/pauldeacon/histrom4.txt",
+  "pairs": [
+    {
+      "locus": "Paulus Diaconus, Historia Romana 4.17",
+      "type": "direct-speech",
+      "question": "Qua de causa Numantia aut prius inuicta aut post euersa fuisset?",
+      "answer": "Concordia uictoriam, discordia exitium praebuit.",
+      "derivation": "Cut the speech-tag framing 'Tunc Scipio Tyresum quendam Celticum principem consuluit,' which narrates Scipio's act of asking; the embedded indirect-question clause 'qua de causa Numantia aut prius inuicta aut post euersa fuisset' is the actual interrogative (qua de causa), normalized with initial capital and terminal '?'. The answer is the verbatim direct-speech reply introduced by 'Tyresus respondit:' (tag dropped); quotation marks normalized; it genuinely answers the cause. What follows the answer is unrelated narration ('Hac tempestate apud Iudaeos...')."
+    }
+  ]
+}

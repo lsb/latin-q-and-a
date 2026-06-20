@@ -1,0 +1,26 @@
+{
+  "source": "text/pliny.ep2.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Epistulae 2.6.3",
+      "type": "direct-speech",
+      "question": "Tu ergo quam consuetudinem sequeris?",
+      "answer": "Eadem omnibus pono; ad cenam enim, non ad notam invito cunctisque rebus exaequo, quos mensa et toro aequavi.",
+      "derivation": "Direct-speech exchange at a dinner. Dropped the speech tag 'inquit' from inside the question. The host's neighbour asks Pliny what custom he follows after Pliny disapproved of the graded wine; Pliny answers. Answer runs to the first full stop (the only sentence-terminator in the reply, semicolons being interior); it is the whole direct reply before the next speaker's 'Etiamne libertos?'."
+    },
+    {
+      "locus": "Pliny, Epistulae 2.6.4",
+      "type": "direct-speech",
+      "question": "Etiamne libertos?",
+      "answer": "Etiam; convictores enim tunc, non libertos puto.",
+      "derivation": "Direct-speech follow-up: the interlocutor asks whether Pliny equalises even his freedmen, Pliny answers 'Etiam...'. Answer is the complete reply to its single full stop, before 'Et ille: Magno tibi constat.'"
+    },
+    {
+      "locus": "Pliny, Epistulae 2.6.4",
+      "type": "direct-speech",
+      "question": "Qui fieri potest?",
+      "answer": "Quia scilicet liberti mei non idem quod ego bibunt, sed idem ego quod liberti.",
+      "derivation": "Direct-speech: after the interlocutor's statement 'Magno tibi constat' and Pliny's retort 'Minime' (a statement/retort, not a Q&A, so excluded), the interlocutor asks how it can be so; Pliny explains. Answer is the full reply to its closing full stop, after which the narration resumes with 'Et hercule si gulae temperes...'. The intervening 'Magno tibi constat'/'Minime' exchange is omitted as not interrogative."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "text/plautus/vidularia.txt",
+  "pairs": [
+    {
+      "locus": "Plautus, Vidularia 53-54",
+      "type": "direct-speech",
+      "question": "Non cenabis?",
+      "answer": "Immo ibo domum.",
+      "derivation": "Dinia asks 'Non cenabis?' (after Nicodemus declines supper, 'neque cenam'), and Nicodemus answers directly 'Immo ibo domum.' Speaker labels DIN. and NIC. stripped. No lacunae or editorial brackets in this span."
+    },
+    {
+      "locus": "Plautus, Vidularia 54",
+      "type": "direct-speech",
+      "question": "Vbi habitas?",
+      "answer": "Hic apud piscatorem Gorginem.",
+      "derivation": "Dinia asks 'Vbi habitas?' and Nicodemus answers 'Hic apud piscatorem Gorginem.' Speaker labels DIN. and NIC. stripped. Clean interrogative answered directly; no scaffolding or brackets in span."
+    },
+    {
+      "locus": "Plautus, Vidularia 97-100 (Fulg. serm. antiq. 53)",
+      "type": "direct-speech",
+      "question": "Iuben hunc insui in culleo atque in altum deportari, suis ut annonam bonam piscibus concinnet?",
+      "answer": "Malo hunc adligari ad horiam, ut semper piscetur, etsi sit tempestas maxima.",
+      "derivation": "Speaker A asks whether the man should be sewn into a sack and thrown into the deep ('Iuben...?'); speaker B answers with a preferred alternative ('Malo...'). Bare citation speaker labels A. and B. stripped. The Fulgentius-citation header line dropped. No lacunae or editorial brackets within the quoted utterances."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/sabinus3.txt",
+  "pairs": [
+    {
+      "locus": "Sabinus, Epistula 3 (Paris Oenonae) 43-44",
+      "type": "authorial-rhetorical",
+      "question": "Victorem Alciden dominae quis pensa tenere crederet?",
+      "answer": "At lanas nere coegit Amor.",
+      "derivation": "Author poses a rhetorical question (quis crederet) about Hercules holding his mistress's wool, then answers it himself in the same line with 'at lanas nere coegit Amor' (yet Love compelled him to spin wool), which resolves the question. Question spans the full interrogative across the couplet; answer is the contiguous clause after 'Crederet?'. Following line ('Dicitur et Coa sedisse...') begins a new exemplum and is excluded. Capitalization of 'Victorem' and 'At' normalized; terminal '?' kept on question, period on answer."
+    }
+  ]
+}

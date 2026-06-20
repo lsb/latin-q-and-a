@@ -1,0 +1,19 @@
+{
+  "source": "text/jerome/vitapauli.txt",
+  "pairs": [
+    {
+      "locus": "Jerome, Vita Pauli 9",
+      "type": "whole-speech-as-question",
+      "question": "Qui sim, unde, cur uenerim, nosti. Scio me non mereri conspectum tuum; tamen nisi uidero, non recedam. Qui bestias suscipis, hominem cur repellis? Quaesiui et inueni, pulso ut aperiatur. Quod si non impetro, hic, hic moriar ante postes tuos. Certe sepelies uel cadauer.",
+      "answer": "Nemo sic petit ut minetur, nemo cum lacrimis calumniam facit.",
+      "derivation": "Antonius's entire plea at Paul's door, containing the genuine interrogative 'hominem cur repellis?', quoted verbatim and contiguous as the question; the speech tags 'precabatur dicens' before and 'Talia perstabat memorans' after are framing and dropped. The answer is Paul's reply, introduced by the framing 'Ad quem responsum paucis ita reddidit heros' (dropped). The reply's operative answering first sentence is taken to its first full stop; the following sentence 'Et miraris si non recipiam, cum moriturus adueneris?' is itself a further question and is cut as elaboration beyond the direct answer."
+    },
+    {
+      "locus": "Jerome, Vita Pauli 13",
+      "type": "direct-speech",
+      "question": "Vbi tamdiu moratus es, pater?",
+      "answer": "Vae mihi peccatori, qui falsum monachi nomen fero. Vidi Eliam, uidi Ioannem in deserto, et uere in paradiso Paulum uidi.",
+      "derivation": "The disciples' direct interrogative on Antonius's return, with framing 'dicentes' dropped, answered by Antonius, with framing 'respondit' dropped. The whole reply is two sentences forming one continuous answer to where he had been; it is kept entire. What follows ('Ac sic ore compresso...') is narration and is cut."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "text/patricius1.txt",
+  "pairs": [
+    {
+      "locus": "Patricius, Panaugia, Liber Primus de Luce",
+      "type": "authorial-rhetorical",
+      "question": "A primis, cognitisne? an ab incognitis?",
+      "answer": "A cognitis ergo initium sumendum.",
+      "derivation": "Author asks whether to begin from things known or unknown. Skipped the intervening reasoning preamble ('Si ab incognitis incipiamus... nulla nobis condetur Philosophia') which argues the case but does not yet state the conclusion; advanced the answer start to the operative concluding sentence 'A cognitis ergo initium sumendum', which directly answers (begin from the known). Setup 'A primis' kept so the genitive/referent is intelligible; it is the author's own contiguous text."
+    },
+    {
+      "locus": "Patricius, Panaugia, Liber Primus de Luce",
+      "type": "authorial-rhetorical",
+      "question": "Quid autem utraque est?",
+      "answer": "Fulgor nimirum.",
+      "derivation": "Author asks what each of the two lights (the incorporeal and the corporeal) is, and answers immediately 'Fulgor nimirum' (brightness, of course). Answer ends at the first full stop; the following sentences ('Illa mentalis... medius visualis') elaborate the two kinds and were cut."
+    },
+    {
+      "locus": "Patricius, Panaugia, Liber Primus de Luce",
+      "type": "authorial-rhetorical",
+      "question": "Hunc vero fulgorem, esse candorem, quomodo probamus?",
+      "answer": "Oculis itidem eisdem.",
+      "derivation": "Author asks how we prove this brightness (fulgor) is whiteness (candor); answers directly 'Oculis itidem eisdem' (by the same eyes). The source continues after a colon ('Sed illum, fulgore ipso oblaesis: hunc vero laesis nihil') with elaboration distinguishing the two acts of seeing; cut at the operative answering clause per the first-full-stop default, normalizing the trailing colon to a full stop."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.her5.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Heroides 5.138",
+      "type": "authorial-rhetorical",
+      "question": "Unde hoc compererim tam bene?",
+      "answer": "Amo!",
+      "derivation": "Line 138 reads 'unde hoc compererim tam bene quaeris? amo!'. The framing verb 'quaeris' ('you ask') narrates the asking and is dropped per the prompt's guidance (like 'fortasse requiris'), leaving the interrogative 'unde hoc compererim tam bene?' (capitalized, terminal '?' normalized). The speaker answers her own posed question with the single word 'amo!'. All other interrogatives in the epistle are unanswered rhetorical questions and were dropped."
+    }
+  ]
+}

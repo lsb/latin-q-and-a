@@ -1,0 +1,26 @@
+{
+  "source": "text/justinian/institutes1.txt",
+  "pairs": [
+    {
+      "locus": "Justinian, Institutes 1.4 (TIT. IV)",
+      "type": "authorial-rhetorical",
+      "question": "Si ancilla praegnans manumissa sit, deinde ancilla postea facta peperit, liberum an servum pariat?",
+      "answer": "Marcellus probat, liberum nasci.",
+      "derivation": "Dropped the framing 'ex his et illud quaesitum est,' which narrates the asking; capitalized 'Si'. The interrogative is the disjunctive 'liberum an servum pariat?'. Answer cut at the first full stop after 'liberum nasci' (a colon follows: 'sufficit enim ei qui in ventre est liberam matrem...' which elaborates the reasoning rather than answering)."
+    },
+    {
+      "locus": "Justinian, Institutes 1.10 (TIT. X)",
+      "type": "authorial-rhetorical",
+      "question": "An furiosi filia nubere aut furiosi filius uxorem ducere possit?",
+      "answer": "Permissum est ad exemplum filiae furiosi filium quoque posse et sine patris interventu matrimonium sibi copulare secundum datum ex constitutione modum.",
+      "derivation": "Dropped the framing 'unde quaesitum est,'; capitalized 'An'. Skipped the non-answering preamble 'cumque super filio variabatur, nostra processit decisio, qua' (narrates the dispute and that a decision issued, but does not state the resolution); advanced the answer start to the operative 'permissum est...'. Ends at the full stop."
+    },
+    {
+      "locus": "Justinian, Institutes 1.14 (TIT. XIV)",
+      "type": "authorial-rhetorical",
+      "question": "Quid, si nepotes sint, an appellatione filiorum et ipsis tutores dati sunt?",
+      "answer": "Dicendum est, ut ipsis quoque dati videantur, si modo \"liberos\" dixit.",
+      "derivation": "Question and answer quoted verbatim and contiguous. Answer ends at the full stop after 'dixit'; what follows ('ceterum si \"filios,\" non continebuntur...') is a further distinction, not part of the direct answer."
+    }
+  ]
+}

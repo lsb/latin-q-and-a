@@ -1,0 +1,26 @@
+{
+  "source": "text/livy/liv.35.txt",
+  "pairs": [
+    {
+      "locus": "Livy 35.14",
+      "type": "direct-speech",
+      "question": "Quidnam tu diceres, si me uicisses?",
+      "answer": "Tum uero me et ante Alexandrum et ante Pyrrhum et ante alios omnes imperatores esse.",
+      "derivation": "Direct-speech exchange at Ephesus. Scipio, after Hannibal has ranked himself third among generals, asks Hannibal directly (quoted). The narrative tag 'tum risum obortum Scipioni et subiecisse' is framing and dropped before the quoted question. The answer is Hannibal's verbatim quoted reply, framing 'inquit' dropped, capitalized; it ends at the full stop. The following sentence 'et perplexum Punico astu responsum...' is the author's commentary on the reply, not part of it, so cut there."
+    },
+    {
+      "locus": "Livy 35.38",
+      "type": "direct-speech",
+      "question": "Quo suo dicto factoue socii atque amici ad se oppugnandos uenirent?",
+      "answer": "Non ad oppugnandos sed ad liberandos ab Romanis uenire sese.",
+      "derivation": "Reported (indirect) question from the Chalcidian/Eretrian-Carystian envoys, answered by Thoas. Framing 'legati ad Aetolos missi percunctatum' before the question and 'respondit Thoas dux Aetolorum' before the answer are dropped as speech-tags; the indirect-question clause is repunctuated as a question and first word capitalized. The answer stops at the operative response; what follows ('splendidiore nunc eos catena... egere') elaborates the claim that the Chalcidians are 'freed', so the answer is cut at 'uenire sese' before the colon."
+    },
+    {
+      "locus": "Livy 35.39",
+      "type": "direct-speech",
+      "question": "Utrum ad amicos an ad hostes uenisse se mallent?",
+      "answer": "Ad amicos uenisse eum.",
+      "derivation": "Reported (indirect) question put by Villius to the assembled Magnesians, answered by the Magnetarch Eurylochus. Framing 'quaesiuit Uillius' and 'respondit Magnetarches Eurylochus' are dropped as speech-tags; the clause is repunctuated as a question, first word capitalized. The answer stops at 'eum'; the continuation 'sed abstineret portu et sineret Magnetas...' turns from answering into a demand to keep clear of the harbor, so it is cut there."
+    }
+  ]
+}

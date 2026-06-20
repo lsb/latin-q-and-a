@@ -1,0 +1,19 @@
+{
+  "source": "text/pliny.panegyricus.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Panegyricus 39",
+      "type": "authorial-rhetorical",
+      "question": "Sorores estis et frater, avus et nepotes, quid est ergo, cur rogetis, ut sitis?",
+      "answer": "Vobis estis.",
+      "derivation": "Pliny voices the emperor addressing kin united by the remitted inheritance tax. The interrogative 'quid est ergo, cur rogetis, ut sitis?' is genuinely answered by the immediately following 'vobis estis' (you belong to one another already, so there is no need to petition). The setup 'Sorores estis et frater, avus et nepotes' is kept verbatim before the question so 'sitis' and 'vobis' have referents. Answer ends at the full stop after 'estis'; the next sentence ('Quid? pro cetera sua moderatione...') turns to a new topic and is cut."
+    },
+    {
+      "locus": "Pliny, Panegyricus 67",
+      "type": "authorial-rhetorical",
+      "question": "Nuncupare vota et pro aeternitate imperii, et pro salute civium?",
+      "answer": "Immo pro salute principum, ac propter illos pro aeternitate imperii solebamus.",
+      "derivation": "Pliny poses the old vow-formula interrogatively and corrects it himself. The question 'Nuncupare vota et pro aeternitate imperii, et pro salute civium?' is answered by the contiguous 'immo... solebamus', which genuinely resolves it ('rather, we used to make them for the emperors' safety, and on their account for the empire's eternity'). 'immo' capitalized as first word; answer ends at the full stop after 'solebamus', before the new sentence 'Haec pro imperio nostro...'."
+    }
+  ]
+}

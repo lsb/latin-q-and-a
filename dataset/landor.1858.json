@@ -1,0 +1,26 @@
+{
+  "source": "text/landor.1858.txt",
+  "pairs": [
+    {
+      "locus": "Landor, Latina Quaedam (1858), \"Qualis Vita Sit Beata\"",
+      "type": "authorial-rhetorical",
+      "question": "Quae sit vita beata?",
+      "answer": "Brevis.",
+      "derivation": "The poem ends 'Iamque rogas quae sit vita beata? Brevis.' Dropped the framing 'Iamque rogas' ('and now you ask') as narration of the asking; the operative interrogative is 'quae sit vita beata?', answered by the single word 'Brevis.' The preceding 'Multos perdidimus, paucos retinemus amicos' is context but not needed for the question to be intelligible, so it is left out."
+    },
+    {
+      "locus": "Landor, Latina Quaedam (1858), \"Quis Turpior\" (opening couplet)",
+      "type": "authorial-rhetorical",
+      "question": "Rege Borussorum quis turpior?",
+      "answer": "Ecce Borussos Ipsos!",
+      "derivation": "Genuine direct interrogative 'Rege Borussorum quis turpior?' immediately answered 'Ecce Borussos Ipsos!'. Answer window ends at the exclamation; what follows ('perfidiam non renuêre pati') elaborates rather than answers, so it is cut."
+    },
+    {
+      "locus": "Landor, Latina Quaedam (1858), \"Quis Turpior\" (second couplet)",
+      "type": "authorial-rhetorical",
+      "question": "Vis alios digito monstrem tibi?",
+      "answer": "Respice Gallos.",
+      "derivation": "Genuine yes/no interrogative 'Vis alios digito monstrem tibi?' answered by the directive 'Respice Gallos'. The terminal comma after 'Gallos' is normalized to a full stop; what follows ('Omnia quos pariter, praeter honesta, iuvant') elaborates and is cut."
+    }
+  ]
+}

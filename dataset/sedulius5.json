@@ -1,0 +1,12 @@
+{
+  "source": "text/sedulius5.txt",
+  "pairs": [
+    {
+      "locus": "Sedulius, Carmen Paschale 5.346-351",
+      "type": "authorial-rhetorical",
+      "question": "Anne beati corporis ablator velocius esse putavit solvere contectum, quam devectare ligatum?",
+      "answer": "Cum mora sit furtis contraria, cautius ergo cum Domino potuere magis sua lintea tolli.",
+      "derivation": "Authorial-rhetorical challenge to the guards' lie that the disciples stole the body. I take the operative interrogative 'anne ... putavit solvere contectum, quam devectare ligatum?' as the question (the preceding 'cuius iacet intus amictus, cuius ad exuvias sedet Angelus?' is a separate rhetorical question without a propositional answer, so it is excluded). The author's own answer follows directly in the next sentence ('Cum mora sit furtis contraria... sua lintea tolli'), reasoning that a thief in a hurry would have carried the body off bound rather than pausing to unwrap it. Answer ends at the full stop before 'Mentita est vox vana sibi', which turns to a new point (the figural meaning). Inline verse number '345' after 'ligatum' and the dangling line-numbering scaffolding stripped."
+    }
+  ]
+}

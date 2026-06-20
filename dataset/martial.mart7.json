@@ -1,0 +1,19 @@
+{
+  "source": "text/martial/mart7.txt",
+  "pairs": [
+    {
+      "locus": "Martial 7.3",
+      "type": "authorial-rhetorical",
+      "question": "Cur non mitto meos tibi, Pontiliane, libellos?",
+      "answer": "Ne mihi tu mittas, Pontiliane, tuos.",
+      "derivation": "Two-line epigram: the poet poses an interrogative to Pontilianus (why don't I send you my books?) and answers it himself in the second line (so that you won't send me yours). Whole poem used; first word of answer 'ne' capitalized as sentence start."
+    },
+    {
+      "locus": "Martial 7.79",
+      "type": "authorial-rhetorical",
+      "question": "Potaui modo consulare uinum. Quaeris quam uetus atque liberale?",
+      "answer": "Prisco consule conditum: sed ipse qui ponebat erat, Seuere, consul.",
+      "derivation": "Setup 'Potaui modo consulare uinum' kept so the question has a referent (the wine). The frame verb 'Quaeris' introduces the genuine interrogative 'quam uetus atque liberale?'. The answer is the rest of the poem giving the vintage (bottled in Priscus's consulship) with the punchline (the man pouring it was himself consul). Whole poem used after the question; no cut needed."
+    }
+  ]
+}

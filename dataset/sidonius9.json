@@ -1,0 +1,12 @@
+{
+  "source": "text/sidonius9.txt",
+  "pairs": [
+    {
+      "locus": "Sidonius, Epistulae 9.9.6",
+      "type": "authorial-rhetorical",
+      "question": "Ista quorsum?",
+      "answer": "Ecce iam pando, vel quid indagasse me gaudeam vel quid te celasse succenseam.",
+      "derivation": "Sidonius quotes his correspondent Faustus's anticipated question 'ista quorsum?' ('to what end is all this?'), then answers it himself. Dropped the framing speech tag 'inquis'. The answer window is the operative first sentence 'ecce iam pando... succenseam.' which directly states the purpose; it stops at the first full stop, before 'legi volumina tua...' which begins the narrative digression rather than continuing to answer the 'quorsum' question. Question kept as the minimal self-contained interrogative; it refers back to the preceding series of rhetorical 'an...?' questions in 9.4-5, but that tirade has no clean boundary and 'ista quorsum?' is intelligible on its own."
+    }
+  ]
+}

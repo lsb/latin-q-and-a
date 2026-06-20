@@ -1,0 +1,40 @@
+{
+  "source": "text/pascoli.sen.txt",
+  "pairs": [
+    {
+      "locus": "Pascoli, Senex Corycius II (Vergilius and the Corycian olitor, line 63)",
+      "type": "direct-speech",
+      "question": "Ut salvus? rectene vales?",
+      "answer": "Patienter.",
+      "derivation": "Vergilius (the redux vates) greets the old man with a genuine interrogative greeting; the senex answers 'Patienter' (answering 'rectene vales?'). Stripped the narration 'Fortunate senex parvo post tempore vates / tali voce redux vetulum compellat in horto:' and the quotation marks. Capitalized the first word and kept terminal '?'. Answer is the senex's single word; nothing trimmed."
+    },
+    {
+      "locus": "Pascoli, Senex Corycius II (line 64)",
+      "type": "direct-speech",
+      "question": "Amabo: quaenam, quae portas umeris huc germina?",
+      "answer": "Pinus.",
+      "derivation": "Vergilius asks a real interrogative ('what seedlings do you carry on your shoulders?'), the senex answers 'Pinus' (pines). Kept the speaker's own politeness marker 'Amabo' as part of his contiguous utterance. Stripped the inline verse number '65' and quotation marks. Answer is the single-word reply, nothing trimmed."
+    },
+    {
+      "locus": "Pascoli, Senex Corycius II (line 66)",
+      "type": "direct-speech",
+      "question": "Arte colis qua tam feliciter?",
+      "answer": "Arte.",
+      "derivation": "Vergilius asks 'by what skill do you cultivate so successfully?' and the senex answers 'Arte' (by skill). The source carries a corrupt terminal glyph 'ˆ' where the question mark belongs; normalized to '?'. Stripped quotation marks; answer is the one-word reply."
+    },
+    {
+      "locus": "Pascoli, Senex Corycius II (line 78)",
+      "type": "direct-speech",
+      "question": "Mantua me genuit. Te vero?",
+      "answer": "Corycus.",
+      "derivation": "Vergilius states his own origin ('Mantua me genuit') and asks the senex 'And you really?'; the old man answers 'Corycus' (he is the Corycian). Kept 'Mantua me genuit.' as verbatim setup inside the question so 'Te vero?' has a referent (Rule 2, self-contained). Stripped the inline verse number '80' and quotation marks; the answer 'Corycus' is the senex's single-word reply, after which Vergilius continues 'An mons, unde...'."
+    },
+    {
+      "locus": "Pascoli, Senex Corycius II (lines 90-92)",
+      "type": "direct-speech",
+      "question": "Hospes, at istas pinos huc unde tulisti?",
+      "answer": "Portavi de monte, vides quem surgere coram.",
+      "derivation": "Vergilius asks a genuine interrogative ('host, but these pines, from where did you bring them?'); the senex answers that he carried them from the mountain visible before them. Stripped the interleaved narration 'inquit Vergilius' that splits the utterance, plus the verse number '90' and quotation marks; reassembled only the speaker's own contiguous words 'Hospes, at istas pinos huc unde tulisti?'. Answer ends at its full stop; the next line ('Ipse thymum pinosque...') is a separate exchange."
+    }
+  ]
+}

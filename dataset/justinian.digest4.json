@@ -1,0 +1,96 @@
+{
+  "source": "text/justinian/digest4.txt",
+  "pairs": [
+    {
+      "locus": "Digest 4.2.13 (Callistratus, decretum divi Marci)",
+      "type": "direct-speech",
+      "question": "Tu vim putas esse solum, si homines vulnerentur?",
+      "answer": "Vis est et tunc, quotiens quis id, quod deberi sibi putat, non per iudicem reposcit.",
+      "derivation": "Within the decree of Divus Marcus: Marcianus' 'vim nullam feci' is a statement, not the question; the question is Caesar's interrogative, with the speech tag 'caesar dixit:' dropped. Caesar answers his own question in the next sentence. Stopped at the first full stop ('reposcit'); what follows ('quisquis igitur probatus mihi fuerit...') is a separate ruling, not part of the answer."
+    },
+    {
+      "locus": "Digest 4.3.7.7 (Ulpianus 11 ad ed.)",
+      "type": "direct-speech",
+      "question": "Si compeditum servum meum ut fugeret solveris, an de dolo actio danda sit?",
+      "answer": "Si non misericordia ductus fecisti, furti teneris: si misericordia, in factum actionem dari debere.",
+      "derivation": "Labeo asks, Quintus answers. Dropped the framing 'Idem labeo quaerit,' at the start and the speech tag 'et ait quintus apud eum notans:' before the answer. The answer is the full two-limbed reply; nothing follows in this section."
+    },
+    {
+      "locus": "Digest 4.4.11.6 (Ulpianus 11 ad ed.)",
+      "type": "authorial-rhetorical",
+      "question": "Si minor adversus minorem restitui desiderat, an sit audiendus?",
+      "answer": "Non restituendum.",
+      "derivation": "Dropped the framing 'Item quaeritur,' before the question and the speech tag 'et pomponius simpliciter scribit' before the answer; normalized 'non restituendum' to a sentence. Stopped before Ulpian's own added qualification ('puto autem inspiciendum a praetore, quis captus sit...'), which elaborates rather than giving the direct answer."
+    },
+    {
+      "locus": "Digest 4.4.32 (Paulus 1 quaest.)",
+      "type": "authorial-rhetorical",
+      "question": "Quaero cuius sit periculum: et quid si curatores quoque in eodem errore perseverassent, ut putarent maiorem esse et abstinuissent se ab administratione, curationem etiam restituissent, an periculum temporis, quod post probatam aetatem cessit, ad eos pertineat?",
+      "answer": "Hi qui debita exsoluerunt liberati iure ipso non debent iterum conveniri.",
+      "derivation": "A consultation: the whole 'quaero ... pertineat?' is quoted as the question (verbatim, contiguous). The answer is the operative first sentence after the 'respondi:' tag (dropped); stopped at the first full stop, before 'plane curatores, qui scientes...', which addresses the secondary sub-question about the curatores."
+    },
+    {
+      "locus": "Digest 4.4.39pr. (Scaevola 2 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Si finita appellationis apud imperatorem cognitione et iniusta appellatione pronuntiata egressi aetatem deprehendantur, an cetera negotii implere possunt, cum per eos non steterit, quo minus res finem accipiat?",
+      "answer": "Secundum ea quae proponuntur perinde cognosci atque si nunc intra aetatem essent.",
+      "derivation": "Dropped the framing 'quaesitum est:' before the question and the 'respondi' tag before the answer. The whole reply answers the question; no trimming needed."
+    },
+    {
+      "locus": "Digest 4.4.39.1 (Scaevola 2 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Cum sint idonei curatores, an minor adversus titium emptorem in integrum restitui possit?",
+      "answer": "Ex omnibus quae proponerentur vix esse restituendum, nisi si maluerit omnes expensas, quas bona fide emptor fecisse adprobaverit, ei praestare, maxime cum sit ei paratum promptum auxilium curatoribus eis idoneis constitutis.",
+      "derivation": "Dropped the framing 'quaero,' before the question and the 'respondi' tag before the answer. The reply is a single contiguous answering sentence; nothing trimmed."
+    },
+    {
+      "locus": "Digest 4.4.47pr. (Scaevola 1 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Cum urguentibus creditoribus distracta sit nec de sordibus tutoris merito quippiam dici potest, an pupillus in integrum restitui potest?",
+      "answer": "Cognita causa aestimandum, nec idcirco, si iustum sit restitui, denegandum id auxilium, quod tutor delicto vacaret.",
+      "derivation": "Dropped the framing 'quaero,' before the question and the 'respondi' tag before the answer. The whole reply answers; no interior trimming."
+    },
+    {
+      "locus": "Digest 4.4.47.1 (Scaevola 1 resp.), first query",
+      "type": "authorial-rhetorical",
+      "question": "Si decreto praetoris adulescentes in integrum restituti fuerint, an eatenus venditio rescindenda sit, quatenus adulescentium pro parte fundus communis fuit?",
+      "answer": "Eatenus rescindi, nisi si emptor a toto contractu velit discedi, quod partem empturus non esset.",
+      "derivation": "First of two queries in this section. Dropped the framing 'quaero,' and the 'respondi' tag. The reply answers fully; stopped before 'item quaero,' which begins the second, separate query."
+    },
+    {
+      "locus": "Digest 4.4.47.1 (Scaevola 1 resp.), second query",
+      "type": "authorial-rhetorical",
+      "question": "Emptor utrum a seio et sempronio pupillis pretium cum usuris recipere deberet an vero ab herede curatoris?",
+      "answer": "Heredes quidem curatoris teneri, verum in seium et sempronium pro parte, qua eorum fundus fuit, actiones dandas: utique si ad eos accepta pecunia pro eadem parte pervenisset.",
+      "derivation": "Second query. Dropped the framing 'item quaero,' before the question and the 'respondi' tag before the answer. The reply is one contiguous answering passage; nothing trimmed."
+    },
+    {
+      "locus": "Digest 4.8.11.2 (Ulpianus 13 ad ed.)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo, si res apud arbitrum depositae sunt eo pacto, ut ei daret qui vicerit, vel ut eam rem daret, si non pareatur sententiae, an cogendus sit sententiam dicere?",
+      "answer": "Et puto cogendum.",
+      "derivation": "Ulpian poses the case-question and answers it himself. Question quoted verbatim and contiguous; answer is the immediately following 'et puto cogendum.' Stopped before 'tantundem et si quantitas certa...', which extends to a further case."
+    },
+    {
+      "locus": "Digest 4.8.43 (Scaevola 1 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Sed errore quaedam species in petitionem a lucio titio deductae non sunt nec arbiter de his quicquam pronuntiavit: quaesitum est an species omissae peti possint?",
+      "answer": "Peti posse nec poenam ex compromisso committi.",
+      "derivation": "Included the preceding 'sed errore... pronuntiavit:' as verbatim setup so 'species omissae' has a referent (self-contained). Dropped only the 'respondit' tag before the answer. Stopped before 'quod si maligne hoc fecit...', a further conditional qualification."
+    },
+    {
+      "locus": "Digest 4.8.44 (Scaevola 2 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Quaesitum est, an si ex parte castelliani arbitro paritum non esset, poena ex compromisso commissa est?",
+      "answer": "Si arbitro paritum non esset in eo, quod utroque praesente arbitratus esset, poenam commissam.",
+      "derivation": "Dropped the 'respondi,' tag before the answer; kept 'Quaesitum est,' as it is part of the interrogative framing rather than a speech tag mid-utterance (could be dropped, but minimal). The reply answers fully; nothing trimmed."
+    },
+    {
+      "locus": "Digest 4.8.50 (Alfenus 7 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Arbiter ex compromisso sumptus cum ante eum diem, qui constitutus compromisso erat, sententiam dicere non posset, diem compromissi proferri iusserat: alter ex litigatoribus dicto audiens non fuerat: consulebatur possetne ab eo pecunia ex compromisso peti?",
+      "answer": "Non posse, ideo quod non esset arbitro permissum ut id iuberet.",
+      "derivation": "Included the narrative setup so the 'possetne ab eo pecunia peti' has its referent (the arbiter who extended the day without authority); this setup is verbatim source. Dropped the 'respondi' tag before the answer. The reply answers fully."
+    }
+  ]
+}

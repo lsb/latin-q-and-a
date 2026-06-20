@@ -1,0 +1,26 @@
+{
+  "source": "text/sen/sen.ira2.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, De Ira 2.2.1",
+      "type": "direct-speech",
+      "question": "Quorsus haec quaestio pertinet?",
+      "answer": "Vt sciamus quid sit ira.",
+      "derivation": "Quoted objector's interrogative; the speech tag 'inquis' interrupting the quote is dropped, leaving the speaker's own words contiguous. Seneca answers directly with 'Vt sciamus quid sit ira'; the answer ends at this complete clause (next is the elaborating 'nam si inuitis nobis nascitur...' after the semicolon), and the dangling terminal semicolon is normalized to a full stop."
+    },
+    {
+      "locus": "Seneca, De Ira 2.10.4",
+      "type": "authorial-rhetorical",
+      "question": "Quid tollit iram sapientis?",
+      "answer": "Turba peccantium.",
+      "derivation": "Author poses a real interrogative and answers it himself. The complete answer 'turba peccantium' immediately follows; capitalization of the first word is normalized since it now opens the field."
+    },
+    {
+      "locus": "Seneca, De Ira 2.10.6",
+      "type": "authorial-rhetorical",
+      "question": "Non irascetur sapiens peccantibus. Quare?",
+      "answer": "Quia scit neminem nasci sapientem sed fieri, scit paucissimos omni aeuo sapientis euadere, quia condicionem humanae uitae perspectam habet.",
+      "derivation": "The bare interrogative 'Quare?' needs the preceding statement 'Non irascetur sapiens peccantibus' as verbatim setup so the question has a referent (rule 2). Answer begins at the operative 'quia scit...' and ends at the first full stop ('...perspectam habet'); the following 'nemo autem naturae sanus irascitur' is a separate sentence and is cut. The terminal semicolon is normalized to a full stop."
+    }
+  ]
+}

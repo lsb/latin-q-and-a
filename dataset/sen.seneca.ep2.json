@@ -1,0 +1,68 @@
+{
+  "source": "text/sen/seneca.ep2.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Epistulae 13.7",
+      "type": "direct-speech",
+      "question": "Quomodo intellegam, vana sint an vera quibus angor?",
+      "answer": "Accipe huius rei regulam: aut praesentibus torquemur aut futuris aut utrisque.",
+      "derivation": "Lucilius' imagined question, framed by 'inquis' (dropped). Answer is Seneca's reply; ends at the first full stop after 'utrisque', which states the actual rule ('regula') for distinguishing vain from real fears; the elaboration ('De praesentibus facile iudicium est...') is digression and is cut."
+    },
+    {
+      "locus": "Seneca, Epistulae 14.15",
+      "type": "direct-speech",
+      "question": "Quid ergo? utique erit tutus qui hoc propositum sequetur?",
+      "answer": "Promittere tibi hoc non magis possum quam in homine temperanti bonam valetudinem, et tamen facit temperantia bonam valetudinem.",
+      "derivation": "Lucilius' imagined interrogative (framed by 'inquis', dropped). Answer is Seneca's direct reply that he cannot promise it; the window runs to the first full stop, including the parallel 'et tamen facit temperantia bonam valetudinem' which completes the single answering sentence. Subsequent examples ('Perit aliqua navis in portu...') are cut as elaboration."
+    },
+    {
+      "locus": "Seneca, Epistulae 15.9",
+      "type": "direct-speech",
+      "question": "Quis hoc dicit?",
+      "answer": "Idem qui supra.",
+      "derivation": "Lucilius' imagined question 'Quis hoc dicit?' (framed by 'inquis', dropped) asking who authored the quoted sententia; answered by Seneca's 'idem qui supra' (capitalization normalized). Terse but a genuine interrogative with its genuine answer."
+    },
+    {
+      "locus": "Seneca, Epistulae 16.4-5",
+      "type": "whole-speech-as-question",
+      "question": "Quid mihi prodest philosophia, si fatum est? quid prodest, si deus rector est? quid prodest, si casus imperat? Nam et mutari certa non possunt et nihil praeparari potest adversus incerta, sed aut consilium meum occupavit deus decrevitque quid facerem, aut consilio meo nihil fortuna permittit.",
+      "answer": "Quidquid est ex his, Lucili, vel si omnia haec sunt, philosophandum est.",
+      "derivation": "Whole imagined objection of 'aliquis' quoted verbatim and contiguous (the framing 'Dicet aliquis,' is dropped); it is one extended interrogative plea. Answer is the operative first sentence of Seneca's reply, ending at the first full stop after 'philosophandum est'; the following 'sive nos inexorabili lege...' elaborates the three cases and is cut."
+    },
+    {
+      "locus": "Seneca, Epistulae 16.7",
+      "type": "authorial-rhetorical",
+      "question": "Quare autem alienum dixi?",
+      "answer": "Quidquid bene dictum est ab ullo meum est.",
+      "derivation": "Seneca poses the question to himself (why he called the saying 'someone else's') and answers it himself in the next sentence; clean authorial self-Q&A, each field a single contiguous sentence."
+    },
+    {
+      "locus": "Seneca, Epistulae 19.8",
+      "type": "direct-speech",
+      "question": "Quomodo exibo?",
+      "answer": "Utcumque.",
+      "derivation": "Lucilius' imagined interrogative (framed by 'inquis', dropped), asking how he will escape his occupations. Seneca's one-word reply 'Utcumque' directly answers it. Following imperative 'Cogita quam multa...' begins fresh exhortation and is cut."
+    },
+    {
+      "locus": "Seneca, Epistulae 20.2",
+      "type": "direct-speech",
+      "question": "Quis hoc praestabit?",
+      "answer": "Pauci, aliqui tamen.",
+      "derivation": "Imagined interrogative ('who will guarantee this?') answered directly by 'Pauci, aliqui tamen'; the answer window stops before 'Est enim difficile...', which is justification, not answer."
+    },
+    {
+      "locus": "Seneca, Epistulae 20.7",
+      "type": "direct-speech",
+      "question": "Quid fiet huic turbae familiarium sine re familiari?",
+      "answer": "Turba ista cum a te pasci desierit, ipsa se pascet, aut quod tu beneficio tuo non potes scire, paupertatis scies.",
+      "derivation": "Lucilius' imagined interrogative (framed by 'inquis', dropped). Answer is Seneca's reply to the first full stop, stating what will happen to the crowd; the sequel 'illa veros certosque amicos retinebit...' elaborates and is cut."
+    },
+    {
+      "locus": "Seneca, Epistulae 20.10",
+      "type": "direct-speech",
+      "question": "Quid ergo? non licet divitias in sinu positas contemnere?",
+      "answer": "Quidni liceat?",
+      "derivation": "Imagined interrogative objection (whether one may despise riches one possesses) answered by Seneca's rhetorical 'Quidni liceat?' (= of course one may). Following sentence 'Et ille ingentis animi est...' develops the point and is cut."
+    }
+  ]
+}

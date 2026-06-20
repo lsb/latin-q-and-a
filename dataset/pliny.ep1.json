@@ -1,0 +1,19 @@
+{
+  "source": "text/pliny.ep1.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Epistulae 1.9.2",
+      "type": "direct-speech",
+      "question": "Hodie quid egisti?",
+      "answer": "Officio togae virilis interfui, sponsalia aut nuptias frequentavi, ille me ad signandum testamentum, ille in advocationem, ille in consilium rogavit.",
+      "derivation": "Pliny frames a generic exchange: the framing 'Nam si quem interroges' before the question and 'respondeat:' before the answer are stripped as speech/asking narration. Question is the verbatim interrogative 'Hodie quid egisti?'. Answer is the full quoted reply, contiguous through 'in consilium rogavit.', which genuinely lists what one did that day. Stops at the first full stop where the reply ends; the next sentence ('Haec quo die feceris...') turns to Pliny's own commentary."
+    },
+    {
+      "locus": "Pliny, Epistulae 1.12.8",
+      "type": "authorial-rhetorical",
+      "question": "Cur me putas hos tantos dolores tam diu sustinere?",
+      "answer": "Ut scilicet isti latroni vel uno die supersim.",
+      "derivation": "Corellius poses a 'cur' question and answers it himself in the same utterance. Framing 'inquit' is dropped; the question's first word capitalization is kept as in source ('Cur'). The dash and 'ut scilicet...' clause is his own answer, normalized to begin with a capital and end with a full stop. The answer genuinely states why he endures the pain (to outlive 'that brigand', Domitian). The following sentence 'Dedisses huic animo par corpus...' is Pliny's narration and is excluded."
+    }
+  ]
+}

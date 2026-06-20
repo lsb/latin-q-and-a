@@ -1,0 +1,19 @@
+{
+  "source": "text/ovid/ovid.artis1.txt",
+  "pairs": [
+    {
+      "locus": "Ars Amatoria 1.129-130",
+      "type": "direct-speech",
+      "question": "Quid teneros lacrimis corrumpis ocellos?",
+      "answer": "Quod matri pater est, hoc tibi ero.",
+      "derivation": "The Roman captor speaks to the abducted Sabine woman; one continuous utterance in which he asks why she spoils her eyes with tears and then consoles/answers her. The interleaved speech tag 'dixit' (between 'hoc tibi' and 'ero') is dropped as framing per the rules; the question and answer are otherwise verbatim and contiguous. Capitalized initial 'Quid' (was 'quid' mid-sentence)."
+    },
+    {
+      "locus": "Ars Amatoria 1.375-376",
+      "type": "authorial-rhetorical",
+      "question": "An hanc ipsam prosit violare ministram?",
+      "answer": "Talibus admissis alea grandis inest.",
+      "derivation": "Authorial self-posed and self-answered question. The opening 'Quaeris,' is framing ('you ask') and is dropped per the rules; the interrogative proper 'an hanc ipsam prosit violare ministram?' is kept (initial 'An' capitalized). The pentameter (376) directly answers that there is great risk in such ventures; the following couplet (377) turns to elaboration ('Haec a concubitu fit sedula...'), so the window ends at the first full stop."
+    }
+  ]
+}

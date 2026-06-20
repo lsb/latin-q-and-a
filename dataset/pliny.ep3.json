@@ -1,0 +1,19 @@
+{
+  "source": "text/pliny.ep3.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Epistulae 3.9.21",
+      "type": "authorial-rhetorical",
+      "question": "Iudicas ergo?",
+      "answer": "Ego vero non iudico, memini tamen me advocatum ex iudicibus datum.",
+      "derivation": "Pliny imagines an objector and answers himself. The framing 'Dicet aliquis:' is dropped as narration of the asking; the imagined interrogative 'Iudicas ergo?' is the question and Pliny's own reply 'Ego vero non iudico...' answers it directly. The whole is enclosed in single quotes in the source ('Dicet aliquis: Iudicas ergo? Ego vero...'); answer ends at the full stop closing the sentence."
+    },
+    {
+      "locus": "Pliny, Epistulae 3.16.6",
+      "type": "direct-speech",
+      "question": "Vis ergo filiam tuam, si mihi pereundum fuerit, mori mecum?",
+      "answer": "Si tam diu tantaque concordia vixerit tecum quam ego cum Paeto, volo.",
+      "derivation": "Direct exchange between Thrasea and Arria. The framing 'Quin etiam, cum Thrasea gener eius deprecaretur, ne mori pergeret, interque alia dixisset:' is dropped as narration of the asking; 'respondit:' between question and answer is likewise dropped as a speech tag. The interrogative is genuine and the reply answers it directly; answer ends at the full stop after 'volo.'"
+    }
+  ]
+}

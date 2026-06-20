@@ -1,0 +1,26 @@
+{
+  "source": "text/martial/mart10.txt",
+  "pairs": [
+    {
+      "locus": "Martial 10.22",
+      "type": "authorial-rhetorical",
+      "question": "Cur spleniato saepe prodeam mento albave pictus sana labra cerussa, Philaeni?",
+      "answer": "Basiare te nolo.",
+      "derivation": "The whole epigram. The interrogative 'Cur... prodeam... Philaeni' is the author's self-posed question; the framing verb 'quaeris' ('you ask') that closes it is meta-narration of the asking and is dropped per the framing rule. First word capitalization and terminal '?' normalized. Answer is the operative reply 'basiare te nolo' (capitalized), which directly answers the 'cur'."
+    },
+    {
+      "locus": "Martial 10.32",
+      "type": "authorial-rhetorical",
+      "question": "Haec mihi quae colitur violis pictura rosisque, quos referat voltus, Caediciane?",
+      "answer": "Talis erat Marcus mediis Antonius annis Primus.",
+      "derivation": "Setup 'Haec... pictura rosisque' kept so the indirect question 'quos referat voltus' has its subject. Framing verb 'rogas' ('you ask') dropped per the framing rule; capitalization and terminal '?' normalized. Answer ends at the first full stop after 'Primus' (the cognomen of M. Antonius Primus, part of the text, not a line number); cut before 'in hoc iuvenem se videt ore senex' and the following wish 'Ars utinam...', which elaborate rather than answer."
+    },
+    {
+      "locus": "Martial 10.102",
+      "type": "authorial-rhetorical",
+      "question": "Qua factus ratione sit, qui numquam futuit, pater Philinus?",
+      "answer": "Gaditanus, Avite, dicat istud, qui scribit nihil et tamen poeta est.",
+      "derivation": "The whole epigram. Framing verb 'requiris' ('you ask') dropped per the framing rule; the interrogative 'Qua factus ratione sit... pater Philinus' is normalized with terminal '?'. Answer is the full retort offering the parallel (the man who writes nothing yet is a poet) as the explanation; 'dicat istud' is the author's own answering proposal, not asking-narration, so it is kept. Capitalization normalized."
+    }
+  ]
+}

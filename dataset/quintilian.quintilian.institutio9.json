@@ -1,0 +1,26 @@
+{
+  "source": "text/quintilian/quintilian.institutio9.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Institutio Oratoria 9.2.12",
+      "type": "direct-speech",
+      "question": "Quaero an occideris hominem?",
+      "answer": "Latronem.",
+      "derivation": "Quintilian's illustration of the figure of declining (declinandi) in reply. The question is the verbatim 'quaero an occideris hominem' (an indirect-question utterance), and the answer is explicitly marked by 'respondetur \"latronem\"'. The framing 'respondetur' is dropped as narration; the answering word 'latronem' is kept. Terminal punctuation normalized (added '?' to the question, '.' to the one-word answer). Stops before the next paired example ('\"an fundum occupaveris\"...')."
+    },
+    {
+      "locus": "Quintilian, Institutio Oratoria 9.2.12",
+      "type": "direct-speech",
+      "question": "An fundum occupaveris?",
+      "answer": "Meum.",
+      "derivation": "Second paired example in the same passage on declinandi. Question 'an fundum occupaveris' and answer marked by 'respondetur \"meum\"'. The framing 'respondetur' is dropped; the answering word 'meum' is kept. Terminal punctuation normalized. The following clause 'ut confessionem praecedat defensio' is Quintilian's explanation, not part of the exchange, so it is excluded."
+    },
+    {
+      "locus": "Quintilian, Institutio Oratoria 9.2.91",
+      "type": "direct-speech",
+      "question": "Occides ergo?",
+      "answer": "Si potero.",
+      "derivation": "Latro's cited example ('Latro igitur optime: \"Occides ergo? - Si potero\"') of softening a harsh statement: a direct question ('Will you kill, then?') genuinely answered ('If I can'). The framing 'Latro igitur optime' is dropped as narration of the speaking. Both utterances quoted verbatim; the dash separating speaker turns is dropped and terminal punctuation normalized. Stops before the next, separate example ('Remissius et pro suo ingenio pater Gallio...')."
+    }
+  ]
+}

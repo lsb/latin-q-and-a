@@ -1,0 +1,12 @@
+{
+  "source": "text/pliny.nh2.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Naturalis Historia 2.52",
+      "type": "authorial-rhetorical",
+      "question": "Cur enim partitis vicibus anni brumalis abscedit aut noctium opacitate terras reficit?",
+      "answer": "Exusturus haut dubie, et sic quoque exurens quadam in parte.",
+      "derivation": "Authorial rhetorical question (about the sun, subject established by the surrounding passage on solar magnitude) immediately self-answered. Dropped the section marker [52] and the introductory clause 'id quidem et tacitis naturae ipsius indiciis:' that precedes the question. Answer ends at the first full stop; the following flourish 'tanta magnitudo est.' restates the size point rather than answering the 'cur', so it is excluded. Capitalization of the first word of question and answer normalized."
+    }
+  ]
+}

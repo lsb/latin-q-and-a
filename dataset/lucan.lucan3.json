@@ -1,0 +1,12 @@
+{
+  "source": "text/lucan/lucan3.txt",
+  "pairs": [
+    {
+      "locus": "Lucan, Bellum Civile 3.38-40",
+      "type": "authorial-rhetorical",
+      "question": "Quid uani terremur imagine uisus?",
+      "answer": "Aut nihil est sensus animis a morte relictum aut mors ipsa nihil.",
+      "derivation": "Pompey, after Julia's ghost vanishes, poses a self-answered rhetorical question. The speech tag 'ait' (and the connective 'et' preceding the quotation) is framing and dropped; first word capitalized and a '?' set on the interrogative. The answer is his own immediate disjunctive resolution, ending at the full stop after 'nihil' (line 40); what follows ('Titan iam pronus in undas / ibat...') resumes narration of the sunset and is excluded."
+    }
+  ]
+}

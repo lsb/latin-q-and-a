@@ -1,0 +1,12 @@
+{
+  "source": "text/justin/12.txt",
+  "pairs": [
+    {
+      "locus": "Justin 12.15.8",
+      "type": "direct-speech",
+      "question": "Quem imperii faciat heredem?",
+      "answer": "Dignissimum.",
+      "derivation": "Section XV.8: 'Cum deficere eum amici viderent, quaerunt, quem imperii faciat heredem. Respondit ?dignissimum.' The friends ask whom Alexander makes his heir; he answers 'dignissimum' (the most worthy). Dropped the framing narration 'Cum deficere eum amici viderent, quaerunt' (the speech tag/setup of the asking) and 'Respondit' (speech tag for the reply). The embedded indirect question 'quem imperii faciat heredem' is the author's verbatim words, normalized to capital Q and terminal '?'. The answer 'dignissimum' is verbatim; the stray '?' before it is a conversion artifact (stripped), and capitalization/terminal stop normalized. This is a genuine interrogative genuinely answered."
+    }
+  ]
+}

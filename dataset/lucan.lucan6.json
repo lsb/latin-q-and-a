@@ -1,0 +1,12 @@
+{
+  "source": "text/lucan/lucan6.txt",
+  "pairs": [
+    {
+      "locus": "Lucan, Bellum Civile 6.590-619",
+      "type": "whole-speech-as-question",
+      "question": "O decus Haemonidum, populis quae pandere fata quaeque suo uentura potes deuertere cursu, te precor ut certum liceat mihi noscere finem quem belli fortuna paret. Non ultima turbae pars ego Romanae, Magni clarissima proles, uel dominus rerum uel tanti funeris heres. Mens dubiis perculsa pauet rursusque parata est certos ferre metus: hoc casibus eripe iuris, ne subiti caecique ruant. Uel numina torque uel tu parce deis et manibus exprime uerum. Elysias resera sedes ipsamque uocatam, quos petat e nobis, Mortem mihi coge fateri. Non humilis labor est: dignum, quod quaerere cures uel tibi, quo tanti praeponderet alea fati.",
+      "answer": "Sed, si praenoscere casus contentus, facilesque aditus multique patebunt ad uerum: tellus nobis aetherque chaosque aequoraque et campi Rhodopaeaque saxa loquentur.",
+      "derivation": "Sextus Pompeius's entire plea to the witch Erictho (the whole speech is one request to be told the war's outcome) is quoted verbatim as the question; the framing tag 'quam prior adfatur Pompei ignaua propago' (589) is dropped, and the speaker's name in line 591 is part of the utterance. Erictho's reply (605-624) opens with a non-answering conditional preamble about *changing* fate ('si fata minora moueres... plus Fortuna potest'), which does not answer his request to *know*; the answer's start is advanced to the operative sentence 'sed, si praenoscere casus contentus...' where she grants that the approaches to the truth lie open. The window ends at the full stop after 'loquentur' (line 619), before she digresses (620-624) into the comparative ease of raising a single corpse. The framing 'inquit' (606) is dropped."
+    }
+  ]
+}

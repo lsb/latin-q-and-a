@@ -1,0 +1,54 @@
+{
+  "source": "text/martial/mart6.txt",
+  "pairs": [
+    {
+      "locus": "Martial 6.51",
+      "type": "direct-speech",
+      "question": "Quid facies?",
+      "answer": "Quid faciam? Veniam.",
+      "derivation": "From the closing line 'Irascor: licet usque uoces mittasque rogesque \"Quid facies?\" inquis. Quid faciam? Veniam.' Lupercus's quoted interrogative 'Quid facies?' is the question; the framing tag 'inquis' is dropped. The poet answers in his own voice 'Quid faciam? Veniam' — the operative answer being 'Veniam'; kept the echoed 'Quid faciam?' contiguously since it immediately precedes and introduces the answer in source order. Nothing follows in the poem."
+    },
+    {
+      "locus": "Martial 6.53",
+      "type": "authorial-rhetorical",
+      "question": "Tam subitae mortis causam, Faustine, requiris?",
+      "answer": "In somnis medicum uiderat Hermocraten.",
+      "derivation": "Setup retained from the preceding couplet would help but the question is self-contained with its own noun 'subitae mortis causam'. The author poses the interrogative to Faustinus and answers it himself in the final line. The framing 'requiris' is part of the interrogative line and kept as it carries the question; capitalized 'In' as first word of the answer span. No brackets or scaffolding in either span."
+    },
+    {
+      "locus": "Martial 6.56",
+      "type": "authorial-rhetorical",
+      "question": "Quae ratio est?",
+      "answer": "Scis multos dicere multa: fac pedicari te, Charideme, putent.",
+      "derivation": "From line 5-6: '\"Quae ratio est?\" inquis. Scis multos dicere multa: fac pedicari te, Charideme, putent.' Charidemus's quoted question 'Quae ratio est?' with framing 'inquis' dropped. The poet's reply answers it; the whole reply is one contiguous answer to the first full stop. No interior ellipsis; no scaffolding."
+    },
+    {
+      "locus": "Martial 6.67",
+      "type": "authorial-rhetorical",
+      "question": "Cur tantum eunuchos habeat tua Caelia, quaeris, Pannyche?",
+      "answer": "Volt futui Caelia nec parere.",
+      "derivation": "The whole epigram: the author states Pannychus's question ('Cur tantum eunuchos habeat tua Caelia, quaeris, Pannyche?') and answers it himself. The framing 'quaeris' is kept since it is woven into the interrogative line; the address 'Pannyche' is retained as it identifies the asker. The second line is the direct, complete answer. No brackets or scaffolding."
+    },
+    {
+      "locus": "Martial 6.78",
+      "type": "authorial-rhetorical",
+      "question": "Exitum requiris?",
+      "answer": "Vinum Phryx, oculus bibit uenenum.",
+      "derivation": "From the closing lines 'Misceri sibi protinus deunces, sed crebros iubet. Exitum requiris? Vinum Phryx, oculus bibit uenenum.' The author poses the rhetorical question 'Exitum requiris?' and answers with the final line giving the outcome. Boundaries: question is the lone interrogative; answer is the contiguous final clause. No scaffolding; no editorial brackets."
+    },
+    {
+      "locus": "Martial 6.82",
+      "type": "direct-speech",
+      "question": "Cur ergo habes malas lacernas?",
+      "answer": "Quia sum malus poeta.",
+      "derivation": "From lines 9-10: '\"Cur ergo\" inquit \"habes malas lacernas?\" Respondi: \"quia sum malus poeta.\"' The interlocutor's question is reassembled from his own contiguous quoted words 'Cur ergo... habes malas lacernas?' with only the inserted framing tag 'inquit' dropped (his utterance is otherwise contiguous and in source order). The poet's reply 'quia sum malus poeta' directly answers it; framing 'Respondi' dropped, first word capitalized. No scaffolding or brackets."
+    },
+    {
+      "locus": "Martial 6.88",
+      "type": "authorial-rhetorical",
+      "question": "Quanta libertas constet mihi tanta requiris?",
+      "answer": "Centum quadrantes abstuli illa mihi.",
+      "derivation": "From lines 3-4. The author poses the question to Caecilianus (with framing 'requiris' kept within the interrogative line) and answers it in the final line. The answer states the concrete cost of the addressed freedom, genuinely answering 'how much does it cost me'. No scaffolding or brackets."
+    }
+  ]
+}

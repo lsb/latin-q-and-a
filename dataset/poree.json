@@ -1,0 +1,26 @@
+{
+  "source": "text/poree.txt",
+  "pairs": [
+    {
+      "locus": "Porée, Caecus Amor, Scena XI",
+      "type": "direct-speech",
+      "question": "Scisne qua de causa vocari te jusserim?",
+      "answer": "Nequaquam, pater carissime.",
+      "derivation": "Patricius asks Eugenius whether he knows why he was summoned; Eugenius answers 'Nequaquam' (no). Answer ends at the first full stop after 'pater carissime'; the rest ('sed aiunt te profecturum hodie... An licebit Eugenio te comitari tantulum?') turns from answering to a new request/question and is cut. Speaker labels (PATRICIUS, EUGENIUS) and scene marker stripped."
+    },
+    {
+      "locus": "Porée, Caecus Amor, Scena XIII",
+      "type": "direct-speech",
+      "question": "Dyscolopatrem adivi, et vidi, luctu perditum inveni. Quae causa luctus?",
+      "answer": "Filium immerentem, ut aufugeret domo, inclementia pepulit sua.",
+      "derivation": "Irenaeus's own preceding sentence ('Dyscolopatrem adivi... luctu perditum inveni') is kept as setup so that 'luctus' has a referent, then Patricius's interrogative 'Quae causa luctus?' is the operative question. Irenaeus answers with the cause (he drove out his innocent son). Speaker labels (IRENAEUS, PATRICIUS) and scene marker stripped. No trimming needed on the answer."
+    },
+    {
+      "locus": "Porée, Caecus Amor, Scena XIX",
+      "type": "direct-speech",
+      "question": "Patre irato fruar, sed absente. Quid ita?",
+      "answer": "Paulo antequam in viam se daret pater, vocavit me, et minaci voce para te, inquit, ad proficiscendum. Quo me mittis, inquam? Eo, respondit ille, unde neque facilis, neque promptus sit reditus.",
+      "derivation": "Eugenius's own line 'Patre irato fruar, sed absente' is kept as setup so 'Quid ita?' (Philotas's interrogative, why so) has a referent. Eugenius answers by explaining the father summoned him and ordered him to leave for a place whence return is neither easy nor ready (i.e. exile). The embedded 'Quo me mittis, inquam? Eo, respondit ille...' is Eugenius's own contiguous narration, kept verbatim. Speaker labels (EUGENIUS, PHILOTAS) and scene marker stripped."
+    }
+  ]
+}

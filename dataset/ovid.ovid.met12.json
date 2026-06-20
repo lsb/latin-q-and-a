@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.met12.txt",
+  "pairs": [
+    {
+      "locus": "Metamorphoses 12.87-96",
+      "type": "authorial-rhetorical",
+      "question": "Quid a nobis vulnus miraris abesse?",
+      "answer": "Non haec, quam cernis, equinis fulva iubis cassis neque onus, cava parma, sinistrae auxilio mihi sunt: decor est quaesitus ab istis; Mars quoque ob hoc capere arma solet! removebitur huius tegminis officium: tamen indestrictus abibo; est aliquid non esse satum Nereide, sed qui Nereaque et natas et totum temperat aequor.",
+      "derivation": "Cycnus poses a rhetorical question to Achilles and answers it himself within the same speech. Dropped the speech tag 'inquit ille' and the parenthetical narration '(mirabatur enim.)' that sits between the question and the answer. The question is the interrogative 'quid a nobis vulnus miraris abesse?' (capitalized, terminal '?' kept). The answer is the contiguous remainder of Cycnus's utterance, beginning 'non haec...' (denying his armor protects him) and running to the operative point '...temperat aequor' (he is descended not merely from a Nereid but from Neptune who rules the sea). No interior ellipsis; the Mars/tegmen sentences are kept because they are contiguous within the answering span. Cut nothing after 'temperat aequor'; what follows is narration 'dixit et haesurum clipei curvamine telum misit...'."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/sen/sen.apoc.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Apocolocyntosis 13",
+      "type": "direct-speech",
+      "question": "Quomodo huc venistis vos?",
+      "answer": "Quis enim nos alius huc misit quam tu, omnium amicorum interfector?",
+      "derivation": "Claudius, on meeting his dead victims in the underworld, asks how they got there; the framing 'exclamat' and the Greek 'panta philon plere' preceding the question are dropped. Pedo Pompeius replies; his opening 'Quid dicis, homo crudelissime? Quaeris, quomodo?' is a non-answering deflection/restatement, so the answer's start is advanced to the operative sentence 'Quis enim nos alius huc misit quam tu...' which answers 'how' (Claudius himself sent them). Ends at the full stop before 'In ius eamus...'."
+    }
+  ]
+}

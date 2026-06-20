@@ -1,0 +1,19 @@
+{
+  "source": "text/pauldeacon/fabulae.txt",
+  "pairs": [
+    {
+      "locus": "Paul the Deacon, Fabulae 1 (Leo aeger, vulpis et ursus), 57-62",
+      "type": "direct-speech",
+      "question": "Si vera refers, dulcissima vulpis, dic mihi, quid citius dixerit hic medicus?",
+      "answer": "Ursino si te possum circumdare tergo, non mora, languor abit sanaque vita redit.",
+      "derivation": "The lion (rex) genuinely asks the fox to report what the doctor prescribed (interrogative 'quid... dixerit'). I dropped the speech tag 'Rex quoque ait:'. The fox's reply opens with the non-answering preamble 'Cautius haec famulae suscipe verba tuae' (an exhortation to listen, not an answer), so per the skip-preamble rule I advanced the answer's start to the operative answering sentence 'Ursino si te possum circumdare tergo, non mora, languor abit sanaque vita redit' — the actual prescription. After this the narration resumes ('Continuo iussu domini distenditur ursus')."
+    },
+    {
+      "locus": "Paul the Deacon, Fabulae 2 (Vitellus et ciconia), 78-81",
+      "type": "direct-speech",
+      "question": "Io frater, cur tristis pectore mugis, vel cur turbatus florida rura teris?",
+      "answer": "Soror, est iam tertia nunc lux, quod lac non tetigi et famulentus eo.",
+      "derivation": "The stork asks the calf why he is sad (double interrogative 'cur... cur'); I dropped the speech tag 'dicit'. The calf's reply directly answers the cause: it is the third day he has had no milk and goes hungry. I dropped the framing 'Cui sic respondit:'; 'Soror' is the calf's own vocative within the utterance and is kept contiguous. The answer ends at the full stop; what follows is the stork's next speech ('Verba refert ales...')."
+    }
+  ]
+}

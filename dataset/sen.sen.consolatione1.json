@@ -1,0 +1,26 @@
+{
+  "source": "text/sen/sen.consolatione1.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Ad Polybium de Consolatione 9",
+      "type": "authorial-rhetorical",
+      "question": "Quid itaque eius desiderio maceror, qui aut beatus aut nullus est?",
+      "answer": "Beatum deflere invidia est, nullum dementia.",
+      "derivation": "Inside the quoted self-interrogation Seneca tells Polybius to put to himself. The interrogative 'Quid... maceror, qui aut beatus aut nullus est?' is directly answered by the next sentence, which explains why such grief is wrong: weeping for the blessed (beatum) is envy, for the non-existent (nullum) madness. The question carries its own setup (aut beatus aut nullus est) supplying the referents Beatum/nullum. Answer ends at the full stop before the closing quote and 'An hoc te movet...'."
+    },
+    {
+      "locus": "Seneca, Ad Polybium de Consolatione 9",
+      "type": "authorial-rhetorical",
+      "question": "Miserum putas, quod ista amisit, an beatum, quod non desiderat?",
+      "answer": "Mihi crede, is beatior est, cui fortuna supervacua est, quam is, cui parata est.",
+      "derivation": "Disjunctive interrogative (utrum miserum an beatum), genuinely answered by the following sentence siding with 'beatum': the brother is more blessed (beatior) for whom fortune is superfluous. Question begins at 'Miserum' (capitalization normalized from mid-sentence 'miserum'); answer is the single sentence to the first full stop, stopping before 'Omnia ista bona...' which digresses into a general indictment of Fortune's goods."
+    },
+    {
+      "locus": "Seneca, Ad Polybium de Consolatione 9",
+      "type": "authorial-rhetorical",
+      "question": "Omnibus illo nobis commune est iter: quid fata deflemus?",
+      "answer": "Non reliquit ille nos sed antecessit.",
+      "derivation": "Included the preceding clause 'Omnibus illo nobis commune est iter' as verbatim setup so 'quid fata deflemus?' is intelligible (the journey is common to all). The interrogative is answered by 'Non reliquit ille nos sed antecessit' (he has not left us but gone before), removing the reason to weep. Answer stops at that full stop, before 'Est, mihi crede, magna felicitas...' which elaborates."
+    }
+  ]
+}

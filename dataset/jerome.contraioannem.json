@@ -1,0 +1,26 @@
+{
+  "source": "text/jerome/contraioannem.txt",
+  "pairs": [
+    {
+      "locus": "Contra Ioannem 36",
+      "type": "direct-speech",
+      "question": "Animae, an carnis resurrectionem dicis?",
+      "answer": "Non solius animae, sed carnis, quae cum anima renascitur in lavacro.",
+      "derivation": "Direct exchange between Jerome and a man from Marcion's school. Speaker dashes and the speech tag 'Respondit:' are stripped as scaffolding. Question is a genuine interrogative (an...). Answer is the responder's full sentence, which directly answers (flesh, not soul alone). Stops at the full stop before the next question."
+    },
+    {
+      "locus": "Contra Ioannem 36",
+      "type": "direct-speech",
+      "question": "Et quomodo peribit, quae in Christo renata est?",
+      "answer": "Quia scriptum est: Caro et sanguis regnum Dei non possidebunt.",
+      "derivation": "Continuation of the same dialogue. Speaker dashes and the inline speech tag 'ait' are dropped; the scaffolding footnote marker [97] after 'possidebunt' is stripped. Answer ends at the first full stop; the following 'Attende, obsecro te...' begins an extended elaboration on why they will not possess (non perire/possidere), which is digression, so it is cut."
+    },
+    {
+      "locus": "Contra Ioannem 34",
+      "type": "authorial-rhetorical",
+      "question": "Quare favum comedit Dominus?",
+      "answer": "Ut resurrectionem probaret.",
+      "derivation": "Jerome poses a question and answers it himself. Answer ends at the operative clause; the following 'non ut tuis faucibus mella permitteret' is an antithetical rhetorical flourish, not part of the direct answer, so it is cut."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source": "text/justinian/digest32.txt",
+  "pairs": [
+    {
+      "locus": "Digest 32.52.4 (Ulpianus 24 ad Sab.)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo, si quis chartas legaverit puras?",
+      "answer": "Membranae non continebuntur neque ceterae ad scribendum materiae, sed nec coepti scribi libri.",
+      "derivation": "Ulpian poses the question himself and answers it. Question is the verbatim interrogative 'quid ergo, si quis chartas legaverit puras?'; first word capitalized. Answer is the immediately following full sentence, which directly states what is not included when blank charta is bequeathed. Nothing trimmed; the preceding clauses (about chartae purae not being owed for libri legati, etc.) are setup discussion, not part of this Q&A."
+    },
+    {
+      "locus": "Digest 32.70.8 (Ulpianus 22 ad Sab.)",
+      "type": "authorial-rhetorical",
+      "question": "Sed et pelles lanatae contineantur?",
+      "answer": "Et hoc lanae cedere manifestum est.",
+      "derivation": "Self-contained sentence in the run on 'lana legata'. Deliberative-subjunctive interrogative 'contineantur' = 'are woolly hides also included?'; answered directly by 'et hoc lanae cedere manifestum est' ('it is clear that this too falls to the wool-legacy'). Both clauses are verbatim and contiguous; only first-word capitalization normalized."
+    },
+    {
+      "locus": "Digest 32.73.3 (Ulpianus 20 ad Sab.)",
+      "type": "authorial-rhetorical",
+      "question": "Proinde si quis servos habuit proprios, sed quorum operas locabat vel pistorias vel histrionicas vel alias similes, an servorum appellatione etiam hos legasse videatur?",
+      "answer": "Quod et praesumi oportet, nisi contraria voluntas testatoris appareat.",
+      "derivation": "Ulpian states the full hypothetical and the interrogative 'an ... videatur?' in one verbatim sentence (the whole scenario is needed for 'hos' to have a referent, so the question window includes it). The answer is the immediately following full sentence answering yes-with-qualification. First-word capitalization normalized; nothing cut."
+    },
+    {
+      "locus": "Digest 32.103.2 (Scaevola l.S. quaest. publ. tract.)",
+      "type": "authorial-rhetorical",
+      "question": "Si filius ex uncia heres institutus sit et ab eo legata data sint, habeat et substitutum, deinde commisso edicto per alium filium accepit partis dimidiae bonorum possessionem: substitutus eius utrum ex uncia legata praestat an vero ex semisse?",
+      "answer": "Et verius est ex semisse sed ex uncia omnibus ex reliquis liberis et parentibus.",
+      "derivation": "Setup is widened to include the whole conditional scenario so 'substitutus eius', 'ex uncia' and 'ex semisse' have referents; all verbatim and contiguous up to the disjunctive interrogative 'utrum ... an vero ex semisse?'. The answer is the single following sentence resolving the disjunction ('ex semisse'); the 'sed ex uncia...' clause completes the same sentence (the apportionment) and is not a digression, so it is kept. First-word capitalization normalized."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "source": "text/plautus/persa.txt",
+  "pairs": [
+    {
+      "locus": "Persa 1.i (Sagaristio-Toxilus greeting)",
+      "type": "direct-speech",
+      "question": "Vt vales?",
+      "answer": "Vt queo.",
+      "derivation": "Sagaristio asks 'ut vales?' (line 42); Toxilus answers 'Vt queo.' (the speech tag TOX. dropped, first word capitalized). The answer stops at the full stop before Sagaristio's next question 'Quid agitur?'."
+    },
+    {
+      "locus": "Persa 1.i (Sagaristio-Toxilus greeting)",
+      "type": "direct-speech",
+      "question": "Quid agitur?",
+      "answer": "Vivitur.",
+      "derivation": "Sagaristio asks 'Quid agitur?' and Toxilus answers 'Vivitur.' (line 42). Speech tag TOX. dropped; answer is a single word, full stop kept."
+    },
+    {
+      "locus": "Persa 1.i (Sagaristio-Toxilus)",
+      "type": "direct-speech",
+      "question": "Satin ergo ex sententia?",
+      "answer": "Si eveniunt quae exopto, satis.",
+      "derivation": "Sagaristio asks whether things are satisfactory; Toxilus answers conditionally (line 43). Speech tags SAG./TOX. dropped. Answer ends at its full stop before Sagaristio's 'Nimis stulte amicis utere.'"
+    },
+    {
+      "locus": "Persa 1.i (Toxilus-Sagaristio)",
+      "type": "direct-speech",
+      "question": "Sed hoc me unum excruciat. Quidnam id est?",
+      "answer": "Haec dies summa hodie est, mea amica sitne libera, an sempiternam servitutem serviat.",
+      "derivation": "Toxilus' setup 'Sed hoc me unum excruciat' is kept (verbatim) so 'id' has a referent; Sagaristio's interrogative 'Quidnam id est?' follows (line 61). Toxilus' reply (lines 62-63) genuinely answers what torments him; the answer ends at the full stop before Sagaristio's 'Quid nunc vis ergo?'. Speech tags dropped."
+    },
+    {
+      "locus": "Persa 3.i (Saturio-Virgo)",
+      "type": "direct-speech",
+      "question": "Metuis, ne te vendam?",
+      "answer": "Non metuo, pater.",
+      "derivation": "Saturio's question 'metuis, ne te vendam?' (line 430); the dangling interjection 'Quid?' is dropped as framing and the first word capitalized. Virgo answers 'Non metuo, pater.'; the answer stops at the full stop before her continuation 'verum insimulari nolo.' Speech tags SAT./VIR. dropped."
+    },
+    {
+      "locus": "Persa 3.i (Saturio-Virgo)",
+      "type": "direct-speech",
+      "question": "Futura es dicto oboediens an non patri?",
+      "answer": "Futura.",
+      "derivation": "Saturio's alternative question (line 451); Virgo answers 'Futura.' (line 452). Speech tags dropped, single-word answer with full stop kept; the answer stops before Saturio's next question 'Scis iam tibi quae praecepi?'."
+    },
+    {
+      "locus": "Persa 3.i (Saturio-Virgo)",
+      "type": "direct-speech",
+      "question": "Scis iam tibi quae praecepi?",
+      "answer": "Omnia.",
+      "derivation": "Saturio asks whether she knows what he taught (line 452); Virgo answers 'Omnia.' Speech tags dropped. Answer stops before Saturio's next question 'Et ut surrupta fueris?'."
+    },
+    {
+      "locus": "Persa 4.iii (Dordalus-Virgo)",
+      "type": "direct-speech",
+      "question": "Vbi tu nata es?",
+      "answer": "Vt mihi mater dixit, in culina, in angulo ad laevam manum.",
+      "derivation": "Dordalus asks 'Vbi tu nata es?' (line 721); Virgo answers with the joke about the kitchen (lines 721-722). The inline verse number 630 dangling mid-line is stripped. Speech tags DOR./VIR. dropped; answer ends at its full stop."
+    }
+  ]
+}

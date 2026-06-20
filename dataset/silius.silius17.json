@@ -1,0 +1,12 @@
+{
+  "source": "text/silius/silius17.txt",
+  "pairs": [
+    {
+      "locus": "Silius Italicus, Punica 17.344-359",
+      "type": "direct-speech",
+      "question": "Qui te mentis edunt morsus? da noscere coniunx. num Poeni casus ducis et Carthaginis angit cura tuae?",
+      "answer": "Neque ego, haec mutare laborans quis est fixa dies, pendenti nube resedi, nec reuocare acies bellumue extendere quaero.",
+      "derivation": "Jupiter genuinely asks Juno what troubles her, with explicit interrogatives (qui te mentis edunt morsus?, num... angit cura tuae?). Kept his interrogative core (344-346) as the question; the speech tag 'sic ore effatus amico est' is dropped as framing, and his subsequent reflection/counsel (sed enim reputa tecum ipsa furores Sidonios... claudenda est ianua belli) is cut since the operative question is what ails her. Juno answers in direct speech (357ff., 'Tum supplex Iuno' dropped as framing): she clarifies she is not trying to change fixed fate nor recall the armies nor prolong the war. Answer ends at the first full stop (quaero), before she turns to stating her actual plea (quae donare potes... oro: tranare pericla magnanimum patiare ducem)."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source": "text/justinian/digest17.txt",
+  "pairs": [
+    {
+      "locus": "Digest 17.1.30 (Iulianus 13 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Si hominem tibi dedero, ut eum manumitteres, et postea procurator meus prohibuerit, ne manumitteres, an mandati agere possim, si tu eum manumiseris?",
+      "answer": "Si procurator iustam causam habuit interpellandi manumissionem servi, quem in hoc solum acceperam, ut manumitterem, veluti si compererit eum postea falsas rationes confecisse, insidias vitae prioris domini struxisse, tenebor, nisi denuntiationi procuratoris paruero.",
+      "derivation": "Direct question ending in '?' followed by 'respondi, ...'. Framing verb 'respondi' dropped; first answering word capitalized. Answer cut at the first full stop (after 'paruero'); what follows ('si vero nulla iusta causa procuratori fuit denuntiandi...') is the opposite case, elaboration beyond the direct answer."
+    },
+    {
+      "locus": "Digest 17.1.60.2 (Scaevola 1 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Duobus quis mandavit negotiorum administrationem: an unusquisque mandati iudicio in solidum teneatur?",
+      "answer": "Unumquemque pro solido conveniri debere, dummodo ab utroque non amplius debito exigatur.",
+      "derivation": "Setup 'Duobus quis mandavit negotiorum administrationem:' kept verbatim so 'unusquisque' has a referent. Framing 'quaesitum est,' before the question and 'respondi' before the answer dropped; first answer word capitalized. The whole section is the answer; no cut needed."
+    },
+    {
+      "locus": "Digest 17.2.14 (Ulpianus 30 ad sab.)",
+      "type": "authorial-rhetorical",
+      "question": "Si convenerit inter socios, ne intra certum tempus communis res dividatur, non videtur convenisse, ne societate abeatur. Quid tamen si hoc convenit, ne abeatur, an valeat?",
+      "answer": "Frustra hoc convenire.",
+      "derivation": "Preceding sentence kept verbatim so 'hoc convenit, ne abeatur' has a referent. Framing 'eleganter pomponius scripsit' before the answer dropped; first answer word capitalized. Answer is the colon-bounded operative reply; what follows ('nam et si non convenit, si tamen intempestive renuntietur...') elaborates and was cut."
+    },
+    {
+      "locus": "Digest 17.2.19 (Ulpianus 30 ad sab.)",
+      "type": "authorial-rhetorical",
+      "question": "Qui admittitur socius, ei tantum socius est qui admisit, et recte: cum enim societas consensu contrahatur, socius mihi esse non potest quem ego socium esse nolui. Quid ergo si socius meus eum admisit?",
+      "answer": "Ei soli socius est.",
+      "derivation": "Opening sentences kept verbatim so 'eum admisit' (an admitted partner) is intelligible. Question is the final interrogative of the section; answer is the closing clause that directly resolves it. No framing verb present; nothing cut after the answer (section ends)."
+    },
+    {
+      "locus": "Digest 17.2.62pr (Scaevola 6 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Cum controversia esset de hereditate defunctae inter scriptum heredem et patruum maevium et amitas, maevius litteris ad sorores suas factis declaravit commune futurum, quidquid ad eum ex eventu litis hereditariae pervenisset, neque stipulatio litteras secuta est: cum transegerit idem maevius cum scripto herede ita, ut praedia et aliae quaedam res ex ea transactione ad eum pervenirent, an ex litteris suis possit a sororibus conveniri?",
+      "answer": "Posse.",
+      "derivation": "Full factual setup kept verbatim so 'litteris suis' and 'sororibus' have referents. Framing 'quaesitum est,' before the question and 'respondit' before the answer dropped; the affirmative one-word reply 'posse' capitalized. The whole section is question plus answer; no cut needed."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/livy/liv.23.txt",
+  "pairs": [
+    {
+      "locus": "Livy 23.12",
+      "type": "direct-speech",
+      "question": "Quid est, Hanno? Etiam nunc paenitet belli suscepti aduersus Romanos?",
+      "answer": "Respondeam Himilconi non desisse paenitere me belli neque desiturum ante inuictum uestrum imperatorem incusare quam finitum aliqua tolerabili condicione bellum uidero.",
+      "derivation": "Himilco directly addresses and questions Hanno; framing 'inquit' dropped. Question kept to the two contiguous interrogative/vocative sentences ('Quid est, Hanno? Etiam nunc paenitet...?'); the following imperatives ('Iube dedi Hannibalem; ueta... agi; audiamus...') are taunts to the senate, not the question put to Hanno, so excluded. Hanno's reply opens with a non-answering preamble ('Tum Hanno: tacuissem hodie... alterum suae') which is skipped; the operative answering sentence is taken, with the speech tag 'inquit' (interrupting 'Respondeam Himilconi') dropped, and ends at the first full stop ('...uidero'); what follows ('nec mihi pacis antiquae desiderium...') elaborates and is cut."
+    }
+  ]
+}

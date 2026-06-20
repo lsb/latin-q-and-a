@@ -1,0 +1,47 @@
+{
+  "source": "text/plautus/pseudolus.txt",
+  "pairs": [
+    {
+      "locus": "Plautus, Pseudolus 35",
+      "type": "direct-speech",
+      "question": "Ubi ea est, opsecro?",
+      "answer": "Eccam in tabellis porrectam: in cera cubat.",
+      "derivation": "Calidorus asks where his girlfriend is (after Pseudolus says 'Tuam amicam video, Calidore'); Pseudolus answers she is there in the writing-tablets. Stripped speaker labels (CAL., PS.) and the inline verse number 35. Real interrogative answered directly."
+    },
+    {
+      "locus": "Plautus, Pseudolus 77",
+      "type": "direct-speech",
+      "question": "Quid ita?",
+      "answer": "Genus nostrum semper siccoculum fuit.",
+      "derivation": "Calidorus asks why so (Pseudolus had said he cannot squeeze out a tear); Pseudolus answers that his family was always dry-eyed. Stripped speaker labels. The 'why-because' relation is genuine: interrogative answered with a real reason."
+    },
+    {
+      "locus": "Plautus, Pseudolus 88-89",
+      "type": "direct-speech",
+      "question": "Sed quid ea drachuma facere vis?",
+      "answer": "Restim volo mihi emere.",
+      "derivation": "Pseudolus asks what Calidorus wants to do with the drachma he requested; Calidorus answers he wants to buy a rope. Stripped speaker labels and the line break. 'sed' is the author's connective (utterance, not a speech tag) so kept. Real interrogative answered directly. Did NOT extend into the follow-up 'Quam ob rem? / Qui me faciam pensilem' because that secondary question is too context-dependent to stand alone."
+    },
+    {
+      "locus": "Plautus, Pseudolus 348",
+      "type": "direct-speech",
+      "question": "Cur id ausu's facere?",
+      "answer": "Libuit, mea fuit.",
+      "derivation": "Calidorus asks Ballio why he dared sell the girl; Ballio answers it pleased him, she was his. Stripped speaker labels (CAL., BAL.). Stopped the answer before 'CAL. Eho, Pseudole...' which turns to a new action. Real interrogative answered directly."
+    },
+    {
+      "locus": "Plautus, Pseudolus 349",
+      "type": "direct-speech",
+      "question": "Quid opus gladio?",
+      "answer": "Qui hunc occidam atque me.",
+      "derivation": "Calidorus orders a sword brought; Pseudolus asks what need there is of a sword; Calidorus answers, so that he may kill Ballio and himself. Stripped speaker labels (PS., CAL.). Real interrogative answered with purpose clause."
+    },
+    {
+      "locus": "Plautus, Pseudolus 1067",
+      "type": "direct-speech",
+      "question": "Venitne homo ad te?",
+      "answer": "Non.",
+      "derivation": "Simo asks Ballio whether the man (Pseudolus's agent) came to him; Ballio answers no. Stripped speaker labels (SIM., BAL.) and the surrounding stichomythic 'Quid est?' tags. Yes/no interrogative answered with a complete negation."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "source": "text/justinian/digest35.txt",
+  "pairs": [
+    {
+      "locus": "Digest 35.1.28pr (Paulus)",
+      "type": "direct-speech",
+      "question": "Filiae suae ita quis legavit: \"Si attia filia mea arbitratu lucii titii nupserit, ei tot heres meus dato\". Titio ante testatorem mortuo attia nupserat: an legatum ei deberetur?",
+      "answer": "Deberi.",
+      "derivation": "The scenario (a conditional legacy 'if Attia marries by Titius's judgment'; Titius dies before the testator and Attia marries) is needed setup for the referent of 'legatum ei'. Dropped the framing verb 'quaerebatur' before the interrogative 'an legatum ei deberetur'. Answer is the jurist's reply, dropping the speech tag 'respondit'; 'deberi' capitalized."
+    },
+    {
+      "locus": "Digest 35.1.28.1 (Paulus)",
+      "type": "direct-speech",
+      "question": "\"Attia uxor mea optato philargyrum puerum, agatheam ancillam, qui mei erunt cum moriar\": is qui testamentum fecit agatheam, quam testamenti tempore habuit, vendidit et postea ancillas emit, ex his uni agatheae nomen imposuit: an haec legata videretur?",
+      "answer": "Legatam videri.",
+      "derivation": "Setup (the legacy formula and the facts about selling Agathea and naming a later slave-girl Agathea) is needed so 'haec' has a referent. Dropped 'quaesitum est' framing before 'an haec legata videretur'. Answer drops the speech tag 'respondit'; 'legatam' capitalized."
+    },
+    {
+      "locus": "Digest 35.1.33.4 (Marcianus)",
+      "type": "authorial-rhetorical",
+      "question": "Si quis ita scripserit: \"Stichum et pamphilum titio do lego, si mei erunt cum moriar\" et unum ex his alienaverit, an vel alter possit a legatario vindicari?",
+      "answer": "Placet vindicari.",
+      "derivation": "The author poses the case and the interrogative 'an vel alter possit a legatario vindicari?' and answers himself. Dropped the framing 'Quid ergo,' opening; began at 'Si quis'. Answer stops at the first full stop; what follows ('nam hunc sermonem... oportet accipi') is justifying elaboration, not the operative answer."
+    },
+    {
+      "locus": "Digest 35.1.36pr (Marcellus)",
+      "type": "direct-speech",
+      "question": "Publius maevius testamento suo ita cavit: \"Quisquis mihi heres heredesve erunt, do lego fideique eorum committo, uti dent gaio seio sororis meae filio in honorem consulatus quadringenta\": vivo maevio seius consul designatus est et munus edidit: deinde ex calendis ianuariis consulatum ingressus est atque ita maevius decessit: an quadringenta seio debeantur?",
+      "answer": "Deberi.",
+      "derivation": "The full testamentary scenario is needed setup so 'quadringenta seio' has its referents. Dropped 'quaero' framing before 'an quadringenta seio debeantur'. Answer drops the speech tag 'Marcellus respondit' and the trailing comma; 'deberi' capitalized."
+    },
+    {
+      "locus": "Digest 35.1.85 (Scaevola)",
+      "type": "direct-speech",
+      "question": "Titia heredis instituti liberos habentis filii fidei commisit, uti rem eius universam restitueret filiis eius liberisve eorum, cum ipsi petissent, sine ulla iuris cavillatione: an his verbis \"cum illi a te petierint\" condicio fideicommisso adscripta videatur?",
+      "answer": "Non videri.",
+      "derivation": "The trust scenario is needed setup so 'his verbis' has its referent. Dropped 'quaero' framing before the interrogative. Answer drops the speech tag 'respondit'; 'non' capitalized."
+    },
+    {
+      "locus": "Digest 35.1.97 (Paulus ad Neratium)",
+      "type": "authorial-rhetorical",
+      "question": "Municipibus, si iurassent, legatum est. Quemadmodum ergo pareri potest per eos?",
+      "answer": "Itaque iurabunt, per quos municipii res geruntur.",
+      "derivation": "Kept the setup 'Municipibus, si iurassent, legatum est' (verbatim) so 'eos' has a referent. Dropped the intervening sentence 'haec condicio non est impossibilis' and the speaker-label 'paulus.' as scaffolding before the author's own question 'Quemadmodum ergo pareri potest per eos?', which the author then answers himself."
+    },
+    {
+      "locus": "Digest 35.1.108 (Scaevola)",
+      "type": "direct-speech",
+      "question": "Libertis omnibus legavit domum et haec verba adiecit: \"Ut in ea habitent liberti, ne de nomine exeat et ut ad unum, qui novissimus exstiterit, perveniat: et eo amplius eisdem libertis meis dari volo fundum sosianum\". An condicio adposita, ne de nomine exiret, ad sequens quoque legatum pertineret?",
+      "answer": "Pertinere.",
+      "derivation": "The legacy and its appended words are needed setup so 'condicio adposita' and 'sequens legatum' have referents. Dropped 'quaesitum est' framing before 'an condicio... pertineret'. Answer drops the speech tag 'respondit'; 'pertinere' capitalized."
+    },
+    {
+      "locus": "Digest 35.1.109 (Scaevola)",
+      "type": "direct-speech",
+      "question": "A testatore rogatus, ut acceptis centum nummis restitueret hereditatem titiae coheredi suae, adita hereditate decessit: similiter et titia, antequam daret centum: an heres titiae offerendo centum fideicommisso partem hereditatis consequi possit?",
+      "answer": "Heredem condicioni parere non posse.",
+      "derivation": "The scenario (heir asked to restore on receipt of 100, both parties dying before payment) is needed setup. Dropped 'quaesitum est' framing before the interrogative. Answer drops the speech tag 'respondit'; took the operative reply and capitalized 'heredem'. The following Claudius gloss is omitted as separate commentary."
+    },
+    {
+      "locus": "Digest 35.2.25.1 (Scaevola)",
+      "type": "direct-speech",
+      "question": "A liberto, cui fundum legaverat, per fideicommissum seiae annua decem dedit: si lex falcidia liberti legatum minuerit, an seiae quoque annuum fideicommissum minutum videatur, cum reditus largiatur annuam praestationem?",
+      "answer": "Secundum ea quae proponerentur non videri minutum, nisi alia mens testatoris probetur.",
+      "derivation": "The scenario (annual trust charged on a freedman's legacy) is needed setup. Dropped 'quaesitum est' framing before the interrogative. Answer drops the speech tag 'respondit' and is kept contiguous through its full stop."
+    },
+    {
+      "locus": "Digest 35.2.26.1 (Scaevola)",
+      "type": "direct-speech",
+      "question": "An pretium statuarum falcidiam pati debeat?",
+      "answer": "Debere.",
+      "derivation": "Self-contained general legal question. Dropped 'Quaesitum est' framing before 'an pretium statuarum falcidiam pati debeat'. Answer drops the speech tag 'respondit'; 'debere' capitalized."
+    }
+  ]
+}

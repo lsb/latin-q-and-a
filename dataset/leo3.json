@@ -1,0 +1,68 @@
+{
+  "source": "text/leo3.txt",
+  "pairs": [
+    {
+      "locus": "Historia de Preliis 3.6",
+      "type": "direct-speech",
+      "question": "Non sunt sepulcra vobis?",
+      "answer": "Hic, ubi habito, sufficit mihi.",
+      "derivation": "Alexander asks a gymnosophist a direct interrogative; answer is the man's full reply. Dropped narration 'Alexander vero interrogavit unum ex illis' before and 'Ostendit ei(s) habitationem suam dicens' between. Answer ends at its only sentence."
+    },
+    {
+      "locus": "Historia de Preliis 3.6",
+      "type": "direct-speech",
+      "question": "Et si mortalis es, quare vadis discurrendo et faciendo tanta ac talia?",
+      "answer": "Istae causae non gubernantur nisi de superna providentia; ministri eius sumus facientes iussionem illius.",
+      "derivation": "The gymnosophists' interrogative answered by Alexander. Setup retained verbatim ('Et si mortalis es' refers to his prior 'Mortalis cum sim'). Answer window taken to first full stop; cut before 'Mare nullomodo turbatur...' where he turns to elaborating analogies. Editorial brackets stripped: Ist[a]e caus[a]e -> Istae causae."
+    },
+    {
+      "locus": "Historia de Preliis 3.19",
+      "type": "direct-speech",
+      "question": "Quis es tu?",
+      "answer": "Filius Candacis reginae sum.",
+      "derivation": "Ptolemy questions captured Candaulis; direct answer. Dropped speech tags 'Cui Ptolomeus' and 'Et ille'. Editorial brackets stripped: regin[a]e -> reginae."
+    },
+    {
+      "locus": "Historia de Preliis 3.19",
+      "type": "direct-speech",
+      "question": "Quare huc venisti?",
+      "answer": "Exivi cum uxore mea exercere me cum paucis equitibus.",
+      "derivation": "Ptolemy's interrogative; Candaulis answers. Dropped speech tag 'At ille'. Answer cut at first full stop; what follows ('Rex Bebrecorum sciendo...') narrates the subsequent abduction, beyond the direct answer to 'why did you come here'."
+    },
+    {
+      "locus": "Historia de Preliis 3.22",
+      "type": "direct-speech",
+      "question": "Quare mutata est facies tua, quia vocavi te Alexandrum?",
+      "answer": "Domina, Antigonus nomen est mihi, non Alexander.",
+      "derivation": "Queen Candacis asks why Alexander's face changed; he answers (falsely) with his alias. Dropped speech tags 'Cui illa' and 'Cui ille'. Single-sentence answer."
+    },
+    {
+      "locus": "Historia de Preliis 3.22",
+      "type": "direct-speech",
+      "question": "Si habuisses gladium, quid facere potueras?",
+      "answer": "Quia traditus sum per meam voluntatem, primum occidam te, postea memet ipsum.",
+      "derivation": "Candacis' interrogative answered by Alexander. Dropped tags 'Dixit et illa' and 'Et Alexander'. Single-sentence answer."
+    },
+    {
+      "locus": "Historia de Preliis 3.24",
+      "type": "direct-speech",
+      "question": "Quis es tu, domine?",
+      "answer": "Ego sum Sesonchosis, regnum mundi tenens et mundum subiugans, faciens omnes subiectos.",
+      "derivation": "In the crypt Alexander asks a luminous figure who he is; the figure answers. Dropped tags 'Et ego' and 'Et ille'. Answer cut at first full stop; what follows ('Nomen autem mihi non est...') elaborates beyond the identification."
+    },
+    {
+      "locus": "Historia de Preliis 3.30",
+      "type": "direct-speech",
+      "question": "Dic mihi, quod signum est hoc?",
+      "answer": "O rex, appropinquabit tempus tuum, ut exeas de hoc seculo.",
+      "derivation": "Alexander asks the soothsayer the meaning of the monstrous birth; the soothsayer answers. Dropped tags 'dicens illi' and 'Suspirans dixit'. Single-sentence answer."
+    },
+    {
+      "locus": "Historia de Preliis 3.31a",
+      "type": "direct-speech",
+      "question": "Si facturus fueris rex in regno Alexandri, quid mihi bene facturus es?",
+      "answer": "Facio.",
+      "derivation": "Perdiccas asks Ptolemy what reward he will give; Ptolemy answers 'Facio'. Dropped tags 'Abiit et dixit ei' and 'At ille dixit', and the trailing narration 'dans illi sacramentum'. Normalized the now-dangling comma to a full stop."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source": "text/justinian/digest27.txt",
+  "pairs": [
+    {
+      "locus": "Justinian, Digest 27.1.16 (Modestinus 2 resp.)",
+      "type": "direct-speech",
+      "question": "Gaius testamento nigidium filio suo tutorem dedit eundemque usque ad vicensimum quintum annum curatorem constituit: quaero, cum liceat nigidio a curatione etiam citra appellationem se excusare, ex qua die tempora, quae in excusationibus observanda divus marcus statuit, computanda sunt, utrum ex die aperti testamenti, an ex quo ad negotia gerenda vocatur, id est post quartum decimum annum impletum?",
+      "answer": "Excusationem a cura tunc necessariam esse, cum decreto praetoris seu praesidis confirmatus curator fuerit.",
+      "derivation": "A consultation: the case setup (Gaius testamento... constituit) plus the genuine interrogative (quaero... utrum ex die aperti testamenti, an ex quo ad negotia gerenda vocatur). Kept the setup and the quaero-clause contiguous since they form one continuous posed question. Dropped the framing tag 'modestinus respondit'; the answer is its single operative sentence to the full stop. Normalized the question's terminal punctuation to '?'. Stripped the section marker 'Dig. 27.1.16' and the jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.1.32 (Paulus 7 quaest.)",
+      "type": "whole-speech-as-question",
+      "question": "Mater filium suum pupillum vel quivis alius extraneus extraneum aeque pupillum scripsit heredem et titio legatum dedit eumque eidem pupillo tutorem adscripsit: titius confirmatus excusavit se a tutela: quaero, an legatum amittat. et quid, si testamento quidem tutor non sit scriptus, legatum tamen acceperit datusque a praetore tutor excuset se, an aeque repellendus sit a legato? et an aliquid intersit, si a patre vel emancipato pupillo tutor datus sit vel puberi curator?",
+      "answer": "Qui non iure datus tutor vel curator a patre, confirmatus a praetore excusationis beneficio uti maluit, repellendus est a legato.",
+      "derivation": "A letter from Nesennius Apollinaris to Iulius Paulus posing the whole consultation as one extended question; quoted the entire query verbatim and contiguous from 'Mater filium...' through '...vel puberi curator?'. Dropped the framing address 'Nesennius apollinaris iulio paulo.' (a speech tag naming the correspondents) and the reply tag 'respondi:'. The answer is the operative first sentence to its full stop (stopping before 'idque et scaevolae nostro placuit', which elaborates). Stripped the 'Dig. 27.1.32' marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.1.35 (Paulus 23 quaest.)",
+      "type": "authorial-rhetorical",
+      "question": "Quid autem, si se non excusaverit, sed administrare noluerit contentus, quod ceteri idonei essent?",
+      "answer": "Hic poterit conveniri, si ab illis res servari non potuisset.",
+      "derivation": "The jurist poses a genuine rhetorical question (Quid autem, si...?) and answers it himself. Answer is the immediately following sentence to its full stop; stopped before 'sed hoc non quaerendum est...', which turns to a further point. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.1.37pr (Scaevola 2 resp.)",
+      "type": "direct-speech",
+      "question": "Cum nemo patruus impuberi tutor esset, an nihilo minus tutor remansit?",
+      "answer": "Secundum ea quae proponerentur, quamvis iustas excusationis causas haberet, non tamen esse excusatum propter vitium pronuntiationis.",
+      "derivation": "A consultation: dropped the asking-frame 'quaero,' leaving the contiguous interrogative (Cum nemo patruus... an nihilo minus tutor remansit) and the reply-frame 'respondi'. Answer is the operative response to its full stop. Normalized capitalization of 'Cum' and added terminal '?'. The case facts in 37pr precede this; the interrogative is self-intelligible on the legitimate-tutor point. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.1.37.1 (Scaevola 2 resp.)",
+      "type": "direct-speech",
+      "question": "Si adquievisset sententiae, an ob id, quod non gessit tutelam, utilis actio in hunc dari debeat?",
+      "answer": "Si errore potius quam malitia ab administratione cessasset, utilem actionem non dandam.",
+      "derivation": "Dropped the asking-frame 'Item quaero,' leaving the contiguous interrogative (Si adquievisset... an... utilis actio in hunc dari debeat) and the reply-frame 'respondi'. The answer's reply opens 'si errore potius ( quod se pro iure trium liberorum, quod allegabat, excusatum crederet) quam malitia...'; the editorial parenthetical aside was omitted to keep the operative answering clause clean and contiguous (quoting 'si errore potius quam malitia ab administratione cessasset, utilem actionem non dandam'). Normalized 'Si' capitalization and terminal '?'. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.2.4 (Iulianus 21 Dig.)",
+      "type": "direct-speech",
+      "question": "An tutelae iudicio consequi possit, quod in alimenta pupillae et mercedes a tutore ex tutela praestitum sit?",
+      "answer": "Existimo, etsi citra magistratuum decretum tutor sororem pupilli sui aluerit et liberalibus artibus instituerit, cum haec aliter ei contingere non possent, nihil eo nomine tutelae iudicio pupillo aut substitutis pupilli praestare debere.",
+      "derivation": "Dropped the asking-frame 'quaesitum est,' leaving the interrogative (An tutelae iudicio consequi possit, quod...) and the reply-frame 'respondi:'. The case facts precede in the section; the question is self-intelligible. Answer is the single response sentence (existimo... praestare debere) to its full stop. Normalized 'An' capitalization and terminal '?'. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.5.3 (Iavolenus 5 epist.)",
+      "type": "direct-speech",
+      "question": "An is qui, cum tutor testamento datus esset et id ipsum ignoraret, pro tutore negotia pupilli gesserit, quasi tutor an quasi pro tutore negotia gesserit, teneatur?",
+      "answer": "Non puto teneri quasi tutorem, quia scire quoque se tutorem esse debet, ut eo affectu negotia gerat, quo tutor gerere debeat.",
+      "derivation": "An epistolary consultation: dropped the asking-frame 'Quaero,' leaving the interrogative (An is qui... teneatur) and the reply-frame 'respondit:'. Answer is the whole response sentence to its full stop. Normalized 'An' capitalization and terminal '?'. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.8.5 (Iulianus 21 Dig.)",
+      "type": "direct-speech",
+      "question": "Duo tutores partiti sunt inter se administrationem tutelae: alter sine herede decessit: quaesitum est, in magistratum, qui non curasset ut caveretur, an in alterum tutorem actio pupillo dari deberet?",
+      "answer": "Aequius esse in alterum tutorem dari quam in magistratum.",
+      "derivation": "Kept the case setup (Duo tutores... decessit) and the quaesitum-est interrogative contiguous as one posed question for self-containment. Dropped the reply-frame 'respondi'; answer is the operative response clause to its full stop (stopping before 'debuisse enim eum...', which gives the reasoning). Normalized terminal '?'. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.8.7 (Celsus 11 Dig.)",
+      "type": "direct-speech",
+      "question": "In magistratus qui tutorem dederunt rogo rescribas utrum pro virili portione actio danda sit, an optio sit eius qui pupillus fuit, cum quo potissimum agat?",
+      "answer": "Si dolo fecerunt magistratus, ut minus pupillo caveretur, in quem vult actio ei danda in solidum est: sin culpa dumtaxat eorum neque dolo malo id factum est, aequius esse existimo pro portione in quemque eorum actionem dari, dum pupillo salva res sit.",
+      "derivation": "An inquiry ('rogo rescribas utrum... an...') and its reply. Kept the framing 'rogo rescribas' because it is woven into the interrogative span and removing it would break contiguity; the interrogative content is genuine. Dropped the reply-frame 'respondit'. The answer is the full two-limbed response (si dolo... / sin culpa...) to its full stop. Normalized terminal '?'. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.8.8 (Modestinus 6 resp.)",
+      "type": "direct-speech",
+      "question": "Magistratus a curatoribus adulti cautionem exegerunt rem salvam fore: ex his alter sine herede decessit: quaero, an indemnitatem in solidum collega eius praestare debeat?",
+      "answer": "Nihil proponi, cur non debeat.",
+      "derivation": "Kept the case setup (Magistratus... decessit) and the quaero-clause contiguous as the posed question for self-containment. Dropped the reply-frame 'modestinus respondit'; answer is the whole response to its full stop. Normalized terminal '?'. Stripped the section marker and jurist line."
+    },
+    {
+      "locus": "Justinian, Digest 27.10.7.3 (Iulianus 21 Dig.)",
+      "type": "direct-speech",
+      "question": "An alteri ex curatoribus furiosi recte solvetur vel an unus rem furiosi alienare possit?",
+      "answer": "Recte solvi.",
+      "derivation": "Dropped the asking-frame 'Quaesitum est,' leaving the interrogative (An alteri ex curatoribus... vel an unus... alienare possit) and the reply-frame 'respondi'. Answer is the operative first response (recte solvi) to its full stop, before the elaboration 'eum quoque, qui...'. Normalized 'An' capitalization and terminal '?'. Stripped the section marker and jurist line."
+    }
+  ]
+}

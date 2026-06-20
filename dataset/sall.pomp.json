@@ -1,0 +1,12 @@
+{
+  "source": "text/sall.pomp.txt",
+  "pairs": [
+    {
+      "locus": "Sallust, Historiae, Epistula Cn. Pompei ad senatum 6",
+      "type": "authorial-rhetorical",
+      "question": "Quid deinde proelia aut expeditiones hibernas, oppida excisa aut recepta enumerem?",
+      "answer": "Quando res plus valet quam verba: castra hostium apud Sucronem capta et proelium apud flumen Turiam et dux hostium C. Herennius cum urbe Valentia et exercitu deleti satis clara vobis sunt.",
+      "derivation": "Pompey poses a rhetorical question (why should I enumerate the battles, winter campaigns, towns destroyed or recaptured?) and answers it himself: because deeds count more than words, the concrete victories are clear enough. Stripped the section marker '6' from the question and '7' from after the answer. Answer ends at the first full stop ('satis clara vobis sunt'); the following 'pro quis, o grati patres, egestatem et famem redditis' turns from answering to a fresh reproach and is cut."
+    }
+  ]
+}

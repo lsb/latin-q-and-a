@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.met4.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Metamorphoses 4.336-338",
+      "type": "direct-speech",
+      "question": "Desinis, an fugio tecumque ista relinquo?",
+      "answer": "Loca haec tibi libera trado, hospes.",
+      "derivation": "Hermaphroditus, as Salmacis presses kisses and reaches for his neck, poses a genuine disjunctive interrogative (an...?). Salmacis, frightened, answers by yielding the place and feigning departure. Dropped the speech tag 'ait' from the question; from the answer dropped 'Salmacis extimuit' before and 'ait simulatque gradu discedere verso' after. The split enclitic 'loca...que' is presented as the spoken 'loca' (the -que grammatically binds to 'simulat'); capitalization of 'loca' normalized. Answer ends at its first full stop; what follows ('ait simulatque...') is narration of her pretended exit."
+    }
+  ]
+}

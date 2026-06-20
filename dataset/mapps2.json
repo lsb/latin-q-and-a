@@ -1,0 +1,12 @@
+{
+  "source": "text/mapps2.txt",
+  "pairs": [
+    {
+      "locus": "Walter Mapps, De Phillide et Flora, stanza beginning \"Mel pro felle deseris\"",
+      "type": "authorial-rhetorical",
+      "question": "Facit amor militem strenuum aut ferum?",
+      "answer": "Non, immo pauperies et defectus rerum.",
+      "derivation": "Within Flora's speech she poses a genuine rhetorical interrogative (\"Does love make the soldier vigorous or fierce?\") and answers it herself in the next line with a direct \"Non, immo...\" (\"No, rather poverty and lack of things\"). The question is self-contained; the answer ends at the line's full stop. The rest of the debate is point/counterpoint statement-and-retort between Phillis and Flora, not Q&A, so no other pairs extracted. The earlier interrogatives (\"ubi modo militas? Ubi nunc moraris?\", \"quid Aristoteles facit mea cura\", \"quid praestare poterit miles postulanti?\") are apostrophes to absent lovers or rhetorical pivots that are not directly answered, so dropped."
+    }
+  ]
+}

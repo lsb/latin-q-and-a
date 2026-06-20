@@ -1,0 +1,12 @@
+{
+  "source": "text/juvenal/4.txt",
+  "pairs": [
+    {
+      "locus": "Juvenal 4.130-135",
+      "type": "direct-speech",
+      "question": "Quidnam igitur censes? conciditur?",
+      "answer": "Absit ab illo dedecus hoc, testa alta paretur quae tenui muro spatiosum colligat orbem. Debetur magnus patinae subitusque Prometheus.",
+      "derivation": "A real interrogative ('quidnam igitur censes? conciditur?' = what then do you advise? is it to be cut up?) is directly answered by Montanus. Dropped the framing tag 'Montanus ait' that interrupts the reply. Answer window begins at the operative response 'absit ab illo dedecus hoc' (the proposal: don't cut it up, prepare a dish) and ends after the contiguous instruction about needing a great Prometheus to make the patina; stopped before the further imperative 'argillam atque rotam citius properate, sed ex hoc tempore iam, Caesar, figuli tua castra sequantur' which turns to elaboration/exhortation. Stripped inline verse numbers 130 and 135."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source": "text/martial/mart14.txt",
+  "pairs": [
+    {
+      "locus": "Martial 14.58",
+      "type": "authorial-rhetorical",
+      "question": "Graecus es?",
+      "answer": "aphronitrum.",
+      "derivation": "From the couplet 'Rusticus es? nescis, quid Graeco nomine dicar: Spuma vocor nitri. Graecus es? aphronitrum.' The final clean interrogative 'Graecus es?' is answered by its one-word reply 'aphronitrum' (the Greek name). Self-contained and verbatim; the earlier 'Rusticus es?' exchange is dropped because its answer ('Spuma vocor nitri') is separated from the question by the intervening framing clause 'nescis, quid Graeco nomine dicar', making a clean contiguous span impossible."
+    },
+    {
+      "locus": "Martial 14.74",
+      "type": "authorial-rhetorical",
+      "question": "Corve salutator, quare fellator haberis?",
+      "answer": "In caput intravit mentula nulla tuum.",
+      "derivation": "The author asks why the raven is reckoned a fellator (genuine interrogative with quare) and answers it himself in the pentameter explaining the reason: no penis has entered its head. Answer is the full second line to its terminal stop; nothing precedes or follows to cut. Vocative setup 'Corve salutator' kept so the addressee is clear."
+    },
+    {
+      "locus": "Martial 14.179",
+      "type": "direct-speech",
+      "question": "Dic mihi, virgo ferox, cum sit tibi cassis et hasta, quare non habeas aegida?",
+      "answer": "Caesar habet.",
+      "derivation": "A genuine question put to Minerva (quare non habeas aegida), answered by her quoted reply 'Caesar habet.' Speech tag 'Dic mihi' is kept as it frames the addressee 'virgo ferox' and is grammatically part of the question; terminal stop normalized to '?'. Editorial single quotes around the answer stripped."
+    },
+    {
+      "locus": "Martial 14.215",
+      "type": "direct-speech",
+      "question": "Dic mihi simpliciter, comoedis et citharoedis, Fibula, quid praestas?",
+      "answer": "Carius ut futuant.",
+      "derivation": "A direct question to the Fibula (quid praestas, 'what do you provide?') answered by its quoted reply 'Carius ut futuant.' Address kept verbatim and contiguous; terminal stop normalized to '?'. Editorial single quotes around the answer stripped."
+    }
+  ]
+}

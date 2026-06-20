@@ -1,0 +1,26 @@
+{
+  "source": "text/marbodus.txt",
+  "pairs": [
+    {
+      "locus": "Marbodus, De ornamentis verborum III (Complexio)",
+      "type": "authorial-rhetorical",
+      "question": "Qui sunt qui pugnant audaciter?",
+      "answer": "Andegavenses.",
+      "derivation": "From the COMPLEXIO illustrative verses (line 44). The author poses the question and answers it himself with 'Andegavenses.' Stripped the section heading 'III. COMPLEXIO' and the prose definition (scaffolding). The two following parallel question/answer lines and the concluding line 'Egregios igitur livor neget Andegavenses' are not part of this self-contained pair, so they are omitted."
+    },
+    {
+      "locus": "Marbodus, De ornamentis verborum VII (Ratiocinatio)",
+      "type": "authorial-rhetorical",
+      "question": "Dives avarus eget. Per quid?",
+      "answer": "Quia, cum petit usus, Tangere parta timet.",
+      "derivation": "From the RATIOCINATIO verses (lines 87-88). 'Per quid?' is the genuine self-posed question; the preceding statement 'Dives avarus eget' is kept verbatim as setup so the question has a referent. The answer runs to its first full stop ('timet'); the chained follow-up questions 'Cur? Ne minuatur acervus' and the OCR-garbled 'Cur metuit minui?' line that follow are cut. Stripped the heading 'VII. RATIOCINATIO' and the prose definition."
+    },
+    {
+      "locus": "Marbodus, De ornamentis verborum XVI (Subiectio)",
+      "type": "authorial-rhetorical",
+      "question": "Numquid forte fames?",
+      "answer": "Tu fercula percipiebas.",
+      "derivation": "From the SUBIECTIO verses (line 169). Self-contained interrogative ('Was it perhaps hunger?') refuted by the answer ('You used to receive your portions'). Stripped the heading 'XVI. SUBIECTIO' and the prose definition. The other parallel questions in the passage (Numquid flagra?, An labor?, Num frigus?) are separate units and are omitted to keep one clean self-contained pair."
+    }
+  ]
+}

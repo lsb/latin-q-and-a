@@ -1,0 +1,12 @@
+{
+  "source": "text/quintilian/quintilian.decl.mai4.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Declamationes maiores 4.18",
+      "type": "direct-speech",
+      "question": "Quemadmodum ergo istud vitari potest, si fieri necesse est?",
+      "answer": "Scilicet hac sola ratione, ut mors inter facinus hominemque ponatur.",
+      "derivation": "The father (interlocutor, marked by 'inquit') genuinely asks how the predicted parricide can be avoided if it must happen; the son answers directly with 'scilicet hac sola ratione...'. Dropped the framing tag 'inquit' and normalized the answer's first word capitalization. Answer ends at the first full stop (after 'ponatur'); what follows ('vincitur, pater, fatum...') turns from answering to elaboration and is cut. The other 'inquit' utterances nearby ('Non potest fieri parricidium', 'fortiter faciet filius tuus', 'erit vir fortis et parricida') are declaratives/predictions, not interrogatives, and were not paired."
+    }
+  ]
+}

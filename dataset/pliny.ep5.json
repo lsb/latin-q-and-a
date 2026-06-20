@@ -1,0 +1,12 @@
+{
+  "source": "text/pliny.ep5.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Epistulae 5.1.1",
+      "type": "authorial-rhetorical",
+      "question": "Legatum mihi obvenit modicum sed amplissimo gratius. Cur amplissimo gratius?",
+      "answer": "Pomponia Galla exheredato filio Asudio Curiano heredem reliquerat me, dederat coheredes Sertorium Severum praetorium virum aliosque splendidos equites Romanos.",
+      "derivation": "Pliny poses his own question 'Cur amplissimo gratius?' after the statement that the legacy was more welcome than a very large one; the preceding sentence is kept as verbatim setup so 'amplissimo gratius' has its referent. The answer is the first explanatory sentence naming Pomponia Galla's bequest; it stops at the first full stop, before 'Curianus orabat...', where the narrative turns from explaining why the legacy was gratifying to recounting Curianus's request."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/petrarchmedicus.txt",
+  "pairs": [
+    {
+      "locus": "Petrarch, Contra Medicum 4",
+      "type": "direct-speech",
+      "question": "Sum leo vel quid aliud?",
+      "answer": "Non es leo sed noctua.",
+      "derivation": "Petrarch mockingly invites the physician to deliver his joke and poses the interrogative 'sum leo vel quid aliud?'; the opponent's quoted reply 'Non es leo sed noctua' genuinely answers it. The preceding imperatives (Dic, age, dic secure... tuam auream eloquentiam expectamus; Dic, rethorice imperator...) are framing/narration of the prompting and are dropped, keeping only the operative interrogative. In the answer the speech tag 'inquit' (between 'Non es' and 'leo sed noctua') is stripped as framing; what follows ('Ridete omnes, plaudite, fabula acta est.') is Petrarch's own narration, not part of the reply. First word capitalized; answer terminal punctuation normalized to a period."
+    }
+  ]
+}

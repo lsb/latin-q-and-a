@@ -1,0 +1,26 @@
+{
+  "source": "text/raoul.txt",
+  "pairs": [
+    {
+      "locus": "Radulfus Cadomensis, Gesta Tancredi LXVIII-LXIX",
+      "type": "direct-speech",
+      "question": "Heu, domine mi princeps, cui de te tantum licuit, cujus in te tanta surrexit audacia?",
+      "answer": "Perdita est Antiochia, Franci tenent. Ego qualem vides terno lac vulnere vix aufugi.",
+      "derivation": "The rustic, finding the wounded fugitive Cassianus, asks a real interrogative (\"who dared so much against you, whose audacity rose against you?\"); the framing \"inquit\" and the preceding narration of his amazement are dropped. Cassianus's reply answers it: the Franks hold Antioch and he barely escaped with three wounds. The window stops at \"vix aufugi\" (first full stop after the operative answer); what follows (\"at tu, obsecro, ne palam facias... exspecta\") turns from answering to a plea and bribe-offer, so it is cut; \"inquit\" framing inside the reply is dropped. \"terno lac vulnere\" kept verbatim as printed."
+    },
+    {
+      "locus": "Radulfus Cadomensis, Gesta Tancredi LXXI",
+      "type": "direct-speech",
+      "question": "Quid sibi vult haec libratio?",
+      "answer": "Imo, domine comes, alia est res, praesentia vestra non me sinit esse sollicitum, cui ludum struo dum trutino cultellum.",
+      "derivation": "At dinner the count of Flanders asks Boamundus a genuine interrogative about his balancing of the knife. Only the interrogative is quoted as the question; his own following guess (\"manifestum est, video, solliciti signum...\") is his elaboration and is left out. Boamundus's answer refutes the anxiety-reading and gives the real reason (a game). The \"inquit Boamundus\" framing is dropped. The window ends at \"trutino cultellum\" (first full stop); the continuation \"Hunc cujus grossitudo... in duo dispertiam\" turns from answering to his boast about splitting the candle, so it is cut."
+    },
+    {
+      "locus": "Radulfus Cadomensis, Gesta Tancredi CVI",
+      "type": "direct-speech",
+      "question": "Hanccine beatorum turbam agnoscis, Anselle?",
+      "answer": "Vix; neque enim alia ad cognoscendum signa remanserant, nisi qualibet quinquagenarium quempiam regressum agnoscimus, qui a nobis puer septenni est egressus.",
+      "derivation": "Within Ansellus's reported dream a dead comrade asks a genuine interrogative (\"Do you recognize this throng of the blessed?\"); the \"ille mihi sic ait\" framing is dropped. Ansellus answers \"Vix\" and explains why recognition fails (the blessed appear aged beyond knowing); the \"inquam\" framing inside the reply is dropped. The window runs to the full stop at \"est egressus\"; the next sentence is the dead man's further speech (\"Hi sunt Jerosolymipetae...\"), not part of the answer."
+    }
+  ]
+}

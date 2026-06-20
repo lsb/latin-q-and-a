@@ -1,0 +1,61 @@
+{
+  "source": "text/justinian/digest10.txt",
+  "pairs": [
+    {
+      "locus": "Digest 10.1.4.7",
+      "type": "authorial-rhetorical",
+      "question": "Si communem fundum ego et tu habemus et vicinum fundum ego solus, an finium regundorum iudicium accipere possumus?",
+      "answer": "Non posse nos accipere, quia ego et socius meus in hac actione adversarii esse non possumus, sed unius loco habemur.",
+      "derivation": "Direct interrogative 'an ... possumus?' answered by the jurist. Dropped the framing 'et scribit pomponius' (narration of who states the opinion) and normalized 'non' to 'Non'. Answer ends at the first full stop; what follows ('idem pomponius ne utile quidem iudicium dandum dicit...') is a separate further point, not part of the direct answer."
+    },
+    {
+      "locus": "Digest 10.2.7",
+      "type": "authorial-rhetorical",
+      "question": "Si heres unus, cum sub condicione adiectum coheredem aut apud hostes haberet, dixerit se heredem esse et actione expertus vicerit, deinde condicio heredis exstiterit vel postliminio redierit, an victoriae commodum debeat cum eo communicare?",
+      "answer": "Et electionem coheredi dandam, id est aut communicandam eam aut experiundi faciendam potestatem huic, qui post victoriam coheredis effectus sit heres aut reversus sit in civitatem.",
+      "derivation": "Direct interrogative 'an victoriae commodum debeat cum eo communicare?'. Skipped the non-answering preamble 'nam indubitate iudicati actio ei in solidum competit.' (a stated fact, not an answer to whether he must share) and advanced the answer start to the operative sentence 'Et electionem coheredi dandam...' which answers the question. Ends at the first full stop; what follows ('idemque observandum, si postea natus sit postumus...') is an extension to further persons."
+    },
+    {
+      "locus": "Digest 10.2.30",
+      "type": "whole-speech-as-question",
+      "question": "Fundus mihi communis est pupillae coheredi: in eo fundo reliquiae sunt conditae, quibus religio ab utriusque patribus debebatur, nam parentes quoque eiusdem pupillae ibi sepulti sunt: sed tutores distrahere fundum volunt: ego non consentio, sed portionem meam possidere malo, cum universitatem emere non possim et velim pro meo arbitrio exsequi ius religionis. An recte arbitrum communi dividundo ad hunc fundum partiendum petam an etiam is arbiter, qui familiae erciscundae datur, isdem partibus fungi possit, ut hanc possessionem exemptis ceteris corporibus hereditariis pro iure cuique nobis partiatur?",
+      "answer": "Nihil proponi, cur familiae erciscundae iudicio addictus arbiter officium suum etiam in eius fundi de quo agitur divisionem interponere non possit: sed religiosa loca in iudicium non deduci eorumque ius singulis heredibus in solidum competere.",
+      "derivation": "A consultation: the whole querent's statement of facts plus the interrogative is the question. Dropped the framing word 'quaero' before the interrogative and the framing 'herennius modestinus respondit' before the reply; normalized the indirect-question opener 'an' to 'An' and added a closing '?'. The reply ('Nihil proponi, cur... competere.') is quoted entire to its full stop and answers both limbs of the question."
+    },
+    {
+      "locus": "Digest 10.2.35",
+      "type": "authorial-rhetorical",
+      "question": "Pomponius philadelphus dotis causa praedia filiae quam habebat in potestate tradidit et reditus eorum genero solvi mandavit: an ea praecipua filia retinere possit, cum omnes filios heredes instituisset?",
+      "answer": "Iustam causam retinendae possessionis habere filiam, quoniam pater praedia de quibus quaerebatur dotis esse voluit et matrimonium post mortem quoque patris steterat.",
+      "derivation": "Setup plus direct question 'an ea praecipua filia retinere possit...?'; dropped the trailing framing 'quaerebatur'. The answer is the contiguous span 'Iustam causam ... steterat'; stopped before the interjected framing word 'respondi:' that follows it (and before the elaboration 'filiam etenim, quae naturaliter agros tenuit...'). Normalized 'iustam' to 'Iustam'."
+    },
+    {
+      "locus": "Digest 10.2.36",
+      "type": "authorial-rhetorical",
+      "question": "Cum putarem te coheredem meum esse idque verum non esset, egi tecum familiae erciscundae iudicio et a iudice invicem adiudicationes et condemnationes factae sunt: rei veritate cognita utrum condictio invicem competat an vindicatio? Et an aliud in eo qui heres est, aliud in eo qui heres non sit dicendum est?",
+      "answer": "Qui ex asse heres erat, si, cum putaret se titium coheredem habere, acceperit cum eo familiae erciscundae iudicium et condemnationibus factis solverit pecuniam, quoniam ex causa iudicati solvit, repetere non potest.",
+      "derivation": "Kept the verbatim setup ('Cum putarem te coheredem...') so the condictio/vindicatio question has a referent. Dropped the framing 'quaero,' before the two interrogatives and the framing 'respondi:' before the reply; normalized 'et' to 'Et' at the start of the second question. Answer is the reply's first sentence (to the first full stop); what follows ('sed tu videris eo moveri...') is further discussion."
+    },
+    {
+      "locus": "Digest 10.2.38",
+      "type": "authorial-rhetorical",
+      "question": "Lucius et titia fratres emancipati a patre adulti curatores acceperunt: hi communes pecunias ex reditibus redactas singulis subministraverunt: postea omne patrimonium diviserunt: et post divisionem titia soror lucio fratri suo coepit quaestionem movere, quasi amplius accepisset quam ipsa acceperat. Cum lucius frater eius non amplius sua portione, immo minus quam dimidiam consecutus sit, an titiae competat adversus fratrem actio?",
+      "answer": "Secundum ea quae proponuntur, si lucius non amplius ex reditu praediorum communium accepit, quam pro hereditaria portione ei competeret, nullam sorori eius adversus eum competere actionem.",
+      "derivation": "Setup plus direct question 'an titiae competat adversus fratrem actio?'; dropped the framing 'quaero,' before it and normalized 'cum' to 'Cum'. Dropped the framing 'paulus respondit,' before the reply. Answer ends at the first full stop; the next sentence ('idem respondit, cum ex decretis alimentis...') is a separate further holding."
+    },
+    {
+      "locus": "Digest 10.2.39.1",
+      "type": "authorial-rhetorical",
+      "question": "Intestato moriens codicillis praedia sua omnia et patrimonium inter liberos divisit ita, ut longe amplius filio quam filiae relinqueret: an soror fratri dotem conferre deberet?",
+      "answer": "Secundum ea quae proponerentur, si nihil indivisum reliquisset, rectius dici ex voluntate defuncti collationem dotis cessare.",
+      "derivation": "Setup plus direct question 'an soror fratri dotem conferre deberet?'; dropped the framing 'quaesitum est,' before it and 'respondi' before the reply. The reply ('Secundum ea... cessare.') is one sentence to its full stop and answers the question (collation of the dowry ceases)."
+    },
+    {
+      "locus": "Digest 10.2.39.5",
+      "type": "authorial-rhetorical",
+      "question": "Pater inter filios divisit bona et eam divisionem testamento confirmavit et cavit, ut aes alienum, quod unusquisque eorum habet sive habebit, solus sustineret: postea unus ex filiis cum pecuniam mutuaretur, intervenit pater eiusque consensu praedia quae filio adsignaverat pignori data sunt: post mortem patris eadem praedia idem filius possedit, usuras solvit: an familiae erciscundae iudicio, si praedia pignori data distrahat creditor, aliquid ei a coherede praestandum sit?",
+      "answer": "Secundum ea quae proponerentur non esse praestandum.",
+      "derivation": "Setup plus direct question 'an ... aliquid ei a coherede praestandum sit?'; dropped the framing 'quaero,' before it and 'respondi' before the reply. The reply answers directly: nothing need be furnished ('non esse praestandum')."
+    }
+  ]
+}

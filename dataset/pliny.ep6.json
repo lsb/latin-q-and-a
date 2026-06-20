@@ -1,0 +1,33 @@
+{
+  "source": "text/pliny.ep6.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Epistulae 6.2.1-2",
+      "type": "authorial-rhetorical",
+      "question": "Soleo non numquam in iudiciis quaerere M. Regulum; nolo enim dicere desiderare. Cur ergo quaero?",
+      "answer": "Habebat studiis honorem, timebat pallebat scribebat, quamvis non posset ediscere.",
+      "derivation": "Pliny poses and answers his own question of why he misses Regulus. The setup sentence (Soleo... desiderare) is kept verbatim so that quaero has its referent. The answer ends at the first full stop; what follows (Illud ipsum, quod oculum modo dextrum...) elaborates with further examples and is cut."
+    },
+    {
+      "locus": "Pliny, Epistulae 6.8.3",
+      "type": "authorial-rhetorical",
+      "question": "Quorsus haec?",
+      "answer": "ut scias, non posse Atilium me incolumi iniuriam accipere.",
+      "derivation": "Pliny asks himself the point of his anecdote and immediately answers. Question and answer are contiguous and complete; the next sentence (Iterum dices 'quorsus haec?') begins a new exchange and is excluded."
+    },
+    {
+      "locus": "Pliny, Epistulae 6.29.2",
+      "type": "authorial-rhetorical",
+      "question": "Cur destitutas?",
+      "answer": "quod in illis maxime et constantia agentis et humanitas cerneretur.",
+      "derivation": "One of Pliny's three self-posed questions explaining Thrasea's precepts. Boundaries are the single interrogative and its answering clause, ending at the question mark before the next question (Cur pertinentes ad exemplum?)."
+    },
+    {
+      "locus": "Pliny, Epistulae 6.29.2",
+      "type": "authorial-rhetorical",
+      "question": "Cur pertinentes ad exemplum?",
+      "answer": "quia plurimum referret, bonum an malum induceretur.",
+      "derivation": "The third of Pliny's self-posed questions on Thrasea's precepts, with its answering clause. Answer ends at the full stop; the next sentence (Ad haec ego genera causarum...) turns to a new point and is cut."
+    }
+  ]
+}

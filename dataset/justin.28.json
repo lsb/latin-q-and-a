@@ -1,0 +1,12 @@
+{
+  "source": "text/justin/28.txt",
+  "pairs": [
+    {
+      "locus": "Justin 28.2.8-10",
+      "type": "authorial-rhetorical",
+      "question": "Quos autem homines Romanos esse?",
+      "answer": "Nempe pastores, qui latrocinio iustis dominis ademptum solum teneant, qui uxores cum propter originis dehonestamenta non invenirent, vi publica rapuerint, qui denique urbem ipsam parricidio condiderint murorumque fundamenta fraterno sanguine adsperserint.",
+      "derivation": "Rhetorical question and self-answer within the Aetolians' reported oration. The interrogative 'Quos autem homines Romanos esse?' is answered immediately by 'Nempe pastores...'. Answer kept as the single continuous sentence (sections 8-10) ending at the first full stop after 'adsperserint'; section numerals 9 and 10 ('9', '10') that fell mid-sentence in the scaffolding were stripped. What follows the cut is section 11, 'Aetolos autem principes Graeciae semper fuisse...', which turns from describing the Romans to praising the Aetolians and so is not part of the answer."
+    }
+  ]
+}

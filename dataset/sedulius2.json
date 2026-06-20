@@ -1,0 +1,19 @@
+{
+  "source": "text/sedulius2.txt",
+  "pairs": [
+    {
+      "locus": "Sedulius, Carmen Paschale 2.7-8",
+      "type": "authorial-rhetorical",
+      "question": "Noxia tu coniux magis an draco perfidus ille?",
+      "answer": "Perfidus ille draco, sed tu quoque noxia coniux.",
+      "derivation": "Authorial rhetorical question (is the wife more guilty, or the serpent?) answered by the poet in the immediately following verse. Question and answer are adjacent verses; the question is self-contained, naming both coniux and draco. No scaffolding embedded in these two lines. Answer ends at its own full stop (the verse-end); what follows ('Pro dolor!...') begins a new exclamation."
+    },
+    {
+      "locus": "Sedulius, Carmen Paschale 2.97-101",
+      "type": "authorial-rhetorical",
+      "question": "Cur tria dona tamen?",
+      "answer": "Quoniam spes maxima vitae est Hunc numerum confessa fides, et tempora summus Cernens cuncta Deus, praesentia, prisca, futura, Semper adest semperque fuit semperque manebit In triplici virtute sui.",
+      "derivation": "Authorial question on why three gifts (the magi's gold/frankincense/myrrh just described) answered by the poet with 'quoniam...'. The answer is the single sentence from 'Quoniam' to the first full stop after 'sui'; the inline every-5-lines verse number '100' dangling before 'In triplici' is scaffolding and stripped. What follows the cut is the editorial dash and a new sentence ('— Tunc caelitus illi / Per somnum moniti...'). 'Hunc numerum' (= three) is grounded by 'tria' in the question, so the pair is self-contained."
+    }
+  ]
+}

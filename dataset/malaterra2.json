@@ -1,0 +1,12 @@
+{
+  "source": "text/malaterra2.txt",
+  "pairs": [
+    {
+      "locus": "Gaufredus Malaterra, De rebus gestis Rogerii 2.33",
+      "type": "authorial-rhetorical",
+      "question": "Quomodo persequebatur unus mille?",
+      "answer": "Quia Deus suus vindicat eos et Dominus in profundo iniquitatum suarum clavibus irae suae concluserat illos.",
+      "derivation": "Authorial rhetorical question and self-answer, both quoting Scripture, on how Serlo's 36 men routed thousands. Framing dropped before the question: 'Si autem prophetam admirantes requirimus dicentem:' (meta-narration of the asking). Framing dropped before the answer: 'nam hoc istis, ut quondam filiis Israel provenisse cognoscimus, profecto nobismetipsis ex eiusdem prophetae verbis absque mendacio respondere possumus:' (meta-narration of the answering). The answer ends at the first full stop, after 'illos'; what follows ('Deus suus - dico -, non quod eum colendo cognoscebant...') is the author's elaboration on the phrase 'Deus suus' and is cut. No scaffolding inside the span."
+    }
+  ]
+}

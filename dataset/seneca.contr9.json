@@ -1,0 +1,33 @@
+{
+  "source": "text/seneca.contr9.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Controversiae 9.2.20 (Triarius)",
+      "type": "authorial-rhetorical",
+      "question": "Occisus est. Quis?",
+      "answer": "Damnatus.",
+      "derivation": "From Triarius' color (line 127). The declaimer poses and answers his own question: 'occisus est; quis? damnatus.' Kept 'Occisus est' as setup so 'quis?' has a referent (who was killed); answer is the single word 'damnatus'. Stopped before the further self-questions 'ubi? in praetorio. quo tempore?' (whose last is answered only by a counter-question, not an answer). Capitalized first word and normalized terminal punctuation; no words added."
+    },
+    {
+      "locus": "Seneca, Controversiae 9.5.14 (Marcellus Marcius)",
+      "type": "direct-speech",
+      "question": "Ubi est?",
+      "answer": "Vivit, salvus est.",
+      "derivation": "From Marcellus Marcius' narration of the grandfather's defense (line 335): '...ego rapui. \"ubi est?\" inquit; vivit, salvus est. veni et cum voles aspice.' The natural father asks where his son is; the grandfather answers that he lives and is safe. Dropped the framing tag 'inquit'; cut the answer at the first full stop, before the elaboration 'veni et cum voles aspice' (an invitation, not part of the answer). Normalized capitalization and terminal punctuation."
+    },
+    {
+      "locus": "Seneca, Controversiae 9.6.16 (Arellius Fuscus)",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo? Mentita est de filia sua?",
+      "answer": "Immo de mea.",
+      "derivation": "Arellius Fuscus' Latin rendering of Hybreas' sententia (line 405): 'quid ergo? inquit, mentita est de filia sua? immo de mea.' The declaimer asks whether the condemned stepmother (naming the girl under torture) lied about her own daughter, and answers 'No, about mine.' Dropped the framing tag 'inquit'; normalized capitalization and terminal punctuation. No words added or reordered."
+    },
+    {
+      "locus": "Seneca, Controversiae 9.2 (excerpta)",
+      "type": "authorial-rhetorical",
+      "question": "Occisus est. Quis?",
+      "answer": "Damnatus.",
+      "derivation": "Parallel instance in the epitomized excerpta (line 451): 'Occisus est; quis? damnatus. ubi? in praetorio. quo tempore?' Same self-answered structure as 9.2.20: kept 'Occisus est' as setup for 'quis?', answer 'damnatus'; stopped before the further questions. Normalized terminal punctuation; no words added."
+    }
+  ]
+}

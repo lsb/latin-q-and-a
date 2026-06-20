@@ -1,0 +1,19 @@
+{
+  "source": "text/ritchie.txt",
+  "pairs": [
+    {
+      "locus": "Ritchie, Fabulae Faciles 85 (Ulysses)",
+      "type": "direct-speech",
+      "question": "Qui homines estis? Mercatores an latrones?",
+      "answer": "Se neque mercatores esse neque praedandi causa venisse; sed a Troia redeuntis vi tempestatum a recto cursu depulsos esse.",
+      "derivation": "Polyphemus asks the Greeks who they are (merchants or pirates). Dropped the framing 'Tum Ulixes respondit' and capitalized 'se'; the reported reply directly answers, denying both. Cut after 'depulsos esse.' (first full stop); what follows, 'Oravit etiam ut sibi sine iniuria abire liceret', is a separate plea, not part of answering the question."
+    },
+    {
+      "locus": "Ritchie, Fabulae Faciles 77 (Argonauts)",
+      "type": "direct-speech",
+      "question": "Num hoc fieri potest? Quis enim umquam e sene iuvenis factus est?",
+      "answer": "Me medicinae summam habere scientiam scitis. Nunc igitur vobis demonstrabo quo modo haec res fieri possit.",
+      "derivation": "The king's daughters incredulously ask whether an old man can be made young again (the referent is clear from the second sentence). Dropped the framing 'At Medea respondit:'. Medea's reply answers it: she has medical knowledge and will show how it can be done. Span ends at 'possit.' before she turns from answering to acting ('Postquam finem loquendi fecit, arietem... interfecit')."
+    }
+  ]
+}

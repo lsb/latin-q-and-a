@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.met11.txt",
+  "pairs": [
+    {
+      "locus": "Metamorphoses 11.320-322",
+      "type": "authorial-rhetorical",
+      "question": "Quid peperisse duos et dis placuisse duobus et forti genitore et progenitore nitenti esse satam prodest? an obest quoque gloria multis?",
+      "answer": "Obfuit huic certe!",
+      "derivation": "Within Daedalion's speech, the speaker poses a rhetorical question about Chione (what good did it do her to bear two sons, please two gods, be born of a brave father and a shining grandfather; or does glory even harm many?) and immediately answers it himself. The question is the two-sentence rhetorical unit ending at the '?' after 'multis'; the answer is the operative reply 'obfuit huic certe' (it harmed her, certainly), ending at the '!' before the relative clause 'quae se praeferre Dianae sustinuit...' which elaborates rather than answers. The inline verse number 320 after 'nitenti' is scaffolding and is dropped; first word capitalized, terminal punctuation normalized."
+    }
+  ]
+}

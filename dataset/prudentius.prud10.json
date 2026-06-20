@@ -1,0 +1,19 @@
+{
+  "source": "text/prudentius/prud10.txt",
+  "pairs": [
+    {
+      "locus": "Prudentius, Peristephanon 10.671-677",
+      "type": "direct-speech",
+      "question": "Dic, quid uidetur esse uerum et congruens, unumne Christum colere et in Christo patrem, an conprecari mille formarum deos?",
+      "answer": "Est quidquid illud, quod ferunt homines deum, unum esse oportet, et, quod uni, est unicum. cum Christus hoc sit, Christus est uerus deus, genera deorum multa nec pueri putant.",
+      "derivation": "Romanus asks the child a real interrogative (unum...colere...an conprecari...?). Dropped the framing/narration 'Romanus ardens experiri innoxiam / lactantis oris indolem: \"filiole\", ait,' and the address 'filiole' before the question proper; normalized 'dic' capitalization. Answer drops the speech tag 'Adrisit infans nec moratus rettulit:' and runs to the end of the child's verbatim reply."
+    },
+    {
+      "locus": "Prudentius, Peristephanon 10.682-687",
+      "type": "direct-speech",
+      "question": "Quis auctor uocis est huius tibi?",
+      "answer": "Mater et matri deus: illa ex parente spiritu docta inbibit, quo me inter ipsa pasceret cunabula, ego ut gemellis uberum de fontibus lac paruus hausi, Christum et hausi credere.",
+      "derivation": "Asclepiades asks the child a direct interrogative; dropped the embedded speech tag 'inquit' from \"'quis auctor', inquit, 'uocis est huius tibi?'\". Answer drops the speech tag 'Respondit ille:' and quotes the child's full verbatim reply to its terminal full stop."
+    }
+  ]
+}

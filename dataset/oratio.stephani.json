@@ -1,0 +1,12 @@
+{
+  "source": "text/oratio.stephani.txt",
+  "pairs": [
+    {
+      "locus": "Oratio Stephani de Varda",
+      "type": "authorial-rhetorical",
+      "question": "Quid omnium maius, quid acceptius a te, christianissimo rege nobis expetendum erat, quam ut serenissimam virginem, filiam tuam Magdalenam regi nostro inclito coniugiam traderes?",
+      "answer": "Habemus certe totum id, quod petebamus.",
+      "derivation": "Authorial rhetorical question (what greater thing could we seek from you than that you give your daughter Magdalena to our king?) answered by the speaker himself in the very next sentence (we have all we sought). Answer window is that single sentence; it ends at the full stop before 'Quippe divina clemencia...', which turns to elaboration. Title line, 'Medieval Latin / The Latin Library / The Classics Page' footer not included. No editorial brackets or verse numbers in this span."
+    }
+  ]
+}

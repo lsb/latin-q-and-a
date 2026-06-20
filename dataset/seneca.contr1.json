@@ -1,0 +1,26 @@
+{
+  "source": "text/seneca.contr1.txt",
+  "pairs": [
+    {
+      "locus": "Seneca the Elder, Controversiae 1, praefatio 9-10 (Cato's definition of the orator)",
+      "type": "authorial-rhetorical",
+      "question": "Ille ergo vir quid ait?",
+      "answer": "Orator est, Marce fili, vir bonus dicendi peritus.",
+      "derivation": "Seneca poses a real interrogative about Cato ('ille ergo vir quid ait?') and answers it with Cato's own verbatim maxim. Authorial self-question-and-answer. The preceding clause ('et quem tandem antistitem sanctiorem... convicium faceret?') identifies 'ille vir' as Cato and is left out as setup not needed for intelligibility; the answer ends at its full stop before 'ite nunc...', which turns to a new exhortation. First word of the question capitalized; quotation marks dropped from the answer; nothing internal omitted."
+    },
+    {
+      "locus": "Seneca the Elder, Controversiae 1.3.4 (Albucius Silus, the condemned priestess)",
+      "type": "direct-speech",
+      "question": "Quare ergo, si incesta sum, vivo?",
+      "answer": "Nescio; hoc unum scio, nec fieri quod non potest nec portentum esse quod potest.",
+      "derivation": "The accuser quotes the woman's objection as a genuine interrogative ('Quare ergo, si incesta sum, vivo?') and answers it directly, opening with 'nescio' and giving the operative reply. Dropped the surrounding quotation marks (framing). The answer runs to its full stop before 'Absit nefas...', which turns to a fresh point; nothing internal omitted. First word capitalized."
+    },
+    {
+      "locus": "Seneca the Elder, Controversiae 1.7.4 (Cestius Pius, the tyrannicide freed by pirates)",
+      "type": "direct-speech",
+      "question": "Quid ergo, ales patrem?",
+      "answer": "Dimissus fortasse promittam, cum rogaveris.",
+      "derivation": "The imagined interlocutor's quoted question ('Quid ergo, ales patrem?') is a real interrogative, answered by the son's reply. The answer is taken to the semicolon before 'nihil paciscor: etiamnunc manus meas petis', where the speaker turns from answering to a new retort; this is the contiguous answering span. Quotation marks dropped as framing; first word capitalized; nothing internal omitted."
+    }
+  ]
+}

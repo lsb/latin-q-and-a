@@ -1,0 +1,12 @@
+{
+  "source": "text/propertius1.txt",
+  "pairs": [
+    {
+      "locus": "Propertius 1.22.1-10",
+      "type": "direct-speech",
+      "question": "Qualis et unde genus, qui sint mihi, Tulle, Penates?",
+      "answer": "proxima suppositos contingens Umbria campos me genuit terris fertilis uberibus.",
+      "derivation": "Tullus asks the poet about his origin and household gods; the asking is framed by 'quaeris pro nostra semper amicitia' (line 2), which is meta-narration of the asking and dropped, leaving the interrogative content as the question (terminal punctuation normalized to '?'). The reply opens with a long non-answering preamble about the Perusine graves and the civil war ('si Perusina tibi patriae sunt nota sepulcra... tu nullo miseri contegis ossa solo'), which is cut; the answer's start is advanced to the operative answering couplet 'proxima suppositos... uberibus', which actually answers 'unde genus' (Umbria, fertile in rich soil, bore me). This is the file's end (followed only by the 'Propertius / The Latin Library / The Classics Page' footer)."
+    }
+  ]
+}

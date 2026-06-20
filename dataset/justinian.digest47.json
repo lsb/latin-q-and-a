@@ -1,0 +1,12 @@
+{
+  "source": "text/justinian/digest47.txt",
+  "pairs": [
+    {
+      "locus": "Digest 47.2.21.7 (Paulus)",
+      "type": "authorial-rhetorical",
+      "question": "Qui furti faciendi causa conclave intravit, nondum fur est, quamvis furandi causa intravit. Qua actione tenebitur?",
+      "answer": "Utique iniuriarum.",
+      "derivation": "Authorial-rhetorical question and self-answer. Setup kept verbatim so 'tenebitur' has a referent (the man who entered to steal but is not yet a thief). Dropped the framing interjection 'quid ergo?' between the setup and the question. Answer ends at the colon: 'utique iniuriarum' is the direct answer to 'qua actione tenebitur'; the following 'aut de vi accusabitur, si per vim introivit' is an alternative scenario, not the direct answer, so it is cut. Capitalization of 'Qua' and 'Utique' normalized; terminal '?' and '.' supplied."
+    }
+  ]
+}

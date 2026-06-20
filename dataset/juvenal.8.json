@@ -1,0 +1,19 @@
+{
+  "source": "text/juvenal/8.txt",
+  "pairs": [
+    {
+      "locus": "Juvenal 8.1-20",
+      "type": "authorial-rhetorical",
+      "question": "Stemmata quid faciunt?",
+      "answer": "nobilitas sola est atque unica uirtus.",
+      "derivation": "The satire opens with the author's own rhetorical question 'Stemmata quid faciunt?' (what do family trees accomplish?), line 1. After a long run of further rhetorical questions (quid prodest, quo, cur...) about the uselessness of pedigree, the author states his own resolving thesis at line 20: 'nobilitas sola est atque unica uirtus.' Question and answer are each a single contiguous source sentence; the intervening rhetorical questions are not included in either field. Stripped the inline verse numbers (5, 10, 15, 20) and the bracketed editorial lines."
+    },
+    {
+      "locus": "Juvenal 8.39-40",
+      "type": "authorial-rhetorical",
+      "question": "his ego quem monui?",
+      "answer": "tecum mihi sermo, Rubelli Blande.",
+      "derivation": "Author poses a genuine interrogative about whom he has been admonishing ('his ego quem monui?', line 39) and immediately answers it himself: 'tecum mihi sermo, Rubelli Blande' (my discourse is with you, Rubellius Blandus). Both fields are verbatim and contiguous across the 39-40 line break; the inline verse number 40 mid-passage is stripped. The answer stops at the full stop; what follows ('tumes alto Drusorum stemmate...') elaborates the rebuke."
+    }
+  ]
+}

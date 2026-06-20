@@ -1,0 +1,33 @@
+{
+  "source": "text/psplato.eryxias.txt",
+  "pairs": [
+    {
+      "locus": "Pseudo-Plato, Eryxias (Corrado tr.)",
+      "type": "direct-speech",
+      "question": "Ecquid novi nobis referas?",
+      "answer": "Maxime.",
+      "derivation": "Socrates greets Erasistratus and asks for news. Question is the interrogative 'ecquid novi nobis referas?'; the preceding greeting ('Et tu, inquam ego, salve') is framing and dropped. Answer is the one-word affirmative 'Maxime'; what follows ('sed vultis, inquit, sedeamus? Adhuc enim sum de via fessus...') turns to a new proposal and is cut."
+    },
+    {
+      "locus": "Pseudo-Plato, Eryxias (Corrado tr.)",
+      "type": "direct-speech",
+      "question": "Homo ille qualis tandem esse in Sicilia videtur?",
+      "answer": "Siculorum omnium, et Italorum tanto nequissimus videtur esse, et est, quando est et ditissimus.",
+      "derivation": "Socrates asks Erasistratus what sort the rich Sicilian (just pointed out, 'ille... Siculorum omnium et Italorum ditissimus') really is. Dropped framing: the vocative exclamation 'Quid Erasistrate?' before the interrogative, and 'inquit' inside the reply. Answer is the operative response naming him most worthless and most wealthy; the cut is at the colon before the elaborating 'usque adeo, ut si quem Siculorum roges... nemo alium atque illum esse dicat', which only amplifies."
+    },
+    {
+      "locus": "Pseudo-Plato, Eryxias (Corrado tr.)",
+      "type": "direct-speech",
+      "question": "Tune divitias acquirere esse bonum existimas?",
+      "answer": "Insaniam profecto, si aliter existimem: quum opinor neminem esse qui non idem affirmet.",
+      "derivation": "Critias directly asks Eryxias whether he thinks acquiring wealth is good. Dropped framing: the imperative+vocative 'Dic mihi Eryxia' before the interrogative, and 'inquit' inside the reply. Answer kept whole through the single sentence's full stop; the next speaker's turn ('Opinor ego quoque inquit alter...') follows the cut."
+    },
+    {
+      "locus": "Pseudo-Plato, Eryxias (Corrado tr.)",
+      "type": "direct-speech",
+      "question": "An eum nobis sermonem possis referre?",
+      "answer": "Possim equidem, si memoria repetam.",
+      "derivation": "Erasistratus asks Socrates whether he can recount the Prodicus conversation just mentioned. Dropped framing 'inquit Erasistratus' in the question. Answer stops at the first full stop; the continuation 'Iam res ita, ut arbitror, fuit. Illum adolescens interrogavit...' begins the actual narration and is cut."
+    }
+  ]
+}

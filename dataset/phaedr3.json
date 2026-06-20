@@ -1,0 +1,40 @@
+{
+  "source": "text/phaedr3.txt",
+  "pairs": [
+    {
+      "locus": "Phaedrus 3.7.4-7 (Lupus ad Canem)",
+      "type": "direct-speech",
+      "question": "Vnde sic, quaeso, nites? Aut quo cibo fecisti tantum corporis? Ego, qui sum longe fortior, pereo fame.",
+      "answer": "Eadem est condicio tibi, praestare domino si par officium potes.",
+      "derivation": "Wolf's verbatim question to the dog (lines 163-165); the narration before it (salutati inuicem ut restiterunt) is framing and is dropped. Answer is the dog's reply (Canis simpliciter: ...), with the speech tag dropped; it is the full two-line reply before the wolf's follow-up question Quod? begins."
+    },
+    {
+      "locus": "Phaedrus 3.7.16-17 (Lupus ad Canem)",
+      "type": "direct-speech",
+      "question": "Quod?",
+      "answer": "Custos ut sis liminis, a furibus tuearis et noctu domum.",
+      "derivation": "Wolf's one-word question Quod? (line 168, after dropping inquit ille). Answer is the dog's reply opening; cut at the full stop after domum, before the dog turns from answering the question (what office?) to elaborating on the food (Adfertur ultro panis...)."
+    },
+    {
+      "locus": "Phaedrus 3.9.6-7 (Socrates ad Amicos)",
+      "type": "direct-speech",
+      "question": "Quaeso, tam angustam talis uir ponis domum?",
+      "answer": "Vtinam ueris hanc amicis impleam!",
+      "derivation": "Bystander's verbatim question (line 214); narrative framing (ex populo sic nescioquis, ut fieri solet) precedes and is dropped. Answer is Socrates' direct reply with the speech tag inquit removed."
+    },
+    {
+      "locus": "Phaedrus 3.18.9-14 (Pauo ad Iunonem)",
+      "type": "direct-speech",
+      "question": "Quo mi mutam speciem si uincor sono?",
+      "answer": "Fatorum arbitrio partes sunt uobis datae; tibi forma, uires aquilae, luscinio melos, augurium coruo, laeua cornici omina; omnesque propriis sunt contentae dotibus.",
+      "derivation": "Peacock's verbatim question (line 408) with inquit dropped. Answer is Juno's reply through the full stop after dotibus (line 412); the closing exhortation Noli adfectare quod tibi non est datum... is parenetic elaboration and is cut."
+    },
+    {
+      "locus": "Phaedrus 3.19.8-9 (Aesopus Respondet Garrulo)",
+      "type": "direct-speech",
+      "question": "Aesope, medio sole quid tu lumine?",
+      "answer": "Hominem quaero.",
+      "derivation": "Verbatim question from the busybody in the crowd (line 425), with the framing Et quidam e turba garrulus dropped. Answer is Aesopus' reply with the speech tag inquit removed; the trailing narration Et abiit festinans domum is dropped."
+    }
+  ]
+}

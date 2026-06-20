@@ -1,0 +1,19 @@
+{
+  "source": "text/oresmius.txt",
+  "pairs": [
+    {
+      "locus": "Oresme, De Moneta, cap. VI (Matth. 22,20-21)",
+      "type": "direct-speech",
+      "question": "Cuius est imago et superscriptio haec?",
+      "answer": "Caesaris.",
+      "derivation": "Christ, shown a denarius, asks whose image and inscription it bears; the answer given is 'Caesaris'. Dropped the speech-frame 'Salvator noster, ostenso sibi quodam denario, interrogavit dicens:' before the question and 'et cum responsum est:' before the answer. The answer is a single word that genuinely answers the question; the following sentence 'ipse sententiavit dicens: Reddite ergo...' is Christ's further pronouncement, not part of the response to this question, so it is excluded."
+    },
+    {
+      "locus": "Oresme, De Moneta, cap. XXIII",
+      "type": "authorial-rhetorical",
+      "question": "Item si de iure communi spectat ad communitatem ordinare de monetis ut dictum est saepe, et ipsa propter discordiam multitudinis non potuit convenire in unum modum, nonne ipsa potuit in hoc condescendere quod totaliter dispositio monetae ex tunc de caetero staret in principis voluntate?",
+      "answer": "Certe, sic et quod ratione huius ipse caperet emolumentum in mutatione sive ordinatione monetae.",
+      "derivation": "An authorial 'nonne...?' question answered by the author himself with 'Certe, sic'. The setup 'Item si de iure communi spectat ad communitatem ordinare de monetis... et ipsa propter discordiam multitudinis non potuit convenire in unum modum' is kept verbatim so that 'ipsa' (the communitas) has a referent. The answer runs to the first full stop; the next sentence ('Item, in capitulo VII dicebatur...') begins a new argument and is excluded."
+    }
+  ]
+}

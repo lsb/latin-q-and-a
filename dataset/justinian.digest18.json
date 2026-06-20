@@ -1,0 +1,47 @@
+{
+  "source": "text/justinian/digest18.txt",
+  "pairs": [
+    {
+      "locus": "Digesta 18.1.40pr (Paulus 4 epit. alf. Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Qui fundum vendebat, in lege ita dixerat, ut emptor in diebus triginta proximis fundum metiretur et de modo renuntiaret, et si ante eam diem non renuntiasset, ut venditoris fides soluta esset: emptor intra diem mensurae quo minorem modum esse credidit renuntiavit et pecuniam pro eo accepit: postea eum fundum vendidit et cum ipse emptori suo admetiretur, multo minorem modum agri quam putaverat invenit: an id quod minor is esset consequi a suo venditore posset?",
+      "answer": "Interesse, quemadmodum lex diceretur: nam si ita dictum esset, ut emptor diebus triginta proximis fundum metiatur et domino renuntiet, quanto modus agri minor sit, quo post diem trigensimum renuntiasset, nihil ei profuturum: sed si ita pactum esset, ut emptor in diebus proximis fundum metiatur et de modo agri renuntiet, etsi in diebus triginta renuntiasset minorem modum agri esse, quamvis multis post annis posse eum quo minor is modus agri fuisset repetere.",
+      "derivation": "Real interrogative governed by 'quaerebat, an...'; the asking-frame 'quaerebat,' is dropped and the indirect clause normalized to a direct question. Setup (the whole fact pattern) is kept verbatim so 'eum fundum', 'suo venditore' have referents. Answer drops the speech-tag 'respondit' and runs to the end of the response, which is a single contiguous span genuinely answering 'it depends on how the clause was worded'."
+    },
+    {
+      "locus": "Digesta 18.1.64 (Iavolenus 2 epist.)",
+      "type": "authorial-rhetorical",
+      "question": "Fundus ille est mihi et titio emptus: utrum in partem an in totum venditio consistat an nihil actum sit?",
+      "answer": "Personam titii supervacuo accipiendam puto ideoque totius fundi emptionem ad me pertinere.",
+      "derivation": "Direct interrogative 'utrum... an... an...'; asking-frame 'quaero,' dropped and capitalization/terminal punctuation normalized to a question. Setup 'Fundus ille est mihi et titio emptus' kept so 'titii' has a referent. Answer drops the speech-tag 'respondi' (finite 'puto' stands alone); the whole response is the answer."
+    },
+    {
+      "locus": "Digesta 18.1.65 (Iavolenus 11 epist.)",
+      "type": "authorial-rhetorical",
+      "question": "Convenit mihi tecum, ut certum numerum tegularum mihi dares certo pretio quod ut faceres: utrum emptio sit an locatio?",
+      "answer": "Si ex meo fundo tegulas tibi factas ut darem convenit, emptionem puto esse, non conductionem.",
+      "derivation": "Direct interrogative 'utrum emptio sit an locatio?' kept with its factual setup. Answer drops the speech-tag 'respondit,'; the operative answering sentence runs to 'non conductionem', stopping where the jurist turns to general elaboration ('totiens enim conductio...'). Finite 'puto' stands alone."
+    },
+    {
+      "locus": "Digesta 18.1.69 (Proculus 11 epist.)",
+      "type": "authorial-rhetorical",
+      "question": "Rutilia polla emit lacum sabatenem angularium et circa eum lacum pedes decem: numquid et decem pedes, qui tunc accesserunt, sub aqua sint, quia lacus crevit, an proximi pedes decem ab aqua rutiliae pollae iuris sint?",
+      "answer": "Ego existimo eatenus lacum, quem emit rutilia polla, venisse quatenus tunc fuit, et circa eum decem pedes qui tunc fuerunt, nec ob eam rem, quod lacus postea crevit, latius eum possidere debet quam emit.",
+      "derivation": "Direct interrogative 'numquid... an...'; asking-frame 'quaero,' dropped, setup kept so 'eum lacum' / 'rutiliae pollae' have referents. Answer drops the speech-tag 'proculus respondit:' and runs from 'Ego existimo' to the end, a single contiguous span that answers the question."
+    },
+    {
+      "locus": "Digesta 18.6.12 (Alfenus 2 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Si vendita insula combusta esset, cum incendium sine culpa fieri non possit, quid iuris sit?",
+      "answer": "Quia sine patris familias culpa fieri potest neque, si servorum neglegentia factum esset, continuo dominus in culpa erit, quam ob rem si venditor eam diligentiam adhibuisset in insula custodienda, quam debent homines frugi et diligentes praestare, si quid accidisset, nihil ad eum pertinebit.",
+      "derivation": "Already a direct interrogative ('quid iuris sit?'). Answer drops the speech-tag 'respondit,' and runs to the end as one contiguous span genuinely resolving the case (loss does not fall on the seller who exercised proper care)."
+    },
+    {
+      "locus": "Digesta 18.7.9 (Paulus 5 quaest.)",
+      "type": "authorial-rhetorical",
+      "question": "Titius servum vendidit ea lege, ut, si romae moratus esset, manus inicere liceret: emptor alii eadem lege vendidit: servus fugit a secundo emptore et romae moratur: an sit manus iniectio et cui?",
+      "answer": "In fugitivo non est dubitandum nihil contra legem factum videri, quia nec domino auferre se potest nec qui in fuga est ibi moratur.",
+      "derivation": "Direct interrogative; asking-frame 'quaero,' dropped, the whole fact narrative kept as setup so the question is intelligible. Answer drops the speech-tag 'respondi:'; the operative first sentence ('In fugitivo...') directly answers the case, stopping before the further 'quod si...' subcases that digress into other scenarios."
+    }
+  ]
+}

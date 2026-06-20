@@ -1,0 +1,33 @@
+{
+  "source": "text/plautus/mostellaria.txt",
+  "pairs": [
+    {
+      "locus": "Plautus, Mostellaria 159-161",
+      "type": "direct-speech",
+      "question": "Eventus rebus omnibus, velut horno messis magna fuit. Quid ea messis attinet ad meam lavationem?",
+      "answer": "Nihilo plus quam lavatio tua ad messim.",
+      "derivation": "Scapha makes a sententious remark about outcomes and this year's great harvest; Philematium asks a genuine interrogative (Quid ea messis attinet...?) and Scapha answers it directly with the witty retort. Included Scapha's preceding 'Eventus rebus omnibus, velut horno messis magna fuit.' as verbatim setup so 'ea messis' has its referent. Dropped speaker labels SC./PHILEM. The answer ends at its full stop; what follows is Philolaches's aside 'O Venus venusta...', not part of the reply."
+    },
+    {
+      "locus": "Plautus, Mostellaria 636-637",
+      "type": "direct-speech",
+      "question": "Quid eo est argento factum?",
+      "answer": "Salvom est.",
+      "derivation": "Theopropides asks a real interrogative about the money his son borrowed; Tranio answers directly that it is safe. Dropped the speaker labels TH./TR. Answer is the complete reply 'Salvom est.' (next, Theopropides retorts 'Solvite vosmet igitur, si salvomst.', which is his own counter, not an answer)."
+    },
+    {
+      "locus": "Plautus, Mostellaria 974",
+      "type": "direct-speech",
+      "question": "Ain minis triginta amicam destinatam Philolachi?",
+      "answer": "Aio.",
+      "derivation": "In the interrogation scene, Theopropides poses a genuine yes/no question (Ain... destinatam Philolachi?) and Phaniscus affirms 'Aio.' Dropped the speaker labels TH./PHAN. The answer is the complete one-word affirmation."
+    },
+    {
+      "locus": "Plautus, Mostellaria 1044",
+      "type": "direct-speech",
+      "question": "Is aedis emit has hinc proxumas?",
+      "answer": "Non aio.",
+      "derivation": "Theopropides asks a genuine yes/no question whether his son bought the neighbouring houses; Phaniscus answers 'Non aio.' (= no). Dropped the speaker labels TH./PHAN. and the dangling interjection 'Quid?' that precedes the question (framing exclamation, not part of the interrogative); normalized capitalization of 'Is'. The answer is the complete reply."
+    }
+  ]
+}

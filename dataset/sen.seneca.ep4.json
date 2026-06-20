@@ -1,0 +1,54 @@
+{
+  "source": "text/sen/seneca.ep4.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Epistulae Morales 31.4",
+      "type": "authorial-rhetorical",
+      "question": "Labor bonum non est: quid ergo est bonum?",
+      "answer": "Laboris contemptio.",
+      "derivation": "Setup 'Labor bonum non est' kept verbatim so 'quid ergo est bonum?' has its contrasting referent. Answer is the immediate two-word reply; window ends at the first full stop. What follows ('Itaque in vanum operosos culpaverim...') turns to elaboration and is cut."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 31.6",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo est bonum?",
+      "answer": "Rerum scientia.",
+      "derivation": "Self-answered question. Source has a stray space before the '?' ('bonum ?'); terminal punctuation normalized. Answer is the immediate reply, ending at the full stop; the next sentence is a separate Q&A ('Quid malum est?')."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 31.6",
+      "type": "authorial-rhetorical",
+      "question": "Quid malum est?",
+      "answer": "Rerum imperitia.",
+      "derivation": "Self-answered question immediately following the 'bonum' pair. Answer ends at the full stop; what follows ('Ille prudens atque artifex...') digresses."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 31.11",
+      "type": "authorial-rhetorical",
+      "question": "Quaerendum est quod non fiat in dies peius, cui non possit obstari. Quid hoc est?",
+      "answer": "Animus, sed hic rectus, bonus, magnus.",
+      "derivation": "Preceding sentence 'Quaerendum est quod non fiat in dies peius, cui non possit obstari' kept verbatim as setup so 'hoc' has a referent. Answer ends at the full stop; what follows ('Quid aliud voces hunc...') is a further rhetorical question."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 41.6",
+      "type": "authorial-rhetorical",
+      "question": "Quis est ergo hic animus?",
+      "answer": "Qui nullo bono nisi suo nitet.",
+      "derivation": "'hic animus' refers to the divine animus described in 41.5, intelligible from context; question and direct answer kept. Answer ends at the full stop; the next sentence ('Quid enim est stultius...') opens a new question."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 41.8",
+      "type": "authorial-rhetorical",
+      "question": "Lauda in illo quod nec eripi potest nec dari, quod proprium hominis est. Quaeris quid sit?",
+      "answer": "Animus et ratio in animo perfecta.",
+      "derivation": "Preceding sentence kept verbatim as setup so 'quid sit' has its subject ('quod proprium hominis est'). 'Quaeris' is retained as the operative interrogative. Answer ends at the full stop; what follows ('Rationale enim animal est homo...') elaborates."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 41.8",
+      "type": "authorial-rhetorical",
+      "question": "Quid est autem quod ab illo ratio haec exigat?",
+      "answer": "Rem facillimam, secundum naturam suam vivere.",
+      "derivation": "Self-answered question; 'illo' (homo) and 'ratio' supplied by the immediately preceding sentence. Answer ends at the full stop; what follows ('Sed hanc difficilem facit communis insania...') digresses."
+    }
+  ]
+}

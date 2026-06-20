@@ -1,0 +1,26 @@
+{
+  "source": "text/sen/seneca.ep9.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Epistulae Morales 75.9",
+      "type": "authorial-rhetorical",
+      "question": "Qui sint hi?",
+      "answer": "Qui omnes iam adfectus ac vitia posuerunt, quae erant conplectenda didicerunt, sed illis adhuc inexperta fiducia est.",
+      "derivation": "Author asks who the 'first class' of those-making-progress are, then answers. Dropped the framing speech-tag 'quaeris' (narrates the asking, per the prompt's example 'fortasse requiris'), leaving the bare interrogative 'Qui sint hi?'. Answer ends at the first full stop ('...fiducia est.'); what follows ('Bonum suum nondum in usu habent...') elaborates rather than answers, so it is cut."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 75.18",
+      "type": "authorial-rhetorical",
+      "question": "Expectant nos, si ex hac aliquando faece in illud evadimus sublime et excelsum, tranquillitas animi et expulsis erroribus absoluta libertas. Quae sit ista?",
+      "answer": "Non homines timere, non deos; nec turpia velle nec nimia; in se ipsum habere maximam potestatem: inaestimabile bonum est suum fieri.",
+      "derivation": "Kept the preceding sentence (verbatim, with editorial <si> brackets stripped to 'si') so the question's 'ista' has a referent (tranquillitas animi ... absoluta libertas). Dropped the framing tag 'Quaeris', leaving 'Quae sit ista?'. The answer is the contiguous definition that immediately follows; it runs to 'Vale.' which is the letter-closing scaffolding and is excluded."
+    },
+    {
+      "locus": "Seneca, Epistulae Morales 76.3",
+      "type": "authorial-rhetorical",
+      "question": "Quid doceam?",
+      "answer": "Etiam seni esse discendum.",
+      "derivation": "Author poses and answers his own question. Dropped the framing speech-tag 'Quaeris', leaving the bare interrogative 'Quid doceam?'. The answer is the immediately following clause; capitalization of 'Etiam' normalized."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source": "text/justinian/digest46.txt",
+  "pairs": [
+    {
+      "locus": "Digest 46.1.19 (Iulianus 4 ex minic.)",
+      "type": "authorial-rhetorical",
+      "question": "Servus inscio domino pro quodam fideiusserat et eo nomine pecuniam solverat: dominus possetne ab eo, cui soluta esset, repetere?",
+      "answer": "Interest, quo nomine fideiusserit.",
+      "derivation": "Juristic prose Q&A: the framing verb of asking 'quaerebatur,' is dropped; the scenario sentence is kept so 'dominus'/'eo' have referents. Answer cut after the operative 'fideiusserit' (before the colon + 'nam si ex causa peculiari...' which elaborates the cases). Section markers and jurist attribution stripped."
+    },
+    {
+      "locus": "Digest 46.1.38.1 (Marcellus 20 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "A titio, qui mihi ex testamento sub condicione decem debuit, fideiussorem accepi et ei heres extiti: deinde condicio legati exstitit: an fideiussor mihi teneatur?",
+      "answer": "Si ei, a quo tibi erat sub condicione legatum, cum ab eo fideiussorem accepisses, heres exstiteris, non poteris habere fideiussorem obligatum.",
+      "derivation": "Framing 'quaero,' and reply tag 'respondit,' dropped. Answer ends at 'obligatum'; the trailing 'quia nec reus est, pro quo debeat, sed nec res ulla, quae possit deberi.' is an explanatory elaboration and is cut."
+    },
+    {
+      "locus": "Digest 46.1.44 (Iavolenus 11 epist.)",
+      "type": "authorial-rhetorical",
+      "question": "Stipulatus es opus arbitratu tuo ante certam diem fieri, quod si effectum non esset, quanti ut efficiatur opus locasses, tanti fideiussores cepisti: et quia opus effectum non erat, alii locasti et, cum posterior conductor satis non daret, ipse opus fecisti: an fideiussor teneatur?",
+      "answer": "Secundum ea verba stipulationis, quae a te proposita sunt, fideiussores non tenentur.",
+      "derivation": "Framing 'quaero,' and reply tag 'respondit:' dropped. Answer is the first full-stop sentence of the reply; the following 'non enim id fecisti, quod in stipulatione convenerat...' justifies and is cut."
+    },
+    {
+      "locus": "Digest 46.1.45 (Scaevola 6 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Fideiussor pro venditore fundorum duorum altero evicto conventus ab emptore condemnatus est certam quantitatem: an cum herede venditoris ante diem, quo iudicatum facere compelleretur, agere possit?",
+      "answer": "Agere quidem posse, sed ex iusta causa ad officium iudicis pertinere quo fideiussor aut defendatur aut liberaretur.",
+      "derivation": "Framing 'quaesitum est,' and reply tag 'respondit' dropped. The whole single-sentence reply is the answer (the 'sed ex iusta causa...' qualifies but is part of the operative response)."
+    },
+    {
+      "locus": "Digest 46.1.62 (Scaevola 5 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Si fideiussor creditori denuntiaverit, ut debitorem ad solvendam pecuniam compelleret vel pignus distraheret, isque cessaverit, an possit eum fideiussor doli mali exceptione summovere?",
+      "answer": "Non posse.",
+      "derivation": "Direct 'an...?' interrogative answered by 'respondit non posse'; the reply tag 'respondit' is dropped and the first word capitalized. Whole entry is the question; setup kept for intelligibility."
+    },
+    {
+      "locus": "Digest 46.1.63 (Scaevola 6 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Inter creditricem et debitorem pactum intercesserat, ut, si centum, quae mutua dederit, ubi primum petita fuissent, non solverentur, ornamenta pignori data intra certum tempus liceret ei vendere et si quo minoris venissent, quodque sortis vel usurarum nomine deberetur, id creditrici redderetur, et fideiussor acceptus est: an fideiussor in universam summam obligari potuerit?",
+      "answer": "Secundum ea quae proponerentur teneri fideiussorem in id, quod minus ex pignoribus venditis redactum esset.",
+      "derivation": "Framing 'quaesitum est,' and reply tag 'respondit' dropped. Full scenario kept so the pact and the 'fideiussor' are intelligible; the reply is a single sentence answering the question."
+    },
+    {
+      "locus": "Digest 46.3.88 (Scaevola 5 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Filiae intestato patri heredis negotia mater gessit et res vendendas per argentarios dedit idque ipsum codice conscriptum est: argentarii universum redactum venditionis solverunt et post solutionem novem fere annis, quidquid agendum erat, nomine pupillae mater egit eamque marito nuptum collocavit et res ei tradidit. An puella cum argentariis aliquam actionem habet, quando non ipsa stipulata sit pretium rerum, quae in venditionem datae sunt, sed mater?",
+      "answer": "Si de eo quaereretur, an iure ea solutione argentarii liberati essent, responderi iure liberatos.",
+      "derivation": "Framing 'quaesitum est,' and reply tag 'respondit,' dropped; sentence-initial 'an' capitalized to 'An'. Answer is the jurist's single-sentence reply (concluding the bankers were freed); the following 'claudius: subest enim...' commentator note is excluded."
+    },
+    {
+      "locus": "Digest 46.3.89.1 (Scaevola 29 Dig.)",
+      "type": "authorial-rhetorical",
+      "question": "Lucius titius ex duobus chirographis, quibus quadringenta ei a seio debebantur, altero centum, altero trecentum, scripsit seio, ut unius chirographi centum per maevium et septicium sibi mitterentur: an seius, si maevio et septicio ex trecentum quoque solvisse se dicat, liberatus sit?",
+      "answer": "Si nec mandavit, ut ex trecentum solveretur, nec solutum ratum habuit, non esse liberatum.",
+      "derivation": "Framing 'quaero,' and reply tag 'respondit,' dropped. The reply is a single conditional sentence answering whether Seius was released."
+    },
+    {
+      "locus": "Digest 46.3.102pr. (Scaevola 5 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Creditor oblatam a debitore pecuniam ut alia die accepturus distulit: mox pecunia, qua illa res publica utebatur, quasi aerosa iussu praesidis sublata est: item pupillaris pecunia, ut possit idoneis nominibus credi servata, ita interempta est: cuius detrimentum esset?",
+      "answer": "Secundum ea quae proponerentur nec creditoris nec tutoris detrimentum esse.",
+      "derivation": "Framing 'quaesitum est,' and reply tag 'respondi' dropped. Indirect interrogative 'cuius detrimentum esset' answered by a single-sentence reply."
+    },
+    {
+      "locus": "Digest 46.3.102.1 (Scaevola 5 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Cum de sorte debita constaret, de usura litigatum esset, novissime ex appellatione pronuntiatum est solutas quidem usuras non repeti, in futurum vero non deberi: pecunia data utrum usuris cedere deberet, quod petitor defenderet, an vero sorti proficeret?",
+      "answer": "Si qui dabat, in sortem se dare dixisset, usuris non debere proficere.",
+      "derivation": "Framing 'quaero,' and reply tag 'respondi,' dropped. 'utrum...an vero...?' interrogative answered by a single-sentence reply."
+    },
+    {
+      "locus": "Digest 46.3.102.2 (Scaevola 5 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Valerius lucii titii servus scripsit: 'accepi a mario marino ex summa maiore tot aureos': an haec summa in proximum annum ei accepto ferri debeat, cum superioris anni sit reliquator?",
+      "answer": "Videri in primam quamque summam liberationem proficere.",
+      "derivation": "Framing 'quaero,' and reply tag 'respondi' dropped. The quoted cautio is kept as the referent of 'haec summa'; the reply is a single sentence."
+    },
+    {
+      "locus": "Digest 46.3.102.3 (Scaevola 5 resp.)",
+      "type": "authorial-rhetorical",
+      "question": "Titius mutuam pecuniam accepit et quincunces usuras spopondit easque paucis annis solvit: postea nullo pacto interveniente per errorem et ignorantiam semisses usuras solvit: an patefacto errore id, quod amplius usurarum nomine solutum esset quam in stipulatum deductum, sortem minueret?",
+      "answer": "Si errore plus in usuris solvisset quam deberet, habendam rationem in sortem eius quod amplius solutum est.",
+      "derivation": "Framing 'quaero,' and reply tag 'respondit,' dropped. The reply is a single conditional sentence answering whether the overpayment reduces the principal."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.met6.txt",
+  "pairs": [
+    {
+      "locus": "Metamorphoses 6.42-43",
+      "type": "direct-speech",
+      "question": "cur non ipsa venit? cur haec certamina vitat?",
+      "answer": "venit!",
+      "derivation": "Arachne, addressing the disguised Pallas, ends her retort with two interrogatives asking why the goddess does not come in person and shuns the contest. The goddess answers directly: tum dea 'venit!' ait. The question is the two contiguous interrogative sentences (cur non ipsa venit? cur haec certamina vitat?); referents (Pallas / the weaving contest) are established earlier in the same speech. Answer trimmed to the single operative word 'venit!' before the speech-tag/narration 'ait formamque removit anilem Palladaque exhibuit' (she then drops the old-woman guise and reveals herself)."
+    }
+  ]
+}

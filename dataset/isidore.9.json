@@ -1,0 +1,19 @@
+{
+  "source": "text/isidore/9.txt",
+  "pairs": [
+    {
+      "locus": "Isidore, Etymologiae 9.1.12",
+      "type": "authorial-rhetorical",
+      "question": "Qua lingua angeli loquantur?",
+      "answer": "Non quod angelorum aliquae linguae sint, sed hoc per exaggerationem dicitur.",
+      "derivation": "Authorial question posed via the framing 'Vbi quaeritur' (dropped as narration of the asking) following the Pauline quotation 'Si linguis hominum loquar et angelorum.' The interrogative clause 'qua lingua angeli loquantur' is normalized to a direct question with capital Q and '?'. The answer is the author's own resolution that immediately follows the semicolon ('non quod angelorum aliquae linguae sint, sed hoc per exaggerationem dicitur'); section continues into [13] with a separate new question."
+    },
+    {
+      "locus": "Isidore, Etymologiae 9.1.13",
+      "type": "authorial-rhetorical",
+      "question": "Qua lingua in futurum homines loquantur?",
+      "answer": "Nusquam reperitur.",
+      "derivation": "Authorial question posed via the framing 'Item quaeritur' (dropped as narration of the asking); the indirect-question clause 'qua lingua in futurum homines loquantur' is normalized to a direct question. The answer is the author's own 'nusquam reperitur' (it is found nowhere) immediately after the colon; cut before the following supporting citation 'Nam dicit Apostolus (1 Cor. 13,8): Sive linguae, cessabunt,' which is justification, not the answer."
+    }
+  ]
+}

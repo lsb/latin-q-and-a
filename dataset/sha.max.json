@@ -1,0 +1,33 @@
+{
+  "source": "text/sha/max.txt",
+  "pairs": [
+    {
+      "locus": "Historia Augusta, Maximini Duo 3.3",
+      "type": "direct-speech",
+      "question": "Quid vis Thracisce? Num quid delectat luctari post cursum?",
+      "answer": "Quantum libet, Imperator.",
+      "derivation": "Severus' words to Maximinus, framing 'ait ei' dropped. Two interrogatives (quid vis; num quid delectat). Maximinus' reply with framing 'inquit' dropped; the reply is complete, nothing cut after."
+    },
+    {
+      "locus": "Historia Augusta, Maximini Duo 6.4-5",
+      "type": "direct-speech",
+      "question": "Quid tantum laboras, cum eius loci iam sis, ut ducatum possis accipere?",
+      "answer": "Ego vero, quo maior fuero, tanto plus laborabo.",
+      "derivation": "Tribunes' interrogative; framing 'quidam tribuni reprehenderent dicentes' dropped. Answer is Maximinus' direct reply; framing 'ille dixisse fertur' dropped and answer stops at first full stop before the following narration 'Exercebat cum militibus...'."
+    },
+    {
+      "locus": "Historia Augusta, Maximini Duo 16.4",
+      "type": "direct-speech",
+      "question": "De Maximinis quid placet?",
+      "answer": "Hostes, hostes. Qui eos occiderit, praemium merebitur.",
+      "derivation": "Consul's interrogative in the senate; framing 'Item consul rettulit' and the vocative-only address 'P. c.' dropped as framing. Answer is the senate's full response; framing 'Responsum est' dropped."
+    },
+    {
+      "locus": "Historia Augusta, Maximini Duo 16.5",
+      "type": "direct-speech",
+      "question": "De amicis Maximini quid videretur?",
+      "answer": "Hostes, hostes. Qui eos occiderit, praemium merebitur.",
+      "derivation": "Consul's interrogative; framing 'Item consul dixit' dropped. Editorial brackets in 'vide[re]tur' stripped keeping the word -> videretur. Answer is the acclamation; framing 'Adclamatum est' dropped."
+    }
+  ]
+}

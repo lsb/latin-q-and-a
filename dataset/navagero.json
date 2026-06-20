@@ -1,0 +1,12 @@
+{
+  "source": "text/navagero.txt",
+  "pairs": [
+    {
+      "locus": "Navagero, Lusus 26 (Ad Gelliam rusticantem), 575-597",
+      "type": "authorial-rhetorical",
+      "question": "Ecqua tui, mea lux, tangit te cura poetae, an meus e toto pectore cessit amor?",
+      "answer": "Quin et mansit amor, soliti mansere calores: absentis meminit nostra puella viri.",
+      "derivation": "The poet poses the rhetorical question (whether his beloved still cares / whether his love has departed) in the couplet 'Ecqua tui... cessit amor?'. The reply opens with a non-answering preamble that argues the OPPOSITE (578-595: 'Cessit amor certe, soliti cessere calores... Femina nunc varias tantum connectere fraudes / Novit'), a digression on women's fickleness that the poet then dismisses as raving with 'Quid queror haec demens?' (592). I advance the answer's start past this deflection to the operative answering couplet (596-597), marked by 'Quin et' ('indeed, moreover'), which affirms his own girl's constancy and so directly answers the question. End at the full stop after 'viri'; what follows (598, 'Multa tamen timeo') turns to a new theme of the poet's fears."
+    }
+  ]
+}

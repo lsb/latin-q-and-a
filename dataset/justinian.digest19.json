@@ -1,0 +1,19 @@
+{
+  "source": "text/justinian/digest19.txt",
+  "pairs": [
+    {
+      "locus": "Digest 19.2.21",
+      "type": "authorial-rhetorical",
+      "question": "Cum venderem fundum, convenit, ut, donec pecunia omnis persolveretur, certa mercede emptor fundum conductum haberet: an soluta pecunia merces accepta fieri debeat?",
+      "answer": "Bona fides exigit, ut quod convenit fiat.",
+      "derivation": "Iavolenus poses a consultation question ('an soluta pecunia merces accepta fieri debeat?'), a genuine interrogative; the setup ('Cum venderem fundum...conductum haberet') is kept so the question's referents are intelligible. Dropped the framing word 'respondit:' that narrates the reply. Answer ends at the operative clause 'Bona fides exigit, ut quod convenit fiat'; the continuation after the colon ('sed non amplius praestat is venditori, quam pro portione eius temporis, quo pecunia numerata non esset') is a qualification where the jurist turns from answering to refining, so it is cut."
+    },
+    {
+      "locus": "Digest 19.2.51.1",
+      "type": "authorial-rhetorical",
+      "question": "Locavi opus faciendum ita, ut pro opere redemptori certam mercedem in dies singulos darem: opus vitiosum factum est: an ex locato agere possim?",
+      "answer": "Si ita opus locasti, ut bonitas eius tibi a conductore adprobaretur, tametsi convenit, ut in singulas operas certa pecunia daretur, praestari tamen tibi a conductore debet, si id opus vitiosum factum est.",
+      "derivation": "Iavolenus poses a direct interrogative ('an ex locato agere possim?') with its factual setup kept verbatim for intelligibility. Dropped the framing word 'respondit:'. Answer is the reply's first sentence, ending at the first full stop after 'si id opus vitiosum factum est'; the following sentences ('poterit itaque ex locato cum eo agi...', 'nisi si ideo in operas singulas merces constituta erit...') are elaboration and an exception, so they are cut."
+    }
+  ]
+}

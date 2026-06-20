@@ -1,0 +1,26 @@
+{
+  "source": "text/more.txt",
+  "pairs": [
+    {
+      "locus": "More, Utopia 1 (colloquium of More and Raphael)",
+      "type": "direct-speech",
+      "question": "Obsecro, fuisti apud nos?",
+      "answer": "Fui, atque aliquot menses ibi sum uersatus, non multo post eam cladem, qua Anglorum occidentalium ciuile aduersus regem bellum miseranda ipsorum strage compressum est.",
+      "derivation": "More breaks in with a yes/no question (\"have you been among us [in England]?\"); dropped the speech tag 'inquam'. Raphael's reply answers it directly; dropped the tag 'inquit' and kept the reply to its first full stop (ending at 'compressum est'); what follows is the start of the dinner scene with Cardinal Morton."
+    },
+    {
+      "locus": "More, Utopia 1 (Raphael and Cardinal Morton at table)",
+      "type": "direct-speech",
+      "question": "Est alia magis quantum credo, peculiaris uobis. Quaenam est ea?",
+      "answer": "Oues uestrae, quae tam mites esse, tamque exiguo solent ali, nunc—uti fertur—tam edaces atque indomitae esse coeperunt, ut homines deuorent ipsos, agros, domos, oppida uastent ac depopulentur.",
+      "derivation": "Question widened with Raphael's own immediately preceding sentence so that 'ea' has a referent (the other, peculiar cause of theft); the interrogative 'Quaenam est ea?' is the Cardinal's, with its tag 'inquit' dropped. The answer is the famous 'sheep' reply; the interleaved framing 'Cardinalis. inquam' between 'oues' and 'uestrae' was dropped to keep the utterance contiguous; cut at the first full stop after 'depopulentur', after which Raphael digresses into how the nobles enclose the land."
+    },
+    {
+      "locus": "More, Utopia 1 (Cardinal Morton questions Raphael)",
+      "type": "direct-speech",
+      "question": "Quare tu furtum putes ultimo supplicio non puniendum quamue aliam poenam ipse statuas, quae magis conducat in publicum?",
+      "answer": "Omnino mihi uidetur, pater benignissime, homini uitam eripi propter ereptam pecuniam prorsus inicum esse.",
+      "derivation": "From the Cardinal's longer speech, isolated the operative interrogative addressed to Raphael (the earlier part dismisses the lawyer and is framing). Raphael's reply opens with the direct answer; dropped the tag 'inquam' and cut at the first full stop after 'esse', after which he elaborates with the 'siquidem cum humana uita...' argument."
+    }
+  ]
+}

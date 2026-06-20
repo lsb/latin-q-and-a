@@ -1,0 +1,33 @@
+{
+  "source": "text/lactantius/demort.txt",
+  "pairs": [
+    {
+      "locus": "Lactantius, De mortibus persecutorum 8.1",
+      "type": "authorial-rhetorical",
+      "question": "Quid frater eius Maximianus, qui est dictus Herculius?",
+      "answer": "Non dissimilis ab eo.",
+      "derivation": "Authorial rhetorical question that the author immediately answers himself. Question is the full interrogative sentence. The answer is the operative reply 'Non dissimilis ab eo'; cut at the colon in the source ('Non dissimilis ab eo:'), terminal colon normalized to a period, before the explanatory continuation 'nec enim possent in amicitiam...'."
+    },
+    {
+      "locus": "Lactantius, De mortibus persecutorum 18.8",
+      "type": "direct-speech",
+      "question": "Quid opus est consilio, cum sit necesse illis duobus placere quicquid nos fecimur?",
+      "answer": "Ita plane. Nam illorum filios nuncupari necesse est.",
+      "derivation": "Direct-speech exchange between Galerius (asking) and Diocletian (answering) over choosing the Caesars. Question and answer are quoted verbatim from the source ('\"Quid opus est consilio...\"--\"Ita plane. Nam illorum filios nuncupari necesse est.\"'). Nothing cut; the answer ends at its natural full stop before the next quoted line."
+    },
+    {
+      "locus": "Lactantius, De mortibus persecutorum 18.12",
+      "type": "direct-speech",
+      "question": "Quos ergo faciemus?",
+      "answer": "Severum.",
+      "derivation": "Direct-speech exchange: Diocletian asks whom they shall make Caesars, Galerius answers 'Severum'. Speech tag 'inquit' (source: '\"Severum\" inquit') dropped as framing; answer is the single naming word, terminal punctuation normalized."
+    },
+    {
+      "locus": "Lactantius, De mortibus persecutorum 18.14",
+      "type": "direct-speech",
+      "question": "Quis est hic quem mihi offers?",
+      "answer": "Meus affinis.",
+      "derivation": "Direct-speech exchange: Diocletian asks who the second nominee (Daia) is, Galerius answers 'Meus affinis'. Source ('Quis est hic quem mihi offers?\"--\"Meus\" inquit \"affinis.\"') lacks an opening quote mark on the question (scaffolding noise) and splits the answer around the speech tag 'inquit'; tag dropped as framing, answer rejoined contiguously as the speaker's own two words in source order."
+    }
+  ]
+}

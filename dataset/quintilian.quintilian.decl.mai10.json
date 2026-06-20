@@ -1,0 +1,33 @@
+{
+  "source": "text/quintilian/quintilian.decl.mai10.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Declamationes maiores 10.5",
+      "type": "authorial-rhetorical",
+      "question": "Vis denique scire, quid uxori tuae detraxeris?",
+      "answer": "Ex defuncto filio non habet aliud, quod speret.",
+      "derivation": "Author addresses the husband, poses the question and immediately answers it. Window begins at the interrogative 'vis denique scire...' (preceding 'quicquid est in filio... cum desinit.' is a separate declarative); ends at the full stop after 'speret.' First word capitalized."
+    },
+    {
+      "locus": "Quintilian, Declamationes maiores 10.6",
+      "type": "authorial-rhetorical",
+      "question": "Exitum paterni affectus quaeritis?",
+      "answer": "Filium videre timuit.",
+      "derivation": "Author poses the question to the audience ('quaeritis?') and answers it in the next sentence. Window starts at 'exitum...' (the preceding quoted speech of the mother, ending '...iam et narro.', is omitted as separate); ends at full stop after 'timuit.' First word capitalized."
+    },
+    {
+      "locus": "Quintilian, Declamationes maiores 10.9",
+      "type": "authorial-rhetorical",
+      "question": "Quantam enim a marito acceperit iniuriam, scire vultis?",
+      "answer": "Sola mater filium perdidit nec potest invidiam facere morti.",
+      "derivation": "Author asks the audience how great an injury she received, then answers. Window starts at 'quantam enim...' (preceding 'nihil queritur misera...exigat lacrimas.' is separate); ends at the full stop after 'morti.' First word capitalized."
+    },
+    {
+      "locus": "Quintilian, Declamationes maiores 10.12",
+      "type": "direct-speech",
+      "question": "Videbas ergo, mulier, ac praesentia fruebaris?",
+      "answer": "Videbam et fruebar.",
+      "derivation": "Orator questions the mother directly; she answers via 'inquit', which is dropped as framing. Answer cut at first full stop's worth of operative content 'videbam et fruebar'; the continuation 'et ad quem pertinebat, rogo, etiamsi decipiebar?' is her own counter-question and is omitted. First word of question capitalized."
+    }
+  ]
+}

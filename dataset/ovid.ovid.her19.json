@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.her19.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Heroides 19.43-44",
+      "type": "direct-speech",
+      "question": "Quid loquar interea tam longo tempore?",
+      "answer": "nil nisi Leandri nomen in ore meo est.",
+      "derivation": "Line 43 'quid loquar interea tam longo tempore, quaeris:' frames an interrogative (quid loquar) that Leander is imagined to ask; the framing verb 'quaeris' ('you ask') narrates the asking and is dropped like 'fortasse requiris', leaving the verbatim interrogative with first-word capitalized and terminal '?' replacing the dangling comma. Line 44 directly answers it. The answer ends at the full stop after 'est'; what follows (line 45 'iamne putas exisse domo mea gaudia, nutrix') is a separate quoted speech to the nurse, so the answer window stops there."
+    }
+  ]
+}

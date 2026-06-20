@@ -1,0 +1,19 @@
+{
+  "source": "text/persius.txt",
+  "pairs": [
+    {
+      "locus": "Persius, Prologus 8-11",
+      "type": "authorial-rhetorical",
+      "question": "Quis expediuit psittaco suum 'chaere' picamque docuit nostra uerba conari?",
+      "answer": "Magister artis ingenique largitor uenter, negatas artifex sequi uoces.",
+      "derivation": "Author asks who taught the parrot its 'chaere' and the magpie to attempt human words, then answers himself: the belly. Question spans lines 8-9 to its '?'. Answer is the self-reply (lines 10-11), ending at the full stop after 'uoces'; what follows ('quod si dolosi spes refulserit nummi...') is a separate consequent clause, not part of the answer. Capitalized first words; no Latin altered."
+    },
+    {
+      "locus": "Persius 2.69-70",
+      "type": "authorial-rhetorical",
+      "question": "In sancto quid facit aurum?",
+      "answer": "Nempe hoc quod Veneri donatae a uirgine pupae.",
+      "derivation": "Author poses and answers his own question about gold in a temple. Dropped the asking-narration 'at uos / dicite, pontifices,' (frames the act of asking, like 'adloquitur') and kept the bare interrogative 'in sancto quid facit aurum?'. Answer is the self-reply line 71, ending at the full stop after 'pupae'; what follows ('quin damus id superis...') turns to a new exhortation. Capitalized first words; no Latin altered."
+    }
+  ]
+}

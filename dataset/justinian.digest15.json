@@ -1,0 +1,26 @@
+{
+  "source": "text/justinian/digest15.txt",
+  "pairs": [
+    {
+      "locus": "Digest 15.1.54",
+      "type": "direct-speech",
+      "question": "Filio familias uni ex heredibus praedia praelegavit ut instructa erant cum servis: hi servi domini debitores fuerunt: an ceteris heredibus adversus eum actio de peculio competat?",
+      "answer": "Non competere.",
+      "derivation": "Scaevola responsum. Dropped the framing 'quaesitum est,' before the interrogative and the speech tag 'respondit' before the answer. The factual setup (filio... praelegavit... debitores fuerunt) is kept contiguous as the question because 'eum' and 'ceteris heredibus' need their referents. Answer is the complete reply 'non competere'; nothing follows it in the section."
+    },
+    {
+      "locus": "Digest 15.1.58",
+      "type": "direct-speech",
+      "question": "Uni ex heredibus praedia legavit ut instructa erant cum servis et ceteris rebus et quidquid ibi esset: hi servi domino debitores fuerunt tam ex aliis causis quam ex ratione kalendarii: an ceteris heredibus adversus eum pecuniae ab his debitae actio de peculio competit?",
+      "answer": "Non competere.",
+      "derivation": "Scaevola Digesta. Dropped framing 'quaesitum est,' and speech tag 'respondit'. Setup (uni... legavit... debitores fuerunt) kept as question for the referents of 'eum' and 'ceteris heredibus'. Answer is the entire reply 'non competere'; nothing follows."
+    },
+    {
+      "locus": "Digest 15.3.21",
+      "type": "direct-speech",
+      "question": "Filiam familias duxit uxorem patre dotem promittente et convenit inter omnes personas, uti eam pater aut ipsa se tueretur: maritus ei mutuos nummos dedit, cum iuste putaret patrem eius ministraturum tantum salarium, quantum dare filiae suae instituerat: eos nummos illa in usus necessarios sibi et in servos quos secum habebat consumpsit, aliquantum et cum ei res familiares creditae essent ex pecunia mariti in easdem causas convertit: deinde priusquam pater salarium expleret, moritur filia: pater impensam recusat: maritus res mulieris retinet: an de in rem verso adversus patrem actio competat?",
+      "answer": "Si ad ea id quod creditum est erogatum esset, sine quibus aut se tueri aut servos paternos exhibere non posset, dandam de in rem verso utilem actionem.",
+      "derivation": "Scaevola Digesta. Dropped 'quaero,' before the interrogative and 'respondit,' before the answer; stripped the editorial '( )' parenthesis marks around 'cum ei res familiares creditae essent' keeping the words. The long fact-pattern is kept contiguous as the question (needed so 'patrem', 'pater', the dos and salarium have referents). The answer is the single conditional reply sentence (a substantive conditional grant, not a non-answering preamble); it is the whole of the response to its full stop."
+    }
+  ]
+}

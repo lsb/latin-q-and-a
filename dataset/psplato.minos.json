@@ -1,0 +1,47 @@
+{
+  "source": "text/psplato.minos.txt",
+  "pairs": [
+    {
+      "locus": "Plato, Minos (tr. Ficino)",
+      "type": "direct-speech",
+      "question": "Quorum sunt scripta constitutionesque de cultu hortorum?",
+      "answer": "Horticultorum.",
+      "derivation": "Socrates asks (interrogative quorum) whose writings concern garden-cultivation; Minos answers substantively 'Horticultorum.' Stripped the 'S.'/'M.' speaker labels. Self-contained one-line exchange."
+    },
+    {
+      "locus": "Plato, Minos (tr. Ficino)",
+      "type": "direct-speech",
+      "question": "At quorum sunt de condimentis obsoniorum scripta atque instituta?",
+      "answer": "Coquorum.",
+      "derivation": "Interrogative (quorum) asking whose are the writings on seasoning of foods; answered substantively 'Coquorum.' Stripped speaker labels; kept the author's connective 'At' as part of the utterance. Self-contained."
+    },
+    {
+      "locus": "Plato, Minos (tr. Ficino)",
+      "type": "direct-speech",
+      "question": "Quis spargendorum in terram seminum peritus est?",
+      "answer": "Agricola.",
+      "derivation": "Interrogative (quis) asking who is skilled in sowing seed; answered substantively 'Agricola.' Stripped speaker labels. Self-contained."
+    },
+    {
+      "locus": "Plato, Minos (tr. Ficino)",
+      "type": "direct-speech",
+      "question": "Ei vero qui pecudum gregem pascere novit, quod nomen est?",
+      "answer": "Pastor.",
+      "derivation": "Interrogative (quod nomen est) asking the name for one who knows how to feed a flock; answered substantively 'Pastor.' Stripped speaker labels. Self-contained."
+    },
+    {
+      "locus": "Plato, Minos (tr. Ficino)",
+      "type": "direct-speech",
+      "question": "An nescis, quae Graecorum gentes antiquissimis legibus utantur?",
+      "answer": "Forte Lacaedemonios et Lycurgum Lacaedaemoniorum legum latorem dicis.",
+      "derivation": "Socrates asks (interrogative An nescis... quae) which Greek peoples use the most ancient laws; Minos answers substantively naming the Lacedaemonians and Lycurgus. Stripped speaker labels. Self-contained."
+    },
+    {
+      "locus": "Plato, Minos (tr. Ficino)",
+      "type": "direct-speech",
+      "question": "Legum earum praecipuae unde venerunt, nosti?",
+      "answer": "Ex Creta ferunt.",
+      "derivation": "Interrogative (unde... nosti) asking where the chief of those laws came from; answered substantively 'Ex Creta ferunt.' Stripped speaker labels and the author's leading connective framing 'sed'; normalized capitalization of the now-initial 'Legum.' Self-contained on the topic of where the laws originate."
+    }
+  ]
+}

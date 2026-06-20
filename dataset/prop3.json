@@ -1,0 +1,26 @@
+{
+  "source": "text/prop3.txt",
+  "pairs": [
+    {
+      "locus": "Propertius 3.7.285-286",
+      "type": "authorial-rhetorical",
+      "question": "Paete, quid aetatem numeras? quid cara natanti mater in ore tibist?",
+      "answer": "Non habet unda deos.",
+      "derivation": "Apostrophe to the drowned Paetus: the poet poses rhetorical questions (quid aetatem numeras / quid cara mater in ore) and answers them himself with the terse maxim 'non habet unda deos' ('the wave has no gods'). Window ends at the first full stop; what follows (et mater non iusta...) turns from answering to elaborating Paetus's plight. No framing word to strip; only terminal capitalization normalized."
+    },
+    {
+      "locus": "Propertius 3.10.432-435",
+      "type": "authorial-rhetorical",
+      "question": "Quidnam visissent mane Camenae, ante meum stantes sole rubente torum?",
+      "answer": "Natalis nostrae signum misere puellae et manibus faustos ter crepuere sonos.",
+      "derivation": "Indirect question introduced by the framing verb 'Mirabar' ('I was wondering why...'), which is dropped as narration of the asking; the remaining words (quidnam visissent... torum) are the author's, in source order, presented as a direct question. The poet answers himself: the Muses came to bring the sign of his girl's birthday. Window ends at the first full stop (line 435); what follows (transeat hic sine nube dies...) is the birthday wish, no longer answering. First word capitalized and terminal punctuation normalized."
+    },
+    {
+      "locus": "Propertius 3.13.583-586",
+      "type": "authorial-rhetorical",
+      "question": "Unde avidis nox sit pretiosa puellis, et Venere exhaustae damna querantur opes?",
+      "answer": "Certa quidem tantis causa et manifesta ruinis: luxuriae nimium libera facta viast.",
+      "derivation": "Indirect question introduced by the framing verb 'Quaeritis' ('you ask why...'), dropped as narration of the asking; the dependent clause (unde avidis nox sit pretiosa... querantur opes) is the author's own words in source order, presented as the direct question. The poet answers himself: 'certa quidem... causa... luxuriae nimium libera facta viast'. The colon after 'ruinis' is internal to the answering sentence (not a full stop), so the window runs to the first full stop after 'viast'. First word capitalized; terminal punctuation normalized."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "source": "text/justinian/digest49.txt",
+  "pairs": [
+    {
+      "locus": "Digest 49.1.10.3 (Ulpianus 8 disp.)",
+      "type": "authorial-rhetorical",
+      "question": "Quotiens autem plures in unam summam condemnantur, utrum una sententia est et quasi plures in unam summam rei sint promittendi, ut unusquisque eorum in solidum teneatur, an vero scinditur in personas sententia?",
+      "answer": "Scindi sententiam in personas atque ideo eos qui condemnati sunt viriles partes debere.",
+      "derivation": "The jurist's utrum...an question is closed by the asking-frame 'quaeritur' at its end (dropped). The answer drops the speech tag 'et papinianus respondit' and runs to the first full stop; nothing follows in this section."
+    },
+    {
+      "locus": "Digest 49.1.18 (Modestinus 17 resp.)",
+      "type": "direct-speech",
+      "question": "Lucius Titius pro servo suo, qui ad bestias datus est, provocationem interposuit: an huiusmodi appellationis causas per procuratorem reddere possit?",
+      "answer": "Posse.",
+      "derivation": "The narrated facts (Lucius Titius...interposuit) are kept verbatim as setup so 'huiusmodi' has a referent. Only the asking-tag 'quaero,' is dropped before the question; the answer drops 'modestinus respondit'."
+    },
+    {
+      "locus": "Digest 49.1.24pr (Scaevola 5 resp.)",
+      "type": "direct-speech",
+      "question": "Negotiorum gestor vel tutor vel curator bona fide condemnati appellaverunt et diu negotium tractum est: appellatione eorum iniusta pronuntiata an, quia tardius iudicatum sit, usurae principalis pecuniae medii temporis debeantur?",
+      "answer": "Secundum ea quae proponerentur dandam utilem actionem.",
+      "derivation": "Factual setup kept verbatim for 'eorum'. Only the asking-tag 'quaesitum est' is dropped (the ablative absolute 'appellatione eorum iniusta pronuntiata' is part of the question's substance, not framing). Answer drops 'respondit', ends at first full stop."
+    },
+    {
+      "locus": "Digest 49.1.24.1 (Scaevola 5 resp.)",
+      "type": "direct-speech",
+      "question": "Curator iuvenis adversus tutoris heredes iudicio expertus appellationem interposuit: cum implesset autem vicensimum quintum annum aetatis iuvenis et in militia ageret, exequi appellationem desiit. Regressus a militia utrum ipse appellationem explicare deberet an vero curatorem in eam rem conveniri oporteret?",
+      "answer": "Ipsum militem litem ad se pertinentem exsequi debere secundum ea quae proponerentur.",
+      "derivation": "Setup kept verbatim for context. Only 'quaero,' dropped before the utrum...an question; answer drops 'respondit', runs to the end of the section."
+    },
+    {
+      "locus": "Digest 49.1.28pr (Scaevola 25 Dig.)",
+      "type": "direct-speech",
+      "question": "Creditor cum fideiussoribus egerat: sed post iudicium acceptum ad agendam causam ipse non adfuit et, cum absoluti essent fideiussores, servus eius appellavit. An appellatio, quam servus interposuit nomine domini, nullius momenti esset?",
+      "answer": "Eiusmodi appellationem non esse observandam.",
+      "derivation": "Factual setup kept verbatim. Only 'quaesitum est,' dropped before the question; answer drops 'respondit', to the end of the section."
+    },
+    {
+      "locus": "Digest 49.1.28.1 (Scaevola 25 Dig.)",
+      "type": "direct-speech",
+      "question": "Iussus a iudice exhibere secundum praeceptum praesidis provinciae rationes, quas apud se esse caverat, instrumentorum gratia data dilatione nec postea exhibuit ideoque secundum constitutionem recitatam, quia per contumaciam instrumenta non exhibuerat, cum petitor quanti sua interesset exhiberi iurasset, facta erat condemnatio. An post iusiurandum appellationem interponere possit?",
+      "answer": "Nihil proponi, cur denegandum esset appellationis auxilium.",
+      "derivation": "Long factual setup kept verbatim so 'post iusiurandum' is intelligible. Only 'quaesitum est,' dropped; answer drops 'respondit', to the end of the section."
+    },
+    {
+      "locus": "Digest 49.1.28.2 (Scaevola 25 Dig.)",
+      "type": "direct-speech",
+      "question": "Substituti tutores in locum legitimi tutoris experti cum eo tutelae iudicio, cum arbiter inique condemnavit, quam rei aequitas exigebat, a sententia eius provocaverunt: pendente causa appellationis iuvenes adoleverunt. Cum omnis exsecutio huius ad adultos pertineat et causam ad se pertinentem idonee tueri possunt, an postulatio eorum, contra quos appellatum erat, dicentium illos debuisse causas appellationis reddere, qui primi sunt experti, admittenda non sit?",
+      "answer": "Eos, quorum tutela gesta esset, si vellent causam exsequi, non prohibendos.",
+      "derivation": "Setup kept verbatim. Only 'quaesitum est,' dropped before the question. Answer drops 'respondit' and ends at the first full stop; the following sentence ('idem et in curatoribus observandum est...') is the jurist's extension and is cut."
+    },
+    {
+      "locus": "Digest 49.14.9 (Modestinus 17 resp.)",
+      "type": "direct-speech",
+      "question": "Lucius Titius fecit heredes sororem suam ex dodrante, uxorem Maeviam et socerum ex reliquis portionibus: eius testamentum postumo nato ruptum est, qui postumus brevi et ipse decessit, atque ita omnis hereditas ad matrem postumi devoluta est. Soror testatoris Maeviam veneficii in Lucium Titium accusavit: cum non optinuisset, provocavit: interea decessit rea: nihilo minus tamen apostoli redditi sunt. An putes extincta rea cognitionem appellationis inducendam propter hereditatem quaesitam?",
+      "answer": "Morte reae crimine extincto persecutionem eorum, quae scelere adquisita probari possunt, fisco competere posse.",
+      "derivation": "Whole factual narrative kept verbatim so 'rea' and 'hereditatem' have referents. Only 'quaero,' dropped before the question; answer drops 'modestinus respondit', to the end of the section."
+    },
+    {
+      "locus": "Digest 49.14.21 (Paulus 3 quaest.)",
+      "type": "direct-speech",
+      "question": "Titius, qui mihi sub pignoribus pecuniam debebat, cum esset fisci debitor, solvit mihi quae debebat: postea fiscus iure suo usus abstulit mihi pecuniam. An liberata essent pignora?",
+      "answer": "Si id quod mihi solutum est fiscus abstulit, non competere pignorum liberationem.",
+      "derivation": "Factual setup kept verbatim. Only 'quaerebatur,' dropped before the question; answer drops the opinion-tag 'Marcellus recte existimabat' (equivalent of 'respondit') and ends at the first full stop, before Paulus's own further remark."
+    },
+    {
+      "locus": "Digest 49.15.22.2a (Iulianus 62 Dig.)",
+      "type": "direct-speech",
+      "question": "Pater familias qui habebat filios in potestate duos et in bonis viginti milia, ab hostibus captus est: alter ex filiis acceptis decem milibus alia decem milia adquisivit: patre apud hostes defuncto quid filii habituri sint?",
+      "answer": "Si reversus esset pater, etiam postea adquisita decem milia eius futura fuisse: at cum in captivitate mortuus sit, communia non fore, sed eius qui adquisivit. Viginti autem milia aequaliter dividenda.",
+      "derivation": "Setup kept verbatim. Editorial carets around 'in bonis' stripped, words kept. Only 'quaeritur' dropped before 'quid filii habituri sint'; answer drops 'respondit'. Both answer sentences are kept because the question 'what will the sons have' is only fully answered by stating both the 10,000 (to the acquirer) and the equal division of the 20,000."
+    }
+  ]
+}

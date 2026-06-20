@@ -1,0 +1,12 @@
+{
+  "source": "text/livy/liv.22.txt",
+  "pairs": [
+    {
+      "locus": "Livy 22.50",
+      "type": "authorial-rhetorical",
+      "question": "Cur enim illos, qui se arcessant, ipsos non uenire, cum aeque coniungi possent?",
+      "answer": "Quia uidelicet plena hostium omnia in medio essent, et aliorum quam sua corpora tanto periculo mallent obicere.",
+      "derivation": "After Cannae the soldiers in the smaller camp proposed crossing to the larger camp; others rejected the plan. The author voices their objection as a real interrogative (cur ... non uenire?) and answers it himself in the next sentence with Quia ... The question is quoted verbatim from 'cur enim illos ... possent?' (first word capitalized); the answer is the full following sentence 'Quia ... obicere.' to its terminal stop. Nothing cut interior; the framing 'eam sententiam alii totam aspernari;' that precedes the question is omitted as narration of the objection."
+    }
+  ]
+}

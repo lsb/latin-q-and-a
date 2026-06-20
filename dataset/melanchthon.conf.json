@@ -1,0 +1,26 @@
+{
+  "source": "text/melanchthon/conf.txt",
+  "pairs": [
+    {
+      "locus": "Confessio Augustana 27.15 (De Votis Monachorum)",
+      "type": "authorial-rhetorical",
+      "question": "Quid fiebat postea in monasteriis?",
+      "answer": "Olim erant scholae sacrarum disciplinarum, quae sunt utiles ecclesiae, et sumebantur inde pastores et episcopi: nunc alia res est; nihil opus est recitare nota.",
+      "derivation": "Authorial question and its own answer, contiguous in section [15] of Art. XXVII. The question is the full interrogative sentence. The answer is taken to the first full stop (after 'nota'), describing what monasteries became; the following sentence [16] 'Olim ad discendum conveniebant...' continues the elaboration and is cut. No framing to strip; no brackets."
+    },
+    {
+      "locus": "Confessio Augustana 27.22 (De Votis Monachorum)",
+      "type": "authorial-rhetorical",
+      "question": "Quid potest contra haec opponi?",
+      "answer": "Exaggeret aliquis obligationem voti, quantum volet, tamen non poterit efficere, ut votum tollat mandatum Dei.",
+      "derivation": "Authorial rhetorical question in section [22] of Art. XXVII, immediately answered by the author. Question is the verbatim interrogative sentence. Answer is the whole following sentence (one full stop), which directly responds that no objection can override God's command; the next section [23] 'Canones docent...' turns to a new point and is cut. No framing or brackets."
+    },
+    {
+      "locus": "Confessio Augustana 28.53 (De Potestate Ecclesiastica)",
+      "type": "authorial-rhetorical",
+      "question": "Quid igitur sentiendum est de die dominico et similibus ritibus templorum?",
+      "answer": "Liceat episcopis seu pastoribus facere ordinationes, ut res ordine gerantur in ecclesia, non ut per illas mereamur gratiam, aut satisfaciamus pro peccatis, aut obligentur conscientiae, ut iudicent esse necessarios cultus, ac sentiant se peccare, quum sine offensione aliorum violant.",
+      "derivation": "Authorial question and answer in section [53] of Art. XXVIII. The framing 'Ad haec respondent, quod' (narration of the answering) is dropped, and the indirect-statement marker 'quod' is removed so the reply begins with its own verb; 'liceat' is capitalized as the now-first word. The answer runs to the first full stop. Next section [54] 'Sic Paulus 1 Cor...' gives supporting proof-texts and is cut. No angle brackets."
+    }
+  ]
+}

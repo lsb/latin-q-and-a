@@ -1,0 +1,12 @@
+{
+  "source": "text/martinbraga/exhortatio.txt",
+  "pairs": [
+    {
+      "locus": "Martin of Braga, Exhortatio humilitatis 6",
+      "type": "authorial-rhetorical",
+      "question": "Ergo et Deo non agimus gratias, non referimus laudes?",
+      "answer": "Credo, quia agimus gratias, potest fieri, sed verbo tenus, sed in sinu: Deo privatim gratias agimus, nobis publice; Deo in labiis laudem tribuimus, nobis et in labiis et in corde.",
+      "derivation": "Authorial objection-and-reply. Dropped the framing tag 'Sed fortasse respondetur mihi:' that narrates the imagined objection; the interrogative itself is verbatim. Answer begins at 'Credo' (the operative reply) and ends at the full stop after 'in corde' (one sentence); what follows ('Ecce hoc est quod incurvatum saepius erigit inimicum...') turns to general elaboration and is excluded."
+    }
+  ]
+}

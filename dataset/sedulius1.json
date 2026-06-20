@@ -1,0 +1,12 @@
+{
+  "source": "text/sedulius1.txt",
+  "pairs": [
+    {
+      "locus": "Sedulius, Carmen Paschale 1.220-241",
+      "type": "authorial-rhetorical",
+      "question": "Dic, ubi sunt, natura, tuae post talia leges? Qui quotiens tibi iura tulit? qui tartara iussit translatum nescire virum, sterilemque marito fecundavit anum, sacram praecepit ad aram sponte venire pecus, muliebres transtulit artus in simulacra salis, ramos incendia passos non ardere dedit, virgultum solvit in anguem, per pelagus siccavit iter, mirabile nimbis manna pluit, saxo latices produxit ab imo, quadrupedem fari plano sermone coegit, suspensis rapidas elementis distulit horas, per volucres hominem pasci dedit atque coruscis in caelum transvexit equis, iam morte gravato adiecit tria lustra viro, praedonis in ore naufragio fundavit opem, flagrante camino servavit sub rore pios, per pascua regem pavit ut hirsutam pecudem, rictusque leonum instimulante fame iussit nescire furorem?",
+      "answer": "Nempe creatori, cuius quaecumque videntur seu quaecumque latent et rerum machina sermo est, omne suum famulatur opus sequiturque iubentis imperium quacumque trahit sententia nutu.",
+      "derivation": "The poet himself poses an extended rhetorical interrogation to Nature, recapitulating the catalogue of Old Testament miracles he has just narrated: 'Where are your laws, Nature? Who ever overrode your rights? Who ordered [all these things]?' This is one continuous interrogative period running from the inline-numbered verse 220 (Dic, ubi sunt...) to verse 237 (...nescire furorem?); the every-five-lines verse markers 225, 230, 235 dangling mid-line were stripped, as was the leading indentation/section bullet. The author answers his own question with Nempe creatori... = 'Surely [it all serves] the Creator, every work of his...follows the command of him who orders.' Answer window ends at the first full stop (nutu., verse 241); a new section (Heu miseri, qui vana colunt...) begins immediately after. No editorial angle brackets in either span."
+    }
+  ]
+}

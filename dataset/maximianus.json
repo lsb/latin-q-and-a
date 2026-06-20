@@ -1,0 +1,12 @@
+{
+  "source": "text/maximianus.txt",
+  "pairs": [
+    {
+      "locus": "Maximianus 3.63-64",
+      "type": "direct-speech",
+      "question": "An placitae potiaris munere formae?",
+      "answer": "Pietas talia uelle fugit.",
+      "derivation": "Boethius asks the poet (framing 'fare' ait dropped) whether he would enjoy the gift of the beauty he loves; the poet answers with respondi (framing dropped) that piety shuns wanting such things. First word capitalized, terminal question mark/period normalized. No content omitted from either utterance."
+    }
+  ]
+}

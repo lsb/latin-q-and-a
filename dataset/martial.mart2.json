@@ -1,0 +1,75 @@
+{
+  "source": "text/martial/mart2.txt",
+  "pairs": [
+    {
+      "locus": "Martial 2.11",
+      "type": "authorial-rhetorical",
+      "question": "Maeroris igitur causa quae?",
+      "answer": "Domi cenat.",
+      "derivation": "The poem describes Selius's gloomy behavior and rules out the usual griefs; the closing line poses the real question 'Maeroris igitur causa quae?' and answers 'Domi cenat.' Both are the author's own words, only capitalization/terminal punctuation normalized."
+    },
+    {
+      "locus": "Martial 2.16",
+      "type": "authorial-rhetorical",
+      "question": "Vis fieri sanus?",
+      "answer": "Stragula sume mea.",
+      "derivation": "Final line: 'Vis fieri sanus? stragula sume mea.' Direct interrogative answered by the imperative reply. Capitalization normalized."
+    },
+    {
+      "locus": "Martial 2.17",
+      "type": "authorial-rhetorical",
+      "question": "Sed ista tonstrix, Ammiane, non tondet, non tondet, inquam. Quid igitur facit?",
+      "answer": "Radit.",
+      "derivation": "Kept the contiguous setup 'sed ista tonstrix... non tondet, inquam' so the question 'Quid igitur facit?' has its referent, then answer 'Radit.' Dropped nothing internal; capitalization normalized."
+    },
+    {
+      "locus": "Martial 2.31",
+      "type": "authorial-rhetorical",
+      "question": "Saepe ego Chrestinam futui. Det quam bene?",
+      "answer": "Supra quod fieri nil, Mariane, potest.",
+      "derivation": "Kept setup 'Saepe ego Chrestinam futui' for the referent; the question is 'Det quam bene [quaeris]?' with 'quaeris' dropped as framing ('you ask'). Answer 'Supra quod fieri nil, Mariane, potest.' All other words verbatim."
+    },
+    {
+      "locus": "Martial 2.38",
+      "type": "direct-speech",
+      "question": "Quid mihi reddat ager, Line, Nomentanus?",
+      "answer": "Te, Line, non uideo.",
+      "derivation": "Question is 'Quid mihi reddat ager, Line, Nomentanus?' with framing 'quaeris' dropped. Answer cut to the first full stop after the framing colon ('Hoc mihi reddit ager:'): 'Te, Line, non uideo.'"
+    },
+    {
+      "locus": "Martial 2.39",
+      "type": "authorial-rhetorical",
+      "question": "Uis dare quae meruit munera?",
+      "answer": "Mitte togam.",
+      "derivation": "Final line: 'uis dare quae meruit munera? Mitte togam.' Direct interrogative answered by imperative. Capitalization normalized."
+    },
+    {
+      "locus": "Martial 2.49",
+      "type": "authorial-rhetorical",
+      "question": "Uxorem nolo Telesinam ducere: quare?",
+      "answer": "Moecha est.",
+      "derivation": "Kept setup 'Uxorem nolo Telesinam ducere' so 'quare?' has its referent; answer 'Moecha est.' stops at the full stop before the following clause 'Sed pueris dat Telesina: uolo.'"
+    },
+    {
+      "locus": "Martial 2.56",
+      "type": "authorial-rhetorical",
+      "question": "Sed mera narrantur mendacia: non solet illa accipere omnino. Quid solet ergo?",
+      "answer": "Dare.",
+      "derivation": "Kept the contiguous setup 'Sed mera narrantur mendacia: non solet illa accipere omnino' so 'Quid solet ergo?' has its sense; answer 'Dare.' Capitalization normalized."
+    },
+    {
+      "locus": "Martial 2.73",
+      "type": "authorial-rhetorical",
+      "question": "Quid?",
+      "answer": "Sobria fellat.",
+      "derivation": "The line is 'Quid faciat uolt scire Lyris. Quid? Sobria fellat.' The opening clause is narration of the inquiry (framing); the author's own pointed question 'Quid?' is answered by 'Sobria fellat.'"
+    },
+    {
+      "locus": "Martial 2.84",
+      "type": "authorial-rhetorical",
+      "question": "Cur lingat cunnum Siculus Sertorius?",
+      "answer": "Abs hoc occisus, Rufe, uidetur Eryx.",
+      "derivation": "Question 'Cur lingat cunnum Siculus Sertorius?'; the framing 'hoc est:' ('this is why') is dropped, and the answer is the explanatory clause 'abs hoc occisus, Rufe, uidetur Eryx.' Capitalization/punctuation normalized."
+    }
+  ]
+}

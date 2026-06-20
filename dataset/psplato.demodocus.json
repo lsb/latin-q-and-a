@@ -1,0 +1,131 @@
+{
+  "source": "text/psplato.demodocus.txt",
+  "pairs": [
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Tu vero mihi videris ne illud quidem, quod a multis dicitur, audisse. Quidnam?",
+      "answer": "Nunquam decernas, audis nisi tu prius ambos.",
+      "derivation": "Setup 'Tu vero mihi videris... audisse' kept verbatim so 'Quidnam?' ('what [haven't I heard]?') has a referent; speech tag 'inquit' after 'Quidnam?' dropped as framing. Answer is the proverb in full; the following 'Hoc sane quidem haud ita divulgatum...' is commentary, so the window stops at the verse line."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Uter tibi videtur errare, qui sit ab his, quae petebat, an qui non sit reiectus?",
+      "answer": "Qui sit reiectus.",
+      "derivation": "Real disjunctive interrogative (uter...an). Speech tag 'inquit' dropped from inside the question and the now-dangling comma after 'Uter' removed; 'dixit' dropped from the answer 'Qui sit reiectus, dixit.' and its dangling comma removed. The next question 'Dicisne igitur...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Dicisne igitur te quidem ab eo reiectum esse, quo uti cupiebas: istum vero, qui noluit impertire, ab eo non esse reiectum?",
+      "answer": "Dico.",
+      "derivation": "Interrogative with -ne, answered 'Dico'; speech tag 'respondit' and its dangling comma dropped from 'Dico, respondit'. The reply continues 'sed quid ego erravi...', a new counter-question, so the window ends at 'Dico'."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Nonne hoc etiam dicis, te erraturum non fuisse, si cum illo, ut convenit, versatus esses?",
+      "answer": "Dico.",
+      "derivation": "Nonne-interrogative answered 'Dico'. Speech tag 'inquit' dropped from inside the question and the now-dangling comma after 'hoc' removed. The following 'Nunc cum illo non, ut convenit, versatus es' is the next speaker turn."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Si tibi igitur ille non, ut convenit, versanti, morem non gessit, quid est, quam ob rem iuste illum accusare possis?",
+      "answer": "Non possum dicere.",
+      "derivation": "Interrogative (quid est... quam ob rem) genuinely answered 'Non possum dicere'. No speech tag in either span. The next question 'Neque, quod male utentibus...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Neque, quod male utentibus commodandum non sit, potes dicere?",
+      "answer": "Immo possum, et quidem facile.",
+      "derivation": "Interrogative answered 'Immo possum...'. Speech tag 'dixit' and its surrounding commas dropped from 'Immo possum, dixit, et quidem facile.'. Window ends at the full stop; the next question 'Sed qui... non male uti tibi videntur?' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Sed qui non versantur, ut convenit, non male uti tibi videntur?",
+      "answer": "Mihi quidem videntur.",
+      "derivation": "Interrogative answered affirmatively. Speech tag 'inquit' dropped from inside the question (and dangling comma after 'qui' removed); 'dixit' dropped from inside 'Mihi quidem, dixit, videntur.'. The next question 'Quid igitur erravit ille...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Quid igitur erravit ille, si tibi male utenti non commodavit?",
+      "answer": "Nihil, ut videtur.",
+      "derivation": "Interrogative answered 'Nihil...'. Speech tag 'respondit' dropped from 'Nihil, respondit, ut videtur.'. The following 'Quare igitur homines haec inter se criminantur...' is the next turn."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Melius vero uti, dignum esse nonne tibi hic recte existimare videbatur?",
+      "answer": "Videbatur.",
+      "derivation": "Nonne-interrogative answered 'Videbatur'. Speech tag 'inquit' dropped from inside the question and 'dixit' from 'Videbatur, dixit.'. The next question 'Quonam igitur modo...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Quonam igitur modo, qui audiant hominem haec vituperantem, melius utentur?",
+      "answer": "Nullo.",
+      "derivation": "Interrogative (quonam modo) answered 'Nullo'. Speech tag 'dixit' dropped from 'Nullo, dixit.'. The next question 'Quare igitur haec aliquis vituperat?' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Quid igitur accusas, si celeriter, et quibusvis vera dicentibus fidem habet?",
+      "answer": "At hoc ego non accuso, sed quod cito credit falsa dicentibus.",
+      "derivation": "Interrogative answered fully. Speech tag 'ait' and its dangling comma dropped from 'At hoc, ait, ego non accuso...'. Answer kept whole to the full stop; the next question 'Sed si longo post tempore...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Sed si longo post tempore, et non quibusvis credidisset, ostendissetque, non illum magis acusasses?",
+      "answer": "Prorsus.",
+      "derivation": "Interrogative answered 'Prorsus'. Speech tag 'inquit' dropped from 'Prorsus, inquit.'. Spelling 'acusasses' kept verbatim. The next question 'An propterea quod tarde...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "An propterea quod tarde, nec quibusvis credidisset?",
+      "answer": "Haud sane.",
+      "derivation": "Interrogative (an) answered in the negative. Speech tag 'inquit' dropped from 'Haud sane, inquit.'."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "An igitur arbitraris illum quidem indignum, qui accusetur, quum tarde, nec quibusvis credit: dignum vero, quum cito, et quibuslibet credit?",
+      "answer": "Non ego.",
+      "derivation": "Interrogative (an) answered 'Non ego'. Speech tag 'inquit' dropped from 'Non ego, inquit.'. The next question 'Quid igitur illum accusas?' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Quid igitur illum accusas?",
+      "answer": "Quod erat, prius, quam rem perpendat, celeriter, et quibuslibet credens.",
+      "derivation": "Interrogative answered with a causal 'Quod...' clause; no speech tag in either span. The next question 'Sed si tarde cecidisset...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Cur igitur magis aequum sit domesticis, et familiaribus, quam quibuslibet credere?",
+      "answer": "Non possum dicere.",
+      "derivation": "Cur-interrogative answered 'Non possum dicere'. Speech tag 'inquit' and its surrounding commas dropped from 'Non possum, inquit, dicere.'. The next question 'Quid? si magis domesticis...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Quid? si magis domesticis, quam quibusvis est credendum, nonne ipsos fide minus indignos, quam quoslibet oportet iudicare?",
+      "answer": "Quidni?",
+      "derivation": "Nonne-interrogative answered with assenting 'Quidni?' ('why not?', i.e. 'of course'). Speech tag 'inquit' dropped from 'Quidni? inquit.'. The next question 'Si igitur quidem sint domestici...' follows."
+    },
+    {
+      "locus": "Pseudo-Plato, Demodocus (Corradus tr.)",
+      "type": "direct-speech",
+      "question": "Deinde, si eadem dicunt domestici, et quilibet, quo pacto, quae dicuntur, non sint credibilia similiter, vel incredibilia similiter?",
+      "answer": "Necesse est.",
+      "derivation": "Interrogative (quo pacto) answered 'Necesse est'. Speech tag 'inquit' dropped from 'Necesse est, inquit.'. The next statement 'Dicentibus igitur eadem pariter credendum est' is the next turn."
+    }
+  ]
+}

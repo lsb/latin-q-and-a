@@ -1,0 +1,12 @@
+{
+  "source": "text/paulinus.poemata.txt",
+  "pairs": [
+    {
+      "locus": "Paulinus Nolanus, Poema XVI (Natalicium V), lines 1892-1897",
+      "type": "direct-speech",
+      "question": "Verane te facies? Tunc ille beatus Redderis heu tanto nobis post tempore Felix? Qua regione venis? Coelo datus, an paradiso? Redditus in terras habitacula nostra revisis?",
+      "answer": "Coram se corpore adesse, Servatum vixisse Deo.",
+      "derivation": "The returning Felix is met by citizens who doubt it is really him; their direct-speech question runs from 'Verane te facies?' through 'Redditus in terras habitacula nostra revisis?' (lines 1892-1895). I dropped the preceding narration 'Et multi dubitant agnoscere, et ante rogantes' and the inline speech-tag '(Aiunt)' embedded after 'Verane te facies?', leaving the utterance contiguous. The reply is reported in oratio obliqua: 'Ille fidem firmat, coram se corpore adesse, / Servatum vixisse Deo; dat gaudia cunctis'. I cut the framing 'Ille fidem firmat,' (narration of the act of answering) at the start and stopped at the full stop after 'Deo'; what follows ('dat gaudia cunctis...') turns to the crowd's reaction rather than answering. The retained span 'coram se corpore adesse, Servatum vixisse Deo' genuinely answers the citizens' question (yes, he is present in the body, preserved alive by God). First word capitalization normalized."
+    }
+  ]
+}

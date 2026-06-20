@@ -1,0 +1,19 @@
+{
+  "source": "text/sha/val.txt",
+  "pairs": [
+    {
+      "locus": "Historia Augusta, Valeriani Duo 1.4",
+      "type": "authorial-rhetorical",
+      "question": "Quid Afri?",
+      "answer": "Certe serviunt Romanis.",
+      "derivation": "Within Velsolus's letter, an author-posed rhetorical question immediately self-answered. Question normalized from 'Quid Afri ?' (stray space before '?' is a typographic artifact). Answer is the full operative reply 'Certe serviunt Romanis.'; what precedes (the parallel about the Galli) is its own self-contained sentence, what follows ('De longioribus exemplis...') turns to new examples."
+    },
+    {
+      "locus": "Historia Augusta, Valeriani Duo 5.4",
+      "type": "direct-speech",
+      "question": "Quid vobis videtur, p.c., de censore deligendo?",
+      "answer": "Valeriani vita censura est.",
+      "derivation": "The praetor asks the senate; the answer is the senate's acclamation. Between them is stripped narration of the asking ('atque eum, qui erat princeps tunc senatus, sententiam rogasset absente Valeriano (nam ille in procinctu cum Decio tunc agebat), omnes una voce dixerunt interrupto more dicendae sententiae'). Answer ends at the first full stop; the following sentences ('Ille de omnibus iudicet...') elaborate."
+    }
+  ]
+}

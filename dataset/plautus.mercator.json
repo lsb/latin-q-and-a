@@ -1,0 +1,54 @@
+{
+  "source": "text/plautus/mercator.txt",
+  "pairs": [
+    {
+      "locus": "Plautus, Mercator 187-188",
+      "type": "direct-speech",
+      "question": "Vbi eam vidit?",
+      "answer": "Intus intra navem, ut prope astitit; et cum ea confabulatust.",
+      "derivation": "Charinus asks where his father saw the girl; Acanthio answers with the location. Stripped speaker labels (CHAR./ACAN.) and the inline verse number. Answer window runs to the first full stop (after 'confabulatust'); the semicolon mid-line is not a sentence end, so 'et cum ea confabulatust' is included as part of the same answering sentence. The following line 'Perdidisti me, pater' begins Charinus's new reaction and is excluded."
+    },
+    {
+      "locus": "Plautus, Mercator 516",
+      "type": "direct-speech",
+      "question": "Quid nomen tibi dicam esse?",
+      "answer": "Pasicompsae.",
+      "derivation": "Lysimachus asks the girl her name; she answers 'Pasicompsae'. Stripped speaker labels (LYS./PAS.) and inline verse number. Dropped the preceding framing tag 'Quid ais tu?' (attention-getter, not part of the actual question)."
+    },
+    {
+      "locus": "Plautus, Mercator 529-530",
+      "type": "direct-speech",
+      "question": "Dic igitur quaeso, quoia sum?",
+      "answer": "Tuo ero redempta es rursum.",
+      "derivation": "Pasicompsa asks whose she now is; Lysimachus answers that she has been bought back by her own master. Stripped speaker labels (PAS./LYS.) and inline verse number. Answer cut at the first full stop; the continuation 'ego te redemi, ille mecum oravit' elaborates and is excluded."
+    },
+    {
+      "locus": "Plautus, Mercator 638-640",
+      "type": "direct-speech",
+      "question": "Qua forma esse aiebant igitur?",
+      "answer": "Canum, varum, ventriosum, bucculentum, breviculum, subnigris oculis, oblongis malis, pansam aliquantulum.",
+      "derivation": "Charinus asks what the buyer looked like; Eutychus gives the physical description. Stripped speaker labels (CHAR./EVT.) and inline verse numbers; stripped the editorial angle brackets around 'igitur' (keeping the word). Dropped the framing lead-in 'Ego dicam tibi:' ('I'll tell you'), which narrates the speaking rather than answering. The description runs to its full stop."
+    },
+    {
+      "locus": "Plautus, Mercator 812-813",
+      "type": "direct-speech",
+      "question": "Quid istuc negotist?",
+      "answer": "Tuos pater bellissumus amicam adduxit intro in aedis.",
+      "derivation": "Eutychus asks Syra what the matter is; she answers that his father has brought a mistress into the house. Stripped speaker labels (EVT./SYR.) and inline verse number. Answer cut at the first full stop; the next exchange 'Quo modo?' begins a follow-up question and is excluded."
+    },
+    {
+      "locus": "Plautus, Mercator 901",
+      "type": "direct-speech",
+      "question": "Dic igitur, ubi illa est?",
+      "answer": "In nostris aedibus.",
+      "derivation": "Charinus demands to know where the girl is; Eutychus answers that she is in their house. Stripped speaker labels (CHAR./EVT.) and inline verse number. Answer cut at the full stop; Charinus's following 'Aedis probas...' is his reaction and is excluded."
+    },
+    {
+      "locus": "Plautus, Mercator 868",
+      "type": "direct-speech",
+      "question": "Quid me voltis?",
+      "answer": "Ire tecum.",
+      "derivation": "Charinus asks what they (Eutychus, invoking the gods of hope/safety) want of him; Eutychus answers 'to go with you'. Stripped speaker labels (CH./E.) and inline verse number. Answer cut at the full stop; Charinus's reply 'Alium comitem quaerite' follows and is excluded."
+    }
+  ]
+}

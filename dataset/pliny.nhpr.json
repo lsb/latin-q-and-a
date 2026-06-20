@@ -1,0 +1,12 @@
+{
+  "source": "text/pliny.nhpr.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Naturalis Historia Praefatio 20",
+      "type": "authorial-rhetorical",
+      "question": "Ubi sit ea?",
+      "answer": "Iam pridem peracta sancitur et alioqui statutum erat heredi mandare, ne quid ambitioni dedisse vita iudicaretur.",
+      "derivation": "Pliny mentions his history begun a fine Aufidii, then anticipates the reader's question 'ubi sit ea, quaeres' ('where it is, you will ask'). The framing verb 'quaeres' is stripped as speech-narration, leaving the indirect-question 'ubi sit ea' normalized to a direct question 'Ubi sit ea?'. The answer is the operative first sentence 'iam pridem peracta sancitur... iudicaretur' (it was long ago finished and kept sealed, and it had been decided to leave it to his heir). The window ends at the first full stop; what follows ('proinde occupantibus locum faveo...') turns to a digression about ceding place to others and so is cut."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/sidonius7.txt",
+  "pairs": [
+    {
+      "locus": "Sidonius, Epistulae 7.3.1",
+      "type": "authorial-rhetorical",
+      "question": "Grandisne haec oboedientia?",
+      "answer": "Puto, grandis est.",
+      "derivation": "Author poses a self-question with the interrogative enclitic -ne and answers it himself in the next clause. The preceding 'et quid modo dicemus?' is a separate rhetorical lead-in (not the question being answered here) and is dropped as framing. The answer stops at the first full stop ('grandis est'); what follows ('grandior impudentia tamen...') turns from answering to a contrasting elaboration and is cut."
+    },
+    {
+      "locus": "Sidonius, Epistulae 7.9.23",
+      "type": "direct-speech",
+      "question": "Unde tibi de illo tam cito tanta conperta sunt?",
+      "answer": "Prius Bituriges noveram quam Biturigas.",
+      "derivation": "Explicit interrogative posed by an imagined interlocutor ('dicit aliquis:') and explicitly answered by the author ('cui respondeo:'). The speech tags 'dicit aliquis' and 'cui respondeo' are dropped as framing/narration. The answer ends at the first full stop ('quam Biturigas'); what follows ('multos in itinere multos in commilitio...') digresses into elaboration on how he knows people and is cut."
+    }
+  ]
+}

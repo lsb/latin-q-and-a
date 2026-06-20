@@ -1,0 +1,12 @@
+{
+  "source": "text/juvenal/2.txt",
+  "pairs": [
+    {
+      "locus": "Juvenal 2.132-135",
+      "type": "direct-speech",
+      "question": "Officium cras primo sole mihi peragendum in ualle Quirini. Quae causa officii?",
+      "answer": "Nubit amicus nec multos adhibet.",
+      "derivation": "Setup is the duty-claimant's speech 'officium cras primo sole mihi peragendum in ualle Quirini', giving 'officii' its referent; the author's interrogative 'quae causa officii?' is the real question. The reply opens 'quid quaeris?' (a non-answering deflection, 'why do you ask?'), which I cut at the start; the operative answer is 'nubit amicus nec multos adhibet'. Dropped the trailing 'liceat modo uiuere, fient...' which moves to authorial comment. Inline verse number 135 stripped."
+    }
+  ]
+}

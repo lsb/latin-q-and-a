@@ -1,0 +1,12 @@
+{
+  "source": "text/quintilian/quintilian.institutio1.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Institutio Oratoria 1.4.7",
+      "type": "authorial-rhetorical",
+      "question": "An cuiuslibet auris est exigere litterarum sonos?",
+      "answer": "Non hercule magis quam nervorum.",
+      "derivation": "Authorial rhetorical question with its own immediate reply. Stripped the section marker 'VII.' preceding the question. Question kept whole; answer is the contiguous first (and complete) sentence of the reply 'Non hercule magis quam nervorum' ('No, by Hercules, no more than [the ear judges] the sounds of strings'), which directly answers the question in the negative. What follows ('Aut grammatici saltem omnes in hanc descendent rerum tenuitatem...') turns to a new point and is excluded."
+    }
+  ]
+}

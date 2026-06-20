@@ -1,0 +1,12 @@
+{
+  "source": "text/livy/liv.38.txt",
+  "pairs": [
+    {
+      "locus": "Livy 38.49",
+      "type": "authorial-rhetorical",
+      "question": "Si urbem eo loco haberent et moenibus se tenerent?",
+      "answer": "Nempe oppugnandi erant.",
+      "derivation": "Within Cn. Manlius's defense speech, he poses a rhetorical question and answers it himself in the next sentence. Dropped the framing interjection 'Quid?' that narrates the posing of the question (it is not part of the interrogative content). The question is a real deliberative interrogative ('What if they held a city in that place and kept within its walls?') and the answer 'Nempe oppugnandi erant' ('Then of course they had to be besieged') genuinely answers it. Answer is the single following sentence to its full stop; what follows is the next, separate rhetorical pair ('Quid? Ad Thermopylas aequone loco M. Acilius...'), which is not included."
+    }
+  ]
+}

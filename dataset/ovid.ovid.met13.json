@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.met13.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Metamorphoses 13.640-648",
+      "type": "direct-speech",
+      "question": "O Phoebi lecte sacerdos, fallor, an et natum, cum primum haec moenia vidi, bisque duas natas, quantum reminiscor, habebas?",
+      "answer": "Non falleris, heros maxime; vidisti natorum quinque parentem, quem nunc (tanta homines rerum inconstantia versat) paene vides orbum.",
+      "derivation": "Direct-speech exchange between Anchises and Anius. Dropped the speech tag 'tum pius Anchises:' before the question and 'huic Anius niveis circumdata tempora vittis concutiens et tristis ait:' before the answer. Question is Anchises's entire utterance, contiguous, normalized initial capital. Answer begins at 'Non falleris' (directly answering 'fallor, an...?') and ends at the first full stop after 'orbum'; what follows ('quod enim mihi filius absens auxilium...') turns to a new rhetorical question about the absent son and elaborates, so it is cut."
+    }
+  ]
+}

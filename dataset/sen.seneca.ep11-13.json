@@ -1,0 +1,54 @@
+{
+  "source": "text/sen/seneca.ep11-13.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Epistulae 84.11",
+      "type": "authorial-rhetorical",
+      "question": "Quomodo hoc effici poterit?",
+      "answer": "Adsidua intentione.",
+      "derivation": "Seneca quotes Lucilius' objection and answers it. Dropped the framing 'inquis' (speech tag narrating the asking). Answer window is the operative two-word reply 'Adsidua intentione'; the source colon and the following 'si nihil egerimus nisi ratione suadente...' elaborate and are cut. Terminal punctuation normalized (colon -> period)."
+    },
+    {
+      "locus": "Seneca, Epistulae 85.22",
+      "type": "authorial-rhetorical",
+      "question": "Quid autem est in beata vita eximium?",
+      "answer": "Quod plena est.",
+      "derivation": "Seneca poses and immediately answers. 'eximium' is anchored by the preceding clause 'id illi quod habet eximium eripit'. Answer is the full response 'quod plena est'; the following '[23] Finis, ut puto, edendi bibendique satietas est' begins a new example and is cut. First word capitalized; terminal period normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 87.7",
+      "type": "authorial-rhetorical",
+      "question": "Divitem illum putas quia aurea supellex etiam in via sequitur, quia in omnibus provinciis arat, quia magnus kalendari liber volvitur, quia tantum suburbani agri possidet quantum invidiose in desertis Apuliae possideret: cum omnia dixeris, pauper est. Quare?",
+      "answer": "Quia debet.",
+      "derivation": "The setup 'Divitem illum putas... pauper est' is kept verbatim so 'Quare?' (why is he poor) has its referent; the operative interrogative is 'Quare?'. Answer is 'quia debet'; what follows ('Quantum?' inquis. Omnia...) is a separate exchange and is cut. First word of answer capitalized; terminal period normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 87.18",
+      "type": "authorial-rhetorical",
+      "question": "Quare ergo sapiens magnus est?",
+      "answer": "Quia magnum animum habet.",
+      "derivation": "Self-contained authorial question and answer. Answer is the full reply 'quia magnum animum habet'; the following 'Verum est ergo quod contemptissimo cuique contingit bonum non esse' returns to the syllogism and is cut. First word capitalized; terminal period normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 87.19",
+      "type": "authorial-rhetorical",
+      "question": "Quaeris quae res sapientem faciat?",
+      "answer": "Quae deum.",
+      "derivation": "Seneca poses the question (keeping 'Quaeris quae res sapientem faciat' as the interrogative) and answers elliptically 'quae deum' (the same thing that makes a god). The following 'Des oportet illi divinum aliquid...' elaborates and is cut. First word capitalized; terminal period normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 87.21",
+      "type": "authorial-rhetorical",
+      "question": "Quis sit summi boni locus quaeris?",
+      "answer": "Animus.",
+      "derivation": "Authorial question and one-word answer, kept in source order ('Quis sit summi boni locus quaeris?'). Answer 'animus'; the following 'Hic nisi purus ac sanctus est, deum non capit' elaborates and is cut. First word of answer capitalized; terminal period normalized."
+    },
+    {
+      "locus": "Seneca, Epistulae 87.28",
+      "type": "authorial-rhetorical",
+      "question": "Quaeris quid sit malum?",
+      "answer": "Cedere iis quae mala vocantur et illis libertatem suam dedere, pro qua cuncta patienda sunt.",
+      "derivation": "Seneca asks and answers his own question. Answer is the complete defining clause; it ends before the source colon, after which 'perit libertas nisi illa contemnimus...' elaborates and is cut. First word capitalized; terminal colon normalized to period."
+    }
+  ]
+}

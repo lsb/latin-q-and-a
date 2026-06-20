@@ -1,0 +1,12 @@
+{
+  "source": "text/martinbraga/ira.txt",
+  "pairs": [
+    {
+      "locus": "Martin of Braga, De Ira 9",
+      "type": "direct-speech",
+      "question": "Impune ille erit?",
+      "answer": "Puta velle te, nam non erit; quia non magis gravius adficitur quam qui ad supplicium poenitentiae datur.",
+      "derivation": "The interlocutor's objection-question, framed by 'Quid ergo, inquis,' (discourse connector plus speech tag, dropped as framing); the operative interrogative is 'impune ille erit?', capitalized. The author answers directly: 'Puta velle te, nam non erit...' ('for he will not'). Kept the full answering sentence to its first full stop; the interior semicolons are within one sentence. Cut before 'Respiciendum est deinde...', which turns to a new topic (the human condition)."
+    }
+  ]
+}

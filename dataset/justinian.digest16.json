@@ -1,0 +1,47 @@
+{
+  "source": "text/justinian/digest16.txt",
+  "pairs": [
+    {
+      "locus": "Digest 16.1.28pr (Scaevola)",
+      "type": "authorial-rhetorical",
+      "question": "Seia mancipia emit et mutuam pecuniam accepit sub fideiussore marito eamque solvit venditori: postea maritus decedens non solvendo in fraudem creditoris cavit testamento se eam pecuniam universam debere: an intercessisse mulier videretur?",
+      "answer": "Secundum ea quae proponerentur non intercessisse.",
+      "derivation": "Dropped the framing 'quaeritur,' that introduces the question and the answer-tag 'respondi'; kept the full case setup so the indirect question 'an intercessisse mulier videretur' has its referents. Answer is the operative respondi clause."
+    },
+    {
+      "locus": "Digest 16.1.28.1 (Scaevola)",
+      "type": "authorial-rhetorical",
+      "question": "Fundum uxoris suae maritus obligavit sempronio ob conductionem: mox mulier a numerio sua fide mutuam pecuniam acceptam sub obligatione eiusdem fundi solvit statim sempronio pro marito suo: an adversus senatus consultum obligata sit?",
+      "answer": "Si numerius scisset eam intercedere, fore senatus consulto de quo quaereretur locum.",
+      "derivation": "Dropped 'quaesitum est,' before the question and 'respondi,' before the answer; kept the case setup so 'an ... obligata sit' is intelligible. Answer is the complete respondi sentence (conditional reply, single full stop)."
+    },
+    {
+      "locus": "Digest 16.1.29pr (Paulus)",
+      "type": "authorial-rhetorical",
+      "question": "Quidam voluit heredibus lucii titii mutuam pecuniam dare et cum eis contrahere: sed quoniam facultates eorum suspectas habuit, magis voluit uxori testatoris dare pecuniam et ab ea pignus accipere: mulier eandem pecuniam dedit heredibus et ab his pignus accepit: an intercessisse videatur et an pignora, quae ipsa accepit, teneantur creditori?",
+      "answer": "Si creditor, cum contrahere vellet cum heredibus lucii titii, evitatis his magis mulierem ream elegit, et in ipsius persona senatus consulto, quod de intercessionibus factum est, locum esse et pignora ab ea data non teneri.",
+      "derivation": "Dropped framing 'quaero' before the twin interrogative and 'paulus respondit,' before the answer; kept the case narrative so the question's referents stand. Answer cut at the first full stop, before the further elaboration 'eas autem res, quas mulier...' which digresses to a separate point."
+    },
+    {
+      "locus": "Digest 16.3.26pr (Paulus)",
+      "type": "direct-speech",
+      "question": "Publia maevia cum proficisceretur ad maritum suum, arcam clusam cum veste et instrumentis commendavit gaiae seiae et dixit ei: \" cum sana salvave venero, restitues mihi: certe, si aliquid mihi humanum contigerit, filio meo, quem ex alio marito suscepi. \" Defuncta ea intestata res commendatae cui restitui debeant, filio an marito?",
+      "answer": "Filio.",
+      "derivation": "Kept the narrative and the dixit quotation as setup so the disjunctive question 'filio an marito' has its referents; dropped the framing verb 'desidero' that introduces the question and 'paulus respondit' before the answer. Answer is the one-word reply 'filio'."
+    },
+    {
+      "locus": "Digest 16.3.27 (Paulus)",
+      "type": "authorial-rhetorical",
+      "question": "Lucius titius cum haberet filiam in potestate seiam, pamphilo servo alieno in matrimonium collocavit, cui etiam dotem dedit, quam sub titulo depositi in cautionem contulit, et postea nulla denuntiatione a domino facta pater decessit, mox et pamphilus servus: qua actione seia pecuniam petere possit, cum ipsa patri heres extiterit?",
+      "answer": "Quoniam dos constitui non potuit, ex causa depositi actione de peculio pecuniam repetendam.",
+      "derivation": "Dropped 'quaero,' before the interrogative and 'paulus respondit' before the answer; kept the case setup so 'qua actione seia pecuniam petere possit' is intelligible. Answer is the complete respondit clause."
+    },
+    {
+      "locus": "Digest 16.3.28 (Scaevola)",
+      "type": "authorial-rhetorical",
+      "question": "Quintus caecilius candidus ad paccium rogatianum epistulam scripsit in verba infra scripta: \" caecilius candidus paccio rogatiano suo salutem. viginti quinque nummorum quos apud me esse voluisti, notum tibi ista hac epistula facio ad ratiunculam meam ea pervenisse: quibus ut primum prospiciam, ne vacua tibi sint: id est ut usuras eorum accipias, curae habebo\". An ex ea epistula etiam usurae peti possint?",
+      "answer": "Deberi ex bonae fidei iudicio usuras, sive percepit sive pecunia in re sua usus est.",
+      "derivation": "Kept the quoted letter as setup so 'ea epistula' has its referent; dropped 'quaesitum est,' before the question and 'respondi' before the answer. Answer is the complete respondi sentence."
+    }
+  ]
+}

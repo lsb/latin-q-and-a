@@ -1,0 +1,145 @@
+{
+  "source": "text/justinian/digest20.txt",
+  "pairs": [
+    {
+      "locus": "Digest 20.1.11.2",
+      "type": "authorial-rhetorical",
+      "question": "Usus fructus an possit pignori hypothecaeve dari?",
+      "answer": "Tuendum creditorem.",
+      "derivation": "Question is the verbatim interrogative 'Usus fructus an possit pignori hypothecaeve dari', dropping the framing 'quaesitum est' that follows it. Answer drops the framing 'et scribit papinianus libro undecimo responsorum' and takes the operative resolution 'tuendum creditorem' (the creditor is to be protected, i.e. yes); the reply then continues 'et si velit cum creditore proprietarius agere...' elaborating the praetor's exception, which is cut as digression."
+    },
+    {
+      "locus": "Digest 20.1.14pr",
+      "type": "authorial-rhetorical",
+      "question": "Si nondum dies pensionis venit, an et medio tempore persequi pignora permittendum sit?",
+      "answer": "Puto dandam pignoris persecutionem, quia interest mea.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing verb 'Quaesitum est'. Answer takes 'et puto dandam pignoris persecutionem, quia interest mea' (dropping the connective 'et' and capitalizing); the reply then continues 'et ita celsus scribit', an appeal to authority cut as it follows the operative answer."
+    },
+    {
+      "locus": "Digest 20.1.26pr",
+      "type": "direct-speech",
+      "question": "Quaero, an pignora fideiussor restituere cogendus sit.",
+      "answer": "Cogendum esse.",
+      "derivation": "Question kept verbatim including 'Quaero, an' (a genuine first-person asking). Answer drops the speech tag 'modestinus respondit' leaving 'cogendum esse', the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.1.31pr",
+      "type": "direct-speech",
+      "question": "An recte pignori datus est?",
+      "answer": "Si pecunia intercessit, pignus esse.",
+      "derivation": "Setup 'is fundus a possessore pignori datus est' is the antecedent. Question is the verbatim 'an recte pignori datus est', dropping the framing 'quaesitum est'. Answer drops the speech tag 'respondit' leaving the whole reply 'si pecunia intercessit, pignus esse'."
+    },
+    {
+      "locus": "Digest 20.1.32",
+      "type": "direct-speech",
+      "question": "An et stichus vilicus et ceteri servi ad culturam missi et stichi vicarii obligati essent?",
+      "answer": "Eos dumtaxat, qui hoc animo a domino inducti essent, ut ibi perpetuo essent, non temporis causa accomodarentur, obligatos.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaeritur, an'. Answer drops the speech tag 'respondit' leaving the complete reply."
+    },
+    {
+      "locus": "Digest 20.1.34pr",
+      "type": "direct-speech",
+      "question": "An omnia quae ibi deprehenduntur creditor hypothecaria actione petere possit, cum et mercium species mutatae sint et res aliae illatae?",
+      "answer": "Ea, quae mortis tempore debitoris in taberna inventa sunt, pignori obligata esse videntur.",
+      "derivation": "Of the two questions posed, the operative one is the second ('an omnia quae ibi deprehenduntur...'), kept verbatim. Answer drops the speech tag 'respondit:' leaving the complete reply."
+    },
+    {
+      "locus": "Digest 20.1.34.2",
+      "type": "direct-speech",
+      "question": "An corpora pecuniae, quam idem debitor ab alio mutuam accepit, cum in bonis eius facta sint, obligata creditori pignoris esse coeperint?",
+      "answer": "Coepisse.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaesitum est'. Answer drops the speech tag 'respondit' leaving the one-word reply 'coepisse' (capitalized)."
+    },
+    {
+      "locus": "Digest 20.2.10",
+      "type": "direct-speech",
+      "question": "An in veterem contractum iure res obligata esset?",
+      "answer": "Secundum ea quae proponerentur obligatam esse.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaesitum est'. Answer drops the speech tag 'respondit' leaving the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.4.9pr",
+      "type": "direct-speech",
+      "question": "An adversus hunc creditorem petentem erotem locatorem praetor tueri deberet?",
+      "answer": "Debere.",
+      "derivation": "Question is the verbatim indirect interrogative; 'consultus' (= 'when asked') is the framing and is dropped. Answer drops the speech tag 'respondit' leaving 'debere'; the reply then continues 'licet enim eo tempore homo pignori datus esset...' giving the reasoning, cut as it follows the operative answer."
+    },
+    {
+      "locus": "Digest 20.4.18",
+      "type": "direct-speech",
+      "question": "An titius non tantum sortis et earum usurarum nomine, quae accesserunt antequam maevius crederet, sed etiam earum, quae postea accesserunt, potior esset?",
+      "answer": "Lucium titium in omne quod ei debetur potiorem esse.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaero'. Answer drops the speech tag 'respondit' leaving the complete reply."
+    },
+    {
+      "locus": "Digest 20.4.19",
+      "type": "direct-speech",
+      "question": "An, si ei iustus possessor offerat, compellendus sit ius nominis cedere?",
+      "answer": "Posse videri non iniustum postulare.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaero'. Answer drops the speech tag 'respondi' leaving the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.4.20",
+      "type": "direct-speech",
+      "question": "Utrum seio ob quinquaginta an tibi in quadraginta cederet pignoris hyperocha?",
+      "answer": "Consequens esse, ut seius, potior sit in eo quod amplius est in pignore, et oblata ab eo summa primo ordine credita usurarumque eius postponatur primus creditor in summam, quam postea eidem debitori credidit.",
+      "derivation": "Question is the verbatim 'utrum...an' interrogative core; the long conditional 'Quaerebatur, si post primum contractum tuum...' framing and 'finge seium...' are dropped. Answer drops the speech tag 'dixi' leaving the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.4.21pr",
+      "type": "direct-speech",
+      "question": "An seia praeferenda sit fisco et in illis rebus, quas titius tempore prioris obligationis habuit, item in his rebus, quas post priorem obligationem adquisiit, donec universum debitum suum consequatur?",
+      "answer": "Nihil proponi cur non sit praeferenda.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaesitum est'. Answer drops the speech tag 'respondit' and joins the source's own contiguous words 'nihil proponi. cur non sit praeferenda' (= nothing is alleged why she should not be preferred), normalizing the stray full stop."
+    },
+    {
+      "locus": "Digest 20.4.21.1",
+      "type": "direct-speech",
+      "question": "An iure pignoris eos creditor retinere possit?",
+      "answer": "Secundum ea quae proponerentur posse.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaesitum est'. Answer drops the speech tag 'respondit' leaving the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.5.9pr",
+      "type": "direct-speech",
+      "question": "Si creditor ab emptore pignoris pretium servare non potuisset, an debitor liberatus esset?",
+      "answer": "Si nulla culpa imputari creditori possit, manere debitorem obligatum, quia ex necessitate facta venditio non liberat debitorem nisi pecunia percepta.",
+      "derivation": "Question is the verbatim conditional interrogative, dropping the framing 'Quaesitum est'. Answer drops the framing 'putavi' (= 'I held') leaving the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.5.11",
+      "type": "direct-speech",
+      "question": "An debitoris cessantibus pro solido pignus vendere quisque potest?",
+      "answer": "Posse.",
+      "derivation": "Setup 'nomina quoque communium debitorum separatim singulis in solidum adsignavit' is the antecedent. Question is the verbatim indirect interrogative, dropping 'quaesitum est'. Answer drops the speech tag 'respondi' leaving 'posse' (capitalized)."
+    },
+    {
+      "locus": "Digest 20.5.14",
+      "type": "direct-speech",
+      "question": "An unusquisque eorum, debitore sibi addicto cessante in solutione, pro solido pignus sub eo nomine obligatum vendere possit?",
+      "answer": "Potuisse.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'Quaesitum est'. Answer drops the speech tag 'respondit' leaving 'potuisse' (capitalized)."
+    },
+    {
+      "locus": "Digest 20.6.9pr",
+      "type": "direct-speech",
+      "question": "An venditione interposita ius pignoris exstinctum sit ac per hoc ius solum emptionis apud ambos permanserit?",
+      "answer": "Dominium ad eos de quibus quaeritur emptionis iure pertinere: cum consensum mutuo venditioni dedisse proponantur, invicem pigneraticiam actionem eos non habere.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaero'. Answer drops the speech tag 'modestinus respondit' leaving the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.6.9.1",
+      "type": "direct-speech",
+      "question": "An actio aliqua in rem maevio competere potest?",
+      "answer": "Pignus, cui is de quo quaeritur consensit, minime eum retinere posse.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaero'. Answer drops the speech tag 'modestinus respondit' leaving the complete reply (capitalized)."
+    },
+    {
+      "locus": "Digest 20.6.11.1",
+      "type": "direct-speech",
+      "question": "An mater eius hypothecam persequi possit?",
+      "answer": "Pignoris quidem obligationem praediorum gaiam seiam, quae viro pro filia communi in dotem eadem danti consensit, cum communis filiae nomine darentur, remisisse videri, obligationem autem personalem perseverasse: sed adversus eam, quae patris hereditate se abstinuit, actionem non esse dandam.",
+      "derivation": "Question is the verbatim indirect interrogative, dropping the framing 'quaero'. Answer drops the speech tag 'paulus respondit' leaving the complete reply (capitalized)."
+    }
+  ]
+}

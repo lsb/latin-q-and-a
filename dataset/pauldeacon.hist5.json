@@ -1,0 +1,12 @@
+{
+  "source": "text/pauldeacon/hist5.txt",
+  "pairs": [
+    {
+      "locus": "Paulus Diaconus, Historia Langobardorum 5.3",
+      "type": "direct-speech",
+      "question": "Quid vobis de homine isto videtur, qui talia perpetravit?",
+      "answer": "Esse eum dignum multis suppliciis excruciatum interire.",
+      "derivation": "Grimuald asks his attendants their judgment of the chamberlain who helped Perctarit escape; the relative clause 'qui talia perpetravit' is kept so 'homine isto' has a referent. The framing 'Tunc rex a circumstantibus requisivit dicens' is dropped as speech-tag. The answer is the reported reply ('Tunc omnes una voce responderunt, esse eum dignum...'); the speech-tag 'Tunc omnes una voce responderunt' is dropped, leaving the verbatim accusative-and-infinitive answer, ending at the full stop before 'At rex'."
+    }
+  ]
+}

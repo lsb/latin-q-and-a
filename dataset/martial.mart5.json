@@ -1,0 +1,54 @@
+{
+  "source": "text/martial/mart5.txt",
+  "pairs": [
+    {
+      "locus": "Martial 5.32",
+      "type": "direct-speech",
+      "question": "Quadrantem Crispus tabulis, Faustine, supremis non dedit uxori. Cui dedit ergo?",
+      "answer": "Sibi.",
+      "derivation": "The interrogative is the quoted \"Cui dedit ergo?\" The preceding declarative is kept as setup so the referent of \"dedit\" (the quadrans Crispus did not give his wife) is intelligible. Answer is the one-word reply \"Sibi\"; nothing follows the epigram."
+    },
+    {
+      "locus": "Martial 5.43",
+      "type": "authorial-rhetorical",
+      "question": "Thais habet nigros, niueos Laecania dentes. Quae ratio est?",
+      "answer": "Emptos haec habet, illa suos.",
+      "derivation": "Author poses and answers his own question. First line kept as setup so \"haec\"/\"illa\" have referents (Laecania's white bought teeth vs Thais's own black ones). Answer is the closing pentameter; nothing follows."
+    },
+    {
+      "locus": "Martial 5.55.1",
+      "type": "direct-speech",
+      "question": "Quem portas, uolucrum regina?",
+      "answer": "Tonantem.",
+      "derivation": "Framing \"Dic mihi\" dropped as a speech-tag introducing the utterance. The eagle (queen of birds) is asked whom she carries; answer is the quoted \"Tonantem.\" Cut before the next question (\"Nulla manu quare...\"), which is a separate exchange."
+    },
+    {
+      "locus": "Martial 5.55.2",
+      "type": "direct-speech",
+      "question": "Nulla manu quare fulmina gestat?",
+      "answer": "Amat.",
+      "derivation": "Second exchange of the dialogue. Question \"why does he (Jupiter) carry no thunderbolts in his hand?\" answered by the quoted \"Amat.\" Bounded by the preceding and following questions of the stichomythia."
+    },
+    {
+      "locus": "Martial 5.55.3",
+      "type": "direct-speech",
+      "question": "Quo calet igne deus?",
+      "answer": "Pueri.",
+      "derivation": "Third exchange. \"With what fire does the god burn?\" answered by the quoted \"Pueri\" (with [love] of the boy). Bounded by adjacent questions."
+    },
+    {
+      "locus": "Martial 5.55.4",
+      "type": "direct-speech",
+      "question": "Cur mitis aperto respicis ore Iouem?",
+      "answer": "De Ganymede loquor.",
+      "derivation": "Final exchange. \"Why do you, gentle, look back at Jupiter with open beak?\" answered by the quoted \"De Ganymede loquor.\" Ends the epigram."
+    },
+    {
+      "locus": "Martial 5.63",
+      "type": "direct-speech",
+      "question": "Quid sentis de nostris, Marce, libellis?",
+      "answer": "Admiror, stupeo: nihil est perfectius illis, ipse tuo cedet Regulus ingenio.",
+      "derivation": "Framing \"inquis\" dropped. The intervening narration line \"Sic me sollicitus, Pontice, saepe rogas\" is omitted since it narrates the asking, not the utterance; the question and Martial's reply are not contiguous in source but the reply is quoted contiguously as the answer. Answer ends before the next quoted question \"Hoc sentis?\"; the closing \"Immo tibi\" answers a different question."
+    }
+  ]
+}

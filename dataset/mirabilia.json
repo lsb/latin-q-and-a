@@ -1,0 +1,19 @@
+{
+  "source": "text/mirabilia.txt",
+  "pairs": [
+    {
+      "locus": "Mirabilia Urbis Romae 15",
+      "type": "direct-speech",
+      "question": "Si esset qui liberaret vos de hac tribulatione, quid a senatu promeretur?",
+      "answer": "Quicquid ipse poposcerit mox obtinebit.",
+      "derivation": "Direct-speech exchange: the armiger addresses the consuls and senators with a real interrogative (quid ... promeretur), and they answer. Dropped the speech tags 'qui dixit consulibus et senatoribus:' before the question and 'Qui respondentes dixerunt ei:' before the answer. Answer is the senators' full one-sentence reply; what follows is the armiger's next demand ('Qui ait eis: Date michi...'), a new turn, so it is excluded."
+    },
+    {
+      "locus": "Mirabilia Urbis Romae 16",
+      "type": "direct-speech",
+      "question": "Domina, que es tu?",
+      "answer": "Ego sum Cibeles, mater deorum.",
+      "derivation": "Direct-speech exchange between Agrippa and the apparition. Agrippa asks 'que es tu?' (a real interrogative); the figure answers 'Ego sum Cibeles, mater deorum.' Dropped the speech tags 'Qui dixit:' before the question and 'Que ait:' before the answer. Answer is cut at the first full stop; what follows ('Fer libamina Neptuno...') is a further command, not part of answering who she is, so it is excluded."
+    }
+  ]
+}

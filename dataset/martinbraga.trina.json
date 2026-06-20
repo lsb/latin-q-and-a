@@ -1,0 +1,12 @@
+{
+  "source": "text/martinbraga/trina.txt",
+  "pairs": [
+    {
+      "locus": "Martin of Braga, De trina mersione 4",
+      "type": "authorial-rhetorical",
+      "question": "Numquid quia Ariani Psalmum, Apostolum, Evangelia, et alia multa ita ut Catholici celebrant, nos errorum vicinitatem fugiendo haec sumus omnia reiecturi?",
+      "answer": "Absit, quia illi, ex nobis ut scriptum est exeuntes, praeter minorationem Deitatis Filii Dei et Spiritus Sancti, cetera ita penes se retinent sicut nos.",
+      "derivation": "Authorial rhetorical question introduced by the interrogative Numquid, answered by the author himself. The answer is the full following sentence: it opens with Absit (the direct negative answer to the rhetorical question) and the quia clause gives the grounds. The window ends at the section-final full stop after sicut nos. The section marker [4] was stripped as scaffolding."
+    }
+  ]
+}

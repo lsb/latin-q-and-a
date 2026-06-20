@@ -1,0 +1,12 @@
+{
+  "source": "text/lucan/lucan7.txt",
+  "pairs": [
+    {
+      "locus": "Lucan, Bellum Civile 7.68-90",
+      "type": "whole-speech-as-question",
+      "question": "hoc pro tot meritis solum te, Magne, precatur uti se Fortuna uelis, proceresque tuorum castrorum regesque tui cum supplice mundo adfusi uinci socerum patiare rogamus. humani generis tam longo tempore bellum Caesar erit? merito Pompeium uincere lente gentibus indignum est a transcurrente subactis. quo tibi feruor abit aut quo fiducia fati? de superis, ingrate, times causamque senatus credere dis dubitas? ipsae tua signa reuellent prosilientque acies: pudeat uicisse coactum. si duce te iusso, si nobis bella geruntur, sit iuris, quocumque uelint, concurrere campo. quid mundi gladios a sanguine Caesaris arces? uibrant tela manus, uix signa morantia quisquam expectat: propera, ne te tua classica linquant. scire senatus auet, miles te, Magne, sequatur an comes?",
+      "answer": "Si placet hoc cunctis, si milite Magno, non duce tempus eget, nil ultra fata morabor.",
+      "derivation": "Whole-speech-as-question: the troops' spokesman Cicero (Tullius) presses Pompey to give battle, an extended plea containing genuine interrogatives ('Caesar erit?', 'quo tibi feruor abit...?', 'credere dis dubitas?', 'quid mundi gladios... arces?', and the closing 'sequatur an comes?'). Quoted entire and contiguous, dropping the lead-in framing 'addidit inualidae robur facundia causae' and the closing speech-tag 'ingemuit rector... menti'; the opening apostrophe 'hoc... precatur... rogamus' is part of the plea, not narration. Inline every-5-lines numbers 70/75/80/85 stripped; first word capitalized only where it begins the answer. Answer is the operative opening of Pompey's reply (after dropping the 'inquit' tag), which directly grants the demand to fight now ('nil ultra fata morabor'); cut at the full stop / colon there, before the elaborating consequence 'inuoluat populos una fortuna ruina sitque hominum magnae lux ista nouissima parti' which digresses into lament rather than answering."
+    }
+  ]
+}

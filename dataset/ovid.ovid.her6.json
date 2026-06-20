@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.her6.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Heroides 6.35-36",
+      "type": "direct-speech",
+      "question": "Vivit? an me quoque fata vocant?",
+      "answer": "Vivit.",
+      "derivation": "Hypsipyle, hearing news of Jason, leaps up and cries out a genuine yes/no question about whether he lives. Framing narration 'exclamo' (and the preceding action 'protinus exilui tunicisque a pectore ruptis') is stripped as a speech tag; the utterance 'vivit? an ... me quoque fata vocant?' is quoted contiguously. The Thessalian guest answers directly: 'vivit', with the framing 'ait timidus' stripped. The earlier 'quid agit meus?' (32) is not a clean pair because the guest gives no verbal answer there (he stands in shame, 'ille pudore haesit'). First-word capitalization and terminal punctuation normalized."
+    }
+  ]
+}

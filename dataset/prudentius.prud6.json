@@ -1,0 +1,12 @@
+{
+  "source": "text/prudentius/prud6.txt",
+  "pairs": [
+    {
+      "locus": "Prudentius, Peristephanon 6.84-86",
+      "type": "authorial-rhetorical",
+      "question": "Cur lamenta rigant genas madentes, cur uestri memor ut fiam rogatis?",
+      "answer": "Cunctis pro populis rogabo Christum.",
+      "derivation": "Fructuosus poses two rhetorical questions to the weeping bystanders (lines 84-85) and answers them himself in line 86. Question span starts at 'Cur' (84) through 'rogatis?' (85), keeping both interrogatives contiguous; capitalization of 'Cur' is source-initial, terminal '?' normalized. Answer is the single full sentence that follows, line 86, capitalized 'Cunctis' and terminal '.' normalized; nothing precedes or follows within the utterance that needs cutting."
+    }
+  ]
+}

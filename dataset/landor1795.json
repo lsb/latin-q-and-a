@@ -1,0 +1,12 @@
+{
+  "source": "text/landor1795.txt",
+  "pairs": [
+    {
+      "locus": "Landor, Poematum Latinorum Libellus, Hendecasyllabi XXV",
+      "type": "direct-speech",
+      "question": "Quid prohibet fortes cantu celebrare Britannos, cum mihi sint vires?",
+      "answer": "Vellem equidem fortes cantu celebrare Britannos, et licet, at fidos non celebrare licet.",
+      "derivation": "The friend's question is explicitly marked as asked by the speech-frame 'dulcis Amice! rogas' at the end of the second line; that frame is narration of the asking and is dropped, leaving the real interrogative 'Quid prohibet... cum mihi sint vires?'. The poet's reply opens with the answering couplet 'Vellem equidem... non celebrare licet.' which directly answers (he would wish to and may, but is not permitted to celebrate the disloyal); the answer window ends at the first full stop. The following lines 'Si facerem certe gelidus tacitusque iacebo...' elaborate on the consequences and are cut. Table-scaffolding (column borders, the 'XXV' poem marker) and verse line indentation were stripped."
+    }
+  ]
+}

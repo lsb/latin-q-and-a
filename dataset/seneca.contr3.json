@@ -1,0 +1,12 @@
+{
+  "source": "text/seneca.contr3.txt",
+  "pairs": [
+    {
+      "locus": "Seneca the Elder, Controversiae 3.5 (Pater raptam continens)",
+      "type": "direct-speech",
+      "question": "Quando ergo optabis?",
+      "answer": "Hoc tempore non possum.",
+      "derivation": "The raptor's direct-speech question is framed by 'inquit' ('Quando ergo' inquit 'optabis?'); 'ergo' is the speaker's own word, kept. The father answers in his own voice. The answer window stops at the first full stop after the operative answering sentence 'hoc tempore non possum', cutting the following elaboration that begins 'curo vulnera, familiam reficio, expugnatam domum lugeo...' which lists his reasons rather than directly answering 'when'. Capitalization of the question's first word and the answer's first word normalized; terminal punctuation normalized to '?' and '.'."
+    }
+  ]
+}

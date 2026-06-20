@@ -1,0 +1,19 @@
+{
+  "source": "text/kempis/kempis1.txt",
+  "pairs": [
+    {
+      "locus": "Thomas a Kempis, De Imitatione Christi 1.22.1",
+      "type": "authorial-rhetorical",
+      "question": "Quis est qui habeat omnia secundum suam voluntatem?",
+      "answer": "Nec ego, nec tu, nec aliquis hominum super terram.",
+      "derivation": "Author poses the question and answers it immediately in the next sentence. The question is verbatim from the source; the answer is the full directly-responding sentence (a list of who does NOT have everything as they wish). Stops at the first full stop; what follows ('Nemo est in mundo sine aliqua tribulatione...') generalizes rather than answers."
+    },
+    {
+      "locus": "Thomas a Kempis, De Imitatione Christi 1.22.1",
+      "type": "authorial-rhetorical",
+      "question": "Quis est, qui melius habet?",
+      "answer": "Utique qui pro Deo aliquid pati valet.",
+      "derivation": "Author asks who is better off and answers it himself with 'Utique...' ('assuredly, the one who...'). Both the interrogative and its single-sentence answer are taken verbatim and contiguously from the source; this is the end of the paragraph, so nothing follows to cut."
+    }
+  ]
+}

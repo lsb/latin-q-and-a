@@ -1,0 +1,26 @@
+{
+  "source": "text/kepler/strena.txt",
+  "pairs": [
+    {
+      "locus": "Kepler, Strena seu de nive sexangula (ed. Frankfurt 1611)",
+      "type": "authorial-rhetorical",
+      "question": "Nix quid sit?",
+      "answer": "Nihil.",
+      "derivation": "Author frames an embedded question and its answer: 'Nam si Germano quaeras, nix quid sit, respondebit Nihil, siquidem Latine possit.' Dropped the speech framing 'Nam si Germano quaeras' (the asking) and 'respondebit ... siquidem Latine possit' (the answering tag and its proviso), leaving the bare interrogative 'nix quid sit' (normalized capitalization and terminal '?') and the answer 'Nihil'."
+    },
+    {
+      "locus": "Kepler, Strena seu de nive sexangula (ed. Frankfurt 1611)",
+      "type": "authorial-rhetorical",
+      "question": "Quaeras, unde hoc sciam, cum, si talis etiam sit vapor, id oculis cerni non possit, quia vapor pellucidus?",
+      "answer": "Vapor existit ex resolutione humoris subterranei, quod arguitur ex ejus levitate et ascensu.",
+      "derivation": "Author poses a question to himself and answers with 'Respondeo:'. Kept the full interrogative sentence as the question (it is contiguous and self-contained). Dropped the framing tag 'Respondeo:' from the answer; took the answer's first sentence (to the first full stop), which genuinely answers how he knows the vapor is undifferentiated. Cut before 'In resolutione vero figurae non habent locum...' which begins elaboration."
+    },
+    {
+      "locus": "Kepler, Strena seu de nive sexangula (ed. Frankfurt 1611)",
+      "type": "authorial-rhetorical",
+      "question": "Quo ordine structi sint apum alveoli?",
+      "answer": "Ordine sexangulo.",
+      "derivation": "From 'Si ex geometris quaeras, quo ordine structi sint apum alveoli, respondebunt, ordine sexangulo.' Dropped the speech framing 'Si ex geometris quaeras' (the asking) and 'respondebunt' (the answering tag), leaving the bare embedded interrogative 'quo ordine structi sint apum alveoli' (normalized capitalization and terminal '?') and its direct answer 'ordine sexangulo' (normalized capitalization and terminal '.'). Cut before 'Simplex est responsio...' which begins explanation rather than the answer itself."
+    }
+  ]
+}

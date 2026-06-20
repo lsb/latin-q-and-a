@@ -1,0 +1,33 @@
+{
+  "source": "text/rutiliuslupus.txt",
+  "pairs": [
+    {
+      "locus": "Rutilius Lupus, De Figuris 1.19 (Hyperides)",
+      "type": "direct-speech",
+      "question": "Scripsisti, ut servis libertas detur?",
+      "answer": "Scripsi, ne liberi servitutem experirentur.",
+      "derivation": "From the Hyperides example under PAROMOLOGIA [I.19]: an interlocutor's interrogative ('Did you write that liberty be given to slaves?') answered directly by the speaker. Question and answer are the contiguous couplet; no framing dropped except the section's lead-in 'Item eiusdem:'. Answer stops at the full stop before the next question 'Scripsisti, ut exules restituerentur?'."
+    },
+    {
+      "locus": "Rutilius Lupus, De Figuris 1.19 (Hyperides)",
+      "type": "direct-speech",
+      "question": "Scripsisti, ut exules restituerentur?",
+      "answer": "Scripsi, ut ne quis exilio afficeretur.",
+      "derivation": "Second couplet of the Hyperides PAROMOLOGIA exchange [I.19]: interrogative answered directly by the speaker. Contiguous Q/A; answer ends at the full stop before the next question 'Leges igitur, quae prohibebant haec, non legebas?'."
+    },
+    {
+      "locus": "Rutilius Lupus, De Figuris 1.19 (Hyperides)",
+      "type": "direct-speech",
+      "question": "Leges igitur, quae prohibebant haec, non legebas?",
+      "answer": "Non poteram, propterea quod litteris earum arma Macedonum opposita officiebant.",
+      "derivation": "Third couplet of the Hyperides PAROMOLOGIA exchange [I.19]: interrogative ('So were you not reading the laws that forbade these things?') genuinely answered ('I could not, because the arms of the Macedonians set against their text obstructed me'). Answer runs to the end of the example sentence; nothing follows in this entry."
+    },
+    {
+      "locus": "Rutilius Lupus, De Figuris 2.3 (Lysias)",
+      "type": "authorial-rhetorical",
+      "question": "Quid acciderit causae, quam ob rem eundem et laudem et vituperem?",
+      "answer": "Quod idem commutata voluntate non est, qui fuerat, neque idem nunc de se audire debet, quod prius consuerat, cum sine noxa se gerebat.",
+      "derivation": "From the Lysias example under DIKAEOLOGIA [II.3]. The framing 'Quaeritis fortasse' ('perhaps you ask') is dropped as narration of the asking; the indirect question is presented as the operative interrogative and capitalized. The answer is the immediately following 'Quod idem commutata voluntate non est...' which directly explains why the speaker both praises and blames the same man; it runs to its full stop, before the unrelated retort 'Non arbitratus es igitur, rursum eum reversurum officio...'."
+    }
+  ]
+}

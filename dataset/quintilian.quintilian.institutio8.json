@@ -1,0 +1,12 @@
+{
+  "source": "text/quintilian/quintilian.institutio8.txt",
+  "pairs": [
+    {
+      "locus": "Quintilian, Institutio Oratoria 8.3.9",
+      "type": "authorial-rhetorical",
+      "question": "Nullusne ergo etiam frugiferis adhibendus est decor?",
+      "answer": "Quis negat?",
+      "derivation": "Authorial rhetorical question and self-answer in section IX. Quintilian asks whether no beauty should be applied even to fruit-bearing things, and answers himself 'Quis negat?' ('Who denies it?'). The answer window stops at the first full stop: the reply then turns to elaboration ('Nam et in ordinem certaque intervalla redigam meas arbores...'), which is cut. No scaffolding present in the quoted span."
+    }
+  ]
+}

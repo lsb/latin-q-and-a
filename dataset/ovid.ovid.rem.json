@@ -1,0 +1,33 @@
+{
+  "source": "text/ovid/ovid.rem.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Remedia Amoris 161-162",
+      "type": "authorial-rhetorical",
+      "question": "Aegisthus quare sit factus adulter?",
+      "answer": "In promptu causa est: desidiosus erat.",
+      "derivation": "The author poses and answers his own question. Dropped the framing word 'Quaeritur,' ('it is asked') that narrates the asking; the utterance proper is 'Aegisthus quare sit factus adulter?'. Answer is the full responding line giving the cause ('he was idle'); it ends at the full stop, after which the text turns to elaboration ('Pugnabant alii tardis apud Ilion armis...')."
+    },
+    {
+      "locus": "Ovid, Remedia Amoris 487-488",
+      "type": "authorial-rhetorical",
+      "question": "Ubi invenias?",
+      "answer": "Artes tu perlege nostras: plena puellarum iam tibi navis erit.",
+      "derivation": "Author poses and answers his own question. Dropped the framing verb 'Quaeris,' ('you ask') that narrates the asking; question proper is 'Ubi invenias?'. Answer is the contiguous response telling the reader to read the Ars and promising a shipful of girls, complete by the end of the couplet; the next line ('Quod siquid praecepta valent mea...') moves on."
+    },
+    {
+      "locus": "Ovid, Remedia Amoris 749-750",
+      "type": "authorial-rhetorical",
+      "question": "Cur nemo est, Hecalen, nulla est, quae ceperit Iron?",
+      "answer": "Nempe quod alter egens, altera pauper erat.",
+      "derivation": "Author poses and answers his own question. Question is the full interrogative line; answer is the full responding line giving the cause ('because the one was needy, the other poor'), ending at the full stop. The following line ('Non habet, unde suum paupertas pascat amorem...') elaborates the general principle and is excluded."
+    },
+    {
+      "locus": "Ovid, Remedia Amoris 803-806",
+      "type": "authorial-rhetorical",
+      "question": "Quid tibi praecipiam de Bacchi munere?",
+      "answer": "Vina parant animum Veneri, nisi plurima sumas et stupeant multo corda sepulta mero.",
+      "derivation": "Author poses his own question ('What shall I advise you about the gift of Bacchus?'); dropped the trailing framing verb 'quaeris' ('you ask'). The immediately following couplet ('Spe brevius monitis expediere meis...') is a non-answering preamble (it only says the advice will be brief), so per the skip-preamble guidance the answer's start is advanced to the operative answering sentence about wine, lines 805-806, ending at the full stop before 'Nutritur vento...'."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/silius/silius2.txt",
+  "pairs": [
+    {
+      "locus": "Silius Italicus, Punica 2.484-517",
+      "type": "whole-speech-as-question",
+      "question": "Ante Iouem generata, decus diuumque hominumque, qua sine non tellus pacem, non aequora norunt, iustitiae consors tacitumque in pectore numen, exitiumne tuae dirum spectare Sagunti et tot pendentem pro te, dea, cernere poenas urbem lenta potes? moritur tibi uulgus, et unam te matres uincente fame, te maesta uirorum ora uocant, primaque sonant te uoce minores. fer caelo auxilium et fessis da surgere rebus.",
+      "answer": "Sed si cura, tua fundata ut moenia dextra dignum te seruent memorando fine uigorem, dedita nec fessi tramittant corpora Poeno: quod solum nunc fata sinunt seriesque futuri, extendam leti decus atque in saecula mittam ipsaque laudatas ad manes prosequar umbras.",
+      "derivation": "Whole speech of Hercules (satus Alcmena, the Nemeae pacator) to the goddess Fides. Framing tag 'quam tali adloquitur Nemeae pacator honore:' (narration of the address) dropped; the plea is quoted entire and contiguous, containing the genuine interrogative 'exitiumne... lenta potes?'. The answer is introduced by the dropped framing 'Haec satus Alcmena; contra cui talia uirgo:'. Fides's reply opens with a non-answering preamble (Cerno equidem... pacem seruant commercia culpae) acknowledging the broken treaty and explaining why she has abandoned a corrupt earth; that span is cut as it does not answer the plea for help. The answer starts at the operative answering sentence 'Sed si cura...' (capitalized from 'sed'), where Fides states what she will do: since fate forbids saving the city, she will extend the glory of their death and escort their praised shades. The answer ends at the close of her speech ('prosequar umbras'), after which narration resumes (Inde seuera leui decurrens aethere uirgo)."
+    }
+  ]
+}

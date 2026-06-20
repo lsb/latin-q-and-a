@@ -1,0 +1,12 @@
+{
+  "source": "text/mirandola/mir4.txt",
+  "pairs": [
+    {
+      "locus": "Mirandola, Carmen de somniis 43-46",
+      "type": "direct-speech",
+      "question": "O quae coeruleam propellis praevia noctem, cui rutilae gemmant rore nitente manus, tam cito cur thalamo surgis renuente marito?",
+      "answer": "Tithoni nobis cana senecta nocet.",
+      "derivation": "The speaker apostrophizes Aurora (Dawn) with a vocative setup (lines 43-44) leading to the interrogative 'tam cito cur thalamo surgis renuente marito?' (line 45). The vocative is kept so the address has a referent. Dawn answers in line 46 with a single complete sentence explaining why she leaves her unwilling husband: Tithonus's grey old age. The window ends at the first full stop. What follows (line 47, 'tu miseros iteras questus renovasque dolores') returns to the speaker's lament and does not continue the answer."
+    }
+  ]
+}

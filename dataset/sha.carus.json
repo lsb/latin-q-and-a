@@ -1,0 +1,12 @@
+{
+  "source": "text/sha/carus.txt",
+  "pairs": [
+    {
+      "locus": "Historia Augusta, Carus 3.8",
+      "type": "authorial-rhetorical",
+      "question": "Sed quorsum talibus querellis et temporum casibus detinemur?",
+      "answer": "Veniamus ad Carum, medium, ut ita dixerim, virum et inter bonos magis quam inter malos principes conlocandum et longe meliorem, si Carinum non reliquisset heredem.",
+      "derivation": "Authorial rhetorical question closing the survey of Rome's fortunes, answered by the author himself resolving to turn to his subject (veniamus ad Carum...). Section marker 'III. 8' and the editorial deletion bracket in qu[a]erellis stripped (yielding querellis); square-bracket deletion in reli[n]quisset stripped (yielding reliquisset). Answer runs to the full stop after 'heredem'; nothing further is part of the reply (next sentence begins new section IV on Carus's homeland)."
+    }
+  ]
+}

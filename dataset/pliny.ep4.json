@@ -1,0 +1,40 @@
+{
+  "source": "text/pliny.ep4.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Epistulae 4.2.7-8",
+      "type": "authorial-rhetorical",
+      "question": "Unde hoc augurer?",
+      "answer": "Non quia affirmat ipse, quo mendacius nihil est, sed quia certum est Regulum esse facturum, quidquid fieri non oportet.",
+      "derivation": "Pliny poses an imagined reader's question and answers it himself. Dropped the framing speech verb 'quaeris' from the question 'Unde hoc augurer quaeris?' (narration of the asking), leaving the interrogative 'Unde hoc augurer?'. Answer runs to the full stop ending the sentence; nothing further follows in the letter except 'Vale.'"
+    },
+    {
+      "locus": "Pliny, Epistulae 4.7.6",
+      "type": "authorial-rhetorical",
+      "question": "Habesne quo tali epistulae parem gratiam referas?",
+      "answer": "Habes, si scripseris num aliquis in municipio vestro ex sodalibus meis, num etiam ipse tu hunc luctuosum Reguli librum ut circulator in foro legeris, 'eparas' scilicet, ut ait Demosthenes, 'tên phônên kai gegêthôs kai laryngizôn'.",
+      "derivation": "Self-answered question: 'Habesne...?' is answered by 'Habes, si scripseris...'. The answer runs to the full stop that closes the sentence; the next sentence ('Est enim tam ineptus...') turns to a separate observation, so it is excluded."
+    },
+    {
+      "locus": "Pliny, Epistulae 4.9.17",
+      "type": "authorial-rhetorical",
+      "question": "Qui fieri potest, cum tam diversa censuerint?",
+      "answer": "Quia scilicet et Macro legem intuenti consentaneum fuit damnare eum qui contra legem munera acceperat, et Caepio cum putaret licere senatui - sicut licet - et mitigare leges et intendere, non sine ratione veniam dedit facto vetito quidem, non tamen inusitato.",
+      "derivation": "Pliny quotes the addressee's imagined question and answers it. Dropped the interruptive framing 'inquis' ('Qui fieri potest' inquis, 'cum tam diversa censuerint?'), joining the speaker's own contiguous words into the question. The answer is the immediately following sentence explaining the two senators' reasoning, ending at the full stop before section 18 ('Praevaluit sententia Caepionis...')."
+    },
+    {
+      "locus": "Pliny, Epistulae 4.13.3",
+      "type": "direct-speech",
+      "question": "Cur non hic?",
+      "answer": "Quia nullos hic praeceptores habemus.",
+      "derivation": "Direct-speech exchange: Pliny asks the boy why he does not study locally, and the father answers. Dropped the framing ('Et pater eius - erat enim una atque etiam ipse adduxerat puerum -:') before the father's reply, keeping only his utterance. The earlier thin exchanges ('Studes?'/'Etiam.', 'Ubi?'/'Mediolani.') are omitted as one-word answers; this is the clearest interrogative-and-answer."
+    },
+    {
+      "locus": "Pliny, Epistulae 4.22.6",
+      "type": "direct-speech",
+      "question": "Quid putamus passurum fuisse si viveret?",
+      "answer": "Nobiscum cenaret.",
+      "derivation": "Direct-speech exchange at Nerva's dinner: the emperor asks what Catullus Messalinus would have suffered if alive, and Mauricus answers. Dropped the speech framing 'cum ipse imperator:' before the question and 'Et Mauricus:' before the answer. Both utterances are complete; nothing is trimmed within them."
+    }
+  ]
+}

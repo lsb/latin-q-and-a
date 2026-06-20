@@ -1,0 +1,19 @@
+{
+  "source": "text/martial/mart9.txt",
+  "pairs": [
+    {
+      "locus": "Martial 9.4",
+      "type": "direct-speech",
+      "question": "Quid ergo?",
+      "answer": "Tacet.",
+      "derivation": "Closing exchange of the epigram. After 'non fellat tanti Galla' the poem poses the real interrogative 'Quid ergo?' (what then [does she do for the ten gold pieces]?) and answers it immediately with 'Tacet.' (she keeps silent). Self-contained as a clean question/answer; the preceding 'non fellat tanti Galla' supplies the 'ergo' but is itself a statement, so only the genuine interrogative and its reply are taken."
+    },
+    {
+      "locus": "Martial 9.93",
+      "type": "direct-speech",
+      "question": "Quis erit cui te, Calacisse, deorum sex iubeo cyathos fundere?",
+      "answer": "Caesar erit.",
+      "derivation": "Real interrogative addressed to the slave Calacissus, answered by direct speech 'Caesar erit.' The framing 'nunc mihi dic' (now tell me) narrates the asking and is dropped as a speech tag; first word capitalized. The quoted answer was 'Caesar erit.' in the source between single quotes."
+    }
+  ]
+}

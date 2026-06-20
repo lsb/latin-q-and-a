@@ -1,0 +1,75 @@
+{
+  "source": "text/justinian/digest38.txt",
+  "pairs": [
+    {
+      "locus": "Digest 38.1.7.6 (Ulpian 28 ad Sabinum)",
+      "type": "authorial-rhetorical",
+      "question": "Si liberi patroni ex inaequalibus partibus essent instituti, utrum pro parte dimidia an pro hereditariis habeant operarum actionem?",
+      "answer": "Et puto verius liberos pro aequalibus habituros actionem.",
+      "derivation": "The jurist poses his own real interrogative (utrum... an... habeant operarum actionem?) and answers it himself. The conditional protasis 'Si liberi patroni... instituti' is kept verbatim because it sets up the question's referents. Answer kept whole (one sentence); 'Et' retained as the author's own word. Stripped the Dig. section marker and the 'Ulpianus 28 ad sab.' attribution line."
+    },
+    {
+      "locus": "Digest 38.1.26 pr. (Alfenus 7 Digestorum)",
+      "type": "direct-speech",
+      "question": "Medicus libertus, quod putaret, si liberti sui medicinam non facerent, multo plures imperantes sibi habiturum, postulabat, ut sequerentur se neque opus facerent: id ius est nec ne?",
+      "answer": "Ius esse, dummodo liberas operas ab eis exigeret, hoc est ut adquiescere eos meridiano tempore et valetudinis et honestatis suae rationem habere sineret.",
+      "derivation": "A consultation: the operative interrogative is 'id ius est nec ne?'; the preceding sentence ('Medicus libertus... neque opus facerent') is kept verbatim so 'id' has its referent (the freedman's demand). Dropped the answer-framing verb 'respondit'. Answer kept contiguous; nothing trimmed. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.1.45 (Scaevola 2 Responsorum)",
+      "type": "direct-speech",
+      "question": "Libertus negotiatoris vestiarii an eandem negotiationem in eadem civitate et eodem loco invito patrono exercere possit?",
+      "answer": "Nihil proponi, cur non possit, si nullam laesionem ex hoc sentiet patronus.",
+      "derivation": "A genuine question (an... exercere possit?) put to Scaevola and answered. Dropped the framing 'respondit'. Answer is the single responding sentence, contiguous, nothing omitted. Normalized terminal spacing on the question mark. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.2.20.4 (Julian 25 Digestorum)",
+      "type": "direct-speech",
+      "question": "Si libertinus filium emancipatum sub condicione heredem instituerit et deficiente condicione substitutus adierit, utrum patrono adversus substitutum in partem debitam praetor an emancipato filio in totam hereditatem succurrere debeat?",
+      "answer": "Cum pater filium sub condicione primo gradu heredem instituit, si deficiente condicione, sub qua filius heres institutus est, ad secundum gradum hereditas pertinet vel adhuc pendente condicione filius decesserit, patrono partis debitae bonorum possessionem adversus substitutum competere.",
+      "derivation": "Consultation. The conditional setup 'Si libertinus... adierit' is kept verbatim as it frames the question's referents. Dropped the framing verb 'quaero' that introduced the interrogative and the framing 'respondi' before the answer. Answer ends at its first full stop ('...adversus substitutum competere.'); the following sentences ('idemque est...', 'si vero...') elaborate further cases and were cut. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.2.35 (Javolenus 3 Epistularum)",
+      "type": "direct-speech",
+      "question": "A liberto suo herede seius usum fructum fundi maevio legavit: is libertus maevio herede relicto decessit: cum contra tabulas testamenti petierit filius seii adversus maevium, utrum deducto usu fructu pars debita ei fundi restituenda sit an solida, quia eorum bonorum acceperit possessionem, quae liberti cum moreretur fuerunt?",
+      "answer": "Usum fructum in causam pristinam restituendum puto.",
+      "derivation": "Consultation. The narrative setup 'A liberto suo herede seius... decessit' is kept verbatim so the question's referents (the fundus, the usufruct, Seius's son) are intelligible. Dropped the framing 'quaero' and 'respondit'. Answer ends at its first full stop; the following sentence ('optimum itaque erit arbitrum postulare...') is practical advice that goes beyond answering, and was cut. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.2.36 (Javolenus 8 Epistularum)",
+      "type": "direct-speech",
+      "question": "Libertus, qui solvendo non erat, praeterito patrono extrarios relinquit heredes: an possit patronus petere contra tabulas bonorum possessionem?",
+      "answer": "Cum a scriptis heredibus adita est hereditas, patronus contra tabulas bonorum possessionem petere potest, quia solvendo hereditas est, quae inveniat heredem.",
+      "derivation": "Consultation. The setup 'Libertus, qui solvendo non erat... relinquit heredes' is kept verbatim so 'patronus' and the situation are intelligible. Dropped the framing 'quaero' and 'respondit'. Answer ends at its first full stop ('...quae inveniat heredem.'); the long following discussion ('et sane absurdum est...') elaborates and was cut. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.5.12 (Javolenus 3 Epistularum)",
+      "type": "direct-speech",
+      "question": "Libertus cum fraudandi patroni causa fundum seio tradere vellet, seius titio mandavit, ut eum accipiat, ita ut inter seium et titium mandatum contrahatur. Post mortem liberti patronus utrum cum seio dumtaxat qui mandavit actionem habet, an cum titio qui fundum retinet, an cum quo velit agere possit?",
+      "answer": "In eum, cui donatio quaesita est, ita tamen si ad illum res pervenerit, actio datur, cum omne negotium, quod eius voluntate gestum sit, in condemnationem eius conferatur.",
+      "derivation": "Consultation. The narrative setup ('Libertus cum fraudandi patroni causa... mandatum contrahatur.') is kept verbatim so Seius, Titius and the fundus have referents. Dropped the framing 'quaero' and 'respondit'. Answer ends at its first full stop; the following sentences ('nec potest videri...', 'quid enim dicemus...') extend the reasoning and were cut. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.8.10 (Scaevola 2 Responsorum)",
+      "type": "direct-speech",
+      "question": "Intestata reliquit sororem septiciam diverso patre natam et praegnatem matrem ex alio marito: si mater hereditatem repudiaverit, dum adhuc praegnas est, posteaque enixa fuerit semproniam, an etiam sempronia bonorum titiae possessionem accipere possit?",
+      "answer": "Si mater hereditate exclusa est, eam quae, ut proponeretur, postea nata est, accipere posse.",
+      "derivation": "Consultation. The case setup 'Intestata reliquit sororem... ex alio marito' is kept verbatim so the persons (Septicia, the pregnant mother, Sempronia) are intelligible. Dropped the framing 'quaero' and 'respondit'. Answer is the single responding sentence, contiguous. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.13.1 (Julian 28 Digestorum)",
+      "type": "direct-speech",
+      "question": "Servo meo herede instituto dolo feci, ne testamentum mutaretur, eumque postea manumisi: an actiones ei denegandae essent?",
+      "answer": "Hic casus verbis edicti non continetur. Sed aequum est, si dominus dolo fecerit, ne testamentum mutaretur, quo servus eius heres scriptus erat, quamvis manumissus adierit hereditatem, ei denegari, cum etiam emancipato filio denegetur, si pater dolo fecerit, ne testamentum mutaretur.",
+      "derivation": "Consultation. The first-person setup 'Servo meo herede instituto... manumisi' is kept verbatim so 'ei' and the situation are intelligible. Dropped the framing 'quaesitum est' and 'respondi'. Answer kept whole (the negative ruling plus its operative qualification 'denegari'); nothing trimmed internally. Stripped section marker and attribution line."
+    },
+    {
+      "locus": "Digest 38.16.6 (Julian 59 Digestorum)",
+      "type": "direct-speech",
+      "question": "Titius exheredato filio extraneum heredem sub condicione instituit: si post mortem patris pendente condicione filius uxorem duxisset et filium procreasset et decessisset, deinde condicio instituti heredis defecisset, an ad hunc postumum nepotem legitima hereditas avi pertineret?",
+      "answer": "Qui post mortem avi sui concipitur, is neque legitimam hereditatem eius tamquam suus heres neque bonorum possessionem tamquam cognatus accipere potest.",
+      "derivation": "Consultation. The case setup 'Titius exheredato filio... instituit' is kept verbatim so the posthumous grandson has his referents. Dropped the framing 'quaesitum est' and 'respondit'. Answer cut at '...accipere potest' (the operative negative ruling); the trailing 'quia lex duodecim tabularum... in rerum natura fuerit,' is the supporting reason and runs into the Celsus fragment (Dig. 38.16.7), so it was cut. Stripped section marker and attribution line."
+    }
+  ]
+}

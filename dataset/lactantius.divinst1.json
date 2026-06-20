@@ -1,0 +1,26 @@
+{
+  "source": "text/lactantius/divinst1.txt",
+  "pairs": [
+    {
+      "locus": "Lactantius, Divinae Institutiones 1.7",
+      "type": "authorial-rhetorical",
+      "question": "Si Deus unus est, quae esse beata solitudo queat?",
+      "answer": "Tamquam nos, qui unum esse dicimus, desertum ac solitarium esse dicamus; habet enim ministros, quos uocamus nuntios.",
+      "derivation": "Lactantius cites the objection of Hortensius (in Cicero) and answers it himself. Dropped the framing 'Sed fortasse quaerat aliquis a nobis idem illud, quod apud Ciceronem quaerit Hortensius:' which narrates the asking. The reply rebuts the premise ('as if we... say he is solitary') and gives the operative answer 'habet enim ministros'; window ends at the first full stop after 'nuntios'. What follows ('Et est illud uerum, quod dixisse in Exhortationibus Senecam...') is supporting elaboration."
+    },
+    {
+      "locus": "Lactantius, Divinae Institutiones 1.8",
+      "type": "authorial-rhetorical",
+      "question": "Quomodo ergo dii crediti sunt?",
+      "answer": "Nimirum quia reges maximi ac potentissimi fuerint: ob merita uirtutum suarum, aut munerum, aut artium repertarum, cum cari fuissent iis quibus imperitauerant, in memoriam sunt consecrati.",
+      "derivation": "An imagined interlocutor asks how mortals came to be believed gods; Lactantius answers. Dropped the interior speech tag 'inquiet aliquis,' from 'Quomodo ergo, inquiet aliquis, dii crediti sunt?', keeping the author's own words contiguous. Answer runs to the first full stop after 'consecrati'; what follows ('Quod is quis dubitet, res eorum gestas...') turns to corroboration."
+    },
+    {
+      "locus": "Lactantius, Divinae Institutiones 1.10",
+      "type": "authorial-rhetorical",
+      "question": "Quid tu poetisne credendum putas?",
+      "answer": "Quidni putem?",
+      "derivation": "An imagined interlocutor asks whether the poets should be believed; Lactantius answers affirmatively. Dropped the interior speech tag 'inquiet aliquis,' from 'Quid tu, inquiet aliquis, poetisne credendum putas?', keeping the utterance contiguous. The answer is the single retort 'Quidni putem?'; what follows ('Non enim ista Lucilius narrat...') is justification."
+    }
+  ]
+}

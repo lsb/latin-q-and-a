@@ -1,0 +1,215 @@
+{
+  "source": "text/martinbraga/sententiae.txt",
+  "pairs": [
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 2",
+      "type": "direct-speech",
+      "question": "Ieiunia et vigiliae quas agimus quid faciunt?",
+      "answer": "Ipsa faciunt animam humilem fieri.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater eundem senem, dicens\", \"Respondit senex\"). Answer ends at first full stop; the following scriptural quotation (\"Scriptum est enim: Vide humilitatem meam...\") elaborates rather than directly answering."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 4",
+      "type": "direct-speech",
+      "question": "Quid faciam, pater, contra cogitationes passionum?",
+      "answer": "Ora Deum ut videant oculi animae tuae auxilium quod a Deo est, quod circumdat hominem et conservat.",
+      "derivation": "Speech tags dropped (\"Frater requisivit senem dicens\", \"Respondit\"). Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 5",
+      "type": "direct-speech",
+      "question": "Quomodo vendam opera mea?",
+      "answer": "Ne velis aliquid super quod valet vendere, sed magis si gravaris, esto amicus ei qui tibi violenter plus tollit, et cum requie vendes.",
+      "derivation": "Speech tags dropped (\"interrogavit Abbatem Poemenem, dicens\", \"Dicit ei senex\"). Answer ends at first full stop; the following first-person anecdote (\"Ego enim aliquando vadens in mercatum...\") is elaboration."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 6",
+      "type": "direct-speech",
+      "question": "Unde habes nitrum?",
+      "answer": "Inveni illud in via dum venirem et tuli illud.",
+      "derivation": "Speech tags dropped (\"et dicit ei\", \"Respondit frater\"). Self-contained question and answer; later exchanges in the same section are dropped to avoid over-extraction."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 7",
+      "type": "direct-speech",
+      "question": "Dimissa est mihi hereditas a parentibus meis; quid de illa faciam?",
+      "answer": "Si ergo me vis audire, da illam egentibus et sine solicitudine eris.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater Abbatem Sisoium, dicens\", \"Respondit senex\"). Setup kept so \"de illa\" has a referent. The reply opens with a non-answering deflection (\"Quid tibi dicam, frater? Si dixero tibi: Da illam in ecclesiam clericis, epulabunt ex ipsa. Si dixero: Da illam consanguineis tuis, nullam mercedem habebis.\"), so the answer start is advanced to the operative answering sentence."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 14",
+      "type": "direct-speech",
+      "question": "Quid est quod Dominus dixit: Maiorem hac caritatem nemo habet quam ut quis animam suam pro amico suo ponat: quomodo hoc fiet?",
+      "answer": "Si quis audit verbum malum a proximo suo, et dum possit ipse similia illi respondere, pugnans tamen in corde suo, purgare laborem tristitiae, et vim sibi facit, ne respondens illi malum contristet illum, iste talis animam suam ponit pro amico suo.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater Abbatem Poemenem, dicens\", \"Respondit senex\"). Answer is the whole single-sentence reply, which directly explains how the saying is fulfilled."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 21",
+      "type": "direct-speech",
+      "question": "Quomodo oportet sedere in cella?",
+      "answer": "Sedere in cella est manifeste operari manibus, et meditari verbum Dei, et quiescere, et solitarie panem tantum edere.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater Abbatem Poemenem, dicens\", \"Respondit\"). Answer ends at first full stop; the following \"Absconsus vero profectus est...\" turns to further elaboration."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 22",
+      "type": "direct-speech",
+      "question": "Cor meum durum est et non timet Deum. Quid faciam ut possim timere Deum?",
+      "answer": "Ego sic arbitror, quia homo arguens se ipsum semper in corde suo pervenit ad timorem Dei.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater senem, dicens\", \"Respondit\"). Setup statement kept so the question is intelligible. Answer ends at first full stop; the follow-up sub-question (\"Quid est arguere se ipsum?\") begins a new exchange."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 26",
+      "type": "direct-speech",
+      "question": "Post quantum tempus debet homo a se abscidere passiones?",
+      "answer": "In quacumque hora venerit passio, abscide illam, quia fragilis est anima; ante armetur quam a peccatis inquinetur.",
+      "derivation": "Speech tags dropped (\"Requisivit frater Abbatem Sisoium\", \"Respondit\"). Editorial angle brackets stripped, words kept (\"<quia fragilis est anima; ante armetur quam a peccatis inquinetur>\")."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 29",
+      "type": "direct-speech",
+      "question": "Quomodo Deus promittit bona animae per Sanctas Scripturas, et non vult anima in illis permanere, sed inclinatur ad transitoria et immunda?",
+      "answer": "Quia necdum gustavit dulcedinem caelestium, ut ex toto corde exquirat Deum, ideo ad immunda citius inclinatur.",
+      "derivation": "Speech tags dropped (\"Requisivit frater senem, dicens\", \"Respondit senex\"). Editorial angle brackets stripped, words kept (\"<ut ex toto corde exquirat Deum,>\")."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 30",
+      "type": "direct-speech",
+      "question": "Quomodo anima delectatur passiones?",
+      "answer": "Anima delectatur passiones, sed Spiritus Dei est qui continet illam.",
+      "derivation": "Speech tags dropped (\"Requisivit frater senem, dicens\", \"Respondit\"). Answer ends at first full stop; the following \"Plangere ergo debemus...\" turns to exhortation and the Mary exemplum."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 33",
+      "type": "direct-speech",
+      "question": "Quid faciam pro peccatis meis?",
+      "answer": "Qui vult liberari a peccatis, planctu liberabitur ab eis, et qui vult in se aedificare virtutes, planctu aedificet.",
+      "derivation": "Speech tags dropped (\"Frater requisivit senem, dicens\", \"Respondit\"). Answer ends at first full stop; the following \"Ipsa enim Scriptura planctus est...\" elaborates."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 36",
+      "type": "direct-speech",
+      "question": "Quid faciet homo in omni temptatione veniente super se et in omni cogitatione immissa ab inimico?",
+      "answer": "Plangere debet in conspectu bonitatis Dei, ut succurrens auxilietur illi.",
+      "derivation": "Speech tags dropped (\"Requisivit frater senem, dicens\", \"Respondit\"). Answer ends at first full stop; the following scriptural quotation elaborates."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 37",
+      "type": "direct-speech",
+      "question": "Ecce homo caedit servum suum pro culpa quam fecit, quid dicit tunc servus Domino?",
+      "answer": "Si non est servus malus, dicit Domino: Peccavi, miserere mei, et aliud nihil dicit.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater senem\", \"Respondit\"). Answer ends at first full stop; the following \"Sed cum ipse cognoscit...\" elaborates."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 38",
+      "type": "direct-speech",
+      "question": "Si fuerit persecutio pro causa fidei, ubi est fugiendum?",
+      "answer": "Ubi audieris orthodoxos esse fideles, illuc vade.",
+      "derivation": "Speech tags dropped (\"Requisivit frater senem\", \"Respondit\"). Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 39",
+      "type": "direct-speech",
+      "question": "Quid faciam, quia conturbant me cogitationes sedentem in cella?",
+      "answer": "Neminem despicias, nullum diiudices, de nullo malum loquaris, et Deus dabit tibi requiem, et statuet sessionem tuam sine conturbatione.",
+      "derivation": "Speech tags dropped (\"Requisivit frater Abbatem Poemenem, dicens\", \"Respondit\"). Answer ends at first full stop; the following \"Custodia enim sermonum...\" elaborates."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 40",
+      "type": "direct-speech",
+      "question": "Quid faciam, quia molestant me cogitationes?",
+      "answer": "Vade et loquere eis: Dicite mihi, quid quaero ego aut quam causam habeo vobiscum? Et habebis requiem.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater senem, dicens\", \"Respondit senex\"). Answer ends at the full stop after \"Et habebis requiem\"; the following \"Esto dispectus...\" adds further advice."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 52",
+      "type": "direct-speech",
+      "question": "Quid est quod dixit Dominus: In carcere eram et venistis ad me?",
+      "answer": "Licet hoc in proximis sibi Dominus imputet factum, tamen quia carcer est sedere in cella, si quis sedens in cella memoriam semper habeat Dei, illi recte dicendum est: In carcere eram et venistis ad me.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater senem, dicens\", \"Respondit\"). Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 53",
+      "type": "direct-speech",
+      "question": "Quid faciam, quia cogitationes me conturbant?",
+      "answer": "Tu quiesce, et non te mensures cum magnis, sed esto tacens in corde tuo.",
+      "derivation": "Speech tags dropped (\"Requisivit frater Abbatem Bessarionem, dicens\", \"Respondit Abbas Bessarion\"). Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 54",
+      "type": "direct-speech",
+      "question": "Quid est pro nihilo se ipsum homo aestimare?",
+      "answer": "Similem se iumentis irrationalibus aestimare, pro eo quod nihil diiudicant.",
+      "derivation": "Speech tags dropped (\"Requisivit frater Abbatem Antonium, dicens\", \"Respondit\"). Answer ends before the following scriptural quotation (\"sicut scriptum est...\"), which elaborates."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 55",
+      "type": "direct-speech",
+      "question": "Quid facio sedens in cella?",
+      "answer": "Non sis confidens in merito iustitiae, et non cogites de rebus transitoriis, et esto continens linguam et ventrem.",
+      "derivation": "Speech tags dropped (\"Requisivit Abbas Pambo Abbatem Antonium, dicens\", \"Respondit\"). Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 56",
+      "type": "direct-speech",
+      "question": "Putas bonum est habere aestimationem bonam in conspectu hominum?",
+      "answer": "Aestimationes istae virtutem non habent.",
+      "derivation": "Speech tags dropped (\"Requisivit frater senem, dicens\", \"Respondit\"). Answer ends at first full stop; the following \"Ne ergo velis...\" adds exhortation."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 57",
+      "type": "direct-speech",
+      "question": "Quid est humilitas?",
+      "answer": "Si quis benefacit facienti sibi malum, humilitas perfecta est.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater senem, dicens\", \"Respondit\"). Answer ends at first full stop; the follow-up sub-question (\"Quod si non potest...\") begins a new exchange."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 58",
+      "type": "direct-speech",
+      "question": "Quid est profectus monachi?",
+      "answer": "Humilitas.",
+      "derivation": "Speech tags dropped (\"Frater requisivit senem, dicens\", \"Respondit senex\"). One-word answer; the following \"Quantum enim...\" explains it."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 59",
+      "type": "direct-speech",
+      "question": "Quomodo anima suscipere potest humilitatem?",
+      "answer": "Si sua semper scrutetur mala.",
+      "derivation": "Speech tags dropped (\"Requisivit frater senem, dicens\", \"Respondit\"). Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 60",
+      "type": "direct-speech",
+      "question": "Quae est ista virtus, abba?",
+      "answer": "Ut semper se ipsum reprehendat homo.",
+      "derivation": "Speech tags dropped (\"Interrogaverunt eum fratres\", \"Respondit senex\"). Setup kept (\"Omnes virtutes ingressae sunt in cella mea praeter unam virtutem, et ex eius labore stat homo.\") so \"ista virtus\" has a referent."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 61",
+      "type": "direct-speech",
+      "question": "Quare totiens ante rogatus non venisti?",
+      "answer": "Cum verbis solum dicebas, non satisfecisti cordi meo ut venirem; cum vero monachile opus humilitatis vidi in te, et ego tunc gaudens veni ad te.",
+      "derivation": "Speech tags dropped (\"et dixit ad senem\", \"Respondit senex\"). Answer is the whole single-sentence reply explaining the delay."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 106",
+      "type": "direct-speech",
+      "question": "Si videro inter fratres aliquam negligentiam, iubes ut arguam?",
+      "answer": "Si sunt seniores vel coaetanei tui, humiliter admone sine increpatione, ut in hoc ipso humilis inveniaris.",
+      "derivation": "Speech tags dropped (\"Interrogavit frater senem, dicens\", \"Respondit\"). Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 107",
+      "type": "direct-speech",
+      "question": "Fratres alii mecum cohabitant, et volunt ipsi ut ego illis praecipiam; quomodo iubes ut faciam?",
+      "answer": "Fac tu prius quod praecipis, ut non tantum illis praecepta, sed et formulam praebeas.",
+      "derivation": "Speech tags dropped (\"Frater requisivit senem, dicens\", \"Respondit\"). Setup kept so the question is intelligible. Answer is the whole single-sentence reply."
+    },
+    {
+      "locus": "Martin of Braga, Sententiae Patrum Aegyptiorum 109",
+      "type": "direct-speech",
+      "question": "Potest homo per singulos dies apprehendere initium?",
+      "answer": "Si est operarius, potest per singulos dies sumere initium.",
+      "derivation": "Speech tags dropped (\"Interrogavit Abbas Moyses Abbatem Silvanum, dicens\", \"Respondit\"). Answer ends at first full stop; the following long enumeration (\"Oportet enim apprehendere...\") elaborates extensively."
+    }
+  ]
+}

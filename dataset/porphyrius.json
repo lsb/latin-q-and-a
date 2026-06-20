@@ -1,0 +1,12 @@
+{
+  "source": "text/porphyrius.txt",
+  "pairs": [
+    {
+      "locus": "Optatianus Porfyrius, Carmina 5.129-132",
+      "type": "authorial-rhetorical",
+      "question": "Quid, uaga, Pierios uersus sub uallis opaca ilice componis? lauro quid carmina carpis?",
+      "answer": "Castalios tota respondet uoce triumphos, quam dat fonte suo.",
+      "derivation": "The poet asks the wandering Muse (uaga) two contiguous interrogatives (Quid... componis? ... quid carmina carpis?) and the text answers with the speech verb respondet governing triumphos. Answer window starts at Castalios and ends at the first full stop after suo; the speech verb respondet is retained because it is the main verb of the answering clause (dropping it would break the grammar of Castalios... triumphos), not separable framing. What follows the cut (Clario tu carmina prome uate deo digna...) turns to a fresh exhortation and is excluded."
+    }
+  ]
+}

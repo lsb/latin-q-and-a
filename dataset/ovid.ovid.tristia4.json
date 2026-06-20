@@ -1,0 +1,12 @@
+{
+  "source": "text/ovid/ovid.tristia4.txt",
+  "pairs": [
+    {
+      "locus": "Ovid, Tristia 4.1.29-30",
+      "type": "authorial-rhetorical",
+      "question": "Sed nunc quid faciam?",
+      "answer": "Vis me tenet ipsa sacrorum, et carmen demens carmine laesus amo.",
+      "derivation": "Ovid poses a self-question and answers it in the same couplet. Question is the interrogative 'sed nunc quid faciam?' (first-word capitalized, terminal '?' kept). Answer is the contiguous remainder of the distich that follows the question mark, ending at the line's full stop: 'vis me tenet ipsa sacrorum, et carmen demens carmine laesus amo.' Nothing omitted within the span; the following couplet ('sic nova Dulichio lotos...') is illustrative elaboration and is cut."
+    }
+  ]
+}

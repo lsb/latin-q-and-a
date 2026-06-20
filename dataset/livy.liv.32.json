@@ -1,0 +1,12 @@
+{
+  "source": "text/livy/liv.32.txt",
+  "pairs": [
+    {
+      "locus": "Livy 32.32",
+      "type": "direct-speech",
+      "question": "Quem tandem times?",
+      "answer": "Neminem equidem timeo praeter deos immortales.",
+      "derivation": "At the Nicaea colloquy, Quinctius asks Philip directly; dropped the framing tag 'inquit Quinctius' from the question and 'Ad hoc ille superbo et regio animo' from the answer. Question taken whole ('quem tandem ... times?'), capitalized and given a terminal '?'. Answer cut at the colon (source has a colon, not a full stop) after 'immortales', where Philip stops answering and turns to elaborating his distrust of Quinctius's entourage ('non omnium autem credo fidei quos circa te uideo, atque omnium minime Aetolis'); terminal colon normalized to a full stop."
+    }
+  ]
+}

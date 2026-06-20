@@ -1,0 +1,19 @@
+{
+  "source": "text/livy/liv.10.txt",
+  "pairs": [
+    {
+      "locus": "Livy 10.18",
+      "type": "direct-speech",
+      "question": "Satin salue, L. Volumni? Ut sese in Samnio res habent? Quae te causa ut prouincia tua excederes induxit?",
+      "answer": "in Samnio res prosperas esse, litteris eius accitum uenisse",
+      "derivation": "Appius greets Volumnius and asks three direct questions (verbatim direct speech; dropped the framing tag 'inquit' and normalized the first-word capitalization). The reply is reported in oratio obliqua: 'Volumnius in Samnio res prosperas esse ait, litteris eius accitum uenisse' — I drop the narrative framing 'Volumnius ... ait' and keep the author's own contiguous words, which directly answer 'how do things stand in Samnium?' (prosperous) and 'what led you to leave your province?' (summoned by his letter). I cut at 'uenisse'; what follows ('quae si falsae fuerint ... abiturum') is a conditional elaboration, not the answer."
+    },
+    {
+      "locus": "Livy 10.25",
+      "type": "direct-speech",
+      "question": "Num castra uallata non habetis?",
+      "answer": "duplici quidem uallo et fossa et tamen in ingenti metu esse",
+      "derivation": "Fabius asks the woodcutters a direct interrogative; I drop the preceding exclamatory framing 'ain tandem? inquit' and keep the real question. The answer is reported in oratio obliqua: 'ad hoc cum succlamatum esset duplici quidem uallo et fossa et tamen in ingenti metu esse' — I drop the narrative framing 'ad hoc cum succlamatum esset' and keep the author's contiguous words, which answer 'don't you have a fortified camp?' (yes, with a double rampart and ditch, yet in great fear). What follows is Fabius's retort 'habetis igitur ...', not the answer."
+    }
+  ]
+}

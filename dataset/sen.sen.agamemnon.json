@@ -1,0 +1,40 @@
+{
+  "source": "text/sen/sen.agamemnon.txt",
+  "pairs": [
+    {
+      "locus": "Seneca, Agamemnon 794",
+      "type": "direct-speech",
+      "question": "Credis uidere te Ilium?",
+      "answer": "Et Priamum simul.",
+      "derivation": "Stichomythic exchange between Agamemnon and Cassandra. Agamemnon's line is a genuine yes/no interrogative (\"Do you believe you see Ilium?\"); Cassandra affirms and extends it (\"And Priam too\"). Speaker labels [Ag.]/[Ca.] stripped. Both lines are complete; nothing cut."
+    },
+    {
+      "locus": "Seneca, Agamemnon 799",
+      "type": "direct-speech",
+      "question": "Victor timere quid potest?",
+      "answer": "Quod non timet.",
+      "derivation": "Agamemnon asks a real quid-interrogative (\"What can a victor fear?\"); Cassandra answers directly (\"What he does not fear\"). Speaker labels stripped; both utterances complete on their single lines."
+    },
+    {
+      "locus": "Seneca, Agamemnon 924-925",
+      "type": "direct-speech",
+      "question": "Electra, fletus causa quae laeta in domo est?",
+      "answer": "Pater peremptus scelere materno iacet.",
+      "derivation": "Strophius asks Electra the cause of her tears in a glad house (genuine interrogative with quae). Electra's reply answers directly. The answer window ends at the first full stop after 'iacet'; the continuation 'comes paternae quaeritur natus neci, / Aegisthus arces Venere quaesitas tenet' elaborates further consequences and is cut. Speaker labels [St.]/[El.] and the inline verse number 925 stripped."
+    },
+    {
+      "locus": "Seneca, Agamemnon 968-970",
+      "type": "direct-speech",
+      "question": "Quo latitat loco?",
+      "answer": "Tuto quietus, regna non metuens noua: iustae parenti satis.",
+      "derivation": "Clytemestra asks where Orestes hides (direct interrogative 'Quo... loco?'); Electra answers with his condition and location. Window runs to the full stop after 'satis'; Clytemestra's retort 'At iratae parum' begins the next turn and is excluded. Speaker labels and inline verse number 970 stripped."
+    },
+    {
+      "locus": "Seneca, Agamemnon 994-996",
+      "type": "direct-speech",
+      "question": "Mortem aliquid ultra est?",
+      "answer": "Vita, si cupias mori.",
+      "derivation": "Electra asks a genuine interrogative ('Is there anything beyond death?'); Aegisthus answers directly ('Life, if you should desire to die'). Speaker labels [El.]/[Ae.] stripped; the answer ends at the dash before Aegisthus turns to address the famuli ('Abripite, famuli...'), which is excluded."
+    }
+  ]
+}

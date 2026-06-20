@@ -1,0 +1,19 @@
+{
+  "source": "text/sidonius5.txt",
+  "pairs": [
+    {
+      "locus": "Sidonius, Epistulae 5.11.1-2",
+      "type": "authorial-rhetorical",
+      "question": "Quaenam in me tibi probanda placuere?",
+      "answer": "Veneror in actionibus tuis, quod multa bono cuique imitabilia geris.",
+      "derivation": "Sidonius voices the addressee's question and then answers it himself. Stripped the framing speech-tag 'inquis' from the question ('quaenam, inquis, in me tibi probanda placuere?') and normalized capitalization. For the answer, skipped the non-answering preamble 'dicam libenter et breviter, quorum unum fieri gratia, alterum charta conpellit.' (an announcement that he will answer, not an answer) and advanced to the operative answering sentence; ended at the first full stop, before the following list 'colis ut qui sollertissime; aedificas...' which elaborates."
+    },
+    {
+      "locus": "Sidonius, Epistulae 5.13.4",
+      "type": "authorial-rhetorical",
+      "question": "De Seronato vis accipere quid sentiam?",
+      "answer": "Ceteri affligi per suprascriptum damno verentur; mihi latronis et beneficia suspecta sunt.",
+      "derivation": "Sidonius poses a genuine interrogative ('do you want to receive what I think about Seronatus?') and answers it himself with his opinion. The answer is the contiguous span that follows, contrasting others' fear with his own view; it ends at 'vale' (the letter close). Capitalization normalized."
+    }
+  ]
+}
