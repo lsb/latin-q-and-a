@@ -1,0 +1,12 @@
+{
+  "source": "text/withof1.txt",
+  "pairs": [
+    {
+      "locus": "Withof, Nullam fastum simulata modestia intolerabiliorem esse, 40-43",
+      "type": "authorial-rhetorical",
+      "question": "Quid iam veremur?",
+      "answer": "Veritas mersum caput Democriti puteo Tantis ministris efferet.",
+      "derivation": "Author poses a rhetorical question and answers it himself. The question is the verbatim interrogative 'Quid iam veremur?'. The answer is the operative sentence that follows, running to the colon (first full stop) at 'efferet'; the subsequent 'Ni mox relabens, Orphei coniux velut...' clause begins a qualifying digression and is cut. Title lines and the trailing 'Neo-Latin / The Latin Library / The Classics Page' footer are scaffolding and excluded. Terminal colon normalized to a full stop."
+    }
+  ]
+}

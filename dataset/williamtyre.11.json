@@ -1,0 +1,19 @@
+{
+  "source": "text/williamtyre/11.txt",
+  "pairs": [
+    {
+      "locus": "William of Tyre, Historia 11.11",
+      "type": "direct-speech",
+      "question": "Quare rem tanta diligentia conservandam, argumentum viri, vultus gloriam, hominis praecipuam auctoritatem, ita obligasset, tanquam rem mediocrem, et ab homine sine confusione separabilem?",
+      "answer": "Quia non erat mihi res alia dignior cujus interpositione, militibus proterve instantibus, possem plenius satisfacere.",
+      "derivation": "Gabriel asks Count Balduin why he pawned his beard; the count answers. Stripped the asking-frame 'quaerit iterum:' before the question and the answer-frame 'Cui comes:' before the reply. Answer ends at the first full stop ('satisfacere.'); what follows ('Sed nec oportet dominum et patrem meum...') turns to reassurance about repaying, so it is cut."
+    },
+    {
+      "locus": "William of Tyre, Historia 11.22",
+      "type": "direct-speech",
+      "question": "Josceline, habesne aliquid, quod ego tibi non dederim?",
+      "answer": "Domine, nihil.",
+      "derivation": "Count Balduin asks Joscelin whether he has anything the count did not give him; Joscelin answers. Stripped the speech-frame 'Et iterum verbum continuans, intulit:' before the question and 'Cui ille:' before the reply. The reply is the complete utterance."
+    }
+  ]
+}

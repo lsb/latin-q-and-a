@@ -1,0 +1,26 @@
+{
+  "source": "text/walter/walter1.txt",
+  "pairs": [
+    {
+      "locus": "Walter of Châtillon, Carmen I, stanza VI",
+      "type": "authorial-rhetorical",
+      "question": "Quid desertum nisi mundus?",
+      "answer": "Mundus quidem set inmundus, quia munda respuit.",
+      "derivation": "Authorial self-question opening stanza VI. Answer ends at the first full stop, after 'munda respuit'; what follows ('se desertus dici dolet...') turns from answering the 'what is the desert' question to elaborating the conceit, so it is cut."
+    },
+    {
+      "locus": "Walter of Châtillon, Carmen I, stanza VIII",
+      "type": "authorial-rhetorical",
+      "question": "Qui sunt spinae tribulique?",
+      "answer": "Qui pastores praelatique, amatores muneris.",
+      "derivation": "Authorial self-question opening stanza VIII. Answer is the direct identification; cut before 'cum non pascant set pascantur...' which digresses into the pasco/pascor wordplay rather than answering who the thorns are."
+    },
+    {
+      "locus": "Walter of Châtillon, Carmen I, stanza XI",
+      "type": "authorial-rhetorical",
+      "question": "Nam si pauper sit sophia, vilis erit: quare?",
+      "answer": "Quia pauper ubique jacet.",
+      "derivation": "Self-contained rhetorical question with setup 'nam si pauper sit sophia, vilis erit' kept so the bare interrogative 'quare?' has its referent. Answer is the directly following 'Quia pauper ubique jacet'; nothing further in the stanza, so the answer is complete."
+    }
+  ]
+}

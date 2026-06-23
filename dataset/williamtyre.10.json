@@ -1,0 +1,12 @@
+{
+  "source": "text/williamtyre/10.txt",
+  "pairs": [
+    {
+      "locus": "William of Tyre, Historia 10.14 (King Baldwin questions the Genoese consuls at Jaffa)",
+      "type": "direct-speech",
+      "question": "Utrum redeundi haberent propositum; aut servitio divino ad incrementum regni per tempus aliquod, honesto deputato salario, se velint mancipare?",
+      "answer": "Quod si honestis conditionibus in regno possent moram facere, propositum eis erat, et fuerat ab initio, in Dei servitio ad incrementum regni fideliter per tempus aliquod desudare.",
+      "derivation": "The king summons the Genoese consuls and leaders 'convenire facit, interrogans:' followed by the quoted question. Dropped the 'interrogans:' speech-tag framing as narration of the asking. The reply is introduced by 'responderunt:' (dropped as framing); the answer is taken as the single contiguous sentence to its full stop, which directly answers the question (they agree to stay and serve under honest conditions). Nothing trimmed internally; question and answer both verbatim, terminal punctuation normalized."
+    }
+  ]
+}

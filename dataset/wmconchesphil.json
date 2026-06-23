@@ -1,0 +1,19 @@
+{
+  "source": "text/wmconchesphil.txt",
+  "pairs": [
+    {
+      "locus": "William of Conches, Philosophia Mundi 1.21 (De elementis)",
+      "type": "direct-speech",
+      "question": "Ubi sunt elementa?",
+      "answer": "In compositione humani corporis et aliorum sicut littera est in compositione syllabae, etsi non per se.",
+      "derivation": "Dropped the asking frame 'Sed quaerat aliquis:' and the replying frame 'Nos vero dicimus:'. Question is the quoted interrogative verbatim. Answer is the quoted reply, ending at the first full stop ('etsi non per se.'); what follows ('Sed sunt quidam qui ut rustici nesciunt...') is a digression about people who deny the imperceptible, not part of the answer."
+    },
+    {
+      "locus": "William of Conches, Philosophia Mundi 1.22 (De elementis)",
+      "type": "direct-speech",
+      "question": "Cum terra transeat in aquam et aqua in terram, quare magis dicatur terra quam aqua?",
+      "answer": "In unoquoque illorum aliquid de aliis esse, nec tamen inde ea esse facta, quia non substantialiter, sed accidentaliter inest.",
+      "derivation": "Question is Plato's quoted interrogative; dropped the framing 'Hoc idem probant auctoritate Platonis qui ait:'. Answer drops the replying speech tag 'Nos vero dicimus contra' and keeps the operative reply verbatim, ending at the first full stop ('accidentaliter inest.'). What follows ('Cum enim terra porosa sit...') elaborates how the other elements seep in accidentally, beyond the direct answer."
+    }
+  ]
+}

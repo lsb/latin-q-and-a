@@ -1,0 +1,82 @@
+{
+  "source": "text/voragine/marc.txt",
+  "pairs": [
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (devil with scythe)",
+      "type": "direct-speech",
+      "question": "Unum est solummodo, in quo me superas. Quid est illud?",
+      "answer": "Humilitas tua, per quam non praevaleo adversum te.",
+      "derivation": "The devil's statement 'Unum est solummodo, in quo me superas' is kept as setup so 'illud' in Macarius's question 'Quid est illud?' has a referent. Dropped the speech tag 'Et dixit abbas:' before the question and 'Cui ille:' before the answer. Answer is the devil's full single-sentence reply."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (sack of sand)",
+      "type": "direct-speech",
+      "question": "Abba, cur tantum onus portas?",
+      "answer": "Vexo vexantem me.",
+      "derivation": "Theosebius's interrogative ('cur tantum onus portas') with its full single-sentence reply. Dropped speech tag 'dixit:' before the question and 'Et ille:' before the answer; normalized the rendered '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (Satan with flasks, first exchange)",
+      "type": "direct-speech",
+      "question": "Quo vadis?",
+      "answer": "Vado potionare fratres.",
+      "derivation": "Macarius's question to Satan; reply is the full single sentence. Dropped 'dixit ei:' / 'Et ille:'; normalized rendered '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (Satan with flasks, why so many)",
+      "type": "direct-speech",
+      "question": "Quare tot ampullas portas?",
+      "answer": "Gustum fratribus porto, et si unum alicui non placebit, offeram aliud vel tertium, et sic per ordinem, ut aliquid placeat.",
+      "derivation": "Macarius's interrogative and Satan's reply. Dropped 'Cui Macarius:' / 'Respondit:'; normalized rendered '!' to '?'. Answer kept whole as one sentence directly explaining the flasks."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (Satan with flasks, what did you do)",
+      "type": "direct-speech",
+      "question": "Quid fecisti?",
+      "answer": "Omnes sanctificati sunt et nemo mihi acquievit, nisi unus, qui vocatur Theotistus.",
+      "derivation": "Macarius asks on Satan's return; reply is the full single sentence. Dropped 'dixit ei Macarius:' / 'Respondit:'; normalized rendered '!' to '?'. Stopped at the full stop before the narration 'Surgens autem Macarius...'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (Satan with flasks, second 'quo vadis')",
+      "type": "direct-speech",
+      "question": "Quo vadis?",
+      "answer": "Ad fratres vado.",
+      "derivation": "Macarius's repeated question and Satan's reply. Dropped 'inveniens dixit:' / 'Cui ille:'; normalized rendered '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (the old man and the devil)",
+      "type": "direct-speech",
+      "question": "Quid faciunt fratres illi?",
+      "answer": "Male.",
+      "derivation": "The senex asks the devil; the one-word reply 'Male' genuinely answers. Dropped 'occurrit senex et dixit:' / 'Cui diabolus:'; normalized rendered '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (the old man and the devil, why)",
+      "type": "direct-speech",
+      "question": "Male. Quare?",
+      "answer": "Quia omnes sancti sunt et, quod est maius malum, unum, quem habebam, amisi et omnibus sanctior factus est.",
+      "derivation": "Kept the devil's prior 'Male' as setup so 'Quare?' has a referent (why 'badly'). Dropped 'Et dixit:' before the question; the answer follows directly with no speech tag. Answer kept whole as the devil's explanatory sentence."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (the pagan skull, where is your soul)",
+      "type": "direct-speech",
+      "question": "Ubi est anima tua?",
+      "answer": "In inferno.",
+      "derivation": "Macarius asks the skull; reply 'In inferno' answers directly. Dropped 'Et dixit ei Macarius:' / 'Respondit:'; normalized rendered '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (the pagan skull, deeper souls)",
+      "type": "direct-speech",
+      "question": "Suntne aliqui te profundiores?",
+      "answer": "Etiam, Iudaei.",
+      "derivation": "Macarius's '-ne' interrogative; reply answers directly. Dropped 'Cui Macarius:' / 'Respondit:'. Sentence-final '?' already present in source."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Macario (the pagan skull, beyond the Jews)",
+      "type": "direct-speech",
+      "question": "Et ultra Iudaeos suntne aliqui profundiores?",
+      "answer": "Profundiores omnibus sunt falsi Christiani, qui Christi sanguine redempti tantum pretium parvi pendunt.",
+      "derivation": "Macarius's '-ne' interrogative and the skull's full reply. Dropped 'Cui iterum ille:' / 'Cui ille:'; normalized rendered '!' to '?' and dropped trailing whitespace inside the closing quote."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/walter/walter3.txt",
+  "pairs": [
+    {
+      "locus": "Walter of Châtillon, Carmen III, sec. XXIV (prose)",
+      "type": "authorial-rhetorical",
+      "question": "Quod enim dampno humano generi progeneratur, si universalia res esse dicantur?",
+      "answer": "Si 'homo' et 'non homo' significet, id est si Socratem esse asinum vel Socratem constet esse Chimeram, nullum inde preiudicium humanis rebus progeneratur.",
+      "derivation": "Authorial rhetorical question on the harmlessness of philosophers' errors (vs. jurists'). Question span is the interrogative sentence ending '...dicantur?' (the preceding 'In aliis facultatibus tolerabilior est error magistrorum.' is the framing claim, not the question, so cut). Answer is the immediately following sentence, which directly resolves it with 'nullum inde preiudicium humanis rebus progeneratur' (= 'no harm'); cut ends at the full stop after 'progeneratur', before 'Set si errore iuris...' which turns to the contrasting case of jurists. No scaffolding, brackets, or verse numbers present in the quoted spans."
+    }
+  ]
+}

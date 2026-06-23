@@ -1,0 +1,12 @@
+{
+  "source": "text/victor.caes.txt",
+  "pairs": [
+    {
+      "locus": "Aurelius Victor, De Caesaribus 20.11",
+      "type": "direct-speech",
+      "question": "Quid, quaeso, faceres, si tu esses?",
+      "answer": "Ea perferrem, quae tu.",
+      "derivation": "Direct-speech exchange. Dropped the narrative framing 'Nam cum quidam hostiam... causa exposita novissime conclusisset:' before the question and the speech tag 'ille respondit:' before the answer. The question is a genuine interrogative ('What, pray, would you do, if you were [him]?') and the answer ('I would endure those things which you [would]') directly answers it. Quoted both utterances verbatim and contiguous; no ellipsis."
+    }
+  ]
+}

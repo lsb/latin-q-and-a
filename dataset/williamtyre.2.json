@@ -1,0 +1,12 @@
+{
+  "source": "text/williamtyre/2.txt",
+  "pairs": [
+    {
+      "locus": "William of Tyre, Historia 2.2 (legation of Godefridus to Calemanus, king of Hungary, and the king's reply)",
+      "type": "whole-speech-as-question",
+      "question": "Vir illustris et magnificus, dominus Godefridus, Lotharingiae dux, et alii Dei cultores, qui cum eo sunt principes, divinis obsequiis mancipati, ad vestram nos direxerunt eminentiam, scire per nos cupientes: quare fidelium populus, quorum reliquias in via reperimus nobis occurrentes, tantam apud vos, qui de numero fidelium dicimini, repererunt inhumanitatem, ut tutius ad hostes quoslibet declinare potuissent. Quod si praedicti populi tanta fuit culpa, ut extremis suppliciis digna fuerit flagellari; qui me miserunt, parati sunt eorum interitum aequanimiter tolerare. Nam quaecunque ex merito poena infligitur, minus ad iram provocat, et majore sustinenda est patientia. Quod si secus est, et absque ulla causa calumniati estis innocentes, ut eos morti traderetis, non possunt illatam servis Dei dissimulare injuriam; sed parati sunt fratrum sanguinem vindicare. Super his ergo vestra per nostrum ministerium exspectant responsa, pro eorum forma animos habituri.",
+      "answer": "Sed qui vos praecesserunt, tam Petrum Eremitam sequentes, quam adhaerentes Godescalco, quam qui in regni nostri limitibus castrum nostrum expugnare, et ad nos violenter ingredi nitebantur, nec re, nec nomine Christi fuerunt sectatores.",
+      "derivation": "The legate's entire speech is one extended inquiry: it explicitly asks 'quare fidelium populus... tantam apud vos... repererunt inhumanitatem' (why the faithful met such inhumanity among you), then frames the two alternatives and demands the king's response ('vestra... exspectant responsa'). Quoted in full and contiguous as the question per the whole-speech rule; the trailing speech tag 'His dictis orandi finem fecit' and the answer's speech tag 'Cui rex... in haec verba respondit' were dropped as narration. The king's reply opens with a non-answering welcome preamble ('Placet, vir amicitiarum, Godefride... astruamus innocentiam') and a concessive ('Sumus equidem et de numero, ut dicis, fidelium...'); the answer's start is advanced to the operative sentence beginning 'Sed qui vos praecesserunt' which directly answers WHY (because the preceding bands were not true followers of Christ). Cut at the first full stop after 'sectatores'; what follows ('Nam cum primo Petrum...') elaborates their specific crimes."
+    }
+  ]
+}

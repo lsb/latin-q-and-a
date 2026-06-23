@@ -1,0 +1,12 @@
+{
+  "source": "text/victor.caes2.txt",
+  "pairs": [
+    {
+      "locus": "Epitome de Caesaribus 12.5",
+      "type": "direct-speech",
+      "question": "Quid nunc faceret, si Domitiano supervixisset?",
+      "answer": "Nobiscum cenaret.",
+      "derivation": "Nerva asks Mauricus about Catullus the notorious informer (mentione Catulli facta, calumniatoris praecipui): 'What would he be doing now, had he survived Domitian?' Mauricus answers wittily that he would be dining with them. Dropped the framing 'dicente Nerva' before the question and 'inquit Mauricus' splitting the answer; normalized the answer's terminal punctuation. The question is a genuine verbatim interrogative and the answer directly responds to it."
+    }
+  ]
+}

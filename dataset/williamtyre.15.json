@@ -1,0 +1,12 @@
+{
+  "source": "text/williamtyre/15.txt",
+  "pairs": [
+    {
+      "locus": "William of Tyre, Historia 15.16",
+      "type": "direct-speech",
+      "question": "Quare reliquis fratribus non consonaret; et quare ad accusandum, sicut aliquando fecerat, non procederet?",
+      "answer": "Quod aliquando feci, inconsulto calore et contra salutem animae meae, detrahens patri meo, et more maledicti Cham, verenda patris discooperiens, operatus sum; et nunc ab errore devio me, auctore Domino, revocans, nec eum accusare, nec judicare praesumptuose, tentabo; sed pro ejus statu et incolumitate, paratus sum usque ad mortem decertare.",
+      "derivation": "Caput XVI. The legate challenges Serlo of Apamea. Dropped the framing narration 'a domino legato convenitur,' which narrates the asking; kept the verbatim interrogative ('quare... non consonaret; et quare... non procederet?'), capitalizing 'Quare'. Dropped the answer's speech tag 'Respondit:'. Answer kept as the full contiguous response from 'Quod aliquando feci' through 'usque ad mortem decertare' (it answers throughout: why he formerly accused, his repentance, and his refusal now to accuse or judge); it ends at the full stop, after which the narrative resumes ('Praecipitur ergo exire...')."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/waltarius3.txt",
+  "pairs": [
+    {
+      "locus": "Waltharius 1240-1268",
+      "type": "direct-speech",
+      "question": "Quid, rogo, tam fidum subito mutavit amicum, ut, discessurus nuper vix posse revelli qui nostris visus fuerat complexibus, ultro, nullis nempe malis laesus, nos appetat armis?",
+      "answer": "Tute fidem abscideras, cum memet adesse videres et tot stravisses socios immoque propinquos.",
+      "derivation": "Waltharius addresses Hagano directly with the interrogative 'Quid, rogo, tam fidum subito mutavit amicum...nos appetat armis?' (why did Hagano, the faithful friend, suddenly turn and attack him unprovoked). Question begins after the dropped narration tag 'Sed velut hinc surdus alio convertitur aiens:' and after the contiguous vocative-imperative 'Ad te sermo mihi, Hagano, subsiste parumper!' which I omit as setup not needed for the interrogative to stand; the interrogative sentence is self-contained. Hagano's reply (intro narration 'Contra quae Hagano vultu haec affamina torvo / Edidit atque iram sic insinuavit apertam:' dropped) opens with the non-answering jab 'Vim prius exerces, Walthari, postque sopharis.' which I skip as a preamble; the operative answering sentence is 'Tute fidem abscideras, cum memet adesse videres et tot stravisses socios immoque propinquos.' (you broke faith first, killing my comrades and kinsmen) - the direct answer to what changed him. Cut ends at this full stop; what follows ('Excusare nequis...') elaborates further accusation. Inline verse numbers 1240, 1245, 1250, 1255, 1260, 1265 stripped."
+    }
+  ]
+}

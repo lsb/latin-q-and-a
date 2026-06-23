@@ -1,0 +1,40 @@
+{
+  "source": "text/voragine/ant.txt",
+  "pairs": [
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Antonio",
+      "type": "direct-speech",
+      "question": "Ubi eras, bone Iesu? Ubi eras? Quare non a principio fuisti hic, ut me adiuvares et vulnera mea sanares?",
+      "answer": "Antoni, hic eram, sed exspectabam videre certamen tuum.",
+      "derivation": "Antony asks the just-arrived Christ where he was; the Lord answers directly. Dropped framing 'Ibique Christum adesse intellegens ait' before and 'Cui Dominus:' before the reply. Answer window ends at the first full stop ('certamen tuum:'), cutting the colon-joined elaboration that follows ('Nunc autem, quia viriliter dimicasti, in toto orbe te faciam nominare'). Normalized exclamation marks to question marks."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Antonio",
+      "type": "direct-speech",
+      "question": "O quis istos evadet?",
+      "answer": "Humilitas.",
+      "derivation": "While rapt in spirit Antony sees the world full of snares and cries out a question; a voice answers one word. Dropped framing 'Qui exclamans ait:' and 'Et audivit:'. Normalized terminal '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Antonio",
+      "type": "direct-speech",
+      "question": "Cur me sic impugnant monachi et maledicunt Christiani?",
+      "answer": "Iuste hoc faciunt, quia tuis saepe insidiis molestantur.",
+      "derivation": "Satan asks Antony why monks attack and Christians curse him; Antony answers directly. Dropped framing 'addidit satanas:' before and 'Cui Antonius:' before the reply. Answer ends at the first full stop, before the next speaker turn ('Et ille:'). Normalized terminal '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Antonio",
+      "type": "direct-speech",
+      "question": "Quid custodiens placebo Deo?",
+      "answer": "Quocumque vadis, semper Deum pro oculis tuis habeas; in his, quae agis, testimonium sacrae scripturae adhibeas; in quocumque loco sederis, non inde cito recedas.",
+      "derivation": "A man asks Antony by keeping what he will please God; Antony answers with three precepts. Dropped framing 'Interrogavit quidam Antonium dicens:' and 'Et respondens dixit:'. Answer ends at the first full stop, before the closing exhortation 'Haec tria custodi et salvus eris.' Normalized terminal '!' to '?'."
+    },
+    {
+      "locus": "Iacobus de Voragine, Historia de Sancto Antonio",
+      "type": "direct-speech",
+      "question": "Quid faciam?",
+      "answer": "Non confidas in tua iustitia, ventris et linguae sit tibi continentia et ne poenitearis de re transacta.",
+      "derivation": "An abbot asks Antony what he should do; Antony answers. Dropped framing 'Abbas quidam interrogavit Antonium dicens:' and 'Cui Antonius:'. Whole reply is one sentence and answers fully. Normalized terminal '!' to '?'."
+    }
+  ]
+}

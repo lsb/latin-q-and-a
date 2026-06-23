@@ -1,0 +1,12 @@
+{
+  "source": "text/williamtyre/21.txt",
+  "pairs": [
+    {
+      "locus": "William of Tyre, Historia 21.16",
+      "type": "direct-speech",
+      "question": "Propositus fuit ei pactorum inter nos et dominum imperatorem in scriptis fideliter tenor, ejus aurea bulla munitus. Quo diligenter lecto, et intellecto plenius, quid sibi videretur?",
+      "answer": "Nos autem melius nosse et locorum faciem, et abeundi opportunitatem; tamen se audivisse ex eis qui frequenter in Aegyptum descenderant, tempus ad ejus impugnationem non convenire.",
+      "derivation": "Count Philip of Flanders is shown the text of the treaty between the king and the emperor and is asked his opinion about the planned Egyptian expedition. Question: kept the setup sentence ('Propositus fuit ei... aurea bulla munitus') so 'quo' and 'sibi' have referents, then 'Quo diligenter lecto, et intellecto plenius'; dropped the asking-narration speech tag 'quaesitum est ab eo' and normalized the following interrogative to 'quid sibi videretur?'. Answer: dropped the speech tag 'Qui respondit:'. Skipped the non-answering preamble first sentence ('Se hominem peregrinum esse, locorum ignarum, et maxime regionis Aegypti... occupetur universa') which only says he is a foreigner ignorant of Egypt; advanced the start to the operative answering sentence whose payload is 'tempus ad ejus impugnationem non convenire' (the time is not right to attack Egypt). Cut at the first full stop; what follows ('Adjecitque, quod hiems in proximo erat...') is elaboration of reasons."
+    }
+  ]
+}

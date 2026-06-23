@@ -1,0 +1,12 @@
+{
+  "source": "text/waltarius1.txt",
+  "pairs": [
+    {
+      "locus": "Waltharius (Pars Prima) 237-243",
+      "type": "direct-speech",
+      "question": "Quid lingua simulas, quod ab imo pectore damnas, oreque persuades, toto quod corde refutas, sit veluti talem pudor ingens ducere nuptam?",
+      "answer": "Noris me nihilum simulata mente locutum, nec quicquam nebulae vel falsi interfore crede!",
+      "derivation": "Hiltgunt accuses Waltharius of feigning ('why does your tongue feign what your heart condemns... as if it were a shame to wed such a bride?'). His reply opens 'Vir sapiens contra respondit et intulit ista' (narration, dropped). The first sentence of his speech, 'Absit quod memoras, dextrorsum porrige sensum!', is an exhortation/preamble that does not yet answer the charge, so the answer-start advances to the operative sentence 'Noris me nihilum simulata mente locutum, nec quicquam nebulae vel falsi interfore crede!' ('Know that I spoke with nothing feigned in mind, and believe no falsehood is in it'), which directly rebuts the accusation of feigning. Cut at the full stop after 'crede'; what follows ('Nullus adest nobis exceptis namque duobus...') turns to a new proposal and no longer answers. Stripped inline verse number 240 (file line 240) and capitalization/terminal punctuation normalized."
+    }
+  ]
+}

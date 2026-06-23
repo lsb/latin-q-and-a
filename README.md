@@ -3,6 +3,10 @@
 Question/answer pairs excerpted from Latin texts (the
 [Latin Library](https://www.thelatinlibrary.com/) corpus).
 
+**3,681 pairs** mined from **2,174 works** (1,151 yielded at least one pair):
+1,923 direct-speech, 1,678 authorial-rhetorical, 80 whole-speech-as-question.
+The flat dataset is **`qa.jsonl`** (one pair per line).
+
 Each pair is **verbatim Latin** lifted from a source work — a real question and
 the passage that answers it (a character's reply, a self-answered rhetorical
 question, a whole speech answered by another). We invent no new Latin; we only
@@ -18,6 +22,7 @@ pattern-matching `?`.
 | `extractor_prompt.md` | The self-contained instruction set given to each per-file reader. |
 | `text/` | Plain-text of every work (converted from HTML with pandoc). |
 | `dataset/` | One JSON file per work: `{ source, pairs: [{ locus, type, question, answer, derivation }] }`. |
+| `qa.jsonl` | The aggregated dataset — one pair per line: `{ source, locus, type, question, answer, derivation }`. |
 | `content_files.txt` | The list of `text/` files that are actual works (index/TOC pages excluded). |
 | `*.py`, `*.sh` | The reproducible processing steps (below). |
 
@@ -39,6 +44,13 @@ re-fetch it with `wget -r` if you need to re-run the conversion step.
      interrupted run just continues where it left off.
 4. **Normalize** — `python3 normalize_dataset.py`
    (deterministic post-pass; currently strips editorial `<...>` supplements).
+5. **Aggregate** — `python3 aggregate.py`
+   → writes `qa.jsonl` (flattens `dataset/*.json` to one pair per line) and prints
+   the summary stats.
+
+`compute_remaining.py` keys "done" off each file's `source` field, so a re-run
+that's interrupted (API overload, auth expiry, content-filter block on a single
+work) just resumes — only the missing works are retried.
 
 ## Revisiting our choices
 

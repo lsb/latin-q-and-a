@@ -1,0 +1,12 @@
+{
+  "source": "text/walter4.txt",
+  "pairs": [
+    {
+      "locus": "Walter of Châtillon, Carmen IV, stanza X",
+      "type": "authorial-rhetorical",
+      "question": "In quo mundi climate, sub quo celi signo est abbas vel pontifex pectore benigno, dignus Christi nuptiis, dignus vitae ligno?",
+      "answer": "Rara avis in terris nigroque simillima cigno!",
+      "derivation": "The whole stanza is a single rhetorical interrogative ('In what clime... is there an abbot or bishop of kindly heart, worthy of Christ's nuptials, worthy of the tree of life?'), answered by the author himself with the proverbial closing line 'Rara avis...' (= such a one is virtually nonexistent). Stripped the stanza number 'X'. Nothing cut from the answer: it is the full final line and the entire response."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/williamtyre/9.txt",
+  "pairs": [
+    {
+      "locus": "William of Tyre, Historia 9.6",
+      "type": "direct-speech",
+      "question": "Quidnam esset quod ibi tam crebro moveretur?",
+      "answer": "Tres magni principes, quorum primus dux, secundus rex, tertius comes esset futurus.",
+      "derivation": "Count Eustace asks what keeps moving under his wife's cloak; the children are hidden there. Dropped the speech-tag framing 'quaesivit comes' before the question and 'cui illa respondisse dicitur:' before the answer. Question is the author's verbatim indirect interrogative 'quidnam esset quod ibi tam crebro moveretur', with first word capitalized and terminal '?' supplied. Answer is the mother's reply (the three future princes), the operative answering clause; what follows ('Quod postmodum benigna dispensatione...') is the author resuming narration of how the prophecy was fulfilled."
+    },
+    {
+      "locus": "William of Tyre, Historia 9.20",
+      "type": "direct-speech",
+      "question": "Cur tantus princeps, et tam admirabilis dominus, qui ab Occidente veniens, totum concusserat Orientem et regnum maximum in manu valida occupaverat, ita sederet inglorius, ut neque tapetia, neque holoserica circa se more haberet regio; nec stipatus satellitibus armatis, formidabilem se praeberet accedentibus?",
+      "answer": "Quod homini mortali sufficere merito terra pro sede temporali poterat, cui post mortem perpetuum domicilium est praestitura.",
+      "derivation": "Arab chieftains ask why so great a prince sits so humbly on the ground without royal trappings or armed guards. Dropped the speech-tag framing 'quaesierunt' before the question; first word capitalized, terminal '?' supplied. The intervening narration 'Quibus ita percunctantibus, quaesivit dux quid loquerentur; quo cognito, respondit:' is framing and is omitted; the answer begins at the operative answering clause 'Quod homini mortali sufficere...' and runs to the full stop. What follows ('Quod audientes qui gratia tentandi accesserant...') is the author narrating the chieftains' reaction."
+    }
+  ]
+}

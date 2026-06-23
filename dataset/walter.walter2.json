@@ -1,0 +1,26 @@
+{
+  "source": "text/walter/walter2.txt",
+  "pairs": [
+    {
+      "locus": "Walter of Châtillon, Carmen II, stanza XV",
+      "type": "direct-speech",
+      "question": "Nostri estis, nostri! Cujus?",
+      "answer": "Sacrosanctae sedis hujus speciales filii.",
+      "derivation": "Within the Sirens'/cardinals' speech. The exclamation 'Nostri estis, nostri!' is kept as setup so 'Cujus?' (whose?) has a referent; the genuine interrogative 'Cujus?' is answered by 'Sacrosanctae sedis hujus speciales filii.' Stanza ends there; nothing trimmed."
+    },
+    {
+      "locus": "Walter of Châtillon, Carmen II, stanza XIII",
+      "type": "authorial-rhetorical",
+      "question": "Qui sunt Syrtes vel Sirenes?",
+      "answer": "qui sermone blando lenes attrahunt Byzantium",
+      "derivation": "Author poses and answers his own question. The direct answer is the relative clause 'qui sermone blando lenes attrahunt Byzantium'; cut at the semicolon before 'spem praetendunt lenitatis...', which elaborates rather than answering who they are."
+    },
+    {
+      "locus": "Walter of Châtillon, Carmen II, stanza XXV",
+      "type": "authorial-rhetorical",
+      "question": "Qui sunt cautes?",
+      "answer": "Janitores",
+      "derivation": "Author poses and answers his own question. The direct answer is the single word 'Janitores'; the rest of the stanza ('per quos... tollitur a januis') describes the doorkeepers and is cut as elaboration past the direct answer."
+    }
+  ]
+}

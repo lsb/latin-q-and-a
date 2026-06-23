@@ -1,0 +1,12 @@
+{
+  "source": "text/vitruvius9.txt",
+  "pairs": [
+    {
+      "locus": "Vitruvius, De Architectura 9.1.13",
+      "type": "authorial-rhetorical",
+      "question": "Quid ita sol quinto a se signo potius quam secundo aut tertio, quae sunt propiora, facit in his fervoribus retentiones?",
+      "answer": "Eius radii in mundo uti trigoni paribus lateribus formae liniationibus extenduntur. Id autem nec plus nec minus est ad quintum ab eo signo.",
+      "derivation": "Authorial-rhetorical Q&A. Stripped the framing 'Fortasse desiderabitur,' (= 'perhaps it will be asked', narration of the question, analogous to 'fortasse requiris') and normalized the first word's capitalization ('quid' -> 'Quid') and terminal punctuation to '?'. For the answer, skipped the non-answering preamble 'Ergo, quemadmodum id fieri videatur, exponam.' (a mere announcement that he will explain) and started at the operative answering sentences explaining why the retention is at the fifth sign: the sun's rays extend in the form of an equilateral triangle, which falls exactly at the fifth sign. Stopped before 'Igitur si radii per omnem mundum fusi...', which elaborates a counterfactual rather than continuing the direct answer."
+    }
+  ]
+}
