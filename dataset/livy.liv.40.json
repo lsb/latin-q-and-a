@@ -1,0 +1,12 @@
+{
+  "source": "text/livy/liv.40.txt",
+  "pairs": [
+    {
+      "locus": "Livy 40.8",
+      "type": "direct-speech",
+      "question": "Satin salue?",
+      "answer": "De lucro tibi uiuere me scito.",
+      "derivation": "Philippus greets the visibly distressed Perseus with the direct interrogative greeting 'satin salue?' (the framing 'cui cum pater ... interrogaret eum' and the parallel indirect question 'quaenam ea maestitia esset' are dropped as narration of the asking). Perseus's reply opens with the speech tag 'inquit', dropped. The answer is the first sentence of his direct-speech reply, 'de lucro tibi uiuere me scito' ('know that I live only as a windfall'), which genuinely answers 'are you well?'. Cut before the following sentences ('iam non occultis a fratre petimur insidiis; nocte cum armatis domum ad interficiendum me uenit...'), which elaborate the accusation against Demetrius rather than answer the greeting."
+    }
+  ]
+}

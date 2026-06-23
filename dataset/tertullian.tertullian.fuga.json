@@ -1,0 +1,19 @@
+{
+  "source": "text/tertullian/tertullian.fuga.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De fuga in persecutione 6.10",
+      "type": "authorial-rhetorical",
+      "question": "Fiat voluntas domini. Quae erat voluntas domini?",
+      "answer": "Utique non fugiendi iam persecutionem.",
+      "derivation": "Authorial self-question. Setup 'Fiat voluntas domini' (the apostles' words) is kept so 'voluntas domini' in the question has its referent. Dropped the preceding speech-tag narration 'Atque ita omnes aierunt:'. Answer is the single sentence answering the question; cut before the following 'Ceterum poterant et priorem domini voluntatem proposuisse...' which digresses."
+    },
+    {
+      "locus": "Tertullian, De fuga in persecutione 12.10",
+      "type": "authorial-rhetorical",
+      "question": "Fiat voluntas dei. Quae ista voluntas?",
+      "answer": "Utique ut pateretur pro nomine domini, non ut redimeretur.",
+      "derivation": "Authorial self-question. Setup 'Fiat voluntas dei' (the disciples' words) is kept so the demonstrative 'ista' in 'Quae ista voluntas?' has a referent. Dropped the speech tag 'inquiunt'. Normalized initial capital of 'utique' in the answer. Answer is the single answering sentence; cut before the following 'Oportet enim, quomodo Christus animam suam posuit...' which elaborates."
+    }
+  ]
+}

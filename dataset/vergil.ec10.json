@@ -1,0 +1,26 @@
+{
+  "source": "text/vergil/ec10.txt",
+  "pairs": [
+    {
+      "locus": "Eclogues 10.9-12",
+      "type": "authorial-rhetorical",
+      "question": "Quae nemora aut qui uos saltus habuere, puellae Naides, indigno cum Gallus amore peribat?",
+      "answer": "Nam neque Parnasi uobis iuga, nam neque Pindi ulla moram fecere, neque Aonie Aganippe.",
+      "derivation": "The poet asks the Naiads where they were while Gallus perished, and answers himself: it was not the ridges of Parnasus or Pindus or Aonian Aganippe that detained them. Inline verse number 10 (after 'peribat') and 5-line markers stripped. Answer ends at the full stop after 'Aganippe' (line 14)."
+    },
+    {
+      "locus": "Eclogues 10.28-30",
+      "type": "direct-speech",
+      "question": "Ecquis erit modus?",
+      "answer": "Amor non talia curat, nec lacrimis crudelis Amor nec gramina riuis nec cytiso saturantur apes nec fronde capellae.",
+      "derivation": "Pan asks whether there will be any limit, then answers within the same speech that Love does not care for such things. Speech tag 'inquit' dropped as framing. Answer runs to the full stop after 'capellae' (line 30); inline number 30 stripped."
+    },
+    {
+      "locus": "Eclogues 10.38-39",
+      "type": "authorial-rhetorical",
+      "question": "Quid tum, si fuscus Amyntas?",
+      "answer": "Et nigrae uiolae sunt et uaccinia nigra.",
+      "derivation": "Gallus's parenthetical: 'what does it matter if Amyntas is swarthy?' answered immediately by 'violets too are dark and hyacinths are dark.' First word capitalization normalized on each field; answer ends at the parenthesis-closing full stop after 'nigra' (line 39)."
+    }
+  ]
+}

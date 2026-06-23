@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.martyres.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, Ad Martyras 4.7",
+      "type": "authorial-rhetorical",
+      "question": "Sed mortis metus non tantus est, quantus est tormentorum. Itaque cessit carnifici meretrix Atheniensis?",
+      "answer": "Quae conscia coniurationis cum propterea torqueretur a tyranno, et non prodidit coniuratos et novissime linguam suam comestam in faciem tyranni exspuit, ut nihil agere in se sciret tormenta, etsi ultra perseverarent.",
+      "derivation": "Tertullian quotes an objection (mortis metus... quantus est tormentorum) then poses the rhetorical yes/no question 'Itaque cessit carnifici meretrix Atheniensis?' expecting 'no'; the objection is kept as setup so 'Itaque' and 'meretrix Atheniensis' have a referent. The answering relative clause ('Quae... torqueretur... non prodidit... exspuit, ut nihil agere in se sciret tormenta') demonstrates she did NOT yield, answering the question. Quoted whole through the terminal full stop (the chapter then turns to the Spartan diamastigosis in 4.8); nothing cut from the answer's interior."
+    }
+  ]
+}

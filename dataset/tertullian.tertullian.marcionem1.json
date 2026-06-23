@@ -1,0 +1,33 @@
+{
+  "source": "text/tertullian/tertullian.marcionem1.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, Adversus Marcionem 1.11.1",
+      "type": "authorial-rhetorical",
+      "question": "Quis enim non tam suis notus est quam extraneis?",
+      "answer": "Nemo.",
+      "derivation": "Tertullian voices the Marcionite premise as a rhetorical question and answers it himself in one word. Started at 'Quis enim non...?' (the preceding 'Et merito, inquiunt.' is framing narration of the opponents' assent, dropped). The answer is exactly 'Nemo.'; ended there, before 'Teneo et hanc vocem.' which moves on to comment rather than answer."
+    },
+    {
+      "locus": "Tertullian, Adversus Marcionem 1.13.2",
+      "type": "authorial-rhetorical",
+      "question": "Numquid ergo creator minime deus?",
+      "answer": "Plane deus.",
+      "derivation": "Authorial rhetorical question directly answered by the next two words. Began the question at 'Numquid ergo...' (preceding 'Nimirum, inquiunt, grande opus et dignum deo mundus.' is the opponents' concession, not the question). Answer ends at 'Plane deus.'; what follows ('Ergo nec mundus deo indignus...') draws an inference rather than answering."
+    },
+    {
+      "locus": "Tertullian, Adversus Marcionem 1.27.6",
+      "type": "direct-speech",
+      "question": "Quid fiet peccatori cuique die illo?",
+      "answer": "abici illum quasi ab oculis",
+      "derivation": "Reported exchange: the Marcionites are asked the question and reply. Dropped the framing speech verbs 'cum interrogati' (before the question) and 'respondent' (introducing the reply). The answer is the contiguous reported clause 'abici illum quasi ab oculis'; ended there, before 'Nonne et hoc iudicio agitur?' which is Tertullian's own follow-on rebuttal."
+    },
+    {
+      "locus": "Tertullian, Adversus Marcionem 1.28.1",
+      "type": "direct-speech",
+      "question": "Exitus autem illi abiecto quis?",
+      "answer": "Ab igne creatoris deprehendetur.",
+      "derivation": "Tertullian asks what becomes of the cast-out sinner; the Marcionites answer. Dropped the inline framing 'inquiunt' that the source interleaves into the reply ('Ab igne, inquiunt, creatoris deprehendetur'), leaving the contiguous utterance. Ended at the full stop; what follows ('Adeone nullum habet elementum...') is Tertullian's counter-question, not part of the answer."
+    }
+  ]
+}

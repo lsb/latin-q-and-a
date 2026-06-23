@@ -1,0 +1,12 @@
+{
+  "source": "text/statius/theb5.txt",
+  "pairs": [
+    {
+      "locus": "Thebaid 5.20-42",
+      "type": "direct-speech",
+      "question": "At tamen, o quaecumque es, cui gloria tanta, uenimus innumerae fatum debere cohortes, quem non ipse deum sator aspernetur honorem, dic age, quando tuis alacres absistimus undis, quae domus aut tellus, animam quibus hauseris astris. dic quis et ille pater. neque enim tibi numina longe, transierit fortuna licet, maiorque per ora sanguis, et adflicto spirat reuerentia uultu.",
+      "answer": "Claro generata Thoante seruitium Hypsipyle uestri fero capta Lycurgi.",
+      "derivation": "Adrastus (dux Talaionides) asks Hypsipyle who she is, her homeland, and who her father is; the speech tag 'ait' (line 20) is dropped as framing. Her reply opens with a long non-answering preamble of grief and deflection ('inmania uulnera, rector, integrare iubes ... quid longa malis exordia necto? ... hoc memorasse sat est:'); per the skip-preamble guidance the answer's start is advanced to the operative answering sentence that names her father (Thoas) and herself (Hypsipyle), directly answering 'dic quis et ille pater' and 'quaecumque es'. This is the final sentence of her speech, ending the quoted reply."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source": "text/valmax7.txt",
+  "pairs": [
+    {
+      "locus": "Valerius Maximus 7.2.ext.6",
+      "type": "direct-speech",
+      "question": "Cur solus linguam suam cohiberet?",
+      "answer": "Quia dixisse me aliquando paenituit, tacuisse numquam.",
+      "derivation": "Xenocrates is asked why he alone kept silent. Dropped the asking-frame 'uno ex his quaerente' and the interior speech tag 'inquit'. Question is the author's indirect interrogative 'cur solus linguam suam cohiberet' (verbatim, capitalized, '?' added). Answer is his quoted reply; it ends the sentence, nothing trimmed."
+    },
+    {
+      "locus": "Valerius Maximus 7.2.ext.8",
+      "type": "direct-speech",
+      "question": "An facta hominum deos fallerent?",
+      "answer": "Ne cogitata quidem.",
+      "derivation": "Thales is asked whether men's deeds escape the gods. Dropped the asking-frame 'interrogatus' and trailing tag 'inquit'. Stripped the editorial brackets in 'ne cogitata <quidem>' keeping 'quidem'. Cut the authorial gloss that follows ('ut non solum manus...') since it is Valerius's elaboration, not the reply."
+    },
+    {
+      "locus": "Valerius Maximus 7.2.ext.12",
+      "type": "direct-speech",
+      "question": "Quisnam esset beatus?",
+      "answer": "Nemo ex his, quos tu felices existimas, sed eum in illo numero reperies, qui a te ex miseris constare creditur.",
+      "derivation": "Anaxagoras is asked who is happy. Dropped the asking-frame 'interroganti cuidam' and the interior tag 'inquit'. Answer is his full quoted reply through the first full stop; cut the authorial elaboration that follows ('non erit ille diuitiis et honoribus abundans...')."
+    },
+    {
+      "locus": "Valerius Maximus 7.3.ext.7",
+      "type": "direct-speech",
+      "question": "Cum dux Romanorum magnas secum maritimas trahens copias aduenerit, an cum eo confligere debeat?",
+      "answer": "Non esse dubium quin oporteret.",
+      "derivation": "Hannibal's agent asks the Carthaginian senate whether they should fight. Dropped the asking-frame 'consulit uos inquit Hannibal'; kept the contiguous interrogative the agent poses. Answer is the senate's verbatim reply with its narrating frame 'adclamauit uniuersus senatus' dropped; it answers the question ('no doubt they ought to')."
+    }
+  ]
+}

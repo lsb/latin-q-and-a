@@ -1,0 +1,19 @@
+{
+  "source": "text/vergil/aen2.txt",
+  "pairs": [
+    {
+      "locus": "Aeneid 2.149-184",
+      "type": "direct-speech",
+      "question": "quisquis es, amissos hinc iam obliuiscere Graios (noster eris) mihique haec edissere uera roganti: quo molem hanc immanis equi statuere? quis auctor? quidue petunt? quae religio? aut quae machina belli?",
+      "answer": "hanc pro Palladio moniti, pro numine laeso effigiem statuere, nefas quae triste piaret.",
+      "derivation": "Priam (named in narration 'fatur Priamus', dropped) asks Sinon why the horse was built and what they seek. Sinon's reply opens with a long non-answering preamble: an oath ('uos, aeterni ignes... testor numen') and a digression about his right to break Greek faith and about Palladium-theft and Calchas, none of which answers 'why did they build this image'. Advanced the answer start past all of that to the operative answering sentence at 2.183-184, which directly answers 'quo... statuere? quidue petunt?'. Stopped at the first full stop after 'piaret'; what follows ('hanc tamen immensam Calchas attollere molem...') explains its size, a further elaboration. Speech tag 'dixerat. ille... ait' omitted from the question; 'roganti' kept as it is part of Priam's framed utterance setup giving 'haec' a referent."
+    },
+    {
+      "locus": "Aeneid 2.322-325",
+      "type": "direct-speech",
+      "question": "quo res summa loco, Panthu? quam prendimus arcem?",
+      "answer": "uenit summa dies et ineluctabile tempus Dardaniae.",
+      "derivation": "Aeneas asks Panthus where the main fight stands and which citadel they can hold. Narration 'uix ea fatus eram gemitu cum talia reddit:' dropped as a speech tag. Answer is the reply's first sentence (to the first full stop after 'Dardaniae'); what follows ('fuimus Troes, fuit Ilium...') elaborates on the fall of the city rather than answering the locational question."
+    }
+  ]
+}

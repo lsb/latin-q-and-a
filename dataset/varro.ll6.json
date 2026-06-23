@@ -1,0 +1,12 @@
+{
+  "source": "text/varro.ll6.txt",
+  "pairs": [
+    {
+      "locus": "Varro, De Lingua Latina 6.68 (Aprissius)",
+      "type": "direct-speech",
+      "question": "Io bucco! Quis me iubilat?",
+      "answer": "Vicinus tuus antiquus.",
+      "derivation": "Quoted verse of Aprissius, introduced by the dropped framing tag 'Aprissius ait'. One party hails ('Io bucco!'), the other asks the genuine interrogative 'Quis me iubilat?' ('Who hails me?'), and the first answers 'Vicinus tuus antiquus.' ('Your old neighbor.'). The hail 'Io bucco!' is kept as verbatim setup so 'me iubilat' has a referent. The answer is the complete contiguous reply (one sentence); nothing cut after it. All other interrogatives in this book (e.g. 'Quis is est qui meum nomen nuncupat?', 'Quis tu es, mulier...', 'Sponden tuam gnatam...', 'Meministin te spondere...', 'Lumen iubarne... cerno') are isolated illustrative quotations with no answering line and were dropped."
+    }
+  ]
+}

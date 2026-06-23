@@ -1,0 +1,12 @@
+{
+  "source": "text/suetonius/suet.caesar.txt",
+  "pairs": [
+    {
+      "locus": "Suetonius, Divus Iulius 74",
+      "type": "direct-speech",
+      "question": "Cur igitur repudiasset uxorem?",
+      "answer": "Quoniam meos tam suspicione quam crimine iudico carere oportere.",
+      "derivation": "Caesar, after testifying that he knew nothing against Publius Clodius (his wife Pompeia's alleged adulterer), is asked why he then divorced her. Dropped the asking-framing 'interrogatusque' before the interrogative and the speech tag 'inquit' inside the reply; normalized the indirect-question opener to capital C and added a terminal question mark. The answer ('quoniam ... oportere') is the full direct utterance and genuinely answers the 'cur' question; nothing follows it in the section."
+    }
+  ]
+}

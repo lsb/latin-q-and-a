@@ -1,0 +1,12 @@
+{
+  "source": "text/theganus.txt",
+  "pairs": [
+    {
+      "locus": "Theganus, Vita Hludowici 44",
+      "type": "authorial-rhetorical",
+      "question": "Crudelis, quis consiliarius tuus fuit, aut ductor tuus?",
+      "answer": "Nonne ille, qui est rex super omnes filios superbiae?",
+      "derivation": "Authorial apostrophe to Ebo: the author asks who Ebo's counselor was and answers himself, identifying the devil ('rex super omnes filios superbiae'). Answer window stops at the first full stop (the '?' closing 'superbiae'); the following 'qui dicebat Deo creatori suo: Haec omnia tibi dabo...' is a relative-clause elaboration further characterizing the devil, not the operative answer, so it is cut. No words altered or reordered."
+    }
+  ]
+}

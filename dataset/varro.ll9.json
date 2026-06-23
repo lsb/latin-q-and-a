@@ -1,0 +1,19 @@
+{
+  "source": "text/varro.ll9.txt",
+  "pairs": [
+    {
+      "locus": "Varro, De Lingua Latina 9.29",
+      "type": "authorial-rhetorical",
+      "question": "Ex qua parte oporteat simile esse verbum, a voce an a significatione?",
+      "answer": "A voce.",
+      "derivation": "Authorial objection-and-reply. Dropped the asking-frame 'Quod rogant' at the start and the answer-tag 'respondemus' (narration of asking/answering). The interrogative is the alternative question 'a voce an a significatione'; punctuation normalized to '?'. The answer is the direct operative response 'a voce' (capitalized, terminal punctuation added). Cut everything after the semicolon ('sed tamen nonnunquam quaerimus genere similiane sint...'), which is a qualifying digression, not the answer to the posed question."
+    },
+    {
+      "locus": "Varro, De Lingua Latina 9.44",
+      "type": "authorial-rhetorical",
+      "question": "Cur non dicamus mane manius manissime?",
+      "answer": "In tempore vere magis et minus esse non potest, ante et post potest.",
+      "derivation": "Authorial objection-and-reply. Dropped the asking-frame 'Quod rogant,' at the start; kept the 'cur' interrogative core and omitted the trailing 'item de vesperi' so the utterance stays a clean single contiguous question (normalized capitalization and terminal '?'). The answer is the operative explanation ending at the first full stop; cut the following 'Itaque prius est hora prima quam secunda...' onward, which elaborates with examples rather than directly answering."
+    }
+  ]
+}

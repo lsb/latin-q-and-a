@@ -1,0 +1,12 @@
+{
+  "source": "text/vergil/aen12.txt",
+  "pairs": [
+    {
+      "locus": "Aeneid 12.793-818",
+      "type": "whole-speech-as-question",
+      "question": "Quae iam finis erit, coniunx? quid denique restat? indigetem Aenean scis ipsa et scire fateris deberi caelo fatisque ad sidera tolli. quid struis? aut qua spe gelidis in nubibus haeres? mortalin decuit uiolari uulnere diuum? aut ensem (quid enim sine te Iuturna ualeret?) ereptum reddi Turno et uim crescere uictis? desine iam tandem precibusque inflectere nostris, ne te tantus edit tacitam dolor et mihi curae saepe tuo dulci tristes ex ore recursent. uentum ad supremum est. terris agitare uel undis Troianos potuisti, infandum accendere bellum, deformare domum et luctu miscere hymenaeos: ulterius temptare ueto.",
+      "answer": "Et nunc cedo equidem pugnasque exosa relinquo.",
+      "derivation": "Whole-speech-as-question: Jupiter's entire speech to Juno, quoted verbatim and contiguous. Stripped framing narration before ('Iunonem interea rex omnipotentis Olympi / adloquitur fulua pugnas de nube tuentem:') and after ('sic Iuppiter orsus;'). Speech contains genuine interrogatives (quae iam finis erit, quid struis, qua spe haeres) and the operative demand 'desine iam tandem... ulterius temptare ueto'. For the answer, Juno's reply opens with a non-answering self-justifying preamble ('ista quidem quia nota mihi tua... inuita reliqui', then her account of advising Iuturna and her oath by the Styx); per the skip-non-answering-preamble guidance the answer's start is advanced to the operative sentence in which she actually yields. The answer ends at the first full stop; what follows ('illud te, nulla fati quod lege tenetur, pro Latio obtestor...') turns from yielding to making her own request about names and is not part of the answer. Editorial-bracket items elsewhere in the speech (e.g. '(fateor)', '(esto)') fall outside both spans."
+    }
+  ]
+}

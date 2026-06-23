@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.valentinianos.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, Adversus Valentinianos 7.5",
+      "type": "authorial-rhetorical",
+      "question": "Et quem parit?",
+      "answer": "Nus est simillimum Patri et parem per omnia.",
+      "derivation": "Authorial self-question and self-answer. Tertullian narrates that Sige bears offspring ('parit ... Sige'), then poses the interrogative 'et quem parit?' and immediately answers it himself: 'Nus est simillimum Patri et parem per omnia.' Question taken verbatim; first word capitalized and the existing '?' kept. Answer is the contiguous first sentence of the reply, ending at the full stop before 'denique solus hic capere sufficit...' which begins a new elaborating sentence. The preceding 'et parit (utique silentio) Sige.' supplies the referent for 'parit' but is dropped as redundant narration that the question itself restates; the question is intelligible on its own. No scaffolding present in the quoted spans."
+    }
+  ]
+}

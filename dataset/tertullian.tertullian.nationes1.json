@@ -1,0 +1,19 @@
+{
+  "source": "text/tertullian/tertullian.nationes1.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, Ad Nationes 1.11.4",
+      "type": "authorial-rhetorical",
+      "question": "Vbi ergo is deus fuerit?",
+      "answer": "Vtique nusquam magis quam in templo tam memorabili, praesertim omnibus praeter sacerdotibus clauso, quo non uererentur extraneum.",
+      "derivation": "Authorial rhetorical question and its self-answer, contiguous in 1.11.4. Tertullian has just reported (1.11.3) that Pompey, having captured Jerusalem, entered the temple and found no image (the supposed ass-headed god); he then asks where that god would have been and answers it himself. Question and answer quoted whole as a single sentence each; nothing cut from either."
+    },
+    {
+      "locus": "Tertullian, Ad Nationes 1.16.5",
+      "type": "direct-speech",
+      "question": "Numquid domini displicui uobis?",
+      "answer": "Immo, tu quidem pulchre, at scriptor uanissimus si finxit, aut Oedipus dementissimus si ita fecit.",
+      "derivation": "Direct speech. The actor (tragoedus) playing the blinded Oedipus asks the Macedonian audience whether he has displeased them, and they answer. Dropped the narration 'Tragoedus consternatus retracta persona' and the speech tag 'ait' before the question, and 'Responderunt Macedones' before the answer; the speaker's words ('numquid' ... 'domini, displicui uobis?') are kept contiguous in source order. Answer quoted whole; nothing internal cut."
+    }
+  ]
+}

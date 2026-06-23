@@ -1,0 +1,19 @@
+{
+  "source": "text/pliny.ep9.txt",
+  "pairs": [
+    {
+      "locus": "Pliny, Epistulae 9.6.1",
+      "type": "authorial-rhetorical",
+      "question": "Quemadmodum in urbe potuisti?",
+      "answer": "Circenses erant, quo genere spectaculi ne levissime quidem teneor.",
+      "derivation": "Pliny voices the addressee's objection and answers it himself. Stripped the embedded speech tag 'inquis' (the words \"'Quemadmodum' inquis 'in urbe potuisti?'\" become \"Quemadmodum in urbe potuisti?\"). Answer ends at the first full stop; what follows ('Nihil novum nihil varium...') elaborates rather than answers, so it is cut."
+    },
+    {
+      "locus": "Pliny, Epistulae 9.23.2",
+      "type": "direct-speech",
+      "question": "Italicus es an provincialis?",
+      "answer": "Nosti me, et quidem ex studiis.",
+      "derivation": "An eques asks Tacitus and Tacitus replies. Stripped the narration framing the exchange ('Hunc post varios eruditosque sermones requisisse:' before the question, 'Se respondisse:' before the answer). Answer is the complete reply; what follows ('Ad hoc illum: Tacitus es an Plinius?') is the next, unanswered question, so it is excluded."
+    }
+  ]
+}

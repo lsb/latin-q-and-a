@@ -1,0 +1,26 @@
+{
+  "source": "text/vergil/aen3.txt",
+  "pairs": [
+    {
+      "locus": "Aeneid 3.85-101",
+      "type": "whole-speech-as-question",
+      "question": "Da propriam, Thymbraee, domum; da moenia fessis et genus et mansuram urbem; serua altera Troiae Pergama, reliquias Danaum atque immitis Achilli. quem sequimur? quoue ire iubes? ubi ponere sedes? da, pater, augurium atque animis inlabere nostris?",
+      "answer": "Dardanidae duri, quae uos a stirpe parentum prima tulit tellus, eadem uos ubere laeto accipiet reduces. antiquam exquirite matrem.",
+      "derivation": "Aeneas's whole prayer-plea to Apollo at Delos is the question, quoted entire and contiguous (da propriam... inlabere nostris), containing the explicit interrogatives quem sequimur? quoue ire iubes? ubi ponere sedes? Narration frame stripped: opening 'Templa dei saxo uenerabar structa uetusto:' before the speech, and 'uix ea fatus eram... uox fertur ad auris:' between speeches. The answer is Apollo's oracular reply; window cut at the first full stop after the operative directive 'antiquam exquirite matrem.' which answers ubi ponere sedes; what follows ('hic domus Aeneae cunctis dominabitur oris...') elaborates the prophecy and is omitted. Inline verse numbers (85, 90, 95) stripped."
+    },
+    {
+      "locus": "Aeneid 3.310-316",
+      "type": "direct-speech",
+      "question": "Uerane te facies, uerus mihi nuntius adfers, nate dea? uiuisne? aut, si lux alma recessit, Hector ubi est?",
+      "answer": "Uiuo equidem uitamque extrema per omnia duco; ne dubita, nam uera uides.",
+      "derivation": "Andromache asks the newly-arrived Aeneas whether he is truly alive (interrogatives uiuisne? Hector ubi est?). Her speech quoted contiguous; the narrative tail 'dixit, lacrimasque effudit... clamore locum' is dropped as framing. Aeneas's reply answers directly; window taken as the operative answering sentences 'uiuo equidem... nam uera uides' (his own framing 'uix pauca furenti subicio et raris turbatus uocibus hisco:' stripped before). The reply continues with a counter-question 'heu! quis te casus deiectam coniuge tanto excipit...' which is omitted. Inline verse numbers (310, 315) stripped."
+    },
+    {
+      "locus": "Aeneid 3.359-381",
+      "type": "whole-speech-as-question",
+      "question": "Troiugena, interpres diuum, qui numina Phoebi, qui tripodas Clarii et laurus, qui sidera sentis et uolucrum linguas et praepetis omina pennae, fare age (namque omnis cursum mihi prospera dixit religio, et cuncti suaserunt numine diui Italiam petere et terras temptare repostas; sola nouum dictuque nefas Harpyia Celaeno prodigium canit et tristis denuntiat iras obscenamque famem), quae prima pericula uito? quidue sequens tantos possim superare labores?",
+      "answer": "Principio Italiam, quam tu iam rere propinquam uicinosque, ignare, paras inuadere portus, longa procul longis uia diuidit inuia terris.",
+      "derivation": "Aeneas's whole address to the seer Helenus is the question, quoted entire and contiguous including its parenthetical (namque... famem) which is part of the utterance, ending in the explicit interrogatives quae prima pericula uito? quidue... superare labores? Frame stripped: 'his uatem adgredior dictis ac talia quaeso:' before, and the narration of Helenus sacrificing/leading (hic Helenus caesis... canit diuino ex ore sacerdos:) between speeches. Helenus's reply opens with a non-answering preamble ('Nate dea... expediam dictis; prohibent nam cetera Parcae scire Helenum farique uetat Saturnia Iuno.') framing what he will reveal; the answer's start is advanced past it to the operative 'principio Italiam... inuia terris.' answering quae prima pericula (the first peril: Italy is far, not near). Cut at that full stop; the subsequent dangers (ante et Trinacria lentandus remus...) are omitted. Inline verse numbers (360-380) stripped."
+    }
+  ]
+}

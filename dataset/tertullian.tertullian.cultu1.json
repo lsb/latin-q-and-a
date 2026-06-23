@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.cultu1.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De Cultu Feminarum 1.2.5",
+      "type": "authorial-rhetorical",
+      "question": "Quod est commercium damnaturis cum damnandis?",
+      "answer": "Opinor, quod Christo et Beliae.",
+      "derivation": "Authorial rhetorical question and self-answer. The directly-answered question is 'Quod est commercium damnaturis cum damnandis?'; the preceding 'Quid ergo facient apud iudices suos res eorum?' is a separate rhetorical question not answered by the Opinor clause, so it is excluded from the question span. The answer 'Opinor, quod Christo et Beliae.' directly answers it (none, just as Christ has none with Belial); the answer window stops there, before the next sentence 'Qua constantia tribunal illud ascendemus...' which digresses. 'Opinor' is retained as the answering utterance, not an asking speech-tag."
+    }
+  ]
+}

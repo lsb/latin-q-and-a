@@ -1,0 +1,26 @@
+{
+  "source": "text/thomasedessa.txt",
+  "pairs": [
+    {
+      "locus": "Thomas Edessenus, Tractatus de Nativitate, Caput III",
+      "type": "authorial-rhetorical",
+      "question": "Item Angelus, cum revelatus est pastoribus eisque nuntiavit, non praedicabat eis Dominum nostrum ex virgine natum. Quid enim dicebat eis?",
+      "answer": "Annuntio vobis quidem gaudium magnum quod erit universo mundo.",
+      "derivation": "Authorial-rhetorical: the author asks what the angel said and answers with the angel's quoted words. Setup sentence (Item Angelus... ex virgine natum) kept verbatim so 'dicebat eis' has its subject and referent. Answer is the quoted utterance, stripped of the framing guillemets; it stops at its full stop before the next question 'Et cur dicit:'."
+    },
+    {
+      "locus": "Thomas Edessenus, Tractatus de Nativitate, Caput III",
+      "type": "authorial-rhetorical",
+      "question": "Et cur dicit: Hodie quidem natus est vobis Salvator, qui est Dominus Christus, in civitato David?",
+      "answer": "Facit mentionem civitatis David, ut ostendat quod in eo qui hodie natus est, impletae sunt Dei promissiones ad patres.",
+      "derivation": "Authorial-rhetorical: author asks why the angel says the quoted phrase, then answers. Question keeps the embedded scriptural quotation (verbatim, including 'civitato'); guillemets stripped. Answer cut at the first full stop; what follows ('et quod in eo benedicentur omnes populi...') elaborates with further scriptural promises and is omitted."
+    },
+    {
+      "locus": "Thomas Edessenus, Tractatus de Nativitate, Caput VI",
+      "type": "authorial-rhetorical",
+      "question": "Veritas enim et gratia per Iesum Christum fuit. Cur 'veritas et gratia' dixit?",
+      "answer": "Quia Deum nemo vidit unquam.",
+      "derivation": "Authorial-rhetorical: author quotes John, asks why John used 'veritas et gratia', and answers. The Johannine quotation is kept verbatim as setup so 'dixit' has its referent; the framing tag 'dioit Ioannes' (a narration of speaking) is dropped, guillemets stripped. Answer is the single causal sentence directly answering; what follows (another scriptural quotation about God dwelling in light) is new material and omitted."
+    }
+  ]
+}

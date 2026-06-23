@@ -1,0 +1,19 @@
+{
+  "source": "text/statius/achilleid2.txt",
+  "pairs": [
+    {
+      "locus": "Statius, Achilleid 2.46-54",
+      "type": "direct-speech",
+      "question": "tu potius, dum lene fretum Zephyroque fruuntur carbasa, quae Danais tanti primordia belli, ede?",
+      "answer": "Fertur in Hectorea, si talia credimus, Ida electus formae certamina solvere pastor sollicitas tenuisse deas, nec torva Minervae ora nec aetherii sociam rectoris amico lumine, sed solam nimium vidisse Dionen.",
+      "derivation": "Achilles asks Ulysses to tell the origins of the Trojan war. The asking sentence (tu potius... ede) is kept verbatim; the following sentence 'libet iustas hinc sumere protinus iras' is dropped as it adds motive, not question. Ulysses' reply (introduced 'Hic Ithacus paulum repetito longius orsu') answers; the answer is its first full sentence, ending at the full stop after 'Dionen' (line 54), before he continues 'atque adeo lis illa...'. Inline verse numbers (50) and the speech-frame line stripped."
+    },
+    {
+      "locus": "Statius, Achilleid 2.86-103",
+      "type": "whole-speech-as-question",
+      "question": "Quin, o dignissima caeli progenies, ritusque tuos elementaque primae indolis et, valida mox accedente iuventa, quae solitus laudum tibi semina pandere Chiron virtutisque aditus, quas membra augere per artes, quas animum, sociis multumque faventibus edis? sit pretium longas penitus quaesisse per undas Scyron et his primum me arma ostendisse lacertis.",
+      "answer": "Dicor et in teneris et adhuc reptantibus annis, Thessalus ut rigido senior me monte recepit, non ullos ex more cibos hausisse nec almis uberibus satiasse famem, sed spissa leonum viscera semianimisque lupae traxisse medullas.",
+      "derivation": "Diomedes (Oenides) asks Achilles to relate his upbringing and Chiron's training. The whole speech is quoted verbatim as the question (the speech-tag 'Excipit Oenides' dropped); the interrogative is 'edis?'. The authorial aside 'Quem pigeat sua facta loqui? tamen ille modeste incohat...' is omitted as narration. Achilles' reply answers; the answer is its first full sentence, ending at the full stop after 'medullas' (line 103), before he continues 'haec mihi prima Ceres...'. Inline verse numbers (90, 95, 100) stripped."
+    }
+  ]
+}

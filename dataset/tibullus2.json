@@ -1,0 +1,19 @@
+{
+  "source": "text/tibullus2.txt",
+  "pairs": [
+    {
+      "locus": "Tibullus 2.3.153-154",
+      "type": "authorial-rhetorical",
+      "question": "Delos ubi nunc, Phoebe, tua est, ubi Delphica Pytho?",
+      "answer": "Nempe Amor in parua te iubet esse casa.",
+      "derivation": "Self-contained authorial-rhetorical question and answer occupying one couplet. The poet asks where Apollo's sacred sites (Delos, Delphic Pytho) are now, and answers in the next line that Love compels him into a humble hut (continuing the preceding passage on Apollo's servitude to Admetus for love). Question is both interrogative clauses of line 153 (ending at the question mark). Answer is the full pentameter line 154 (to the full stop); nothing cut. Capitalized first word and added terminal period normalized; what follows is a new thought beginning 'felices olim'."
+    },
+    {
+      "locus": "Tibullus 2.4.261-262",
+      "type": "authorial-rhetorical",
+      "question": "Vera quidem moneo, sed prosunt quid mihi uera?",
+      "answer": "Illius est nobis lege colendus amor.",
+      "derivation": "Authorial-rhetorical pair within one couplet. The setup clause 'uera quidem moneo' is kept as verbatim source text so that 'uera' in the interrogative has its referent (Rule 2, self-contained); the interrogative is 'sed prosunt quid mihi uera?'. The answer (line 262, full pentameter to the full stop) explains why truth is useless to him: love must be cultivated on her terms. First word capitalization normalized; what follows is a new thought 'quin etiam sedes iubeat...'."
+    }
+  ]
+}

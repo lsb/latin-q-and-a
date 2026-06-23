@@ -1,0 +1,26 @@
+{
+  "source": "text/statius/theb7.txt",
+  "pairs": [
+    {
+      "locus": "Thebaid 7.155-221",
+      "type": "whole-speech-as-question",
+      "question": "Excindisne tuas, diuum sator optime, Thebas? saeua adeo coniunx? nec te telluris amatae deceptique laris miseret cinerumque meorum? esto, olim inuitum iaculatus nubibus ignem, credimus: en iterum atra refers incendia terris, nec Styge iurata, nec paelicis arte rogatus. quis modus? an nobis pater iratusque bonusque fulmen habes? sed non Danaeia limina talis Parrhasiumque nemus Ledaeasque ibis Amyclas. scilicet e cunctis ego neglectissima natis progenies? ego nempe tamen qui dulce ferenti pondus eram, cui tu dignatus limina uitae praereptumque uterum et maternos reddere menses. adde quod imbellis rarisque exercita castris turba meas acies, mea tantum proelia norunt, nectere fronde comas et ad inspirata rotari buxa: timent thyrsos nuptarum et proelia matrum. unde tubas Martemque pati, qui feruidus ecce quanta parat? quid si ille tuos Curetas in arma ducat et innocuis iubeat decernere peltis? quin etiam inuisos (sic hostis defuit?) Argos eligis! o ipsis, genitor, grauiora periclis iussa: nouercales ruimus ditare Mycenas! cedo equidem. quo sacra tamen ritusque peremptae gentis, et in tumulos si quid male feta reliquit mater, abire iubes? Thracen siluasque Lycurgi? anne triumphatos fugiam captiuus ad Indos? da sedem profugo. potuit Latonia frater saxa (nec inuideo) defigere Delon et imis commendare fretis; cara summouit ab arce hostiles Tritonis aquas; uidi ipse potentem gentibus Eois Epaphum dare iura, nec ullas Cyllene secreta tubas Minoaue curat Ida: quid heu tantum nostris offenderis aris? hic tibi (quando minor iam nostra potentia) noctes Herculeae placitusque uagae Nycteidos ardor, hic Tyrium genus et nostro felicior igne taurus: Agenoreos saltem tutare nepotes.",
+      "answer": "Non coniugis ista consiliis, ut rere, puer, nec saeua roganti sic expostus ego: inmoto deducimur orbe fatorum; ueteres seraeque in proelia causae.",
+      "derivation": "Bacchus's whole plea to Jupiter (whole-speech-as-question), opening with the interrogative 'excindisne tuas... Thebas?' Dropped the speech tag 'supplexque profatur:' before it and the inline every-5-lines verse numbers (155,160,165,170,175,180,185,190); kept the utterance contiguous through 'tutare nepotes' (dropped the trailing closing quote). Jupiter's reply tag 'inque uicem placida orsa refert:' dropped; answer taken to the first full stop ('...in proelia causae.'), which directly rebuts Bacchus's 'saeua adeo coniunx?'/'quis modus?' by naming fate, not Juno, as the cause. Cut before 'nam cui tanta quies irarum...', which elaborates rather than answers. Stripped inline numbers 195,200."
+    },
+    {
+      "locus": "Thebaid 7.247-258",
+      "type": "direct-speech",
+      "question": "Spesne obstatura Pelasgis haec uexilla, pater? Pelopis descendere totas audimus gentes: dic, o precor, extera regum agmina; nam uideo quae noster signa Menoeceus, quae noster regat arma Creon, quam celsus aena Sphinge per ingentes Homoloidas exeat Haemon.",
+      "answer": "Mille sagittiferos gelidae de colle Tanagrae promouet ecce Dryas; hic, cui niuea arma tridentem atque auro rude fulmen habent, Orionis alti non falsus uirtute nepos: procul, oro, paternum omen et innuptae uetus excidat ira Dianae.",
+      "derivation": "Teichoskopia: Antigone asks the aged Phorbas to identify the foreign kings ('dic, o precor, extera regum agmina'). Dropped her speech tag 'quae sic orsa prior:' and Phorbas's tag 'sic rudis Antigone, senior cui talia Phorbas:'. Stripped inline verse numbers 245,250,255. Answer taken to the first full stop, where Phorbas directly answers by naming Dryas and his trident-bearing neighbour; cut before 'iungunt se castris...' which continues the long catalogue."
+    },
+    {
+      "locus": "Thebaid 7.290-296",
+      "type": "direct-speech",
+      "question": "Illi autem, quanam iunguntur origine fratres? sic certe paria arma uiris, sic exit in auras cassidis aequus apex; utinam haec concordia nostris!",
+      "answer": "Non prima errore uidendi falleris, Antigone: multi hos (nam decipit aetas) dixerunt fratres.",
+      "derivation": "Antigone interrupts to ask by what kinship two warriors are brothers ('quanam iunguntur origine fratres?'). Dropped her tag 'dixerat, et paulum uirgo interfata loquenti:' and Phorbas's tag 'cui senior ridens:'. Answer taken to the first full stop ('...dixerunt fratres.'), which answers by correcting the premise: they only seem brothers (the deceit of age). Cut before 'pater est natusque, sed aeui confudere modos:' and the Lapithaon backstory that elaborates. Stripped inline number 295."
+    }
+  ]
+}

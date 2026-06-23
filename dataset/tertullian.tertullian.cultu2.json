@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.cultu2.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De cultu feminarum 2.9.6",
+      "type": "direct-speech",
+      "question": "Non enim utemur nostris? Quis autem prohibet uti?",
+      "answer": "Secundum apostolum tamen qui nos uti monet mundo isto quasi non abutamur.",
+      "derivation": "An objector's quoted speech poses the question 'Shall we not use our own things? Who forbids using them?'; the framing verb 'quaesitis' is dropped as a speech tag. Tertullian answers with the apostle's qualification. The answer ends at the first full stop, before the supporting scriptural quotations ('Praeterit enim... habitus huius mundi') that elaborate the point."
+    }
+  ]
+}

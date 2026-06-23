@@ -1,0 +1,12 @@
+{
+  "source": "text/suetonius/suet.nero.txt",
+  "pairs": [
+    {
+      "locus": "Suetonius, Nero 39",
+      "type": "authorial-rhetorical",
+      "question": "Quis negat Aeneae magna de stirpe Neronem?",
+      "answer": "Sustulit hic matrem, sustulit ille patrem.",
+      "derivation": "A lampooning elegiac couplet quoted verbatim by Suetonius among the verses circulated against Nero. The hexameter is a genuine rhetorical interrogative (Quis negat...? = 'who denies that Nero is of Aeneas's great line?'), and the pentameter answers it by supplying the witty grounds for the comparison (Nero killed his mother as Aeneas 'carried off' his father). Answer ends at 'patrem.'; the following 'Dum tendit citharam noster...' is a separate epigram that does not answer this question, so it is excluded."
+    }
+  ]
+}

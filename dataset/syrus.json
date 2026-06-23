@@ -1,0 +1,96 @@
+{
+  "source": "text/syrus.txt",
+  "pairs": [
+    {
+      "locus": "Publilius Syrus, Sententiae (Q 6)",
+      "type": "authorial-rhetorical",
+      "question": "Quid est homini inimicissimum?",
+      "answer": "Alter homo.",
+      "derivation": "Single-line author self-Q&A. Question is the interrogative clause up to the '?'; answer is the contiguous reply 'alter homo' (capitalized as first word, period added). Nothing cut between."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae (Q 7)",
+      "type": "authorial-rhetorical",
+      "question": "Quae sunt maximae divitiae?",
+      "answer": "Non desiderare divitias.",
+      "derivation": "Single-line author self-Q&A. Answer is the full contiguous reply after '?', capitalized and given a period. Nothing omitted."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae (Q 8)",
+      "type": "authorial-rhetorical",
+      "question": "Quis plurimum habet?",
+      "answer": "Is qui minimum cupit.",
+      "derivation": "Single-line author self-Q&A. Reply 'is qui minimum cupit' answers the question directly; capitalized first word, period added."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae (Q 9)",
+      "type": "authorial-rhetorical",
+      "question": "Quid est dare beneficium?",
+      "answer": "Imitari deum.",
+      "derivation": "Single-line author self-Q&A. Answer is the contiguous reply after '?', capitalized with period. Nothing cut."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae (Q 10)",
+      "type": "authorial-rhetorical",
+      "question": "Quis est pauper?",
+      "answer": "Qui sibi videtur dives.",
+      "derivation": "Single-line author self-Q&A. Reply answers directly; capitalized first word, period added. Nothing omitted."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae (V 1)",
+      "type": "authorial-rhetorical",
+      "question": "Vis omnibus esse notus?",
+      "answer": "Prius effice, ut neminem noveris.",
+      "derivation": "Single-line author self-Q&A (rhetorical question 'vis...?' answered by an imperative). Answer is the full contiguous reply after '?', capitalized with period. Nothing cut."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae (V 2)",
+      "type": "authorial-rhetorical",
+      "question": "Vis habere honorem?",
+      "answer": "Dabo tibi magnum imperium: impera tibi.",
+      "derivation": "Single-line author self-Q&A. Answer kept whole because the colon joins 'dabo tibi magnum imperium' with its explanatory 'impera tibi' as one answering sentence (no full stop intervenes); capitalized first word, period added."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae Falso Receptae (S, scis quid est invidia)",
+      "type": "authorial-rhetorical",
+      "question": "Quid est invidia?",
+      "answer": "Dolor animi est ex alienis commodis.",
+      "derivation": "Source line is 'Scis, quid est invidia? dolor animi est ex alienis commodis.' The framing 'Scis,' is dropped as a meta-narration of the asking, leaving the genuine interrogative as question; answer is the contiguous reply after '?', capitalized with period."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae Falso Receptae (I, imperium habere)",
+      "type": "authorial-rhetorical",
+      "question": "Imperium habere vis magnum?",
+      "answer": "Impera tibi.",
+      "derivation": "Single-line author self-Q&A. Question is the interrogative clause; answer is the contiguous imperative reply, capitalized with period."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae Falso Receptae (Q, quae est ars)",
+      "type": "authorial-rhetorical",
+      "question": "Quae est ars parandae amicitiae?",
+      "answer": "Si vis amari, ama.",
+      "derivation": "Single-line author self-Q&A. Answer is the full conditional reply after '?' (already capitalized in source), period retained. Nothing cut."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae Falso Receptae (Q, quid est beneficium dare)",
+      "type": "authorial-rhetorical",
+      "question": "Quid est beneficium dare?",
+      "answer": "Imitari deum.",
+      "derivation": "Single-line author self-Q&A. Answer is the contiguous reply after '?', capitalized with period. Nothing omitted."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae Falso Receptae (Q, quid refert quantum habeas)",
+      "type": "authorial-rhetorical",
+      "question": "Quid refert quantum habeas?",
+      "answer": "Multo illud plus est, quod non habes.",
+      "derivation": "Single-line author self-Q&A. Answer is the full contiguous reply after '?', capitalized first word, period retained. Nothing cut."
+    },
+    {
+      "locus": "Publilius Syrus, Sententiae Falso Receptae (V, vis notus omnibus)",
+      "type": "authorial-rhetorical",
+      "question": "Vis notus omnibus esse?",
+      "answer": "Nullum noveris.",
+      "derivation": "Single-line author self-Q&A (variant of 'Vis omnibus esse notus?'). Answer is the contiguous imperative reply after '?', capitalized with period."
+    }
+  ]
+}

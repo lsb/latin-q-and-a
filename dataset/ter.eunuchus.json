@@ -1,0 +1,33 @@
+{
+  "source": "text/ter.eunuchus.txt",
+  "pairs": [
+    {
+      "locus": "Terence, Eunuchus 101",
+      "type": "direct-speech",
+      "question": "Potin est hic tacere?",
+      "answer": "Egon? optume.",
+      "derivation": "Thais asks Parmeno whether the man present (Phaedria) can keep a secret. Dropped the framing 'dic mihi hoc primum' (speech-introducing tag) before the interrogative. Answer is Parmeno's affirmative reply; stopped at the full stop after 'optume', before the following sentence ('verum heus tu, hac lege...') which elaborates the terms of his discretion."
+    },
+    {
+      "locus": "Terence, Eunuchus 353-354",
+      "type": "direct-speech",
+      "question": "Quis is est tam potens cum tanto munere hoc?",
+      "answer": "Miles Thraso, Phaedriae rivali'.",
+      "derivation": "Chaerea asks who the powerful gift-giver is; Parmeno identifies him. Answer ends at the full stop after 'rivali'' (line-break between 'Thraso,' and 'Phaedriae' is metrical, the sentence is contiguous), before Chaerea's reaction 'duras fratri' partis praedicas.'"
+    },
+    {
+      "locus": "Terence, Eunuchus 563",
+      "type": "direct-speech",
+      "question": "Nostin hanc quam amat frater?",
+      "answer": "Novi: nempe, opinor, Thaidem.",
+      "derivation": "Chaerea asks Antipho whether he knows the woman his brother loves (the relative clause makes the question self-contained); Antipho answers by naming her. Answer ends at the full stop; Chaerea then confirms 'istam ipsam.'"
+    },
+    {
+      "locus": "Terence, Eunuchus 700",
+      "type": "direct-speech",
+      "question": "Unde igitur fratrem meum esse scibas?",
+      "answer": "Parmeno dicebat eum esse.",
+      "derivation": "Phaedria asks Dorus how he knew the other was his brother; Dorus answers that Parmeno told him. Stripped editorial brackets in 'm<eu>m' -> 'meum' and '<eu>m' -> 'eum', keeping the words. Cut the answer at the first full stop after 'esse', before 'is dedit mi hanc.' which adds a further detail rather than answering the 'unde' question."
+    }
+  ]
+}

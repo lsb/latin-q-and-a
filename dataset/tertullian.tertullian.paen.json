@@ -1,0 +1,19 @@
+{
+  "source": "text/tertullian/tertullian.paen.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De Paenitentia 4.7",
+      "type": "authorial-rhetorical",
+      "question": "Bonum est paenitere an non?",
+      "answer": "Deus praecepit!",
+      "derivation": "Tertullian quotes an interlocutor's question and answers it himself. The reply opens with the counter-question 'Quid revolvis?' ('Why do you keep turning it over?'), a non-answering deflection, so the answer's start is advanced past it to the operative answering clause 'deus praecepit'. The first word's capitalization is normalized and the trailing material ('Atenim ille non praecipit tantum...') is cut after 'praecepit!' as it turns to elaboration."
+    },
+    {
+      "locus": "Tertullian, De Paenitentia 8.7",
+      "type": "authorial-rhetorical",
+      "question": "Quis ille nobis intellegendus pater?",
+      "answer": "Deus scilicet.",
+      "derivation": "Tertullian poses a question about the father in the parable of the prodigal son and answers it himself. The answer stops at 'Deus scilicet'; the following elaboration ('tam pater nemo, tam pius nemo') is cut as it turns from answering to amplifying. Terminal punctuation normalized."
+    }
+  ]
+}

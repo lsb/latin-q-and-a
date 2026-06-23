@@ -1,0 +1,12 @@
+{
+  "source": "text/suetonius/suet.dom.txt",
+  "pairs": [
+    {
+      "locus": "Suetonius, Divus Domitianus 3",
+      "type": "direct-speech",
+      "question": "Essetne quis intus cum Caesare?",
+      "answer": "Ne muscam quidem.",
+      "derivation": "From chapter III: 'ut cuidam interroganti, essetne quis intus cum Caesare, non absurde responsum sit a Vibio Crispo, ne muscam quidem.' The framing 'ut cuidam interroganti' and 'non absurde responsum sit a Vibio Crispo' are speech-narration and were dropped. The question is the reported interrogative 'essetne quis intus cum Caesare' (first word capitalized, terminal ? supplied); the answer is the verbatim retort 'ne muscam quidem' (capitalized, full stop supplied). Section markers were stripped; nothing follows the answer within the exchange."
+    }
+  ]
+}

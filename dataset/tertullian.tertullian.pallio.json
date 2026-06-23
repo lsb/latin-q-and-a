@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.pallio.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De Pallio 3.3",
+      "type": "authorial-rhetorical",
+      "question": "Quadrupes tardigrada, agrestis, humilis, aspera. Testudinem Pacuuianam putas?",
+      "answer": "Non est.",
+      "derivation": "Authorial-rhetorical: the riddling verse line (stripped of its standalone-quote layout) is kept as setup so 'Testudinem... putas?' has a referent; the author asks and answers himself. Answer cut at the first full stop ('Non est.'); what follows ('Capit et alia bestiola uersiculum...') elaborates by naming the chameleon and does not answer the question, so it is omitted."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/vico.orat6.txt",
+  "pairs": [
+    {
+      "locus": "Vico, Oratio VI",
+      "type": "authorial-rhetorical",
+      "question": "Quibusnam linguis potissimum danda sit opera?",
+      "answer": "Eae autem duae sunt: graeca una, latina altera, utraque certa; sed graeca doctior; nunc latina communior.",
+      "derivation": "The author poses the question via framing 'At heic quis vestrum roget:' which is dropped as asking-narration. The reply opens with a non-answering preamble (lines 46-47: 'Id vos docet ipsa corruptae naturae cognitio... Haec itaque vicia sunt emendanda linguarum eruditione, quae, quantum fieri possit, doctae sint, certae, communes...') that gives criteria but does not name which languages; so the answer's start is advanced to the operative naming sentence 'Eae autem duae sunt: graeca una, latina altera...' which directly answers 'which languages.' The answer ends at the first full stop (after 'communior'); what follows is 'His igitur a pueris incumbendum...', which turns to elaborating on how to study them."
+    }
+  ]
+}

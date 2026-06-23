@@ -1,0 +1,12 @@
+{
+  "source": "text/vergil/aen7.txt",
+  "pairs": [
+    {
+      "locus": "Aeneid 7.197-230",
+      "type": "direct-speech",
+      "question": "quid petitis? quae causa rates aut cuius egentis litus ad Ausonium tot per uada caerula uexit?",
+      "answer": "diluuio ex illo tot uasta per aequora uecti dis sedem exiguam patriis litusque rogamus innocuum et cunctis undamque auramque patentem.",
+      "derivation": "Latinus addresses the Trojan envoys and asks what they seek and what brought them. The question is the contiguous interrogative core of his speech (197-198); the preceding 'dicite, Dardanidae (neque enim nescimus...cursum)' framing/vocative and the following reassurances about Latinus's people and Dardanus's origins (199-211) are dropped, and the parenthetical is not stitched across. Ilioneus's reply (213-262) opens with a non-answering preamble denying they came by storm or error ('rex...nec fluctibus actos atra subegit hiems...nec sidus...fefellit') and recounting Aeneas and Troy's fall; the answer-window advances to the operative answering sentence (228-230), a single contiguous sentence stating their request, ending at the first full stop ('...patentem.'). What follows is 'non erimus regno indecores...' (assurances), which elaborates rather than answers."
+    }
+  ]
+}

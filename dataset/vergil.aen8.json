@@ -1,0 +1,12 @@
+{
+  "source": "text/vergil/aen8.txt",
+  "pairs": [
+    {
+      "locus": "Aeneid 8.112-120",
+      "type": "direct-speech",
+      "question": "Iuuenes, quae causa subegit ignotas temptare uias? quo tenditis? qui genus? unde domo? pacemne huc fertis an arma?",
+      "answer": "Troiugenas ac tela uides inimica Latinis, quos illi bello profugos egere superbo. Euandrum petimus.",
+      "derivation": "Pallas calls out from the mound and asks the arriving strangers who they are, where they are bound, their lineage, and whether they bring peace or war. Stripped framing 'et procul e tumulo:' before and the speech tag 'inquit' that interrupts mid-utterance after 'tenditis?'; the speaker's words are kept contiguous. Aeneas answers directly: they are Trojans whose weapons are hostile to the Latins, profugees, and they seek Euander. Stripped the narration 'tum pater Aeneas puppi sic fatur ab alta / paciferaeque manu ramum praetendit oliuae:' before the answer. Ended the answer at 'Euandrum petimus.' (first full stops giving the operative reply); the following 'ferte haec et dicite lectos Dardaniae uenisse duces socia arma rogantis' is an imperative request to relay a message, not part of answering the identity questions, so it is cut. Removed the dangling inline verse number 120."
+    }
+  ]
+}

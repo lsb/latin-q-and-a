@@ -1,0 +1,12 @@
+{
+  "source": "text/valeriusflaccus8.txt",
+  "pairs": [
+    {
+      "locus": "Valerius Flaccus, Argonautica 8.58-62",
+      "type": "direct-speech",
+      "question": "Quis rubor iste poli? quod tam lugubre refulsit sidus?",
+      "answer": "Ipsius en oculos et lumina torva draconis aspicis.",
+      "derivation": "Jason, seeing the sudden flame and gleaming darkness, asks 'quis rubor iste poli? quod tam lugubre refulsit sidus?' (lines 58-60). The intervening speech tag 'ait, reddit trepido cui talia virgo:' is framing/narration and is dropped. Medea answers directly: the answer window ends at the first full stop ('aspicis.'); what follows ('ille suis haec vibrat fulgura cristis...') elaborates on the dragon and is cut. The dangling every-5-lines verse number 60 was stripped."
+    }
+  ]
+}

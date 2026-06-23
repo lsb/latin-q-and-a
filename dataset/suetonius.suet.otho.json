@@ -1,0 +1,12 @@
+{
+  "source": "text/suetonius/suet.otho.txt",
+  "pairs": [
+    {
+      "locus": "Suetonius, Otho 3",
+      "type": "authorial-rhetorical",
+      "question": "Cur Otho mentito sit exul honore?",
+      "answer": "Vxoris moechus coeperat esse suae.",
+      "derivation": "The disticho quoted by Suetonius poses a rhetorical question and answers it in the pentameter. The framing word 'quaeritis' (\"you ask\") narrates the asking and is dropped per the guidance on 'fortasse requiris'; remaining words kept contiguous and in source order. Question terminal '?' retained from source; answer is the full pentameter line. Other '?'-bearing items rejected: the Greek 'Ti gar moi kai makrois aulois?' has no answer and is not Latin; 'ubinam imperator esset requirentes' is an indirect question in narration with no quoted reply; 'Adiciamus vitae et hanc noctem!' is an exclamation, not an interrogative."
+    }
+  ]
+}

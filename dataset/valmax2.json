@@ -1,0 +1,33 @@
+{
+  "source": "text/valmax2.txt",
+  "pairs": [
+    {
+      "locus": "Valerius Maximus 2.2.3",
+      "type": "authorial-rhetorical",
+      "question": "Quis ergo huic consuetudini, qua nunc Graecis actionibus aures curiae exurdantur, ianuam patefecit?",
+      "answer": "Ut opinor, Molo rhetor, qui studia M. Ciceronis acuit.",
+      "derivation": "Author poses and answers his own question. Question is the verbatim interrogative sentence; first word capitalized. Answer cut at the full direct response 'Molo rhetor, qui studia M. Ciceronis acuit'; the following ':' introduces elaboration ('eum namque ante omnes... auditum constat') which is justification, not the direct answer, so it is excluded. 'ut opinor' is the author's hedged assertion, part of the answer, kept."
+    },
+    {
+      "locus": "Valerius Maximus 2.7.2",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo restituta continentia, quid repetita industria profecit?",
+      "answer": "Crebras scilicet uictorias et multa tropaea peperit ex eo hoste, cuius tergum sub ambitioso imperatore Romano militi uidere non contigerat.",
+      "derivation": "Author asks what restored discipline achieved and answers himself. Question is the verbatim interrogative sentence. Answer is the single sentence that follows, ending at the first full stop; it directly names the result (frequent victories and many trophies). First words capitalized; no interior content omitted."
+    },
+    {
+      "locus": "Valerius Maximus 2.8.2",
+      "type": "direct-speech",
+      "question": "Si dimicandum necne esset contrariis inter uos sententiis dissedissetis, utrum quod consul an quod praetor imperasset maius habiturum fuerit momentum?",
+      "answer": "Non facere se controuersiam quin priores partes consulis essent futurae.",
+      "derivation": "Calatinus questions Valerius. Dropped the asking-frame \"'quaero' inquit, 'Valeri, a te,\" (narration of the act of asking) and kept the operative interrogative (si-protasis plus utrum...an interrogative). Answer dropped the speech tag 'respondit Valerius'; the indirect-discourse reply directly concedes the consul's role was the greater. First words capitalized."
+    },
+    {
+      "locus": "Valerius Maximus 2.8.2",
+      "type": "direct-speech",
+      "question": "Si diuersa auspicia accepissetis, cuius magis auspicio staretur?",
+      "answer": "Item consulis.",
+      "derivation": "Calatinus' second question to Valerius. Dropped the frame \"'age deinde' inquit Calatinus,\". Question kept verbatim. Answer: the interposed speech tag 'respondit Valerius' was removed, leaving Valerius' own contiguous words 'item' and 'consulis' in source order, directly answering 'by whose auspices': the consul's. First word capitalized."
+    }
+  ]
+}

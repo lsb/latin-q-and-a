@@ -1,0 +1,19 @@
+{
+  "source": "text/tertullian/tertullian.genesis.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian (?), Carmen Genesis 99-102",
+      "type": "direct-speech",
+      "question": "Dic ubi nunc degas?",
+      "answer": "O Domine, adfatus pavido sub corde tremisco, Magne, tuos nudusque metu frigente fatigor.",
+      "derivation": "God addresses the dismayed Adam; the question is his direct interrogative 'Dic ubi nunc degas?' (real interrogative with 'ubi'). The intervening narration 'respondit talia supplex' is framing of the reply and is dropped. The answer is Adam's two-line spoken reply explaining where/how he is (trembling and naked in fear), which genuinely answers the question. Quoted contiguously through the full stop after 'fatigor.'"
+    },
+    {
+      "locus": "Tertullian (?), Carmen Genesis 103-106",
+      "type": "direct-speech",
+      "question": "Quis poma dedit noxalia vobis?",
+      "answer": "Tradidit haec mulier, dum dicit lumina promptim candenti perfusa die liquidumque sorenum adfulsisse sibi solemque et sidera caeli.",
+      "derivation": "God's direct interrogative 'quis poma dedit noxalia vobis?' (real interrogative with 'quis'). The speech tag 'Tum Dominus:' is framing and is dropped; the question's first word is capitalized. The answer 'Tradidit haec mulier...' directly answers who gave the fruit (the woman), and continues contiguously through the sentence reporting the woman's account, ending at the full stop after 'caeli.' The source's printed reading 'sorenum' (line 105) is kept verbatim."
+    }
+  ]
+}

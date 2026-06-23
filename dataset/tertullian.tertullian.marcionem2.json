@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.marcionem2.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, Adversus Marcionem 2.24.8",
+      "type": "authorial-rhetorical",
+      "question": "Quis ergo erit mos paenitentiae divinae?",
+      "answer": "Nihil enim aliud intellegetur quam simplex conversio sententiae prioris, quae etiam sine reprehensione eius possit admitti, etiam in homine, nedum in deo, cuius omnis sententia caret culpa.",
+      "derivation": "Authorial question (\"what then is the manner of divine repentance?\") answered by the author himself. Cut the opening preamble 'Iam relucet, si non ad humanas condiciones eam referas.' which deflects rather than answers; advanced the answer start to the operative sentence beginning 'Nihil enim aliud intellegetur...'. Ended the answer at the first full stop ('...caret culpa.'); what follows ('Nam et in Graeco sono paenitentiae nomen...') is further elaboration on the Greek term, so it was excluded."
+    }
+  ]
+}

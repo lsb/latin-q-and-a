@@ -1,0 +1,12 @@
+{
+  "source": "text/valmax4.txt",
+  "pairs": [
+    {
+      "locus": "Valerius Maximus 4.7.1",
+      "type": "direct-speech",
+      "question": "Quid? si te Gracchus templo Iouis optimi maximi faces subdere iussisset, obsecuturusne illius uoluntati propter istam, quam iactas, familiaritatem fuisti?",
+      "answer": "Numquam istud Gracchus imperasset.",
+      "derivation": "Laelius questions Blossius about his loyalty to Gracchus. Dropped the speech-tag framing 'atque is dixisset:' before the question and the interleaved 'inquit' in the answer; normalized initial capitalization ('quid'->'Quid', 'numquam'->'Numquam'). Question is a verbatim direct interrogative (note 'quid?' and the -ne in 'obsecuturusne'); answer is Blossius's verbatim direct reply, ending at the first full stop, after which narration resumes ('satis, immo etiam nimium...')."
+    }
+  ]
+}

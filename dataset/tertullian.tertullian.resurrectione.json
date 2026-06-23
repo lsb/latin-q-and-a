@@ -1,0 +1,26 @@
+{
+  "source": "text/tertullian/tertullian.resurrectione.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De Resurrectione Carnis 29.3-4 (quoting Ezekiel 37)",
+      "type": "direct-speech",
+      "question": "Fili hominis, si vivent ossa ista?",
+      "answer": "Adonai domine tu scis.",
+      "derivation": "Quoted Ezekiel dialogue embedded in the treatise. Dropped the speech tags 'Et ait ad me,' (before the question) and 'Et dixi,' (before the answer) as framing narration; the words quoted are God's question to the prophet and the prophet's reply. A genuine interrogative (will these bones live?) with a genuine answer (Lord, you know). Used the form at 29.3-4 ('ossa ista'); the same exchange recurs at 30.8 with 'ossa haec'."
+    },
+    {
+      "locus": "Tertullian, De Resurrectione Carnis 34.1",
+      "type": "authorial-rhetorical",
+      "question": "Cum ad hoc venisse se dicit ut quod periit salvum faciat, quid dicis perisse?",
+      "answer": "Hominem sine dubio.",
+      "derivation": "Author poses a question to his interlocutor and answers it himself. Kept the verbatim setup 'Cum ad hoc venisse se dicit ut quod periit salvum faciat' so the referent of 'perisse' (what perished) is intelligible; dropped only the opening 'In primis'. The interrogative is 'quid dicis perisse?'; the answer 'Hominem sine dubio' (Man, without doubt) directly answers. Stopped at the first full stop, before the next question 'Totumne an ex parte?'."
+    },
+    {
+      "locus": "Tertullian, De Resurrectione Carnis 44.5",
+      "type": "authorial-rhetorical",
+      "question": "Cur autem mortificationem domini circumferimus in corpore?",
+      "answer": "Ut et vita manifestetur.",
+      "derivation": "Author asks 'cur...?' and answers from the Pauline text. Dropped the framing 'inquit' interjected in the answer ('Ut et vita, inquit, manifestetur'), leaving the speaker's own words contiguous. Stopped at the first full stop; the following 'Ubi? In corpore...' chain elaborates and is omitted."
+    }
+  ]
+}

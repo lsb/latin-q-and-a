@@ -1,0 +1,12 @@
+{
+  "source": "text/statius/silvae2.txt",
+  "pairs": [
+    {
+      "locus": "Statius, Silvae 2.3.35-37",
+      "type": "authorial-rhetorical",
+      "question": "Quid faceret subito deceptus praedo?",
+      "answer": "Nec altis credere corpus aquis hirtae sibi conscius audet pellis, et a tenero nandi rudis.",
+      "derivation": "Authorial-rhetorical: the poet asks what the cheated Pan could do, then answers with the narration of his helplessness. Answer window is the question's reply up to the first full stop (after 'rudis'); what follows ('omnia questus / immitem Bromium...') turns from answering to fresh narrative action and is excluded. Inline verse number '35' stripped from the line; no other scaffolding present."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/statius/theb11.txt",
+  "pairs": [
+    {
+      "locus": "Thebaid 11.620-622",
+      "type": "authorial-rhetorical",
+      "question": "Quisnam fuit ille deorum, qui stetit orantem iuxta praereptaque uerba dictauit Fatis?",
+      "answer": "Furor illa et mouit Erinys et pater et genetrix et regna oculique cadentes.",
+      "derivation": "Oedipus, lamenting over his slain sons, poses a self-answered (rhetorical) question and immediately answers it himself. Question span is the interrogative 'quisnam fuit ille deorum... dictauit Fatis?' verbatim. The answer is the contiguous span naming the agents that prompted his curse, ending at 'cadentes'; I cut before the following emphatic coda and oath 'nil ego: per Ditem iuro dulcesque tenebras...' which turns from answering to a digressive oath. First-word capitalization normalized ('quisnam' -> 'Quisnam', 'furor' -> 'Furor'); terminal ';' after 'cadentes' normalized to '.'."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/smarius.txt",
+  "pairs": [
+    {
+      "locus": "Smarius, Amorum Monobiblion II (Basium Matutinum) 13-14",
+      "type": "authorial-rhetorical",
+      "question": "Quid me surgere vult?",
+      "answer": "Iuxta mox ipsa iacebat, et nova nos monuit bella movere dies.",
+      "derivation": "The author poses his own rhetorical question 'Quid me surgere vult?' (why does she want me to get up?) and answers it himself in the following couplet: she soon lay down beside him and the new day urged them to wage love's wars. Window starts at the question and ends at the full stop closing 'movere dies'. The next line ('Quam mea flammiferis haeserunt labra labellis!') is exclamatory elaboration, not part of the answer, so it is cut. Laura's preceding imperative speech ('Sicine te dormire iuvat? ... munus obi!') contains only rhetorical questions inside a command and is not used; the speech-tag 'ait' is not in this span."
+    }
+  ]
+}

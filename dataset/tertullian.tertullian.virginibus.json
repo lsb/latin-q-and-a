@@ -1,0 +1,19 @@
+{
+  "source": "text/tertullian/tertullian.virginibus.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De virginibus velandis 4.4",
+      "type": "authorial-rhetorical",
+      "question": "Divisa est mulier et virgo. Quare?",
+      "answer": "Quoniam innupta, id est virgo, cogitat ea quae sunt domini, ut sit sancta et corpore et spiritu, nupta autem, id est non virgo, cogitat quomodo placeat viro.",
+      "derivation": "Author quotes the Pauline division (Divisa est, inquit, mulier et virgo) and poses Quare?; the framing speech tag 'inquit' is dropped, the prior sentence kept so 'Quare?' has its referent. The answer is the immediately following 'quoniam' clause that genuinely explains the division; first-word capitalized and the stray editorial comma in 'quae, sunt' not reproduced. Stops at the first full stop, before 'Haec erit interpretatio divisionis illius...' which begins a new point."
+    },
+    {
+      "locus": "Tertullian, De virginibus velandis 5.5",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo tunc vocabatur?",
+      "answer": "Atquin quotienscumque in scriptura nominatur, mulier appellatur, antequam nupta, et numquam virgo, cum virgo; hoc nomen tum unum illi fuit, et quando nihil prophetico modo dictum est.",
+      "derivation": "Author asks what Eve was called before marriage and answers that Scripture always calls her 'mulier'. The answer runs to the first full stop (after 'dictum est'); the next sentence ('Nam cum scriptura refert fuisse nudos duos...') begins fresh scriptural support rather than continuing the direct answer. No framing to strip; first word of the question already capitalized."
+    }
+  ]
+}

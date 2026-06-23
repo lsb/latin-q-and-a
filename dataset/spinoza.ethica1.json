@@ -1,0 +1,26 @@
+{
+  "source": "text/spinoza.ethica1.txt",
+  "pairs": [
+    {
+      "locus": "Spinoza, Ethica 1, Propositio 15 Scholium",
+      "type": "authorial-rhetorical",
+      "question": "Cur nos ex natura ita propensi simus ad dividendam quantitatem?",
+      "answer": "Quantitas duobus modis a nobis concipitur, abstracte scilicet sive superficialiter prout nempe ipsam imaginamur vel ut substantia, quod a solo intellectu fit.",
+      "derivation": "Spinoza poses and answers his own question. Dropped the asking-frame 'Si quis tamen jam quaerat' and capitalized 'Cur'; dropped the answering-frame 'ei respondeo quod' and capitalized 'Quantitas'. Answer ends at the first full stop ('a solo intellectu fit.'); what follows ('Si itaque ad quantitatem attendimus...') elaborates the two modes rather than answering the why-question."
+    },
+    {
+      "locus": "Spinoza, Ethica 1, Appendix",
+      "type": "authorial-rhetorical",
+      "question": "Si omnia ex necessitate perfectissimae Dei naturae sunt consecuta, unde ergo tot imperfectiones in natura ortae?",
+      "answer": "Rerum perfectio ex sola earum natura et potentia est aestimanda nec ideo res magis aut minus perfectae sunt propterea quod hominum sensum delectant vel offendunt, quod humanae naturae conducunt vel quod eidem repugnant.",
+      "derivation": "An objection ('Solent enim multi sic argumentari') that Spinoza poses and refutes. Question kept verbatim to its '?'; the trailing appositive list 'Videlicet rerum corruptio... etc.' merely exemplifies and was excluded to keep the interrogative self-contained. The reply opens with a non-answering preamble 'Sed ut modo dixi, facile confutantur.' which was skipped; the operative answer begins 'Nam rerum perfectio...' (the framing 'Nam' dropped, 'Rerum' capitalized) and ends at the first full stop ('quod eidem repugnant.')."
+    },
+    {
+      "locus": "Spinoza, Ethica 1, Appendix",
+      "type": "authorial-rhetorical",
+      "question": "Cur Deus omnes homines non ita creavit ut solo rationis ductu gubernarentur?",
+      "answer": "Quia ei non defuit materia ad omnia ex summo nimirum ad infimum perfectionis gradum creanda.",
+      "derivation": "Spinoza poses an objectors' question and answers it. Dropped the asking-frame 'Iis autem qui quaerunt' and capitalized 'Cur'; dropped the answering-frame 'nihil aliud respondeo quam' and capitalized 'Quia'. The original sentence runs on with 'vel magis proprie loquendo quia ipsius naturae leges adeo amplae fuerunt...', a restatement/elaboration of the same answer, so the window ends at 'creanda' (terminal punctuation normalized to a full stop)."
+    }
+  ]
+}

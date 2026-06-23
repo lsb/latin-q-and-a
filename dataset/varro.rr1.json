@@ -1,0 +1,26 @@
+{
+  "source": "text/varro.rr1.txt",
+  "pairs": [
+    {
+      "locus": "Varro, Res Rusticae 1.2.1-2",
+      "type": "direct-speech",
+      "question": "Quid vos hic? num feriae sementivae otiosos huc adduxerunt, ut patres et avos solebant nostros?",
+      "answer": "Nos vero, ut arbitror, eadem causa quae te, rogatio aeditumi.",
+      "derivation": "Varro asks (speech tag 'inquam' dropped from inside the question). Agrius answers, with the speech tag 'inquit Agrius' dropped. Question span is the two interrogative sentences of Varro's utterance; answer is Agrius's full reply sentence. Following the answer Agrius continues 'Itaque si ita est...' which moves to new business, so the window stops at the first full stop."
+    },
+    {
+      "locus": "Varro, Res Rusticae 1.2.3",
+      "type": "direct-speech",
+      "question": "Vos, qui multas perambulastis terras, ecquam cultiorem Italia vidistis?",
+      "answer": "Ego vero nullam arbitror esse quae tam tota sit culta.",
+      "derivation": "Agrasius asks; the trailing speech tag 'inquit' is dropped. Answer is Agrius's reply (narrative tag 'Agrius' dropped); cut at the first full stop, after which 'Primum cum orbis terrae divisus sit...' begins a long digression elaborating why, which is not part of the direct answer."
+    },
+    {
+      "locus": "Varro, Res Rusticae 1.12.2",
+      "type": "direct-speech",
+      "question": "Quid potero facere, si istius modi mi fundus hereditati obvenerit, quo minus pestilentia noceat?",
+      "answer": "Istuc vel ego possum respondere; vendas, quot assibus possis, aut si nequeas, relinquas.",
+      "derivation": "Fundanius asks (speech tag 'inquit' dropped). Agrius answers, explicitly marked 'inquit Agrius' (dropped); his reply is the full sentence. After this Scrofa ('At Scrofa, Vitandum, inquit...') resumes the treatise, so the answer window ends at Agrius's full stop."
+    }
+  ]
+}

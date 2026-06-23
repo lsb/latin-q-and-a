@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.deiudicio.txt",
+  "pairs": [
+    {
+      "locus": "Carmen de iudicio domini 107-117",
+      "type": "authorial-rhetorical",
+      "question": "An Deus omnipotens cuius sub nutu reguntur omnia, non valeat post mortem reddere vitam, aut aliquid rerum Dominum non posse videtur?",
+      "answer": "Cum sint cuncta Dei, reddit magis omnia tellus, iussa revocabit quidquid contexerat olim.",
+      "derivation": "Authorial rhetorical question (can the omnipotent God not restore life after death, is anything beyond the Lord's power?). The reply opens with a non-answering preamble that is itself a further rhetorical question (lines 110-115: 'si potuit tenebris... cur non ex aliquo possit conpingere notam... similemque suae iubeat resurgere formam?'), so the answer's start is advanced past it to the operative affirming declarative at lines 116-117, which directly answers the question: since all things are God's, the earth all the more restores them, recalling whatever it had buried. Window ends there before the poem turns to the seed/star analogies."
+    }
+  ]
+}

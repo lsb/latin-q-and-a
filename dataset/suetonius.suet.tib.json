@@ -1,0 +1,12 @@
+{
+  "source": "text/suetonius/suet.tib.txt",
+  "pairs": [
+    {
+      "locus": "Suetonius, Tiberius 59 (verse)",
+      "type": "authorial-rhetorical",
+      "question": "Non es eques; quare?",
+      "answer": "non sunt tibi milia centum",
+      "derivation": "Within the satirical verses quoted at [59], a single hexameter poses and answers its own rhetorical question: 'Non es eques; quare? non sunt tibi milia centum;'. The setup 'Non es eques' is kept so 'quare' has a referent (rule 2). The question span ends at 'quare?'; the answer is the immediately following clause 'non sunt tibi milia centum'. The trailing semicolon (a verse-line artifact) is dropped; the next line 'omnia si quaeras, et Rhodus exilium est.' is a separate sentence and is omitted from the answer window."
+    }
+  ]
+}

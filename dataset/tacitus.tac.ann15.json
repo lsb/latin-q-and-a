@@ -1,0 +1,26 @@
+{
+  "source": "text/tacitus/tac.ann15.txt",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annals 15.25",
+      "type": "direct-speech",
+      "question": "Quo in statu Armenia esset?",
+      "answer": "Omnes inde Romanos excessisse.",
+      "derivation": "Tacitus narrates an explicit Q&A: 'interrogatus centurio, qui cum legatis advenerat, quo in statu Armenia esset, omnes inde Romanos excessisse respondit.' Dropped the framing 'interrogatus centurio, qui cum legatis advenerat,' (who is asked) and the speech verb 'respondit'; normalized capitalization and added '?'. The indirect question 'quo in statu Armenia esset' is the genuine interrogative; the reply 'omnes inde Romanos excessisse' directly answers it. Stops at the full stop; what follows ('tum intellecto barbarorum inrisu...') is Tacitus' own narration of Nero's reaction."
+    },
+    {
+      "locus": "Tacitus, Annals 15.67",
+      "type": "direct-speech",
+      "question": "Quibus causis ad oblivionem sacramenti processisset?",
+      "answer": "Oderam te. Nec quisquam tibi fidelior militum fuit, dum amari meruisti: odisse coepi, postquam parricida matris et uxoris, auriga et histrio et incendiarius extitisti.",
+      "derivation": "Subrius Flavus, interrogated by Nero: 'interrogatusque a Nerone, quibus causis ad oblivionem sacramenti processisset, \"oderam te,\" inquit. \"nec quisquam...\"'. Dropped framing 'interrogatusque a Nerone,' and the speech tag 'inquit'; normalized capitalization and added '?' to the question. Kept the entire directly-quoted reply contiguous: it is all the 'causae' the question asks for and Tacitus flags it as verbatim ('ipsa rettuli verba'). Stops where the quotation ends; what follows ('ipsa rettuli verba, quia non...') is authorial comment."
+    },
+    {
+      "locus": "Tacitus, Annals 15.68",
+      "type": "direct-speech",
+      "question": "Cur in caedam suam conspiravisset?",
+      "answer": "Non aliter tot flagitiis eius subveniri potuisse.",
+      "derivation": "Sulpicius Asper, questioned by Nero: 'percunctanti Neroni, cur in caedam suam conspiravisset, breviter respondens non aliter tot flagitiis eius subveniri potuisse.' Dropped framing 'percunctanti Neroni,' and 'breviter respondens'; kept the edition's spelling 'caedam' verbatim; normalized capitalization and punctuation. The interrogative 'cur... conspiravisset' is answered directly by 'non aliter tot flagitiis eius subveniri potuisse.' Stops at the full stop; what follows ('tum iussam poenam subiit.') is narration."
+    }
+  ]
+}

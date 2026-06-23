@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.praescrip.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De praescriptione haereticorum 40.1-2",
+      "type": "authorial-rhetorical",
+      "question": "A quo intellectus interuertatur eorum quae ad haereses faciant?",
+      "answer": "A diabolo scilicet, cuius sunt partes interuertendi ueritatem qui ipsas quoque res sacramentorum diuinorum idolorum mysteriis aemulatur.",
+      "derivation": "Authorial self-posed question and answer. Dropped the framing 'Sed quaeritur,' ('but it is asked') that narrates the asking, leaving the interrogative itself (capitalization normalized). Answer is sentence [2] in full, ending at the first full stop after 'aemulatur'; section [3] 'Tingit et ipse...' then digresses into examples of the devil's mimicry, so it is excluded."
+    }
+  ]
+}

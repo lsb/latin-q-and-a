@@ -1,0 +1,33 @@
+{
+  "source": "text/valeriusflaccus5.txt",
+  "pairs": [
+    {
+      "locus": "Argonautica 5.282-291",
+      "type": "direct-speech",
+      "question": "Magna pariter quos mole petamus? cernis, Colchos habeant quae proelia quique nunc status. hinc Perses, illinc non viribus aequis apparat Aeetes aciem. quibus addimur armis?",
+      "answer": "Stat pectore fixum Aeetae sociare manus.",
+      "derivation": "Pallas (virgo) asks Iuno which side to support; speech tag 'ait' dropped from the question, leaving the utterance contiguous (cernis...Colchos are adjacent in source once 'ait' is removed). Iuno's reply opens with the non-answering preamble 'dimitte metus, ne proelia forte hinc tibi grata negem' (plus an editorial gap '< . . . >' and a digression about her sweat/horses) which does not answer 'whose arms'; advanced the answer's start to the operative sentence 'stat pectore fixum Aeetae sociare manus.' (cut ends there at the full stop; what follows is 'scio perfida regis corda...' elaboration)."
+    },
+    {
+      "locus": "Argonautica 5.355-364",
+      "type": "direct-speech",
+      "question": "Quae manus haec, certo ceu me petat agmine, mater, advenit haud armis, haud umquam cognita cultu?",
+      "answer": "Non tibi ab hoste minae nec vis ulla propinquat nec metus: externo iam flammea murice cerno tegmina, iam vittas frondemque imbellis olivae. Graius adest, Graio sic cuncta simillima Phrixo.",
+      "derivation": "Medea asks her nurse what band approaches; trailing non-question sentence 'quaere fugam, precor, et tutos circumspice saltus' omitted from the question as it is an imperative plea, not the interrogative. Nurse Henioche answers; speech tag 'ait' dropped, editorial bracket '[te]' stripped keeping no extra words. Answer kept through 'Graius adest...Phrixo.' which directly identifies the approaching men as Greeks."
+    },
+    {
+      "locus": "Argonautica 5.552-557",
+      "type": "direct-speech",
+      "question": "O Iovis alma progenies, an patriam spes ulla videndi?",
+      "answer": "Nec ferus Aeetes, ut fama, nec aurea nobis terga negat, bello interea sed pressus iniquo auxilium petit.",
+      "derivation": "The Minyae ask Castor whether there is any hope of seeing home; the bracketing imperatives 'fare ... fare' (framing of the asking) dropped, leaving the contiguous interrogative 'o Iovis alma progenies, an patriam spes ulla videndi'. Castor's framing 'ille in mediis sic orsus Achivis' precedes; answer taken to the first full stop 'auxilium petit.' which answers the hope question (Aeetes does not refuse; cut before the following 'armatos dux...' logistical detail)."
+    },
+    {
+      "locus": "Argonautica 5.580-584",
+      "type": "direct-speech",
+      "question": "Quis procul ille virum nobis, quem balteus asper subligat et stricto stat proximus armiger arcu ceu pugnam paret et positas confundere mensas?",
+      "answer": "Quem rogitas, Carmeius.",
+      "derivation": "Jason (Aesonides) asks Aeetes who a particular warrior is; Aeetes answers, with speech tag 'ait' dropped after 'Carmeius.' The reply 'quem rogitas, Carmeius' is the speaker's own contiguous words naming the man; cut before the following elaboration 'mos comminus arma semper habere viro...'."
+    }
+  ]
+}

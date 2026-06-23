@@ -1,0 +1,12 @@
+{
+  "source": "text/theodosius/theod07.txt",
+  "pairs": [
+    {
+      "locus": "CTh.7.20.2pr",
+      "type": "direct-speech",
+      "question": "Constantine aug, quo nos veteranos factos, si nullam indulgentiam habemus?",
+      "answer": "Magis magisque conveteranis meis beatitudinem augere debeo quam minuere.",
+      "derivation": "Only genuine Q&A in this legal book: a transcribed exchange at an imperial audience (CTh.7.20.2pr). Stripped the framing speech tags 'adunati veterani exclamaverunt:' before the question and 'constantinus a. dixit:' before the answer. The veterans' shout 'quo... habemus?' is a real interrogative (quo = to what end), answered directly by Constantine declaring he intends to increase, not diminish, their wellbeing; answer ends at its first full stop. Dropped the later exchange 'quae sunt maxime munera... gravant?' / 'ipse perspicis scilicet.' because the reply evades rather than answers (no actual burdens named); and dropped Victorinus's plea 'muneribus et oneribus... non sinamur' as a statement, not a question."
+    }
+  ]
+}

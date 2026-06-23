@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.patientia.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De Patientia 10.6",
+      "type": "authorial-rhetorical",
+      "question": "Quid ergo credimus iudicem illum, si non et ultorem?",
+      "answer": "Hoc se nobis repromittit dicens: Vindictam mihi et ego uindicabo.",
+      "derivation": "Author poses a real interrogative (\"what then do we believe that judge to be, if not also an avenger?\") and answers it himself: God promises this very thing. Answer ends at the first full stop, cutting before the appended gloss \"id est: «patientiam mihi et ego patientiam remunerabo»\", which interprets rather than answers the question. The speech-framing \"dicens\" is retained because it is part of the author's answering assertion, not narration of an exchange between characters."
+    }
+  ]
+}

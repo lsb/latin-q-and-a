@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.baptismo.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De Baptismo 2.2",
+      "type": "authorial-rhetorical",
+      "question": "Nonne mirandum est lavacro dilui mortem? Quia mirandum est, idcirco non creditur?",
+      "answer": "Atquin eo magis credendum est.",
+      "derivation": "Authorial rhetorical exchange. Kept the preceding interrogative 'nonne mirandum est lavacro dilui mortem?' as setup so that 'quia mirandum est' has its referent; the operative question is 'quia mirandum est, idcirco non creditur?'. Answer starts at 'atquin eo magis credendum est' (the direct retort) and stops there; the text continues after a colon with 'qualia enim decet esse opera divina nisi super omnem admirationem?', which is elaboration/justification, not the direct answer, so it is cut. Stripped the section marker '[2]' and the framing 'quid ergo?'; normalized capitalization and terminal punctuation."
+    }
+  ]
+}

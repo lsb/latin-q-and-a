@@ -1,0 +1,12 @@
+{
+  "source": "text/spinoza.ethica2.txt",
+  "pairs": [
+    {
+      "locus": "Spinoza, Ethica II, Scholium prop. 49 (fourth objection and reply)",
+      "type": "authorial-rhetorical",
+      "question": "Si homo non operatur ex libertate voluntatis, quid ergo fiet si in æquilibrio sit ut Buridani asina? Famene et siti peribit?",
+      "answer": "Homo in tali æquilibrio positus (nempe qui nihil aliud percipit quam sitim et famem, talem cibum et talem potum qui æque ab eo distant) fame et siti peribit.",
+      "derivation": "Question from the fourth objection (line 405): dropped the objecting-frame 'Quarto objici potest', kept the contiguous interrogative span 'si homo non operatur... Famene et siti peribit?', capitalized the first word. Cut at the question mark; what follows ('Quod si concedam... habet.') is the objector elaborating consequences, not the question itself. Answer from the reply (line 413): dropped the responding-frame 'Quod denique ad quartam objectionem attinet, dico me omnino concedere quod', capitalized 'homo', and stopped at the first full stop after 'peribit'. What follows ('Si me rogant an talis homo... vesani, etc.') is a further question-and-answer that digresses from the operative answer. The reply 'fame et siti peribit' directly answers 'Famene et siti peribit?'."
+    }
+  ]
+}

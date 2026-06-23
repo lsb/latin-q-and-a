@@ -1,0 +1,12 @@
+{
+  "source": "text/tacitus/tac.ann3.txt",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annals 3.54",
+      "type": "authorial-rhetorical",
+      "question": "Cur ergo olim parsimonia pollebat?",
+      "answer": "Quia sibi quisque moderabatur, quia unius urbis cives eramus.",
+      "derivation": "Within Tiberius's letter on sumptuary law (section [54]). The speaker poses the interrogative 'cur ergo olim parsimonia pollebat?' and answers it himself. Answer window: the two operative 'quia' clauses that directly answer the 'why'. Cut after 'eramus' (the next clause, 'ne inritamenta quidem eadem intra Italiam dominantibus', begins elaborating on conditions rather than answering the 'why' directly). Capitalization of the first word and terminal period normalized; the original semicolon after 'eramus' dropped."
+    }
+  ]
+}

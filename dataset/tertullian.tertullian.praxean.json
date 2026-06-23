@@ -1,0 +1,19 @@
+{
+  "source": "text/tertullian/tertullian.praxean.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, Adversus Praxean 7.5",
+      "type": "direct-speech",
+      "question": "Das aliquam substantiam esse sermonem, spiritu et sophia et ratione constructam?",
+      "answer": "Plane.",
+      "derivation": "Interlocutor's interrogative (introduced by 'ergo, inquis,' which is dropped as speech-framing) asks whether Tertullian grants the Word to be a substance constructed of spirit, wisdom and reason; Tertullian answers directly 'plane' ('certainly'). The source reads 'spirito' for 'spiritu' but the deterministic policy follows the author's word; first word capitalized and terminal '?' normalized. Answer is the single-word reply, ending before the elaboration 'non vis enim eum substantivum habere...'."
+    },
+    {
+      "locus": "Tertullian, Adversus Praxean 27.6",
+      "type": "authorial-rhetorical",
+      "question": "Quis deus in ea natus?",
+      "answer": "Sermo et spiritus qui cum sermone de patris voluntate natus est.",
+      "derivation": "Authorial rhetorical question and self-answer. The referent of 'in ea' (the virgin) is set by the immediately preceding clause 'sed ille qui in ea natus est deus'. Answer taken to the first full stop; the following sentence 'igitur sermo in carne...' begins a new digression on how the Word became flesh and is cut. First word capitalized; terminal punctuation normalized."
+    }
+  ]
+}

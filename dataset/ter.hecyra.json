@@ -1,0 +1,54 @@
+{
+  "source": "text/ter.hecyra.txt",
+  "pairs": [
+    {
+      "locus": "Terence, Hecyra 157",
+      "type": "direct-speech",
+      "question": "Ibatne ad Bacchidem?",
+      "answer": "Cotidie.",
+      "derivation": "Philotis asks Parmeno whether Pamphilus kept going to Bacchis (the preceding 'quid interea?' is a vaguer prompt; the operative interrogative is 'ibatne ad Bacchidem?'). Parmeno answers directly 'cotidie' (daily). Stops there; what follows ('sed ut fit, postquam...') is elaboration, not the direct answer. Speaker labels PH./PA. stripped."
+    },
+    {
+      "locus": "Terence, Hecyra 346",
+      "type": "direct-speech",
+      "question": "An venit Pamphilus?",
+      "answer": "Venit.",
+      "derivation": "Sostrata asks Parmeno whether Pamphilus has arrived. The framing 'quid ais?' (a speech-prompt) is dropped; the interrogative is 'an venit Pamphilus?'. Parmeno answers 'venit'. Stops before Sostrata's 'dis gratiam habeo' (her reaction, not the answer). Speaker labels SO./PAR. stripped."
+    },
+    {
+      "locus": "Terence, Hecyra 357",
+      "type": "direct-speech",
+      "question": "Quid morbi est?",
+      "answer": "Febris.",
+      "derivation": "Sostrata asks Pamphilus what the illness is; he answers 'febris' (fever). Clean real interrogative with direct answer. The following 'SO. cotidiana? PAM. ita aiunt' is a separate exchange. Speaker labels SO./PAM. stripped."
+    },
+    {
+      "locus": "Terence, Hecyra 357",
+      "type": "direct-speech",
+      "question": "Cotidiana?",
+      "answer": "Ita aiunt.",
+      "derivation": "Sostrata asks whether the fever is a daily (recurring) one; Pamphilus answers 'ita aiunt' (so they say). The capitalization of 'cotidiana' is normalized and a question mark applied. Speaker labels SO./PAM. stripped."
+    },
+    {
+      "locus": "Terence, Hecyra 458-459",
+      "type": "direct-speech",
+      "question": "Quid reliquit Phania consobrinus noster?",
+      "answer": "Sane hercle homo voluptati obsequens fuit dum vixit; et qui sic sunt haud multum heredem iuvant, sibi vero hanc laudem relinquont \"vixit, dum vixit, bene.\"",
+      "derivation": "Laches asks what their cousin Phania left as inheritance; the framing 'cedo' (an imperative prompt 'tell me') is dropped, leaving the real interrogative. Pamphilus's reply answers wryly that Phania left nothing of substance, only the praise 'he lived well while he lived'. Window ends at the full stop after 'bene'; what follows ('LA. tum tu igitur...') is Laches's rejoinder. Editorial brackets in 'f<ui>t' stripped to 'fuit'. Verse numbers (460) and speaker labels stripped."
+    },
+    {
+      "locus": "Terence, Hecyra 879",
+      "type": "direct-speech",
+      "question": "Quis id ait?",
+      "answer": "Socrus.",
+      "derivation": "Bacchis asks who says this (that Pamphilus keeps her); Laches answers 'socrus' (the mother-in-law). Clean interrogative and direct one-word answer. The following 'BA. men? LA. te ipsam' is a separate exchange. Speaker labels BA./LA. stripped."
+    },
+    {
+      "locus": "Terence, Hecyra 879",
+      "type": "direct-speech",
+      "question": "Men?",
+      "answer": "Te ipsam.",
+      "derivation": "Bacchis asks 'me?' (i.e. is it I whom the daughter abducted/whom this concerns); Laches answers 'te ipsam' (you yourself). Stops before 'et filiam abduxit suam', which begins new content. Capitalization normalized. Speaker labels BA./LA. stripped."
+    }
+  ]
+}

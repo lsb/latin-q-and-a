@@ -1,0 +1,19 @@
+{
+  "source": "text/statius/achilleid1.txt",
+  "pairs": [
+    {
+      "locus": "Statius, Achilleid 1.61-93",
+      "type": "whole-speech-as-question",
+      "question": "O magni genitor rectorque profundi, aspicis in qualis miserum patefeceris usus aequor? eunt tutis terrarum crimina velis, ex quo iura freti maiestatemque repostam rupit Iasonia puppis Pagasaea rapina. en aliud furto scelus et spolia hospita portans navigat iniustae temerarius arbiter Idae, eheu quos gemitus terris caeloque daturus, quos mihi! sic Phrygiae pensamus gaudia palmae, hi Veneris mores, hoc gratae munus alumnae. has saltem—num semideos nostrumque reportant Thesea?—si quis adhuc undis honor, obrue puppes, aut permitte fretum! nulla inclementia: fas sit pro nato timuisse mihi. da pellere luctus, nec tibi de tantis placeat me fluctibus unum litus et Iliaci scopulos habitare sepulcri.",
+      "answer": "Ne pete Dardaniam frustra, Theti, mergere classem; fata vetant: ratus ordo deis miscere cruentas Europamque Asiamque manus, consultaque belli Iuppiter et tristes edixit caedibus annos.",
+      "derivation": "Whole speech of Thetis is an extended plea opening with a real interrogative to Neptune (aspicis... aequor?) and demanding obrue puppes, aut permitte fretum (sink/grant the sea). Dropped the framing 'cum Thetis:' before the speech and the narration 'Orabat laniata genas... sed rector aquarum invitat curru dictisque ita mulcet amicis:' before the reply. Inline every-5-lines verse numbers (65, 70, 75, 80, 85) stripped. Answer is Neptune's operative first sentence, refusing the plea and giving the reason (fata vetant... the fates and Jupiter forbid); it ends at the first full stop after 'caedibus annos', before he turns to consoling elaboration (Pelea iam desiste queri...)."
+    },
+    {
+      "locus": "Statius, Achilleid 1.714-720",
+      "type": "direct-speech",
+      "question": "Qua nunc verum ratione paramus scrutari? namque ambiguo sub pectore pridem verso, quid inbelles thyrsos mercatus et aera urbibus in mediis Baccheaque terga mitrasque huc tuleris varioque aspersas nebridas auro? hisne gravem Priamo Phrygibusque armabis Achillem?",
+      "answer": "Haec tibi, virginea modo si Lycomedis in aula est fraude latens, ultro confessum in proelia ducent Peliden.",
+      "derivation": "Diomedes (Tydides) asks Ulysses by what method they will find the truth and to what end he bought the Bacchic props. Dropped the framing 'prior occupat acer Tydides:' before the question and 'illi subridens Ithacus paulum ore remisso:' before the reply. Inline verse number (715, 720) stripped. Answer is Ulysses' operative first clause: these gifts will lead Achilles out, confessed, to battle. Ended at 'Peliden' (semicolon normalized to a full stop) where he turns from answering the method to logistical instructions (tu cuncta citus de puppe memento ferre...)."
+    }
+  ]
+}

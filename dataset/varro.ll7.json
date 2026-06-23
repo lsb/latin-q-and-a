@@ -1,0 +1,19 @@
+{
+  "source": "text/varro.ll7.txt",
+  "pairs": [
+    {
+      "locus": "Plautus, Curculio (quoted at Varro, De Lingua Latina 7.2)",
+      "type": "direct-speech",
+      "question": "Sed quid tibi est?",
+      "answer": "Lien enecat, renes dolent, pulmones distrahuntur.",
+      "derivation": "A two-speaker exchange from Curculio quoted by Varro to illustrate dividia/distrahuntur. The editorial speaker-change dash (—) was stripped as a drama marker. Question kept as the first speaker's full contiguous utterance (interrogative quid tibi est?). Answer is the second speaker's reply, which genuinely answers by listing the ailments; no preamble to skip and nothing follows the reply in the quoted fragment."
+    },
+    {
+      "locus": "Varro, De Lingua Latina 7.4 (poetic fragment)",
+      "type": "direct-speech",
+      "question": "Quid noctis videtur?",
+      "answer": "In altisono caeli clipeo temo superat stellas sublimen agens etiam atque etiam noctis iter.",
+      "derivation": "Interrogative quid noctis videtur? ('what time of night is it?') answered by a description of the temo (Wain) overtopping the stars, which Varro glosses as indicating deep night (Hic multam noctem ostendere volt a temonis motu). The editorial speaker-change dash was stripped; verse line-initial capitals (In, Caeli, Stellas, Atque) were lowercased as presentation normalization. Answer is the full contiguous reply through the verse fragment; nothing of the utterance was ellipted."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "text/tertullian/tertullian.propheta.txt",
+  "pairs": [
+    {
+      "locus": "Carmen de Iona Propheta 76-84",
+      "type": "direct-speech",
+      "question": "Quid nos igitur tibi culpae? Quid fore nunc? Quonam placabimus aequora facto?",
+      "answer": "Quin date praecipitem causam, navemque levantes unum onus hoc magnum pelago iactate volentem.",
+      "derivation": "The terrified sailors ask Jonah how to appease the sea (Quid nos... tibi culpae? ... Quonam placabimus aequora facto?). Line 78 (Namque magis... tumebant) is narration and line 79 (Tunc domini vates ingesta spiritus infit) is the speech tag, both dropped. Jonah's reply opens with En ego tempestas... nulla dei spes (80-82), which identifies him as the cause but does not yet state the deed; that preamble (containing an interior 'inquit' tag) is skipped, advancing the answer start to the operative imperative that actually answers 'by what deed': Quin date... iactate volentem (83-84), telling them to throw him into the sea. Span ends at the full stop closing the speech."
+    }
+  ]
+}

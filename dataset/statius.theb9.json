@@ -1,0 +1,12 @@
+{
+  "source": "text/statius/theb9.txt",
+  "pairs": [
+    {
+      "locus": "Statius, Thebaid 9.779-797",
+      "type": "direct-speech",
+      "question": "Quonam usque moram lucrabere fati, o multum meritos puer orbature parentes? quin etiam menti tumor atque audacia gliscit, congressus dum nemo tuos pugnamque minorem dignatur bellis, iramque relinqueris infra. i, repete Arcadiam mixtusque aequalibus illic, dum ferus hic uero desaeuit puluere Mauors, proelia lude domi: quodsi te maesta sepulcri fama mouet, dabimus leto moriare uirorum!",
+      "answer": "Sera etiam in Thebas, quarum hic exercitus, arma profero; quisnam adeo puer, ut bellare recuset talibus? Arcadiae stirpem et fera semina gentis, non Thebana uides.",
+      "derivation": "Amphion taunts Parthenopaeus with the interrogative challenge 'quonam usque moram lucrabere fati...' and 'who dares fight such men?'; per whole-speech-as-question the entire taunt is quoted verbatim as the question (stripped framing 'Amphion ... infit', and dangling verse-numbers 780/785). Parthenopaeus's reply (framed by 'trux Atalantiades ... infit') answers it; the answer keeps the operative identity-assertion span 'Sera etiam ... non Thebana uides' (terminal colon normalized to period) and cuts at 'non Thebana uides', dropping the following elaboration on his upbringing ('non me sub nocte silenti Thyias ... famulata Lyaeo edidit ...')."
+    }
+  ]
+}

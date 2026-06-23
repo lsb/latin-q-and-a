@@ -1,0 +1,12 @@
+{
+  "source": "text/vergil/ec3.txt",
+  "pairs": [
+    {
+      "locus": "Vergil, Eclogue 3.1-2",
+      "type": "direct-speech",
+      "question": "Dic mihi, Damoeta, cuium pecus? An Meliboei?",
+      "answer": "Non, verum Aegonos; nuper mihi tradidit Aegon.",
+      "derivation": "Menalcas asks Damoetas whose the flock is (interrogative 'cuium pecus? An Meliboei?'); Damoetas answers directly that it is Aegon's. Speaker labels 'Menalcas'/'Damoetas' stripped. Answer is the full single-line reply; no preamble to skip. The remaining poem is an amoebean singing contest of capping statements, boasts, and unanswered riddles (e.g. the 'Dic quibus in terris' challenges at 104-107, which Palaemon declines to judge), so no further genuine Q&A pairs."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source": "text/spinoza.ethica4.txt",
+  "pairs": [
+    {
+      "locus": "Spinoza, Ethica IV, propositio 36, scholium",
+      "type": "authorial-rhetorical",
+      "question": "Quid si summum bonum eorum qui virtutem sectantur, non esset omnibus commune? An non inde ut supra (vide propositionem 34 hujus) sequeretur quod homines qui ex ductu rationis vivunt hoc est (per propositionem 35 hujus) homines quatenus natura conveniunt, essent invicem contrarii?",
+      "answer": "Non ex accidenti sed ex ipsa natura rationis oriri ut hominis summum bonum omnibus sit commune, nimirum quia ex ipsa humana essentia quatenus ratione definitur, deducitur et quia homo nec esse nec concipi posset si potestatem non haberet gaudendi hoc summo bono.",
+      "derivation": "Spinoza poses a hypothetical objection as a real two-part interrogative and answers it himself. Dropped the asking-frame 'Si quis autem roget' before the question (it narrates the asking, like 'fortasse requiris'). Dropped the answering-frame 'Is hoc sibi responsum habeat' before the answer (it narrates the reply). Normalized the first word's capitalization in both fields. The answer runs to its first full stop ('...hoc summo bono.'); cut the following sentence 'Pertinet namque (per propositionem 47 partis II)...' which elaborates rather than answers. The parenthetical cross-references are Spinoza's own words, kept verbatim, not scaffolding artifacts."
+    },
+    {
+      "locus": "Spinoza, Ethica IV, propositio 72, scholium",
+      "type": "authorial-rhetorical",
+      "question": "Quid si homo se perfidia a præsenti mortis periculo posset liberare, an non ratio suum esse conservandi omnino suadet ut perfidus sit?",
+      "answer": "Eodem modo quod si ratio id suadeat, suadet ergo id omnibus hominibus atque adeo ratio omnino suadet hominibus ne nisi dolo malo paciscantur vires conjungere et jura habere communia hoc est ne revera jura habeant communia, quod est absurdum.",
+      "derivation": "Spinoza raises a question someone might press and answers it himself. Dropped the asking-frame 'Si jam quæratur' before the question (narrates the asking) and the answering-frame 'Respondebitur' before the answer (narrates the reply). Normalized capitalization of the first word in both fields. The reply is a single sentence to its full stop; nothing trimmed internally. The genuine interrogative 'an non ratio... suadet ut perfidus sit?' is answered by the operative 'si ratio id suadeat, suadet ergo id omnibus hominibus... quod est absurdum.'"
+    }
+  ]
+}

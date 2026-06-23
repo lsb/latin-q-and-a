@@ -1,0 +1,12 @@
+{
+  "source": "text/statius/silvae3.txt",
+  "pairs": [
+    {
+      "locus": "Statius, Silvae 3.3.8-12",
+      "type": "authorial-rhetorical",
+      "question": "Nam quis inexpleto rumpentem pectora questu complexumque rogos incumbentemque favillis aspiciens non aut primaevae funera plangi, coniugis aut nati modo pubescentia credat ora rapi flammis?",
+      "answer": "Pater est qui fletur.",
+      "derivation": "Authorial rhetorical question (quis ... non ... credat ...?) about who, seeing such grief, would not suppose a youth, spouse, or son was being mourned. The poet answers it himself in the very next sentence: 'pater est qui fletur' (it is a father who is wept for). Answer window ends at the full stop after 'fletur'; what follows ('adeste dique hominesque sacris...') turns from answering to invocation. The verse line-numbers (10) fall outside the quoted spans; no scaffolding inside either field."
+    }
+  ]
+}

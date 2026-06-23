@@ -1,0 +1,12 @@
+{
+  "source": "text/silius/silius7.txt",
+  "pairs": [
+    {
+      "locus": "Silius, Punica 7.429-432",
+      "type": "direct-speech",
+      "question": "Dicite, quae causa uiae? quisue ora repente peruasit pallor? cur scire futura libido?",
+      "answer": "Nosti nostros, praesage, timores.",
+      "derivation": "Proteus the seer questions the sea-nymphs; speech tag 'ait' (429) stripped, and first-word capitalization kept from 'Dicite'. Cymodoce's reply answers his 'quae causa uiae / quis pallor' with the operative first sentence 'Nosti nostros, praesage, timores' (their fears are the cause); cut before the following lines 'quid Tyriae classes... habitabimus antra?' which turn from answering to posing her own counter-questions."
+    }
+  ]
+}

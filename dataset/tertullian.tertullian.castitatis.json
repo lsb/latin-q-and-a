@@ -1,0 +1,26 @@
+{
+  "source": "text/tertullian/tertullian.castitatis.txt",
+  "pairs": [
+    {
+      "locus": "Tertullian, De Exhortatione Castitatis 2.5",
+      "type": "authorial-rhetorical",
+      "question": "Unde uenit ista uoluntas, qua quid uolumus aduersus dei uoluntatem?",
+      "answer": "Ex nobis ipsis.",
+      "derivation": "The author frames his own question with 'Porro si quaeris, unde uenit ista uoluntas... dicam: ex nobis ipsis.' Dropped the asking/answering framing 'Porro si quaeris' and 'dicam:' as meta-narration of the exchange; normalized capitalization of 'Unde' and added the terminal '?'. The answer is the verbatim 'ex nobis ipsis' (capitalized, with full stop). What follows the cut is 'Nec temere. Semini enim tuo respondeas necesse est...', which elaborates rather than answers, so the answer stops at 'ipsis'."
+    },
+    {
+      "locus": "Tertullian, De Exhortatione Castitatis 9.5",
+      "type": "authorial-rhetorical",
+      "question": "Et quando finis nubendi?",
+      "answer": "Post finem uiuendi.",
+      "derivation": "Verbatim authorial question 'Et quando finis nubendi?' immediately answered. Dropped the answer-framing verb 'Credo' (narration of the author's asserting), leaving the operative answer 'post finem uiuendi'; normalized capitalization and terminal full stop. This is the last sentence of the chapter, so nothing follows to cut."
+    },
+    {
+      "locus": "Tertullian, De Exhortatione Castitatis 7.3",
+      "type": "authorial-rhetorical",
+      "question": "Nonne et laici sacerdotes sumus?",
+      "answer": "Regnum quoque nos et sacerdotes deo et patri suo fecit.",
+      "derivation": "Verbatim authorial interrogative 'Nonne et laici sacerdotes sumus?' answered affirmatively by the cited scripture. Dropped the citation-framing 'Scriptum est:' as narration of the quoting; the operative answer is the quoted clause itself, which affirms that the laity are priests. Capitalization of 'Regnum' normalized and full stop kept. What follows ('Differentiam inter ordinem et plebem constituit...') turns to elaboration and is not part of the answer."
+    }
+  ]
+}

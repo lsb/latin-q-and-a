@@ -1,0 +1,19 @@
+{
+  "source": "text/varro.rr3.txt",
+  "pairs": [
+    {
+      "locus": "Varro, De Re Rustica 3.2",
+      "type": "direct-speech",
+      "question": "Dum diribentur suffragia, vis potius villae publicae utamur umbra, quam privati candidati tabella dimidiata aedificemus nobis?",
+      "answer": "Opinor non solum, quod dicitur, \"malum consilium consultori est pessimum\", sed etiam bonum consilium, qui consulit et qui consulitur, bonum habendum.",
+      "derivation": "Axius proposes (genuine yes/no interrogative 'vis...?') waiting in the shade of the villa publica; Varro answers affirmatively that good counsel benefits both parties (followed in the text by 'Itaque imus, venimus in villam'). Dropped framing tags 'Axius mihi,' / 'inquit,' from the question and 'inquam,' from the answer; normalized initial capital and terminal '?'. Answer ends at first full stop, before 'Itaque imus...'."
+    },
+    {
+      "locus": "Varro, De Re Rustica 3.2",
+      "type": "direct-speech",
+      "question": "Recipis nos in tuum ornithona, ubi sedes inter aves?",
+      "answer": "Ego vero te praesertim, quoius aues hospitales etiam nunc ructor, quas mihi apposuisti paucis ante diebus in Villa Reatina ad lacum Velini eunti de controversiis Interamnatium et Reatinorum.",
+      "derivation": "Axius asks Appius a genuine yes/no question (Recipis nos...?); Appius answers affirmatively ('Ego vero te praesertim' = yes, you especially). Dropped framing 'inquit,' from the question and 'Ille,' / 'inquit,' from the answer; normalized capitalization. Answer cut at first full stop ('...Reatinorum.'), before Appius turns to a fresh question 'Sed non haec... villa...?'."
+    }
+  ]
+}

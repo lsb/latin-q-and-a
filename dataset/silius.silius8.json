@@ -1,0 +1,12 @@
+{
+  "source": "text/silius/silius8.txt",
+  "pairs": [
+    {
+      "locus": "Silius Italicus, Punica 8.25-27",
+      "type": "authorial-rhetorical",
+      "question": "Quis lacerum curis et rerum extrema pauentem ad spes armorum et furialia uota reducit?",
+      "answer": "praescia Cannarum Iuno atque elata futuris.",
+      "derivation": "Authorial rhetorical question 'Quis ... reducit?' (who leads him back to hopes of arms?) answered by the poet in apposition: the subject is 'Iuno'. Stripped the section indent and the dangling inline verse number 25 from the line 'Quis lacerum curis et rerum extrema pauentem 25'. Normalized terminal punctuation to '?' on the question; answer ends at the full stop after 'futuris.'. The interrogative 'Quis' (nom. sg.) is genuinely answered by the nominative subject 'Iuno'."
+    }
+  ]
+}

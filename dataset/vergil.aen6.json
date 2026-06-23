@@ -1,0 +1,47 @@
+{
+  "source": "text/vergil/aen6.txt",
+  "pairs": [
+    {
+      "locus": "Aeneid 6.318-330",
+      "type": "direct-speech",
+      "question": "Dic, o uirgo, quid uult concursus ad amnem? quidue petunt animae? uel quo discrimine ripas hae linquunt, illae remis uada liuida uerrunt?",
+      "answer": "Anchisa generate, deum certissima proles, Cocyti stagna alta uides Stygiamque paludem, di cuius iurare timent et fallere numen. haec omnis, quam cernis, inops inhumataque turba est; portitor ille Charon; hi, quos uehit unda, sepulti.",
+      "derivation": "Aeneas asks the Sibyl about the crowd at the river. Dropped the speech tag 'ait' embedded in the question line. Answer begins at the Sibyl's reply 'Anchisa generate...'; cut after 'hi, quos uehit unda, sepulti.' (first full explanation of the crowd), before she goes on to 'nec ripas datur...' about the hundred years' wait."
+    },
+    {
+      "locus": "Aeneid 6.341-351",
+      "type": "direct-speech",
+      "question": "Quis te, Palinure, deorum eripuit nobis medioque sub aequore mersit? dic age. namque mihi, fallax haud ante repertus, hoc uno responso animum delusit Apollo, qui fore te ponto incolumem finisque canebat uenturum Ausonios. en haec promissa fides est?",
+      "answer": "Neque te Phoebi cortina fefellit, dux Anchisiade, nec me deus aequore mersit. namque gubernaclum multa ui forte reuulsum, cui datus haerebam custos cursusque regebam, praecipitans traxi mecum.",
+      "derivation": "Aeneas asks Palinurus which god drowned him. Dropped narration framing ('sic prior adloquitur'). Answer begins at Palinurus's reply (dropping the tag 'ille autem'): he answers no god drowned him, the torn-off tiller dragged him down. Cut after 'praecipitans traxi mecum.' (first full sentence), before he digresses to the storm and his plea for burial."
+    },
+    {
+      "locus": "Aeneid 6.500-512",
+      "type": "direct-speech",
+      "question": "Deiphobe armipotens, genus alto a sanguine Teucri, quis tam crudelis optauit sumere poenas? cui tantum de te licuit?",
+      "answer": "Sed me fata mea et scelus exitiale Lacaenae his mersere malis; illa haec monimenta reliquit.",
+      "derivation": "Aeneas asks the mutilated Deiphobus who inflicted such cruelty. Took only the interrogative opening of his address (dropping the following narrative 'mihi fama suprema nocte tulit...'). Skipped Deiphobus's non-answering preamble 'nihil o tibi, amice, relictum; omnia Deiphobo soluisti et funeris umbris.'; the operative answer names the culprit (the Spartan woman, Helen). Cut after 'illa haec monimenta reliquit.', before 'namque ut supremam falsa inter gaudia noctem egerimus...' (the long narrative of the fall of Troy)."
+    },
+    {
+      "locus": "Aeneid 6.560-566",
+      "type": "direct-speech",
+      "question": "Quae scelerum facies? O uirgo, effare; quibusue urgentur poenis? quis tantus plangor ad auras?",
+      "answer": "Cnosius haec Rhadamanthus habet durissima regna castigatque auditque dolos subigitque fateri quae quis apud superos furto laetatus inani distulit in seram commissa piacula mortem.",
+      "derivation": "Aeneas asks the Sibyl what crimes and punishments produce the cries from Tartarus. Skipped the Sibyl's preamble ('dux inclute Teucrum, nulli fas casto sceleratum insistere limen; sed me cum lucis Hecate praefecit Auernis, ipsa deum poenas docuit...'), which states she may not enter but was taught, not what is punished. Answer begins at the operative description 'Cnosius haec Rhadamanthus...'; cut after the first full sentence ('...in seram commissa piacula mortem.'), before the catalogue continues with 'continuo sontis ultrix...'."
+    },
+    {
+      "locus": "Aeneid 6.669-676",
+      "type": "direct-speech",
+      "question": "Dicite, felices animae tuque optime uates, quae regio Anchisen, quis habet locus? illius ergo uenimus et magnos Erebi tranauimus amnis.",
+      "answer": "Nulli certa domus; lucis habitamus opacis, riparumque toros et prata recentia riuis incolimus. sed uos, si fert ita corde uoluntas, hoc superate iugum, et facili iam tramite sistam.",
+      "derivation": "The Sibyl asks Musaeus and the blessed souls where Anchises dwells. Kept the verbatim setup 'illius ergo uenimus...' since it makes the question intelligible. Answer begins at Musaeus's reply (dropping the tag 'atque huic responsum paucis ita reddidit heros'): no fixed home, but cross this ridge and I will set you on an easy path. Whole reply is the answer; ends the speech at 'sistam.'"
+    },
+    {
+      "locus": "Aeneid 6.719-755",
+      "type": "direct-speech",
+      "question": "O pater, anne aliquas ad caelum hinc ire putandum est sublimis animas iterumque ad tarda reuerti corpora? quae lucis miseris tam dira cupido?",
+      "answer": "Igneus est ollis uigor et caelestis origo seminibus, quantum non noxia corpora tardant terrenique hebetant artus moribundaque membra.",
+      "derivation": "Aeneas asks Anchises why souls at Lethe should desire to return to bodies. Skipped Anchises's non-answering preamble 'dicam equidem nec te suspensum, nate, tenebo' (a promise to tell, not the answer) and the cosmological setup 'Principio caelum ac terras... mens agitat molem'. The operative answer to the desire for bodily life is the doctrine that a fiery vigor and heavenly origin animate the seeds, dulled by the body. Cut after 'moribundaque membra.', before 'hinc metuunt cupiuntque...' (elaboration of the consequences)."
+    }
+  ]
+}

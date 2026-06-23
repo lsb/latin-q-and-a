@@ -1,0 +1,33 @@
+{
+  "source": "text/ter.adel.txt",
+  "pairs": [
+    {
+      "locus": "Terence, Adelphoe 530-531",
+      "type": "direct-speech",
+      "question": "Pro di inmortales, facinus indignum, Geta, quod narras?",
+      "answer": "Sic est factum.",
+      "derivation": "Hegio's incredulous interrogative on hearing Geta's report is answered by Geta's confirmation 'Sic est factum.' Speaker labels (HE., GE.) stripped; a stray scaffolding glyph 't' standing where the terminal question mark belongs was normalized to '?'. Answer stops at the first full stop; Hegio then continues with a fresh exclamation 'EX illan familia tam inliberale esse ortum facinus!'"
+    },
+    {
+      "locus": "Terence, Adelphoe 552-555",
+      "type": "direct-speech",
+      "question": "An quicquam etiam est amplius?",
+      "answer": "Vero amplius: nam hoc quidem ferundum aliquo modost: amor persuasit, nox uinum adulescentia: humanumst.",
+      "derivation": "Demea asks whether there is anything graver still; Hegio answers affirmatively ('Vero amplius') and begins explaining. Speaker labels (DE., HE.) stripped. Window runs to the first full stop at 'humanumst.'; what follows ('ubi scit factum, ad matrem uirginis uenit ipsus ultro...') narrates the seduction rather than answering the yes/no question."
+    },
+    {
+      "locus": "Terence, Adelphoe 562-566",
+      "type": "direct-speech",
+      "question": "Pro certon tu istaec dicis?",
+      "answer": "Mater uirginis in mediost, ipsa uirgo, res ipsa, hic Geta praeterea, ut captust seruolorum, non malus neque iners: alit illas, solus omnem familiam sustentat: hunc abduce, uinci, quaere rem.",
+      "derivation": "Demea asks whether Hegio states this for certain; Hegio answers by adducing his proof (the mother, the girl, the matter itself, the witness Geta). Speaker labels (DE., HE.) stripped. The reply is a single sentence ending at the first full stop 'quaere rem.'; the interior colons are not sentence breaks."
+    },
+    {
+      "locus": "Terence, Adelphoe 905-906",
+      "type": "direct-speech",
+      "question": "Est Ctesipho intus?",
+      "answer": "Non est.",
+      "derivation": "Demea asks whether Ctesipho is inside; Syrus answers 'Non est.' (a deliberate lie, but it does answer). Speaker labels (DE., SY.) and the preceding vocative framing 'Eho, carnufex,' stripped. The question is self-contained; what follows ('Quor hic nominat?') is Demea's next question."
+    }
+  ]
+}

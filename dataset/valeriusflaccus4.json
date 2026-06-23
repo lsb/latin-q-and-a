@@ -1,0 +1,12 @@
+{
+  "source": "text/valeriusflaccus4.txt",
+  "pairs": [
+    {
+      "locus": "Valerius Flaccus, Argonautica 4.157-170",
+      "type": "direct-speech",
+      "question": "Bebryxne venis diversaque regi corda gerens--melior vulgi nam saepe voluntas--hostis an externis fato delatus ab oris? et tua cur Amycus caestu nondum obruit ora?",
+      "answer": "Me numquam leto dignatus et armis, sed lacrimis potius luctuque absumor inerti.",
+      "derivation": "Direct speech: the ductor (Jason) asks the mourning youth two interrogatives (whether he is a Bebryx/foreigner, and why Amycus has not yet crushed his face). Stripped the speech tag 'ductor ad haec:' before the question and 'ait' after the answer's first word. The reply opens with a textually corrupt, non-answering preamble narrating his name and origin ('nomen ait praedulce mihi ~nomen~que secutus Otreos unanimi... ego palmas implicui'), which contains crux markers (~...~) and does not answer; per answer-window guidance the start is advanced to the operative answering sentence 'me numquam leto dignatus et armis, sed lacrimis potius luctuque absumor inerti', which directly answers 'cur... nondum obruit' (Amycus never deemed him worthy of death). Window ends at the first full stop; what follows ('spes tamen, his fando si nuntius extitit oris...') digresses to his hopes of rescue."
+    }
+  ]
+}
