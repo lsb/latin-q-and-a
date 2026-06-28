@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Divine Nature & Trinity",
+    "description": "Scholastic and doctrinal questions on God's being, eternity, immutability, infinity, perfection, oneness, and goodness, and on the Trinity, the divine persons, processions, the Word, and the Holy Spirit."
+  },
+  {
+    "name": "Divine Knowledge & Providence",
+    "description": "How God knows himself, singulars, future contingents, and evils, together with providence, predestination, foreknowledge versus fate, and the divine ordering of good and evil powers."
+  },
+  {
+    "name": "Angels & Demons",
+    "description": "The nature, knowledge, movement, number, creation, and beatitude of angels, and the obstinacy, blindness, and punishment of demons."
+  },
+  {
+    "name": "Creation & Metaphysics",
+    "description": "Creation ex nihilo, prime matter, the eternity of the world, and abstract questions on being, the one, the convertibility of good and being, and the nature and cause of evil."
+  },
+  {
+    "name": "Soul, Intellect & Will",
+    "description": "The powers of the soul, appetite, the irascible and concupiscible, free will, grace and original sin, and how the human intellect knows singulars, itself, and the will."
+  },
+  {
+    "name": "Christ & Incarnation",
+    "description": "Why God became man and suffered, who suffered on the cross, Christ as universal savior and Prince of Peace, the temptation of Christ, the cross, and the penitent thief."
+  },
+  {
+    "name": "Last Things & Resurrection",
+    "description": "Resurrection of the body, final judgment separating just from impious, the saved seeing God, the punishments of the wicked, Antichrist, and the end of the age."
+  },
+  {
+    "name": "Sin, Penance & Mercy",
+    "description": "Forgiveness through contrition, the role of the priest, temporal versus eternal punishment, mercy toward the impious, repentance, and reconciliation with enemies."
+  },
+  {
+    "name": "Prayer, Devotion & the Soul",
+    "description": "Dialogues of the soul seeking God, how to invoke and find him, conversion, the bride seeking her beloved, and the efficacy of the just man's prayer."
+  },
+  {
+    "name": "Scripture & Exegesis",
+    "description": "Question-answer exchanges interpreting biblical texts and their figurative meaning, and the modes of sacred discourse such as history, prophecy, proverb, and type."
+  },
+  {
+    "name": "Saints, Miracles & Martyrdom",
+    "description": "Hagiographic exchanges on raised corpses, apostles and bishop-saints, desert fathers, endurance under torture for Christ's name, and Christian narrative of God's saving wonders."
+  },
+  {
+    "name": "Marriage, Virginity & Celibacy",
+    "description": "Patristic and humanist debate on the goods of matrimony versus virginity, why Christ abstained, sterile unions, betrothals, dowries, and the matching of spouses."
+  },
+  {
+    "name": "Pagan Gods & Mythology",
+    "description": "Apologetic interrogation and explanation of Greek and Roman deities and mythic figures (Jupiter, Saturn, Bacchus, Orpheus) as euhemerized men, allegorized elements, or what their fables signify."
+  },
+  {
+    "name": "Pagan Worship, Omens & Sacrifice",
+    "description": "Debates over sacrifices, divine images, oracles and haruspices, the cult of many gods versus the true God, sacrificial portents, and the origin of religious error."
+  },
+  {
+    "name": "Canon Law",
+    "description": "Decretal questions on ecclesiastical procedure, delegated judges, appeals, ordination and defects barring orders, benefices, tithes, and church property."
+  },
+  {
+    "name": "Roman & Civil Law",
+    "description": "Classical-law questions on legacies, actions in rem and in personam, stipulations, theft, and Isidoran definitions of ius naturale, civile, gentium, and lex."
+  },
+  {
+    "name": "Justice, Crime & Punishment",
+    "description": "Legal accusation and innocence, statutes, just deserts, crimes and their penalties, who deserves blame, and the legitimacy of killing or sparing."
+  },
+  {
+    "name": "Rhetoric, Oratory & Poetics",
+    "description": "Handbook theory of rhetoric and the orator, parts of a case, exordia and witnesses, the craft and ranking of poetry, and judgments on style and bombast."
+  },
+  {
+    "name": "Forensic & Political Oratory",
+    "description": "Courtroom and assembly attack speech, accusation versus innocence, denunciation of Catiline, suborned testimony, and senatorial deliberation over public policy and conspirators."
+  },
+  {
+    "name": "Grammar & Parts of Speech",
+    "description": "Schoolroom catechism defining and classifying the partes orationis and their accidents, declensions, conjugations, cases, and forms."
+  },
+  {
+    "name": "Etymology, Definition & Wordplay",
+    "description": "Word-origin and definitional exchanges (why a term, spelling, or vowel quantity is used), proper Latin diction, and trick answers, puns, or Greek-versus-Latin riddles."
+  },
+  {
+    "name": "Cosmology & Natural Science",
+    "description": "Natural-philosophical questions on the heavens, the moon's light, the sun's course and zodiac, the sphere, and physical phenomena such as lightning, thunder, winds, comets, and fire."
+  },
+  {
+    "name": "Arts, Crafts & Expertise",
+    "description": "Exchanges on the liberal disciplines and trades, assigning tasks to the proper specialist (doctor, helmsman, farmer, smith), and the desire to become wise in one's art."
+  },
+  {
+    "name": "Health, Body & Medicine",
+    "description": "Pairs on illness, pain, wounds, cures and remedies, the body's afflictions, food and diet, gluttony, and the management of one's physical condition."
+  },
+  {
+    "name": "War, Conquest & Empire",
+    "description": "Campaigns, battles, generals against Hannibal or Attila, captured towns and conquered peoples, soldiers' arms and feats, crusade, and Rome as lord of nations."
+  },
+  {
+    "name": "Tyranny, Kingship & Political Rule",
+    "description": "Rulership and its abuse, who should reign, choosing the worthiest heir, the fears and prerogatives of kings, and just rule versus cruelty and mere will."
+  },
+  {
+    "name": "Court Intrigue & Royal Conflict",
+    "description": "Dramatic and historical dialogue plotting assassination and usurpation, naming poisoners and accomplices, Merovingian feuds, broken pacts, and dynastic vengeance."
+  },
+  {
+    "name": "Crime, Atrocity & Bloodshed",
+    "description": "Pairs narrating or probing violent deeds: poisonings, murder of kin, slaughtered children, and the gruesome carnage of tragedy."
+  },
+  {
+    "name": "Magic & the Supernatural",
+    "description": "Witches, Thessalian sorceresses, animated statues, reanimated corpses, spells and transformations, and guarding the dead against the versipelles."
+  },
+  {
+    "name": "Adventure & Romance Narrative",
+    "description": "Picaresque and Gesta-Romanorum story dialogue of bandits, shipwrecks, captivity, kings' daughters as brides, pledges, proscriptions, and recognitions between travelers."
+  },
+  {
+    "name": "Identity, Lineage & Recognition",
+    "description": "Exchanges establishing who someone is, their name, homeland, parentage, age, descent, or staging the reunion of long-lost kin (De qua progenie es tu?)."
+  },
+  {
+    "name": "Love, Desire & Wit",
+    "description": "Erotic and amorous exchanges on Venus, Cupid and Psyche, courtesans and mistresses, the power of Amor, measuring affection, and bantering elegiac retorts."
+  },
+  {
+    "name": "Friendship & Social Conduct",
+    "description": "Dialogue on the definition, testing, and fidelity of true amicitia, greetings, hospitality, drinking companions, patronage, and faithfulness between companions."
+  },
+  {
+    "name": "Death, Grief & Consolation",
+    "description": "Reflective and dramatic exchanges on the brevity of life, the inescapability of death, suicide, summoning shades across the Styx, mourning, and consoling the bereaved."
+  },
+  {
+    "name": "Virtue, Wisdom & the Good Life",
+    "description": "Ethical questions defining the highest good, the vir bonus, the blessed life, the invulnerable sage, self-knowledge, and the difference between being called and being good."
+  },
+  {
+    "name": "Money, Wealth & Avarice",
+    "description": "Exchanges on prices, debts, commerce, true riches versus need, contentment with little, and avarice as going beyond enough or as poverty itself."
+  },
+  {
+    "name": "Passions, Anger & Self-Mastery",
+    "description": "Largely Stoic exchanges on whether the wise man should be angry, the management of wrath and vengeance, conquering vice, and raising the spirit above fortune."
+  },
+  {
+    "name": "Fate, Fortune & Providence",
+    "description": "Pairs on whether fate or chance governs life, why misfortune befalls good men, the divine ordering of events, and the proper stance toward Fortune."
+  },
+  {
+    "name": "Slavery, Servitude & Freedom",
+    "description": "Questions turning on enslaved or freed status, manumission, ransom, and the legal threshold between bondage and liberty."
+  },
+  {
+    "name": "Domestic & Everyday Affairs",
+    "description": "Mundane household and daily-life talk: greetings, whereabouts, errands, meals, dinner invitations, lodging, and small talk, plus mockery, jests, and barbed retorts."
+  }
+]
