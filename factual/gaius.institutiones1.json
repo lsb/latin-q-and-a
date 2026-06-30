@@ -42,9 +42,9 @@
     {
       "locus": "Gaius, Institutiones 1.8",
       "source_text": "Omne autem ius, quo utimur, vel ad personas pertinet vel ad res vel ad actiones.",
-      "question": "Ad quae tria omne ius quo utimur pertinere Gaius scribit?",
+      "question": "Ad quae tria omne ius quo utimur pertinet, ut Gaius initio Institutionum docet?",
       "answer": "Ad personas, ad res, ad actiones.",
-      "question_en": "To which three things does Gaius say all the law we use pertains?",
+      "question_en": "To which three things does all the law we use pertain, as Gaius teaches at the opening of the Institutes?",
       "answer_en": "To persons, to things, and to actions.",
       "derivation": "Gaius's tripartite division of all law into personae, res, actiones, the organizing scheme of the Institutes (and quoted later at Dig. 1.5.1). Closed-book, anchored to Gaius, three-part answer verbatim; indirect statement (pertinere) governed by scribit."
     },
