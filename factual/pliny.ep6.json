@@ -1,0 +1,124 @@
+{
+  "source": "text/pliny.ep6.txt",
+  "author": "Pliny the Younger",
+  "work": "Epistulae, liber VI",
+  "pairs": [
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.1",
+      "source_text": "C. Plinius Tacito suo s. Petis ut tibi avunculi mei exitum scribam, quo verius tradere posteris possis.",
+      "question": "Quis a Plinio minore petivit ut avunculi sui exitum scriberet, quo verius posteris traderetur?",
+      "answer": "Tacitus.",
+      "question_en": "Who asked Pliny the Younger to write an account of his uncle's death, so that it could be handed down to posterity more truly?",
+      "answer_en": "Tacitus.",
+      "derivation": "Addressee fact: the letter is to Tacitus ('C. Plinius Tacito suo s.'), who had requested the account ('Petis ut ... scribam, quo verius tradere posteris possis'). Closed-book: it is famously to the historian Tacitus that Pliny described the elder Pliny's death and the Vesuvius eruption. Entity-anchored, single-name answer."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.1",
+      "source_text": "Petis ut tibi avunculi mei exitum scribam, quo verius tradere posteris possis.",
+      "question": "Quo gradu necessitudinis vir ille, cuius mortem Plinius minor ad Tacitum perscripsit, scriptori coniunctus erat?",
+      "answer": "Avunculus eius erat (frater matris).",
+      "question_en": "By what degree of kinship was the man whose death Pliny the Younger described to Tacitus related to the writer?",
+      "answer_en": "He was his maternal uncle (his mother's brother).",
+      "derivation": "Relationship fact: the dead man is 'avunculus meus' (Pliny the Younger's maternal uncle), i.e. Pliny the Elder; avunculus = mother's brother (Plinia was the Elder's sister). Closed-book, well-known; entity-anchored to both Plinys and the eruption."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.4",
+      "source_text": "Erat Miseni classemque imperio praesens regebat.",
+      "question": "Cui rei Plinius maior, cum Vesuvius erumperet, Miseni praeerat?",
+      "answer": "Classi (praefectus classis erat).",
+      "question_en": "What was Pliny the Elder in command of at Misenum when Vesuvius erupted?",
+      "answer_en": "The fleet (he was prefect of the fleet).",
+      "derivation": "Command fact: 'Erat Miseni classemque imperio praesens regebat' — he was at Misenum commanding the fleet (praefectus classis Misenensis). Entity-anchored to Pliny the Elder and Misenum; short answer; closed-book."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.5",
+      "source_text": "Nubes — incertum procul intuentibus ex quo monte; Vesuvium fuisse postea cognitum est — oriebatur, cuius similitudinem et formam non alia magis arbor quam pinus expresserit.",
+      "question": "Ex quo monte nubem illam ortam esse postea cognitum esse Plinius tradit?",
+      "answer": "Ex Vesuvio.",
+      "question_en": "From which mountain does Pliny report it was afterwards recognized that the cloud had risen?",
+      "answer_en": "From Vesuvius.",
+      "derivation": "The eruption mountain: 'Vesuvium fuisse postea cognitum est.' Closed-book famous; entity-anchored, single place answer; the canonical fact of the letter."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.4",
+      "source_text": "Nonum Kal. Septembres hora fere septima mater mea indicat ei apparere nubem inusitata et magnitudine et specie.",
+      "question": "Quo die mater Plinii minoris fratri suo nubem inusitatam apparere indicavit?",
+      "answer": "A.d. nonum Kalendas Septembres.",
+      "question_en": "On what day did Pliny the Younger's mother point out to her brother the appearance of an extraordinary cloud?",
+      "answer_en": "On the ninth day before the Kalends of September (24 August).",
+      "derivation": "Date fact: 'Nonum Kal. Septembres' = a.d. IX Kal. Sept. = 24 August (AD 79), the traditional date of the eruption. The 'mater mea' (Pliny the Younger's mother) was sister of Pliny the Elder, hence 'fratri suo.' Entity-anchored, date answer; closed-book famous."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.5",
+      "source_text": "Nubes — incertum procul intuentibus ex quo monte; Vesuvium fuisse postea cognitum est — oriebatur, cuius similitudinem et formam non alia magis arbor quam pinus expresserit. Nam longissimo velut trunco elata in altum quibusdam ramis diffundebatur.",
+      "question": "Cui arbori potissimum similem fuisse nubem e Vesuvio ortam Plinius scribit?",
+      "answer": "Pinui.",
+      "question_en": "To what tree above all does Pliny say the cloud that rose from Vesuvius was most similar?",
+      "answer_en": "To a pine (an umbrella pine).",
+      "derivation": "Famous simile: the eruption column shaped 'non alia magis arbor quam pinus' — a long trunk spreading into branches at the top (umbrella pine). Translatable (a tree, not wordplay), entity-anchored, short answer; one of the best-known images in Latin literature."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.8",
+      "source_text": "Egrediebatur domo; accipit codicillos Rectinae Tasci imminenti periculo exterritae — nam villa eius subiacebat, nec ulla nisi navibus fuga -: ut se tanto discrimini eriperet orabat.",
+      "question": "Cuius mulieris codicillos accepit Plinius maior, quae perterrita ut se periculo eriperet orabat?",
+      "answer": "Rectinae (uxoris Tasci).",
+      "question_en": "Whose written note did Pliny the Elder receive, a woman who in terror begged to be rescued from the danger?",
+      "answer_en": "Rectina's (the wife of Tascus).",
+      "derivation": "Named appeal: 'accipit codicillos Rectinae Tasci ... ut se tanto discrimini eriperet orabat.' Rectina's message turned his scientific reconnaissance into a rescue mission. Entity-anchored named person, single answer."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.11",
+      "source_text": "Cunctatus paulum an retro flecteret, mox gubernatori ut ita faceret monenti 'Fortes' inquit 'fortuna iuvat: Pomponianum pete.'",
+      "question": "Quem virum petere Plinius maior gubernatorem iussit, cum diceret 'fortes fortuna iuvat'?",
+      "answer": "Pomponianum.",
+      "question_en": "Whom did Pliny the Elder order the helmsman to make for, saying 'fortune favors the brave'?",
+      "answer_en": "Pomponianus.",
+      "derivation": "Named destination: 'Pomponianum pete' — he sailed on to join Pomponianus (at Stabiae). Entity-anchored named person; short answer; the maxim 'fortes fortuna iuvat' anchors the moment."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.16.11-12",
+      "source_text": "'Fortes' inquit 'fortuna iuvat: Pomponianum pete.' Stabiis erat diremptus sinu medio — nam sensim circumactis curvatisque litoribus mare infunditur.",
+      "question": "In quo oppido Pomponianus, ad quem Plinius maior navigavit ibique periit, morabatur?",
+      "answer": "Stabiis.",
+      "question_en": "In what town was Pomponianus staying, the man to whom Pliny the Elder sailed and where he died?",
+      "answer_en": "At Stabiae.",
+      "derivation": "Place fact: 'Stabiis erat' (Pomponianus at Stabiae); the elder Pliny reached him there and the death narrative unfolds at Stabiae. Famous death place of Pliny the Elder; entity-anchored, single place answer."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.20.5",
+      "source_text": "Dubito, constantiam vocare an imprudentiam debeam — agebam enim duodevicensimum annum -: posco librum Titi Livi, et quasi per otium lego atque etiam ut coeperam excerpo.",
+      "question": "Quotum aetatis annum agebat Plinius minor, cum Vesuvius erumperet?",
+      "answer": "Duodevicensimum.",
+      "question_en": "Which year of his age was Pliny the Younger in when Vesuvius erupted?",
+      "answer_en": "His eighteenth year.",
+      "derivation": "Age fact: 'agebam enim duodevicensimum annum' — Pliny the Younger was in his eighteenth year at the eruption (AD 79). Entity-anchored, ordinal/number answer; closed-book."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.20.5",
+      "source_text": "posco librum Titi Livi, et quasi per otium lego atque etiam ut coeperam excerpo.",
+      "question": "Cuius scriptoris librum Plinius minor, Vesuvio iam erumpente, poposcit et legebat?",
+      "answer": "Titi Livi.",
+      "question_en": "Whose book did Pliny the Younger call for and read while Vesuvius was already erupting?",
+      "answer_en": "Livy's (Titus Livius).",
+      "derivation": "Famous detail: 'posco librum Titi Livi ... lego atque ... excerpo.' Entity-anchored to Pliny the Younger and Livy; single-name answer; closed-book."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.10.4",
+      "source_text": "Hic situs est Rufus, pulso qui Vindice quondam imperium asseruit non sibi sed patriae.",
+      "question": "Quem Verginius Rufus, ut in epitaphio quod sibi composuit apud Plinium legitur, pepulisse se gloriatur?",
+      "answer": "Vindicem.",
+      "question_en": "Whom does Verginius Rufus boast, in the epitaph he composed for himself and recorded by Pliny, to have driven out?",
+      "answer_en": "Vindex.",
+      "derivation": "Historical fact: in letter 6.10 about Verginius Rufus's tomb, his self-composed epitaph reads 'pulso ... Vindice' — having suppressed the revolt of Vindex (AD 68) he claimed empire 'not for himself but for the fatherland.' Entity-anchored, single-name answer; closed-book famous."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 6.29.9",
+      "source_text": "Accusavi Marium Priscum, qui lege repetundarum damnatus utebatur clementia legis, cuius severitatem immanitate criminum excesserat; relegatus est.",
+      "question": "Quem virum Plinius lege repetundarum accusavit, qui damnatus relegatus est?",
+      "answer": "Marium Priscum.",
+      "question_en": "Whom did Pliny prosecute under the extortion law, a man who was condemned and relegated?",
+      "answer_en": "Marius Priscus.",
+      "derivation": "First-person fact: 'Accusavi Marium Priscum ... lege repetundarum damnatus ... relegatus est.' The celebrated extortion trial of Marius Priscus, proconsul of Africa. Entity-anchored to Pliny and Marius Priscus; single-name answer; closed-book."
+    }
+  ]
+}
