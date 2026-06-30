@@ -1,0 +1,151 @@
+{
+  "source": "text/caesar/gall7.txt",
+  "author": "Caesar",
+  "work": "De Bello Gallico, liber VII",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Gallico 7.4",
+      "source_text": "Simili ratione ibi Vercingetorix, Celtilli filius, Arvernus, summae potentiae adulescens, cuius pater principatum Galliae totius obtinuerat et ob eam causam, quod regnum appetebat, ab civitate erat interfectus, convocatis suis clientibus facile incendit.",
+      "question": "Cuius gentis fuit Vercingetorix, dux Gallorum, secundum Caesarem?",
+      "answer": "Arvernus.",
+      "question_en": "Of what people was Vercingetorix, the leader of the Gauls, according to Caesar?",
+      "answer_en": "An Arvernian.",
+      "derivation": "Name/ethnicity fact for the central figure of Book 7. Anchored to Vercingetorix; predicate 'Arvernus' supported verbatim. Vercingetorix the Arvernian is closed-book staple history; single short answer."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.4",
+      "source_text": "Simili ratione ibi Vercingetorix, Celtilli filius, Arvernus, summae potentiae adulescens, cuius pater principatum Galliae totius obtinuerat et ob eam causam, quod regnum appetebat, ab civitate erat interfectus, convocatis suis clientibus facile incendit.",
+      "question": "Cuius filius fuit Vercingetorix Arvernus?",
+      "answer": "Celtilli.",
+      "question_en": "Whose son was Vercingetorix the Arvernian?",
+      "answer_en": "Of Celtillus.",
+      "derivation": "Relation fact anchored to Vercingetorix; single named answer 'Celtilli' supported verbatim by 'Celtilli filius'. The father Celtillus (who sought kingship and was killed) is a fixed genealogical fact; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.63",
+      "source_text": "Totius Galliae concilium Bibracte indicitur. Eodem conveniunt undique frequentes. Multitudinis suffragiis res permittitur: ad unum omnes Vercingetorigem probant imperatorem.",
+      "question": "Quem totius Galliae concilium Bibracte habitum imperatorem belli ad unum probavit?",
+      "answer": "Vercingetorigem.",
+      "question_en": "Whom did the council of all Gaul held at Bibracte unanimously approve as commander of the war?",
+      "answer_en": "Vercingetorix.",
+      "derivation": "Office/election fact anchored to the council at Bibracte; single named answer supported verbatim by 'ad unum omnes Vercingetorigem probant imperatorem'. The choice of Vercingetorix as leader of the revolt is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.3",
+      "source_text": "Vbi ea dies venit, Carnutes Cotuato et Conconnetodumno ducibus, desperatis hominibus, Cenabum signo dato concurrunt civesque Romanos, qui negotiandi causa ibi constiterant, in his Gaium Fufium Citam, honestum equitem Romanum, qui rei frumentariae iussu Caesaris praeerat, interficiunt bonaque eorum diripiunt.",
+      "question": "In quo oppido Carnutes, caede civium Romanorum facta, Gallici belli initium fecerunt?",
+      "answer": "Cenabi.",
+      "question_en": "In what town did the Carnutes, by massacring Roman citizens, make the beginning of the Gallic war?",
+      "answer_en": "At Cenabum (Genabum).",
+      "derivation": "Place fact anchored to the Carnutes; single town answer supported verbatim by 'Carnutes ... Cenabum ... civesque Romanos ... interficiunt'. The massacre at Cenabum, the spark of the revolt, is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.13",
+      "source_text": "Caesar ad oppidum Avaricum, quod erat maximum munitissimumque in finibus Biturigum atque agri fertilissima regione, profectus est, quod eo oppido recepto civitatem Biturigum se in potestatem redacturum confidebat.",
+      "question": "Quod oppidum maximum munitissimumque in finibus Biturigum fuisse Caesar scribit?",
+      "answer": "Avaricum.",
+      "question_en": "Which town does Caesar write was the largest and most fortified in the territory of the Bituriges?",
+      "answer_en": "Avaricum (Bourges).",
+      "derivation": "Place fact anchored to the Bituriges and Caesar; single town answer supported verbatim by 'Avaricum, quod erat maximum munitissimumque in finibus Biturigum'. Indirect statement (fuisse) under scribit; the storming of Avaricum is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.28",
+      "source_text": "Denique ex omni numero, qui fuit circiter milium XL, vix DCCC, qui primo clamore audito se ex oppido eiecerunt, incolumes ad Vercingetorigem pervenerunt.",
+      "question": "Cum Avaricum a Romanis expugnatum esset, ex circiter quadraginta milibus hominum quot vix incolumes ad Vercingetorigem pervenerunt?",
+      "answer": "Vix octingenti.",
+      "question_en": "When Avaricum was stormed by the Romans, out of about forty thousand people how many scarcely reached Vercingetorix safely?",
+      "answer_en": "Scarcely eight hundred.",
+      "derivation": "Number fact anchored to Avaricum and Vercingetorix; the count (vix DCCC out of circiter milium XL) supported verbatim. The slaughter at Avaricum, with barely 800 of 40,000 surviving, is the iconic figure Caesar gives; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.15",
+      "source_text": "Omnium consensu hac sententia probata uno die amplius XX urbes Biturigum incenduntur.",
+      "question": "Quot urbes Biturigum uno die, Vercingetorige suadente, a Gallis incensae sunt?",
+      "answer": "Amplius viginti.",
+      "question_en": "How many towns of the Bituriges were burned by the Gauls in one day, on Vercingetorix's plan?",
+      "answer_en": "More than twenty.",
+      "derivation": "Number fact anchored to the Bituriges and Vercingetorix's scorched-earth policy; answer 'amplius XX' supported verbatim. Distinctive count; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.34",
+      "source_text": "Exercitum in duas partes divisit: quattuor legiones in Senones Parisiosque Labieno ducendas dedit, sex ipse in Arvernos ad oppidum Gergoviam secundum flumen Elaver duxit.",
+      "question": "Ad quod Arvernorum oppidum Caesar sex legiones secundum flumen Elaver duxit?",
+      "answer": "Ad Gergoviam.",
+      "question_en": "To which town of the Arverni did Caesar lead six legions along the river Elaver (Allier)?",
+      "answer_en": "To Gergovia.",
+      "derivation": "Place fact anchored to the Arverni, Caesar, six legions and the Elaver; single town answer supported verbatim by 'sex ipse in Arvernos ad oppidum Gergoviam secundum flumen Elaver duxit'. Gergovia, the Arvernian stronghold, is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.51",
+      "source_text": "Nostri, cum undique premerentur, XLVI centurionibus amissis deiecti sunt loco.",
+      "question": "Quot centuriones Caesaris in proelio ad Gergoviam adverso amissi sunt?",
+      "answer": "Sex et quadraginta.",
+      "question_en": "How many of Caesar's centurions were lost in the unsuccessful battle at Gergovia?",
+      "answer_en": "Forty-six.",
+      "derivation": "Number fact anchored to the repulse at Gergovia; answer (XLVI = 46) supported verbatim by 'XLVI centurionibus amissis'. The loss of officers at Gergovia is the distinctive figure of Caesar's one defeat in the campaign; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.68",
+      "source_text": "Fugato omni equitatu Vercingetorix copias, ut pro castris collocaverat, reduxit protinusque Alesiam, quod est oppidum Mandubiorum, iter facere coepit.",
+      "question": "Cuius gentis oppidum erat Alesia, quo Vercingetorix victus se recepit?",
+      "answer": "Mandubiorum.",
+      "question_en": "Of what people was Alesia the town, to which Vercingetorix withdrew after defeat?",
+      "answer_en": "Of the Mandubii.",
+      "derivation": "Place fact anchored to Alesia and Vercingetorix; single answer supported verbatim by 'Alesiam, quod est oppidum Mandubiorum'. Alesia of the Mandubii, site of the final siege, is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.76",
+      "source_text": "Coactis equitum VIII milibus et peditum circiter CCL haec in Aeduorum finibus recensebantur, numerusque inibatur, praefecti constituebantur.",
+      "question": "Quantae copiae equitum peditumque coactae sunt, ut Gallis Alesiae obsessis subsidio venirent?",
+      "answer": "Octo milia equitum et circiter ducenta quinquaginta milia peditum.",
+      "question_en": "How large a force of cavalry and infantry was raised to relieve the Gauls besieged at Alesia?",
+      "answer_en": "Eight thousand cavalry and about two hundred fifty thousand infantry.",
+      "derivation": "Number fact anchored to the relief army for Alesia; counts (VIII milibus equitum, circiter CCL [milia] peditum) supported verbatim. The size of the Gallic relief army is the iconic figure of the siege; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.76",
+      "source_text": "Commio Atrebati, Viridomaro et Eporedorigi Aeduis, Vercassivellauno Arverno, consobrino Vercingetorigis, summa imperi traditur.",
+      "question": "Quis Arvernus, Vercingetorigis consobrinus, inter quattuor duces auxiliaribus copiis ad Alesiam praefuit?",
+      "answer": "Vercassivellaunus.",
+      "question_en": "Which Arvernian, cousin of Vercingetorix, was among the four leaders set over the relief forces at Alesia?",
+      "answer_en": "Vercassivellaunus.",
+      "derivation": "Name/relation fact anchored to the relief army and to Vercingetorix; single named answer supported verbatim by 'Vercassivellauno Arverno, consobrino Vercingetorigis'. Anchored as the Arvernian cousin to give a single referent among the four joint commanders; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.71",
+      "source_text": "Quod si indiligentiores fuerint, milia hominum delecta octoginta una secum interitura demonstrat.",
+      "question": "Quot milia hominum delecta una cum Vercingetorige Alesiae obsidebantur?",
+      "answer": "Octoginta milia.",
+      "question_en": "How many thousand chosen men were besieged at Alesia together with Vercingetorix?",
+      "answer_en": "Eighty thousand.",
+      "derivation": "Number fact anchored to Vercingetorix and Alesia; answer 'octoginta milia' supported verbatim ('milia hominum delecta octoginta una secum interitura'), echoed by Critognatus' 'hominum milibus LXXX' (7.77). Closed-book count of the Alesia garrison."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.89",
+      "source_text": "Mittuntur de his rebus ad Caesarem legati. Iubet arma tradi, principes produci. Ipse in munitione pro castris consedit: eo duces producuntur; Vercingetorix deditur, arma proiciuntur.",
+      "question": "Quis dux Gallorum post Alesiae obsidionem Caesari deditus est, armis proiectis?",
+      "answer": "Vercingetorix.",
+      "question_en": "Which leader of the Gauls was surrendered to Caesar after the siege of Alesia, his arms thrown down?",
+      "answer_en": "Vercingetorix.",
+      "derivation": "Event fact anchored to Alesia and Caesar; single named answer supported verbatim by 'Vercingetorix deditur, arma proiciuntur'. The surrender of Vercingetorix at Alesia is among the most famous events in Roman history; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.57",
+      "source_text": "Labienus eo supplemento, quod nuper ex Italia venerat, relicto Agedinci, ut esset impedimentis praesidio, cum quattuor legionibus Lutetiam proficiscitur. Id est oppidum Parisiorum, quod positum est in insula fluminis Sequanae.",
+      "question": "Cuius gentis oppidum erat Lutetia, in insula fluminis Sequanae positum, quod Labienus petivit?",
+      "answer": "Parisiorum.",
+      "question_en": "Of what people was Lutetia the town, set on an island of the river Sequana (Seine), to which Labienus marched?",
+      "answer_en": "Of the Parisii.",
+      "derivation": "Place fact anchored to Lutetia, the Seine, and Labienus; single answer supported verbatim by 'Lutetiam ... Id est oppidum Parisiorum, quod positum est in insula fluminis Sequanae'. Lutetia of the Parisii (Paris) is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 7.90",
+      "source_text": "His litteris cognitis Romae dierum viginti supplicatio redditur.",
+      "question": "Quot dierum supplicatio Romae decreta est, cum de Caesaris rebus ad Alesiam gestis cognitum esset?",
+      "answer": "Viginti dierum.",
+      "question_en": "A thanksgiving of how many days was decreed at Rome when Caesar's deeds at Alesia became known?",
+      "answer_en": "Of twenty days.",
+      "derivation": "Number fact anchored to Rome and the close of the Alesia campaign; answer 'viginti dierum' supported verbatim by 'dierum viginti supplicatio redditur'. The twenty-day thanksgiving is the iconic closing fact of Book 7; closed-book."
+    }
+  ]
+}
