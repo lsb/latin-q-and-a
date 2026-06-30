@@ -1,0 +1,115 @@
+{
+  "source": "text/tacitus/tac.ann11.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber XI",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 11.11",
+      "source_text": "Isdem consulibus ludi saeculares octingentesimo post Romam conditam, quarto et sexagesimo quam Augustus ediderat, spectati sunt.",
+      "question": "Quoto anno post Romam conditam ludi saeculares, Claudio principe, spectati sunt?",
+      "answer": "Octingentesimo.",
+      "question_en": "In which year after the founding of Rome were the Secular Games held, in the reign of Claudius?",
+      "answer_en": "The eight-hundredth.",
+      "derivation": "Anchored to the ludi saeculares + Claudius; single number answer, supported verbatim by 'ludi saeculares octingentesimo post Romam conditam ... spectati sunt'. Closed-book: Claudius's celebration of the Secular Games in the 800th year of Rome (AD 47) is a well-known event of his reign. 'Quoto anno' takes the ablative of time."
+    },
+    {
+      "locus": "Tacitus, Annales 11.13",
+      "source_text": "At Claudius matrimonii sui ignarus et munia censoria usurpans, theatralem populi lasciviam severis edictis increpuit.",
+      "question": "Quod munus Claudius gerebat, cum theatralem populi lasciviam severis edictis increparet?",
+      "answer": "Censuram.",
+      "question_en": "What office was Claudius holding when he rebuked the theatrical license of the people with stern edicts?",
+      "answer_en": "The censorship.",
+      "derivation": "Anchored to Claudius; single office answer, supported verbatim by 'munia censoria usurpans'. Closed-book: that Claudius held the censorship (AD 47-48, with L. Vitellius) is a stock fact of his reign. 'cum ... increparet' is cum-circumstantial with the subjunctive."
+    },
+    {
+      "locus": "Tacitus, Annales 11.14",
+      "source_text": "quo exemplo Claudius tres litteras adiecit, quae usui imperitante eo, post oblitteratae.",
+      "question": "Quot litteras novas Claudius litteris Latinis addidit, ut Tacitus tradit?",
+      "answer": "Tres.",
+      "question_en": "How many new letters did Claudius add to the Latin alphabet, as Tacitus reports?",
+      "answer_en": "Three.",
+      "derivation": "Anchored to Claudius + the Latin alphabet; single number answer, supported verbatim by 'Claudius tres litteras adiecit'. Closed-book: Claudius's invention of three new letters, used in his reign and then dropped, is among the best-known facts about him. (Tacitus does not name the letters, so only the count is asked.) 'litteris Latinis' is dative with addidit."
+    },
+    {
+      "locus": "Tacitus, Annales 11.20",
+      "source_text": "ut tamen miles otium exueret, inter Mosam Rhenumque trium et viginti milium spatio fossam perduxit, qua incerta Oceani vitarentur.",
+      "question": "Inter quae duo flumina Corbulo fossam perduxit, ut Tacitus tradit?",
+      "answer": "Inter Mosam et Rhenum.",
+      "question_en": "Between which two rivers did Corbulo construct a canal, as Tacitus reports?",
+      "answer_en": "Between the Meuse and the Rhine.",
+      "derivation": "Subject of 'perduxit' is Corbulo (named in 11.20, 'Corbuloni eae litterae redduntur'). Anchored to Corbulo; two named rivers as answer, supported verbatim by 'inter Mosam Rhenumque ... fossam perduxit'. Closed-book: the Fossa Corbulonis dug between the Meuse and the Rhine is a known fact."
+    },
+    {
+      "locus": "Tacitus, Annales 11.23",
+      "source_text": "primoresque Galliae, quae Comata appellatur, foedera et civitatem Romanam pridem adsecuti, ius adipiscendorum in urbe honorum expeterent.",
+      "question": "Cuius Galliae primores apud Claudium ius honorum in urbe adipiscendorum expetiverunt?",
+      "answer": "Galliae Comatae.",
+      "question_en": "The chief men of which Gaul sought from Claudius the right of obtaining offices in the city?",
+      "answer_en": "Of Gallia Comata (Long-haired Gaul).",
+      "derivation": "Anchored to the petitioners + Claudius; single named region, supported verbatim by 'primores Galliae, quae Comata appellatur ... ius adipiscendorum in urbe honorum expeterent'. Closed-book: Claudius's admission of leading men of Gallia Comata to senatorial office (his speech survives on the Lyon bronze tablet) is a well-known episode. The gerundive 'adipiscendorum ... honorum' mirrors the source."
+    },
+    {
+      "locus": "Tacitus, Annales 11.24",
+      "source_text": "maiores mei, quorum antiquissimus Clausus origine Sabina simul in civitatem Romanam et in familias patriciorum adscitus est.",
+      "question": "Qua origine fuit Clausus, antiquissimus maiorum Claudii, ut ipse princeps in senatu professus est?",
+      "answer": "Origine Sabina.",
+      "question_en": "Of what origin was Clausus, the most ancient of Claudius's ancestors, as the emperor himself declared in the senate?",
+      "answer_en": "Of Sabine origin.",
+      "derivation": "Anchored to Clausus + Claudius's ancestors; single named origin, supported verbatim by 'antiquissimus Clausus origine Sabina'. Closed-book: the Sabine origin of the gens Claudia (from Attus Clausus) is a stock fact, asserted by Claudius himself in his senate speech (11.24). Ablative of description 'origine Sabina'."
+    },
+    {
+      "locus": "Tacitus, Annales 11.25",
+      "source_text": "Orationem principis secuto patrum consulto primi Aedui senatorum in urbe ius adepti sunt.",
+      "question": "Qui Gallorum, oratione Claudii apud senatum habita, primi senatorum in urbe ius adepti sunt?",
+      "answer": "Aedui.",
+      "question_en": "Which of the Gauls, after Claudius delivered his speech before the senate, first obtained the right to senatorial rank in the city?",
+      "answer_en": "The Aedui.",
+      "derivation": "Anchored to the Gauls + Claudius's speech; single named people, supported verbatim by 'primi Aedui senatorum in urbe ius adepti sunt'. Closed-book: that the Aedui were the first Gauls admitted to the Roman senate after Claudius's speech is a well-known fact. Ablative absolute 'oratione ... habita'."
+    },
+    {
+      "locus": "Tacitus, Annales 11.25",
+      "source_text": "condiditque lustrum quo censa sunt civium quinquagies novies centena octoginta quattuor milia septuaginta duo.",
+      "question": "Quot civium capita lustro a Claudio condito censa esse Tacitus tradit?",
+      "answer": "Quinquagies novies centena octoginta quattuor milia septuaginta duo.",
+      "question_en": "How many citizens does Tacitus report were counted in the census completed by Claudius?",
+      "answer_en": "5,984,072.",
+      "derivation": "Anchored to Claudius's census/lustrum; single number, supported verbatim by 'censa sunt civium quinquagies novies centena octoginta quattuor milia septuaginta duo' (= 5,984,072). The 'ut Tacitus tradit' frame ('Tacitus tradit') legitimizes a precise figure as an according-to-Tacitus claim. Indirect statement 'capita ... censa esse' governed by 'tradit'; ablative absolute 'lustro condito'."
+    },
+    {
+      "locus": "Tacitus, Annales 11.26",
+      "source_text": "nec ultra expectato quam dum sacrificii gratia Claudius Ostiam proficisceretur, cuncta nuptiarum sollemnia celebrat.",
+      "question": "Quo Claudius sacrificii causa profectus erat, dum Messalina C. Silio nubebat?",
+      "answer": "Ostiam.",
+      "question_en": "Where had Claudius set out for the sake of a sacrifice, while Messalina was marrying Gaius Silius?",
+      "answer_en": "To Ostia.",
+      "derivation": "Anchored to Claudius + Messalina's wedding to Silius; single named place, supported verbatim by 'sacrificii gratia Claudius Ostiam proficisceretur, cuncta nuptiarum sollemnia celebrat'. Closed-book: that Claudius was away at Ostia when Messalina staged her wedding to Silius is central to the famous episode. 'Quo' (whither) answered by 'Ostiam'; 'dum nubebat' = while she was marrying."
+    },
+    {
+      "locus": "Tacitus, Annales 11.30",
+      "source_text": "Exim Calpurnia (id paelici nomen), ubi datum secretum, genibus Caesaris provoluta nupsisse Messalinam Silio exclamat.",
+      "question": "Cui consuli designato Messalina, uxor Claudii principis, vivente marito nupsit?",
+      "answer": "C. Silio.",
+      "question_en": "To which consul-designate did Messalina, the wife of the emperor Claudius, get married while her husband was alive?",
+      "answer_en": "To Gaius Silius.",
+      "derivation": "Anchored to Messalina (wife of Claudius); single named man, supported verbatim by 'nupsisse Messalinam Silio'. Silius is identified as consul designate at 11.5 ('C. Silio consule designato'). Closed-book: the empress Messalina's public marriage to the consul-designate Gaius Silius while Claudius still lived is one of the most notorious scandals of the principate. 'nubere' takes the dative ('cui ... Silio')."
+    },
+    {
+      "locus": "Tacitus, Annales 11.37",
+      "source_text": "Interim Messalina Lucullianis in hortis prolatare vitam, componere preces, non nulla spe et aliquando ira: tantum inter extrema superbiae gerebat. ac ni caedem eius Narcissus properavisset, verterat pernicies in accusatorem.",
+      "question": "Quis libertus, ne pernicies in accusatorem verteretur, Messalinae caedem properavit?",
+      "answer": "Narcissus.",
+      "question_en": "Which freedman hastened Messalina's death, lest the ruin turn back upon the accuser?",
+      "answer_en": "Narcissus.",
+      "derivation": "Anchored to Messalina + her death; single named freedman, supported verbatim by 'ni caedem eius Narcissus properavisset, verterat pernicies in accusatorem' ('eius' = Messalina, named in the same passage). Closed-book: Narcissus, the freedman of Claudius who exposed Messalina and engineered her death, is a famous figure of the affair."
+    },
+    {
+      "locus": "Tacitus, Annales 11.38",
+      "source_text": "nuntiatumque Claudio epulanti perisse Messalinam, non distincto sua an aliena manu.",
+      "question": "Quae uxor Claudii principis ob nuptias cum C. Silio celebratas morte multata est?",
+      "answer": "Messalina.",
+      "question_en": "Which wife of the emperor Claudius was put to death on account of the wedding she celebrated with Gaius Silius?",
+      "answer_en": "Messalina.",
+      "derivation": "Anchored to Claudius's wife + the Silius affair; single named person, supported verbatim by 'perisse Messalinam'. Closed-book: that Messalina, wife of Claudius, was executed after her marriage to Silius was exposed is among the best-known events of Claudius's reign."
+    }
+  ]
+}
