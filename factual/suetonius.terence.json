@@ -1,0 +1,79 @@
+{
+  "source": "text/suetonius/suet.terence.txt",
+  "author": "Suetonius (Vita Terenti)",
+  "work": "Vita Terenti (Suetonius/Donatus)",
+  "pairs": [
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 1",
+      "source_text": "Publius Terentius Afer, Carthagine natus, serviit Romae Terentio Lucano senatori, a quo ob ingenium et formam non institutus modo liberaliter sed et mature manumissus est.",
+      "question": "Ubi natus est Publius Terentius Afer?",
+      "answer": "Carthagine.",
+      "question_en": "Where was Publius Terentius Afer born?",
+      "answer_en": "At Carthage.",
+      "derivation": "Birthplace fact, supported verbatim ('Carthagine natus'); his cognomen 'Afer' reflects this African origin. Anchored to Terence, single place-name answer (locative-ablative 'Carthagine'), closed-book: the canonical birthplace of the comic poet."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 1",
+      "source_text": "Publius Terentius Afer, Carthagine natus, serviit Romae Terentio Lucano senatori, a quo ob ingenium et formam non institutus modo liberaliter sed et mature manumissus est.",
+      "question": "A quo senatore Terentius et liberaliter institutus et manumissus est?",
+      "answer": "A Terentio Lucano.",
+      "question_en": "By which senator was Terence both liberally educated and set free?",
+      "answer_en": "By Terentius Lucanus.",
+      "derivation": "Patron fact: the senator Terentius Lucanus owned, educated, and freed him (whence the name 'Terentius'). Supported verbatim ('serviit ... Terentio Lucano senatori, a quo ... institutus ... sed et ... manumissus est'). Entity-anchored, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 1",
+      "source_text": "Hic cum multis nobilibus familiariter vixit, sed maxime cum Scipione Africano et C. Laelio.",
+      "question": "Quibuscum duobus viris nobilibus Terentius maxime familiariter vixit?",
+      "answer": "Cum Scipione Africano et C. Laelio.",
+      "question_en": "With which two noblemen did Terence live on closest terms of friendship?",
+      "answer_en": "With Scipio Africanus and Gaius Laelius.",
+      "derivation": "His famous friendship with the young nobles Scipio Aemilianus Africanus and Gaius Laelius. Supported verbatim ('maxime cum Scipione Africano et C. Laelio'). Entity-anchored, two-name answer, closed-book staple of Terentian biography."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 2",
+      "source_text": "Scripsit comoedias sex, ex quibus primam 'Andriam' cum aedilibus daret, iussus ante Caecilio recitare.",
+      "question": "Quot comoedias Terentius scripsit?",
+      "answer": "Sex.",
+      "question_en": "How many comedies did Terence write?",
+      "answer_en": "Six.",
+      "derivation": "Number fact, supported verbatim ('Scripsit comoedias sex'). Anchored to Terence, single number answer; the surviving six comedies are the canonical, closed-book figure."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 2",
+      "source_text": "Scripsit comoedias sex, ex quibus primam 'Andriam' cum aedilibus daret, iussus ante Caecilio recitare.",
+      "question": "Quae ex Terentii comoediis prima fuit?",
+      "answer": "Andria.",
+      "question_en": "Which of Terence's comedies was the first?",
+      "answer_en": "The Andria.",
+      "derivation": "First-play fact, supported verbatim ('ex quibus primam Andriam'). Anchored to Terence, single-title answer, closed-book: the Andria is the well-known debut comedy."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 2",
+      "source_text": "'Eunuchus' quidem bis die acta est meruitque pretium quantum nulla antea cuiusquam comoedia, id est octo milia nummorum.",
+      "question": "Quantum pretium comoedia 'Eunuchus' Terentii meruit?",
+      "answer": "Octo milia nummorum.",
+      "question_en": "What price did Terence's comedy Eunuchus earn?",
+      "answer_en": "Eight thousand sesterces.",
+      "derivation": "Number fact: the Eunuchus, staged twice in one day, earned more than any earlier comedy. Supported verbatim ('meruitque pretium ... id est octo milia nummorum'). Anchored to the Eunuchus, single number answer, closed-book (the record fee for a comedy)."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 5",
+      "source_text": "Q. Cosconius redeuntem e Graecia perisse in mari dicit cum C. et VIII. fabulis conversis a Menandro.",
+      "question": "Q. Cosconius unde redeuntem Terentium in mari perisse dicit?",
+      "answer": "E Graecia.",
+      "question_en": "From where, according to Q. Cosconius, was Terence returning when he perished at sea?",
+      "answer_en": "From Greece.",
+      "derivation": "Death-journey fact: he died at sea returning from Greece. Supported verbatim ('redeuntem e Graecia perisse in mari'). Attributed to Cosconius ('dicit') for the closed-book 'according to this source' frame; indirect statement (redeuntem ... perisse) governed by dicit. Anchored to Terence and Greece."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Terenti 5",
+      "source_text": "Ceteri mortuum esse in Arcadia Stymphali sive Leuccadiae tradunt Cn. Cornelio Dolabella M. Fulvio Nobiliore consulibus.",
+      "question": "Quibus consulibus Terentium mortuum esse Vita tradit?",
+      "answer": "Cn. Cornelio Dolabella et M. Fulvio Nobiliore.",
+      "question_en": "In whose consulship does the Life record that Terence died?",
+      "answer_en": "When Gnaeus Cornelius Dolabella and Marcus Fulvius Nobilior were consuls.",
+      "derivation": "Death-year fact (159 BC), supported verbatim ('Cn. Cornelio Dolabella M. Fulvio Nobiliore consulibus'). Anchored to Terence, named consular pair; 'tradit' keeps the closed-book reported frame. Indirect statement (Terentium mortuum esse) under tradit."
+    }
+  ]
+}
