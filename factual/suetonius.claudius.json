@@ -1,0 +1,187 @@
+{
+  "source": "text/suetonius/suet.claudius.txt",
+  "author": "Suetonius",
+  "work": "Divus Claudius",
+  "pairs": [
+    {
+      "locus": "Suetonius, Divus Claudius 1",
+      "source_text": "Patrem Claudi Caesaris Drusum, olim Decimum mox Neronem praenomine, Livia, cum Augusto gravida nupsisset, intra mensem tertium peperit, fuitque suspicio ex vitrico per adulterii consuetudinem procreatum.",
+      "question": "Quod nomen habuit pater Claudii Caesaris?",
+      "answer": "Drusus.",
+      "question_en": "What was the name of the father of Claudius Caesar?",
+      "answer_en": "Drusus.",
+      "derivation": "Names Claudius's father, Nero Claudius Drusus (Drusus the Elder), supported by 'Patrem Claudi Caesaris Drusum.' Entity-anchored to Claudius, single-name answer, closed-book (Drusus was Augustus's stepson and a famous commander in Germania)."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 1",
+      "source_text": "Ex Antonia minore complures quidem liberos tulit, verum tres omnino reliquit: Germanicum, Livillam, Claudium.",
+      "question": "Ex qua coniuge Drusus liberos Germanicum, Livillam Claudiumque suscepit?",
+      "answer": "Ex Antonia minore.",
+      "question_en": "From which wife did Drusus have his children Germanicus, Livilla, and Claudius?",
+      "answer_en": "From Antonia the Younger.",
+      "derivation": "Establishes Claudius's mother as Antonia minor (daughter of Mark Antony), supported by 'Ex Antonia minore ... reliquit: Germanicum, Livillam, Claudium.' Entity-anchored, single answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 1",
+      "source_text": "Ex Antonia minore complures quidem liberos tulit, verum tres omnino reliquit: Germanicum, Livillam, Claudium.",
+      "question": "Quis fuit frater maior Claudii imperatoris?",
+      "answer": "Germanicus.",
+      "question_en": "Who was the elder brother of the emperor Claudius?",
+      "answer_en": "Germanicus.",
+      "derivation": "Of Drusus and Antonia's three surviving children (Germanicus, Livilla, Claudius), Germanicus was the eldest; ch. 2 confirms 'fratre maiore.' Anchored to Claudius, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 2",
+      "source_text": "Claudius natus est Iullo Antonio Fabio Africano conss. Kal. Aug. Luguduni eo ipso die quo primum ara ibi Augusto dedicata est, appellatusque Tiberius Claudius Drusus.",
+      "question": "In quo oppido natus est Claudius?",
+      "answer": "Luguduni.",
+      "question_en": "In what town was Claudius born?",
+      "answer_en": "At Lugdunum (Lyon).",
+      "derivation": "Birthplace fact, supported by 'natus est ... Luguduni.' Single place-name answer, entity-anchored to Claudius; closed-book (he was the only emperor born in Gaul)."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 2",
+      "source_text": "Claudius natus est Iullo Antonio Fabio Africano conss. Kal. Aug. Luguduni eo ipso die quo primum ara ibi Augusto dedicata est, appellatusque Tiberius Claudius Drusus.",
+      "question": "Quibus consulibus natum esse Claudium Suetonius tradit?",
+      "answer": "Iullo Antonio et Fabio Africano.",
+      "question_en": "In whose consulship does Suetonius say Claudius was born?",
+      "answer_en": "When Iullus Antonius and Fabius Africanus were consuls.",
+      "derivation": "Birth-year fact (10 BC). Indirect statement (natum esse) under tradit; answer in the ablative matching 'Iullo Antonio Fabio Africano conss.' Entity-anchored, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 11",
+      "source_text": "Aviae Liviae diuinos honores et circensi pompa currum elephantorum Augustino similem decernenda curavit.",
+      "question": "Cui aviae suae Claudius divinos honores decernendos curavit?",
+      "answer": "Liviae (Augustae).",
+      "question_en": "For which grandmother of his did Claudius see to it that divine honors were decreed?",
+      "answer_en": "For Livia (Augusta).",
+      "derivation": "Claudius consecrated his grandmother Livia (Augustus's wife), supported by 'Aviae Liviae diuinos honores ... decernenda curavit.' Names the grandmother plus a checkable act; entity-anchored, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 10",
+      "source_text": "Per haec ac talia maxima aetatis parte transacta quinquagesimo anno imperium cepit quantumuis mirabili casu.",
+      "question": "Quoto aetatis anno Claudius imperium cepit, ut Suetonius tradit?",
+      "answer": "Quinquagesimo.",
+      "question_en": "In which year of his age did Claudius take power, according to Suetonius?",
+      "answer_en": "In his fiftieth.",
+      "derivation": "Age-at-accession fact, supported by 'quinquagesimo anno imperium cepit.' Ordinal answer, entity-anchored to Claudius, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 10",
+      "source_text": "Verum postero die et senatu segniore in exeqvendis conatibus per taedium ac dissensionem diversa censentium et multitudine, quae circumstabat, unum rectorem iam et nominatim exposcente, armatos pro contione iurare in nomen suum passus est promisitque singulis quina dena sestertia, primus Caesarum fidem militis etiam praemio pigneratus.",
+      "question": "Quantum praemium Claudius singulis militibus promisit, primus Caesarum fidem militis praemio pigneratus?",
+      "answer": "Quina dena sestertia.",
+      "question_en": "What bounty did Claudius promise to each soldier, being the first of the Caesars to secure the soldiers' loyalty even with a reward?",
+      "answer_en": "Fifteen thousand sesterces each.",
+      "derivation": "The accession donative to the praetorians who made him emperor; supported by 'promisitque singulis quina dena sestertia, primus Caesarum fidem militis etiam praemio pigneratus.' Number fact, entity-anchored to Claudius; closed-book (the famous first imperial accession donative)."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 17",
+      "source_text": "Cum decretis sibi a senatu ornamentis triumphalibus leviorem maiestati principali titulum arbitraretur velletque iusti triumphi decus, unde adquireret Britanniam potissimum elegit, neque temptatam ulli post Diuum Iulium et tunc tumultuantem ob non redditos transfugas.",
+      "question": "Quam insulam Claudius, post Diuum Iulium a nullo temptatam, expeditione sua in deditionem recepit?",
+      "answer": "Britanniam.",
+      "question_en": "Which island, untried by anyone since the deified Julius, did Claudius receive in surrender by his expedition?",
+      "answer_en": "Britain.",
+      "derivation": "Claudius's annexation of Britain, his sole military expedition, supported by 'unde adquireret Britanniam potissimum elegit, neque temptatam ulli post Diuum Iulium.' Place answer, anchored to Claudius and Julius Caesar; iconic closed-book fact."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 20",
+      "source_text": "Fucinum adgressus est non minus conpendii spe quam gloriae, cum quidam privato sumptu emissuros se repromitterent, si sibi siccati agri concederentur. Per tria autem passuum milia partim effosso monte partim exciso canalem absoluit aegre et post undecim annos, quamuis continuis XXX hominum milibus sine intermissione operantibus.",
+      "question": "Quot hominum milia Claudius in emissario Fucini lacus per undecim annos perficiendo adhibuit?",
+      "answer": "Triginta milia.",
+      "question_en": "How many thousands of men did Claudius employ over eleven years to complete the outlet of the Fucine Lake?",
+      "answer_en": "Thirty thousand.",
+      "derivation": "The draining of Lake Fucinus, supported by 'post undecim annos, quamuis continuis XXX hominum milibus ... operantibus.' Number fact, entity-anchored to the Fucine project; closed-book engineering work."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 25",
+      "source_text": "Iudaeos impulsore Chresto assidue tumultuantis Roma expulit.",
+      "question": "Quam gentem Claudius, impulsore Chresto assidue tumultuantem, Roma expulit?",
+      "answer": "Iudaeos.",
+      "question_en": "Which people, continually rioting at the instigation of Chrestus, did Claudius expel from Rome?",
+      "answer_en": "The Jews.",
+      "derivation": "The expulsion of the Jews from Rome (cf. Acts 18:2), supported verbatim. Entity-anchored (Claudius + 'impulsore Chresto'), single-noun answer, closed-book famous."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 26",
+      "source_text": "Verum inlecebris Agrippinae, Germanici fratris sui filiae, per ius osculi et blanditiarum occasiones pellectus in amorem, subornavit proximo senatu qui censerent, cogendum se ad ducendum eam uxorem, quasi rei p. maxime interesset, dandamque ceteris veniam talium coniugiorum, quae ad id tempus incesta habebantur.",
+      "question": "Quam feminam, Germanici fratris sui filiam, Claudius novissimam uxorem duxit?",
+      "answer": "Agrippinam.",
+      "question_en": "Which woman, the daughter of his brother Germanicus, did Claudius take as his last wife?",
+      "answer_en": "Agrippina.",
+      "derivation": "Claudius married his niece Agrippina the Younger (daughter of his brother Germanicus, and Nero's mother), supported by 'inlecebris Agrippinae, Germanici fratris sui filiae ... cogendum se ad ducendum eam uxorem.' Entity-anchored, surfaces the brother-relation, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 27",
+      "source_text": "Liberos ex tribus uxoribus tulit: ex Vrgulanilla Drusum et Claudiam, ex Paetina Antoniam, ex Messalina Octaviam et quem primo Germanicum, mox Britannicum cognominavit.",
+      "question": "Quos liberos Claudius ex uxore Messalina suscepit?",
+      "answer": "Octaviam et Britannicum.",
+      "question_en": "Which children did Claudius have by his wife Messalina?",
+      "answer_en": "Octavia and Britannicus.",
+      "derivation": "Supported by 'ex Messalina Octaviam et quem primo Germanicum, mox Britannicum cognominavit.' Names both children; entity-anchored to Claudius and Messalina; closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 27",
+      "source_text": "Antoniam Cn. Pompeio Magno, deinde Fausto Sullae, nobilissimis iuvenibus, Octaviam Neroni priuigno suo collocavit, Silano ante desponsam.",
+      "question": "Cui Claudius filiam Octaviam in matrimonium collocavit?",
+      "answer": "Neroni.",
+      "question_en": "To whom did Claudius give his daughter Octavia in marriage?",
+      "answer_en": "To Nero.",
+      "derivation": "Supported by 'Octaviam Neroni priuigno suo collocavit.' Nero was his stepson, adopted son, and successor. Entity-anchored, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 41",
+      "source_text": "novas etiam commentus est litteras tres ac numero veterum quasi maxime necessarias addidit; de quarum ratione cum privatus adhuc volumen edidisset, mox princeps non difficulter optinuit ut in usu quoque promiscuo essent.",
+      "question": "Quot novas litteras Claudius excogitavit et veterum numero addidit?",
+      "answer": "Tres.",
+      "question_en": "How many new letters did Claudius devise and add to the existing alphabet?",
+      "answer_en": "Three.",
+      "derivation": "Claudius's three new letters added to the Latin alphabet, supported by 'novas etiam commentus est litteras tres ... addidit.' Number fact, entity-anchored, closed-book famous."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 41",
+      "source_text": "Historiam in adulescentia hortante T. Livio, Sulpicio vero Flauo etiam adiuuante, scribere adgressus est.",
+      "question": "Quo auctore hortante Claudius adulescens historiam scribere adgressus est?",
+      "answer": "T. Livio.",
+      "question_en": "At whose urging did the young Claudius undertake to write history?",
+      "answer_en": "At Livy's (Titus Livius).",
+      "derivation": "Supported by 'Historiam in adulescentia hortante T. Livio ... scribere adgressus est.' Entity-anchored to Claudius and Livy, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 44",
+      "source_text": "Et veneno quidem occisum convenit; ubi autem et per quem dato, discrepat. Quidam tradunt epulanti in arce cum sacerdotibus per Halotum spadonem praegustatorem; alii domestico convivio per ipsam Agrippinam, quae boletum medicatum auidissimo ciborum talium optulerat.",
+      "question": "Quo cibo medicato Claudius, ut plerique tradunt, veneno necatus est?",
+      "answer": "Boleto.",
+      "question_en": "By which poisoned food, as most report, was Claudius killed?",
+      "answer_en": "By a mushroom.",
+      "derivation": "The canonical account of Claudius's death by a poisoned mushroom offered by Agrippina, supported by 'veneno quidem occisum convenit ... per ipsam Agrippinam, quae boletum medicatum ... optulerat.' Entity-anchored, short answer, closed-book famous."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 45",
+      "source_text": "Excessit III. Id. Octob. Asinio Marcello Acilio Auiola coss. sexagesimo quarto aetatis, imperii quarto decimo anno, funeratusque est sollemni principum pompa et in numerum deorum relatus; quem honorem a Nerone destitutum abolitumque recepit mox per Vespasianum.",
+      "question": "Quoto aetatis anno Claudius decessit, ut Suetonius tradit?",
+      "answer": "Sexagesimo quarto.",
+      "question_en": "In which year of his age did Claudius die, according to Suetonius?",
+      "answer_en": "In his sixty-fourth.",
+      "derivation": "Age-at-death fact, supported by 'sexagesimo quarto aetatis.' Ordinal answer, entity-anchored, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 45",
+      "source_text": "Excessit III. Id. Octob. Asinio Marcello Acilio Auiola coss. sexagesimo quarto aetatis, imperii quarto decimo anno, funeratusque est sollemni principum pompa et in numerum deorum relatus; quem honorem a Nerone destitutum abolitumque recepit mox per Vespasianum.",
+      "question": "Quoto imperii anno Claudius decessit, ut Suetonius tradit?",
+      "answer": "Quarto decimo.",
+      "question_en": "In which year of his reign did Claudius die, according to Suetonius?",
+      "answer_en": "In his fourteenth.",
+      "derivation": "Reign-length fact (AD 41-54), supported by 'imperii quarto decimo anno.' Ordinal answer, entity-anchored, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Claudius 45",
+      "source_text": "Excessit III. Id. Octob. Asinio Marcello Acilio Auiola coss. sexagesimo quarto aetatis, imperii quarto decimo anno, funeratusque est sollemni principum pompa et in numerum deorum relatus; quem honorem a Nerone destitutum abolitumque recepit mox per Vespasianum.",
+      "question": "Per quem principem Claudius honorem divinum a Nerone abolitum recepit?",
+      "answer": "Per Vespasianum.",
+      "question_en": "Through which emperor did Claudius regain the divine honor that Nero had abolished?",
+      "answer_en": "Through Vespasian.",
+      "derivation": "Claudius was deified at death; Nero let the honor lapse and Vespasian restored it, supported by 'in numerum deorum relatus; quem honorem a Nerone destitutum abolitumque recepit mox per Vespasianum.' Entity-anchored (Claudius, Nero, Vespasian), single-name answer, closed-book."
+    }
+  ]
+}
