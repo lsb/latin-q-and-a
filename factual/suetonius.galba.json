@@ -1,0 +1,124 @@
+{
+  "source": "text/suetonius/suet.galba.txt",
+  "author": "Suetonius",
+  "work": "Galba",
+  "pairs": [
+    {
+      "locus": "Suetonius, Galba 1",
+      "source_text": "Progenies Caesarum in Nerone defecit; quod futurum, compluribus quidem signis, sed vel evidentissimis duobus apparuit.",
+      "question": "In quo principe progeniem Caesarum defecisse Suetonius initio Vitae Galbae tradit?",
+      "answer": "In Nerone.",
+      "question_en": "In which emperor does Suetonius, at the start of the Life of Galba, report that the line of the Caesars came to an end?",
+      "answer_en": "In Nero.",
+      "derivation": "The famous opening sentence of the Life. Entity-anchored to the Caesars and Nero; single-name answer supported verbatim by 'Progenies Caesarum in Nerone defecit.' Indirect statement (progeniem ... defecisse) governed by tradit. Closed-book: the Julio-Claudian line ended with Nero (AD 68), one of the most-quoted lines of this Life."
+    },
+    {
+      "locus": "Suetonius, Galba 2",
+      "source_text": "Neroni Galba successit nullo gradu contingens Caesarum domum, sed haud dubie nobilissimus magnaque et vetere prosapia.",
+      "question": "Quis Neroni in imperio successit, nullo gradu Caesarum domum contingens?",
+      "answer": "Galba (Servius Sulpicius Galba).",
+      "question_en": "Who succeeded Nero in the empire, though connected by no degree of kinship to the house of the Caesars?",
+      "answer_en": "Galba (Servius Sulpicius Galba).",
+      "derivation": "Succession fact. Entity-anchored to Nero; answer supported verbatim by 'Neroni Galba successit nullo gradu contingens Caesarum domum.' Succedo + dative (Neroni). Closed-book: Galba, unrelated to the Julio-Claudians, was the first of the four emperors of AD 68-69."
+    },
+    {
+      "locus": "Suetonius, Galba 3",
+      "source_text": "Familiam illustravit Seruius Galba consularis, temporum suorum et eloquentissimus, quem tradunt Hispaniam ex praetura optinentem, triginta Lusitanorum milibus perfidia trucidatis, Viriatini belli causam exstitisse.",
+      "question": "Quot Lusitanorum milia Servius Galba consularis, orator ille, in Hispania perfidia trucidasse traditur, unde Viriatini belli causa exstitit?",
+      "answer": "Triginta milia.",
+      "question_en": "How many thousands of Lusitanians is Servius Galba the consular, that famous orator, said to have treacherously massacred in Spain, whence arose the cause of the Viriathic War?",
+      "answer_en": "Thirty thousand.",
+      "derivation": "Ancestor fact: the orator Servius Sulpicius Galba (consularis, cos. 144 BC), great ancestor of the emperor and bearing the same name, governing Spain after his praetorship slaughtered 30,000 Lusitanians by treachery, provoking the Viriathic War. Number answer supported verbatim by 'triginta Lusitanorum milibus perfidia trucidatis.' Personal passive 'traditur ... trucidasse.' Disambiguated from the emperor by 'consularis, orator'; entity-anchored to Servius Galba + Lusitanians + the Viriathic War. Closed-book: the massacre (151 BC) that ignited the Lusitanian/Viriathic war."
+    },
+    {
+      "locus": "Suetonius, Galba 3",
+      "source_text": "Vxores habuit Mummiam Achaiam, neptem Catuli proneptemque L. Mummi, qui Corinthum excidit.",
+      "question": "Quam urbem L. Mummius, Mummiae Achaicae proavus, excidisse traditur?",
+      "answer": "Corinthum.",
+      "question_en": "Which city is Lucius Mummius, the great-grandfather of Mummia Achaica, said to have destroyed?",
+      "answer_en": "Corinth.",
+      "derivation": "Ancestor fact in Galba's genealogy: Mummia Achaica (Galba's mother) was great-granddaughter (proneptis) of L. Mummius, who sacked Corinth. Answer supported verbatim by 'proneptemque L. Mummi, qui Corinthum excidit.' Entity-anchored to L. Mummius + Corinth; personal passive 'traditur ... excidisse.' Closed-book: the sack of Corinth (146 BC) is among the most famous events of Rome's conquest of Greece."
+    },
+    {
+      "locus": "Suetonius, Galba 4",
+      "source_text": "Ser. Galba imperator M. Valerio Messala Cn. Lentulo cons. natus est VIIII. Kal. Ian. in villa colli superposita prope Tarracinam.",
+      "question": "Prope quod Latii oppidum Galba imperator natus esse traditur?",
+      "answer": "Prope Tarracinam.",
+      "question_en": "Near which town of Latium is the emperor Galba said to have been born?",
+      "answer_en": "Near Tarracina.",
+      "derivation": "Birthplace fact. Entity-anchored to Galba; place answer supported verbatim by 'in villa colli superposita prope Tarracinam.' Personal passive 'natus esse traditur.' Closed-book: Galba was born in a villa on a hill near Tarracina, on VIIII Kal. Ian. (24 December, 3 BC) in the consulship of M. Valerius Messala and Cn. Lentulus."
+    },
+    {
+      "locus": "Suetonius, Galba 6",
+      "source_text": "Honoribus ante legitimum tempus initis praetor commissione ludorum Floralium novum spectaculi genus elephantos funambulos edidit.",
+      "question": "Quod novum spectaculi genus Galba praetor ludis Floralibus edidit?",
+      "answer": "Elephantos funambulos.",
+      "question_en": "What new kind of spectacle did Galba, as praetor, put on at the games of Flora?",
+      "answer_en": "Tightrope-walking elephants.",
+      "derivation": "Career fact: as praetor, at the Floralia, Galba staged a novel spectacle of tightrope-walking elephants. Answer supported verbatim by 'novum spectaculi genus elephantos funambulos edidit.' Entity-anchored to Galba + the Floralia; verifiable, translatable, fact-seeking; self-contained source. Closed-book: a noted anecdote of Galba's early career."
+    },
+    {
+      "locus": "Suetonius, Galba 8",
+      "source_text": "donec in oppido Fundis moranti Hispania Tarraconensis oblata est.",
+      "question": "Quae provincia Galbae, Fundis moranti, oblata est, quam ante principatum administravit?",
+      "answer": "Hispania Tarraconensis.",
+      "question_en": "Which province was offered to Galba while he was staying at Fundi, which he governed before becoming emperor?",
+      "answer_en": "Hispania Tarraconensis (Nearer Spain).",
+      "derivation": "Governorship fact. Entity-anchored to Galba; province answer supported verbatim by 'Hispania Tarraconensis oblata est.' Closed-book and central to Galba's career: it was as governor of Hispania Tarraconensis that he was hailed emperor in AD 68."
+    },
+    {
+      "locus": "Suetonius, Galba 10",
+      "source_text": "consalutatusque imperator legatum se senatus ac populi R. professus est.",
+      "question": "Quem se esse Galba, imperator consalutatus, professus est, priusquam Caesaris nomen sumeret?",
+      "answer": "Legatum senatus ac populi Romani.",
+      "question_en": "What did Galba, when hailed emperor, declare himself to be, before he took the name of Caesar?",
+      "answer_en": "The legate of the Senate and People of Rome.",
+      "derivation": "Accession fact: saluted imperator in Spain, Galba professed himself merely 'legate of the senate and Roman people,' assuming the name Caesar only later, after Nero's death (ch. 11). Answer supported verbatim by 'legatum se senatus ac populi R. professus est.' Indirect statement (se esse) under professus est; entity-anchored to Galba; translatable. Closed-book: a famous detail of Galba's restrained accession."
+    },
+    {
+      "locus": "Suetonius, Galba 17",
+      "source_text": "Pisonem Frugi Licinianum, nobilem egregiumque iuvenem ac sibi olim probatissimum testamentoque semper in bona et nomen adscitum repente e media salutantium turba adprehendit filiumque appellans perduxit in castra ac pro contione adoptavit.",
+      "question": "Quem Galba sibi successorem, filium appellans, in castris adoptavit?",
+      "answer": "Pisonem Frugi Licinianum.",
+      "question_en": "Whom did Galba, calling him his son, adopt in the camp as his successor?",
+      "answer_en": "Piso Frugi Licinianus.",
+      "derivation": "Succession fact: Galba adopted Piso Licinianus as his heir and successor before the troops. Answer supported verbatim by 'Pisonem Frugi Licinianum ... perduxit in castra ac pro contione adoptavit.' Entity-anchored to Galba + Piso; single-name answer. Closed-book: the adoption (10 January AD 69) that precipitated Otho's coup."
+    },
+    {
+      "locus": "Suetonius, Galba 17",
+      "source_text": "Quo faciliorem occasionem M. Salvio Othoni praebuit perficiendi conata intra sextum adoptionis diem.",
+      "question": "Intra quotum a Pisonis adoptione diem M. Salvius Otho conata sua perfecit?",
+      "answer": "Intra sextum diem.",
+      "question_en": "Within which day after the adoption of Piso did Marcus Salvius Otho accomplish his designs?",
+      "answer_en": "Within the sixth day.",
+      "derivation": "Timing fact: Otho carried out his plot within the sixth day of Galba's adoption of Piso. Number answer supported verbatim by 'perficiendi conata intra sextum adoptionis diem.' Entity-anchored to Otho + the adoption. Closed-book: Galba adopted Piso on 10 January and both were killed on 15 January AD 69."
+    },
+    {
+      "locus": "Suetonius, Galba 20",
+      "source_text": "Iugulatus est ad lacum Curti.",
+      "question": "Quo loco fori Romani Galba imperator trucidatus est?",
+      "answer": "Ad lacum Curtii.",
+      "question_en": "At what spot in the Roman Forum was the emperor Galba slaughtered?",
+      "answer_en": "At the Lacus Curtius.",
+      "derivation": "Death-place fact: Galba was cut down at the Lacus Curtius in the Roman Forum. Answer supported verbatim by 'Iugulatus est ad lacum Curti' (and confirmed by ch. 23, 'in parte fori, qua trucidatus est'). Entity-anchored to Galba; place answer. Closed-book: Galba's murder in the Forum on 15 January AD 69 by soldiers acting for Otho. (source_text retains the Latin Library spelling 'lacum Curti' for 'lacum Curtii'.)"
+    },
+    {
+      "locus": "Suetonius, Galba 23",
+      "source_text": "Periit tertio et septuagesimo aetatis anno, imperii mense septimo.",
+      "question": "Quotum aetatis annum agens Galba imperator periit?",
+      "answer": "Tertium et septuagesimum.",
+      "question_en": "In which year of his age did the emperor Galba die?",
+      "answer_en": "His seventy-third.",
+      "derivation": "Age-at-death fact. Ordinal/number answer supported verbatim by 'tertio et septuagesimo aetatis anno.' Entity-anchored to Galba. Closed-book: Galba died in his seventy-third year, the oldest of the emperors of AD 68-69."
+    },
+    {
+      "locus": "Suetonius, Galba 23",
+      "source_text": "Periit tertio et septuagesimo aetatis anno, imperii mense septimo.",
+      "question": "Quoto imperii mense Galba periit?",
+      "answer": "Mense septimo.",
+      "question_en": "In which month of his reign did Galba die?",
+      "answer_en": "In the seventh month.",
+      "derivation": "Reign-length fact. Number answer supported verbatim by 'imperii mense septimo.' Entity-anchored to Galba. Closed-book: Galba's reign was very short, ending in its seventh month (he was killed 15 January AD 69)."
+    }
+  ]
+}
