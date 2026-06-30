@@ -1,0 +1,106 @@
+{
+  "source": "text/pliny.ep10.txt",
+  "author": "Pliny the Younger",
+  "work": "Epistulae, liber X (ad Traianum)",
+  "pairs": [
+    {
+      "locus": "Pliny the Younger, Epistulae 10.1",
+      "source_text": "C. Plinius Traiano imperatori. Tua quidem pietas, imperator sanctissime, optaverat, ut quam tardissime succederes patri; sed di immortales festinaverunt virtutes tuas ad gubernacula rei publicae quam susceperas admovere.",
+      "question": "Ad quem imperatorem Plinius minor epistulas decimi libri suas direxit, a quo vicissim responsa accepit?",
+      "answer": "Ad Traianum.",
+      "question_en": "To which emperor did Pliny the Younger address his letters of the tenth book, and from whom he received replies in turn?",
+      "answer_en": "To Trajan.",
+      "derivation": "Addressee fact: the whole of Book X is the official correspondence between Pliny and the emperor Trajan; the salutations read 'C. Plinius Traiano imperatori' / 'Traianus Plinio', and 10.1 addresses Trajan as the new emperor who succeeded his (adoptive) father Nerva. Closed-book famous; entity-anchored to Pliny + Book X; single-name answer."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.17A.2",
+      "source_text": "Rursus, cum transissem in orarias nauculas, contrariis ventis retentus aliquanto tardius quam speraveram, id est XV Kal. Octobres, Bithyniam intravi.",
+      "question": "In quam provinciam, a Traiano legatus missus, Plinius minor ante diem quintum decimum Kalendas Octobres ingressus est?",
+      "answer": "In Bithyniam.",
+      "question_en": "Into which province, sent as Trajan's legate, did Pliny the Younger enter on the fifteenth day before the Kalends of October (17 September)?",
+      "answer_en": "Into Bithynia.",
+      "derivation": "Province fact: Pliny governed the province of Bithynia (and Pontus) as Trajan's special legate; he records 'Bithyniam intravi' on a.d. XV Kal. Oct. Answer supported verbatim. Closed-book famous (Pliny's governorship of Bithynia). The full province was Bithynia et Pontus (cf. 10.108 'Bithynas et Ponticas civitates', 10.112 'Bithyni et Pontici')."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.96.1",
+      "source_text": "Cognitionibus de Christianis interfui numquam: ideo nescio quid et quatenus aut puniri soleat aut quaeri.",
+      "question": "Cuius generis hominum cognitionibus se numquam interfuisse Plinius minor Traiano scribens fatetur?",
+      "answer": "Christianorum.",
+      "question_en": "At the trials of what kind of people does Pliny the Younger, writing to Trajan, confess he had never been present?",
+      "answer_en": "Christians.",
+      "derivation": "The famous letter 10.96, in which Pliny consults Trajan on how to handle Christians, opens by admitting he had never attended cognitiones de Christianis. Entity-anchored (Pliny + Christians), short answer supported verbatim, closed-book famous."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.96.7",
+      "source_text": "Affirmabant autem hanc fuisse summam vel culpae suae vel erroris, quod essent soliti stato die ante lucem convenire, carmenque Christo quasi deo dicere secum invicem.",
+      "question": "Cui Christiani, ut Plinio confessi sunt, stato die ante lucem coeuntes carmen quasi deo invicem dicere soliti erant?",
+      "answer": "Christo.",
+      "question_en": "To whom, as the Christians confessed to Pliny, were they accustomed to recite a hymn as to a god, gathering before dawn on a fixed day, in turn?",
+      "answer_en": "To Christ.",
+      "derivation": "The celebrated description of early Christian worship: they met before dawn on a fixed day and sang 'carmen Christo quasi deo dicere secum invicem'. Entity-anchored (Christians, Christ), short name answer supported verbatim, closed-book famous."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.96.3",
+      "source_text": "Interrogavi ipsos an essent Christiani. Confitentes iterum ac tertio interrogavi supplicium minatus; perseverantes duci iussi.",
+      "question": "Quid Plinius, supplicium minatus, de iis fieri iussit qui pertinaciter se Christianos esse confitebantur?",
+      "answer": "Duci (ad supplicium) iussit.",
+      "question_en": "What did Pliny, having threatened punishment, order to be done to those who persistently confessed they were Christians?",
+      "answer_en": "He ordered them led off (to execution).",
+      "derivation": "Pliny's procedure: those who persisted in confessing (perseverantes) he ordered 'duci', i.e. led off to execution, holding that obstinacy must be punished. Entity-anchored (Pliny, Christians), short verbal answer supported verbatim."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.97.2",
+      "source_text": "Conquirendi non sunt; si deferantur et arguantur, puniendi sunt.",
+      "question": "Quid Traianus, Plinio rescribens, de Christianis conquirendis statuit?",
+      "answer": "Conquirendos non esse.",
+      "question_en": "What did Trajan rule, in his reply to Pliny, about hunting out Christians?",
+      "answer_en": "That they are not to be sought out.",
+      "derivation": "Trajan's rescript (10.97), the first of its two famous rulings: Christians 'conquirendi non sunt' (they are not to be searched out, though they are to be punished if denounced and convicted). Entity-anchored (Trajan, Christians), short answer supported verbatim, closed-book famous."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.97.2",
+      "source_text": "Sine auctore vero propositi libelli in nullo crimine locum habere debent. Nam et pessimi exempli nec nostri saeculi est.",
+      "question": "Quem locum Traianus libellis sine auctore propositis in criminibus tribuendum esse negavit?",
+      "answer": "Nullum: in nullo crimine locum habere debent.",
+      "question_en": "What standing did Trajan deny should be granted to anonymous written accusations in any charge?",
+      "answer_en": "None: they are to have no place in any charge.",
+      "derivation": "The second famous ruling of Trajan's rescript: anonymous denunciations ('sine auctore propositi libelli') are to have no place in any charge, being a bad precedent unworthy of the age. Entity-anchored (Trajan), short answer supported verbatim, closed-book famous."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.79.1",
+      "source_text": "Cautum est, domine, Pompeia lege quae Bithynis data est, ne quis capiat magistratum neve sit in senatu minor annorum triginta.",
+      "question": "Minor quot annorum, ex lege Pompeia Bithynis data, magistratum capere aut in senatu esse non poterat?",
+      "answer": "Triginta annorum.",
+      "question_en": "Younger than how many years, by the lex Pompeia given to the Bithynians, could a man not hold a magistracy or sit in the senate?",
+      "answer_en": "Thirty years.",
+      "derivation": "Institutional fact: the lex Pompeia (Pompey's organization of Bithynia) barred anyone under thirty from holding local magistracy or sitting in the local senate. Entity-anchored (lex Pompeia, Bithynia), number answer supported verbatim ('minor annorum triginta')."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.33.3",
+      "source_text": "Tu, domine, dispice an instituendum putes collegium fabrorum dumtaxat hominum CL.",
+      "question": "Quod collegium Plinius, post vastissimum Nicomediae incendium, instituendum Traiano proposuit?",
+      "answer": "Collegium fabrorum.",
+      "question_en": "What guild did Pliny propose to Trajan should be established after a devastating fire at Nicomedia?",
+      "answer_en": "A guild of workmen (a fire brigade, collegium fabrorum).",
+      "derivation": "After a fire devastated Nicomedia, Pliny proposed establishing a collegium fabrorum (capped at 150 men) to fight fires; Trajan refused (10.34), fearing such associations would quickly become political clubs (hetaeriae). Entity-anchored (Pliny, Nicomedia), short answer; a recognizable exchange in the history of Roman associations."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.95",
+      "source_text": "Tuo tamen desiderio subscripsi et dedisse me ius trium liberorum Suetonio Tranquillo ea condicione, qua assuevi, referri in commentarios meos iussi.",
+      "question": "Cui viro erudito, postea 'De vita Caesarum' auctori, Plinius a Traiano ius trium liberorum impetravit?",
+      "answer": "Suetonio Tranquillo.",
+      "question_en": "For which learned man, later author of the 'Lives of the Caesars', did Pliny obtain from Trajan the 'right of three children'?",
+      "answer_en": "Suetonius Tranquillus.",
+      "derivation": "Pliny was the patron of the biographer Suetonius and secured the ius trium liberorum for him from Trajan. Entity-anchored to Suetonius; single-name answer supported verbatim. Closed-book: Suetonius's link to Pliny is well known; the descriptor 'author of De vita Caesarum' is a true external identifier."
+    },
+    {
+      "locus": "Pliny the Younger, Epistulae 10.37.1",
+      "source_text": "In aquae ductum, domine, Nicomedenses impenderunt HS XXX CCCXVIII, qui imperfectus adhuc omissus, destructus etiam est; rursus in alium ductum erogata sunt CC.",
+      "question": "Quae civitas, ut Plinius Traiano scribit, magnam pecuniam in aquae ductus imperfectos frustra erogaverat?",
+      "answer": "Nicomedia.",
+      "question_en": "Which city, as Pliny writes to Trajan, had wastefully spent a great sum of money on unfinished aqueducts?",
+      "answer_en": "Nicomedia.",
+      "derivation": "Building-project fact: the Nicomedians twice spent large sums on aqueducts that were left unfinished and even pulled down; Pliny asks Trajan for an engineer to finish the work (10.37-38). Entity-anchored to Nicomedia, a major city of the province; short place answer supported by the source."
+    }
+  ]
+}
