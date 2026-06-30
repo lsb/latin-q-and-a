@@ -1,0 +1,79 @@
+{
+  "source": "text/augustine/conf6.txt",
+  "author": "Augustine",
+  "work": "Confessiones, liber VI",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessiones 6.1.1",
+      "source_text": "iam venerat ad me mater pietate fortis, terra marique me sequens et in periculis omnibus de te secura.",
+      "question": "Quomodo mater Augustini eum secuta est?",
+      "answer": "Terra marique.",
+      "question_en": "How did Augustine's mother follow him?",
+      "answer_en": "By land and sea.",
+      "derivation": "Opening of Book 6: Augustine's mother had come to him (at Milan), following him over land and sea ('terra marique me sequens'). Anchored to Augustine + his mother; short adverbial answer supported verbatim. Closed-book: Monica's crossing the sea to join Augustine in Italy is a standard fact of his biography. NOTE: Monica is not named in Book 6 (only 'mater'); the pair relies on her being universally known as Augustine's mother."
+    },
+    {
+      "locus": "Augustine, Confessiones 6.1.1",
+      "source_text": "et invenit me, periclitantem quidem graviter desperatione indagandae veritatis, sed tamen ei cum indicassem non me quidem iam esse manichaeum, sed neque catholicum christianum, non quasi inopinatum aliquid audierit, exilivit laetitia.",
+      "question": "Quid se iam non esse Augustinus matri suae indicavit, cum eum illa invenisset?",
+      "answer": "Manichaeum.",
+      "question_en": "What did Augustine indicate to his mother that he no longer was, when she had found him?",
+      "answer_en": "A Manichee.",
+      "derivation": "When his mother reached him she found he was no longer a Manichee, though not yet a Catholic Christian ('non me quidem iam esse manichaeum, sed neque catholicum christianum'). Anchored to Augustine + his mother; single-word answer supported verbatim by 'manichaeum'. Closed-book (Augustine's break with Manichaeism is a famous turning point). NOTE: 'mater' = Monica, not named in this book."
+    },
+    {
+      "locus": "Augustine, Confessiones 6.3.3",
+      "source_text": "sed cum legebat, oculi ducebantur per paginas et cor intellectum rimabatur, vox autem et lingua quiescebant.",
+      "question": "Quomodo legere solebat Ambrosius, cum eum Augustinus observaret?",
+      "answer": "Tacite.",
+      "question_en": "How did Ambrose use to read, when Augustine observed him?",
+      "answer_en": "Silently.",
+      "derivation": "The famous report of Ambrose reading silently: eyes ran over the page while 'vox autem et lingua quiescebant' (further on: 'sic eum legentem vidimus tacite'). Anchored to Ambrose (subject of the surrounding passage, named at the start of 6.3.3 as 'ipsumque Ambrosium') + Augustine the observer; short answer. Closed-book: often cited as the locus classicus for silent reading in antiquity."
+    },
+    {
+      "locus": "Augustine, Confessiones 6.8.13",
+      "source_text": "non sane relinquens incantatam sibi a parentibus terrenam viam, Romam praecesserat ut ius disceret, et ibi gladiatorii spectaculi hiatu incredibili et incredibiliter abreptus est.",
+      "question": "Quid Alypius Romam profectus discere voluit?",
+      "answer": "Ius.",
+      "question_en": "What did Alypius set out for Rome to learn?",
+      "answer_en": "Law.",
+      "derivation": "Alypius went ahead to Rome to study law ('Romam praecesserat ut ius disceret'). Anchored to Alypius + Rome; single-word answer supported verbatim. Closed-book biographical fact about Augustine's well-known friend."
+    },
+    {
+      "locus": "Augustine, Confessiones 6.8.13",
+      "source_text": "non sane relinquens incantatam sibi a parentibus terrenam viam, Romam praecesserat ut ius disceret, et ibi gladiatorii spectaculi hiatu incredibili et incredibiliter abreptus est.",
+      "question": "Quo genere spectaculi Alypius Romae victus atque abreptus est?",
+      "answer": "Gladiatorio spectaculo.",
+      "question_en": "By what kind of spectacle was Alypius overcome and carried away at Rome?",
+      "answer_en": "By the gladiatorial spectacle.",
+      "derivation": "The celebrated episode: dragged to the amphitheatre, Alypius was overcome by the gladiatorial games ('gladiatorii spectaculi hiatu incredibili... abreptus est'). Anchored to Alypius + Rome; short noun-phrase answer supported verbatim. One of the most famous episodes of the Confessions, hence closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 6.10.17",
+      "source_text": "Nebridius etiam, qui relicta patria vicina Carthagini atque ipsa Carthagine, ubi frequentissimus erat, relicto paterno rure optimo, relicta domo et non secutura matre, nullam ob aliam causam Mediolanium venerat, nisi ut mecum viveret in flagrantissimo studio veritatis atque sapientiae.",
+      "question": "Quam ad urbem Nebridius venit, ut una cum Augustino studio sapientiae operam daret?",
+      "answer": "Mediolanium.",
+      "question_en": "To what city did Nebridius come, in order to pursue the study of wisdom together with Augustine?",
+      "answer_en": "To Milan.",
+      "derivation": "Nebridius left his homeland and came to Milan for no other reason than to live with Augustine in the ardent pursuit of truth and wisdom ('Mediolanium venerat, nisi ut mecum viveret in flagrantissimo studio veritatis atque sapientiae'). Anchored to Nebridius + Augustine; single place-name answer (acc. of motion-toward) supported verbatim. Closed-book biographical fact."
+    },
+    {
+      "locus": "Augustine, Confessiones 6.11.18",
+      "source_text": "et ego maxime mirabar, satagens et recolens quam longum tempus esset ab undevicensimo anno aetatis meae, quo fervere coeperam studio sapientiae, disponens ea inventa relinquere omnes vanarum cupiditatum spes inanes et insanias mendaces.",
+      "question": "Quoto anno aetatis suae Augustinus studio sapientiae fervere coepisse se dicit?",
+      "answer": "Undevicensimo anno.",
+      "question_en": "In which year of his life does Augustine say he began to burn with zeal for the study of wisdom?",
+      "answer_en": "In his nineteenth.",
+      "derivation": "Number fact anchored to Augustine: he began to burn with zeal for wisdom from his nineteenth year ('ab undevicensimo anno aetatis meae, quo fervere coeperam studio sapientiae'), i.e. the awakening by Cicero's Hortensius (cf. Book 3). Indirect statement 'coepisse se dicit'; short ordinal answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 6.15.25",
+      "source_text": "interea mea peccata multiplicabantur, et avulsa a latere meo tamquam impedimento coniugii cum qua cubare solitus eram, cor, ubi adhaerebat, concisum et vulneratum mihi erat et trahebat sanguinem. et illa in Africam redierat, vovens tibi alium se virum nescituram, relicto apud me naturali ex illa filio meo.",
+      "question": "Quo terrarum rediit femina quacum Augustinus cubare solebat, relicto apud eum filio naturali?",
+      "answer": "In Africam.",
+      "question_en": "To what region did the woman with whom Augustine used to sleep return, leaving his natural son behind with him?",
+      "answer_en": "To Africa.",
+      "derivation": "Augustine's long-time concubine, the mother of his son, was torn from his side and returned to Africa, leaving his natural son with him ('et illa in Africam redierat... relicto apud me naturali ex illa filio meo'). Anchored to Augustine + his concubine + their son; single place answer supported verbatim. Closed-book: a famous episode of the Confessions."
+    }
+  ]
+}
