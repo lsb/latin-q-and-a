@@ -1,0 +1,124 @@
+{
+  "source": "text/caesar/gall5.txt",
+  "author": "Caesar",
+  "work": "De Bello Gallico, liber V",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Gallico 5.11",
+      "source_text": "Eo cum venisset, maiores iam undique in eum locum copiae Britannorum convenerant summa imperi bellique administrandi communi consilio permissa Cassivellauno, cuius fines a maritimis civitatibus flumen dividit, quod appellatur Tamesis, a mari circiter milia passuum LXXX. Huic superiore tempore cum reliquis civitatibus continentia bella intercesserant; sed nostro adventu permoti Britanni hunc toti bello imperioque praefecerant.",
+      "question": "Cui Britanni summam imperi bellique administrandi communi consilio permiserunt?",
+      "answer": "Cassivellauno.",
+      "question_en": "To whom did the Britons by common counsel entrust the supreme command and conduct of the war?",
+      "answer_en": "To Cassivellaunus.",
+      "derivation": "Name fact anchored to the Britons; single named answer supported verbatim by 'summa imperi bellique administrandi communi consilio permissa Cassivellauno' and 'hunc toti bello imperioque praefecerant'. Cassivellaunus, the British supreme commander against Caesar's second expedition, is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.11",
+      "source_text": "summa imperi bellique administrandi communi consilio permissa Cassivellauno, cuius fines a maritimis civitatibus flumen dividit, quod appellatur Tamesis, a mari circiter milia passuum LXXX.",
+      "question": "Quod flumen, ut Caesar scribit, fines Cassivellauni a maritimis civitatibus dividit?",
+      "answer": "Tamesis.",
+      "question_en": "Which river, as Caesar writes, divides the territory of Cassivellaunus from the maritime states?",
+      "answer_en": "The Tamesis (Thames).",
+      "derivation": "Geography fact anchored to Cassivellaunus and Caesar; single river answer supported verbatim by 'cuius fines a maritimis civitatibus flumen dividit, quod appellatur Tamesis'. The Thames is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.3",
+      "source_text": "Haec civitas longe plurimum totius Galliae equitatu valet magnasque habet copias peditum Rhenumque, ut supra demonstravimus, tangit. In ea civitate duo de principatu inter se contendebant, Indutiomarus et Cingetorix.",
+      "question": "Qui duo apud Treveros de principatu inter se contendebant?",
+      "answer": "Indutiomarus et Cingetorix.",
+      "question_en": "Which two men contended with each other for the chieftaincy among the Treveri?",
+      "answer_en": "Indutiomarus and Cingetorix.",
+      "derivation": "Name/relation fact anchored to the Treveri (the 'civitas' of 5.3, named throughout 5.3-4); two named answers supported verbatim by 'In ea civitate duo de principatu inter se contendebant, Indutiomarus et Cingetorix'. Both are major figures of the Treveran revolt; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.7",
+      "source_text": "At omnium impeditis animis Dumnorix cum equitibus Aeduorum a castris insciente Caesare domum discedere coepit. Qua re nuntiata Caesar intermissa profectione atque omnibus rebus postpositis magnam partem equitatus ad eum insequendum mittit retrahique imperat; si vim faciat neque pareat, interfici iubet, nihil hunc se absente pro sano facturum arbitratus, qui praesentis imperium neglexisset. Ille enim revocatus resistere ac se manu defendere suorumque fidem implorare coepit, saepe clamitans liberum se liberaeque esse civitatis. Illi, ut erat imperatum, circumsistunt hominem atque interficiunt.",
+      "question": "Quis Aeduus, qui se liberae civitatis liberum esse clamitabat, iussu Caesaris ab equitibus interfectus est?",
+      "answer": "Dumnorix.",
+      "question_en": "Which Aeduan, who kept shouting that he was a free man of a free state, was killed by the cavalry on Caesar's order?",
+      "answer_en": "Dumnorix.",
+      "derivation": "Name fact anchored to the Aedui and Caesar; single named answer supported verbatim by 'Dumnorix ... domum discedere coepit ... clamitans liberum se liberaeque esse civitatis. Illi ... interficiunt'. Dumnorix is a major figure (also Book 1); his death is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.13",
+      "source_text": "Alterum vergit ad Hispaniam atque occidentem solem; qua ex parte est Hibernia, dimidio minor, ut aestimatur, quam Britannia, sed pari spatio transmissus atque ex Gallia est in Britanniam. In hoc medio cursu est insula, quae appellatur Mona.",
+      "question": "Quae insula, ut Caesar tradit, medio in cursu inter Britanniam et Hiberniam sita est?",
+      "answer": "Mona.",
+      "question_en": "Which island, as Caesar reports, lies midway in the passage between Britain and Ireland?",
+      "answer_en": "Mona.",
+      "derivation": "Geography fact anchored to Britannia and Hibernia; single named answer supported verbatim by 'In hoc medio cursu est insula, quae appellatur Mona'. Caesar's island Mona is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.14",
+      "source_text": "Omnes vero se Britanni vitro inficiunt, quod caeruleum efficit colorem, atque hoc horridiores sunt in pugna aspectu.",
+      "question": "Qua re se omnes Britanni inficiunt, quae caeruleum efficit colorem?",
+      "answer": "Vitro.",
+      "question_en": "With what do all the Britons stain themselves, the substance that produces a blue color?",
+      "answer_en": "With woad (vitrum).",
+      "derivation": "Ethnographic custom fact anchored to the Britons; single answer supported verbatim by 'Omnes vero se Britanni vitro inficiunt, quod caeruleum efficit colorem'. The Britons' blue woad is a famous closed-book detail."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.20",
+      "source_text": "Interim Trinobantes, prope firmissima earum regionum civitas, ex qua Mandubracius adulescens Caesaris fidem secutus ad eum in continentem Galliam venerat, cuius pater in ea civitate regnum obtinuerat interfectusque erat a Cassivellauno, ipse fuga mortem vitaverat.",
+      "question": "Quis adulescens Trinobantum, cuius pater a Cassivellauno interfectus erat, Caesaris fidem secutus est?",
+      "answer": "Mandubracius.",
+      "question_en": "Which young man of the Trinobantes, whose father had been killed by Cassivellaunus, sought Caesar's protection?",
+      "answer_en": "Mandubracius.",
+      "derivation": "Name/relation fact anchored to the Trinobantes and Cassivellaunus; single named answer supported verbatim by 'ex qua Mandubracius adulescens Caesaris fidem secutus ... cuius pater ... interfectusque erat a Cassivellauno'. Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.24",
+      "source_text": "Vnam legionem, quam proxime trans Padum conscripserat, et cohortes V in Eburones, quorum pars maxima est inter Mosam ac Rhenum, qui sub imperio Ambiorigis et Catuvolci erant, misit.",
+      "question": "Inter quae duo flumina partem maximam Eburonum esse Caesar scribit?",
+      "answer": "Inter Mosam et Rhenum.",
+      "question_en": "Between which two rivers does Caesar write the greater part of the Eburones lies?",
+      "answer_en": "Between the Meuse (Mosa) and the Rhine.",
+      "derivation": "Geography fact anchored to the Eburones and Caesar; answer supported verbatim by 'in Eburones, quorum pars maxima est inter Mosam ac Rhenum'. Indirect statement under scribit; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.24",
+      "source_text": "Vnam legionem, quam proxime trans Padum conscripserat, et cohortes V in Eburones, quorum pars maxima est inter Mosam ac Rhenum, qui sub imperio Ambiorigis et Catuvolci erant, misit. Eis militibus Quintum Titurium Sabinum et Lucium Aurunculeium Cottam legatos praeesse iussit.",
+      "question": "Quos duos legatos Caesar legioni in Eburones missae praeesse iussit?",
+      "answer": "Quintum Titurium Sabinum et Lucium Aurunculeium Cottam.",
+      "question_en": "Which two legates did Caesar place in charge of the legion sent among the Eburones?",
+      "answer_en": "Quintus Titurius Sabinus and Lucius Aurunculeius Cotta.",
+      "derivation": "Name fact anchored to Caesar and the legion among the Eburones; two named answers supported verbatim by 'Quintum Titurium Sabinum et Lucium Aurunculeium Cottam legatos praeesse iussit'. These are the two legates destroyed in Ambiorix's ambush; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.24",
+      "source_text": "Ex quibus unam in Morinos ducendam Gaio Fabio legato dedit, alteram in Nervios Quinto Ciceroni, tertiam in Esubios Lucio Roscio.",
+      "question": "Cui legato Caesar legionem in Nervios ducendam dedit?",
+      "answer": "Quinto Ciceroni.",
+      "question_en": "To which legate did Caesar give the legion to lead among the Nervii?",
+      "answer_en": "To Quintus Cicero.",
+      "derivation": "Name fact anchored to Caesar and the Nervii; single named answer supported verbatim by 'alteram in Nervios Quinto Ciceroni'. Quintus Cicero (brother of the orator), whose winter camp among the Nervii was besieged and relieved by Caesar, is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.26",
+      "source_text": "Diebus circiter XV, quibus in hiberna ventum est, initium repentini tumultus ac defectionis ortum est ab Ambiorige et Catuvolco.",
+      "question": "A quibus ducibus Eburonum initium repentini tumultus ac defectionis ortum est?",
+      "answer": "Ab Ambiorige et Catuvolco.",
+      "question_en": "From which leaders of the Eburones did the sudden uprising and revolt begin?",
+      "answer_en": "From Ambiorix and Catuvolcus.",
+      "derivation": "Name fact anchored to the Eburones (whose chiefs they are, 5.24); two named answers supported verbatim by 'initium repentini tumultus ac defectionis ortum est ab Ambiorige et Catuvolco'. Ambiorix's revolt is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.44",
+      "source_text": "Erant in ea legione fortissimi viri, centuriones, qui primis ordinibus appropinquarent, Titus Pullo et Lucius Vorenus. Hi perpetuas inter se controversias habebant, quinam anteferretur, omnibusque annis de locis summis simultatibus contendebant.",
+      "question": "Qui duo fortissimi centuriones in legione Ciceronis de locis summis perpetuo inter se contendebant?",
+      "answer": "Titus Pullo et Lucius Vorenus.",
+      "question_en": "Which two very brave centurions in Cicero's legion perpetually competed with each other for the top ranks?",
+      "answer_en": "Titus Pullo and Lucius Vorenus.",
+      "derivation": "Name fact anchored to Cicero's besieged legion (the 'ea legio' of 5.39-44); two named answers supported verbatim by 'centuriones ... Titus Pullo et Lucius Vorenus. Hi perpetuas inter se controversias habebant'. The rival centurions are a celebrated closed-book episode."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 5.58",
+      "source_text": "Comprobat hominis consilium fortuna, et cum unum omnes peterent, in ipso fluminis vado deprehensus Indutiomarus interficitur, caputque eius refertur in castra.",
+      "question": "Quis Trevirorum princeps in ipso fluminis vado ab equitibus Labieni deprehensus et interfectus est?",
+      "answer": "Indutiomarus.",
+      "question_en": "Which chief of the Treveri was caught in the very ford of the river by Labienus's cavalry and killed?",
+      "answer_en": "Indutiomarus.",
+      "derivation": "Name fact anchored to the Treveri and Labienus; single named answer supported verbatim by 'in ipso fluminis vado deprehensus Indutiomarus interficitur'. The killing of Indutiomarus, instigator of the revolt, is closed-book."
+    }
+  ]
+}
