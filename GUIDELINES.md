@@ -1,169 +1,224 @@
-# Q&A Extraction Guidelines
+# Factual Q&A Authoring Guidelines (ECLeKTic-style)
 
-Principles for extracting question/answer pairs from the Latin Library corpus
-(plain text under `text/`). These are working rules; boundaries are often
-debatable, so we record *why* each pair was drawn the way it was.
+How we build a dataset of **closed-book, fact-seeking question/answer pairs**
+from the Latin Library corpus (plain text under `text/`), in the spirit of
+**ECLeKTic** ([arXiv:2502.21228](https://arxiv.org/abs/2502.21228)).
 
-## Core principles
+These are working rules; the boundaries are debatable, so every pair records the
+verbatim source it rests on and *why* it was drawn the way it was.
 
-1. **Invent no new Latin.** The constraint is on *words*: every Latin word in a
-   question or answer must be the author's own, unaltered, unreordered, with no
-   spelling changes and no macrons added. We never compose, paraphrase, or
-   translate. What we *may* do, in service of a clean standalone pair, is
-   **editorial presentation**, which adds no Latin:
-   - **Drop framing/narration.** Remove speech tags and meta-narration of the
-     asking/speaking — `inquit`, `dehinc talia fatur`, `adloquitur Venus`, and
-     also `fortasse requiris` ("perhaps you ask"). These are dropped *even though
-     they are the author's own words*, because they narrate the exchange rather
-     than belonging to the utterance. Dropping words is fine; inserting is not.
-   - **Keep the utterance contiguous.** Within the chosen span, quote the
-     speaker's own words contiguously. Do **not** ellipt content with `...` or
-     stitch together non-adjacent fragments — that is editorial selection, and it
-     is how false pairs get manufactured. (We omit only framing, as above.)
-   - **Normalize capitalization** of the excerpt's first word, and
-   - **Normalize terminal punctuation** — e.g. set a `?` on a question even when
-     the edition didn't, and drop now-dangling internal commas.
+## What changed, and why
 
-   Test: read the question and answer back as Latin. If every word traces to the
-   source unchanged, it passes — regardless of caps/punctuation. If any word was
-   added, altered, or moved, it fails.
+The earlier version of this project *mined* existing question/answer structure
+out of the texts — direct-speech exchanges, self-answered rhetorical questions —
+and forbade inventing any new Latin. That produced ~3,700 pairs, but almost none
+were what we actually want: of those, only ~16 were genuinely **factual,
+closed-book, short-answer** questions, and most of *those* came from one
+grammatical catechism (Donatus). Dialogue retorts, pleas, and theory dominate;
+fact-seeking questions with a single verifiable answer are vanishingly rare in
+the wild.
 
-2. **Self-contained context.** The pair must make sense read on its own, with no
-   access to the surrounding text. A bare interrogative plus a bare reply is
-   usually useless; pull in the setup that makes the exchange intelligible.
-   - Bad:  Q: *Quare id faciam?* / A: *Nescio.*
-   - Good: Q: *Odi et amo. Quare id faciam?* / A: *Nescio sed fieri sentio et excrucior.*
-   The included setup (*Odi et amo*) is still verbatim source text — we are
-   choosing a wider excerpt window, not adding words.
+So we retarget. The goal is no longer to *find* questions in the text but to
+**author** them. We read **factual prose** — geography, ethnography, biography,
+history, law, agronomy — and for each clean fact we **write a new Latin
+question** whose answer is that fact. We keep the verbatim source sentence as
+evidence so every pair is auditable.
 
-3. **Document provenance.** Because where a pair begins and ends is a judgment
-   call, every pair records its source location and a short rationale for the
-   boundaries chosen. Another reader should be able to see the seam and disagree.
+The canonical shape:
 
-4. **Prefer false negatives to false positives.** Precision over recall. When a
-   candidate pair is doubtful — unclear boundaries, missing context, uncertain
-   speaker, garbled text — *drop it*. A missed question costs us nothing; a
-   broken or incoherent pair pollutes the dataset. When in doubt, leave it out.
-   In particular, **do not manufacture a pair** from declarative text: emphatic
-   repetition or a statement-and-echo (e.g. *Mentula moechatur. Moechatur mentula
-   certe.*) is not a question, and reordering or recombining words to make one
-   read as Q&A is forbidden. There must be a genuine question and a genuine
-   answer actually present in the text.
+> Source (Caesar): *Gallia est omnis divisa in partes tres…*
+> **Q (new Latin):** *In quot partes Galliam divisam esse Caesar scribit?*
+> **A (new Latin):** *In tres partes.*
 
-   **The `question` must be a real interrogative.** In dramatic dialogue
-   especially, a *statement answered by a retort* — capping sententiae and
-   stichomythic point/counterpoint — is a dialogue exchange but NOT a
-   question/answer pair. Drop it. Examples to reject:
-   - *Rex est timendus.* / *Rex meus fuerat pater.* (statement + retort)
-   - *Ingrata uita est cuius acceptae pudet.* / *Retinenda non est…* (sententia
-     capped by counter-sententia)
-   A pair qualifies only when one party genuinely **asks** (an interrogative —
-   *quis? quid? cur? num? nonne? -ne?* or a clear question) and the other
-   **answers** it. Do not relabel a declarative as an "implicit question."
+This is the inversion of the old rule #1: we **do** compose new Latin, for both
+the question and the answer. What anchors us to the text is no longer
+word-for-word reuse but the **fact** and its recorded **evidence**.
 
-5. **Extract by reading, not by pattern-matching.** Deciding what is a
-   question/answer pair — who is speaking, where the question's context begins,
-   where the direct answer stops and digression starts — requires actually
-   *understanding* the Latin. This is reading work, done by a model (the main
-   agent, or delegated to Claude subagents, one per file/work), not by
-   `grep`/regex over interrogatives and `?`. Run subagents **serially — one at a
-   time, no parallelism** — so each reading gets full attention and the run stays
-   easy to follow and steer. Mechanical tools are fine for
-   *triage and navigation* — listing files, narrowing to passages with speech
-   verbs, spot-checking — but never for the extraction decision itself. A regex
-   that keys on `?` both misses whole-speech-as-question pairs and fires on
-   incidental questions with no real answer; only comprehension separates them.
+## What we keep per pair
 
-## Where pairs come from (sources of Q&A)
+Three things, always, all in Latin, plus English glosses:
 
-In this corpus, question/answer structure shows up in a few recurring shapes.
-List is open; add types as we find them.
+1. **`source_text`** — the verbatim Latin sentence(s) from the work that state
+   the fact. Unaltered, in the author's order. This is the evidence; it grounds
+   the answer and lets a reviewer check the pair without the whole work.
+2. **`question`** — a **newly authored** Latin question. Correct, idiomatic
+   Latin. It must satisfy all the acceptance criteria below.
+3. **`answer`** — a **newly authored** short Latin answer to the question. As
+   short as is natural — a name, a number, a place, a short phrase.
 
-- **Direct-speech exchange.** One character asks, another answers. Detected by
-  verbs of speaking around the quotation (*inquit, ait, respondit, fatur,
-  adloquitur, requiris…*) and by `?`/interrogatives (*quid, cur, quare, quem,
-  num, quae…*). This is the main source.
-- **Whole-speech-as-question.** A speech may be one extended question/plea even
-  if only part of it carries a literal `?`. We may treat the entire speech as
-  "the question" and the responding speech (or its operative first sentence) as
-  "the answer." (See Aeneid example.)
-- **Authorial rhetorical question.** The poet poses a question and answers it
-  himself, sometimes via an imagined interlocutor (*fortasse requiris*). (See
-  Catullus example.)
+Plus `question_en` / `answer_en` (English glosses, for cross-lingual seeding and
+review) and a `derivation` note.
 
-## Granularity & boundaries (the debatable part)
+## The acceptance bar — the seven criteria
 
-- **Question window.** May be a single interrogative sentence *or* an entire
-  interrogative speech. Choose the smallest window that is still self-contained,
-  then record the choice. **When the type is whole-speech-as-question, include
-  the *entire* speech, verbatim and contiguous** — do not trim it down to its
-  "operative" interrogative sentences and do not ellipt the interior with `...`.
-  (Answer-side trimming below still applies; the trimming happens on the answer,
-  not the question.)
-- **Answer window.** The answer must *actually answer the question* — this is
-  the test, not sentence position. Default to the direct response and stop where
-  the speaker shifts from answering to elaborating/digressing; the reply's first
-  sentence (to the first full stop — not the first colon/semicolon, which these
-  editions use heavily) is a good first approximation for the *end* of the window.
-  - **Skip a non-answering preamble.** If the reply opens with a preamble or
-    deflection that does not answer (e.g. Aeneas's *O dea, si prima repetens… 
-    componat Vesper Olympo* — "the tale's too long to tell"), advance the answer's
-    *start* to the operative answering sentence(s), e.g. *Sum pius Aeneas… Italiam
-    quaero patriam*. The answer window is a contiguous sub-span of the reply; it
-    need not begin at the reply's first word. (Still no interior `...` ellipsis.)
-  - If no clean, contiguous answering span can be isolated, **drop the pair** —
-    an "answer" that doesn't answer is a false positive.
-- **Mark the seam.** When we cut an answer short of where the speech continues,
-  note what comes next so the cut is auditable.
+ECLeKTic is about *closed-book cross-lingual factual recall*. A pair is only
+worth keeping if a well-read model — one that learned this content in **any**
+language, without the text in front of it — could answer it. Every kept pair
+must satisfy **all seven**:
 
-## Normalization (what we strip vs. keep)
+1. **Closed-book.** Answerable from knowledge of the content, *not* by needing
+   this specific passage open. "Quid in hoc capitulo dicitur?" fails. The fact
+   must be the kind of thing a reader of Caesar/Pliny/Tacitus would *know*.
+2. **Entity-anchored.** The question pins down its subject with named entities
+   (people, peoples, places, works, offices) so it has one referent. "Quot
+   filios habuit?" fails — *who?* "Quot liberos Augustus ex Scribonia
+   suscepit?" anchors it.
+3. **Verifiable answer.** One correct, checkable answer, supported by the
+   `source_text`. No "it depends," no list-of-many-where-any-would-do, no
+   interpretation.
+4. **Decontextualizable.** The question reads as a standalone trivia question.
+   No "ut supra," no "in hac epistula," no pronoun whose referent is offstage.
+5. **Short answer.** The answer is a short factual span — a name, number, date,
+   place, or brief noun phrase. If the only honest answer is a sentence of
+   explanation, it is not a short-answer fact; drop it.
+6. **Translatable.** The question and answer survive translation into other
+   languages without turning on a Latin pun, meter, grammatical form, or
+   untranslatable wordplay. (Grammar/metre trivia about the Latin *as language*
+   fails this — that is the Donatus trap.)
+7. **Non-rhetorical / fact-seeking.** A genuine information question with a real
+   answer, not a rhetorical flourish, a moral, an exhortation, or an opinion.
 
-- **Strip** editorial scaffolding that is not authorial text: section markers
-  like `[1]`, internal navigation number-runs, page title lines, inline
-  every-5-lines verse numbers left mid-line by conversion (e.g. a stray `225`),
-  and the trailing `Author The Latin Library The Classics Page` footer.
-- **Keep** the author's words, unaltered and in the author's order — no spelling
-  changes, no macrons.
-- **Editorial supplements** appear in angle brackets `<...>` (e.g. `<Est> in
-  cistula`, `f<ui>sse`) — conjectural words/letters supplied by the edition.
-  Policy: **strip the brackets, keep the words** (→ `Est in cistula`, `fuisse`),
-  for clean reading text. Keep the words (dropping them breaks the grammar); just
-  remove the `< >` marks. A deterministic post-pass enforces this uniformly over
-  the whole dataset, so it does not depend on each agent getting it right.
-- **May normalize** capitalization of the first word and terminal punctuation so
-  the excerpt reads as a clean standalone question/answer (see principle 1).
-  This is presentation only; it never adds, changes, or reorders a Latin word.
+If any one fails, **drop the pair.**
+
+## What makes a *good* fact (and what to avoid)
+
+Hunt for **hard, specific, checkable facts** anchored to named entities:
+
+- **Numbers & measures** — *in partes tres*; troop strengths, distances
+  (*milia passuum CCXL*), prices, dates, lengths of reign, counts.
+- **Names & relations** — who succeeded whom, whose son/wife/colleague,
+  founders, authors, commanders, who defeated whom.
+- **Places & geography** — what river bounds what people, where a battle was,
+  what borders what.
+- **Offices, institutions, customs** — who held what magistracy, what a law
+  provided, what a people's named custom was.
+
+Avoid (these are the "theories of humors" the retarget is moving away from):
+
+- **Theory, doctrine, opinion, morals** — *why* something is best, what virtue
+  consists in, what the gods will. Not closed-book facts.
+- **Vague generalities** — "what did X think about Y?" with no single answer.
+- **Language trivia** — declensions, scansion, how a word is spelled. Fails
+  *translatable*.
+- **Whole-passage summary** — "what happens in book 2?" Fails *closed-book* and
+  *short-answer*.
+- **Anything you had to read the passage to even parse the question.** If the
+  question only makes sense next to the text, it is not decontextualizable.
+
+## Precision over recall
+
+When a candidate is doubtful — the fact is fuzzy, the answer arguable, the
+anchoring thin, the Latin you'd have to write is shaky — **drop it.** A missed
+fact costs nothing; a wrong or ambiguous pair pollutes the dataset. A work that
+yields five clean pairs is a success; returning zero is an acceptable outcome.
+Do **not** pad. Better ten gold pairs than fifty soft ones.
+
+## Authoring the Latin (the part we now own)
+
+We are writing Latin, so we are responsible for it:
+
+- **Correct and idiomatic.** Classical morphology and syntax. Indirect question
+  takes the subjunctive (*quot partes… divisa **sit***); indirect statement
+  takes accusative + infinitive (*…divisam **esse**…*). Get agreement, case, and
+  tense right.
+- **Attribute when natural.** Phrasing like *…Caesar scribit?* / *…apud Tacitum*
+  / *…secundum Plinium* both anchors the question and signals the closed-book
+  frame ("according to this author"). Use it especially where the "fact" is a
+  particular author's claim rather than uncontested history.
+- **No macrons.** Plain text, matching the corpus.
+- **Keep the answer minimal but grammatical.** *In tres partes.* / *Tres.* /
+  *A Tarquinio Prisco.* — a fragment that directly answers, not a restated
+  sentence. It need not be a full sentence, but it must be well-formed Latin.
+- **The answer must be supported by `source_text`.** Whatever fact the answer
+  asserts must be present, unaltered in substance, in the quoted source.
+
+## Read, don't pattern-match — and run serially
+
+Deciding what is a clean, closed-book fact requires *understanding the Latin*:
+what is being claimed, which entity it attaches to, whether the answer is truly
+unambiguous. This is reading work, done by a model — the main agent, or
+delegated to **one Claude subagent per work**. Run subagents **serially — one at
+a time, no parallelism** — so each reading gets full attention and the run is
+easy to follow and steer. Mechanical tools (listing files, grepping for a
+section, spot-checking a number) are fine for *navigation*, never for the
+authoring decision itself.
+
+## Normalization of the quoted `source_text`
+
+- **Strip** conversion scaffolding that is not the author's words: section
+  markers like `[1]`, navigation number-runs, the title line, stray inline verse
+  numbers, the trailing `Author The Latin Library The Classics Page` footer.
+- **Keep** the author's words unaltered and in order — no spelling changes, no
+  macrons.
+- **Editorial supplements** in angle brackets `<...>` (conjectural words/letters
+  supplied by the edition): **strip the brackets, keep the words** (`<Est> in
+  cistula` → `Est in cistula`). A deterministic post-pass also enforces this.
+- You may quote the **minimal contiguous** sentence(s) that establish the fact.
+  You need not quote a whole paragraph; quote enough that the fact is unambiguous
+  on its own.
 
 ## Record schema (per pair)
 
 ```
-source     text/<path>.txt           # the converted file
-locus      human citation            # e.g. "Catullus 85"; "Aeneid 1.229-260"
-type       direct-speech | whole-speech-as-question | authorial-rhetorical | ...
-question   "<verbatim Latin>"
-answer     "<verbatim Latin>"
-derivation short note on why these boundaries; what was cut and what follows
+locus        human citation            # e.g. "Caesar, De Bello Gallico 1.1"
+source_text  "<verbatim Latin>"        # the sentence(s) that state the fact
+question     "<new Latin question>"
+answer       "<new Latin short answer>"
+question_en  "<English gloss of the question>"
+answer_en    "<English gloss of the answer>"
+derivation   "<which fact; why it's closed-book & entity-anchored; notes>"
 ```
+
+Per-work file (`factual/<name>.json`):
+
+```json
+{ "source": "text/caesar/gall1.txt",
+  "author": "Caesar", "work": "De Bello Gallico, liber I",
+  "pairs": [ { "locus": "...", "source_text": "...", "question": "...",
+               "answer": "...", "question_en": "...", "answer_en": "...",
+               "derivation": "..." } ] }
+```
+
+`aggregate.py` flattens all `factual/*.json` to `qa.jsonl` (one pair per line).
 
 ## Worked examples
 
-### Catullus 85 — authorial rhetorical question
-- **question:** `Odi et amo. Quare id faciam?`
-- **answer:** `Nescio sed fieri sentio et excrucior.`
-- **derivation:** The poet's question to himself, surfaced by the interlocutor's
-  *fortasse requiris*. We prepend *Odi et amo* (verbatim) so *id* has a referent,
-  take the indirect *quare id faciam* as the question (capitalized, with a `?`
-  set), and **drop the framing *fortasse requiris*** — it narrates the asking,
-  not the question itself. Answer is the whole remaining clause, *fortasse
-  requiris* and the comma after *nescio* removed.
+### Caesar, *De Bello Gallico* 1.1 — number fact
+- **source_text:** `Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.`
+- **question:** `In quot partes Galliam divisam esse Caesar scribit?`
+- **answer:** `In tres partes.`
+- **question_en:** "Into how many parts does Caesar say Gaul is divided?"
+- **answer_en:** "Into three parts."
+- **derivation:** The opening fact of the *Commentarii*. Anchored to Caesar +
+  Gaul, single number answer, supported verbatim by *divisa in partes tres*.
+  Indirect statement (*divisam esse*) governed by *scribit*; closed-book because
+  it is among the most-quoted facts in Latin literature.
 
-### Aeneid 1.229–296 — whole-speech-as-question
-- **question:** all of Venus's speech (1.229–253), `O qui res hominumque deumque
-  … Hic pietatis honos? Sic nos in sceptra reponis?`
-- **answer:** Jupiter's opening reassurance, `Parce metu, Cytherea … neque me
-  sententia vertit.` (1.257–260)
-- **derivation:** Venus's speech is one extended plea/question; Jupiter's reply
-  answers it. We cut the answer at *neque me sententia vertit* — the end of the
-  direct reassurance — because immediately after he announces he will go further
-  and unroll the deeper secrets of fate (*longius et volvens fatorum arcana
-  movebo*), which is prophecy/elaboration rather than answer.
+### Caesar, *De Bello Gallico* 1.5 — count fact
+- **source_text:** `Ubi iam se ad eam rem paratos esse arbitrati sunt, oppida sua omnia, numero ad duodecim, vicos ad quadringentos, reliqua privata aedificia incendunt.`
+- **question:** `Quot fere oppida Helvetii ante profectionem incenderunt?`
+- **answer:** `Ad duodecim.`
+- **question_en:** "About how many towns did the Helvetii burn before setting out?"
+- **answer_en:** "About twelve."
+- **derivation:** Anchored to the Helvetii + their migration. *fere* mirrors the
+  source's approximative *ad* ("about twelve"); answer kept as *ad duodecim*,
+  supported verbatim. Short, verifiable.
+
+### Suetonius, *Divus Augustus* 2 — name fact
+- **source_text:** `Ea gens a Tarquinio Prisco rege inter minores gentis adlecta in senatum, mox a Servio Tullio in patricias traducta…`
+- **question:** `A quo rege gens Octavia in senatum adlecta esse dicitur?`
+- **answer:** `A Tarquinio Prisco.`
+- **question_en:** "By which king is the Octavian gens said to have been enrolled into the senate?"
+- **answer_en:** "By Tarquinius Priscus."
+- **derivation:** Anchored to the gens Octavia. Single named-entity answer,
+  supported verbatim. *dicitur* keeps the closed-book "according to the
+  tradition" frame for a claim particular to Suetonius.
+
+### A pair to REJECT (fails the bar)
+- candidate Q: `Cur Belgae fortissimi sunt?` / A: `Quod a cultu atque humanitate
+  provinciae longissime absunt.`
+- **why rejected:** This is causal/interpretive, not a short verifiable fact —
+  it restates Caesar's *explanation*, which is opinion-shaped ("because they are
+  farthest from civilization"). Fails *short-answer* and sits uneasily with
+  *verifiable*/*non-rhetorical*. Drop it; keep the crisp "who/how many/where"
+  facts instead.
