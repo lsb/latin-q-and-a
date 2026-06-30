@@ -1,0 +1,115 @@
+{
+  "source": "text/gaius4.txt",
+  "author": "Gaius",
+  "work": "Institutiones, liber IV",
+  "pairs": [
+    {
+      "locus": "Gaius, Institutiones 4.1",
+      "source_text": "et si quaeramus, quot genera actionum sint, uerius uidetur duo esse, in rem et in personam.",
+      "question": "Quot genera actionum esse uerius existimat Gaius, et quae?",
+      "answer": "Duo: in rem et in personam.",
+      "question_en": "How many kinds of actions does Gaius hold it more correct to recognize, and which?",
+      "answer_en": "Two: in rem (real) and in personam (personal).",
+      "derivation": "Gaius's great division of actions: more truly there are two genera, in rem and in personam (against those who counted four from the kinds of wager). Closed-book foundational division of Roman procedure, anchored to Gaius, the count and the two named genera present verbatim ('uerius uidetur duo esse, in rem et in personam')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.5",
+      "source_text": "Appellantur autem in rem quidem actiones uindicationes, in personam uero actiones, quibus dari fieriue oportere intendimus, condictiones.",
+      "question": "Quibus nominibus Gaius in rem et in personam actiones appellat?",
+      "answer": "In rem actiones uindicationes, in personam condictiones.",
+      "question_en": "By what names does Gaius call real (in rem) and personal (in personam) actions?",
+      "answer_en": "Real actions vindicationes, personal actions condictiones.",
+      "derivation": "Gaius's terminology: in rem actions are called uindicationes, in personam actions (whereby we claim that something ought to be given or done) condictiones. Closed-book definitional fact, anchored to Gaius, both named terms present verbatim ('Appellantur autem in rem quidem actiones uindicationes ... condictiones')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.12",
+      "source_text": "Lege autem agebatur modis quinque: sacramento, per iudicis postulationem, per condictionem, per manus iniectionem, per pignoris capionem.",
+      "question": "Quot modis lege agebatur, et quibus, secundum Gaium?",
+      "answer": "Quinque: sacramento, per iudicis postulationem, per condictionem, per manus iniectionem, per pignoris capionem.",
+      "question_en": "By how many modes was suit brought under the legis actiones, and which, according to Gaius?",
+      "answer_en": "Five: by sacramentum, by demand for a judge (iudicis postulatio), by condictio, by laying-on of hands (manus iniectio), and by seizure of a pledge (pignoris capio).",
+      "derivation": "Gaius's canonical enumeration of the five legis actiones. Closed-book count and named list of the archaic modes of legal procedure, anchored to Gaius, the count 'quinque' and the five named modes present verbatim ('modis quinque: sacramento, per iudicis postulationem, per condictionem, per manus iniectionem, per pignoris capionem')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.30",
+      "source_text": "itaque per legem Aebutiam et duas Iulias sublatae sunt istae legis actiones, effectumque est, ut per concepta uerba, id est per formulas, litigaremus.",
+      "question": "Quibus legibus legis actiones sublatae sunt secundum Gaium?",
+      "answer": "Lege Aebutia et duabus Iuliis.",
+      "question_en": "By which laws were the legis actiones abolished according to Gaius?",
+      "answer_en": "By the lex Aebutia and the two leges Iuliae.",
+      "derivation": "Gaius records the abolition of the legis actiones (replaced by the formulary system, litigation 'per formulas') by the lex Aebutia and the two leges Iuliae. Closed-book famous legal-history fact, anchored to the named laws + Gaius, answer present verbatim ('per legem Aebutiam et duas Iulias sublatae sunt istae legis actiones')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.39",
+      "source_text": "Partes autem formularum hae sunt: demonstratio, intentio, adiudicatio, condemnatio.",
+      "question": "Quae sunt partes formularum secundum Gaium?",
+      "answer": "Demonstratio, intentio, adiudicatio, condemnatio.",
+      "question_en": "What are the parts of the formula according to Gaius?",
+      "answer_en": "The demonstratio, the intentio, the adiudicatio, and the condemnatio.",
+      "derivation": "Gaius's canonical enumeration of the four parts of the formula. Closed-book foundational division of the formulary procedure, anchored to Gaius, the four named parts present verbatim ('Partes autem formularum hae sunt: demonstratio, intentio, adiudicatio, condemnatio')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.62",
+      "source_text": "Sunt autem bonae fidei iudicia haec: ex empto uendito, locato conducto, negotiorum gestorum, mandati, depositi, fiduciae, pro socio, tutelae, rei uxoriae.",
+      "question": "Quae sunt bonae fidei iudicia secundum Gaium?",
+      "answer": "Ex empto uendito, locato conducto, negotiorum gestorum, mandati, depositi, fiduciae, pro socio, tutelae, rei uxoriae.",
+      "question_en": "Which are the actions of good faith (bonae fidei iudicia) according to Gaius?",
+      "answer_en": "Those on sale, hire, management of affairs, mandate, deposit, fiducia, partnership, guardianship, and the wife's dowry.",
+      "derivation": "Gaius's canonical list of the bonae fidei iudicia, the actions in which the judge assesses ex fide bona. Closed-book named enumeration central to Roman procedure, anchored to Gaius, the named iudicia present verbatim ('ex empto uendito, locato conducto, negotiorum gestorum, mandati, depositi, fiduciae, pro socio, tutelae, rei uxoriae')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.103",
+      "source_text": "Omnia autem iudicia aut legitimo iure consistunt aut imperio continentur.",
+      "question": "Quibus duobus modis omnia iudicia consistunt secundum Gaium?",
+      "answer": "Aut legitimo iure aut imperio.",
+      "question_en": "By which two modes do all lawsuits subsist according to Gaius?",
+      "answer_en": "Either by statute-law (as legitima iudicia) or by the magistrate's imperium.",
+      "derivation": "Gaius's division of all iudicia into those that subsist by statute law (legitima) and those that depend on the magistrate's imperium (imperio continentia). Closed-book division of Roman procedure, anchored to Gaius, two-part answer present verbatim ('aut legitimo iure consistunt aut imperio continentur')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.104",
+      "source_text": "eaque e lege Iulia iudiciaria, nisi in anno et sex mensibus iudicata fuerint, expirant. et hoc est, quod uulgo dicitur e lege Iulia litem anno et sex mensibus mori.",
+      "question": "Post quantum tempus legitima iudicia e lege Iulia iudiciaria expirant, ut Gaius tradit?",
+      "answer": "Anno et sex mensibus.",
+      "question_en": "After how long do legitimate lawsuits expire under the lex Iulia iudiciaria, as Gaius reports?",
+      "answer_en": "After a year and six months.",
+      "derivation": "Gaius records that under the lex Iulia iudiciaria legitimate iudicia lapse if not decided within a year and six months, the maxim 'litem anno et sex mensibus mori.' Closed-book legal/time fact, anchored to the lex Iulia + Gaius, the period present verbatim ('in anno et sex mensibus ... anno et sex mensibus mori')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.140",
+      "source_text": "unde omnia interdicta aut restitutoria aut exhibitoria aut prohibitoria uocantur.",
+      "question": "In quae tria genera omnia interdicta diuiduntur secundum Gaium?",
+      "answer": "In restitutoria, exhibitoria, prohibitoria.",
+      "question_en": "Into which three kinds are all interdicts divided according to Gaius?",
+      "answer_en": "Into restitutory, exhibitory, and prohibitory.",
+      "derivation": "Gaius's principal division of interdicts (4.142: 'principalis diuisio') into restitutoria, exhibitoria, and prohibitoria. Closed-book named tripartite classification of interdicts, anchored to Gaius, the three named kinds present verbatim ('omnia interdicta aut restitutoria aut exhibitoria aut prohibitoria uocantur')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.143",
+      "source_text": "Sequens in eo est diuisio, quod uel adipiscendae possessionis causa conparata sunt uel retinendae uel reciperandae.",
+      "question": "In quae tria genera interdicta diuiduntur ratione possessionis secundum Gaium?",
+      "answer": "Adipiscendae, retinendae, reciperandae possessionis causa.",
+      "question_en": "Into which three kinds are interdicts divided with respect to possession according to Gaius?",
+      "answer_en": "Those for acquiring, for retaining, and for recovering possession.",
+      "derivation": "Gaius's second division of interdicts (with respect to possession): those framed for acquiring (adipiscendae), retaining (retinendae), or recovering (reciperandae) possession. Closed-book named division, anchored to Gaius, the three named purposes present verbatim ('uel adipiscendae possessionis causa conparata sunt uel retinendae uel reciperandae')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.120",
+      "source_text": "Dicuntur autem exceptiones aut peremptoriae aut dilatoriae.",
+      "question": "In quae duo genera exceptiones diuiduntur secundum Gaium?",
+      "answer": "In peremptorias et dilatorias.",
+      "question_en": "Into which two kinds are exceptions (defenses) divided according to Gaius?",
+      "answer_en": "Into peremptory and dilatory.",
+      "derivation": "Gaius's division of exceptiones into peremptoriae (permanently valid) and dilatoriae (valid only for a time). Closed-book named division of the defendant's pleas, anchored to Gaius, the two named kinds present verbatim ('exceptiones aut peremptoriae aut dilatoriae')."
+    },
+    {
+      "locus": "Gaius, Institutiones 4.173",
+      "source_text": "Statim autem ab initio pluris quam simpli actio est uelut furti manifesti quadrupli, nec manifesti dupli, concepti et oblati tripli.",
+      "question": "Quanti agitur furti manifesti, nec manifesti, concepti et oblati secundum Gaium?",
+      "answer": "Furti manifesti quadrupli, nec manifesti dupli, concepti et oblati tripli.",
+      "question_en": "For how much is the action brought for manifest, non-manifest, conceptum, and oblatum theft according to Gaius?",
+      "answer_en": "For manifest theft fourfold, for non-manifest twofold, for conceptum and oblatum threefold.",
+      "derivation": "Gaius gives the penalty multiples of the action of theft: manifest theft fourfold (quadrupli), non-manifest twofold (dupli), conceptum and oblatum threefold (tripli). Closed-book numeric fact distinct from the genera of furtum treated in book 3, anchored to Gaius, the multiples present verbatim ('furti manifesti quadrupli, nec manifesti dupli, concepti et oblati tripli')."
+    }
+  ]
+}
