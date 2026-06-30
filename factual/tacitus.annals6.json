@@ -1,0 +1,115 @@
+{
+  "source": "text/tacitus/tac.ann6.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber VI",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 6.19",
+      "source_text": "Post quos Sex. Marius Hispaniarum ditissimus defertur incestasse filiam et saxo Tarpeio deicitur.",
+      "question": "Quis, Hispaniarum ditissimus, sub Tiberio incesti accusatus saxo Tarpeio deiectus est, ut Tacitus tradit?",
+      "answer": "Sex. Marius.",
+      "question_en": "Who, the richest man of the Spanish provinces, was accused of incest under Tiberius and thrown from the Tarpeian Rock, per Tacitus?",
+      "answer_en": "Sextus Marius.",
+      "derivation": "Anchored to Sextus Marius + the Spanish provinces + the Tarpeian Rock; single named person, supported verbatim by 'Sex. Marius Hispaniarum ditissimus ... saxo Tarpeio deicitur'. Closed-book: Sextus Marius, the richest man in Spain whose gold/copper mines Tiberius then confiscated, is a memorable Tacitean vignette of the terror."
+    },
+    {
+      "locus": "Tacitus, Annales 6.20",
+      "source_text": "Non omiserim praesagium Tiberii de Servio Galba tum consule; quem accitum et diversis sermonibus pertemptatum postremo Graecis verbis in hanc sententiam adlocutus 'et tu, Galba, quandoque degustabis imperium,' seram ac brevem potentiam significans",
+      "question": "De quo viro, tum consule, Tiberius praedixit eum quandoque imperium degustaturum esse, ut Tacitus tradit?",
+      "answer": "De Servio Galba.",
+      "question_en": "Concerning what man, then consul, did Tiberius foretell that he would one day taste of empire, per Tacitus?",
+      "answer_en": "Concerning Servius Galba.",
+      "derivation": "Anchored to Tiberius + Servius Galba; single named person, supported verbatim by 'praesagium Tiberii de Servio Galba ... et tu, Galba, quandoque degustabis imperium'. Closed-book: Tiberius's prophecy of Galba's brief future reign (Galba did become emperor in 68-69) is a famous anecdote."
+    },
+    {
+      "locus": "Tacitus, Annales 6.20",
+      "source_text": "scientia Chaldaeorum artis, cuius apiscendae otium apud Rhodum, magistrum Thrasullum habuit",
+      "question": "Quem magistrum artis Chaldaeorum Tiberius apud Rhodum habuit, ut Tacitus tradit?",
+      "answer": "Thrasyllum.",
+      "question_en": "Whom did Tiberius have as his teacher of the Chaldaean (astrological) art at Rhodes, per Tacitus?",
+      "answer_en": "Thrasyllus.",
+      "derivation": "Anchored to Tiberius + Rhodes + the Chaldaean art; single named person, supported verbatim by 'apud Rhodum, magistrum Thrasullum habuit' (text spells it 'Thrasullum'). Closed-book: Thrasyllus, the astrologer who taught Tiberius on Rhodes, is a stock figure of the reign."
+    },
+    {
+      "locus": "Tacitus, Annales 6.25",
+      "source_text": "cum de Agrippina auditum, quam interfecto Seiano spe sustentatam provixisse reor, et postquam nihil de saevitia remittebatur, voluntate extinctam, nisi si negatis alimentis adsimulatus est finis qui videretur sponte sumptus.",
+      "question": "Quo mortis genere Agrippina, Germanici uxor et Tiberii nurus, vitam finivit, ut Tacitus tradit?",
+      "answer": "Inedia (cibo se abstinens).",
+      "question_en": "By what kind of death did Agrippina, wife of Germanicus and daughter-in-law of Tiberius, end her life, per Tacitus?",
+      "answer_en": "By starvation (self-imposed abstinence from food).",
+      "derivation": "Anchored to Agrippina the Elder (wife of Germanicus, Tiberius's daughter-in-law) to distinguish her from the younger Agrippina; the death by starvation is supported by 'voluntate extinctam' and 'negatis alimentis ... sponte sumptus'. Closed-book: the elder Agrippina's death by self-starvation under Tiberius is a stock fact of the reign."
+    },
+    {
+      "locus": "Tacitus, Annales 6.28",
+      "source_text": "Paulo Fabio L. Vitellio consulibus post longum saeculorum ambitum avis phoenix in Aegyptum venit praebuitque materiem doctissimis indigenarum et Graecorum multa super eo miraculo disserendi.",
+      "question": "In quam terram avem phoenicem post longum saeculorum ambitum advenisse Tacitus refert?",
+      "answer": "In Aegyptum.",
+      "question_en": "Into what land does Tacitus report that the phoenix bird came after a long cycle of ages?",
+      "answer_en": "Into Egypt.",
+      "derivation": "Anchored to the phoenix + Egypt; single place, supported verbatim by 'avis phoenix in Aegyptum venit'. Closed-book: the appearance of the phoenix in Egypt is the famous core of Tacitus's ethnographic phoenix excursus. One crisp fact kept from the digression."
+    },
+    {
+      "locus": "Tacitus, Annales 6.45",
+      "source_text": "neque enim multo post supremi Tiberio consules, Cn. Acerronius C. Pontius, magistratum occepere",
+      "question": "Qui consules sub Tiberio supremi magistratum inierunt, ut Tacitus tradit?",
+      "answer": "Cn. Acerronius et C. Pontius.",
+      "question_en": "Which consuls were the last to enter office under Tiberius, per Tacitus?",
+      "answer_en": "Gnaeus Acerronius and Gaius Pontius.",
+      "derivation": "Anchored to Tiberius + the consulship; two named persons, supported verbatim by 'supremi Tiberio consules, Cn. Acerronius C. Pontius, magistratum occepere'. Closed-book, verifiable: these were the ordinary consuls of AD 37, the last under Tiberius."
+    },
+    {
+      "locus": "Tacitus, Annales 6.50",
+      "source_text": "mutatisque saepius locis tandem apud promunturium Miseni consedit in villa cui L. Lucullus quondam dominus.",
+      "question": "Apud quod promunturium Tiberius, in villa quondam L. Luculli, vitam finivit, ut Tacitus tradit?",
+      "answer": "Apud promunturium Miseni.",
+      "question_en": "At what promontory did Tiberius end his life, in the villa that had once belonged to Lucius Lucullus, per Tacitus?",
+      "answer_en": "At the promontory of Misenum.",
+      "derivation": "Anchored to Tiberius + the villa of Lucullus; single place, supported verbatim by 'apud promunturium Miseni consedit in villa cui L. Lucullus quondam dominus'. Closed-book: Tiberius's death at Misenum, in the former villa of Lucullus, is among the best-known facts of his end."
+    },
+    {
+      "locus": "Tacitus, Annales 6.50",
+      "source_text": "sic Tiberius finivit octavo et septuagesimo aetatis anno.",
+      "question": "Quoto aetatis anno Tiberius vitam finivit, ut Tacitus tradit?",
+      "answer": "Octavo et septuagesimo anno.",
+      "question_en": "In what year of his age did Tiberius end his life, per Tacitus?",
+      "answer_en": "In his seventy-eighth year.",
+      "derivation": "Anchored to Tiberius; single number, supported verbatim by 'finivit octavo et septuagesimo aetatis anno'. Closed-book number fact: Tiberius died in his 78th year (AD 37)."
+    },
+    {
+      "locus": "Tacitus, Annales 6.50",
+      "source_text": "septimum decimum kal. Aprilis interclusa anima creditus est mortalitatem explevisse",
+      "question": "Quo die Tiberius, interclusa anima, mortalitatem explevisse creditus est, ut Tacitus tradit?",
+      "answer": "Septimum decimum kalendas Aprilis.",
+      "question_en": "On what day was Tiberius, his breath cut off, believed to have died, per Tacitus?",
+      "answer_en": "On the seventeenth day before the Kalends of April (16 March).",
+      "derivation": "Anchored to Tiberius + a date; single date, supported verbatim by 'septimum decimum kal. Aprilis interclusa anima creditus est mortalitatem explevisse'. Closed-book: the date of Tiberius's death (a.d. XVII Kal. Apr. = 16 March, AD 37) is a fixed historical fact. Tacitus notes he was only believed dead, then revived ('creditus est')."
+    },
+    {
+      "locus": "Tacitus, Annales 6.50",
+      "source_text": "Macro intrepidus opprimi senem iniectu multae vestis iubet discedique ab limine.",
+      "question": "Quis senem Tiberium reviviscentem iniectu multae vestis opprimi iussit, ut Tacitus tradit?",
+      "answer": "Macro.",
+      "question_en": "Who ordered the old man Tiberius, as he revived, to be smothered by piling on a heap of clothing, per Tacitus?",
+      "answer_en": "Macro (the praetorian prefect).",
+      "derivation": "Anchored to Macro + Tiberius; single named agent, supported verbatim by 'Macro intrepidus opprimi senem iniectu multae vestis iubet'. Closed-book: that Macro the praetorian prefect smothered the reviving Tiberius is a famous detail of the emperor's death."
+    },
+    {
+      "locus": "Tacitus, Annales 6.50",
+      "source_text": "et multo gratantum concursu ad capienda imperii primordia G. Caesar egrediebatur",
+      "question": "Quis, Tiberio mortuo, ad capienda imperii primordia egressus est, ut Tacitus tradit?",
+      "answer": "G. Caesar (Caligula).",
+      "question_en": "Who came forth to take up the beginnings of empire when Tiberius had died, per Tacitus?",
+      "answer_en": "Gaius Caesar (Caligula).",
+      "derivation": "Anchored to Tiberius's death + the succession; single named person, supported verbatim by 'ad capienda imperii primordia G. Caesar egrediebatur'. Closed-book: Gaius Caesar (Caligula), grandson of Tiberius and son of Germanicus, succeeded Tiberius in AD 37."
+    },
+    {
+      "locus": "Tacitus, Annales 6.51",
+      "source_text": "Dein Rhodo regressus vacuos principis penatis duodecim annis, mox rei Romanae arbitrium tribus ferme et viginti obtinuit.",
+      "question": "Per quot fere annos Tiberius rei Romanae arbitrium obtinuit, ut Tacitus tradit?",
+      "answer": "Per tres ferme et viginti annos.",
+      "question_en": "For about how many years did Tiberius hold sway over the Roman state, per Tacitus?",
+      "answer_en": "For about twenty-three years.",
+      "derivation": "Anchored to Tiberius; single number, supported verbatim by 'rei Romanae arbitrium tribus ferme et viginti obtinuit'. Closed-book length-of-reign fact: Tiberius ruled about twenty-three years (AD 14-37)."
+    }
+  ]
+}
