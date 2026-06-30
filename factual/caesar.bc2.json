@@ -1,0 +1,106 @@
+{
+  "source": "text/caesar/bc2.txt",
+  "author": "Caesar",
+  "work": "De Bello Civili, liber II",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Civili 2.1",
+      "source_text": "Massilia enim fere tribus ex oppidi partibus mari alluitur; reliqua quarta est, quae aditum habeat ab terra.",
+      "question": "Quot fere ex partibus Massilia mari alluitur, ut Caesar scribit?",
+      "answer": "Tribus fere ex partibus.",
+      "question_en": "On about how many sides is Massilia washed by the sea, as Caesar writes?",
+      "answer_en": "On about three sides.",
+      "derivation": "Geography fact anchored to Massilia + Caesar; number answer supported verbatim by 'fere tribus ex oppidi partibus mari alluitur', with only the fourth (landward) side accessible by foot. 'fere' mirrors the source's approximation. Massilia as a sea-girt city under siege is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.6",
+      "source_text": "Conspicataeque naves triremes duae navem D. Bruti, quae ex insigni facile agnosci poterat, duabus ex partibus sese in eam incitaverant. Sed tantum re provisa Brutus celeritate navis enisus est, ut parvo momento antecederet. Illae adeo graviter inter se incitatae conflixerunt, ut vehementissime utraque ex concursu laborarent, altera vero praefracto rostro tota collabefieret. Qua re animadversa, quae proximae ei loco ex Bruti classe naves erant, in eas impeditas impetum faciunt celeriterque ambas deprimunt.",
+      "question": "Quis classi Caesaris in proeliis navalibus apud Massiliam praefuit?",
+      "answer": "D. Brutus.",
+      "question_en": "Who commanded Caesar's fleet in the naval battles at Massilia?",
+      "answer_en": "Decimus Brutus.",
+      "derivation": "Name fact anchored to Caesar + Massilia; D. Brutus's flagship (marked by its 'insigne') and the phrase 'ex Bruti classe naves' show he commanded Caesar's fleet in the sea fighting. Complements DBC 1.36, where Caesar set D. Brutus over the fleet and Trebonius over the land siege; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.22",
+      "source_text": "Massilienses arma tormentaque ex oppido, ut est imperatum, proferunt, naves ex portu navalibusque educunt, pecuniam ex publico tradunt. Quibus rebus confectis Caesar magis eos pro nomine et vetustate, quam pro meritis in se civitatis conservans duas ibi legiones praesidio relinquit, ceteras in Italiam mittit; ipse ad urbem proficiscitur.",
+      "question": "Quot legiones Caesar in oppido Massilia, postquam in deditionem venit, praesidio reliquit?",
+      "answer": "Duas.",
+      "question_en": "How many legions did Caesar leave as a garrison in the town of Massilia after it surrendered?",
+      "answer_en": "Two.",
+      "derivation": "Number fact anchored to Caesar + Massilia; answer supported verbatim by 'duas ibi legiones praesidio relinquit'. The surrender (handing over arms, ships, and money) is in the source; the fall of Massilia is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.21",
+      "source_text": "Eadem ratione privatim ac publice quibusdam civitatibus habitis honoribus Tarracone discedit pedibusque Narbonem atque inde Massiliam pervenit. Ibi legem de dictatore latam seseque dictatorem dictum a M. Lepido praetore cognoscit.",
+      "question": "A quo praetore Caesar, cum Massiliam pervenisset, se dictatorem dictum esse cognovit?",
+      "answer": "A M. Lepido.",
+      "question_en": "By which praetor did Caesar, when he reached Massilia, learn that he had been named dictator?",
+      "answer_en": "By Marcus Lepidus.",
+      "derivation": "Name fact anchored to Caesar + Massilia; acc.+inf. 'se dictatorem dictum esse' under cognovit, with the agent supported verbatim by 'dictatorem dictum a M. Lepido praetore'. M. Aemilius Lepidus' law naming Caesar dictator in 49 BC is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.17",
+      "source_text": "M. Varro in ulteriore Hispania initio cognitis eis rebus, quae sunt in Italia gestae, diffidens Pompeianis rebus amicissime de Caesare loquebatur: praecoccupatum sese legatione ab Cn. Pompeio teneri obstrictum fide.",
+      "question": "Quis Pompei legatus initio belli civilis ulteriorem Hispaniam obtinebat?",
+      "answer": "M. Varro.",
+      "question_en": "Which legate of Pompey held Further Spain at the start of the civil war?",
+      "answer_en": "Marcus Varro.",
+      "derivation": "Name fact anchored to Pompey + Further Spain; supported by 'M. Varro in ulteriore Hispania ... legatione ab Cn. Pompeio teneri obstrictum fide'. M. Terentius Varro, Pompey's legate in Further Spain who later surrendered to Caesar; closed-book. Distinct from P. Attius Varus in Africa."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.23",
+      "source_text": "Eisdem temporibus C. Curio in Africam profectus ex Sicilia et iam ab initio copias P. Attii Vari despiciens duas legiones ex IIII, quas a Caesare acceperat, D equites transportabat.",
+      "question": "Cuius ducis Pompeiani copias C. Curio, in Africam ex Sicilia transgressus, ab initio despexit?",
+      "answer": "P. Attii Vari.",
+      "question_en": "Whose Pompeian forces did Curio, having crossed from Sicily into Africa, despise from the start?",
+      "answer_en": "Those of Publius Attius Varus.",
+      "derivation": "Name fact anchored to Curio + Africa; P. Attius Varus, the Pompeian commander in Africa, named verbatim ('copias P. Attii Vari despiciens'), with the source's own verb (despiciens) echoed. Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.25",
+      "source_text": "Eodemque tempore his rebus subsidio DC Numidae ex oppido peditesque CCCC mittuntur a Varo, quos auxilii causa rex Iuba paucis diebus ante Uticam miserat.",
+      "question": "Quis rex Numidarum P. Attio Varo apud Uticam auxilia adversus Curionem misit?",
+      "answer": "Rex Iuba.",
+      "question_en": "Which king of the Numidians sent auxiliaries to Publius Attius Varus at Utica against Curio?",
+      "answer_en": "King Juba.",
+      "derivation": "Name fact anchored to Varus + Utica + Curio; supported verbatim by 'rex Iuba ... Uticam miserat', the Numidian troops then deployed by Varus ('mittuntur a Varo'). Juba's intervention on the Pompeian side in Africa is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.25",
+      "source_text": "Huic et paternum hospitium cum Pompeio et simultas cum Curione intercedebat, quod tribunus plebis legem promulgaverat, qua lege regnum Iubae publicaverat.",
+      "question": "Cuius regis regnum C. Curio, cum tribunus plebis esset, lege promulgata publicare conatus erat?",
+      "answer": "Regnum Iubae.",
+      "question_en": "Whose kingdom had Curio, when he was tribune of the plebs, sought to confiscate by a promulgated law?",
+      "answer_en": "Juba's kingdom.",
+      "derivation": "Legal/name fact anchored to Curio (as tribune) + Juba; supported verbatim by 'tribunus plebis legem promulgaverat, qua lege regnum Iubae publicaverat'. The tribune is Curio (50 BC), and this law is given as the cause of Juba's enmity ('simultas cum Curione'); closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.24",
+      "source_text": "Curio Marcium Uticam navibus praemittit; ipse eodem cum exercitu proficiscitur biduique iter progressus ad flumen Bagradam pervenit.",
+      "question": "Ad quod flumen in Africa C. Curio cum exercitu pervenit?",
+      "answer": "Ad flumen Bagradam.",
+      "question_en": "To which river in Africa did Curio arrive with his army?",
+      "answer_en": "To the river Bagradas.",
+      "derivation": "Geography fact anchored to Curio + Africa; answer supported verbatim by 'ad flumen Bagradam pervenit'. The Bagradas, river of Curio's fatal African campaign (Saburra's camp lay on it, 2.38-39), is the recognizable name of his defeat; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.40",
+      "source_text": "Iuba certior factus a Saburra de nocturno proelio II milia Hispanorum et Gallorum equitum, quos suae custodiae causa circum se habere consuerat, et peditum eam partem, cui maxime confidebat, Saburrae submisit; ipse cum reliquis copiis elephantisque LX lentius subsequitur.",
+      "question": "Cuius regis copiis subsidio missis fretus Saburra exercitum C. Curionis in Africa delevit?",
+      "answer": "Iubae.",
+      "question_en": "Backed by which king's reinforcements did Saburra destroy Curio's army in Africa?",
+      "answer_en": "Juba's.",
+      "derivation": "Name fact anchored to Saburra + Curio. Saburra, called Juba's praefectus at 2.38 ('Saburram, eius praefectum'), routed Curio with cavalry and picked infantry that King Juba sent up ('Saburrae submisit'), Juba himself following with 60 elephants; the army's destruction follows at 2.41-42. Juba is the Numidian king who defeated Curio; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Civili 2.42",
+      "source_text": "At Curio numquam se amisso exercitu, quem a Caesare fidei commissum acceperit, in eius conspectum reversurum confirmat atque ita proelians interficitur.",
+      "question": "Quis Caesaris dux in Africa, amisso exercitu, ad Caesarem reverti recusans proelians interfectus est?",
+      "answer": "C. Curio.",
+      "question_en": "Which of Caesar's commanders in Africa, having lost his army, refused to return to Caesar and was killed fighting?",
+      "answer_en": "Gaius Curio.",
+      "derivation": "Name/outcome fact anchored to Caesar + Africa; supported verbatim by 'Curio ... in eius conspectum reversurum confirmat atque ita proelians interficitur'. His army was destroyed to the last man ('Milites ad unum omnes interficiuntur', same chapter). Curio's death with his army at the Bagradas is among the most famous episodes of the African campaign; closed-book."
+    }
+  ]
+}
