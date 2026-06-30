@@ -1,0 +1,124 @@
+{
+  "source": "text/tacitus/tac.hist5.txt",
+  "author": "Tacitus",
+  "work": "Historiae, liber V",
+  "pairs": [
+    {
+      "locus": "Tacitus, Historiae 5.1",
+      "source_text": "Eiusdem anni principio Caesar Titus, perdomandae Iudaeae delectus a patre et privatis utriusque rebus militia clarus, maiore tum vi famaque agebat, certantibus provinciarum et exercituum studiis.",
+      "question": "Quis perdomandae Iudaeae a patre delectus est, ut Tacitus tradit?",
+      "answer": "Caesar Titus.",
+      "question_en": "Who was chosen by his father to subdue Judaea, according to Tacitus?",
+      "answer_en": "Titus (Caesar).",
+      "derivation": "Opening fact of Book 5: Titus was put in charge of the Jewish war and the siege of Jerusalem. Anchored to Judaea + 'a patre'; single named answer, supported verbatim by 'Caesar Titus, perdomandae Iudaeae delectus a patre'. Closed-book: Titus's capture of Jerusalem (AD 70) is among the best-known facts of Roman history. The father is Vespasian."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.3",
+      "source_text": "Plurimi auctores consentiunt orta per Aegyptum tabe quae corpora foedaret, regem Bocchorim adito Hammonis oraculo remedium petentem purgare regnum et id genus hominum ut invisum deis alias in terras avehere iussum. Sic conquisitum collectumque vulgus, postquam vastis locis relictum sit, ceteris per lacrimas torpentibus, Moysen unum exulum monuisse ne quam deorum hominumve opem expectarent utrisque deserti, sed sibimet duce caelesti crederent, primo cuius auxilio praesentis miserias pepulissent.",
+      "question": "Quo duce Iudaei ex Aegypto expulsi novas terras petiverunt, ut Tacitus tradit?",
+      "answer": "Moyse (duce).",
+      "question_en": "Under whose leadership did the Jews, after being expelled from Egypt, seek new lands, according to Tacitus?",
+      "answer_en": "Under Moses.",
+      "derivation": "In the account Tacitus says most authorities agree on ('plurimi auctores consentiunt', 5.3), a plague in Egypt led king Bocchoris to drive out the Jews, and Moses, one of the exiles, became their leader. Anchored to the Jews + Egypt; single named leader, supported by 'Moysen unum exulum ... sibimet duce caelesti crederent'. Closed-book: Moses leading the Jews out of Egypt is among the most widely known facts across cultures. The rival origin theories (Cretan, Ethiopian, Assyrian, etc.) are dropped as multi-attributed and non-verifiable."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.4",
+      "source_text": "Septimo die otium placuisse ferunt, quia is finem laborum tulerit; dein blandiente inertia septimum quoque annum ignaviae datum.",
+      "question": "Quoto quoque die Iudaeos otium agere Tacitus tradit?",
+      "answer": "Septimo die.",
+      "question_en": "On every which day does Tacitus report that the Jews keep rest?",
+      "answer_en": "On the seventh day.",
+      "derivation": "The Sabbath. Anchored to the Jews + Tacitus; single ordinal-number answer, supported verbatim by 'Septimo die otium placuisse'. Indirect statement (Iudaeos otium agere) governed by tradit. Closed-book: the Jewish seventh-day rest is a stock fact; Tacitus's reported reason ('quia is finem laborum tulerit') is not asked, only the day."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.4",
+      "source_text": "Septimo die otium placuisse ferunt, quia is finem laborum tulerit; dein blandiente inertia septimum quoque annum ignaviae datum.",
+      "question": "Quotum quemque annum Iudaeos ignaviae dare Tacitus tradit?",
+      "answer": "Septimum (quemque annum).",
+      "question_en": "Every which year does Tacitus report the Jews give over to idleness?",
+      "answer_en": "Every seventh year.",
+      "derivation": "The sabbatical year. Anchored to the Jews + Tacitus; single ordinal answer, supported verbatim by 'septimum quoque annum ignaviae datum'. Indirect statement (Iudaeos dare) governed by tradit. Closed-book ethnographic fact reported by Tacitus, distinct from the seventh-day rest."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.4",
+      "source_text": "Sue abstinent memoria cladis, quod ipsos scabies quondam turpaverat, cui id animal obnoxium.",
+      "question": "Quo animali Iudaeos abstinere Tacitus tradit?",
+      "answer": "Sue.",
+      "question_en": "From which animal does Tacitus report that the Jews abstain?",
+      "answer_en": "From the pig (swine).",
+      "derivation": "Jewish abstention from pork. Anchored to the Jews + Tacitus; single named animal in the ablative (abstinere + abl.), supported verbatim by 'Sue abstinent'. Closed-book: abstaining from pork is a defining, widely known Jewish custom."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.5",
+      "source_text": "Aegyptii pleraque animalia effigiesque compositas venerantur, Iudaei mente sola unumque numen intellegunt: profanos qui deum imagines mortalibus materiis in species hominum effingant; summum illud et aeternum neque imitabile neque interiturum.",
+      "question": "Quot numina Iudaeos mente sola intellegere Tacitus tradit?",
+      "answer": "Unum (numen).",
+      "question_en": "How many deities does Tacitus report the Jews conceive with the mind alone?",
+      "answer_en": "One (a single deity).",
+      "derivation": "Jewish monotheism. Anchored to the Jews (contrasted with the Egyptians) + Tacitus; single-number answer, supported verbatim by 'Iudaei mente sola unumque numen intellegunt'. Indirect statement (Iudaeos intellegere) governed by tradit. Closed-book: that the Jews worship one God is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.5",
+      "source_text": "Igitur nulla simulacra urbibus suis, nedum templis sistunt; non regibus haec adulatio, non Caesaribus honor.",
+      "question": "Quot simulacra Iudaei in urbibus suis, nedum templis, statuunt, ut Tacitus tradit?",
+      "answer": "Nulla.",
+      "question_en": "How many images do the Jews set up in their cities, let alone their temples, according to Tacitus?",
+      "answer_en": "None.",
+      "derivation": "Jewish aniconism. Anchored to the Jews + Tacitus; single answer 'nulla', supported verbatim by 'nulla simulacra urbibus suis, nedum templis sistunt'. Closed-book ethnographic fact (parallels the Germania 'Nullas ... urbes' structure)."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.8",
+      "source_text": "Magna pars Iudaeae vicis dispergitur, habent et oppida; Hierosolyma genti caput. Illic immensae opulentiae templum, et primis munimentis urbs, dein regia, templum intimis clausum.",
+      "question": "Quae urbs Iudaeae genti caput est, ut Tacitus tradit?",
+      "answer": "Hierosolyma.",
+      "question_en": "Which city is the capital of the Jewish people, according to Tacitus?",
+      "answer_en": "Jerusalem.",
+      "derivation": "Anchored to the Jewish people + Tacitus; single named city, supported verbatim by 'Hierosolyma genti caput'. Closed-book: Jerusalem as the Jews' chief city and temple-city is universally known."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.9",
+      "source_text": "Romanorum primus Cn. Pompeius Iudaeos domuit templumque iure victoriae ingressus est: inde vulgatum nulla intus deum effigie vacuam sedem et inania arcana.",
+      "question": "Quis Romanorum primus Iudaeos domuit et templum Hierosolymorum ingressus est, ut Tacitus tradit?",
+      "answer": "Cn. Pompeius.",
+      "question_en": "Who was the first of the Romans to subdue the Jews and enter the temple of Jerusalem, according to Tacitus?",
+      "answer_en": "Gnaeus Pompey.",
+      "derivation": "Pompey's capture of Jerusalem (63 BC) and entry into the Temple. Anchored to the Jews/Temple + 'Romanorum primus'; single named person, supported verbatim by 'Romanorum primus Cn. Pompeius Iudaeos domuit templumque ... ingressus est'. Closed-book historical fact."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.10",
+      "source_text": "Qui ubi fato aut taedio occidit, missu Neronis Vespasianus fortuna famaque et egregiis ministris intra duas aestates cuncta camporum omnisque praeter Hierosolyma urbis victore exercitu tenebat.",
+      "question": "Cuius missu Vespasianus bellum Iudaicum gessit, ut Tacitus tradit?",
+      "answer": "Neronis.",
+      "question_en": "By whose dispatch did Vespasian wage the Jewish war, according to Tacitus?",
+      "answer_en": "By Nero's (i.e. sent by Nero).",
+      "derivation": "Nero appointed Vespasian to the Jewish command. Anchored to Vespasian + the Jewish war; single named person in the genitive ('cuius missu' / 'Neronis'), supported verbatim by 'missu Neronis Vespasianus'. Closed-book: Nero's commissioning of Vespasian against the Jews is a stock fact. (Within two summers he held all but Jerusalem.)"
+    },
+    {
+      "locus": "Tacitus, Historiae 5.13",
+      "source_text": "Multitudinem obsessorum omnis aetatis, virile ac muliebre secus, sexcenta milia fuisse accepimus: arma cunctis, qui ferre possent, et plures quam pro numero audebant.",
+      "question": "Quot milia hominum Hierosolymis obsessa fuisse Tacitus accepit?",
+      "answer": "Sexcenta milia.",
+      "question_en": "How many thousands of people does Tacitus record were besieged at Jerusalem?",
+      "answer_en": "Six hundred thousand.",
+      "derivation": "Number of the besieged at Jerusalem. Anchored to the siege of Jerusalem + Tacitus; single number answer, supported verbatim by 'sexcenta milia fuisse accepimus'. Indirect statement governed by accepit ('accepimus' marks the reported figure). Closed-book number fact."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.16",
+      "source_text": "Civilis haud porrecto agmine, sed cuneis adstitit: Batavi Cugernique in dextro, laeva ac propiora flumini Transrhenani tenuere.",
+      "question": "Quis dux barbarorum aciem cuneis instruxit, cuius in dextro cornu Batavi steterunt, ut Tacitus tradit?",
+      "answer": "Civilis.",
+      "question_en": "Which leader of the barbarians drew up his battle line in wedges, with the Batavi standing on his right wing, according to Tacitus?",
+      "answer_en": "Civilis.",
+      "derivation": "Iulius Civilis, leader of the Batavian revolt against Rome. Anchored to the Batavi (named on his right wing) + Tacitus; single named leader, supported verbatim by 'Civilis ... cuneis adstitit: Batavi Cugernique in dextro'. Closed-book: Civilis is the famous leader of the Batavian revolt (AD 69-70); Book 5 names him simply 'Civilis' (full name Iulius Civilis in the earlier books)."
+    },
+    {
+      "locus": "Tacitus, Historiae 5.22",
+      "source_text": "Multa luce revecti hostes captivis navibus, praetoriam triremem flumine Lupia donum Veledae traxere.",
+      "question": "Cui Germani praetoriam triremem captam, flumine Lupia subvectam, dono dederunt, ut Tacitus tradit?",
+      "answer": "Veledae.",
+      "question_en": "To whom did the Germans give the captured praetorian trireme, brought up the river Lippe, as a gift, according to Tacitus?",
+      "answer_en": "To Veleda.",
+      "derivation": "The captured flagship dragged up the Lupia (Lippe) as a gift for the prophetess Veleda. Anchored to the Germans + the trireme; single named person in the dative, supported verbatim by 'praetoriam triremem flumine Lupia donum Veledae traxere'. Closed-book: Veleda, the Bructeran seeress (cf. Germania 8), is a well-known figure."
+    }
+  ]
+}
