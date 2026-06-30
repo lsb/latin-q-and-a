@@ -1,0 +1,97 @@
+{
+  "source": "text/caesar/alex.txt",
+  "author": "Auctor incertus (Corpus Caesarianum)",
+  "work": "De Bello Alexandrino",
+  "pairs": [
+    {
+      "locus": "De Bello Alexandrino 26",
+      "source_text": "Sub idem tempus Mithridates Pergamenus, magnae nobilitatis domi scientiaeque in bello et virtutis, fidei dignitatisque in amicitia Caesaris, missus in Syriam Ciliciamque initio belli Alexandrini ad auxilia arcessenda, cum magnis copiis, quas celeriter et propensissima civitatium voluntate et sua diligentia confecerat, itinere pedestri, quo coniungitur Aegyptus Syriae, Pelusium adducit",
+      "question": "Quis initio belli Alexandrini in Syriam Ciliciamque ad auxilia arcessenda missus, magnas copias itinere pedestri in Aegyptum Caesari subsidio adduxit?",
+      "answer": "Mithridates Pergamenus.",
+      "question_en": "Who, sent to Syria and Cilicia at the start of the Alexandrian war to fetch auxiliaries, led a large army overland into Egypt to relieve Caesar?",
+      "answer_en": "Mithridates of Pergamum.",
+      "derivation": "Name fact anchored to the Alexandrian war and Caesar's relief: Mithridates of Pergamum gathered forces in Syria and Cilicia and marched overland to Egypt, supported verbatim by 'Mithridates Pergamenus ... missus in Syriam Ciliciamque ... ad auxilia arcessenda, cum magnis copiis ... itinere pedestri ... in Aegyptum'. His relief of the besieged Caesar is closed-book history."
+    },
+    {
+      "locus": "De Bello Alexandrino 26",
+      "source_text": "namque tota Aegyptus maritimo accessu Pharo, pedestri Pelusio velut claustris munita existimatur",
+      "question": "Quibus duobus claustris, altero ad maritimum accessum, altero ad pedestrem, tota Aegyptus munita esse existimatur?",
+      "answer": "Pharo et Pelusio.",
+      "question_en": "By which two strongholds, one guarding the approach by sea, the other by land, is all Egypt thought to be fortified?",
+      "answer_en": "By the Pharos and Pelusium.",
+      "derivation": "Geography fact anchored to Egypt: the Pharos guards the sea approach and Pelusium the land approach, supported verbatim by 'maritimo accessu Pharo, pedestri Pelusio velut claustris munita'. The Pharos of Alexandria and the frontier fortress of Pelusium are closed-book landmarks."
+    },
+    {
+      "locus": "De Bello Alexandrino 31",
+      "source_text": "Constat fugisse ex castris regem ipsum receptumque in navem multitudine eorum qui ad proximas navis adnatabant demerso navigio perisse.",
+      "question": "Quo genere mortis Ptolomaeus rex Aegypti periit, cum victus ex castris ad flumen Nilum fugeret?",
+      "answer": "Demerso navigio.",
+      "question_en": "By what kind of death did Ptolemy, king of Egypt, perish when, defeated, he fled from his camp to the river Nile?",
+      "answer_en": "By the sinking of his boat (he drowned).",
+      "derivation": "Fact anchored to the boy-king Ptolemy (XIII) and the battle by the Nile: his overloaded boat sank and he drowned, supported verbatim by 'regem ipsum ... demerso navigio perisse'. The king's death in the Nile during the rout is iconic and closed-book; the question supplies the Nile setting established at sections 28-30."
+    },
+    {
+      "locus": "De Bello Alexandrino 33",
+      "source_text": "Caesar Aegypto atque Alexandrea potitus reges constituit quos Ptolomaeus testamento scripserat atque obtestatus erat populum Romanum ne mutarentur. Nam maiore ex duobus pueris, rege, amisso minori tradidit regnum maiorique ex duabus filiis, Cleopatrae, quae manserat in fide praesidiisque eius; minorem, Arsinoen, cuius nomine diu regnasse impotenter Ganymeden docuimus, deducere ex regno statuit, ne qua rursus nova dissensio, prius quam diuturnitate confirmarentur regibus imperia, per homines seditiosos nasceretur.",
+      "question": "Cui Caesar, Aegypto potitus, regnum Aegypti tradidit, quae in fide praesidiisque eius permanserat?",
+      "answer": "Cleopatrae.",
+      "question_en": "To whom did Caesar, having taken control of Egypt, hand over the kingdom of Egypt, she who had remained loyal under his protection?",
+      "answer_en": "To Cleopatra.",
+      "derivation": "Name fact anchored to Caesar and Egypt: after winning the war he settled the throne on Cleopatra (with the younger surviving brother), supported verbatim by 'maiorique ex duabus filiis, Cleopatrae, quae manserat in fide praesidiisque eius'. Caesar's establishment of Cleopatra on the Egyptian throne is closed-book."
+    },
+    {
+      "locus": "De Bello Alexandrino 33",
+      "source_text": "Nam maiore ex duobus pueris, rege, amisso minori tradidit regnum maiorique ex duabus filiis, Cleopatrae, quae manserat in fide praesidiisque eius; minorem, Arsinoen, cuius nomine diu regnasse impotenter Ganymeden docuimus, deducere ex regno statuit, ne qua rursus nova dissensio, prius quam diuturnitate confirmarentur regibus imperia, per homines seditiosos nasceretur.",
+      "question": "Quam Ptolomaei filiam minorem Caesar ex regno Aegypti deducere statuit, cuius nomine Ganymedes regnaverat?",
+      "answer": "Arsinoen.",
+      "question_en": "Which younger daughter of Ptolemy did Caesar decide to remove from the kingdom of Egypt, in whose name Ganymedes had reigned?",
+      "answer_en": "Arsinoe.",
+      "derivation": "Name fact anchored to Caesar and the Egyptian settlement: he removed the younger sister Arsinoe (IV), in whose name the eunuch Ganymedes had ruled, supported verbatim by 'minorem, Arsinoen ... deducere ex regno statuit'. Arsinoe, later led in Caesar's triumph, is closed-book."
+    },
+    {
+      "locus": "De Bello Alexandrino 76",
+      "source_text": "Interfecta multitudine omni suorum aut capta Pharnaces cum paucis equitibus profugit; cui nisi castrorum oppugnatio facultatem attulisset liberius profugiendi, vivus in Caesaris potestatem adductus esset.",
+      "question": "Quem regem Caesar apud Zelam in Ponto acie fudit, ita ut is cum paucis equitibus profugeret?",
+      "answer": "Pharnacen.",
+      "question_en": "Which king did Caesar rout in battle at Zela in Pontus, so that he fled with a few horsemen?",
+      "answer_en": "Pharnaces.",
+      "derivation": "Name fact anchored to Caesar and the battle of Zela (Zela located in Pontus at section 72): Pharnaces was crushed and fled with few horsemen, supported verbatim by 'Pharnaces cum paucis equitibus profugit'. Caesar's lightning victory over Pharnaces at Zela (the 'veni vidi vici' battle) is closed-book."
+    },
+    {
+      "locus": "De Bello Alexandrino 40",
+      "source_text": "Quo tamen incommodo Domitius accepto reliquias exercitus dissipati collegit itineribusque tutis per Cappadociam se in Asiam recepit.",
+      "question": "Quis Romanus imperator, apud Nicopolim a Pharnace superatus, cum reliquiis exercitus per Cappadociam in Asiam se recepit?",
+      "answer": "Cn. Domitius Calvinus.",
+      "question_en": "Which Roman commander, defeated by Pharnaces at Nicopolis, withdrew with the remnants of his army through Cappadocia into Asia?",
+      "answer_en": "Gnaeus Domitius Calvinus.",
+      "derivation": "Name fact anchored to Pharnaces and Nicopolis (the town in Armenia minor, section 36): Domitius Calvinus, beaten in the battle that preceded Zela, gathered his shattered army and retreated through Cappadocia into Asia, supported verbatim by 'Domitius ... reliquias exercitus dissipati collegit itineribusque ... per Cappadociam se in Asiam recepit'. Pharnaces' defeat of Domitius Calvinus is closed-book."
+    },
+    {
+      "locus": "De Bello Alexandrino 34",
+      "source_text": "Dum haec in Aegypto geruntur, rex Deiotarus ad Domitium Calvinum, cui Caesar Asiam finitimasque provincias administrandas tradiderat, venit oratum ne Armeniam minorem, regnum suum, neve Cappadociam, regnum Ariobarzanis, possideri vastarique pateretur a Pharnace; quo malo nisi liberarentur, imperata se facere pecuniamque promissam Caesari non posse persolvere.",
+      "question": "Cuius regis regnum erat Cappadocia, quam Deiotarus a Pharnace defendi orabat?",
+      "answer": "Ariobarzanis.",
+      "question_en": "Of which king was Cappadocia the kingdom, which Deiotarus begged be defended from Pharnaces?",
+      "answer_en": "Of Ariobarzanes.",
+      "derivation": "Name fact anchored to Cappadocia and the appeal against Pharnaces: Cappadocia is the kingdom of Ariobarzanes, supported verbatim by 'Cappadociam, regnum Ariobarzanis'. Ariobarzanes (III) of Cappadocia is closed-book; the question pins it with Deiotarus and Pharnaces."
+    },
+    {
+      "locus": "De Bello Alexandrino 67",
+      "source_text": "Deiotarus, tetrarches Gallograeciae tum quidem paene totius, quod ei neque legibus neque moribus concessum esse ceteri tetrarchae contendebant, sine dubio autem rex Armeniae minoris ab senatu appellatus, depositis regiis insignibus neque tantum privato vestitu sed etiam reorum habitu supplex ad Caesarem venit oratum ut sibi ignosceret",
+      "question": "Quo regio titulo Deiotarus, Gallograeciae tetrarches, ab senatu Romano appellatus erat?",
+      "answer": "Rex Armeniae minoris.",
+      "question_en": "By what royal title had Deiotarus, tetrarch of Galatia, been named by the Roman senate?",
+      "answer_en": "King of Lesser Armenia.",
+      "derivation": "Title fact anchored to Deiotarus, tetrarch of Galatia: the senate had named him king of Armenia minor, supported verbatim by 'rex Armeniae minoris ab senatu appellatus'. Deiotarus (Cicero's client-king) is closed-book."
+    },
+    {
+      "locus": "De Bello Alexandrino 78",
+      "source_text": "Mithridaten Pergamenum, a quo rem feliciter celeriterque gestam in Aegypto supra scripsimus, regio genere ortum, disciplinis etiam regiis educatum — nam eum Mithridates, rex Asiae totius, propter nobilitatem Pergamo parvulum secum asportaverat in castra multosque retinuerat annos — regem Bosphori constituit, quod sub imperio Pharnacis fuerat, provinciasque populi Romani a barbaris atque inimicis regibus interposito amicissimo rege munivit.",
+      "question": "Cuius regni regem Caesar Mithridaten Pergamenum constituit, quod antea sub imperio Pharnacis fuerat?",
+      "answer": "Bosphori.",
+      "question_en": "Of which kingdom did Caesar make Mithridates of Pergamum king, a realm that had previously been under Pharnaces' rule?",
+      "answer_en": "Of the Bosphorus (the Bosporan kingdom).",
+      "derivation": "Office fact anchored to Caesar, Mithridates of Pergamum, and Pharnaces: as a reward Caesar made Mithridates king of the Bosphorus, the realm formerly Pharnaces', supported verbatim by 'regem Bosphori constituit, quod sub imperio Pharnacis fuerat'. Closed-book reward of the man who relieved Caesar in Egypt."
+    }
+  ]
+}
