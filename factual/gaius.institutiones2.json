@@ -1,0 +1,124 @@
+{
+  "source": "text/gaius2.txt",
+  "author": "Gaius",
+  "work": "Institutiones, liber II",
+  "pairs": [
+    {
+      "locus": "Gaius, Institutiones 2.2",
+      "source_text": "Summa itaque rerum diuisio in duos articulos diducitur: nam aliae sunt diuini iuris, aliae humani.",
+      "question": "Quae est summa rerum divisio secundum Gaium?",
+      "answer": "Res aliae divini iuris sunt, aliae humani.",
+      "question_en": "What is the highest division of things according to Gaius?",
+      "answer_en": "Some things are of divine law, others of human law.",
+      "derivation": "Gaius's famous summa divisio rerum opening the law of things: things are either divini iuris or humani iuris. Closed-book foundational maxim, anchored to Gaius + ius rerum, short two-part answer present verbatim ('aliae sunt diuini iuris, aliae humani'); parallels the Book I summa divisio of persons."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.3",
+      "source_text": "Diuini iuris sunt ueluti res sacrae et religiosae.",
+      "question": "Quae sunt res divini iuris secundum Gaium?",
+      "answer": "Res sacrae et religiosae.",
+      "question_en": "What are the things of divine law according to Gaius?",
+      "answer_en": "Sacred things (res sacrae) and religious things (res religiosae).",
+      "derivation": "Gaius subdivides res divini iuris into res sacrae and res religiosae. Closed-book canonical division, anchored to Gaius + res divini iuris, two named-term answer present verbatim ('res sacrae et religiosae')."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.4",
+      "source_text": "Sacrae sunt, quae diis superis consecratae sunt; religiosae, quae diis Manibus relictae sunt.",
+      "question": "Quibus diis res sacrae consecratae et res religiosae relictae sunt secundum Gaium?",
+      "answer": "Sacrae diis superis, religiosae diis Manibus.",
+      "question_en": "To which gods are sacred things consecrated and religious things left, according to Gaius?",
+      "answer_en": "Sacred things to the gods above (dii superi), religious things to the gods of the dead (dii Manes).",
+      "derivation": "Gaius's defining distinction between res sacrae (consecrated to the gods above) and res religiosae (left to the di Manes). Closed-book definitional fact, anchored to Gaius, paired named-entity answer present verbatim ('quae diis superis consecratae sunt ... quae diis Manibus relictae sunt')."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.10",
+      "source_text": "Hae autem res, quae humani iuris sunt, aut publicae sunt aut priuatae.",
+      "question": "In quae duo genera res humani iuris dividi Gaius tradit?",
+      "answer": "In publicas et privatas.",
+      "question_en": "Into which two kinds does Gaius report that things of human law are divided?",
+      "answer_en": "Into public and private.",
+      "derivation": "Gaius's subdivision of res humani iuris into res publicae and res privatae. Closed-book canonical division, anchored to Gaius + res humani iuris, two-part answer present verbatim ('aut publicae sunt aut priuatae'); indirect statement (res dividi) governed by tradit."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.13",
+      "source_text": "Corporales hae sunt, quae tangi possunt, uelut fundus, homo, uestis, aurum, argentum et denique aliae res innumerabiles.",
+      "question": "Quas res Gaius corporales esse dicit?",
+      "answer": "Eas quae tangi possunt.",
+      "question_en": "Which things does Gaius say are corporeal?",
+      "answer_en": "Those which can be touched.",
+      "derivation": "Gaius's classic definition of res corporales as things that can be touched (opposed to res incorporales). Closed-book jurisprudential definition, anchored to Gaius, short answer present verbatim ('Corporales hae sunt, quae tangi possunt'); indirect statement (res corporales esse) governed by dicit."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.14a",
+      "source_text": "Res praeterea aut mancipi sunt aut nec mancipi.",
+      "question": "In quae duo genera res praeterea dividi Gaius scribit?",
+      "answer": "In res mancipi et nec mancipi.",
+      "question_en": "Into which two kinds does Gaius write that things are further divided?",
+      "answer_en": "Into things mancipi and things nec mancipi.",
+      "derivation": "Gaius's famous division of things into res mancipi and res nec mancipi, fundamental to Roman property law. Closed-book canonical division, anchored to Gaius, two named-term answer present verbatim ('aut mancipi sunt aut nec mancipi')."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.17",
+      "source_text": "Sed item fere omnia, quae incorporalia sunt, nec mancipi sunt, exceptis seruitutibus praediorum rusticorum; nam eas mancipi esse constat, quamuis sint ex numero rerum incorporalium.",
+      "question": "Quae sola ex rebus incorporalibus res mancipi esse Gaius adfirmat?",
+      "answer": "Servitutes praediorum rusticorum.",
+      "question_en": "Which incorporeal things alone does Gaius affirm to be res mancipi?",
+      "answer_en": "Rustic praedial servitudes.",
+      "derivation": "Gaius notes that although nearly all incorporeal things are nec mancipi, rustic praedial servitudes are res mancipi (an instance of the classic res mancipi set). Closed-book, anchored to Gaius, single named-entity answer present verbatim ('exceptis seruitutibus praediorum rusticorum; nam eas mancipi esse constat'); indirect statement (servitutes mancipi esse) governed by adfirmat."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.42",
+      "source_text": "Vsucapio autem mobilium quidem rerum anno completur, fundi uero et aedium biennio; et ita lege XII tabularum cautum est.",
+      "question": "Quibus temporibus usucapionem rerum mobilium et fundi compleri Gaius scribit?",
+      "answer": "Mobilium anno, fundi biennio.",
+      "question_en": "In what periods does Gaius write that usucapion of movable things and of land is completed?",
+      "answer_en": "Of movables in one year, of land in two years.",
+      "derivation": "Gaius gives the usucapio periods fixed by the Twelve Tables: one year for movables, two years for land and buildings. Closed-book crisp numeric fact, anchored to Gaius + XII Tables, both periods present verbatim ('mobilium quidem rerum anno completur, fundi uero et aedium biennio'); indirect statement (usucapionem compleri) governed by scribit."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.73",
+      "source_text": "Praeterea id, quod in solo nostro ab aliquo aedificatum est, quamuis ille suo nomine aedificauerit, iure naturali nostrum fit, quia superficies solo cedit.",
+      "question": "Quo principio id quod in solo nostro ab alio aedificatum est nostrum fieri Gaius docet?",
+      "answer": "Quia superficies solo cedit.",
+      "question_en": "On what principle does Gaius teach that what another builds on our land becomes ours?",
+      "answer_en": "Because the surface yields to the soil (superficies solo cedit).",
+      "derivation": "Gaius states the famous maxim superficies solo cedit: what is built on our soil becomes ours by natural law. Closed-book classical legal maxim, anchored to Gaius, short answer present verbatim ('quia superficies solo cedit'); indirect statement (id nostrum fieri) governed by docet."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.101-102",
+      "source_text": "Testamentorum autem genera initio duo fuerunt: nam aut calatis comitiis testamentum faciebant, quae comitia bis in anno testamentis faciendis destinata erant, aut in procinctu, id est, cum belli causa arma sumebant: procinctus est enim expeditus et armatus exercitus. Accessit deinde tertium genus testamenti, quod per aes et libram agitur.",
+      "question": "Quae tria genera testamentorum apud Romanos fuisse Gaius commemorat?",
+      "answer": "Calatis comitiis, in procinctu, et per aes et libram.",
+      "question_en": "Which three kinds of testament does Gaius record existed among the Romans?",
+      "answer_en": "In the calate assembly (calatis comitiis), in battle array (in procinctu), and by bronze and balance (per aes et libram).",
+      "derivation": "Gaius enumerates the three historical forms of testament: the two original ones (calatis comitiis and in procinctu) and the later per aes et libram. Closed-book famous legal-history fact, anchored to Gaius, three named forms present verbatim across 2.101-102; indirect statement (genera fuisse) governed by commemorat."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.152",
+      "source_text": "Heredes autem aut necessarii dicuntur aut sui et necessarii aut extranei.",
+      "question": "In quae tria genera heredes dividi Gaius scribit?",
+      "answer": "In necessarios, suos et necessarios, et extraneos.",
+      "question_en": "Into which three classes does Gaius write that heirs are divided?",
+      "answer_en": "Into necessary heirs (necessarii), own-and-necessary heirs (sui et necessarii), and external heirs (extranei).",
+      "derivation": "Gaius's threefold classification of heirs: necessarii, sui et necessarii, extranei. Closed-book canonical division, anchored to Gaius, three named-term answer present verbatim ('aut necessarii ... aut sui et necessarii aut extranei'); indirect statement (heredes dividi) governed by scribit."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.192",
+      "source_text": "Legatorum itaque genera sunt quattuor: aut enim per uindicationem legamus aut per damnationem aut sinendi modo aut per praeceptionem.",
+      "question": "Quot sunt legatorum genera secundum Gaium, et quae?",
+      "answer": "Quattuor: per vindicationem, per damnationem, sinendi modo, et per praeceptionem.",
+      "question_en": "How many kinds of legacy are there according to Gaius, and which?",
+      "answer_en": "Four: by vindication (per vindicationem), by condemnation (per damnationem), by permission (sinendi modo), and by preception (per praeceptionem).",
+      "derivation": "Gaius's classic fourfold division of legacies with the determinate count. Closed-book canonical division, anchored to Gaius, count and four named kinds present verbatim ('genera sunt quattuor: aut enim per uindicationem ... aut per damnationem aut sinendi modo aut per praeceptionem')."
+    },
+    {
+      "locus": "Gaius, Institutiones 2.227",
+      "source_text": "Lata est itaque lex Falcidia, qua cautum est, ne plus ei legare liceat quam dodrantem: itaque necesse est, ut heres quartam partem hereditatis habeat.",
+      "question": "Quam partem hereditatis heredi servari lex Falcidia iubet, ut Gaius scribit?",
+      "answer": "Quartam partem.",
+      "question_en": "What portion of the inheritance does the lex Falcidia require to be reserved for the heir, as Gaius writes?",
+      "answer_en": "A fourth part (the Falcidian quarter).",
+      "derivation": "Gaius records that the lex Falcidia capped legacies at three-quarters (dodrans), guaranteeing the heir a quarter (the Falcidian quarter). Closed-book famous numeric/legal fact, anchored to the named lex Falcidia + Gaius, fraction answer present verbatim ('necesse est, ut heres quartam partem hereditatis habeat')."
+    }
+  ]
+}
