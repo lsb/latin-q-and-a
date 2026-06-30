@@ -1,0 +1,205 @@
+{
+  "source": "text/suetonius/suet.aug.txt",
+  "author": "Suetonius",
+  "work": "Divus Augustus",
+  "pairs": [
+    {
+      "locus": "Suetonius, Divus Augustus 5",
+      "source_text": "Natus est Augustus M. Tullio Cicerone C. Antonio conss. XIIII. Kal. Octob., paulo ante solis exortum, regione Palati, ad Capita bubulo, ubi nunc sacrarium habet, aliquanto post quam excessit constitutum.",
+      "question": "Quibus consulibus natum esse Augustum Suetonius tradit?",
+      "answer": "M. Tullio Cicerone et C. Antonio.",
+      "question_en": "In whose consulship does Suetonius say Augustus was born?",
+      "answer_en": "When Marcus Tullius Cicero and Gaius Antonius were consuls.",
+      "derivation": "Birth-year fact (63 BC), anchored to Augustus and the named consular pair. Indirect statement (natum esse) under tradit; answer in ablative absolute matching the source 'M. Tullio Cicerone C. Antonio conss.' Closed-book: one of the best-known Roman birth dates."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 94",
+      "source_text": "Somniavit et pater Octavius utero Atiae iubar solis exortum.",
+      "question": "Quod nomen gentilicium habuit pater Augusti?",
+      "answer": "Octavius (C. Octavius).",
+      "question_en": "What was the gentile name of Augustus's father?",
+      "answer_en": "Octavius (Gaius Octavius).",
+      "derivation": "Names the father, 'pater Octavius'; praenomen Gaius is given at ch. 3 ('C. Octavius pater'). Entity-anchored to Augustus, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 4",
+      "source_text": "Atia M. Atio Balbo et Iulia, sorore C. Caesaris, genita est.",
+      "question": "Quo nomine vocabatur mater Augusti?",
+      "answer": "Atia.",
+      "question_en": "What was the name of Augustus's mother?",
+      "answer_en": "Atia.",
+      "derivation": "Names the mother; entity-anchored to Augustus, supported verbatim by 'Atia ... genita est.' Closed-book, single-name answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 4",
+      "source_text": "Atia M. Atio Balbo et Iulia, sorore C. Caesaris, genita est.",
+      "question": "Cuius sororis filia fuit Atia, Augusti mater?",
+      "answer": "C. Iulii Caesaris.",
+      "question_en": "Of whose sister was Atia, Augustus's mother, the daughter?",
+      "answer_en": "Of Gaius Julius Caesar.",
+      "derivation": "Atia was daughter of Iulia, sister of C. Caesar, making Augustus the dictator's great-nephew (and adopted heir). Supported by 'Iulia, sorore C. Caesaris.' Entity-anchored, single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 4",
+      "source_text": "superstitibus liberis Octavia maiore, quam ex Ancharia, et Octavia minore item Augusto, quos ex Atia tulerat.",
+      "question": "Quae fuit soror germana Augusti, ex eadem matre Atia nata?",
+      "answer": "Octavia minor.",
+      "question_en": "Who was Augustus's full sister, born of the same mother Atia?",
+      "answer_en": "Octavia the younger.",
+      "derivation": "Octavia minor (Antony's later wife) was Augustus's full sister, both born of Atia; Octavia maior was a half-sister (ex Ancharia). Supported verbatim, entity-anchored, single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 7",
+      "source_text": "Infanti cognomen Thurino inditum est, in memoriam maiorum originis.",
+      "question": "Quod cognomen Augusto infanti inditum esse Suetonius tradit?",
+      "answer": "Thurinus.",
+      "question_en": "What cognomen does Suetonius say was given to the infant Augustus?",
+      "answer_en": "Thurinus.",
+      "derivation": "His original childhood cognomen, before 'Augustus'. Indirect statement (inditum esse) under tradit; supported by 'cognomen Thurino inditum est.' Closed-book naming fact."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 7",
+      "source_text": "Postea Gai Caesaris et deinde Augusti cognomen assumpsit, alterum testamento maioris avunculi, alterum Munati Planci sententia, cum, quibusdam censentibus Romulum appellari oportere quasi et ipsum conditorem urbis, praevaluisset, ut Augustus potius vocaretur.",
+      "question": "Cuius sententia praevaluit ut Augustus potius quam Romulus vocaretur, ut Suetonius refert?",
+      "answer": "Munati Planci.",
+      "question_en": "On whose motion did it prevail that he be called 'Augustus' rather than 'Romulus,' according to Suetonius?",
+      "answer_en": "On the motion of Munatius Plancus.",
+      "derivation": "He took the name Augustus on Munatius Plancus's motion, when others had urged 'Romulus'. Supported verbatim. Entity-anchored, single answer; folds in the rejected alternative."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 9",
+      "source_text": "Bella civilia quinque gessit: Mutinense, Philippense, Perusinum, Siculum, Actiacum.",
+      "question": "Quot bella civilia Augustum gessisse Suetonius scribit?",
+      "answer": "Quinque.",
+      "question_en": "How many civil wars does Suetonius write that Augustus waged?",
+      "answer_en": "Five.",
+      "derivation": "Source enumerates five named civil wars. Indirect statement (gessisse) under scribit; single number answer, entity-anchored."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 8",
+      "source_text": "Atque ab eo tempore exercitibus comparatis primum cum M. Antonio M. que Lepido deinde tantum cum Antonio per duodecim fere annos, novissime per quattuor et quadraginta solus rem publicam tenuit.",
+      "question": "Per quot annos Augustus solus rem publicam tenuit, ut Suetonius tradit?",
+      "answer": "Per quattuor et quadraginta annos.",
+      "question_en": "For how many years did Augustus hold the state alone, according to Suetonius?",
+      "answer_en": "For forty-four years.",
+      "derivation": "Source 'novissime per quattuor et quadraginta solus rem publicam tenuit.' Number fact, anchored to Augustus; the canonical length of his sole rule."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 26",
+      "source_text": "multisque mox, cum deferrentur, recusatis duodecim magno, id est septemdecim annorum, intervallo et rursus tertium decimum biennio post ultro petiit, ut C. et Lucium filios amplissimo praeditus magistratu suo quemque tirocinio deduceret in forum.",
+      "question": "Quotum et novissimum consulatum Augustus ultro petiit, ut Suetonius scribit?",
+      "answer": "Tertium decimum.",
+      "question_en": "Which—and last—consulship did Augustus seek of his own accord, according to Suetonius?",
+      "answer_en": "His thirteenth.",
+      "derivation": "Augustus held thirteen consulships in all; the source records his seeking the thirteenth ('tertium decimum ... ultro petiit'). Ordinal/count fact, anchored, single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 22",
+      "source_text": "Ianum Quirinum, semel atque iterum a condita urbe ante memoriam suam clausum, in multo breviore temporis spatio terra marique pace parta ter clusit.",
+      "question": "Quotiens Augustus Ianum Quirinum clausit, ut Suetonius tradit?",
+      "answer": "Ter.",
+      "question_en": "How many times did Augustus close the Janus Quirinus, according to Suetonius?",
+      "answer_en": "Three times.",
+      "derivation": "Iconic 'peace by land and sea' fact. Supported by 'ter clusit.' Number answer, entity-anchored."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 23",
+      "source_text": "Graves ignominias cladesque duas omnino nec alibi quam in Germania accept, Lollianam et Varianam, sed Lollianam maioris infamiae quam detrimenti, Varianam paena exitiabilem, tribus legionibus cum duce legatisque et auxiliis omnibu caesis.",
+      "question": "Quot legiones Augustus clade Variana in Germania amisit?",
+      "answer": "Tres.",
+      "question_en": "How many legions did Augustus lose in the Varian disaster in Germany?",
+      "answer_en": "Three.",
+      "derivation": "The clades Variana (AD 9): 'tribus legionibus ... caesis.' Number + place fact, anchored to Varus's disaster; closed-book famous. (source_text retains OCR slips from the Latin Library file: 'accept', 'paena', 'omnibu'.)"
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 23",
+      "source_text": "Adeo denique consternatum ferunt, ut per continuos menses barba capilloque summisso caput interdum foribu illideret, vociferans: Quintili Vare, legiones redde!",
+      "question": "Quae verba Augustus, clade Variana accepta, identidem vociferatus est?",
+      "answer": "Quintili Vare, legiones redde!",
+      "question_en": "What words did Augustus repeatedly cry out after the Varian disaster?",
+      "answer_en": "Quintilius Varus, give back the legions!",
+      "derivation": "Famous exclamation reported verbatim by Suetonius. Fact-seeking (which words, addressed to Varus), entity-anchored. (source_text retains the OCR slip 'foribu' for 'foribus' from the Latin Library file.)"
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 28",
+      "source_text": "Urbem neque pro maiestate imperii ornatam et inundationibus incendiisque obnoxiam excoluit adeo, ut iure sit gloriatus marmoream se relinquere, quam latericiam accepisset.",
+      "question": "Qualem urbem Romam Augustus se accepisse, qualem relinquere gloriatus est?",
+      "answer": "Latericiam accepisse, marmoream relinquere.",
+      "question_en": "In what condition did Augustus boast he had received Rome, and in what condition he was leaving it?",
+      "answer_en": "That he had received it of brick and was leaving it of marble.",
+      "derivation": "Augustus's iconic boast 'marmoream se relinquere, quam latericiam accepisset.' Answer mirrors the source's acc.+inf.; closed-book, entity-anchored."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 63",
+      "source_text": "Ex Scribonia Iuliam, ex Livia nihil liberorum tulit, cum maxime cuperet.",
+      "question": "Ex qua uxore Augustus Iuliam filiam suscepit?",
+      "answer": "Ex Scribonia.",
+      "question_en": "From which wife did Augustus have his daughter Iulia?",
+      "answer_en": "From Scribonia.",
+      "derivation": "Supported by 'Ex Scribonia Iuliam ... tulit.' Entity-anchored to Augustus and Iulia, single answer; Livia bore him no children."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 63",
+      "source_text": "Iuliam primum Marcello Octaviae sororis suae filio tantum quod pueritiam egresso, deinde, ut is obiit, M. Agrippae nuptum dedit exorata sorore, ut sibi genero cederet.",
+      "question": "Cui primum Augustus filiam Iuliam in matrimonium dedit?",
+      "answer": "Marcello, Octaviae filio.",
+      "question_en": "To whom did Augustus first give his daughter Iulia in marriage?",
+      "answer_en": "To Marcellus, son of Octavia.",
+      "derivation": "Supported by 'Iuliam primum Marcello ... nuptum dedit.' Marcellus was the son of his sister Octavia; later husbands were Agrippa, then Tiberius. Entity-anchored, single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 62",
+      "source_text": "Liviam Drusillam matrimonio Tiberi Neronis et quidem praegnantem abduxit dilexitque et probavit unice ac perseveranter.",
+      "question": "A quo viro Augustus Liviam Drusillam in matrimonium abduxit?",
+      "answer": "A Tiberio Nerone.",
+      "question_en": "From which husband did Augustus take Livia Drusilla in marriage?",
+      "answer_en": "From Tiberius Nero.",
+      "derivation": "Supported by 'Liviam Drusillam matrimonio Tiberi Neronis ... abduxit.' Entity-anchored (Augustus, Livia, her first husband), single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 31",
+      "source_text": "Sextilem mensem e suo cognomine nuncupavit magis quam Septembrem quo erat natus.",
+      "question": "Quem mensem Augustus e suo cognomine nuncupavit, ut Suetonius tradit?",
+      "answer": "Sextilem mensem.",
+      "question_en": "Which month did Augustus name after his own cognomen, according to Suetonius?",
+      "answer_en": "The month Sextilis (August).",
+      "derivation": "He renamed Sextilis after himself (August), not September (his birth month). Supported verbatim. Closed-book, entity-anchored, single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 58",
+      "source_text": "Patris patriae cognomen universi repentino maximoque consensu detulerunt ei.",
+      "question": "Quod cognomen Augusto universi consensu detulerunt?",
+      "answer": "Patris patriae.",
+      "question_en": "What title did all by consensus confer on Augustus?",
+      "answer_en": "Father of the Fatherland (Pater Patriae).",
+      "derivation": "Supported by 'Patris patriae cognomen universi ... detulerunt ei' (conferred 2 BC, through Valerius Messala). Iconic title, entity-anchored, single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 98",
+      "source_text": "Sed in redeundo adgravata valitudine tandem Nolae succubuit revocatumque ex itinere Tiberium diu secreto sermone detinuit, neque post ulli maiori negotio animum accommodavit.",
+      "question": "In quo oppido Augustus mortuus est?",
+      "answer": "Nolae.",
+      "question_en": "In what town did Augustus die?",
+      "answer_en": "At Nola.",
+      "derivation": "Supported by 'tandem Nolae succubuit'; corroborated at ch. 100 (died in the same bedroom as his father). Place fact, closed-book famous, single answer."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 100",
+      "source_text": "Obiit in cubiculo eodem, quo pater Octavius, duobus Sextis, Pompeio et Appuleio, cons. XIIII. Kal. Septemb. hora diei nona, septuagesimo et sexto aetatis anno, diebus V et XXX minus.",
+      "question": "Quoto aetatis anno Augustus decessit, ut Suetonius tradit?",
+      "answer": "Septuagesimo et sexto.",
+      "question_en": "In which year of his age did Augustus die, according to Suetonius?",
+      "answer_en": "In his seventy-sixth.",
+      "derivation": "Age-at-death fact, supported by 'septuagesimo et sexto aetatis anno.' Number/ordinal answer, entity-anchored, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Augustus 101",
+      "source_text": "Heredes instituit primos: Tiberium ex parte dimidia et sextante, Liviam ex parte tertia, quos et ferre nomen suum iussit.",
+      "question": "Quos Augustus testamento heredes primos instituit?",
+      "answer": "Tiberium et Liviam.",
+      "question_en": "Whom did Augustus institute as his primary heirs in his will?",
+      "answer_en": "Tiberius and Livia.",
+      "derivation": "Supported by 'Heredes instituit primos: Tiberium ... Liviam.' Tiberius (the principal heir and successor) received the larger share. Entity-anchored, short answer."
+    }
+  ]
+}

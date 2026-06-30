@@ -1,0 +1,61 @@
+{
+  "source": "text/cato/cato.agri.txt",
+  "author": "Cato",
+  "work": "De Agri Cultura",
+  "pairs": [
+    {
+      "locus": "Cato, De Agri Cultura, praef.",
+      "source_text": "Et virum bonum quom laudabant, ita laudabant: bonum agricolam bonumque colonum; amplissime laudari existimabatur qui ita laudabatur.",
+      "question": "Quibus verbis maiores, ut Cato scribit, virum bonum amplissime laudabant?",
+      "answer": "Bonum agricolam bonumque colonum.",
+      "question_en": "With what words, as Cato writes, did the ancestors most highly praise a good man?",
+      "answer_en": "A good farmer and a good husbandman.",
+      "derivation": "The famous claim of the praefatio: the highest praise for a man was to call him 'bonum agricolam bonumque colonum.' Anchored to Cato + the maiores; the answer is the exact predicate phrase, supported verbatim. Closed-book: one of the most-quoted lines of Cato. Imperfect 'laudabant' kept indicative; 'ut Cato scribit' is a parenthetical author-frame."
+    },
+    {
+      "locus": "Cato, De Agri Cultura, praef.",
+      "source_text": "At ex agricolis et viri fortissimi et milites strenuissimi gignuntur, maximeque pius quaestus stabilissimusque consequitur minimeque invidiosus, minimeque male cogitantes sunt qui in eo studio occupati sunt.",
+      "question": "Ex quibus hominibus et viros fortissimos et milites strenuissimos gigni Cato adfirmat?",
+      "answer": "Ex agricolis.",
+      "question_en": "From which men does Cato assert that both the bravest men and the most vigorous soldiers are born?",
+      "answer_en": "From farmers.",
+      "derivation": "Cato's celebrated claim that farmers are the source of the bravest men and most vigorous soldiers. Anchored to Cato + agricolae; single answer 'ex agricolis,' supported verbatim. Closed-book and widely quoted. Indirect statement: passive infinitive 'gigni' with accusative subjects under 'adfirmat.'"
+    },
+    {
+      "locus": "Cato, De Agri Cultura, praef.",
+      "source_text": "Maiores nostri sic habuerunt et ita in legibus posiverunt: furem dupli condemnari, foeneratorem quadrupli.",
+      "question": "Quanti, ut Cato refert, maiores in legibus foeneratorem condemnari iusserunt?",
+      "answer": "Quadrupli.",
+      "question_en": "For how much, as Cato reports, did the ancestors order in their laws that a usurer be condemned?",
+      "answer_en": "For fourfold.",
+      "derivation": "Preface's comparison: the laws condemned a thief to double, a usurer to quadruple — Cato's point that usury was judged worse than theft. Anchored to Cato + the maiores' laws; genitive-of-penalty answer 'quadrupli' supported verbatim ('foeneratorem quadrupli'). Closed-book datum on Roman attitudes to usury. 'condemnari' passive inf. with acc. subject under 'iusserunt.'"
+    },
+    {
+      "locus": "Cato, De Agri Cultura 1.7",
+      "source_text": "Praedium quod primum siet, si me rogabis, sic dicam: de omnibus agris optimoque loco iugera agri centum, vinea est prima, vel si vino multo est; secundo loco hortus irriguus; tertio salictum; quarto oletum; quinto pratum; sexto campus frumentarius; septimo silva caedua; octavo arbustum; nono glandaria silva.",
+      "question": "Quod agri genus Cato inter omnia primo loco numerat?",
+      "answer": "Vineam.",
+      "question_en": "Which kind of farmland does Cato rank first among all?",
+      "answer_en": "The vineyard.",
+      "derivation": "Cato's well-known ranking of the nine kinds of farmland, with the vineyard (vinea) first. Anchored to Cato; single answer 'vineam,' supported verbatim by 'vinea est prima.' Closed-book: a standard datum in discussions of Roman agronomy. Only the first place is asked (the full list would fail short-answer)."
+    },
+    {
+      "locus": "Cato, De Agri Cultura 61",
+      "source_text": "Quid est agrum bene colere? Bene arare. Quid secundum? Arare. Quid tertium? Stercorare.",
+      "question": "Quid Cato primum esse dicit in agro bene colendo?",
+      "answer": "Bene arare.",
+      "question_en": "What does Cato say is the first thing in cultivating a field well?",
+      "answer_en": "To plow well.",
+      "derivation": "Cato's celebrated catechism on good husbandry: first to plow well, second to plow, third to manure ('arare, arare, stercorare'). Anchored to Cato; single answer 'bene arare,' supported verbatim. Closed-book: among the most-quoted lines of Cato. Indirect statement under 'dicit.'"
+    },
+    {
+      "locus": "Cato, De Agri Cultura 156",
+      "source_text": "Brassica est quae omnibus holeribus antistat.",
+      "question": "Quod holus Cato omnibus holeribus antistare scribit?",
+      "answer": "Brassicam.",
+      "question_en": "Which vegetable does Cato write surpasses all other vegetables?",
+      "answer_en": "The cabbage.",
+      "derivation": "Cato's famous superlative praise of the cabbage as the best of all vegetables, opening his cabbage-chapter. Anchored to Cato; single answer 'brassicam,' supported verbatim. Closed-book: Cato's enthusiasm for cabbage is well-known trivia (discussed e.g. by Pliny). 'antistare' + dative; acc. subject 'brassicam' under 'scribit.'"
+    }
+  ]
+}

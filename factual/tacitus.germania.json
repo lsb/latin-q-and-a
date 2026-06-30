@@ -1,0 +1,151 @@
+{
+  "source": "text/tacitus/tac.ger.txt",
+  "author": "Tacitus",
+  "work": "Germania",
+  "pairs": [
+    {
+      "locus": "Tacitus, Germania 1",
+      "source_text": "Germania omnis a Gallis Raetisque et Pannoniis Rheno et Danuvio fluminibus, a Sarmatis Dacisque mutuo metu aut montibus separatur",
+      "question": "Quibus fluminibus Germaniam a Gallis Raetisque et Pannoniis separari Tacitus tradit?",
+      "answer": "Rheno et Danuvio.",
+      "question_en": "By which rivers does Tacitus report that Germania is separated from the Gauls, Raeti, and Pannonii?",
+      "answer_en": "By the Rhine and the Danube.",
+      "derivation": "Opening geographical fact. Anchored to Germania + named neighbouring peoples; two named rivers as a single verifiable answer, supported verbatim by 'Rheno et Danuvio fluminibus ... separatur'. Indirect statement (Germaniam separari) governed by tradit. Closed-book: the Rhine/Danube bounds of Germania are a stock fact."
+    },
+    {
+      "locus": "Tacitus, Germania 2",
+      "source_text": "Celebrant carminibus antiquis, quod unum apud illos memoriae et annalium genus est, Tuistonem deum terra editum.",
+      "question": "Quem deum terra editum Germani carminibus antiquis celebrant, ut Tacitus tradit?",
+      "answer": "Tuistonem.",
+      "question_en": "Which earth-born god do the Germani celebrate in ancient songs, as Tacitus reports?",
+      "answer_en": "Tuisto.",
+      "derivation": "The Germanic origin-myth. Anchored to Germani + Tacitus; single named theonym, supported verbatim by 'Tuistonem deum terra editum'. Tuistonem accusative as object of celebrant. Closed-book: Tuisto is the famous earth-born god of Germania."
+    },
+    {
+      "locus": "Tacitus, Germania 2",
+      "source_text": "Ei filium Mannum, originem gentis conditoremque, Manno tris filios adsignant, e quorum nominibus proximi Oceano Ingaevones, medii Herminones, ceteri Istaevones vocentur.",
+      "question": "Quem filium Tuistonis Germani originem gentis conditoremque appellant, ut Tacitus tradit?",
+      "answer": "Mannum.",
+      "question_en": "Which son of Tuisto do the Germani call the origin and founder of their race, per Tacitus?",
+      "answer_en": "Mannus.",
+      "derivation": "Second link of the origin-myth. Anchored to Tuisto's son; single named answer, supported verbatim by 'Ei filium Mannum, originem gentis conditoremque'. Mannum accusative as object of appellant. Closed-book: Mannus as founder of the Germani is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Germania 9",
+      "source_text": "Deorum maxime Mercurium colunt, cui certis diebus humanis quoque hostiis litare fas habent.",
+      "question": "Quem deorum Germanos maxime colere Tacitus tradit?",
+      "answer": "Mercurium.",
+      "question_en": "Which of the gods does Tacitus report the Germani worship most?",
+      "answer_en": "Mercury.",
+      "derivation": "The chief cult-fact of the Germania. Anchored to Germani + Tacitus; single named god, supported verbatim by 'Deorum maxime Mercurium colunt'. Indirect statement (Germanos colere) governed by tradit; Mercurium accusative."
+    },
+    {
+      "locus": "Tacitus, Germania 8",
+      "source_text": "Vidimus sub divo Vespasiano Veledam diu apud plerosque numinis loco habitam; sed et olim Albrunam et compluris alias venerati sunt, non adulatione nec tamquam facerent deas.",
+      "question": "Quam feminam sub divo Vespasiano numinis loco habitam esse Tacitus testatur?",
+      "answer": "Veledam.",
+      "question_en": "Which woman does Tacitus testify was held in the place of a divinity under the deified Vespasian?",
+      "answer_en": "Veleda.",
+      "derivation": "Named prophetess, dated to a named emperor. Anchored to Vespasian; single named-person answer, supported verbatim by 'Vidimus sub divo Vespasiano Veledam ... numinis loco habitam'. Indirect statement (Veledam habitam esse) governed by testatur."
+    },
+    {
+      "locus": "Tacitus, Germania 6",
+      "source_text": "Rari gladiis aut maioribus lanceis utuntur: hastas vel ipsorum vocabulo frameas gerunt angusto et brevi ferro",
+      "question": "Quo proprio vocabulo Germani hastas suas appellant, ut Tacitus tradit?",
+      "answer": "Frameas.",
+      "question_en": "By what native term do the Germani call their spears, per Tacitus?",
+      "answer_en": "Frameae.",
+      "derivation": "Named weapon-custom. Anchored to Germani + Tacitus; single Germanic term, supported verbatim by 'hastas vel ipsorum vocabulo frameas gerunt'. Frameas accusative plural as object of appellant. Closed-book: the framea is Tacitus's well-known native word."
+    },
+    {
+      "locus": "Tacitus, Germania 11",
+      "source_text": "Nec dierum numerum, ut nos, sed noctium computant.",
+      "question": "Utrum dierum an noctium numerum Germanos computare Tacitus tradit?",
+      "answer": "Noctium.",
+      "question_en": "Does Tacitus report that the Germani reckon time by the count of days or of nights?",
+      "answer_en": "Of nights.",
+      "derivation": "Distinctive time-reckoning custom. Anchored to Germani + Tacitus; single verifiable answer, supported verbatim by 'sed noctium computant'. Indirect statement (Germanos computare) governed by tradit. Famous closed-book fact (origin of 'fortnight'-style night-counting)."
+    },
+    {
+      "locus": "Tacitus, Germania 16",
+      "source_text": "Nullas Germanorum populis urbes habitari satis notum est, ne pati quidem inter se iunctas sedes.",
+      "question": "Quot urbes a Germanorum populis habitari Tacitus tradit?",
+      "answer": "Nullas.",
+      "question_en": "How many cities does Tacitus report were inhabited by the Germanic peoples?",
+      "answer_en": "None.",
+      "derivation": "The absence of cities. Anchored to Germanic peoples + Tacitus; single verifiable answer, supported verbatim by 'Nullas Germanorum populis urbes habitari satis notum est'. Closed-book: that the Germani had no cities is a stock ethnographic fact."
+    },
+    {
+      "locus": "Tacitus, Germania 37",
+      "source_text": "At Germani Carbone et Cassio et Scauro Aurelio et Servilio Caepione Gnaeoque Mallio fusis vel captis quinque simul consularis exercitus populo Romano, Varum trisque cum eo legiones etiam Caesari abstulerunt",
+      "question": "Quot legiones Germani una cum Varo Caesari abstulerunt, ut Tacitus tradit?",
+      "answer": "Tris legiones.",
+      "question_en": "How many legions, together with Varus, did the Germani take from Caesar (Augustus), as Tacitus reports?",
+      "answer_en": "Three legions.",
+      "derivation": "The Varus disaster, a famous number fact. Anchored to Varus + the Germani; single number answer, supported verbatim by 'Varum trisque cum eo legiones etiam Caesari abstulerunt'. Closed-book: the loss of three legions in the Teutoburg defeat is among the best-known facts of Roman history."
+    },
+    {
+      "locus": "Tacitus, Germania 37",
+      "source_text": "Sescentesimum et quadragesimum annum urbs nostra agebat, cum primum Cimbrorum audita sunt arma, Caecilio Metello et Papirio Carbone consulibus.",
+      "question": "Quibus consulibus primum Cimbrorum arma audita esse Tacitus tradit?",
+      "answer": "Caecilio Metello et Papirio Carbone.",
+      "question_en": "Under which consuls does Tacitus say the arms of the Cimbri were first heard of?",
+      "answer_en": "Under Caecilius Metellus and Papirius Carbo.",
+      "derivation": "Dating of the first Cimbric war by named consuls. Anchored to the Cimbri; two named consuls as the verifiable answer, supported verbatim by the ablative absolute 'Caecilio Metello et Papirio Carbone consulibus'. Indirect statement (arma audita esse) governed by tradit."
+    },
+    {
+      "locus": "Tacitus, Germania 38",
+      "source_text": "Insigne gentis obliquare crinem nodoque substringere: sic Suebi a ceteris Germanis, sic Sueborum ingenui a servis separantur.",
+      "question": "Quod est insigne Sueborum, quo a ceteris Germanis separantur, ut Tacitus tradit?",
+      "answer": "Crinem obliquare nodoque substringere.",
+      "question_en": "What is the distinctive mark of the Suebi, by which they are set apart from the other Germani, according to Tacitus?",
+      "answer_en": "To twist the hair sideways and bind it in a knot.",
+      "derivation": "The Suebian hair-knot. Anchored to the Suebi vs. other Germani; the answer mirrors the source phrase 'obliquare crinem nodoque substringere'. Closed-book: the Suebenknoten is the signature custom of the Suebi in Tacitus."
+    },
+    {
+      "locus": "Tacitus, Germania 31",
+      "source_text": "Fortissimus quisque ferreum insuper anulum (ignominiosum id genti) velut vinculum gestat, donec se caede hostis absolvat.",
+      "question": "Quid ferreum apud Chattos fortissimus quisque velut vinculum gestat, donec hostem caedat, ut Tacitus tradit?",
+      "answer": "Anulum ferreum.",
+      "question_en": "What iron object does each bravest Chattus wear like a fetter until he slays an enemy, per Tacitus?",
+      "answer_en": "An iron ring.",
+      "derivation": "Named Chattan custom. Anchored to the Chatti; concrete object answer, supported verbatim by 'ferreum ... anulum ... velut vinculum gestat, donec se caede hostis absolvat'. Closed-book: the Chatti's iron ring of dishonour, worn until a first kill, is a distinctive Tacitean detail."
+    },
+    {
+      "locus": "Tacitus, Germania 45",
+      "source_text": "Sed et mare scrutantur, ac soli omnium sucinum, quod ipsi glesum vocant, inter vada atque in ipso litore legunt.",
+      "question": "Quo nomine Aestii sucinum, quod soli omnium legunt, appellant, ut Tacitus tradit?",
+      "answer": "Glesum.",
+      "question_en": "By what name do the Aestii call amber (sucinum), which alone of all peoples they gather, per Tacitus?",
+      "answer_en": "Glesum.",
+      "derivation": "The Aestii and amber. Anchored to the Aestii (named in the same chapter as the only amber-gatherers, 'soli omnium'); single native term as answer, supported verbatim by 'sucinum, quod ipsi glesum vocant'. Spelling 'glesum'/'sucinum' kept as in the text. Closed-book: the amber-gathering Aestii are a stock fact."
+    },
+    {
+      "locus": "Tacitus, Germania 45",
+      "source_text": "Suionibus Sitonum gentes continuantur. Cetera similes uno differunt, quod femina dominatur; in tantum non modo a libertate sed etiam a servitute degenerant.",
+      "question": "Quo uno Sitones a Suionibus differre Tacitus tradit?",
+      "answer": "Quod femina dominatur.",
+      "question_en": "In what one respect does Tacitus say the Sitones differ from the Suiones?",
+      "answer_en": "In that a woman rules them.",
+      "derivation": "The woman-ruled tribe. Anchored to the Sitones vs. the Suiones; single verifiable point of difference, supported verbatim by 'uno differunt, quod femina dominatur'. Sitones accusative (subject of differre) governed by tradit."
+    },
+    {
+      "locus": "Tacitus, Germania 46",
+      "source_text": "Fennis mira feritas, foeda paupertas: non arma, non equi, non penates; victui herba, vestitui pelles, cubile humus: solae in sagittis spes, quas inopia ferri ossibus asperant.",
+      "question": "Quibus rebus Fenni, ferri inopia, sagittas suas asperant, ut Tacitus tradit?",
+      "answer": "Ossibus.",
+      "question_en": "With what do the Fenni tip their arrows, for lack of iron, per Tacitus?",
+      "answer_en": "With bones.",
+      "derivation": "Named custom of the Fenni. Anchored to the Fenni; concrete material answer, supported verbatim by 'solae in sagittis spes, quas inopia ferri ossibus asperant'. Closed-book: bone-tipped arrows of the iron-poor Fenni are a distinctive Tacitean detail."
+    },
+    {
+      "locus": "Tacitus, Germania 40",
+      "source_text": "Reudigni deinde et Aviones et Anglii et Varini et Eudoses et Suardones et Nuithones fluminibus aut silvis muniuntur. Nec quicquam notabile in singulis, nisi quod in commune Nerthum, id est Terram matrem, colunt eamque intervenire rebus hominum, invehi populis arbitrantur.",
+      "question": "Quam deam, id est Terram matrem, Reudignos ceterasque gentes in commune colere Tacitus tradit?",
+      "answer": "Nerthum.",
+      "question_en": "Which goddess, that is Mother Earth, does Tacitus report the Reudigni and the other tribes worship in common?",
+      "answer_en": "Nerthus.",
+      "derivation": "Named deity of the Ingaevonic tribes. Anchored to the named group (Reudigni, Aviones, Anglii, etc.); single theonym answer, supported verbatim by 'Nerthum, id est Terram matrem, colunt'. Nerthum accusative; indirect statement governed by tradit. Closed-book: the Nerthus cult is a famous Tacitean datum."
+    }
+  ]
+}

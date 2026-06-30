@@ -1,0 +1,142 @@
+{
+  "source": "text/pliny.nh3.txt",
+  "author": "Pliny the Elder",
+  "work": "Naturalis Historia, liber III",
+  "pairs": [
+    {
+      "locus": "Plinius, Naturalis Historia 3.3",
+      "source_text": "Terrarum orbis universus in tres dividitur partes, Europam, Asiam, Africam.",
+      "question": "In quot partes terrarum orbem universum dividi Plinius tradit, et quas?",
+      "answer": "In tres partes: Europam, Asiam et Africam.",
+      "question_en": "Into how many parts does Pliny say the whole world is divided, and which?",
+      "answer_en": "Into three parts: Europe, Asia, and Africa.",
+      "derivation": "Number-plus-names fact opening the geographical books. Anchored to the orbis terrarum; single verifiable answer (three named continents) supported verbatim. Indirect statement orbem dividi governed by tradit; closed-book because the tripartite division of the world is a commonplace of ancient geography."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.4",
+      "source_text": "proximis autem faucibus utrimque inpositi montes coercent claustra, Abila Africae, Europae Calpe, laborum Herculis metae, quam ob causam indigenae columnas eius dei vocant.",
+      "question": "Qui duo montes ad fauces oceani positi 'laborum Herculis metae' sive columnae Herculis a Plinio appellantur?",
+      "answer": "Abila et Calpe.",
+      "question_en": "Which two mountains set on the strait of the ocean does Pliny call the 'limits of Hercules' labors,' i.e. the Pillars of Hercules?",
+      "answer_en": "Abila and Calpe.",
+      "derivation": "Iconic Pillars of Hercules identification (Abila in Africa, Calpe in Europe). Two named entities, single checkable answer supported verbatim. Closed-book: among the best-known landmarks of ancient geography."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.21",
+      "source_text": "Hiberus amnis, navigabili commercio dives, ortus in Cantabris haut procul oppido Iuliobrica, per CCCCL p. fluens, navium per CCLX a Vareia oppido capax, quem propter universam Hispaniam Graeci appellavere Hiberiam.",
+      "question": "A quo flumine Graeci universam Hispaniam Hiberiam appellaverunt secundum Plinium?",
+      "answer": "Ab Hibero amne.",
+      "question_en": "After which river did the Greeks name all of Spain 'Iberia,' according to Pliny?",
+      "answer_en": "After the river Hiberus (the Ebro).",
+      "derivation": "Etymology of Iberia from the river Hiberus (Ebro). Entity-anchored (Spain, the Greeks, the river); single named answer supported verbatim by quem propter ... Graeci appellavere Hiberiam. Closed-book, recognizable geographic fact."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.30",
+      "source_text": "Pyrenaei montes Hispanias Galliasque disterminant promunturiis in duo diversa maria proiectis.",
+      "question": "Qui montes Hispanias Galliasque inter se disterminant secundum Plinium?",
+      "answer": "Pyrenaei montes.",
+      "question_en": "Which mountains separate the Spains from the Gauls, according to Pliny?",
+      "answer_en": "The Pyrenees.",
+      "derivation": "Boundary fact: the Pyrenees divide Spain from Gaul. Two named regions, one mountain-range answer supported verbatim. Closed-book, textbook geography."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.46",
+      "source_text": "praefari necessarium est auctorem nos Divum Augustum secuturos discriptionemque ab eo factam Italiae totius in regiones XI.",
+      "question": "In quot regiones Divus Augustus Italiam totam discripsisse a Plinio traditur?",
+      "answer": "In undecim regiones.",
+      "question_en": "Into how many regions is the Deified Augustus said by Pliny to have divided all of Italy?",
+      "answer_en": "Into eleven regions.",
+      "derivation": "The famous Augustan division of Italy into eleven regiones, which structures the rest of the book. Anchored to Augustus + Italy; single number answer (XI) supported verbatim. Nominativus cum infinitivo (Augustus discripsisse traditur). Closed-book, attributed."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.43",
+      "source_text": "Est ergo folio maxime querno adsimulata, multo proceritate amplior quam latitudine.",
+      "question": "Cui folio figuram Italiae maxime adsimilari Plinius scribit?",
+      "answer": "Folio querno.",
+      "question_en": "To which leaf does Pliny say the shape of Italy is most likened?",
+      "answer_en": "To an oak leaf.",
+      "derivation": "Pliny's well-known simile for the shape of Italy (an oak leaf). Subject (Italia) is the running topic; the question supplies it, making it decontextualizable. Short answer supported verbatim by folio querno adsimulata. Indirect statement governed by scribit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.66",
+      "source_text": "conplexa montes septem. ipsa dividitur in regiones XIIII, compita Larum CCLXV.",
+      "question": "In quot regiones ipsa urbs Roma divisa est secundum Plinium?",
+      "answer": "In quattuordecim regiones.",
+      "question_en": "Into how many regions is the city of Rome itself divided, according to Pliny?",
+      "answer_en": "Into fourteen regions.",
+      "derivation": "The Augustan fourteen regiones of the city of Rome (distinct from the eleven regiones of Italy). Anchored to Rome; single number answer (XIV) supported verbatim. Question names urbs Roma so the source's ipsa is unambiguous. Closed-book."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.53",
+      "source_text": "Tiberis, ante Thyberis appellatus et prius Albula, e media fere longitudine Appennini finibus Arretinorum profluit.",
+      "question": "Quo nomine Tiberis amnis antiquissime appellatus esse a Plinio dicitur?",
+      "answer": "Albula.",
+      "question_en": "By what name does Pliny say the river Tiber was called in earliest times?",
+      "answer_en": "Albula.",
+      "derivation": "The Tiber's oldest name. The text gives prius Albula (earlier than both Tiberis and Thyberis), so Albula is the earliest. Entity-anchored to the Tiber, single-name answer supported verbatim. Closed-book: a recurring antiquarian fact in Latin literature."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.115",
+      "source_text": "fluvius Rubico, quondam finis Italiae.",
+      "question": "Qui fluvius quondam finis Italiae fuisse a Plinio dicitur?",
+      "answer": "Rubico.",
+      "question_en": "Which river does Pliny say was once the boundary of Italy?",
+      "answer_en": "The Rubicon.",
+      "derivation": "The Rubicon as the former boundary of Italy (proper). Single named-river answer supported verbatim by Rubico, quondam finis Italiae. Closed-book and iconic (Caesar's crossing)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.105",
+      "source_text": "Hirpinorum colonia una Beneventum auspicatius mutato nomine, quae quondam appellata Maleventum.",
+      "question": "Quo nomine colonia Beneventum, ante nominis mutationem, quondam appellata est secundum Plinium?",
+      "answer": "Maleventum.",
+      "question_en": "By what name was the colony of Beneventum formerly called, before its name was changed, according to Pliny?",
+      "answer_en": "Maleventum.",
+      "derivation": "The renaming of Maleventum to the more auspicious Beneventum. Anchored to the town; single-name answer supported verbatim. Closed-book, frequently cited etymological/onomastic fact."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.71",
+      "source_text": "oppidum Paestum, Graecis Posidonia appellatum, sinus Paestanus.",
+      "question": "Quo nomine oppidum Paestum a Graecis appellatum esse Plinius tradit?",
+      "answer": "Posidonia.",
+      "question_en": "By what name do the Greeks call the town of Paestum, according to Pliny?",
+      "answer_en": "Posidonia.",
+      "derivation": "The Greek name of Paestum. Entity-anchored to the town; single-name answer supported verbatim. Closed-book and recognizable (the Greek colony Poseidonia)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.117",
+      "source_text": "Padus, e gremio Vesuli montis celsissimum in cacumen Alpium elati finibus Ligurum Bagiennorum visendo fonte profluens condensque se cuniculo et in Forovibiensium agro iterum exoriens, nullo amnium claritate inferior, Graecis dictus Eridanus ac poena Phaethontis inlustratus.",
+      "question": "Quo nomine Padus amnis a Graecis dictus esse a Plinio traditur?",
+      "answer": "Eridanus.",
+      "question_en": "By what name was the river Padus (Po) called by the Greeks, according to Pliny?",
+      "answer_en": "Eridanus.",
+      "derivation": "The Greek name of the Po, tied to the myth of Phaethon. Anchored to the Padus; single-name answer supported verbatim by Graecis dictus Eridanus. Closed-book, well-known."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.86",
+      "source_text": "Verum ante omnes claritate Sicilia, Sicania Thucydidi dicta, Trinacria pluribus aut Trinacia a triangula specie.",
+      "question": "Quo nomine Sicilia a plerisque ob triangulam speciem appellata est secundum Plinium?",
+      "answer": "Trinacria.",
+      "question_en": "By what name is Sicily called by most people on account of its triangular shape, according to Pliny?",
+      "answer_en": "Trinacria.",
+      "derivation": "The name Trinacria for triangular Sicily. Anchored to Sicily; single-name answer supported verbatim by Trinacria ... a triangula specie. Closed-book, iconic (the island's three-cornered shape)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.116",
+      "source_text": "in hoc tractu interierunt Boi, quorum tribus CXII fuisse auctor est Cato, item Senones, qui ceperunt Romam.",
+      "question": "Quae Gallorum gens Romam cepisse a Plinio memoratur?",
+      "answer": "Senones.",
+      "question_en": "Which Gallic people does Pliny record as having captured Rome?",
+      "answer_en": "The Senones.",
+      "derivation": "Attributes the sack of Rome to the Senones. Anchored to Rome + the Gauls; single named-people answer supported verbatim by Senones, qui ceperunt Romam. Closed-book (Brennus' Gauls, 390 BC)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 3.124",
+      "source_text": "ex quibus Laevi et Marici condidere Ticinum non procul a Pado, sicut Boi Transalpibus profecti Laudem Pompeiam, Insubres Mediolanum.",
+      "question": "Quae gens Mediolanum condidisse secundum Plinium traditur?",
+      "answer": "Insubres.",
+      "question_en": "Which people is said by Pliny to have founded Mediolanum (Milan)?",
+      "answer_en": "The Insubres.",
+      "derivation": "Founder fact: the Insubres founded Mediolanum (the verb condidere governs the list, sicut ... Insubres Mediolanum). Anchored to the city; single named-people answer supported verbatim. Closed-book and recognizable (Milan)."
+    }
+  ]
+}

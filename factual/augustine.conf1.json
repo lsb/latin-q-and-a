@@ -1,0 +1,43 @@
+{
+  "source": "text/augustine/conf1.txt",
+  "author": "Augustine",
+  "work": "Confessiones, liber I",
+  "pairs": [
+    {
+      "locus": "Augustinus, Confessiones 1.13.20",
+      "source_text": "illae quibus tenere cogebar Aeneae nescio cuius errores, oblitus errorum meorum, et plorare Didonem mortuam, quia se occidit ab amore.",
+      "question": "Cuius reginae mortem, quae se ab amore occidit, Augustinus puer in schola legens flebat?",
+      "answer": "Didonis.",
+      "question_en": "Over which queen's death, who killed herself out of love, did the boy Augustine weep as he read in school?",
+      "answer_en": "Dido's.",
+      "derivation": "The celebrated detail of Conf. 1: the boy wept over Dido's death ('plorare Didonem mortuam, quia se occidit ab amore'). Anchored to Augustine + the named queen Dido; the question's description (a queen who killed herself for love) alone fixes the referent. Single-name answer supported verbatim. Closed-book (one of the most-quoted episodes in the Confessions)."
+    },
+    {
+      "locus": "Augustinus, Confessiones 1.13.20",
+      "source_text": "illae quibus tenere cogebar Aeneae nescio cuius errores, oblitus errorum meorum, et plorare Didonem mortuam, quia se occidit ab amore.",
+      "question": "Cuius viri errores Augustinus puer in schola ediscere cogebatur?",
+      "answer": "Aeneae.",
+      "question_en": "Whose wanderings was the boy Augustine forced to learn by heart in school?",
+      "answer_en": "Aeneas's.",
+      "derivation": "The wandering hero whose 'errores' Augustine was compelled to memorize is named in the text ('Aeneae nescio cuius errores'). Entity-anchored to Augustine's schooling + the named hero Aeneas; single-name answer supported verbatim. Closed-book autobiographical fact."
+    },
+    {
+      "locus": "Augustinus, Confessiones 1.13.20",
+      "source_text": "quid autem erat causae cur graecas litteras oderam, quibus puerulus imbuebar? ne nunc quidem mihi satis exploratum est. adamaveram enim latinas, non quas primi magistri sed quas docent qui grammatici vocantur.",
+      "question": "Cum latinas litteras adamavisset, quas litteras Augustinus puer se odisse confitetur?",
+      "answer": "Graecas.",
+      "question_en": "Although he had come to love Latin letters, which letters does Augustine confess he hated as a boy?",
+      "answer_en": "Greek.",
+      "derivation": "The well-known biographical fact that Augustine loved Latin but hated Greek as a schoolboy ('cur graecas litteras oderam ... adamaveram enim latinas'). Anchored to Augustine + the two named languages; clean which-language answer supported verbatim. Indirect statement 'se odisse' under 'confitetur'; concessive cum-clause with pluperfect subjunctive 'adamavisset'. Closed-book (Augustine's poor Greek is a standard fact about him)."
+    },
+    {
+      "locus": "Augustinus, Confessiones 1.17.27",
+      "source_text": "proponebatur enim mihi negotium, animae meae satis inquietum praemio laudis et dedecoris vel plagarum metu, ut dicerem verba Iunonis irascentis et dolentis quod non posset Italia Teucrorum avertere regem, quae numquam Iunonem dixisse audieram.",
+      "question": "Cuius deae verba, irascentis et dolentis quod Teucrorum regem ab Italia avertere non posset, Augustino puero in schola dicenda proponebantur?",
+      "answer": "Iunonis.",
+      "question_en": "Whose words — those of a goddess angry and grieving that she could not turn the king of the Trojans away from Italy — was the boy Augustine set in school to declaim?",
+      "answer_en": "Juno's.",
+      "derivation": "Augustine's school declamation exercise: putting into prose the angry speech of a goddess who could not keep the Trojan king from Italy ('verba Iunonis irascentis et dolentis quod non posset Italia Teucrorum avertere regem'). The description alone determines Juno (the Aeneid's divine antagonist), making it closed-book via both the Confessions and basic mythology. Single-name answer supported verbatim; anchored to Augustine's schooling + the named goddess and the Teucri/Italia."
+    }
+  ]
+}

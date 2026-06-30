@@ -1,0 +1,133 @@
+{
+  "source": "text/augustine/conf9.txt",
+  "author": "Augustine",
+  "work": "Confessiones, liber IX",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessiones 9.8.17",
+      "source_text": "pariter remeabamus in Africam. et cum apud Ostia Tiberina essemus, mater defuncta est.",
+      "question": "In quo loco mater Augustini mortua est, cum in Africam redire pararent?",
+      "answer": "Apud Ostia Tiberina.",
+      "question_en": "In what place did Augustine's mother die, as they were preparing to return to Africa?",
+      "answer_en": "At Ostia on the Tiber.",
+      "derivation": "Canonical fact of Book 9: Monica dies at Ostia as the party heads back to Africa. Anchored to Augustine + his mother + the return to Africa; single place answer supported verbatim by 'cum apud Ostia Tiberina essemus, mater defuncta est.' Closed-book, one of the most famous deaths in the Confessions."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.13.37",
+      "source_text": "ut quotquot haec legerint, meminerint ad altare tuum Monnicae, famulae tuae, cum Patricio, quondam eius coniuge, per quorum carnem introduxisti me in hanc vitam, quemadmodum nescio.",
+      "question": "Quo nomine appellatur mater Augustini, quae apud Ostia mortua est?",
+      "answer": "Monnica.",
+      "question_en": "By what name is Augustine's mother, who died at Ostia, called?",
+      "answer_en": "Monnica.",
+      "derivation": "Augustine names his mother only here at the close of Book 9. Anchored to Augustine + his mother; single-name answer supported by 'Monnicae, famulae tuae... per quorum carnem introduxisti me in hanc vitam.' Closed-book (Monica is among the most famous mothers in literature). Spelling 'Monnica' per the text (also Monica)."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.13.37",
+      "source_text": "ut quotquot haec legerint, meminerint ad altare tuum Monnicae, famulae tuae, cum Patricio, quondam eius coniuge, per quorum carnem introduxisti me in hanc vitam, quemadmodum nescio.",
+      "question": "Quo nomine appellatur pater Augustini, maritus Monnicae?",
+      "answer": "Patricius.",
+      "question_en": "By what name is Augustine's father, the husband of Monnica, called?",
+      "answer_en": "Patricius.",
+      "derivation": "Patricius is named as Monnica's husband and Augustine's parent ('cum Patricio, quondam eius coniuge, per quorum carnem introduxisti me'). Anchored to Augustine + Monnica; single-name answer. Also named at 9.9.19. Closed-book biographical fact."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.6.14",
+      "source_text": "adiunximus etiam nobis puerum Adeodatum ex me natum carnaliter de peccato meo. tu bene feceras eum.",
+      "question": "Quo nomine appellatur filius quem Augustinus carnaliter genuit?",
+      "answer": "Adeodatus.",
+      "question_en": "By what name is the son whom Augustine begot in the flesh called?",
+      "answer_en": "Adeodatus.",
+      "derivation": "Augustine's natural son, joined to the group and baptized with him and Alypius at Milan. Anchored to Augustine; single-name answer supported verbatim by 'puerum Adeodatum ex me natum carnaliter.' Closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.6.14",
+      "source_text": "adiunximus etiam nobis puerum Adeodatum ex me natum carnaliter de peccato meo. tu bene feceras eum. annorum erat ferme quindecim et ingenio praeveniebat multos graves et doctos viros.",
+      "question": "Quot fere annos natus erat Adeodatus, Augustini filius, eo tempore quo baptizatus est?",
+      "answer": "Ferme quindecim annorum.",
+      "question_en": "About how many years old was Adeodatus, Augustine's son, at the time he was baptized?",
+      "answer_en": "About fifteen.",
+      "derivation": "Number fact anchored to Adeodatus (Augustine's son) at the time of the Milan baptism. Answer mirrors the source's approximative 'ferme' ('annorum erat ferme quindecim'). Short, verifiable, closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.6.14",
+      "source_text": "est liber noster qui inscribitur 'de magistro': ipse ibi mecum loquitur. tu scis illius esse sensa omnia quae inseruntur ibi ex persona conlocutoris mei, cum esset in annis sedecim.",
+      "question": "Quo titulo inscribitur liber Augustini in quo filius eius Adeodatus conlocutor inducitur?",
+      "answer": "De magistro.",
+      "question_en": "Under what title is the book of Augustine in which his son Adeodatus is brought in as interlocutor inscribed?",
+      "answer_en": "De magistro (On the Teacher).",
+      "derivation": "Augustine states that in his dialogue De magistro the interlocutor's words are his son's ('ex persona conlocutoris mei'). Anchored to Augustine + Adeodatus; single title answer supported verbatim. Closed-book (De Magistro is a well-known work)."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.6.14",
+      "source_text": "relicto rure Mediolanium remeavimus. placuit et Alypio renasci in te mecum iam induto humilitate sacramentis tuis congrua et fortissimo domitori corporis, usque ad Italicum solum glaciale nudo pede obterendum insolito ausu.",
+      "question": "Quis amicus Augustini una cum eo Mediolani baptizatus est?",
+      "answer": "Alypius.",
+      "question_en": "Which friend of Augustine was baptized at Milan together with him?",
+      "answer_en": "Alypius.",
+      "derivation": "Alypius decided to be 'reborn' (baptized) along with Augustine on their return to Milan ('relicto rure Mediolanium remeavimus. placuit et Alypio renasci in te mecum'). Anchored to Augustine + Milan; single-name answer. Closed-book (Alypius is Augustine's well-known companion)."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.5.13",
+      "source_text": "et insinuavi per litteras antistiti tuo, viro sancto Ambrosio, pristinos errores meos et praesens votum meum, ut moneret quid mihi potissimum de libris tuis legendum esset, quo percipiendae tantae gratiae paratior aptiorque fierem. at ille iussit Esaiam prophetam, credo, quod prae ceteris evangelii vocationisque gentium sit praenuntiator apertior.",
+      "question": "Quem prophetam Augustino legendum antistes Ambrosius iussit?",
+      "answer": "Esaiam.",
+      "question_en": "Which prophet did the bishop Ambrose order Augustine to read?",
+      "answer_en": "Isaiah.",
+      "derivation": "Augustine asked the bishop Ambrose what to read; Ambrose directed him to Isaiah ('at ille iussit Esaiam prophetam'). Anchored to Ambrose (named 'antistiti tuo, viro sancto Ambrosio') + Augustine; single-name answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.11.28",
+      "source_text": "ergo die nono aegritudinis suae, quinquagesimo et sexto anno aetatis suae, tricesimo et tertio aetatis meae, anima illa religiosa et pia corpore soluta est.",
+      "question": "Quoto anno aetatis suae Monnica, mater Augustini, mortua est?",
+      "answer": "Quinquagesimo et sexto.",
+      "question_en": "In which year of her age did Monnica, Augustine's mother, die?",
+      "answer_en": "In her fifty-sixth.",
+      "derivation": "Number fact anchored to Monnica: she died in the 56th year of her age ('quinquagesimo et sexto anno aetatis suae'). Short, verifiable, closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.11.28",
+      "source_text": "ergo die nono aegritudinis suae, quinquagesimo et sexto anno aetatis suae, tricesimo et tertio aetatis meae, anima illa religiosa et pia corpore soluta est.",
+      "question": "Quotum annum aetatis agebat Augustinus cum mater eius Monnica mortua est?",
+      "answer": "Tricesimum et tertium.",
+      "question_en": "What year of his age was Augustine in when his mother Monnica died?",
+      "answer_en": "His thirty-third.",
+      "derivation": "Number fact anchored to Augustine: he was in his 33rd year at his mother's death ('tricesimo et tertio aetatis meae'). Distinct referent from the mother's age; short, verifiable, closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.11.28",
+      "source_text": "ergo die nono aegritudinis suae, quinquagesimo et sexto anno aetatis suae, tricesimo et tertio aetatis meae, anima illa religiosa et pia corpore soluta est.",
+      "question": "Quoto die aegritudinis suae Monnica mortua est?",
+      "answer": "Nono.",
+      "question_en": "On which day of her illness did Monnica die?",
+      "answer_en": "On the ninth.",
+      "derivation": "Number fact anchored to Monnica: she died on the ninth day of her illness ('die nono aegritudinis suae'). Short, verifiable, closed-book. (Note 9.11.27's 'vix intra quinque dies... decubuit febribus' refers to the acute febrile phase; the explicit death-statement gives the ninth day of the whole illness.)"
+    },
+    {
+      "locus": "Augustine, Confessiones 9.7.16",
+      "source_text": "tunc memorato antistiti tuo per visum aperuisti quo loco laterent martyrum corpora Protasii et Gervasii, quae per tot annos incorrupta in thesauro secreti tui reconderas, unde opportune promeres ad cohercendam rabiem femineam sed regiam.",
+      "question": "Quorum martyrum corpora Ambrosius Mediolani, per visum sibi monstrata, invenit?",
+      "answer": "Protasii et Gervasii.",
+      "question_en": "The bodies of which martyrs, revealed to him through a vision, did Ambrose find at Milan?",
+      "answer_en": "Of Protasius and Gervasius.",
+      "derivation": "The 'antistes' is Ambrose (named in 9.7.15). Through a vision he found the bodies of the martyrs Protasius and Gervasius ('martyrum corpora Protasii et Gervasii'), later moved to the Ambrosian basilica. Anchored to Ambrose + Milan; two-name answer supported verbatim. Closed-book (the inventio of SS. Gervasius and Protasius)."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.12.32",
+      "source_text": "recordatus sum veridicos versus Ambrosii tui. tu es enim, deus, creator omnium, polique rector vestiens diem decoro lumine, noctem sopora gratia, artus solutos ut quies reddat laboris usui mentesque fessas allevet luctuque solvat anxios.",
+      "question": "A quo auctore compositi sunt versus 'Deus creator omnium' quos Augustinus post matris suae mortem recordatus est?",
+      "answer": "Ab Ambrosio.",
+      "question_en": "By what author were the verses 'Deus creator omnium,' which Augustine recalled after his mother's death, composed?",
+      "answer_en": "By Ambrose.",
+      "derivation": "Augustine recalls 'veridicos versus Ambrosii tui' beginning 'deus, creator omnium' — the Ambrosian hymn. Anchored to Augustine + Ambrose; single-name answer supported verbatim. Closed-book (a famous Ambrosian hymn). Source_text normalized: per-line quotation marks and a stray bracket stripped, hymn lines joined."
+    },
+    {
+      "locus": "Augustine, Confessiones 9.3.5",
+      "source_text": "fidelis promissor reddis Verecundo pro rure illo eius Cassiciaco, ubi ab aestu saeculi requievimus in te, amoenitatem sempiterne virentis paradisi tui.",
+      "question": "Quo nomine appellabatur rus Verecundi ubi Augustinus cum suis post conversionem requievit?",
+      "answer": "Cassiciacum.",
+      "question_en": "By what name was the country estate of Verecundus, where Augustine and his companions rested after their conversion, called?",
+      "answer_en": "Cassiciacum.",
+      "derivation": "Verecundus's estate where Augustine's party retreated is named Cassiciacum ('pro rure illo eius Cassiciaco, ubi... requievimus'). Anchored to Verecundus + Augustine; single place-name answer (ablative 'Cassiciaco' in text, nom. Cassiciacum). Closed-book (the Cassiciacum retreat/dialogues are famous in Augustine's biography)."
+    }
+  ]
+}

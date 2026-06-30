@@ -1,0 +1,133 @@
+{
+  "source": "text/tacitus/tac.agri.txt",
+  "author": "Tacitus",
+  "work": "Agricola",
+  "pairs": [
+    {
+      "locus": "Tacitus, Agricola 3",
+      "source_text": "Hic interim liber honori Agricolae soceri mei destinatus, professione pietatis aut laudatus erit aut excusatus.",
+      "question": "Qua necessitudine Gnaeus Iulius Agricola cum Tacito coniunctus fuit?",
+      "answer": "Socer Taciti fuit.",
+      "question_en": "By what family relationship was Gnaeus Julius Agricola connected to Tacitus?",
+      "answer_en": "He was Tacitus's father-in-law.",
+      "derivation": "Tacitus calls Agricola 'soceri mei' (my father-in-law), the work being dedicated to his honor. Anchored to two named persons; single verifiable relation; the famous frame of the whole biography. Tacitus married Agricola's daughter, so Agricola is his socer."
+    },
+    {
+      "locus": "Tacitus, Agricola 4",
+      "source_text": "Gnaeus Iulius Agricola, vetere et inlustri Foroiuliensium colonia ortus, utrumque avum procuratorem Caesarum habuit, quae equestris nobilitas est.",
+      "question": "In qua colonia Gnaeus Iulius Agricola ortus est?",
+      "answer": "In colonia Foroiuliensium.",
+      "question_en": "In which colony was Gnaeus Julius Agricola born?",
+      "answer_en": "In the colony of Forum Iulii.",
+      "derivation": "Agricola's birthplace, stated verbatim as 'Foroiuliensium colonia ortus'. Anchored to the named person; single place answer; the canonical opening fact of the biography."
+    },
+    {
+      "locus": "Tacitus, Agricola 4",
+      "source_text": "Pater illi Iulius Graecinus senatorii ordinis, studio eloquentiae sapientiaeque notus, iisque ipsis virtutibus iram Gai Caesaris meritus: namque Marcum Silanum accusare iussus et, quia abnuerat, interfectus est.",
+      "question": "Quis fuit pater Agricolae?",
+      "answer": "Iulius Graecinus.",
+      "question_en": "Who was Agricola's father?",
+      "answer_en": "Iulius Graecinus.",
+      "derivation": "Names Agricola's father ('Pater illi Iulius Graecinus'). Anchored to Agricola; single named answer supported verbatim; closed-book biographical fact."
+    },
+    {
+      "locus": "Tacitus, Agricola 4",
+      "source_text": "Mater Iulia Procilla fuit, rarae castitatis.",
+      "question": "Quae fuit mater Agricolae?",
+      "answer": "Iulia Procilla.",
+      "question_en": "Who was Agricola's mother?",
+      "answer_en": "Iulia Procilla.",
+      "derivation": "Names Agricola's mother ('Mater Iulia Procilla fuit'). Anchored to Agricola; single named answer verbatim in source."
+    },
+    {
+      "locus": "Tacitus, Agricola 6",
+      "source_text": "Hinc ad capessendos magistratus in urbem degressus Domitiam Decidianam, splendidis natalibus ortam, sibi iunxit; idque matrimonium ad maiora nitenti decus ac robur fuit.",
+      "question": "Quam feminam Agricola in matrimonium duxit?",
+      "answer": "Domitiam Decidianam.",
+      "question_en": "Which woman did Agricola marry?",
+      "answer_en": "Domitia Decidiana.",
+      "derivation": "Agricola's wife, named in 'Domitiam Decidianam... sibi iunxit'. Anchored to Agricola; single named answer; closed-book relation fact."
+    },
+    {
+      "locus": "Tacitus, Agricola 9",
+      "source_text": "Revertentem ab legatione legionis divus Vespasianus inter patricios adscivit; ac deinde provinciae Aquitaniae praeposuit, splendidae inprimis dignitatis administratione ac spe consulatus, cui destinarat.",
+      "question": "Cui provinciae divus Vespasianus Agricolam praeposuit?",
+      "answer": "Aquitaniae.",
+      "question_en": "Over which province did the deified Vespasian place Agricola?",
+      "answer_en": "Over Aquitania.",
+      "derivation": "Named office/province: Vespasian set Agricola over Aquitania ('provinciae Aquitaniae praeposuit'). Anchored to Vespasian + Agricola; single province answer verbatim."
+    },
+    {
+      "locus": "Tacitus, Agricola 10",
+      "source_text": "Hanc oram novissimi maris tunc primum Romana classis circumvecta insulam esse Britanniam adfirmavit, ac simul incognitas ad id tempus insulas, quas Orcadas vocant, invenit domuitque.",
+      "question": "Quid Romana classis, oram novissimi maris circumvecta, tum primum adfirmavit?",
+      "answer": "Britanniam insulam esse.",
+      "question_en": "What did the Roman fleet, having sailed around the coast of the farthest sea, then for the first time affirm?",
+      "answer_en": "That Britain is an island.",
+      "derivation": "The classic discovery under Agricola's governorship: the circumnavigating fleet confirmed Britain is an island ('insulam esse Britanniam adfirmavit'). Indirect statement (acc.+inf.) answer supported verbatim; entity-anchored to Britannia + the Roman fleet; one of the most-cited facts of the Agricola."
+    },
+    {
+      "locus": "Tacitus, Agricola 10",
+      "source_text": "Hanc oram novissimi maris tunc primum Romana classis circumvecta insulam esse Britanniam adfirmavit, ac simul incognitas ad id tempus insulas, quas Orcadas vocant, invenit domuitque.",
+      "question": "Quas insulas, antea incognitas, Romana classis Britanniam circumvecta invenit domuitque?",
+      "answer": "Orcadas.",
+      "question_en": "Which previously unknown islands did the Roman fleet discover and subdue while sailing around Britain?",
+      "answer_en": "The Orcades (Orkneys).",
+      "derivation": "Distinct fact from the same sentence: the fleet discovered and subdued the Orcades ('insulas, quas Orcadas vocant, invenit domuitque'). Anchored to the Roman fleet's circumnavigation; single named-islands answer verbatim."
+    },
+    {
+      "locus": "Tacitus, Agricola 13",
+      "source_text": "Igitur primus omnium Romanorum divus Iulius cum exercitu Britanniam ingressus, quamquam prospera pugna terruerit incolas ac litore potitus sit, potest videri ostendisse posteris, non tradidisse.",
+      "question": "Quis primus omnium Romanorum cum exercitu Britanniam ingressus est?",
+      "answer": "Divus Iulius.",
+      "question_en": "Who was the first of all Romans to enter Britain with an army?",
+      "answer_en": "The deified Julius (Caesar).",
+      "derivation": "States verbatim that Julius Caesar was 'primus omnium Romanorum' to enter Britain with an army. Single named answer; closed-book, much-cited historical fact; anchored to Britannia + the Romans."
+    },
+    {
+      "locus": "Tacitus, Agricola 14",
+      "source_text": "Consularium primus Aulus Plautius praepositus ac subinde Ostorius Scapula, uterque bello egregius: redactaque paulatim in formam provinciae proxima pars Britanniae, addita insuper veteranorum colonia.",
+      "question": "Quis primus ex consularibus Britanniae praepositus est?",
+      "answer": "Aulus Plautius.",
+      "question_en": "Who was the first of the consulars placed in charge of Britain?",
+      "answer_en": "Aulus Plautius.",
+      "derivation": "Named office/relation: 'Consularium primus Aulus Plautius praepositus'. Anchored to Britannia; single named answer verbatim; closed-book."
+    },
+    {
+      "locus": "Tacitus, Agricola 16",
+      "source_text": "His atque talibus in vicem instincti, Boudicca generis regii femina duce (neque enim sexum in imperiis discernunt) sumpsere universi bellum.",
+      "question": "Qua femina duce Britanni adversus Romanos universi bellum sumpserunt?",
+      "answer": "Boudicca.",
+      "question_en": "Under which woman as leader did the Britons all together take up war against the Romans?",
+      "answer_en": "Boudicca.",
+      "derivation": "Names the leader of the British revolt, 'Boudicca generis regii femina duce'. Anchored to the Britons + Romans; single named answer verbatim (spelled 'Boudicca' in the text); famous, closed-book."
+    },
+    {
+      "locus": "Tacitus, Agricola 29",
+      "source_text": "Igitur praemissa classe, quae pluribus locis praedata magnum et incertum terrorem faceret, expedito exercitu, cui ex Britannis fortissimos et longa pace exploratos addiderat, ad montem Graupium pervenit, quem iam hostis insederat.",
+      "question": "Ad quem montem Agricola pervenit, ubi postremum cum Britannis proelium commisit?",
+      "answer": "Ad montem Graupium.",
+      "question_en": "To what mountain did Agricola come, where he fought his final battle with the Britons?",
+      "answer_en": "To Mons Graupius.",
+      "derivation": "The climactic battle's site, 'ad montem Graupium pervenit'. Anchored to Agricola + the Britons; single named-place answer verbatim; the canonical battle of the Agricola."
+    },
+    {
+      "locus": "Tacitus, Agricola 29",
+      "source_text": "Iamque super triginta milia armatorum aspiciebantur, et adhuc adfluebat omnis iuventus et quibus cruda ac viridis senectus, clari bello et sua quisque decora gestantes, cum inter pluris duces virtute et genere praestans nomine Calgacus apud contractam multitudinem proelium poscentem in hunc modum locutus fertur.",
+      "question": "Quis dux Britannorum, virtute et genere praestans, ante proelium ad montem Graupium orationem habuisse fertur?",
+      "answer": "Calgacus.",
+      "question_en": "Which leader of the Britons, outstanding in valor and birth, is said to have delivered a speech before the battle at Mons Graupius?",
+      "answer_en": "Calgacus.",
+      "derivation": "Names the Caledonian leader, 'nomine Calgacus'. Anchored to the Britons + Mons Graupius; single named answer verbatim. The question concerns only the speaker's identity (a fact), not the rhetorical content of the speech. 'fertur... locutus' mirrors the source's report-frame; closed-book and famous."
+    },
+    {
+      "locus": "Tacitus, Agricola 37",
+      "source_text": "Caesa hostium ad decem milia: nostrorum trecenti sexaginta cecidere, in quis Aulus Atticus praefectus cohortis, iuvenili ardore et ferocia equi hostibus inlatus.",
+      "question": "Quot Romani in proelio ad montem Graupium ceciderunt, ut Tacitus tradit?",
+      "answer": "Trecenti sexaginta.",
+      "question_en": "How many Romans fell in the battle at Mons Graupius, as Tacitus records?",
+      "answer_en": "Three hundred and sixty.",
+      "derivation": "Number fact: Roman dead at Mons Graupius, 'nostrorum trecenti sexaginta cecidere' (against about 10,000 of the enemy). Anchored to the named battle; single number answer verbatim; 'ut Tacitus tradit' marks the closed-book authorial frame."
+    }
+  ]
+}

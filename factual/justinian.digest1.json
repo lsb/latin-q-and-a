@@ -1,0 +1,151 @@
+{
+  "source": "text/justinian/digest1.txt",
+  "author": "Justinian (Corpus Iuris Civilis)",
+  "work": "Digesta, liber I",
+  "pairs": [
+    {
+      "locus": "Justinian, Digesta 1.1.1pr (Ulpianus 1 inst., citing Celsus)",
+      "source_text": "Iuri operam daturum prius nosse oportet, unde nomen iuris descendat. est autem a iustitia appellatum: nam, ut eleganter celsus definit, ius est ars boni et aequi.",
+      "question": "Quibus verbis Celsus, ut Ulpianus refert, ius definit?",
+      "answer": "Ius est ars boni et aequi.",
+      "question_en": "In what words does Celsus, as Ulpian reports, define law (ius)?",
+      "answer_en": "Law is the art of the good and the equitable.",
+      "derivation": "The single most-quoted definition of ius in Roman law, attributed by Ulpian to Celsus. Closed-book famous maxim, entity-anchored to Celsus, short verifiable answer present verbatim ('ius est ars boni et aequi')."
+    },
+    {
+      "locus": "Justinian, Digesta 1.1.1.3 (Ulpianus 1 inst.)",
+      "source_text": "Ius naturale est, quod natura omnia animalia docuit: nam ius istud non humani generis proprium, sed omnium animalium, quae in terra, quae in mari nascuntur, avium quoque commune est.",
+      "question": "Quomodo Ulpianus ius naturale definit?",
+      "answer": "Quod natura omnia animalia docuit.",
+      "question_en": "How does Ulpian define natural law (ius naturale)?",
+      "answer_en": "That which nature has taught all animals.",
+      "derivation": "Ulpian's famous definition of ius naturale as the law nature taught all animals, not only mankind. Closed-book maxim, anchored to Ulpian + ius naturale, short answer verbatim from the source."
+    },
+    {
+      "locus": "Justinian, Digesta 1.1.4 (Ulpianus 1 inst.)",
+      "source_text": "et cum uno naturali nomine homines appellaremur, iure gentium tria genera esse coeperunt: liberi et his contrarium servi et tertium genus liberti, id est hi qui desierant esse servi.",
+      "question": "Quae tria genera hominum iure gentium orta esse Ulpianus scribit?",
+      "answer": "Liberi, servi et liberti.",
+      "question_en": "Which three classes of men does Ulpian say arose by the law of nations (ius gentium)?",
+      "answer_en": "Free men, slaves, and freedmen.",
+      "derivation": "Ulpian: under ius gentium three classes of men arose — liberi, servi, liberti. Closed-book, anchored to Ulpian + ius gentium, three named-entity answer verbatim. Indirect statement (orta esse) governed by scribit."
+    },
+    {
+      "locus": "Justinian, Digesta 1.1.7.1 (Papinianus 2 def.)",
+      "source_text": "Ius praetorium est, quod praetores introduxerunt adiuvandi vel supplendi vel corrigendi iuris civilis gratia propter utilitatem publicam. quod et honorarium dicitur ad honorem praetorum sic nominatum.",
+      "question": "Cuius rei gratia praetores ius praetorium introduxisse Papinianus scribit?",
+      "answer": "Adiuvandi vel supplendi vel corrigendi iuris civilis gratia.",
+      "question_en": "For what purpose does Papinian say the praetors introduced praetorian law?",
+      "answer_en": "For the sake of aiding, supplementing, or correcting the civil law.",
+      "derivation": "Papinian's classic triad of the purposes of ius praetorium (adiuvandi, supplendi, corrigendi iuris civilis). Closed-book, anchored to Papinian + ius praetorium, answer verbatim. Indirect statement (introduxisse) governed by scribit."
+    },
+    {
+      "locus": "Justinian, Digesta 1.1.10pr (Ulpianus 1 reg.)",
+      "source_text": "Iustitia est constans et perpetua voluntas ius suum cuique tribuendi.",
+      "question": "Quomodo Ulpianus iustitiam definit?",
+      "answer": "Constans et perpetua voluntas ius suum cuique tribuendi.",
+      "question_en": "How does Ulpian define justice (iustitia)?",
+      "answer_en": "The constant and perpetual will to render to each his own right.",
+      "derivation": "The canonical definition of iustitia (later opening Justinian's Institutes), quoted here from Ulpian. Closed-book maxim, anchored to Ulpian + iustitia, short answer verbatim."
+    },
+    {
+      "locus": "Justinian, Digesta 1.1.10.1 (Ulpianus 1 reg.)",
+      "source_text": "Iuris praecepta sunt haec: honeste vivere, alterum non laedere, suum cuique tribuere.",
+      "question": "Quae sunt tria iuris praecepta secundum Ulpianum?",
+      "answer": "Honeste vivere, alterum non laedere, suum cuique tribuere.",
+      "question_en": "What are the three precepts of law according to Ulpian?",
+      "answer_en": "To live honourably, to harm no one, to render to each his own.",
+      "derivation": "Ulpian's three iuris praecepta, among the most famous formulas in Western law. Closed-book, anchored to Ulpian + iuris praecepta, three-part answer verbatim."
+    },
+    {
+      "locus": "Justinian, Digesta 1.2.2.2 (Pomponius l.S. enchir.)",
+      "source_text": "Postea aucta ad aliquem modum civitate ipsum romulum traditur populum in triginta partes divisisse, quas partes curias appellavit propterea quod tunc reipublicae curam per sententias partium earum expediebat.",
+      "question": "In quot partes Romulus populum divisisse traditur, quas curias appellavit, ut Pomponius scribit?",
+      "answer": "In triginta.",
+      "question_en": "Into how many parts is Romulus said to have divided the people, which he called curiae, as Pomponius writes?",
+      "answer_en": "Into thirty.",
+      "derivation": "From Pomponius's history of law: Romulus divided the people into 30 curiae. Closed-book, anchored to Romulus + curiae, single number answer (triginta) verbatim; traditur keeps the 'it is reported' frame (nom.+inf. construction)."
+    },
+    {
+      "locus": "Justinian, Digesta 1.2.2.4 (Pomponius l.S. enchir.)",
+      "source_text": "Placuit publica auctoritate decem constitui viros, per quos peterentur leges a graecis civitatibus et civitas fundaretur legibus: quas in tabulas eboreas perscriptas pro rostris composuerunt, ut possint leges apertius percipi. qui ipsi animadverterunt aliquid deesse istis primis legibus ideoque sequenti anno alias duas ad easdem tabulas adiecerunt: et ita ex accedenti appellatae sunt leges duodecim tabularum.",
+      "question": "Quot viri publica auctoritate constituti sunt, ut leges duodecim tabularum conderentur, secundum Pomponium?",
+      "answer": "Decem.",
+      "question_en": "How many men were appointed by public authority to establish the law of the Twelve Tables, according to Pomponius?",
+      "answer_en": "Ten (the decemvirs).",
+      "derivation": "Pomponius: ten men (decemviri) were appointed and composed the Twelve Tables (two more tables added the following year giving the name). Closed-book, anchored to the Twelve Tables + decemviri, number answer (decem) verbatim from 'decem constitui viros'."
+    },
+    {
+      "locus": "Justinian, Digesta 1.2.2.18 (Pomponius l.S. enchir.)",
+      "source_text": "itaque dictatores proditi sunt, a quibus nec provocandi ius fuit et quibus etiam capitis animadversio data est. hunc magistratum, quoniam summam potestatem habebat, non erat fas ultra sextum mensem retineri.",
+      "question": "Ultra quot menses dictaturam retineri fas non erat secundum Pomponium?",
+      "answer": "Ultra sextum mensem.",
+      "question_en": "Beyond how many months was it not lawful to retain the dictatorship, according to Pomponius?",
+      "answer_en": "Beyond the sixth month.",
+      "derivation": "Pomponius: the dictatorship, holding supreme power, could not lawfully be held beyond six months. Closed-book institutional fact, anchored to the dictatorship, number answer verbatim ('ultra sextum mensem')."
+    },
+    {
+      "locus": "Justinian, Digesta 1.2.2.39 (Pomponius l.S. enchir.)",
+      "source_text": "Post hos fuerunt publius mucius et brutus et manilius, qui fundaverunt ius civile. ex his publius mucius etiam decem libellos reliquit, brutus septem, manilius tres.",
+      "question": "Qui tres iuris periti ius civile fundavisse a Pomponio dicuntur?",
+      "answer": "Publius Mucius, Brutus et Manilius.",
+      "question_en": "Which three jurists are said by Pomponius to have founded the civil law?",
+      "answer_en": "Publius Mucius, Brutus, and Manilius.",
+      "derivation": "Pomponius names the three 'founders of ius civile' (qui fundaverunt ius civile): Publius Mucius Scaevola, Brutus, Manilius. Closed-book in legal history, three named-entity answer verbatim; dicuntur + nom.+inf. (fundavisse)."
+    },
+    {
+      "locus": "Justinian, Digesta 1.2.2.38 (Pomponius l.S. enchir.)",
+      "source_text": "Post hos fuit tiberius coruncanius, ut dixi, qui primus profiteri coepit: cuius tamen scriptum nullum exstat, sed responsa complura et memorabilia eius fuerunt.",
+      "question": "Quis primus ius publice profiteri coepisse a Pomponio traditur?",
+      "answer": "Tiberius Coruncanius.",
+      "question_en": "Who, according to Pomponius, was the first to begin teaching law publicly?",
+      "answer_en": "Tiberius Coruncanius.",
+      "derivation": "Pomponius: Tiberius Coruncanius was the first to teach/give responsa publicly (profiteri). Closed-book historical fact, single named-entity answer, supported by 'qui primus profiteri coepit' (cf. 1.2.2.35 'ante Tiberium Coruncanium publice professum neminem')."
+    },
+    {
+      "locus": "Justinian, Digesta 1.3.7 (Modestinus 1 reg.)",
+      "source_text": "Legis virtus haec est imperare vetare permittere punire.",
+      "question": "Quae sunt quattuor legis virtutes secundum Modestinum?",
+      "answer": "Imperare, vetare, permittere, punire.",
+      "question_en": "What are the four powers (functions) of law according to Modestinus?",
+      "answer_en": "To command, to forbid, to permit, to punish.",
+      "derivation": "Modestinus's four functions of law (imperare, vetare, permittere, punire). Closed-book maxim, anchored to Modestinus + lex, four-part answer verbatim."
+    },
+    {
+      "locus": "Justinian, Digesta 1.3.31 (Ulpianus 13 ad l. iul. et pap.)",
+      "source_text": "Princeps legibus solutus est: augusta autem licet legibus soluta non est, principes tamen eadem illi privilegia tribuunt, quae ipsi habent.",
+      "question": "Quid de principe quoad leges Ulpianus affirmat?",
+      "answer": "Principem legibus solutum esse.",
+      "question_en": "What does Ulpian assert about the emperor with respect to the laws?",
+      "answer_en": "That the emperor is freed from (not bound by) the laws.",
+      "derivation": "The maxim 'princeps legibus solutus est', foundational to later theories of sovereignty, stated here by Ulpian. Closed-book, anchored to Ulpian + princeps, short answer; indirect statement (Principem... solutum esse) governed by affirmat, supported verbatim."
+    },
+    {
+      "locus": "Justinian, Digesta 1.4.1pr (Ulpianus 1 inst.)",
+      "source_text": "Quod principi placuit, legis habet vigorem: utpote cum lege regia, quae de imperio eius lata est, populus ei et in eum omne suum imperium et potestatem conferat.",
+      "question": "Quam vim habere id quod principi placuit Ulpianus tradit?",
+      "answer": "Legis vigorem.",
+      "question_en": "What force does Ulpian record that whatever pleases the emperor has?",
+      "answer_en": "The force of law.",
+      "derivation": "Ulpian's maxim 'quod principi placuit, legis habet vigorem'. Closed-book, anchored to Ulpian + princeps, short answer 'legis vigorem' verbatim; indirect statement (id... habere) governed by tradit."
+    },
+    {
+      "locus": "Justinian, Digesta 1.5.1 (Gaius 1 inst.)",
+      "source_text": "Omne ius quo utimur vel ad personas pertinet vel ad res vel ad actiones.",
+      "question": "Ad quae tria omne ius quo utimur pertinere Gaius scribit?",
+      "answer": "Ad personas, ad res, ad actiones.",
+      "question_en": "To which three things does Gaius say that all the law we use pertains?",
+      "answer_en": "To persons, to things, and to actions.",
+      "derivation": "Gaius's tripartite division of all law into personae, res, actiones — the organizing scheme of his Institutes. Closed-book, anchored to Gaius, three-part answer verbatim; indirect statement (pertinere) governed by scribit."
+    },
+    {
+      "locus": "Justinian, Digesta 1.5.17 (Ulpianus 22 ad ed.)",
+      "source_text": "In orbe romano qui sunt ex constitutione imperatoris antonini cives romani effecti sunt.",
+      "question": "Cuius imperatoris constitutione omnes qui in orbe Romano erant cives Romani facti sunt, ut Ulpianus scribit?",
+      "answer": "Imperatoris Antonini.",
+      "question_en": "By the constitution of which emperor did all who were in the Roman world become Roman citizens, as Ulpian writes?",
+      "answer_en": "Of the emperor Antoninus (Caracalla).",
+      "derivation": "Ulpian's record of the Constitutio Antoniniana (AD 212), by which Caracalla (Antoninus) granted citizenship to all free inhabitants of the empire. Closed-book famous historical fact, anchored to the emperor Antoninus, single named-entity answer verbatim ('ex constitutione imperatoris Antonini')."
+    }
+  ]
+}

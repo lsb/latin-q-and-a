@@ -1,0 +1,151 @@
+{
+  "source": "text/caesar/gall1.txt",
+  "author": "Caesar",
+  "work": "De Bello Gallico, liber I",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Gallico 1.1",
+      "source_text": "Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit.",
+      "question": "Quod flumen, ut Caesar scribit, Gallos ab Aquitanis dividit?",
+      "answer": "Garumna.",
+      "question_en": "Which river, as Caesar writes, divides the Gauls from the Aquitani?",
+      "answer_en": "The Garumna (Garonne).",
+      "derivation": "Geography fact of the famous opening chapter. Anchored to the Gauls, the Aquitani, and Caesar; single river answer supported verbatim by 'Gallos ab Aquitanis Garumna flumen ... dividit'. Closed-book staple of Latin geography."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.2",
+      "source_text": "Apud Helvetios longe nobilissimus fuit et ditissimus Orgetorix.",
+      "question": "Quis apud Helvetios longe nobilissimus ac ditissimus fuit?",
+      "answer": "Orgetorix.",
+      "question_en": "Who was by far the noblest and richest man among the Helvetii?",
+      "answer_en": "Orgetorix.",
+      "derivation": "Name fact anchored to the Helvetii; single named answer supported verbatim. Orgetorix is the well-known instigator of the Helvetian migration; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.2",
+      "source_text": "Pro multitudine autem hominum et pro gloria belli atque fortitudinis angustos se fines habere arbitrabantur, qui in longitudinem milia passuum CCXL, in latitudinem CLXXX patebant.",
+      "question": "Quot milia passuum in longitudinem fines Helvetiorum patebant?",
+      "answer": "CCXL milia passuum.",
+      "question_en": "How many miles in length did the territory of the Helvetii extend?",
+      "answer_en": "240 miles.",
+      "derivation": "Measure fact anchored to the Helvetii; number answer (CCXL = 240) supported verbatim, the width being CLXXX. The guidelines list exactly this kind of distance fact as a target."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.2",
+      "source_text": "Id hoc facilius iis persuasit, quod undique loci natura Helvetii continentur: una ex parte flumine Rheno latissimo atque altissimo, qui agrum Helvetium a Germanis dividit; altera ex parte monte Iura altissimo, qui est inter Sequanos et Helvetios; tertia lacu Lemanno et flumine Rhodano, qui provinciam nostram ab Helvetiis dividit.",
+      "question": "Qui mons inter Sequanos et Helvetios situs est?",
+      "answer": "Mons Iura.",
+      "question_en": "Which mountain lies between the Sequani and the Helvetii?",
+      "answer_en": "The Jura.",
+      "derivation": "Geography fact anchored to the Sequani and Helvetii; single answer supported verbatim by 'monte Iura altissimo, qui est inter Sequanos et Helvetios'. Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.3",
+      "source_text": "Itemque Dumnorigi Haeduo, fratri Diviciaci, qui eo tempore principatum in civitate obtinebat ac maxime plebi acceptus erat, ut idem conaretur persuadet eique filiam suam in matrimonium dat.",
+      "question": "Cui Orgetorix filiam suam in matrimonium dedit?",
+      "answer": "Dumnorigi Haeduo.",
+      "question_en": "To whom did Orgetorix give his daughter in marriage?",
+      "answer_en": "To Dumnorix the Haeduan.",
+      "derivation": "Relation fact anchored to Orgetorix; single named answer supported verbatim by 'eique filiam suam in matrimonium dat' (the antecedent being Dumnorix). Dumnorix is a major figure of Book 1; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.7",
+      "source_text": "Caesar, quod memoria tenebat L. Cassium consulem occisum exercitumque eius ab Helvetiis pulsum et sub iugum missum, concedendum non putabat.",
+      "question": "Quem consulem Romanum Helvetii antea occiderant eiusque exercitum sub iugum miserant?",
+      "answer": "L. Cassium.",
+      "question_en": "Which Roman consul had the Helvetii earlier killed, and sent his army under the yoke?",
+      "answer_en": "Lucius Cassius.",
+      "derivation": "Historical name fact anchored to the Helvetii and a consul; single named answer supported verbatim. The defeat of L. Cassius (107 BC) is closed-book history echoed again in 1.12."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.8",
+      "source_text": "Interea ea legione quam secum habebat militibusque, qui ex provincia convenerant, a lacu Lemanno, qui in flumen Rhodanum influit, ad montem Iuram, qui fines Sequanorum ab Helvetiis dividit, milia passuum XVIIII murum in altitudinem pedum sedecim fossamque perducit.",
+      "question": "Quot milia passuum longum murum Caesar a lacu Lemanno ad montem Iuram perduxit?",
+      "answer": "XVIIII milia passuum.",
+      "question_en": "How many miles long was the wall Caesar built from Lake Geneva to the Jura?",
+      "answer_en": "Nineteen miles.",
+      "derivation": "Number/engineering fact anchored to Caesar, Lake Leman, and the Jura; answer (XVIIII = 19) supported verbatim (the height being sixteen feet). Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.12",
+      "source_text": "Flumen est Arar, quod per fines Haeduorum et Sequanorum in Rhodanum influit, incredibili lenitate, ita ut oculis in utram partem fluat iudicari non possit.",
+      "question": "In quod flumen Ararim influere Caesar scribit?",
+      "answer": "In Rhodanum.",
+      "question_en": "Into which river does Caesar write the Arar flows?",
+      "answer_en": "Into the Rhone.",
+      "derivation": "Geography fact anchored to the Arar (Saone); single answer supported verbatim by 'in Rhodanum influit'. Indirect statement (Ararim influere) governed by scribit; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.12",
+      "source_text": "Is pagus appellabatur Tigurinus; nam omnis civitas Helvetia in quattuor pagos divisa est. Hic pagus unus, cum domo exisset, patrum nostrorum memoria L. Cassium consulem interfecerat et eius exercitum sub iugum miserat.",
+      "question": "Quo nomine appellabatur pagus Helvetius qui L. Cassium consulem interfecerat?",
+      "answer": "Tigurinus.",
+      "question_en": "What was the name of the Helvetian canton that had killed the consul Lucius Cassius?",
+      "answer_en": "The Tigurine canton.",
+      "derivation": "Name fact anchored to the Helvetii and to Cassius; single named answer supported verbatim ('Is pagus appellabatur Tigurinus' + 'L. Cassium consulem interfecerat'). Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.13",
+      "source_text": "Legatos ad eum mittunt; cuius legationis Divico princeps fuit, qui bello Cassiano dux Helvetiorum fuerat.",
+      "question": "Quis dux Helvetiorum bello Cassiano fuerat et postea legationi ad Caesarem missae praefuit?",
+      "answer": "Divico.",
+      "question_en": "Who had been the leader of the Helvetii in the Cassian war and later headed the embassy to Caesar?",
+      "answer_en": "Divico.",
+      "derivation": "Name fact doubly anchored (Helvetii, the Cassian war, Caesar); single named answer supported verbatim by 'Divico princeps fuit, qui bello Cassiano dux Helvetiorum fuerat'. Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.16",
+      "source_text": "Qui summo magistratui praeerat, quem vergobretum appellant Haedui, qui creatur annuus et vitae necisque in suos habet potestatem.",
+      "question": "Quo nomine Haedui summum magistratum suum appellant?",
+      "answer": "Vergobretum.",
+      "question_en": "By what name do the Haedui call their supreme magistrate?",
+      "answer_en": "Vergobretus.",
+      "derivation": "Institution/custom fact anchored to the Haedui; single named answer supported verbatim by 'quem vergobretum appellant Haedui'. A distinctive named office (annual, with power of life and death); closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.23",
+      "source_text": "A Bibracte, oppido Haeduorum longe maximo et copiosissimo, non amplius milibus passuum XVIII aberat.",
+      "question": "Quod oppidum Haeduorum longe maximum et copiosissimum fuisse Caesar scribit?",
+      "answer": "Bibracte.",
+      "question_en": "Which town does Caesar write was by far the largest and richest of the Haedui?",
+      "answer_en": "Bibracte.",
+      "derivation": "Place fact anchored to the Haedui; single named answer supported verbatim by 'Bibracte, oppido Haeduorum longe maximo et copiosissimo'. Indirect statement (fuisse) under scribit; the iconic Aeduan oppidum, closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.29",
+      "source_text": "In castris Helvetiorum tabulae repertae sunt litteris Graecis confectae et ad Caesarem relatae, quibus in tabulis nominatim ratio confecta erat, qui numerus domo exisset eorum qui arma ferre possent, et item separatim, quot pueri, senes mulieresque.",
+      "question": "Quibus litteris tabulae in castris Helvetiorum repertae confectae erant?",
+      "answer": "Litteris Graecis.",
+      "question_en": "In what script were the tablets found in the camp of the Helvetii written?",
+      "answer_en": "In Greek letters.",
+      "derivation": "A striking, much-cited fact anchored to the Helvetian camp; single answer supported verbatim by 'tabulae ... litteris Graecis confectae'. Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.31",
+      "source_text": "Ariovistus, rex Germanorum, in eorum finibus consedisset tertiamque partem agri Sequani, qui esset optimus totius Galliae, occupavisset.",
+      "question": "Quis erat rex Germanorum qui in finibus Sequanorum consedit?",
+      "answer": "Ariovistus.",
+      "question_en": "Who was the king of the Germani who settled in the territory of the Sequani?",
+      "answer_en": "Ariovistus.",
+      "derivation": "Name fact anchored to the Germani and the Sequani; single named answer supported verbatim by 'Ariovistus, rex Germanorum, in eorum finibus consedisset'. Ariovistus is the central antagonist of Book 1; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.38",
+      "source_text": "Nuntiatum est ei Ariovistum cum suis omnibus copiis ad occupandum Vesontionem, quod est oppidum maximum Sequanorum, contendere.",
+      "question": "Quod oppidum, Sequanorum maximum, Ariovistus occupare contendit?",
+      "answer": "Vesontio.",
+      "question_en": "Which town, the largest of the Sequani, did Ariovistus hasten to seize?",
+      "answer_en": "Vesontio (Besancon).",
+      "derivation": "Place fact anchored to the Sequani and Ariovistus; single named answer supported verbatim by 'Vesontionem, quod est oppidum maximum Sequanorum'. Closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 1.50",
+      "source_text": "Apud Germanos ea consuetudo esset ut matres familiae eorum sortibus et vaticinationibus declararent utrum proelium committi ex usu esset necne; eas ita dicere: non esse fas Germanos superare, si ante novam lunam proelio contendissent.",
+      "question": "Ante quid Germanos vincere fas non esse matres familiae declarabant?",
+      "answer": "Ante novam lunam.",
+      "question_en": "Before what did the German matrons declare it was not right (fas) for the Germani to win?",
+      "answer_en": "Before the new moon.",
+      "derivation": "Ethnographic custom fact anchored to the Germani; short answer supported verbatim by 'non esse fas Germanos superare, si ante novam lunam proelio contendissent'. Distinctive and closed-book."
+    }
+  ]
+}

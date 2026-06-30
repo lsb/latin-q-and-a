@@ -1,0 +1,187 @@
+{
+  "source": "text/suetonius/suet.caesar.txt",
+  "author": "Suetonius",
+  "work": "Divus Iulius",
+  "pairs": [
+    {
+      "locus": "Suetonius, Divus Iulius 1",
+      "source_text": "Corneliam Cinnae quater consulis filiam duxit uxorem, ex qua illi mox Iulia nata est; neque ut repudiaret compelli a dictatore Sulla ullo modo potuit.",
+      "question": "Cuius filiam Corneliam Caesar primam uxorem duxit?",
+      "answer": "Cinnae quater consulis.",
+      "question_en": "Whose daughter Cornelia did Caesar take as his first wife?",
+      "answer_en": "Of Cinna, four times consul.",
+      "derivation": "First-wife fact: Cornelia, daughter of Cinna (consul four times); Caesar refused even Sulla's demand to divorce her. Anchored to Caesar + Cornelia + Cinna; single named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 4",
+      "source_text": "circa Pharmacussam insulam a praedonibus captus est mansitque apud eos non sine summa indignatione prope quadraginta dies cum uno medico et cubicularis duobus. nam comites seruosque ceteros initio statim ad expediendas pecunias, quibus redimeretur, dimiserat. numeratis deinde quinquaginta talentis expositus in litore non distulit quin e uestigio classe deducta persequeretur abeuntis ac redactos in potestatem supplicio, quod saepe illis minatus inter iocum fuerat, adficeret.",
+      "question": "Quot talentis Caesar a praedonibus, qui eum circa Pharmacussam insulam ceperant, se redemit?",
+      "answer": "Quinquaginta.",
+      "question_en": "For how many talents did Caesar ransom himself from the pirates who had captured him near the island of Pharmacussa?",
+      "answer_en": "Fifty.",
+      "derivation": "Ransom number, anchored to Caesar + pirates + Pharmacussa. Single verifiable number (quinquaginta talentis) in source; the famous pirate-capture episode. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 6",
+      "source_text": "et in amitae quidem laudatione de eius ac patris sui utraque origine sic refert: 'Amitae meae Iuliae maternum genus ab regibus ortum, paternum cum diis inmortalibus coniunctum est. nam ab Anco Marcio sunt Marcii Reges, quo nomine fuit mater; a Venere Iulii, cuius gentis familia est nostra.'",
+      "question": "A qua dea gentem Iuliam ortam esse Caesar in laudatione amitae suae Iuliae adfirmavit?",
+      "answer": "A Venere.",
+      "question_en": "From which goddess did Caesar declare the gens Iulia descended, in the eulogy of his aunt Iulia?",
+      "answer_en": "From Venus.",
+      "derivation": "From Caesar's funeral oration for his aunt Iulia (covers the aunt-Iulia ask). Indirect statement (gentem...ortam esse) under adfirmavit. Anchored to gens Iulia + Venus; single named answer, supported verbatim. Iconic (Venus Genetrix)."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 13",
+      "source_text": "Deposita prouinciae spe pontificatum maximum petit non sine profusissima largitione; in qua reputans magnitudinem aeris alieni, cum mane ad comitia descenderet, praedixisse matri osculanti fertur domum se nisi pontificem non reuersurum. atque ita potentissimos duos competitores multumque et aetate et dignitate antecedentes superauit, ut plura ipse in eorum tribubus suffragia quam uterque in omnibus tulerit.",
+      "question": "Quod sacerdotium amplissimum Caesar, duobus potentioribus competitoribus superatis, adeptus est?",
+      "answer": "Pontificatum maximum.",
+      "question_en": "Which supreme priesthood did Caesar obtain, defeating two more powerful competitors?",
+      "answer_en": "The pontificate (pontifex maximus).",
+      "derivation": "Office fact, anchored to Caesar; he won the pontificatus maximus over two older, more distinguished rivals. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 19",
+      "source_text": "Igitur cum Bibulo consul creatur.",
+      "question": "Quo collega Caesar primum consulatum gessit?",
+      "answer": "Cum Marco Bibulo.",
+      "question_en": "With which colleague did Caesar hold his first consulship?",
+      "answer_en": "With Marcus Bibulus.",
+      "derivation": "Colleague fact: Caesar's first consulship was shared with Bibulus (praenomen Marcus given earlier in the same chapter, 'Marcoque Bibulo'). Anchored to Caesar + consulship; iconic ('Iulius and Caesar' joke that follows). Single named answer."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 21",
+      "source_text": "Sub idem tempus Calpurniam L. Pisonis filiam successuri sibi in consulatu duxit uxorem suamque, Iuliam, Gnaeo Pompeio conlocauit repudiato priore sponso Seruilio Caepione, cuius uel praecipua opera paulo ante Bibulum inpugnauerat.",
+      "question": "Cuius filiam Calpurniam Caesar uxorem duxit?",
+      "answer": "Luci Pisonis.",
+      "question_en": "Whose daughter Calpurnia did Caesar take as wife?",
+      "answer_en": "Lucius Piso's.",
+      "derivation": "Marriage fact: Calpurnia, daughter of L. Piso (consul-designate to succeed Caesar). Anchored to Caesar + Calpurnia + Piso; single named answer supported verbatim."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 21",
+      "source_text": "Sub idem tempus Calpurniam L. Pisonis filiam successuri sibi in consulatu duxit uxorem suamque, Iuliam, Gnaeo Pompeio conlocauit repudiato priore sponso Seruilio Caepione, cuius uel praecipua opera paulo ante Bibulum inpugnauerat.",
+      "question": "Cui Caesar filiam suam Iuliam in matrimonium collocavit?",
+      "answer": "Gnaeo Pompeio.",
+      "question_en": "To whom did Caesar give his daughter Iulia in marriage?",
+      "answer_en": "To Gnaeus Pompeius (Pompey).",
+      "derivation": "Relation fact: Caesar married his daughter Iulia to Pompey (sealing the alliance). Anchored to Caesar + Iulia + Pompey; single named answer supported verbatim. Iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 25",
+      "source_text": "Germanos, qui trans Rhenum incolunt, primus Romanorum ponte fabricato adgressus maximis adfecit cladibus; adgressus est et Britannos ignotos antea superatisque pecunias et obsides imperauit.",
+      "question": "Quis primus Romanorum, ut Suetonius tradit, Germanos trans Rhenum incolentes ponte fabricato adgressus est?",
+      "answer": "C. Iulius Caesar.",
+      "question_en": "Who was the first Roman, according to Suetonius, to attack the Germans living across the Rhine by building a bridge?",
+      "answer_en": "Gaius Julius Caesar.",
+      "derivation": "'primus Romanorum' fact, anchored to Germans + Rhine + bridge; the famous Rhine-bridge campaigns. Single answer (Caesar) decontextualized by the named entities. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 31",
+      "source_text": "consecutusque cohortis ad Rubiconem flumen, qui prouinciae eius finis erat, paulum constitit, ac reputans quantum moliretur, conuersus ad proximos: 'etiam nunc,' inquit, 'regredi possumus; quod si ponticulum transierimus, omnia armis agenda erunt.'",
+      "question": "Quod flumen prouinciae Caesaris finis erat, quo transito ille bellum ciuile incohavit?",
+      "answer": "Rubico.",
+      "question_en": "Which river was the boundary of Caesar's province, by crossing which he began the civil war?",
+      "answer_en": "The Rubicon.",
+      "derivation": "Geography/event fact: the Rubicon was the boundary of Caesar's province and the river of the civil war's start. Anchored to Caesar + province boundary; single named answer supported verbatim. Iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 32-33",
+      "source_text": "tunc Caesar: 'eatur,' inquit, 'quo deorum ostenta et inimicorum iniquitas uocat. Iacta alea est,' inquit. atque ita traiecto exercitu, adhibitis tribunis plebis, qui pulsi superuenerant, pro contione fidem militum flens ac ueste a pectore discissa inuocauit.",
+      "question": "Quod dictum Caesari tribuitur, cum exercitum trans Rubiconem traiceret?",
+      "answer": "'Iacta alea est.'",
+      "question_en": "What saying is attributed to Caesar as he led his army across the Rubicon?",
+      "answer_en": "'The die is cast' (iacta alea est).",
+      "derivation": "Famous saying, anchored to Caesar + Rubicon crossing. Fact-seeking 'what did he say'; translatable ('the die is cast'); verbatim in source. Closed-book and iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 35",
+      "source_text": "Hinc urbe repetita in Macedoniam transgressus Pompeium, per quattuor paene menses maximis obsessum operibus, ad extremum Pharsalico proelio fudit et fugientem Alexandriam persecutus, ut occisum deprehendit.",
+      "question": "Quo proelio Caesar Pompeium ad extremum fudit?",
+      "answer": "Proelio Pharsalico.",
+      "question_en": "In which battle did Caesar finally rout Pompey?",
+      "answer_en": "At the battle of Pharsalus.",
+      "derivation": "Battle fact, anchored to Caesar + Pompey. Single named answer (Pharsalus) supported verbatim. Iconic, closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 37",
+      "source_text": "Pontico triumpho inter pompae fercula trium uerborum praetulit titulum veni : vidi : vici non acta belli significantem sicut ceteris, sed celeriter confecti notam.",
+      "question": "Quem titulum trium uerborum Caesar in triumpho Pontico inter pompae fercula praetulit?",
+      "answer": "'Veni, vidi, vici.'",
+      "question_en": "What three-word placard did Caesar display among the floats at his Pontic triumph?",
+      "answer_en": "'I came, I saw, I conquered' (veni, vidi, vici).",
+      "derivation": "The Pharnaces-victory dispatch, anchored to Caesar + Pontic triumph. Verbatim three-word answer; translatable; iconic. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 40",
+      "source_text": "Conuersus hinc ad ordinandum rei publicae statum fastos correxit iam pridem uitio pontificum per intercalandi licentiam adeo turbatos, ut neque messium feriae aestate neque uindemiarum autumno conpeterent; annumque ad cursum solis accommodauit, ut trecentorum sexaginta quinque dierum esset et intercalario mense sublato unus dies quarto quoque anno intercalaretur.",
+      "question": "Quot dierum annum Caesar, fastos corrigens, ad cursum solis accommodavit?",
+      "answer": "Trecentorum sexaginta quinque (365).",
+      "question_en": "To how many days did Caesar set the year when, reforming the calendar, he adjusted it to the course of the sun?",
+      "answer_en": "Three hundred sixty-five (365).",
+      "derivation": "Calendar-reform fact (the Julian calendar), anchored to Caesar. Single number answer (365 days; intercalary day every fourth year) supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 76",
+      "source_text": "non enim honores modo nimios recepit: continuum consulatum, perpetuam dictaturam praefecturamque morum, insuper praenomen Imperatoris, cognomen Patris patriae, statuam inter reges, suggestum in orchestra",
+      "question": "Quod cognomen, ut Suetonius refert, inter nimios honores Caesari decretum est?",
+      "answer": "Pater patriae.",
+      "question_en": "Which cognomen, according to Suetonius, was decreed to Caesar among his excessive honours?",
+      "answer_en": "Pater patriae ('Father of the Fatherland').",
+      "derivation": "Named-honour fact, anchored to Caesar; the same list also gives the perpetual dictatorship, continuous consulship, and praenomen Imperatoris. Single named answer (Pater patriae) supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 80",
+      "source_text": "conspiratum est in eum a sexaginta amplius, Gaio Cassio Marcoque et Decimo Bruto principibus conspirationis.",
+      "question": "Qui principes coniurationis in Caesarem fuerunt?",
+      "answer": "Gaius Cassius et Marcus et Decimus Brutus.",
+      "question_en": "Who were the leaders of the conspiracy against Caesar?",
+      "answer_en": "Gaius Cassius, and Marcus and Decimus Brutus.",
+      "derivation": "Assassination fact: 60+ conspirators, led by Cassius and the two Bruti. Anchored to Caesar + named ringleaders; verifiable named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 80",
+      "source_text": "postquam senatus Idibus Martiis in Pompei curiam edictus est, facile tempus et locum praetulerunt.",
+      "question": "In quam curiam senatus Idibus Martiis edictus est, ubi Caesar interfectus est?",
+      "answer": "In Pompei curiam.",
+      "question_en": "Into which senate-house was the senate summoned on the Ides of March, where Caesar was killed?",
+      "answer_en": "Into the Curia of Pompey (Pompey's senate-house).",
+      "derivation": "Place-and-day fact: the senate met in Pompey's curia on the Ides of March, the murder scene. Anchored to Caesar + Ides of March; single named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 82",
+      "source_text": "atque ita tribus et uiginti plagis confossus est uno modo ad primum ictum gemitu sine uoce edito, etsi tradiderunt quidam Marco Bruto irruenti dixisse: kai su teknon",
+      "question": "Quot plagis Caesar in curia confossus est?",
+      "answer": "Tribus et viginti.",
+      "question_en": "With how many blows was Caesar stabbed in the senate-house?",
+      "answer_en": "Twenty-three.",
+      "derivation": "Assassination number, anchored to Caesar. Single number answer (23 wounds) supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 82",
+      "source_text": "atque ita tribus et uiginti plagis confossus est uno modo ad primum ictum gemitu sine uoce edito, etsi tradiderunt quidam Marco Bruto irruenti dixisse: kai su teknon",
+      "question": "Quid Caesar Marco Bruto irruenti dixisse a quibusdam traditur?",
+      "answer": "'Kai su teknon.'",
+      "question_en": "What do some report Caesar said to Marcus Brutus as he rushed at him?",
+      "answer_en": "'Kai su, teknon' ('You too, child', in Greek).",
+      "derivation": "Reported last words to Brutus, in Greek, attributed ('tradiderunt quidam'), anchored to Caesar + Marcus Brutus. Verbatim quote; fact-seeking 'what did he say'. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 83",
+      "source_text": "sed nouissimo testamento tres instituit heredes sororum nepotes, Gaium Octauium ex dodrante, et Lucium Pinarium et Quintum Pedium ex quadrante reliquo; in ima cera Gaium Octauium etiam in familiam nomenque adoptauit",
+      "question": "Quem Caesar novissimo testamento et in familiam nomenque adoptavit et ex dodrante heredem instituit?",
+      "answer": "Gaium Octavium.",
+      "question_en": "Whom did Caesar in his last will both adopt into his family and name and make heir to three-quarters of his estate?",
+      "answer_en": "Gaius Octavius (the future Augustus).",
+      "derivation": "Succession fact: Caesar's will named Gaius Octavius principal heir (three-quarters) and adopted him. Anchored to Caesar + will + Octavius; single named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 88",
+      "source_text": "Periit sexto et quinquagensimo aetatis anno atque in deorum numerum relatus est, non ore modo decernentium, sed et persuasione uolgi.",
+      "question": "Quoto aetatis anno Caesar periit?",
+      "answer": "Sexto et quinquagensimo.",
+      "question_en": "In which year of his age did Caesar die?",
+      "answer_en": "In his fifty-sixth.",
+      "derivation": "Age-at-death fact, anchored to Caesar. Single number answer (56th year) supported verbatim. Closed-book, iconic."
+    }
+  ]
+}

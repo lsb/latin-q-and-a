@@ -1,0 +1,142 @@
+{
+  "source": "text/caesar/gall6.txt",
+  "author": "Caesar",
+  "work": "De Bello Gallico, liber VI",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Gallico 6.13",
+      "source_text": "Sed de his duobus generibus alterum est druidum, alterum equitum.",
+      "question": "Quae duo genera hominum honoratorum apud Gallos esse Caesar tradit?",
+      "answer": "Druides et equites.",
+      "question_en": "Which two classes of honored men does Caesar report exist among the Gauls?",
+      "answer_en": "The druids and the knights (equites).",
+      "derivation": "The famous fact that among Gauls of rank there are two privileged orders. Anchored to Caesar + the Gauls; single, verifiable two-name answer supported verbatim (alterum druidum, alterum equitum). Indirect statement (genera... esse) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.13",
+      "source_text": "Disciplina in Britannia reperta atque inde in Galliam translata esse existimatur, et nunc, qui diligentius eam rem cognoscere volunt, plerumque illo discendi causa proficiscuntur.",
+      "question": "Ubi disciplinam druidum repertam esse Caesar tradit?",
+      "answer": "In Britannia.",
+      "question_en": "Where does Caesar report that the discipline of the druids was discovered?",
+      "answer_en": "In Britain.",
+      "derivation": "Caesar's claim about the origin of druidic disciplina. Anchored to the druids; single place-name answer supported verbatim (in Britannia reperta). Indirect statement (disciplinam... repertam esse) under tradit; closed-book, oft-cited."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.14",
+      "source_text": "Tantis excitati praemiis et sua sponte multi in disciplinam conveniunt et a parentibus propinquisque mittuntur. Magnum ibi numerum versuum ediscere dicuntur. Itaque annos nonnulli vicenos in disciplina permanent.",
+      "question": "Quot annos nonnulli in druidum disciplina permaneant Caesar tradit?",
+      "answer": "Vicenos annos.",
+      "question_en": "How many years does Caesar report that some remain in the druids' training?",
+      "answer_en": "Twenty years.",
+      "derivation": "Length-of-training number fact. Anchored to the druidic disciplina; single number answer supported verbatim (annos... vicenos). Indirect question (permaneant, subj.) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.14",
+      "source_text": "Neque fas esse existimant ea litteris mandare, cum in reliquis fere rebus, publicis privatisque rationibus Graecis litteris utantur.",
+      "question": "Quibus litteris Galli in publicis privatisque rationibus utantur Caesar scribit?",
+      "answer": "Graecis litteris.",
+      "question_en": "Which script does Caesar say the Gauls used for their public and private accounts?",
+      "answer_en": "Greek letters (the Greek alphabet).",
+      "derivation": "Notable fact that, while not committing druidic lore to writing, the Gauls used Greek script for records. Anchored to the Gauls + accounts; verifiable answer supported verbatim (Graecis litteris utantur). Indirect question (utantur, subj.) under scribit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.17",
+      "source_text": "Deum maxime Mercurium colunt. Huius sunt plurima simulacra: hunc omnium inventorem artium ferunt, hunc viarum atque itinerum ducem, hunc ad quaestus pecuniae mercaturasque habere vim maximam arbitrantur.",
+      "question": "Quem deum Gallos maxime colere Caesar tradit?",
+      "answer": "Mercurium.",
+      "question_en": "Which god does Caesar report the Gauls worship most?",
+      "answer_en": "Mercury.",
+      "derivation": "The most-cited fact of the Gallic pantheon section. Anchored to Caesar + the Gauls; single name answer supported verbatim (Deum maxime Mercurium colunt). Indirect statement (Gallos colere) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.18",
+      "source_text": "Galli se omnes ab Dite patre prognatos praedicant idque ab druidibus proditum dicunt.",
+      "question": "A quo deo Galli se omnes prognatos esse praedicant, ut Caesar scribit?",
+      "answer": "Ab Dite patre.",
+      "question_en": "From which god do the Gauls proclaim they are all descended, as Caesar writes?",
+      "answer_en": "From Father Dis (Dis Pater).",
+      "derivation": "Iconic claim of Gallic descent. Anchored to the Gauls; single divine-name answer supported verbatim (ab Dite patre prognatos). Direct question with the source's acc.+inf. (se prognatos esse) plus parenthetical attribution."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.18",
+      "source_text": "Ob eam causam spatia omnis temporis non numero dierum sed noctium finiunt; dies natales et mensum et annorum initia sic observant ut noctem dies subsequatur.",
+      "question": "Utrum numero dierum an noctium Galli omnia temporis spatia finire soleant Caesar tradit?",
+      "answer": "Noctium.",
+      "question_en": "Does Caesar report that the Gauls reckon all spans of time by the count of days or of nights?",
+      "answer_en": "Of nights.",
+      "derivation": "The well-known Celtic night-reckoning custom. Anchored to the Gauls; disjunctive question with a single verifiable answer supported verbatim (non numero dierum sed noctium). Indirect question (soleant, subj.) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.21",
+      "source_text": "Germani multum ab hac consuetudine differunt. Nam neque druides habent, qui rebus divinis praesint, neque sacrificiis student. Deorum numero eos solos ducunt, quos cernunt et quorum aperte opibus iuvantur, Solem et Vulcanum et Lunam, reliquos ne fama quidem acceperunt.",
+      "question": "Quos solos deorum numero Germanos ducere Caesar tradit?",
+      "answer": "Solem, Vulcanum et Lunam.",
+      "question_en": "Which gods alone does Caesar report the Germani count among the gods?",
+      "answer_en": "The Sun, Vulcan, and the Moon.",
+      "derivation": "Specific German religious custom (contrast with the Gauls). Anchored to the Germani; complete three-name enumeration supported verbatim (Solem et Vulcanum et Lunam). Indirect statement (Germanos ducere) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.22",
+      "source_text": "Agriculturae non student, maiorque pars eorum victus in lacte, caseo, carne consistit.",
+      "question": "In quibus rebus maiorem partem victus Germanorum consistere Caesar scribit?",
+      "answer": "In lacte, caseo, carne.",
+      "question_en": "In what does Caesar say the greater part of the Germani's food consists?",
+      "answer_en": "In milk, cheese, and meat.",
+      "derivation": "Specific German dietary custom. Anchored to the Germani; complete three-item enumeration supported verbatim (in lacte, caseo, carne consistit). Indirect statement (maiorem partem... consistere) under scribit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.24",
+      "source_text": "Itaque ea quae fertilissima Germaniae sunt loca circum Hercyniam silvam, quam Eratostheni et quibusdam Graecis fama notam esse video, quam illi Orcyniam appellant, Volcae Tectosages occupaverunt atque ibi consederunt.",
+      "question": "Quam gentem Gallorum loca circum Hercyniam silvam occupavisse Caesar tradit?",
+      "answer": "Volcae Tectosages.",
+      "question_en": "Which Gallic people, according to Caesar, occupied the lands around the Hercynian forest?",
+      "answer_en": "The Volcae Tectosages.",
+      "derivation": "Named-people fact about settlement around the Hercynian forest. Anchored to the Hercynian forest; single people-name answer supported verbatim (Volcae Tectosages occupaverunt). Indirect statement (gentem... occupavisse) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.25",
+      "source_text": "Huius Hercyniae silvae, quae supra demonstrata est, latitudo novem dierum iter expedito patet.",
+      "question": "Quot dierum iter in latitudinem Hercyniam silvam patere Caesar tradit?",
+      "answer": "Novem dierum iter.",
+      "question_en": "How many days' journey wide does Caesar report the Hercynian forest to be?",
+      "answer_en": "Nine days' journey.",
+      "derivation": "Measure fact for the Hercynian forest's breadth. Anchored to the Hercynian forest; single number answer supported verbatim (latitudo novem dierum iter ... patet). Indirect statement (silvam patere) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.27",
+      "source_text": "Sunt item, quae appellantur alces. Harum est consimilis capris figura et varietas pellium, sed magnitudine paulo antecedunt mutilaeque sunt cornibus et crura sine nodis articulisque habent neque quietis causa procumbunt.",
+      "question": "Quas feras Hercyniae silvae crura sine nodis articulisque habere Caesar tradit?",
+      "answer": "Alces.",
+      "question_en": "Which beasts of the Hercynian forest does Caesar report have legs without knots or joints?",
+      "answer_en": "The alces (elk).",
+      "derivation": "Named animal of the Hercynian forest with its signature feature (jointless legs). Anchored to the forest; single animal-name answer supported verbatim (alces ... crura sine nodis articulisque habent). Indirect statement (feras habere) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.28",
+      "source_text": "Tertium est genus eorum, qui uri appellantur. Hi sunt magnitudine paulo infra elephantos, specie et colore et figura tauri.",
+      "question": "Quo animali uros magnitudine paulo inferiores esse Caesar scribit?",
+      "answer": "Elephantis.",
+      "question_en": "To which animal does Caesar report the uri (aurochs) are slightly inferior in size?",
+      "answer_en": "Elephants (the uri are a little smaller than elephants).",
+      "derivation": "Named animal of the Hercynian forest with a comparative-size fact. Anchored to the uri; single answer supported verbatim (magnitudine paulo infra elephantos). Indirect statement (uros inferiores esse) under scribit; abl. of comparison."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.29",
+      "source_text": "per Arduennam silvam, quae est totius Galliae maxima atque ab ripis Rheni finibusque Treverorum ad Nervios pertinet milibusque amplius quingentis in longitudinem patet",
+      "question": "Quam silvam totius Galliae maximam esse Caesar tradit?",
+      "answer": "Arduennam.",
+      "question_en": "Which forest does Caesar report is the largest in all Gaul?",
+      "answer_en": "The Ardennes (the Arduenna forest).",
+      "derivation": "Superlative geography fact. Anchored to Gaul; single place-name answer supported verbatim (quae est totius Galliae maxima). Indirect statement (silvam... esse) under tradit."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 6.31",
+      "source_text": "Catuvolcus, rex dimidiae partis Eburonum, qui una cum Ambiorige consilium inierat, aetate iam confectus, cum laborem aut belli aut fugae ferre non posset, omnibus precibus detestatus Ambiorigem, qui eius consilii auctor fuisset, taxo, cuius magna in Gallia Germaniaque copia est, se exanimavit.",
+      "question": "Qua re Catuvolcus, dimidiae partis Eburonum rex, se exanimaverit Caesar tradit?",
+      "answer": "Taxo.",
+      "question_en": "With what did Catuvolcus, king of half the Eburones, kill himself, according to Caesar?",
+      "answer_en": "With yew (the yew tree).",
+      "derivation": "Named-person fact: the manner of Catuvolcus' suicide. Anchored to Catuvolcus + the Eburones; single answer supported verbatim (taxo ... se exanimavit). Indirect question (exanimaverit, subj.) under tradit."
+    }
+  ]
+}
