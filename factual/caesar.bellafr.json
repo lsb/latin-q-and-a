@@ -1,0 +1,106 @@
+{
+  "source": "text/caesar/bellafr.txt",
+  "author": "Auctor incertus (Corpus Caesarianum)",
+  "work": "De Bello Africo",
+  "pairs": [
+    {
+      "locus": "De Bello Africo 4",
+      "source_text": "Tum Considius, 'Unus est' inquit 'Scipio imperator hoc tempore populi Romani'.",
+      "question": "Quem Considius unum eo tempore imperatorem populi Romani esse adfirmavit?",
+      "answer": "Scipionem.",
+      "question_en": "Whom did Considius declare to be the one commander (imperator) of the Roman people at that time?",
+      "answer_en": "Scipio.",
+      "derivation": "Name fact anchored to Considius (the Pompeian commander of Hadrumetum) and Scipio. Refusing Caesar's title, Considius names Q. Caecilius Metellus Scipio as the sole imperator, supported verbatim by 'Unus est Scipio imperator hoc tempore populi Romani'. That Scipio was the supreme commander of the Republican forces in Africa is closed-book history."
+    },
+    {
+      "locus": "De Bello Africo 13",
+      "source_text": "Hostes interim quorum dux erat Labienus et duo Pacidei, aciem derigunt mirabili longitudine non peditum, sed equitum confertam.",
+      "question": "Quis cum duobus Pacideis adversariorum aciem equitum confertam contra Caesarem in Africa direxit?",
+      "answer": "Labienus.",
+      "question_en": "Who, together with the two Pacidei, drew up the enemy's dense battle line of cavalry against Caesar in Africa?",
+      "answer_en": "Labienus.",
+      "derivation": "Name fact anchored to T. Labienus and the Pacidei; supported verbatim by 'quorum dux erat Labienus et duo Pacidei, aciem derigunt ... equitum confertam'. Labienus, Caesar's former Gallic legate, commanding the Republican cavalry in the African war is closed-book."
+    },
+    {
+      "locus": "De Bello Africo 1",
+      "source_text": "Cum praesertim ab incolis eius provinciae nuntiarentur adversariorum copiae: equitatus infinitus, legiones regiae IIII, levis armaturae magna vis, Scipionis legiones X, elephanti CXX classesque esse complures.",
+      "question": "Quot elephantos adversarii Caesaris in Africa habere nuntiabantur?",
+      "answer": "Centum viginti.",
+      "question_en": "How many elephants were Caesar's adversaries reported to have in Africa?",
+      "answer_en": "One hundred and twenty.",
+      "derivation": "Number fact anchored to the Republican and royal forces in Africa; supported verbatim by 'elephanti CXX'. The reported enemy array Caesar faced (ten Scipionian legions, 120 elephants) is framed by the text's own 'nuntiarentur'; the war-elephants of the African war are closed-book."
+    },
+    {
+      "locus": "De Bello Africo 86",
+      "source_text": "Caesar trinis castris potitus occisisque hostium X milibus fugatisque compluribus se recepit L militibus amissis, paucis sauciis in castra, ac statim ex itinere ante oppidum Thapsum constitit elephantosque LXIIII ornatos armatosque cum turribus ornamentisque capit.",
+      "question": "Ad quod oppidum maritimum Caesar Scipionis Iubaeque copias acie devicit?",
+      "answer": "Ad Thapsum.",
+      "question_en": "At which coastal town did Caesar defeat in battle the forces of Scipio and Juba?",
+      "answer_en": "At Thapsus.",
+      "derivation": "Place fact anchored to Caesar against Scipio and Juba. The rout (three camps taken, 10,000 slain) and Caesar's halt 'ante oppidum Thapsum' are supported verbatim; the battle of Thapsus (46 BC) that destroyed the Republican army is among the best-known facts of the civil wars."
+    },
+    {
+      "locus": "De Bello Africo 86",
+      "source_text": "Caesar trinis castris potitus occisisque hostium X milibus fugatisque compluribus se recepit L militibus amissis, paucis sauciis in castra, ac statim ex itinere ante oppidum Thapsum constitit elephantosque LXIIII ornatos armatosque cum turribus ornamentisque capit.",
+      "question": "Quot elephantos Caesar post pugnam ad Thapsum captos cepit?",
+      "answer": "Sexaginta quattuor.",
+      "question_en": "How many elephants did Caesar capture after the battle at Thapsus?",
+      "answer_en": "Sixty-four.",
+      "derivation": "Number fact anchored to Caesar and Thapsus; supported verbatim by 'elephantosque LXIIII ... capit'. The sixty-four war-elephants taken after Thapsus are closed-book."
+    },
+    {
+      "locus": "De Bello Africo 86",
+      "source_text": "Caesar trinis castris potitus occisisque hostium X milibus fugatisque compluribus se recepit L militibus amissis, paucis sauciis in castra, ac statim ex itinere ante oppidum Thapsum constitit elephantosque LXIIII ornatos armatosque cum turribus ornamentisque capit.",
+      "question": "Quot fere hostium milia ad Thapsum occisa sunt et quot milites Caesar in ea victoria amisit?",
+      "answer": "Decem milia hostium, quinquaginta sui.",
+      "question_en": "About how many thousands of the enemy were killed at Thapsus, and how many soldiers did Caesar lose in that victory?",
+      "answer_en": "Ten thousand of the enemy; fifty of his own.",
+      "derivation": "Number fact anchored to Caesar and Thapsus; supported verbatim by 'occisis hostium X milibus ... L militibus amissis'. The lopsided casualties of Thapsus (about 10,000 enemy dead against about 50 Caesarians) are closed-book."
+    },
+    {
+      "locus": "De Bello Africo 93",
+      "source_text": "C. Interim Vergilius postquam terra marique clausus se nihil proficere intellexit suosque interfectos aut fugatos, M. Catonem Uticae sibi ipsum manus attulisse, regem vagum ab suisque desertum ab omnibus aspernari, Saburram eiusque copias ab Sittio esse deletas, Uticae Caesarem sine mora receptum, de tanto exercitu reliquias esse nullas, ipse sibi suisque liberis a C. Caninio proconsule qui eum obsidebat, fide accepta seque et sua omnia et oppidum proconsuli tradit.",
+      "question": "In quo oppido Africae M. Cato sibi ipse mortem conscivit?",
+      "answer": "Uticae.",
+      "question_en": "In which town of Africa did Marcus Cato take his own life?",
+      "answer_en": "At Utica.",
+      "derivation": "Place and name fact anchored to M. Cato; supported verbatim by 'M. Catonem Uticae sibi ipsum manus attulisse'. Cato's suicide at Utica after the Thapsus disaster, the source of his cognomen Uticensis, is closed-book."
+    },
+    {
+      "locus": "De Bello Africo 94",
+      "source_text": "Rex interim ab omnibus civitatibus exclusus desperata salute, cum iam cenatus esset, cum Petreio, ut cum virtute interfecti esse viderentur, ferro inter se depugnant, atque firmior imbecilliorem Iubam Petreius facile ferro consumpsit.",
+      "question": "A quo rex Iuba, postquam ab omnibus civitatibus exclusus est, ferro depugnans interfectus est?",
+      "answer": "A M. Petreio.",
+      "question_en": "By whom was King Juba, after he had been shut out by all the towns, killed fighting with the sword?",
+      "answer_en": "By Marcus Petreius.",
+      "derivation": "Name fact anchored to King Juba and M. Petreius; supported verbatim by 'imbecilliorem Iubam Petreius facile ferro consumpsit'. The death-pact duel in which Petreius killed the fugitive Juba of Numidia is closed-book."
+    },
+    {
+      "locus": "De Bello Africo 96",
+      "source_text": "Scipio interim cum Damasippo et Torquato et Plaetorio Rustiano navibus longis diu multumque iactati cum Hispaniam peterent, ad Hipponem Regium deferuntur, ubi classis P. Sitti ad id tempus erat. A qua pauciora ab amplioribus circumventa navigia deprimuntur, ibique Scipio cum quos paulo ante nominavi interiit.",
+      "question": "Apud quod oppidum Scipio, classe P. Sittii circumventus, in mari periit?",
+      "answer": "Apud Hipponem Regium.",
+      "question_en": "Off which town did Scipio, surrounded by the fleet of Publius Sittius, perish at sea?",
+      "answer_en": "Off Hippo Regius.",
+      "derivation": "Place fact anchored to Scipio and Sittius's fleet; supported verbatim by 'ad Hipponem Regium deferuntur ... ibique Scipio ... interiit'. Scipio's death at sea off Hippo Regius while fleeing toward Spain after Thapsus is closed-book."
+    },
+    {
+      "locus": "De Bello Africo 37",
+      "source_text": "Itaque omnibus insciis neque suspicantibus vigilia tertia iubet omnes legiones extra castra educi atque se consequi ad oppidum Ruspinam versus, in quo ipse praesidium habuit et quod primum ad amicitiam eius accessit.",
+      "question": "Quod oppidum Africae primum ad Caesaris amicitiam accessit?",
+      "answer": "Ruspina.",
+      "question_en": "Which town of Africa was the first to come over to Caesar's friendship?",
+      "answer_en": "Ruspina.",
+      "derivation": "Place fact anchored to Caesar and Ruspina; supported verbatim by 'ad oppidum Ruspinam ... quod primum ad amicitiam eius accessit'. Ruspina, Caesar's base of operations and the first African town to side with him, is closed-book for this campaign."
+    },
+    {
+      "locus": "De Bello Africo 91",
+      "source_text": "Rex interim Iuba ut ex proelio fugerat, una cum Petreio interdiu in villis latitando tandem nocturnis itineribus confectis in regnum pervenit atque ad oppidum Zamam, ubi ipse domicilium coniuges liberosque habebat, quo ex cuncto regno omnem pecuniam carissimasque res comportaverat quodque inito bello operibus maximis muniverat, accedit.",
+      "question": "In quo oppido regni sui rex Iuba domicilium coniugesque et liberos habebat?",
+      "answer": "Zamae.",
+      "question_en": "In which town of his kingdom did King Juba have his residence, his wives, and his children?",
+      "answer_en": "At Zama.",
+      "derivation": "Place fact anchored to King Juba; supported verbatim by 'ad oppidum Zamam, ubi ipse domicilium coniuges liberosque habebat'. Zama as Juba's royal seat, which barred its returning king after Thapsus, is closed-book."
+    }
+  ]
+}
