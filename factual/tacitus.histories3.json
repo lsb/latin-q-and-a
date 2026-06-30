@@ -1,0 +1,142 @@
+{
+  "source": "text/tacitus/tac.hist3.txt",
+  "author": "Tacitus",
+  "work": "Historiae, liber III",
+  "pairs": [
+    {
+      "locus": "Tacitus, Historiae 3.2",
+      "source_text": "Ad ea Antonius Primus (is acerrimus belli concitator) festinationem ipsis utilem, Vitellio exitiosam disseruit.",
+      "question": "Quis dux partium Flavianarum, quem Tacitus acerrimum belli concitatorem appellat, festinationem belli adversus Vitellium suasit?",
+      "answer": "Antonius Primus.",
+      "question_en": "Which leader of the Flavian party, whom Tacitus calls the keenest instigator of the war, argued for haste in the war against Vitellius?",
+      "answer_en": "Antonius Primus.",
+      "derivation": "Anchored to the Flavian party + the man who pressed for speed; single named person, supported verbatim by 'Antonius Primus (is acerrimus belli concitator) festinationem ipsis utilem, Vitellio exitiosam disseruit'. Closed-book: Antonius Primus, the Flavian general who drove the Danubian legions into Italy in AD 69, is a stock figure of the year of the four emperors. The Tacitean tag 'acerrimus belli concitator' is reused as the anchor."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.8",
+      "source_text": "Quaesitum inde quae sedes bello legeretur. Verona potior visa, patentibus circum campis ad pugnam equestrem, qua praevalebant: simul coloniam copiis validam auferre Vitellio in rem famamque videbatur.",
+      "question": "Quam urbem duces Flaviani sedem bello legerunt, propter campos circum patentis equestri pugnae aptos, ut Tacitus tradit?",
+      "answer": "Veronam.",
+      "question_en": "Which city did the Flavian leaders choose as the seat of the war, on account of the open plains around it suited to cavalry battle, per Tacitus?",
+      "answer_en": "Verona.",
+      "derivation": "Anchored to the Flavian leaders + their choice of base; single named place, supported verbatim by 'Verona potior visa, patentibus circum campis ad pugnam equestrem'. Mirrors the source's 'sedes bello legeretur'. Closed-book: Verona as the Flavian rallying-point before the advance on Cremona is a fixed point of the AD 69 campaign."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.33",
+      "source_text": "per quadriduum Cremona suffecit. cum omnia sacra profanaque in igne considerent, solum Mefitis templum stetit ante moenia, loco seu numine defensum.",
+      "question": "Quod unum templum, ceteris omnibus Cremonae igne consumptis, ante moenia incolume stetit, ut Tacitus refert?",
+      "answer": "Templum Mefitis.",
+      "question_en": "Which single temple, when all the rest of Cremona was consumed by fire, stood unharmed before the walls, per Tacitus?",
+      "answer_en": "The temple of Mefitis.",
+      "derivation": "Anchored to Cremona's burning + the one surviving temple; single named cult site, supported verbatim by 'solum Mefitis templum stetit ante moenia'. Closed-book: that only the temple of Mefitis survived the sack of Cremona is a memorable Tacitean detail. 'quod templum... stetit' indicative direct question."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.33",
+      "source_text": "per quadriduum Cremona suffecit. cum omnia sacra profanaque in igne considerent, solum Mefitis templum stetit ante moenia, loco seu numine defensum.",
+      "question": "Per quot dies, capta urbe, direptio atque incendium Cremonae duravit, ut Tacitus tradit?",
+      "answer": "Per quadriduum.",
+      "question_en": "For how many days did the sack of Cremona last, after the city was taken, per Tacitus?",
+      "answer_en": "For four days.",
+      "derivation": "Anchored to Cremona + the duration of its sack; single number, supported verbatim by 'per quadriduum Cremona suffecit' (Cremona held out / sufficed for the plundering four days). 'per quot dies' mirrors the durative 'per quadriduum'. Closed-book: the four-day sack and burning of Cremona by the victorious Flavian army is a notorious atrocity of AD 69."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.34",
+      "source_text": "Hic exitus Cremonae anno ducentesimo octogesimo sexto a primordio sui.",
+      "question": "Quoto anno a primordio suo urbs Cremona, a Flavianis direpta atque incensa, deleta est, ut Tacitus tradit?",
+      "answer": "Anno ducentesimo octogesimo sexto.",
+      "question_en": "In which year from its founding was the city of Cremona, sacked and burned by the Flavians, destroyed, per Tacitus?",
+      "answer_en": "In its 286th year.",
+      "derivation": "Anchored to Cremona + its destruction; single ordinal number, supported verbatim by 'Hic exitus Cremonae anno ducentesimo octogesimo sexto a primordio sui'. Closed-book: Tacitus's dating of Cremona's fall to its 286th year is a stock fact marking the colony's age. 'quoto anno' mirrors the ordinal idiom."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.72",
+      "source_text": "sedem Iovis Optimi Maximi auspicato a maioribus pignus imperii conditam, quam non Porsenna dedita urbe neque Galli capta temerare potuissent, furore principum excindi.",
+      "question": "Cuius dei aedes in Capitolio, dum Vitelliani et Flaviani Romae armis contendunt, incensa est, ut Tacitus tradit?",
+      "answer": "Iovis Optimi Maximi.",
+      "question_en": "The temple of which god on the Capitol was burned while the Vitellians and Flavians fought in arms at Rome, per Tacitus?",
+      "answer_en": "Of Jupiter Optimus Maximus.",
+      "derivation": "Anchored to the Capitol + the deity whose temple burned; single named god, supported verbatim by 'sedem Iovis Optimi Maximi... furore principum excindi' (confirmed at 3.71 'sic Capitolium... conflagravit' and 3.72 'ea tunc aedes cremabatur'). Closed-book: the burning of the temple of Jupiter Optimus Maximus during the Flavian assault on Rome in AD 69 is one of the most famous calamities of the civil wars."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.72",
+      "source_text": "voverat Tarquinius Priscus rex bello Sabino, ieceratque fundamenta spe magis futurae magnitudinis quam quo modicae adhuc populi Romani res sufficerent.",
+      "question": "Quis rex Romanus aedem Iovis Optimi Maximi bello Sabino vovit, ut Tacitus tradit?",
+      "answer": "Tarquinius Priscus.",
+      "question_en": "Which Roman king vowed the temple of Jupiter Optimus Maximus during the Sabine war, per Tacitus?",
+      "answer_en": "Tarquinius Priscus.",
+      "derivation": "Anchored to the temple of Jupiter O.M. + the king who vowed it; single named person, supported verbatim by 'voverat Tarquinius Priscus rex bello Sabino, ieceratque fundamenta' (antecedent: 'sedem Iovis Optimi Maximi' earlier in 3.72). Closed-book: that Tarquinius Priscus vowed and laid the foundations of the Capitoline temple of Jupiter is a stock fact of Roman tradition. 'vovit' + accusative."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.64",
+      "source_text": "At primores civitatis Flavium Sabinum praefectum urbis secretis sermonibus incitabant, victoriae famaeque partem capesseret.",
+      "question": "Quod munus Romae Flavius Sabinus, Vespasiani frater, eo tempore gerebat, ut Tacitus tradit?",
+      "answer": "Praefecturam urbis.",
+      "question_en": "Which office at Rome did Flavius Sabinus, Vespasian's brother, hold at that time, per Tacitus?",
+      "answer_en": "The prefecture of the city.",
+      "derivation": "Anchored to Flavius Sabinus + brother of Vespasian + his office; single named magistracy, supported verbatim by 'Flavium Sabinum praefectum urbis'. Closed-book: Flavius Sabinus, the elder brother of Vespasian and prefect of the city, killed in the Flavian struggle for Rome in AD 69, is a fixed figure of the year. 'praefecturam urbis' answers 'quod munus gerebat'."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.75",
+      "source_text": "innocentiam iustitiamque eius non argueres; sermonis nimius erat: id unum septem annis quibus Moesiam, duodecim quibus praefecturam urbis obtinuit, calumniatus est rumor.",
+      "question": "Per quot annos Flavius Sabinus praefecturam urbis obtinuit, ut Tacitus refert?",
+      "answer": "Duodecim.",
+      "question_en": "For how many years did Flavius Sabinus hold the prefecture of the city, per Tacitus?",
+      "answer_en": "Twelve.",
+      "derivation": "Anchored to Flavius Sabinus + the duration of his city prefecture; single number, supported verbatim by 'duodecim quibus praefecturam urbis obtinuit' (subject Sabinus, 'Hic exitus viri', 3.75). Closed-book number fact about Vespasian's brother's long tenure as praefectus urbi."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.74",
+      "source_text": "Domitianus prima inruptione apud aedituum occultatus, sollertia liberti lineo amictu turbae sacricolarum immixtus ignoratusque, apud Cornelium Primum paternum clientem iuxta Velabrum delituit.",
+      "question": "Quis filius Vespasiani, capta a Vitellianis Capitolii arce, lineo amictu inter sacricolas occultatus evasit, ut Tacitus tradit?",
+      "answer": "Domitianus.",
+      "question_en": "Which son of Vespasian escaped, hidden in a linen garment among the temple-worshippers, when the citadel of the Capitol was taken by the Vitellians, per Tacitus?",
+      "answer_en": "Domitian.",
+      "derivation": "Anchored to the son of Vespasian + his escape from the Capitol; single named person, supported verbatim by 'Domitianus... lineo amictu turbae sacricolarum immixtus ignoratusque... delituit'. Closed-book: Domitian's escape in disguise from the burning Capitol, before becoming emperor, is a famous episode of AD 69."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.84",
+      "source_text": "fessusque misero errore et pudenda latebra semet occultans ab Iulio Placido tribuno cohortis protrahitur.",
+      "question": "Quis tribunus cohortis Vitellium in Palatio latentem protraxit, ut Tacitus tradit?",
+      "answer": "Iulius Placidus.",
+      "question_en": "Which cohort tribune dragged Vitellius out as he hid in the Palace, per Tacitus?",
+      "answer_en": "Julius Placidus.",
+      "derivation": "Anchored to Vitellius + the man who hauled him from hiding; single named person, supported verbatim by 'ab Iulio Placido tribuno cohortis protrahitur' (subject Vitellius, from 'in Palatium regreditur' earlier in 3.84). Closed-book: Vitellius's discovery in a wretched hiding place at the fall of Rome is a stock scene of his end."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.85",
+      "source_text": "postremo ad Gemonias, ubi corpus Flavii Sabini iacuerat, propulere. una vox non degeneris animi excepta, cum tribuno insultanti se tamen imperatorem eius fuisse respondit; ac deinde ingestis vulneribus concidit.",
+      "question": "Quo loco Vitellium milites propulerunt, ubi antea Flavii Sabini corpus iacuerat, ut Tacitus tradit?",
+      "answer": "Ad Gemonias.",
+      "question_en": "To what place did the soldiers drive Vitellius, where the body of Flavius Sabinus had earlier lain, per Tacitus?",
+      "answer_en": "To the Gemonian Stairs.",
+      "derivation": "Anchored to Vitellius + the place of his death + the prior fate of Sabinus's body; single named place, supported verbatim by 'postremo ad Gemonias, ubi corpus Flavii Sabini iacuerat, propulere'. Closed-book: Vitellius killed and his body cast on the Gemoniae, where Sabinus's body had lain, is the famous end of his reign."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.86",
+      "source_text": "septimum et quinquagensimum aetatis annum explebat, consulatum, sacerdotia, nomen locumque inter primores nulla sua industria, sed cuncta patris claritudine adeptus.",
+      "question": "Quotum aetatis annum Vitellius, cum periit, explebat, ut Tacitus tradit?",
+      "answer": "Septimum et quinquagensimum.",
+      "question_en": "Which year of his life was Vitellius completing when he died, per Tacitus?",
+      "answer_en": "His fifty-seventh.",
+      "derivation": "Anchored to Vitellius + his age at death; single ordinal number, supported verbatim by 'septimum et quinquagensimum aetatis annum explebat' (subject Vitellius, just killed in 3.85). 'quotum aetatis annum... explebat' mirrors the source idiom. Closed-book biographical number, parallel to the recorded ages of the other emperors of AD 69."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.62",
+      "source_text": "Isdem diebus Fabius Valens Vrbini in custodia interficitur. caput eius Vitellianis cohortibus ostentatum ne quam ultra spem foverent.",
+      "question": "In qua urbe Fabius Valens, dux Vitellianus, in custodia interfectus est, ut Tacitus tradit?",
+      "answer": "Urbini.",
+      "question_en": "In which town was Fabius Valens, the Vitellian general, killed while in custody, per Tacitus?",
+      "answer_en": "At Urbinum.",
+      "derivation": "Anchored to Fabius Valens + the Vitellian command + the place of his death; single named place, supported verbatim by 'Fabius Valens Vrbini in custodia interficitur' (Vrbini = locative of Urbinum). Closed-book: the capture and execution of the Vitellian general Fabius Valens at Urbinum, his severed head shown to his troops, is a key turning point before Rome's fall."
+    },
+    {
+      "locus": "Tacitus, Historiae 3.45",
+      "source_text": "Cartimandua Brigantibus imperitabat, pollens nobilitate; et auxerat potentiam, postquam capto per dolum rege Carataco instruxisse triumphum Claudii Caesaris videbatur.",
+      "question": "Cui genti Britanniae Cartimandua regina imperabat, ut Tacitus tradit?",
+      "answer": "Brigantibus.",
+      "question_en": "Which people of Britain did Queen Cartimandua rule, per Tacitus?",
+      "answer_en": "The Brigantes.",
+      "derivation": "Anchored to Queen Cartimandua + the people she ruled; single named people, supported verbatim by 'Cartimandua Brigantibus imperitabat, pollens nobilitate'. 'imperabat' + dative mirrors 'imperitabat'. Closed-book: Cartimandua, queen of the Brigantes who handed over Caratacus, is a stock figure of Roman Britain."
+    }
+  ]
+}
