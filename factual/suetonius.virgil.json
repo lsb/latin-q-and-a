@@ -1,0 +1,178 @@
+{
+  "source": "text/suetonius/suet.virgil.txt",
+  "author": "Suetonius (Vita Vergilii)",
+  "work": "Vita Vergilii (Donatus/Suetonius)",
+  "pairs": [
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 1",
+      "source_text": "Natus est Gn. Pompeio Magno M. Licinio Crasso primum conss. Iduum Octobrium die in pago qui Andes dicitur et abest a Mantua non procul.",
+      "question": "Quibus consulibus Vergilius natus est?",
+      "answer": "Gn. Pompeio Magno et M. Licinio Crasso.",
+      "question_en": "In whose consulship was Vergil born?",
+      "answer_en": "When Gnaeus Pompeius Magnus and Marcus Licinius Crassus were consuls.",
+      "derivation": "Birth-year fact (70 BC), anchored to Vergil and the named consular pair, supported verbatim by 'Gn. Pompeio Magno M. Licinio Crasso primum conss.' Closed-book: one of the canonical dates of Latin literary biography."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 1",
+      "source_text": "Natus est Gn. Pompeio Magno M. Licinio Crasso primum conss. Iduum Octobrium die in pago qui Andes dicitur et abest a Mantua non procul.",
+      "question": "In quo pago prope Mantuam Vergilius natus esse traditur?",
+      "answer": "In pago qui Andes dicitur.",
+      "question_en": "In what village near Mantua is Vergil said to have been born?",
+      "answer_en": "In the village called Andes.",
+      "derivation": "Birthplace fact, anchored to Vergil and Mantua, supported verbatim ('in pago qui Andes dicitur et abest a Mantua non procul'). Indirect statement (natus esse) under traditur. Andes near Mantua is the iconic, closed-book birthplace."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 6",
+      "source_text": "Initia aetatis Cremonae egit usque ad virilem togam, quam XV anno natali suo accepit iisdem illis consulibus iterum duobus, quibus erat natus, evenitque ut eo ipso die Lucretius poeta decederet.",
+      "question": "Quis poeta eo ipso die decessit quo Vergilius togam virilem accepit?",
+      "answer": "Lucretius.",
+      "question_en": "Which poet died on the very day that Vergil assumed the toga of manhood?",
+      "answer_en": "Lucretius.",
+      "derivation": "The famous coincidence: Lucretius died the day Vergil took the toga virilis. Supported verbatim ('eo ipso die Lucretius poeta decederet'). Entity-anchored (Vergil, Lucretius), single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 11",
+      "source_text": "Cetera sane vitae et ore et animo tam probum constat, ut Neapoli Parthenias vulgo appellatus sit.",
+      "question": "Quo cognomine Vergilius Neapoli vulgo appellatus est?",
+      "answer": "Parthenias.",
+      "question_en": "By what nickname was Vergil commonly called at Naples?",
+      "answer_en": "Parthenias (the maiden).",
+      "derivation": "His nickname for his pure life, supported verbatim ('Neapoli Parthenias vulgo appellatus sit'). Anchored to Vergil and Naples, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 9",
+      "source_text": "quorum maxime dilexit Cebetem et Alexandrum, quem secunda 'Bucolicorum' egloga Alexim appellat, donatum sibi ab Asinio Pollione.",
+      "question": "Quod erat verum nomen pueri quem Vergilius in secunda Bucolicorum egloga Alexim appellat?",
+      "answer": "Alexander.",
+      "question_en": "What was the real name of the boy whom Vergil calls Alexis in the second Eclogue?",
+      "answer_en": "Alexander.",
+      "derivation": "Standard Vergilian-biography fact: the Alexis of Eclogue 2 is Alexander. Supported verbatim ('Alexandrum, quem secunda Bucolicorum egloga Alexim appellat'). Anchored to Vergil and the Eclogue, single-name answer, closed-book literary detail."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 25",
+      "source_text": "'Bucolica' triennio, 'Georgica' VII, 'Aeneida' XI perfecit annis.",
+      "question": "Quot annis Vergilius Bucolica perfecit, ut Vita tradit?",
+      "answer": "Triennio (tribus annis).",
+      "question_en": "In how many years did Vergil complete the Eclogues, according to the Life?",
+      "answer_en": "In three years.",
+      "derivation": "Number fact, supported verbatim ('Bucolica triennio'). Anchored to Vergil and the Bucolica; one of the textbook figures (3/7/11 years) for his three works. Closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 25",
+      "source_text": "'Bucolica' triennio, 'Georgica' VII, 'Aeneida' XI perfecit annis.",
+      "question": "Quot annis Vergilius Georgica perfecit, ut Vita tradit?",
+      "answer": "Septem annis.",
+      "question_en": "In how many years did Vergil complete the Georgics, according to the Life?",
+      "answer_en": "In seven years.",
+      "derivation": "Number fact, supported verbatim ('Georgica VII ... perfecit annis'). Anchored to Vergil and the Georgica, single number answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 25",
+      "source_text": "'Bucolica' triennio, 'Georgica' VII, 'Aeneida' XI perfecit annis.",
+      "question": "Quot annis Vergilius Aeneida perfecit, ut Vita tradit?",
+      "answer": "Undecim annis.",
+      "question_en": "In how many years did Vergil complete the Aeneid, according to the Life?",
+      "answer_en": "In eleven years.",
+      "derivation": "Number fact, supported verbatim ('Aeneida XI perfecit annis'). Anchored to Vergil and the Aeneid, single number answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 19",
+      "source_text": "Deinde scripsit 'Georgica' in honorem Maecenatis, qui sibi mediocriter adhuc noto opem tulisset adversus veterani cuiusdam violentiam.",
+      "question": "In cuius honorem Vergilius Georgica scripsit?",
+      "answer": "In honorem Maecenatis.",
+      "question_en": "In whose honor did Vergil write the Georgics?",
+      "answer_en": "In honor of Maecenas.",
+      "derivation": "Dedicatee fact, supported verbatim ('Georgica in honorem Maecenatis'). Anchored to Vergil and the Georgica, single-name answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 23",
+      "source_text": "'Aeneida' prosa prius oratione formatam digestamque in XII libros particulatim componere instituit.",
+      "question": "In quot libros Vergilius Aeneida digessit?",
+      "answer": "In duodecim (XII) libros.",
+      "question_en": "Into how many books did Vergil arrange the Aeneid?",
+      "answer_en": "Into twelve books.",
+      "derivation": "Number fact, supported verbatim ('digestam ... in XII libros'). Anchored to Vergil and the Aeneid, single number answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 32",
+      "source_text": "Cui tamen multo post perfectaque demum materia tres omnino libros recitavit, secundum, quartum et sextum.",
+      "question": "Quos tres Aeneidos libros Vergilius Augusto recitavit?",
+      "answer": "Secundum, quartum et sextum.",
+      "question_en": "Which three books of the Aeneid did Vergil recite to Augustus?",
+      "answer_en": "The second, the fourth, and the sixth.",
+      "derivation": "Vergil recited three books to Augustus (the 'Cui' = Augustus, requesting the poem in the previous sentence). Supported verbatim ('tres omnino libros recitavit, secundum, quartum et sextum'). Entity-anchored, short list answer, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 32",
+      "source_text": "tres omnino libros recitavit, secundum, quartum et sextum, sed hunc notabili Octaviae adfectione, quae cum recitationi interesset, ad illos de filio suo versus, 'tu Marcellus eris,' defecisse fertur atque aegre focilata est.",
+      "question": "Quibus versibus de Marcello auditis Octavia, Vergilio recitante, defecisse fertur?",
+      "answer": "'Tu Marcellus eris.'",
+      "question_en": "On hearing which verse about Marcellus is Octavia said to have fainted while Vergil was reciting?",
+      "answer_en": "'You shall be Marcellus.'",
+      "derivation": "The famous scene: Octavia faints at the Marcellus lines in Aeneid 6. Supported verbatim ('ad illos de filio suo versus, tu Marcellus eris, defecisse fertur'). Anchored to Octavia, Marcellus and Vergil; 'defecisse fertur' mirrors the source's reported frame."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 30",
+      "source_text": "'Aeneidos' vixdum coeptae tanta exstitit fama, ut Sextus Propertius non dubitaverit sic praedicare: 'Cedite, Romani scriptores, cedite Grai: Nescio quid maius nascitur Iliade.'",
+      "question": "Quis poeta de nascente Aeneide praedicavit 'nescio quid maius nascitur Iliade'?",
+      "answer": "Sextus Propertius.",
+      "question_en": "Which poet declared of the nascent Aeneid, 'something greater than the Iliad is being born'?",
+      "answer_en": "Sextus Propertius.",
+      "derivation": "Famous reception line, supported verbatim and attributed to 'Sextus Propertius.' Entity-anchored (Propertius, the Aeneid/Iliad), single-name answer; the quotation 'maius ... Iliade' is iconic and closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 35",
+      "source_text": "languorem nactus est eumque non intermissa navigatione auxit ita ut gravior aliquanto Brundisium appelleret, ubi diebus paucis obiit XI Kal. Octobr. Cn. Sentio Q. Lucretio conss.",
+      "question": "In quo oppido Vergilius mortuus est?",
+      "answer": "Brundisii.",
+      "question_en": "In what town did Vergil die?",
+      "answer_en": "At Brundisium.",
+      "derivation": "Place-of-death fact, supported verbatim ('Brundisium appelleret, ubi ... obiit'). Anchored to Vergil, single place answer, closed-book famous."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 35",
+      "source_text": "languorem nactus est eumque non intermissa navigatione auxit ita ut gravior aliquanto Brundisium appelleret, ubi diebus paucis obiit XI Kal. Octobr. Cn. Sentio Q. Lucretio conss.",
+      "question": "Quibus consulibus Vergilius Brundisii decessit?",
+      "answer": "Cn. Sentio et Q. Lucretio.",
+      "question_en": "In whose consulship did Vergil die at Brundisium?",
+      "answer_en": "When Gnaeus Sentius and Quintus Lucretius were consuls.",
+      "derivation": "Death-date fact (19 BC), supported verbatim ('Cn. Sentio Q. Lucretio conss.'). Anchored to Vergil and Brundisium, named consular pair, closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 36",
+      "source_text": "Ossa eius Neapolim translata sunt tumuloque condita qui est via Puteolana intra lapidem secundum.",
+      "question": "Quo Vergilii ossa post mortem translata sunt?",
+      "answer": "Neapolim.",
+      "question_en": "Where were Vergil's bones taken after his death?",
+      "answer_en": "To Naples.",
+      "derivation": "Burial-place fact, supported verbatim ('Ossa eius Neapolim translata sunt'); the tomb stood on the via Puteolana within the second milestone. Anchored to Vergil, single place answer, closed-book famous."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 36",
+      "source_text": "Mantua me genuit, Calabri rapuere, tenet nunc Parthenope; cecini pascua rura duces.",
+      "question": "Quae tria se cecinisse Vergilius in epitaphio suo dicit?",
+      "answer": "Pascua, rura, duces.",
+      "question_en": "What three things does Vergil say in his epitaph that he sang?",
+      "answer_en": "Pastures, fields, and leaders (the Eclogues, Georgics, and Aeneid).",
+      "derivation": "The famous epitaph ('Mantua me genuit ...') names his three works as 'pascua rura duces.' Supported verbatim, short list answer; the line is iconic and closed-book, the answer translatable (the three subjects = his three poems)."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 37",
+      "source_text": "Heredes fecit ex dimidia parte Valerium Proculum fratrem alio patre, ex quarta Augustum, ex duodecima Maecenatem, ex reliqua L. Varium et Plotium Tuccam, qui eius 'Aeneida' post obitum iussu Caesaris emendaverunt.",
+      "question": "Qui Vergilii Aeneida post eius obitum iussu Augusti emendaverunt?",
+      "answer": "L. Varius et Plotius Tucca.",
+      "question_en": "Who edited Vergil's Aeneid after his death by order of Augustus?",
+      "answer_en": "Lucius Varius and Plotius Tucca.",
+      "derivation": "Literary-executor fact, supported verbatim ('L. Varium et Plotium Tuccam, qui eius Aeneida post obitum iussu Caesaris emendaverunt'); Caesar here = Augustus. Entity-anchored, two-name answer, iconic and closed-book."
+    },
+    {
+      "locus": "Suetonius/Donatus, Vita Vergilii 39",
+      "source_text": "Egerat cum Vario, priusquam Italia decederet, ut siquid sibi accidisset, 'Aeneida' combureret; at is ita facturum se pernegarat.",
+      "question": "Quem Vergilius rogaverat ut, si quid sibi accidisset, Aeneida combureret?",
+      "answer": "Varium.",
+      "question_en": "Whom had Vergil asked to burn the Aeneid if anything should happen to him?",
+      "answer_en": "Varius.",
+      "derivation": "The famous wish to have the Aeneid burned, supported verbatim ('Egerat cum Vario ... ut ... Aeneida combureret'). Anchored to Vergil and Varius, single-name answer; Varius refused. Closed-book."
+    }
+  ]
+}
