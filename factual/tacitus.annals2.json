@@ -1,0 +1,124 @@
+{
+  "source": "text/tacitus/tac.ann2.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber II",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 2.88",
+      "source_text": "ceterum Arminius abscedentibus Romanis et pulso Maroboduo regnum adfectans libertatem popularium adversam habuit, petitusque armis cum varia fortuna certaret, dolo propinquorum cecidit: liberator haud dubie Germaniae et qui non primordia populi Romani, sicut alii reges ducesque, sed florentissimum imperium lacessierit, proeliis ambiguus, bello non victus.",
+      "question": "Quem Tacitus haud dubie liberatorem Germaniae appellat?",
+      "answer": "Arminium.",
+      "question_en": "Whom does Tacitus call beyond doubt the liberator of Germany?",
+      "answer_en": "Arminius.",
+      "derivation": "The famous obituary of Arminius. Anchored to Arminius + Germania; single named person, supported verbatim by 'liberator haud dubie Germaniae'. appellat takes double accusative (Quem ... liberatorem). Closed-book: Arminius as 'liberator of Germany' is among the best-known verdicts in Tacitus and in Roman history."
+    },
+    {
+      "locus": "Tacitus, Annales 2.88",
+      "source_text": "septem et triginta annos vitae, duodecim potentiae explevit.",
+      "question": "Quot annos vitae Arminius, ut Tacitus tradit, explevit?",
+      "answer": "Septem et triginta.",
+      "question_en": "How many years of life did Arminius complete, according to Tacitus?",
+      "answer_en": "Thirty-seven.",
+      "derivation": "From the same Arminius obituary (subject carried from the preceding sentence 'ceterum Arminius ... cecidit'). Single number, supported verbatim by 'septem et triginta annos vitae ... explevit'; the same sentence also gives his years of power ('duodecim potentiae'). Anchored to Arminius; explevit takes accusative of duration. Closed-book number fact."
+    },
+    {
+      "locus": "Tacitus, Annales 2.43",
+      "source_text": "sed Tiberius demoverat Syria Creticum Silanum, per adfinitatem conexam Germanico, quia Silani filia Neroni vetustissimo liberorum eius pacta erat, praefeceratque Cn. Pisonem, ingenio violentum et obsequii ignarum.",
+      "question": "Quem Tiberius, Cretico Silano amoto, Syriae praefecit?",
+      "answer": "Cn. Pisonem.",
+      "question_en": "Whom did Tiberius appoint over Syria after removing Creticus Silanus?",
+      "answer_en": "Gnaeus Piso.",
+      "derivation": "Anchored to Tiberius + the governorship of Syria; single named person, supported verbatim by 'praefeceratque Cn. Pisonem'. praeficio takes accusative + dative (Syriae). Closed-book: Cn. Calpurnius Piso, governor of Syria and Germanicus's adversary, is a stock figure of the period."
+    },
+    {
+      "locus": "Tacitus, Annales 2.83",
+      "source_text": "sepulchrum Antiochiae ubi crematus, tribunal Epidaphnae quo in loco vitam finierat.",
+      "question": "In qua urbe Germanicus crematus et sepultus est, ut Tacitus tradit?",
+      "answer": "Antiochiae.",
+      "question_en": "In what city was Germanicus cremated and buried, according to Tacitus?",
+      "answer_en": "At Antioch.",
+      "derivation": "Anchored to Germanicus; single named place, supported verbatim by 'sepulchrum Antiochiae ubi crematus' (he actually expired at Epidaphne/Daphne, the suburb of Antioch: 'tribunal Epidaphnae quo in loco vitam finierat'). Corroborated by 2.73 'corpus ... nudatum in foro Antiochensium, qui locus sepulturae destinabatur'. Closed-book: Germanicus's death at Antioch (AD 19) is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Annales 2.69",
+      "source_text": "saevam vim morbi augebat persuasio veneni a Pisone accepti.",
+      "question": "A quo veneno necatus esse Germanicus credebatur, ut Tacitus refert?",
+      "answer": "A Pisone.",
+      "question_en": "By whom was Germanicus believed to have been killed by poison, as Tacitus reports?",
+      "answer_en": "By Piso.",
+      "derivation": "The famous suspicion that Piso poisoned Germanicus. Anchored to Germanicus + Piso; single named person, supported verbatim by 'persuasio veneni a Pisone accepti' and corroborated by 2.71 'scelere Pisonis et Plancinae interceptus'. Nominative-and-infinitive (Germanicus ... necatus esse credebatur); 'credebatur' keeps the recorded-suspicion frame. Closed-book."
+    },
+    {
+      "locus": "Tacitus, Annales 2.56",
+      "source_text": "sed favor nationis inclinabat in Zenonem, Polemonis regis Pontici filium, quod is prima ab infantia instituta et cultum Armeniorum aemulatus, venatu epulis et quae alia barbari celebrant, proceres plebemque iuxta devinxerat. igitur Germanicus in urbe Artaxata adprobantibus nobilibus, circumfusa multitudine, insigne regium capiti eius imposuit.",
+      "question": "Quem Germanicus, in urbe Artaxata insigne regium capiti imponens, regem Armeniis dedit?",
+      "answer": "Zenonem, Polemonis filium.",
+      "question_en": "Whom did Germanicus, placing the royal emblem on his head in the city of Artaxata, make king for the Armenians?",
+      "answer_en": "Zeno, son of Polemo.",
+      "derivation": "Germanicus's settlement of Armenia. Anchored to Germanicus + Armenia + Artaxata; single named person with patronymic, supported verbatim by 'inclinabat in Zenonem, Polemonis regis Pontici filium ... insigne regium capiti eius imposuit'. Closed-book: Germanicus crowning Zeno king of Armenia is a known fact of the eastern settlement."
+    },
+    {
+      "locus": "Tacitus, Annales 2.56",
+      "source_text": "ceteri venerantes regem Artaxiam consalutavere, quod illi vocabulum indiderant ex nomine urbis.",
+      "question": "Quo regio nomine, ex nomine urbis ducto, Armenii novum regem a Germanico impositum consalutaverunt?",
+      "answer": "Artaxiam.",
+      "question_en": "By what royal name, derived from the name of the city, did the Armenians hail the new king installed by Germanicus?",
+      "answer_en": "Artaxias.",
+      "derivation": "Anchored to the Armenians + Germanicus + the city Artaxata; single name, supported verbatim by 'regem Artaxiam consalutavere ... ex nomine urbis'. The regnal name Artaxias derives from Artaxata. consaluto takes double accusative. Corroborated by 2.64 'regem Artaxian Armeniis a Germanico datum'. Closed-book."
+    },
+    {
+      "locus": "Tacitus, Annales 2.9",
+      "source_text": "Flumen Visurgis Romanos Cheruscosque interfluebat.",
+      "question": "Quod flumen, ut Tacitus tradit, inter Romanos et Cheruscos interfluebat?",
+      "answer": "Visurgis.",
+      "question_en": "What river, according to Tacitus, flowed between the Romans and the Cherusci?",
+      "answer_en": "The Visurgis (the Weser).",
+      "derivation": "Geography of the Germanicus campaign. Anchored to the Romans + the Cherusci (Arminius's people); single named river, supported verbatim by 'Flumen Visurgis Romanos Cheruscosque interfluebat'. Visurgis = the Weser. Closed-book."
+    },
+    {
+      "locus": "Tacitus, Annales 2.16",
+      "source_text": "Sic accensos et proelium poscentis in campum, cui Idistaviso nomen, deducunt. is medius inter Visurgim et collis, ut ripae fluminis cedunt aut prominentia montium resistunt, inaequaliter sinuatur.",
+      "question": "Quod nomen erat campo, inter Visurgim et collis sito, in quem Germanicus exercitum proelii faciendi causa deduxit?",
+      "answer": "Idistaviso.",
+      "question_en": "What was the name of the plain, lying between the Visurgis and the hills, into which Germanicus led his army to give battle?",
+      "answer_en": "Idistaviso.",
+      "derivation": "Site of Germanicus's great victory over Arminius (AD 16). Anchored to Germanicus + the plain between the Weser and the hills; single named place, supported verbatim by 'in campum, cui Idistaviso nomen ... is medius inter Visurgim et collis'. Closed-book: the battle of Idistaviso."
+    },
+    {
+      "locus": "Tacitus, Annales 2.59",
+      "source_text": "nam Augustus inter alia dominationis arcana, vetitis nisi permissu ingredi senatoribus aut equitibus Romanis inlustribus, seposuit Aegyptum ne fame urgeret Italiam quisquis eam provinciam claustraque terrae ac maris quamvis levi praesidio adversum ingentis exercitus insedisset.",
+      "question": "Quam provinciam Augustus seposuit, vetans ne senatores aut inlustres equites Romani sine permissu eo ingrederentur?",
+      "answer": "Aegyptum.",
+      "question_en": "Which province did Augustus set apart, forbidding senators or distinguished Roman knights to enter it without permission?",
+      "answer_en": "Egypt.",
+      "derivation": "Augustus's reservation of Egypt as an imperial preserve (the context of Germanicus's unauthorized entry into Alexandria). Anchored to Augustus + Egypt + the ban on senators; single named province, supported verbatim by 'vetitis nisi permissu ingredi senatoribus aut equitibus Romanis inlustribus, seposuit Aegyptum'. Closed-book stock fact of Roman administration."
+    },
+    {
+      "locus": "Tacitus, Annales 2.63",
+      "source_text": "et Marobodous quidem Ravennae habitus, si quando insolescerent Suebi quasi rediturus in regnum ostentabatur: sed non excessit Italia per duodeviginti annos consenuitque multum imminuta claritate ob nimiam vivendi cupidinem.",
+      "question": "Quot annos Maroboduus, Germanorum quondam rex, in Italia detentus nec inde egressus est, ut Tacitus tradit?",
+      "answer": "Duodeviginti.",
+      "question_en": "For how many years was Maroboduus, once king of the Germans, kept in Italy and did not leave it, according to Tacitus?",
+      "answer_en": "Eighteen.",
+      "derivation": "Maroboduus's long exile after his fall. Anchored to Maroboduus; single number, supported verbatim by 'non excessit Italia per duodeviginti annos'. The same sentence places him at Ravenna ('Marobodous quidem Ravennae habitus'). Closed-book number fact."
+    },
+    {
+      "locus": "Tacitus, Annales 2.47",
+      "source_text": "Eodem anno duodecim celebres Asiae urbes conlapsae nocturno motu terrae, quo inprovisior graviorque pestis fuit.",
+      "question": "Quot celebres Asiae urbes, ut Tacitus refert, una nocte motu terrae conlapsae sunt?",
+      "answer": "Duodecim.",
+      "question_en": "How many famous cities of Asia, as Tacitus reports, collapsed in a single night by an earthquake?",
+      "answer_en": "Twelve.",
+      "derivation": "The great earthquake of AD 17. Anchored to the cities of Asia + Tacitus; single number, supported verbatim by 'duodecim celebres Asiae urbes conlapsae nocturno motu terrae'. The same chapter notes Sardis was hardest hit ('asperrima in Sardianos lues'). Closed-book."
+    },
+    {
+      "locus": "Tacitus, Annales 2.49",
+      "source_text": "et Iano templum, quod apud forum holitorium C. Duilius struxerat, qui primus rem Romanam prospere mari gessit triumphumque navalem de Poenis meruit.",
+      "question": "Quis, ut apud Tacitum legitur, primus rem Romanam prospere mari gessit et triumphum navalem de Poenis meruit?",
+      "answer": "C. Duilius.",
+      "question_en": "Who, as recorded by Tacitus, was the first to conduct Roman affairs successfully at sea and earned a naval triumph over the Carthaginians?",
+      "answer_en": "Gaius Duilius.",
+      "derivation": "C. Duilius, victor of Mylae (260 BC) and first Roman to celebrate a naval triumph. Anchored to Duilius + the Carthaginians + first-naval-triumph; single named person, supported verbatim by 'C. Duilius ... qui primus rem Romanam prospere mari gessit triumphumque navalem de Poenis meruit'. Closed-book stock fact."
+    }
+  ]
+}
