@@ -1,0 +1,115 @@
+{
+  "source": "text/suetonius/suet.otho.txt",
+  "author": "Suetonius",
+  "work": "Otho",
+  "pairs": [
+    {
+      "locus": "Suetonius, Otho 1",
+      "source_text": "Maiores Othonis orti sunt oppidio Ferentio, familia vetere et honorata atque ex principibus Etruriae.",
+      "question": "Ex quo oppido Etruriae maiores Othonis imperatoris ortos esse Suetonius tradit?",
+      "answer": "Ex Ferentio.",
+      "question_en": "From which town of Etruria does Suetonius say the ancestors of the emperor Otho sprang?",
+      "answer_en": "From Ferentium.",
+      "derivation": "Origins fact. Entity-anchored to Otho + Ferentium + Etruria; place answer supported verbatim by 'Maiores Othonis orti sunt oppidio Ferentio... ex principibus Etruriae.' Indirect statement (maiores... ortos esse) governed by tradit. Closed-book: Otho's family came from Ferentium, an old and honored house among the leading families of Etruria."
+    },
+    {
+      "locus": "Suetonius, Otho 2",
+      "source_text": "Post patris deinde mortem libertinam aulicam gratiosam, quo efficacius coleret, etiam diligere simulavit quamvis anum ac paene decrepitam: per hanc insinuatus Neroni, facile summum inter amicos locum tenuit congruentia morum.",
+      "question": "Cuius principis Otho, antequam ipse imperaret, summum inter amicos locum tenuisse traditur?",
+      "answer": "Neronis.",
+      "question_en": "Of which emperor is Otho said to have held the foremost place among his friends, before he himself ruled?",
+      "answer_en": "Of Nero.",
+      "derivation": "Relationship fact: having insinuated himself through a court freedwoman, Otho won the foremost place among Nero's friends. Entity-anchored to Otho + Nero; single-name answer supported verbatim by 'insinuatus Neroni, facile summum inter amicos locum tenuit.' Personal passive 'tenuisse traditur.' Closed-book: Otho was a close intimate of Nero before his own accession."
+    },
+    {
+      "locus": "Suetonius, Otho 3",
+      "source_text": "item Poppaeam Sabinam tunc adhuc amicam eius, abductam marito demandatamque interim sibi, nuptiarum specie recepit, nec corrupisset contentus, adeo dilexit ut ne rivalem quidem Neronem aequo tulerit animo.",
+      "question": "Quam feminam, postea Neronis uxorem, Otho marito abductam nuptiarum specie recepit, quam adeo dilexit ut ne Neronem quidem rivalem aequo animo ferret?",
+      "answer": "Poppaeam Sabinam.",
+      "question_en": "Which woman, later Nero's wife, did Otho receive under the guise of marriage after she had been taken from her husband, loving her so much that he could not bear even Nero as a rival?",
+      "answer_en": "Poppaea Sabina.",
+      "derivation": "Relationship fact: Otho received Poppaea Sabina (taken from her husband and entrusted to him) under the guise of marriage and loved her so much that he resented Nero as rival. Answer supported verbatim by 'Poppaeam Sabinam... nuptiarum specie recepit... adeo dilexit ut ne rivalem quidem Neronem aequo tulerit animo.' Entity-anchored to Otho + Poppaea + Nero. Closed-book: the famous love-triangle; Poppaea passed from Otho to Nero, whose wife she became."
+    },
+    {
+      "locus": "Suetonius, Otho 3",
+      "source_text": "Quare diducto matrimonio, sepositus est per causam legationis in Lusitaniam.",
+      "question": "In quam provinciam Otho, diducto cum Poppaea matrimonio, per causam legationis sepositus est?",
+      "answer": "In Lusitaniam.",
+      "question_en": "Into which province was Otho banished under the pretext of a legation, after his marriage with Poppaea was dissolved?",
+      "answer_en": "Into Lusitania.",
+      "derivation": "Career fact: after Nero broke up the marriage, Otho was relegated to Lusitania under cover of a governorship, which he held as ex-quaestor for ten years ('per decem annos,' same chapter). Province answer supported verbatim by 'sepositus est per causam legationis in Lusitaniam.' Entity-anchored to Otho + Lusitania. Closed-book: Otho's pre-imperial governorship of Lusitania."
+    },
+    {
+      "locus": "Suetonius, Otho 6",
+      "source_text": "Ibi missis qui Galbam et Pisonem trucidarent, ad conciliandos pollicitationibus militum animos nihil magis pro contione testatus est, quam id demum se habiturum, quod sibi illi reliquissent.",
+      "question": "Quos Otho, in castris imperator consalutatus, trucidandos curavit ut imperium occuparet?",
+      "answer": "Galbam et Pisonem.",
+      "question_en": "Whom did Otho, after being hailed emperor in the camp, have killed in order to seize power?",
+      "answer_en": "Galba and Piso.",
+      "derivation": "Coup fact: hailed imperator in the praetorian camp, Otho dispatched men to murder Galba and his adopted heir Piso. Answer supported verbatim by 'missis qui Galbam et Pisonem trucidarent.' Entity-anchored to Otho + Galba + Piso. Closed-book: the praetorian coup of 15 January AD 69 that overthrew Galba."
+    },
+    {
+      "locus": "Suetonius, Otho 7",
+      "source_text": "Ac super ceteras gratulantium adulantiumque blanditias ab infima plebe appellatus Nero nullum indicium recusantis dedit.",
+      "question": "Cuius principis defuncti cognomen Otho imperator non recusavit, cum eo ab infima plebe appellaretur?",
+      "answer": "Neronis.",
+      "question_en": "The surname of which deceased emperor did Otho not refuse, when the lowest commons hailed him by it?",
+      "answer_en": "Of Nero.",
+      "derivation": "Accession fact: hailed 'Nero' by the lowborn populace, Otho gave no sign of refusing, and cultivated Nero's memory (he restored his statues and recalled his freedmen). Answer supported verbatim by 'ab infima plebe appellatus Nero nullum indicium recusantis dedit.' Entity-anchored to Otho + Nero. Closed-book: Otho courted the memory and name of Nero."
+    },
+    {
+      "locus": "Suetonius, Otho 8",
+      "source_text": "Sub idem vero tempus Germaniciani exercitus in Vitellii verba iurarat.",
+      "question": "In cuius verba Germaniciani exercitus iuraverant, qui mox Othonem imperio depulit?",
+      "answer": "In Vitellii verba.",
+      "question_en": "To whom had the armies of Germany sworn allegiance, the man who soon drove Otho from power?",
+      "answer_en": "To Vitellius.",
+      "derivation": "Rival fact: the German legions swore allegiance to Vitellius, raising the rival who would defeat Otho. Answer supported verbatim by 'Germaniciani exercitus in Vitellii verba iurarat' (iurare in verba alicuius = to swear allegiance to). Entity-anchored to Vitellius + the German armies. Closed-book: Vitellius proclaimed emperor by the Rhine legions, AD 69."
+    },
+    {
+      "locus": "Suetonius, Otho 9",
+      "source_text": "novissimo maximoque apud Betriacum fraude superatus est, cum, spe conloquii facta, quasi ad condicionem pacis militibus eductis, ex improviso atque in ipsa consalutatione dimicandum fuisset.",
+      "question": "Quo loco proelio novissimo et maximo Otho imperator superatus est, priusquam sibi mortem conscivit?",
+      "answer": "Apud Betriacum.",
+      "question_en": "At what place was the emperor Otho defeated in the last and greatest battle, before he took his own life?",
+      "answer_en": "At Bedriacum.",
+      "derivation": "Defeat fact: Otho's decisive defeat in the last and greatest battle, at Bedriacum, by Vitellius's generals. Place answer supported verbatim by 'novissimo maximoque apud Betriacum... superatus est.' Entity-anchored to Otho + Bedriacum. Closed-book: the battle of Bedriacum decided the war against Vitellius, AD 69. (Latin Library spelling 'Betriacum' for 'Bedriacum.')"
+    },
+    {
+      "locus": "Suetonius, Otho 11",
+      "source_text": "Post hoc sedata siti gelidae aquae potione, arripuit duos pugiones et explorata utriusque acie, cum alterum pulvino subdidisset, foribus adopertis artissimo somno quievit. Et circa lucem demum expergefactus, uno se traiecit ictu infra laevam papillam irrumpentibusque ad primum gemitum modo celans modo detegens plagam, exanimatus est.",
+      "question": "Quomodo Otho imperator, apud Betriacum victus, vitam finivit?",
+      "answer": "Se ipse pugione transfixit.",
+      "question_en": "How did the emperor Otho, defeated at Bedriacum, end his life?",
+      "answer_en": "He stabbed himself with a dagger.",
+      "derivation": "Death fact: though he could still have fought on (fresh, undefeated reserves remained, ch. 9), Otho chose to die; he stabbed himself once below the left breast with a dagger. Answer supported by 'arripuit duos pugiones... uno se traiecit ictu infra laevam papillam... exanimatus est.' Entity-anchored to Otho. Closed-book: Otho's famous dignified suicide, AD 69. (The motive of sparing further bloodshed is Suetonius's 'ut multi opinantur' gloss; the fact itself is the suicide.)"
+    },
+    {
+      "locus": "Suetonius, Otho 11",
+      "source_text": "exanimatus est et celeriter (nam ita praeceperat) funeratus, tricensimo et octavo aetatis anno et nonagesimo quinto imperii die.",
+      "question": "Quotum aetatis annum agens Otho imperator periit?",
+      "answer": "Tricensimum et octavum.",
+      "question_en": "In which year of his age did the emperor Otho die?",
+      "answer_en": "His thirty-eighth.",
+      "derivation": "Age-at-death fact. Ordinal answer supported verbatim by 'tricensimo et octavo aetatis anno.' Entity-anchored to Otho. Closed-book: Otho died in his thirty-eighth year (AD 69)."
+    },
+    {
+      "locus": "Suetonius, Otho 11",
+      "source_text": "exanimatus est et celeriter (nam ita praeceperat) funeratus, tricensimo et octavo aetatis anno et nonagesimo quinto imperii die.",
+      "question": "Quoto imperii die Otho imperator periit?",
+      "answer": "Nonagesimo quinto.",
+      "question_en": "On which day of his reign did the emperor Otho die?",
+      "answer_en": "On the ninety-fifth.",
+      "derivation": "Reign-length fact. Number answer supported verbatim by 'nonagesimo quinto imperii die.' Entity-anchored to Otho. Closed-book: Otho's reign lasted about three months, ending on its ninety-fifth day."
+    },
+    {
+      "locus": "Suetonius, Otho 10",
+      "source_text": "Interfuit huic bello pater meus Suetonius Laetus, tertiae decimae legionis tribunus angusticlavius.",
+      "question": "Quis fuit pater Suetoni, qui Othoniano bello tribunus angusticlavius legionis tertiae decimae interfuit?",
+      "answer": "Suetonius Laetus.",
+      "question_en": "Who was the father of Suetonius, who took part in the Othonian war as a narrow-stripe tribune of the thirteenth legion?",
+      "answer_en": "Suetonius Laetus.",
+      "derivation": "Autobiographical fact: Suetonius names his own father, Suetonius Laetus, who served in Otho's war as tribunus angusticlavius of legio XIII. Name answer supported verbatim by 'pater meus Suetonius Laetus, tertiae decimae legionis tribunus angusticlavius.' Entity-anchored to Suetonius + his father + the thirteenth legion. Closed-book: one of the few personal disclosures by Suetonius, an eyewitness source for the campaign of AD 69."
+    }
+  ]
+}
