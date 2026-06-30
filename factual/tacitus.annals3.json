@@ -1,0 +1,106 @@
+{
+  "source": "text/tacitus/tac.ann3.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber III",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 3.1",
+      "source_text": "interim adventu eius audito intimus quisque amicorum et plerique militares, ut quique sub Germanico stipendia fecerant, multique etiam ignoti vicinis e municipiis, pars officium in principem rati, plures illos secuti, ruere ad oppidum Brundisium, quod naviganti celerrimum fidissimumque adpulsu erat.",
+      "question": "Ad quod Italiae oppidum Agrippina, cineres Germanici ex Oriente reportans, classem appulit?",
+      "answer": "Ad Brundisium.",
+      "question_en": "At which Italian town did Agrippina put in with her fleet, bringing back the ashes of Germanicus from the East?",
+      "answer_en": "At Brundisium.",
+      "derivation": "The landfall of Agrippina, widow of Germanicus, carrying his ashes back to Italy. Anchored to Agrippina + Germanicus + the port of arrival; single named place, supported by 'adventu eius audito ... ruere ad oppidum Brundisium, quod naviganti ... adpulsu erat'. Corroborated by 3.2 ('suprema erga memoriam filii sui munera ... cineres portabantur'), where the ashes (cineres) of Tiberius's adopted son are borne on. Closed-book: Agrippina's return with Germanicus's ashes, landing at Brundisium, is a stock scene of the period."
+    },
+    {
+      "locus": "Tacitus, Annales 3.4",
+      "source_text": "Dies quo reliquiae tumulo Augusti inferebantur modo per silentium vastus, modo ploratibus inquies; plena urbis itinera, conlucentes per campum Martis faces.",
+      "question": "In cuius tumulo reliquiae Germanici conditae sunt, ut Tacitus tradit?",
+      "answer": "In tumulo Augusti.",
+      "question_en": "In whose tomb were the remains of Germanicus laid, according to Tacitus?",
+      "answer_en": "In the tomb (Mausoleum) of Augustus.",
+      "derivation": "The interment of Germanicus's ashes at Rome. Anchored to Germanicus + the tomb of Augustus; single named place, supported verbatim by 'reliquiae tumulo Augusti inferebantur' (the subject 'reliquiae' is Germanicus's remains, carried from 3.1-3.3). Closed-book: Germanicus's ashes were laid in the Mausoleum of Augustus, a known fact."
+    },
+    {
+      "locus": "Tacitus, Annales 3.15",
+      "source_text": "relatus domum, tamquam defensionem in posterum meditaretur, pauca conscribit obsignatque et liberto tradit; tum solita curando corpori exequitur. dein multam post noctem, egressa cubiculo uxore, operiri foris iussit; et coepta luce perfosso iugulo, iacente humi gladio, repertus est.",
+      "question": "Quo exitu Cn. Piso, mortis Germanici reus, vitam finivit?",
+      "answer": "Sua manu, perfosso iugulo.",
+      "question_en": "By what end did Gnaeus Piso, the defendant for the death of Germanicus, finish his life?",
+      "answer_en": "By his own hand, with his throat pierced (he killed himself).",
+      "derivation": "The suicide of Cn. Calpurnius Piso during his trial for the murder of Germanicus. Anchored to Piso + the charge over Germanicus's death; the manner of death is supported verbatim by 'perfosso iugulo, iacente humi gladio, repertus est' (subject 'Piso', the reus). Closed-book: Piso's self-inflicted death is the climax of the famous trial of AD 20."
+    },
+    {
+      "locus": "Tacitus, Annales 3.26",
+      "source_text": "sed praecipuus Servius Tullius sanctor legum fuit quis etiam reges obtemperarent.",
+      "question": "Quem regem Tacitus praecipuum legum sanctorem fuisse tradit, cui etiam reges obtemperarent?",
+      "answer": "Servium Tullium.",
+      "question_en": "Which king does Tacitus record as the foremost framer of laws, laws that even kings would obey?",
+      "answer_en": "Servius Tullius.",
+      "derivation": "From the excursus on the origin of laws. Anchored to the Roman kings + the chief lawgiver; single named person, supported verbatim by 'praecipuus Servius Tullius sanctor legum fuit quis etiam reges obtemperarent'. Closed-book: Servius Tullius, sixth king of Rome, as a foundational lawgiver."
+    },
+    {
+      "locus": "Tacitus, Annales 3.27",
+      "source_text": "Pulso Tarquinio adversum patrum factiones multa populus paravit tuendae libertatis et firmandae concordiae, creatique decemviri et accitis quae usquam egregia compositae duodecim tabulae, finis aequi iuris.",
+      "question": "Quo vocabulo Tacitus duodecim tabulas, a decemviris compositas, designat?",
+      "answer": "Finem aequi iuris.",
+      "question_en": "By what phrase does Tacitus designate the Twelve Tables, composed by the decemvirs?",
+      "answer_en": "The limit of impartial law ('finis aequi iuris').",
+      "derivation": "The famous verdict on the Twelve Tables in the law excursus. Anchored to the Twelve Tables; the defining phrase is supported verbatim by 'compositae duodecim tabulae, finis aequi iuris'. Short answer is a fixed noun phrase. Closed-book: 'finis aequi iuris' is one of Tacitus's best-known formulations about Roman law."
+    },
+    {
+      "locus": "Tacitus, Annales 3.27",
+      "source_text": "Pulso Tarquinio adversum patrum factiones multa populus paravit tuendae libertatis et firmandae concordiae, creatique decemviri et accitis quae usquam egregia compositae duodecim tabulae, finis aequi iuris.",
+      "question": "Quis magistratus duodecim tabulas, ut apud Tacitum legitur, composuit?",
+      "answer": "Decemviri.",
+      "question_en": "Which magistracy composed the Twelve Tables, as recorded by Tacitus?",
+      "answer_en": "The decemvirs.",
+      "derivation": "Same sentence of the law excursus, distinct fact. Anchored to the Twelve Tables; single named office, supported verbatim by 'creatique decemviri et ... compositae duodecim tabulae'. Closed-book: the decemviri who drew up the Twelve Tables (451-450 BC)."
+    },
+    {
+      "locus": "Tacitus, Annales 3.30",
+      "source_text": "Crispum equestri ortum loco C. Sallustius, rerum Romanarum florentissimus auctor, sororis nepotem in nomen adscivit.",
+      "question": "Quem historicum Tacitus 'rerum Romanarum florentissimum auctorem' appellat, qui Sallustium Crispum sororis nepotem in nomen suum adscivit?",
+      "answer": "C. Sallustium.",
+      "question_en": "Which historian does Tacitus call 'the most distinguished writer of Roman affairs', who adopted his sister's grandson Sallustius Crispus into his name?",
+      "answer_en": "Gaius Sallustius (Sallust).",
+      "derivation": "Anchored to the historian + his adopted great-nephew Sallustius Crispus; single named person, supported verbatim by 'C. Sallustius, rerum Romanarum florentissimus auctor, sororis nepotem in nomen adscivit'. Closed-book: Sallust the historian is a stock literary figure, and his adoption of the future minister Sallustius Crispus is the recorded fact."
+    },
+    {
+      "locus": "Tacitus, Annales 3.40",
+      "source_text": "Eodem anno Galliarum civitates ob magnitudinem aeris alieni rebellionem coeptavere, cuius extimulator acerrimus inter Treviros Iulius Florus, apud Aeduos Iulius Sacrovir.",
+      "question": "Qui duo, alter inter Treviros alter apud Aeduos, Galliarum civitates ad rebellionem concitaverunt?",
+      "answer": "Iulius Florus et Iulius Sacrovir.",
+      "question_en": "Which two men, one among the Treviri and the other among the Aedui, stirred the Gallic states to rebellion?",
+      "answer_en": "Julius Florus and Julius Sacrovir.",
+      "derivation": "The Gallic revolt of AD 21. Anchored to the Treviri + the Aedui + the rising over debt; two named persons paired with their peoples, supported verbatim by 'extimulator acerrimus inter Treviros Iulius Florus, apud Aeduos Iulius Sacrovir'. Closed-book: the revolt of Florus and Sacrovir is a known event of Tiberius's reign."
+    },
+    {
+      "locus": "Tacitus, Annales 3.76",
+      "source_text": "Et Iunia sexagesimo quarto post Philippensem aciem anno supremum diem explevit, Catone avunculo genita, C. Cassii uxor, M. Bruti soror.",
+      "question": "Cuius uxor et cuius soror fuit Iunia, quae anno post Philippensem aciem sexagesimo quarto decessit?",
+      "answer": "C. Cassii uxor et M. Bruti soror.",
+      "question_en": "Whose wife and whose sister was Junia, who died in the sixty-fourth year after the battle of Philippi?",
+      "answer_en": "The wife of Gaius Cassius and the sister of Marcus Brutus.",
+      "derivation": "Anchored to Junia + the tyrannicides; two named relations, supported verbatim by 'C. Cassii uxor, M. Bruti soror'. Closed-book: Junia Tertia, wife of Cassius and (half-)sister of Brutus, is identified by these very kinships."
+    },
+    {
+      "locus": "Tacitus, Annales 3.76",
+      "source_text": "viginti clarissimarum familiarum imagines antelatae sunt, Manlii, Quinctii aliaque eiusdem nobilitatis nomina. sed praefulgebant Cassius atque Brutus eo ipso quod effigies eorum non visebantur.",
+      "question": "In funere Iuniae, Cassii uxoris, quorum duorum imagines eo magis praefulgebant quod non ostendebantur?",
+      "answer": "Cassii et Bruti.",
+      "question_en": "At the funeral of Junia, wife of Cassius, the images of which two men shone forth all the more because they were not displayed?",
+      "answer_en": "Those of Cassius and Brutus.",
+      "derivation": "The celebrated detail of Junia's funeral. Anchored to Junia's funeral + the two tyrannicides; two named persons, supported verbatim by 'praefulgebant Cassius atque Brutus eo ipso quod effigies eorum non visebantur'. Closed-book: the conspicuous absence of the images of Brutus and Cassius at Junia's funeral is one of Tacitus's most quoted scenes."
+    },
+    {
+      "locus": "Tacitus, Annales 3.76",
+      "source_text": "Et Iunia sexagesimo quarto post Philippensem aciem anno supremum diem explevit, Catone avunculo genita, C. Cassii uxor, M. Bruti soror.",
+      "question": "Quoto anno post Philippensem aciem Iunia, M. Bruti soror, supremum diem explevit?",
+      "answer": "Sexagesimo quarto.",
+      "question_en": "In which year after the battle of Philippi did Junia, sister of Marcus Brutus, breathe her last?",
+      "answer_en": "In the sixty-fourth.",
+      "derivation": "Number fact dating Junia's death. Anchored to Junia + the battle of Philippi; single ordinal, supported verbatim by 'sexagesimo quarto post Philippensem aciem anno supremum diem explevit'. Closed-book: Junia outliving Philippi (42 BC) by 64 years, dying AD 22."
+    }
+  ]
+}
