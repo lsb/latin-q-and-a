@@ -1,0 +1,169 @@
+{
+  "source": "text/suetonius/suet.tib.txt",
+  "author": "Suetonius",
+  "work": "Tiberius",
+  "pairs": [
+    {
+      "locus": "Suetonius, Tiberius 1",
+      "source_text": "Patricia gens Claudia--fuit enim et alia plebeia, nec potentia minor nec dignitate--orta est ex Regillis oppido Sabinorum.",
+      "question": "Ex quo oppido gentem Claudiam ortam esse Suetonius tradit?",
+      "answer": "Ex Regillis, oppido Sabinorum.",
+      "question_en": "From which town does Suetonius say the Claudian gens originated?",
+      "answer_en": "From Regilli, a Sabine town.",
+      "derivation": "Origin of the gens Claudia (Tiberius's family), supported verbatim by 'orta est ex Regillis oppido Sabinorum.' Indirect statement (ortam esse) under tradit; entity-anchored to the Claudii, single place answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 3",
+      "source_text": "Ex hac stirpe Tiberius Caesar genus trahit, et quidem utrumque: paternum a Tiberio Nerone, maternum ab Appio Pulchro, qui ambo Appi Caeci filii fuerunt.",
+      "question": "A quo patre Tiberius Caesar genus paternum traxit?",
+      "answer": "A Tiberio Nerone.",
+      "question_en": "From which father did Tiberius Caesar derive his paternal line?",
+      "answer_en": "From Tiberius Nero.",
+      "derivation": "Names Tiberius's father, supported by 'paternum a Tiberio Nerone.' Entity-anchored to Tiberius, single named-entity answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 7",
+      "source_text": "Drusum fratrem in Germania amisit, cuius corpus pedibus toto itinere praegrediens Romam usque peruexit.",
+      "question": "Ubi Drusus, Tiberii Caesaris frater, mortuus est?",
+      "answer": "In Germania.",
+      "question_en": "Where did Drusus, the brother of Tiberius Caesar, die?",
+      "answer_en": "In Germany.",
+      "derivation": "Establishes both Tiberius's brother (Drusus) and where he died, supported by 'Drusum fratrem in Germania amisit.' Entity-anchored, single place answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 5",
+      "source_text": "Sed ut plures certioresque tradunt, natus est Romae in Palatio XVI. Kal. Dec. M. Aemilio Lepido iterum L. Munatio Planco conss.",
+      "question": "Quibus consulibus natum esse Tiberium plures certioresque tradunt?",
+      "answer": "M. Aemilio Lepido iterum et L. Munatio Planco.",
+      "question_en": "In whose consulship do the more reliable sources say Tiberius was born?",
+      "answer_en": "When Marcus Aemilius Lepidus (for the second time) and Lucius Munatius Plancus were consuls.",
+      "derivation": "Birth-year fact (42 BC), anchored to Tiberius and the named consular pair. Indirect statement (natum esse) under tradunt; answer in the ablative matching 'M. Aemilio Lepido iterum L. Munatio Planco conss.' Closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 7",
+      "source_text": "Agrippinam, Marco Agrippa genitam, neptem Caecili Attici equitis R., ad quem sunt Ciceronis epistulae, duxit uxorem.",
+      "question": "Quam primam uxorem Tiberius duxit?",
+      "answer": "Agrippinam, M. Agrippae filiam.",
+      "question_en": "Whom did Tiberius take as his first wife?",
+      "answer_en": "Agrippina, daughter of Marcus Agrippa.",
+      "derivation": "Tiberius's first wife (Vipsania Agrippina), daughter of Agrippa, supported by 'Agrippinam, Marco Agrippa genitam ... duxit uxorem.' Entity-anchored, accusative answer matching the object of duxit, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 7",
+      "source_text": "sublatoque ex ea filio Druso, quanquam bene conuenientem rursusque grauidam dimittere ac Iuliam Augusti filiam confestim coactus est ducere non sine magno angore animi.",
+      "question": "Quam, Agrippina dimissa, Tiberius in matrimonium ducere coactus est?",
+      "answer": "Iuliam, Augusti filiam.",
+      "question_en": "Whom, after Agrippina was sent away, was Tiberius compelled to marry?",
+      "answer_en": "Iulia, the daughter of Augustus.",
+      "derivation": "Tiberius was forced to divorce Agrippina and marry Augustus's daughter Iulia; supported by 'coactus est ducere ... Iuliam Augusti filiam.' Entity-anchored, accusative answer, closed-book; the compulsion is in the source (coactus est)."
+    },
+    {
+      "locus": "Suetonius, Tiberius 9",
+      "source_text": "dein ducto ad Orientem exercitu regnum Armeniae Tigrani restituit ac pro tribunali diadema imposuit.",
+      "question": "Cui regi Tiberius regnum Armeniae restituit?",
+      "answer": "Tigrani.",
+      "question_en": "To which king did Tiberius restore the kingdom of Armenia?",
+      "answer_en": "To Tigranes.",
+      "derivation": "Supported by 'regnum Armeniae Tigrani restituit.' Entity-anchored to Tiberius + Armenia, single dative-named answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 9",
+      "source_text": "recepit et signa, quae M. Crasso ademerant Parthi.",
+      "question": "A quo populo Tiberius signa recepit, quae M. Crasso erepta erant?",
+      "answer": "A Parthis.",
+      "question_en": "From which people did Tiberius recover the standards that had been taken from Marcus Crassus?",
+      "answer_en": "From the Parthians.",
+      "derivation": "Recovery of the standards lost by Crassus (at Carrhae), supported by 'signa, quae M. Crasso ademerant Parthi.' Entity-anchored (Crassus, Parthians, standards), single answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 11",
+      "source_text": "Sed increbrescente rumore quasi ad occasionem maioris spei commoraretur, tantum non aduersis tempestatibus Rhodum enauigauit, amoenitate et salubritate insulae iam inde captus cum ad eam ab Armenia rediens appulisset.",
+      "question": "Quo Tiberius integra aetate sponte secessit, insulae amoenitate captus?",
+      "answer": "Rhodum.",
+      "question_en": "Where did Tiberius voluntarily withdraw to in the prime of life, captivated by the island's charm?",
+      "answer_en": "To Rhodes.",
+      "derivation": "Tiberius's famous self-imposed retirement (ch. 10: 'statuit repente secedere'); the destination Rhodes is supported by 'Rhodum enauigauit, amoenitate et salubritate insulae ... captus.' Entity-anchored, single place answer, closed-book and iconic."
+    },
+    {
+      "locus": "Suetonius, Tiberius 15",
+      "source_text": "Gaio et Lucio intra triennium defunctis adoptatur ab Augusto simul cum fratre eorum M. Agrippa, coactus prius ipse Germanicum fratris sui filium adoptare.",
+      "question": "A quo Tiberius, Gaio et Lucio Caesaribus mortuis, in adoptionem ascitus est?",
+      "answer": "Ab Augusto.",
+      "question_en": "By whom was Tiberius adopted after the deaths of Gaius and Lucius Caesar?",
+      "answer_en": "By Augustus.",
+      "derivation": "Tiberius (Augustus's stepson) was adopted by Augustus after Gaius and Lucius died; supported by 'adoptatur ab Augusto.' Entity-anchored, single answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 15",
+      "source_text": "Gaio et Lucio intra triennium defunctis adoptatur ab Augusto simul cum fratre eorum M. Agrippa, coactus prius ipse Germanicum fratris sui filium adoptare.",
+      "question": "Cuius filium Tiberius, antequam ipse ab Augusto adoptaretur, adoptare coactus est?",
+      "answer": "Germanicum, fratris sui filium.",
+      "question_en": "Whose son was Tiberius compelled to adopt before he himself was adopted by Augustus?",
+      "answer_en": "Germanicus, the son of his brother.",
+      "derivation": "As a condition of his own adoption, Tiberius first adopted Germanicus, son of his brother Drusus; supported by 'coactus prius ipse Germanicum fratris sui filium adoptare.' Entity-anchored, accusative answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 32",
+      "source_text": "praesidibus onerandas tributo prouincias suadentibus rescripsit boni pastoris esse tondere pecus, non deglubere.",
+      "question": "Quid Tiberius praesidibus rescripsit, qui prouincias tributo onerandas esse suadebant?",
+      "answer": "Boni pastoris esse tondere pecus, non deglubere.",
+      "question_en": "What did Tiberius write back to the governors who urged that the provinces be burdened with tribute?",
+      "answer_en": "That it is a good shepherd's part to shear his flock, not to flay it.",
+      "derivation": "Tiberius's famous saying on taxation, supported verbatim. Fact-seeking (which reply, to which petition) and entity-anchored; the maxim has a short, translatable, verifiable point. Answer mirrors the source's acc.+inf."
+    },
+    {
+      "locus": "Suetonius, Tiberius 40",
+      "source_text": "Capreas se contulit, praecipue delectatus insula, quod uno paruoque litore adiretur, saepta undique praeruptis immensae altitudinis rupibus et profundo mari.",
+      "question": "In quam insulam Tiberius se contulit, ubi reliquam uitam in secessu egit?",
+      "answer": "Capreas.",
+      "question_en": "To which island did Tiberius betake himself, where he spent the rest of his life in seclusion?",
+      "answer_en": "To Capri (Capreae).",
+      "derivation": "Tiberius's later withdrawal to Capri, supported by 'Capreas se contulit, praecipue delectatus insula.' Entity-anchored, single place answer, closed-book and iconic."
+    },
+    {
+      "locus": "Suetonius, Tiberius 40",
+      "source_text": "Statimque reuocante assidua obtestatione populo propter cladem, qua apud Fidenas supra uiginti hominum milia gladiatorio munere amphitheatri ruina perierant, transiit in continentem.",
+      "question": "Quot fere hominum milia apud Fidenas ruina amphitheatri perierunt?",
+      "answer": "Supra uiginti milia.",
+      "question_en": "About how many thousand people perished at Fidenae in the collapse of the amphitheatre?",
+      "answer_en": "Over twenty thousand.",
+      "derivation": "The Fidenae amphitheatre collapse (AD 27), supported by 'apud Fidenas supra uiginti hominum milia ... amphitheatri ruina perierant.' Number + place fact, entity-anchored, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 73",
+      "source_text": "Sed tempestatibus et ingrauescente ui morbi retentus paulo post obiit in uilla Lucullana octauo et septuagesimo aetatis anno, tertio et uicesimo imperii, XVII. Kal. Ap. Cn. Acerronio Proculo C. Pontio Nigrino conss.",
+      "question": "Quoto aetatis anno Tiberius mortuus est?",
+      "answer": "Octauo et septuagesimo.",
+      "question_en": "In which year of his age did Tiberius die?",
+      "answer_en": "In his seventy-eighth.",
+      "derivation": "Age-at-death fact (AD 37), supported by 'octauo et septuagesimo aetatis anno.' Ordinal/number answer, entity-anchored, closed-book. (source_text normalizes the edition's 'Nigr[in]o' to 'Nigrino'.)"
+    },
+    {
+      "locus": "Suetonius, Tiberius 73",
+      "source_text": "Sed tempestatibus et ingrauescente ui morbi retentus paulo post obiit in uilla Lucullana octauo et septuagesimo aetatis anno, tertio et uicesimo imperii, XVII. Kal. Ap. Cn. Acerronio Proculo C. Pontio Nigrino conss.",
+      "question": "Quoto imperii anno Tiberius decessit?",
+      "answer": "Tertio et uicesimo.",
+      "question_en": "In which year of his reign did Tiberius die?",
+      "answer_en": "In his twenty-third.",
+      "derivation": "Length-of-reign fact, supported by 'tertio et uicesimo imperii.' Ordinal/number answer, entity-anchored to Tiberius, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 75",
+      "source_text": "Corpus ut moueri a Miseno coepit, conclamantibus plerisque Atellam potius deferendum et in amphitheatro semiustilandum, Romam per milites deportatum est crematumque publico funere.",
+      "question": "In quo loco Tiberius decessit, unde corpus eius Romam deportatum est?",
+      "answer": "Miseni.",
+      "question_en": "In what place did Tiberius die, from which his body was carried to Rome?",
+      "answer_en": "At Misenum.",
+      "derivation": "Place of death: his body was carried from Misenum ('Corpus ut moueri a Miseno coepit ... Romam ... deportatum est'), establishing he died there (the Lucullan villa of ch. 73). Entity-anchored, single place answer, closed-book."
+    },
+    {
+      "locus": "Suetonius, Tiberius 76",
+      "source_text": "Eo testamento heredes aequis partibus reliquit Gaium ex Germanico et Tiberium ex Druso nepotes substituitque in uicem.",
+      "question": "Quos nepotes Tiberius testamento heredes aequis partibus reliquit?",
+      "answer": "Gaium, ex Germanico, et Tiberium, ex Druso.",
+      "question_en": "Which grandsons did Tiberius leave as equal heirs in his will?",
+      "answer_en": "Gaius, son of Germanicus, and Tiberius, son of Drusus.",
+      "derivation": "Tiberius's will named two grandsons as equal heirs; supported verbatim. Gaius (Caligula) became his successor, Tiberius being Gemellus. Entity-anchored, accusative answer, closed-book."
+    }
+  ]
+}
