@@ -2,9 +2,11 @@
 """Aggregate the per-work factual/*.json files into a single JSONL dataset.
 
 Writes qa.jsonl -- one Q&A pair per line, each:
-  {source, author, work, locus, source_text, question, answer,
+  {source, author, work, provenance, locus, source_text, question, answer,
    question_en, answer_en, derivation}
-Prints summary statistics (pairs per author, works with/without pairs).
+`provenance` records the corpus a work's text came from; it defaults to the
+Latin Library and is overridden per work (e.g. NH 7, which the Latin Library
+does not carry, is from LacusCurtius/Teubner). Prints summary statistics.
 """
 import glob
 import json
@@ -23,6 +25,7 @@ for f in sorted(glob.glob("factual/*.json")):
             "source": d["source"],
             "author": d.get("author", ""),
             "work": d.get("work", ""),
+            "provenance": d.get("provenance", "The Latin Library (www.thelatinlibrary.com)"),
             "locus": p["locus"],
             "source_text": p["source_text"],
             "question": p["question"],

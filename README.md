@@ -43,6 +43,13 @@ rationale and the seven acceptance criteria.
 The raw `www.thelatinlibrary.com/` HTML is **not** committed (see `.gitignore`);
 re-fetch with `wget -r` to re-run the conversion.
 
+**Provenance.** Almost every work's text is from the Latin Library. The one
+exception is **Pliny, *Naturalis Historia* VII**, which the Latin Library does
+not carry: its text was fetched from **LacusCurtius (Mayhoff/Teubner edition)**
+and normalized to the corpus's plain-text style. Each pair in `qa.jsonl` carries
+a `provenance` field (defaulting to the Latin Library) so the source edition is
+always explicit; the per-work file under `factual/` also records it.
+
 ## The seven acceptance criteria (summary)
 
 A pair is kept only if **all** hold: **closed-book**, **entity-anchored**,

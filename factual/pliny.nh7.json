@@ -1,0 +1,152 @@
+{
+  "source": "text/pliny.nh7.txt",
+  "author": "Pliny the Elder",
+  "work": "Naturalis Historia, liber VII",
+  "provenance": "LacusCurtius (Mayhoff/Teubner edition) — NOT the Latin Library; this book is absent from the Latin Library corpus and was fetched separately, normalized to the corpus's plain-text style.",
+  "pairs": [
+    {
+      "locus": "Plinius, Naturalis Historia 7.88",
+      "source_text": "Mithridates, duarum et viginti gentium rex, totidem linguis iura dixit, pro contione singulas sine interprete adfatus.",
+      "question": "Quot gentium rex Mithridates fuit, quarum linguis omnibus sine interprete ius dicere solitus est, ut Plinius tradit?",
+      "answer": "Duarum et viginti.",
+      "question_en": "Of how many nations was Mithridates king, in all of whose languages he administered justice without an interpreter, as Pliny relates?",
+      "answer_en": "Twenty-two.",
+      "derivation": "Mithridates VI's celebrated polyglot memory: king of 22 nations, he gave judgments in all 22 languages without an interpreter. Number-plus-entity fact, single verifiable answer (XXII) supported verbatim by duarum et viginti gentium rex, totidem linguis. Closed-book: a stock example of prodigious memory in antiquity."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.89",
+      "source_text": "ars postremo eius rei facta et inventa est a Simonide melico, consummata a Metrodoro Scepsio, ut nihil non isdem verbis redderetur auditum.",
+      "question": "A quo poeta artem memoriae inventam esse Plinius tradit?",
+      "answer": "A Simonide melico.",
+      "question_en": "By which poet does Pliny say the art of memory was invented?",
+      "answer_en": "By Simonides the lyric poet.",
+      "derivation": "In the discussion of memoria Pliny credits the invention of the mnemonic art to the lyric poet Simonides (eius rei = ars memoriae, the running topic), later perfected by Metrodorus of Scepsis. Single named answer supported verbatim; closed-book, a classic attribution (cf. Cicero, De Oratore 2.351-4)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.93",
+      "source_text": "Iustius Pompeio Magno tribuatur DCCCXLVI naves piratis ademisse.",
+      "question": "Quot naves Pompeius Magnus piratis ademisse a Plinio traditur?",
+      "answer": "DCCCXLVI (octingentas quadraginta sex).",
+      "question_en": "How many ships does Pliny report that Pompey the Great took from the pirates?",
+      "answer_en": "846.",
+      "derivation": "Pompey's capture of 846 pirate ships, the same figure Pliny repeats in the dedicatory inscription at 7.97 (DEPRESSIS AVT CAPTIS NAVIBVS DCCCXLVI). Number-plus-entity fact, single verifiable answer supported verbatim; closed-book and tied to Pompey's famous campaign against the pirates."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.114",
+      "source_text": "Divus Augustus carmina Vergili cremari contra testamenti eius verecundiam vetuit, maiusque ita vati testimonium contigit quam si ipse sua probavisset.",
+      "question": "Quis carmina Vergili, contra poetae testamentum, cremari vetuit, ut Plinius scribit?",
+      "answer": "Divus Augustus.",
+      "question_en": "Who forbade Vergil's poems to be burned, against the poet's own will, as Pliny writes?",
+      "answer_en": "The Deified Augustus.",
+      "derivation": "Augustus countermanded Vergil's testamentary wish that his poems (the Aeneid) be burned. Single named answer supported verbatim (Divus Augustus carmina Vergili cremari ... vetuit); closed-book and iconic in literary history."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.115",
+      "source_text": "M. Varronis in bibliotheca, quae prima in orbe ab Asinio Pollione ex manubiis publicata Romae est, unius viventis posita imago est.",
+      "question": "A quo prima in orbe bibliotheca Romae publicata est, ut Plinius tradit?",
+      "answer": "Ab Asinio Pollione.",
+      "question_en": "By whom, according to Pliny, was the first public library in the world opened at Rome?",
+      "answer_en": "By Asinius Pollio.",
+      "derivation": "Pliny states that the first public library in the world was opened at Rome by Asinius Pollio, funded from war-spoils (ex manubiis). Single named answer supported verbatim; closed-book and recognizable in the history of libraries."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.117",
+      "source_text": "tuum Catilina fugit ingenium; tu M. Antonium praescripsisti. salve primus omnium parens patriae appellate, primus in toga triumphum linguaeque lauream merite et facundiae Latiarumque litterarum parens.",
+      "question": "Quem Plinius primum omnium 'parentem patriae' appellatum esse testatur?",
+      "answer": "M. Tullium Ciceronem.",
+      "question_en": "Whom does Pliny attest to have been the first of all hailed as 'parent of the fatherland'?",
+      "answer_en": "Marcus Tullius Cicero.",
+      "derivation": "Pliny apostrophizes Cicero as the first ever called parens patriae and the first to win a triumph and the laurel of eloquence while in the toga. The addressee is fixed within the quoted text by his enemies Catiline and Antony (and named M. Tulli in the preceding sentence). Single named answer; closed-book and recognizable (Cicero pater/parens patriae). The testatur framing suits a claim particular to Pliny."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.118",
+      "source_text": "sapientia ob id Cati, Corculi apud Romanos cognominati, apud Graecos Socrates, oraculo Apollinis Pythii praelatus cunctis.",
+      "question": "Quem oraculum Apollinis Pythii ob sapientiam cunctis praetulisse Plinius tradit?",
+      "answer": "Socratem.",
+      "question_en": "Whom does Pliny say the oracle of Pythian Apollo preferred to all others for wisdom?",
+      "answer_en": "Socrates.",
+      "derivation": "The Delphic oracle's famous judgment that Socrates was the wisest of all. Single named answer supported verbatim (apud Graecos Socrates, oraculo Apollinis Pythii praelatus cunctis) and reaffirmed at 7.120 (sapientissimo ab Apolline iudicato Socrati). Closed-book and iconic."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.120",
+      "source_text": "Vir optimus semel a condito aevo iudicatus est Scipio Nasica ab iurato senatu, idem in toga candida bis repulsa notatus a populo.",
+      "question": "Quis unus a condito aevo 'vir optimus' ab iurato senatu iudicatus est secundum Plinium?",
+      "answer": "Scipio Nasica.",
+      "question_en": "Who alone since the founding of the city was judged 'the best man' by the senate under oath, according to Pliny?",
+      "answer_en": "Scipio Nasica.",
+      "derivation": "Pliny notes that only once was a man formally judged vir optimus by the sworn senate: Scipio Nasica (chosen to receive the Magna Mater). Single named answer supported verbatim; closed-book and recognizable."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.125",
+      "source_text": "Dinochares metatus Alexandro condente in Aegypto Alexandriam. idem hic imperator edixit ne quis ipsum alius quam Apelles pingeret, quam Pyrgoteles scalperet, quam Lysippus ex aere duceret.",
+      "question": "Quem solum Alexander Magnus edicto imaginem suam pingere permisit?",
+      "answer": "Apellem.",
+      "question_en": "Whom alone did Alexander the Great permit by edict to paint his portrait?",
+      "answer_en": "Apelles.",
+      "derivation": "Alexander's edict reserving his likeness to three artists: Apelles (painting), Pyrgoteles (gem-engraving), Lysippus (bronze). For painting the single named answer is Apelles, supported verbatim. The source names Alexandro so 'idem hic imperator' is unambiguous. Closed-book: Apelles as Alexander's only painter is a stock fact of art history."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.125",
+      "source_text": "Grande et Archimedi geometricae ac machinalis scientiae testimonium M. Marcelli contigit interdicto, cum Syracusae caperentur, ne violarentur unus, nisi fefellisset imperium militaris inprudentia.",
+      "question": "Quem unum Marcellus, captis Syracusis, violari vetuit, ut Plinius tradit?",
+      "answer": "Archimeden.",
+      "question_en": "Whom alone did Marcellus forbid to be harmed when Syracuse was captured, according to Pliny?",
+      "answer_en": "Archimedes.",
+      "derivation": "When Syracuse fell, Marcellus ordered that Archimedes alone be spared (he was nonetheless killed through a soldier's ignorance). Two recognizable entities, single named answer (Archimedes) supported verbatim by ne violarentur unus. Closed-book and famous."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.127",
+      "source_text": "Phidiae Iuppiter Olympius cotidie testimonium perhibet, Mentori Capitolinus et Diana Ephesia, quibus fuere consecrata artis eius vasa.",
+      "question": "Cuius artificis opus est Iuppiter Olympius, ut Plinius tradit?",
+      "answer": "Phidiae.",
+      "question_en": "Whose work is the Olympian Jupiter (Zeus), according to Pliny?",
+      "answer_en": "Phidias's.",
+      "derivation": "The chryselephantine Olympian Zeus (one of the Seven Wonders) is the work of Phidias; Pliny says it bears daily witness to his skill. Single named answer supported verbatim (Phidiae Iuppiter Olympius cotidie testimonium perhibet); closed-book and iconic."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.127",
+      "source_text": "Praxiteles marmore nobilitatus est Cnidiaque Venere praecipue vesano amore cuiusdam iuvenis insigni et Nicomedis aestimatione regis grandi Cnidiorum aere alieno permutare eam conati.",
+      "question": "Quo praecipue signo marmoreo Praxiteles nobilitatus est secundum Plinium?",
+      "answer": "Cnidia Venere.",
+      "question_en": "By which marble statue especially was Praxiteles made famous, according to Pliny?",
+      "answer_en": "By the Cnidian Venus (Aphrodite of Cnidus).",
+      "derivation": "Praxiteles' most celebrated work, the Aphrodite of Cnidus. Single answer (Cnidia Venus) supported verbatim by marmore nobilitatus est Cnidiaque Venere praecipue; closed-book and a landmark of ancient sculpture."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.137",
+      "source_text": "unus hominum ad hoc aevi Felicis sibi cognomen adseruit L. Sulla, civili nempe sanguine ac patriae oppugnatione adoptatus.",
+      "question": "Quis solus cognomen 'Felicis' sibi adseruisse a Plinio dicitur?",
+      "answer": "L. Sulla.",
+      "question_en": "Who alone, according to Pliny, claimed for himself the surname 'Felix'?",
+      "answer_en": "Lucius Sulla.",
+      "derivation": "Pliny notes that down to his own day Sulla alone had claimed the cognomen Felix ('the Fortunate'). Single named answer supported verbatim; closed-book and recognizable (Sulla Felix)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.192",
+      "source_text": "Litteras semper arbitror Assyrias fuisse, sed alii apud Aegyptios a Mercurio, ut Gellius, alii apud Syros repertas volunt, utrique in Graeciam attulisse e Phoenice Cadmum sedecim numero.",
+      "question": "Quis litteras, numero sedecim, e Phoenice in Graeciam attulisse a Plinio traditur?",
+      "answer": "Cadmus.",
+      "question_en": "Who, according to Pliny, brought letters - sixteen in number - from Phoenicia into Greece?",
+      "answer_en": "Cadmus.",
+      "derivation": "The iconic tradition that Cadmus brought the alphabet from Phoenicia to Greece. Although the origin of letters is disputed in the passage (Assyrian / Egyptian / Syrian), Pliny notes both schools agree (utrique) that Cadmus brought sixteen of them from Phoenicia to Greece. Single named answer supported verbatim; closed-book and among the best-known facts of cultural history."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.200",
+      "source_text": "regiam civitatem Aegyptii, popularem Attici post Theseum. tyrannus primus fuit Phalaris Agraganti.",
+      "question": "Quis primus omnium tyrannus fuisse a Plinio traditur?",
+      "answer": "Phalaris Agraganti.",
+      "question_en": "Who, according to Pliny, was the first tyrant of all?",
+      "answer_en": "Phalaris of Acragas (Agrigentum).",
+      "derivation": "In the catalogue of firsts Pliny names Phalaris of Acragas (notorious for his brazen bull) as the first tyrant. Single named answer supported verbatim (tyrannus primus fuit Phalaris Agraganti); closed-book and recognizable."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.202",
+      "source_text": "bigas prima iunxit Phrygum natio, quadrigas Erichthonius.",
+      "question": "Quis quadrigas primus iunxisse a Plinio traditur?",
+      "answer": "Erichthonius.",
+      "question_en": "Who, according to Pliny, first yoked the four-horse chariot (quadriga)?",
+      "answer_en": "Erichthonius.",
+      "derivation": "In the catalogue of inventors Pliny credits the quadriga to Erichthonius (the two-horse biga to the Phrygians). The clause has a single claimant, no rival (no 'ut alii'); supported verbatim. Closed-book and recognizable (Erichthonius and the four-horse chariot)."
+    }
+  ]
+}
