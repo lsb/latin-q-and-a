@@ -1,0 +1,124 @@
+{
+  "source": "text/tacitus/tac.ann12.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber XII",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 12.1",
+      "source_text": "sed maxime ambigebatur inter Lolliam Paulinam M. Lollii consularis et Iuliam Agrippinam Germanico genitam: huic Pallas, illi Callistus fautores aderant; at Aelia Paetina e familia Tuberonum Narcisso fovebatur.",
+      "question": "Cuius filia erat Iulia Agrippina, quam Claudius in matrimonium duxit?",
+      "answer": "Germanici.",
+      "question_en": "Whose daughter was Julia Agrippina, whom Claudius married?",
+      "answer_en": "Germanicus's.",
+      "derivation": "Anchored to Agrippina + her marriage to Claudius; single named parent, supported verbatim by 'Iuliam Agrippinam Germanico genitam'. The marriage itself is established at 12.5. Closed-book: Agrippina the Younger as the daughter of Germanicus (and mother of Nero) is a stock fact of Julio-Claudian genealogy."
+    },
+    {
+      "locus": "Tacitus, Annales 12.5",
+      "source_text": "C. Pompeio Q. Veranio consulibus pactum inter Claudium et Agrippinam matrimonium iam fama, iam amore inlicito firmabatur; necdum celebrare sollemnia nuptiarum audebant, nullo exemplo deductae in domum patrui fratris filiae",
+      "question": "Quam, fratris sui filiam, contra veterem morem Claudius uxorem duxit?",
+      "answer": "Agrippinam.",
+      "question_en": "Whom, his brother's daughter, did Claudius take as wife against old custom?",
+      "answer_en": "Agrippina.",
+      "derivation": "Anchored to Claudius; the notorious fact that he married his brother's daughter (his niece). Supported by 'inter Claudium et Agrippinam matrimonium' and 'deductae in domum patrui fratris filiae'. Closed-book: Claudius's marriage to his niece Agrippina, which required a special senatorial decree (12.7), is among the best-known facts of his reign."
+    },
+    {
+      "locus": "Tacitus, Annales 12.3",
+      "source_text": "nam ubi sui matrimonii certa fuit, struere maiora nuptiasque Domitii, quem ex Cn. Ahenobarbo genuerat, et Octaviae Caesaris filiae moliri",
+      "question": "Ex quo viro Agrippina Domitium, qui postea Nero appellatus est, genuerat, ut Tacitus tradit?",
+      "answer": "Ex Cn. Ahenobarbo.",
+      "question_en": "By which man had Agrippina borne Domitius, who was later named Nero, according to Tacitus?",
+      "answer_en": "By Cnaeus Ahenobarbus.",
+      "derivation": "Anchored to Agrippina + Domitius (the future Nero); single named father, supported by 'Domitii, quem ex Cn. Ahenobarbo genuerat'. Subject of 'genuerat' is Agrippina (12.3). Closed-book: Nero's natural father, Cn. Domitius Ahenobarbus, is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Annales 12.8",
+      "source_text": "at Agrippina ne malis tantum facinoribus notesceret veniam exilii pro Annaeo Seneca, simul praeturam impetrat, laetum in publicum rata ob claritudinem studiorum eius, utque Domitii pueritia tali magistro adolesceret",
+      "question": "Cuius philosophi exilio Agrippina finem impetravit, ut Domitii educator esset?",
+      "answer": "Annaei Senecae.",
+      "question_en": "Whose exile did Agrippina have ended, so that he might be Domitius's tutor?",
+      "answer_en": "Annaeus Seneca's.",
+      "derivation": "Anchored to Agrippina + Domitius (Nero); single named person, supported by 'veniam exilii pro Annaeo Seneca ... impetrat ... utque Domitii pueritia tali magistro adolesceret'. Closed-book: Seneca's recall from exile by Agrippina to tutor the young Nero is a famous fact."
+    },
+    {
+      "locus": "Tacitus, Annales 12.26",
+      "source_text": "rogataque lex qua in familiam Claudiam et nomen Neronis transiret. augetur et Agrippina cognomento Augustae.",
+      "question": "Quod nomen Domitius, in familiam Claudiam adoptatus, lege rogata accepit?",
+      "answer": "Nomen Neronis.",
+      "question_en": "What name did Domitius receive, when by a proposed law he was adopted into the Claudian family?",
+      "answer_en": "The name Nero.",
+      "derivation": "Anchored to Domitius + his adoption into the Claudian family; single name, supported verbatim by 'lex qua in familiam Claudiam et nomen Neronis transiret'. Closed-book: that Agrippina's son was adopted by Claudius and took the name Nero is among the best-known facts of the period."
+    },
+    {
+      "locus": "Tacitus, Annales 12.32",
+      "source_text": "colonia Camulodunum valida veteranorum manu deducitur in agros captivos, subsidium adversus rebellis et imbuendis sociis ad officia legum.",
+      "question": "Quae colonia in Britannia valida veteranorum manu in agros captivos deducta est?",
+      "answer": "Camulodunum.",
+      "question_en": "What colony in Britain was settled with a strong body of veterans on captured lands?",
+      "answer_en": "Camulodunum.",
+      "derivation": "Anchored to Britain + a colony of veterans; single named place, supported verbatim by 'colonia Camulodunum valida veteranorum manu deducitur in agros captivos'. Closed-book: Camulodunum (Colchester), the first Roman colony in Britain, is a well-known fact."
+    },
+    {
+      "locus": "Tacitus, Annales 12.36",
+      "source_text": "Ipse, ut ferme intuta sunt adversa, cum fidem Cartimanduae reginae Brigantum petivisset, vinctus ac victoribus traditus est, nono post anno quam bellum in Britannia coeptum.",
+      "question": "Cuius reginae Brigantum fide petita Caratacus vinctus victoribus traditus est?",
+      "answer": "Cartimanduae.",
+      "question_en": "On seeking the protection of which queen of the Brigantes was Caratacus put in chains and handed over to the victors?",
+      "answer_en": "Cartimandua's.",
+      "derivation": "'Ipse' = Caratacus, the British leader of 12.33-35. Anchored to Caratacus + the Brigantes; single named queen, supported by 'fidem Cartimanduae reginae Brigantum petivisset, vinctus ac victoribus traditus est'. Closed-book: Cartimandua's betrayal of Caratacus is a well-known episode."
+    },
+    {
+      "locus": "Tacitus, Annales 12.36",
+      "source_text": "Ipse, ut ferme intuta sunt adversa, cum fidem Cartimanduae reginae Brigantum petivisset, vinctus ac victoribus traditus est, nono post anno quam bellum in Britannia coeptum.",
+      "question": "Quoto post anno, quam bellum in Britannia coeptum erat, Caratacus captus est, ut Tacitus tradit?",
+      "answer": "Nono.",
+      "question_en": "In which year after the war in Britain had begun was Caratacus captured, according to Tacitus?",
+      "answer_en": "The ninth.",
+      "derivation": "Anchored to Caratacus + the British war; single number, supported by 'nono post anno quam bellum in Britannia coeptum'. Reflects his years-long resistance to Rome (cf. 'quis ille tot per annos opes nostras sprevisset', 12.36). Closed-book number fact."
+    },
+    {
+      "locus": "Tacitus, Annales 12.37",
+      "source_text": "ad ea Caesar veniam ipsique et coniugi et fratribus tribuit.",
+      "question": "Quid Claudius Carataco captivo eiusque coniugi et fratribus tribuit?",
+      "answer": "Veniam.",
+      "question_en": "What did Claudius grant to the captured Caratacus and to his wife and brothers?",
+      "answer_en": "Pardon.",
+      "derivation": "'ipsi' = Caratacus, who has just made his famous speech before Claudius (12.36-37); 'Caesar' = Claudius. Anchored to Caratacus + his family; single fact, supported verbatim by 'Caesar veniam ipsique et coniugi et fratribus tribuit'. Closed-book: Claudius's pardon of Caratacus after his speech is a stock episode."
+    },
+    {
+      "locus": "Tacitus, Annales 12.42",
+      "source_text": "ni praetoriarum cohortium cura exolverentur Lusius Geta et Rufrius Crispinus, quos Messalinae memores et liberis eius devinctos credebat. igitur distrahi cohortis ambitu duorum et, si ab uno regerentur, intentiorem fore disciplinam adseverante uxore, transfertur regimen cohortium ad Burrum Afranium, egregiae militaris famae",
+      "question": "Ad quem unum praefectum regimen praetoriarum cohortium, Agrippina suadente, translatum est?",
+      "answer": "Ad Burrum Afranium.",
+      "question_en": "To which single prefect was command of the praetorian cohorts transferred, at Agrippina's urging?",
+      "answer_en": "To Afranius Burrus.",
+      "derivation": "Anchored to the praetorian cohorts + Agrippina ('uxore'); single named prefect, supported verbatim by 'transfertur regimen cohortium ad Burrum Afranium'. Closed-book: Afranius Burrus as sole praetorian prefect under Agrippina and Nero is well-known."
+    },
+    {
+      "locus": "Tacitus, Annales 12.58",
+      "source_text": "D. Iunio Q. Haterio consulibus sedecim annos natus Nero Octaviam Caesaris filiam in matrimonium accepit.",
+      "question": "Quam, Claudii filiam, Nero sedecim annos natus in matrimonium accepit?",
+      "answer": "Octaviam.",
+      "question_en": "Whom, the daughter of Claudius, did Nero marry at sixteen years old?",
+      "answer_en": "Octavia.",
+      "derivation": "Anchored to Nero + the daughter of Claudius ('Caesaris filiam'); single named person, supported verbatim by 'Nero Octaviam Caesaris filiam in matrimonium accepit'. Closed-book: Nero's marriage to Octavia, daughter of Claudius, is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Annales 12.67",
+      "source_text": "Adeoque cuncta mox pernotuere ut temporum illorum scriptores prodiderint infusum delectabili boleto venenum, nec vim medicaminis statim intellectam, socordiane an Claudii vinolentia",
+      "question": "Quo cibo, ut temporum scriptores prodiderunt, venenum Claudio infusum est?",
+      "answer": "Boleto.",
+      "question_en": "In what food, as the writers of the time recorded, was the poison administered to Claudius?",
+      "answer_en": "In a mushroom.",
+      "derivation": "Anchored to Claudius's death; single named vehicle, supported by 'infusum delectabili boleto venenum' ('Claudii' named in the same sentence). Closed-book: the poisoned mushroom that killed Claudius is among the most famous facts of his death."
+    },
+    {
+      "locus": "Tacitus, Annales 12.69",
+      "source_text": "inlatusque castris Nero et congruentia tempori praefatus, promisso donativo ad exemplum paternae largitionis, imperator consalutatur.",
+      "question": "Quis, Claudio mortuo, in castra praetoria inlatus imperator consalutatus est?",
+      "answer": "Nero.",
+      "question_en": "Who, on the death of Claudius, was carried into the praetorian camp and hailed as imperator?",
+      "answer_en": "Nero.",
+      "derivation": "Anchored to Claudius's death + the praetorian camp; single named successor, supported verbatim by 'inlatusque castris Nero ... imperator consalutatus'. Closed-book: Nero's accession on the death of Claudius (AD 54) is among the best-known successions in Roman history."
+    }
+  ]
+}
