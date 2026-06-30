@@ -1,0 +1,88 @@
+{
+  "source": "text/caesar/hisp.txt",
+  "author": "Auctor incertus (Corpus Caesarianum)",
+  "work": "De Bello Hispaniensi",
+  "pairs": [
+    {
+      "locus": "De Bello Hispaniensi 27",
+      "source_text": "Hinc itinere facto in campum Mundensem cum esset ventum, castra contra Pompeium constituit.",
+      "question": "In quo campo Caesar contra Cn. Pompeium castra constituit, ubi postremum magnumque proelium belli Hispaniensis commissum est?",
+      "answer": "In campo Mundensi.",
+      "question_en": "In which plain did Caesar pitch camp opposite Gnaeus Pompeius, where the last great battle of the Spanish war was fought?",
+      "answer_en": "In the plain of Munda.",
+      "derivation": "Place fact anchored to Caesar against Cn. Pompeius (Pompey the Great's elder son). Supported verbatim by 'in campum Mundensem cum esset ventum, castra contra Pompeium constituit'. The campus Mundensis is Munda, site of Caesar's decisive final pitched battle of the civil war (45 BC); closed-book."
+    },
+    {
+      "locus": "De Bello Hispaniensi 31",
+      "source_text": "In quo proelio ceciderunt milia hominum circiter XXX et siquid amplius, praeterea Labienus, Attius Varus, quibus occisis utrisque funus est factum, itemque equites Romani partim ex urbe, partim ex provincia ad milia III.",
+      "question": "Quis dux Pompeianus, olim Caesaris in Gallia legatus, in proelio Mundensi una cum Attio Varo cecidit?",
+      "answer": "Labienus.",
+      "question_en": "Which Pompeian commander, once Caesar's legate in Gaul, fell in the battle of Munda together with Attius Varus?",
+      "answer_en": "Labienus.",
+      "derivation": "Name fact anchored to T. Labienus and the battle of Munda. Supported verbatim by 'praeterea Labienus, Attius Varus, quibus occisis utrisque funus est factum'. The death of Labienus, Caesar's former chief legate in Gaul who defected to Pompey, at Munda is closed-book."
+    },
+    {
+      "locus": "De Bello Hispaniensi 31",
+      "source_text": "In quo proelio ceciderunt milia hominum circiter XXX et siquid amplius, praeterea Labienus, Attius Varus, quibus occisis utrisque funus est factum, itemque equites Romani partim ex urbe, partim ex provincia ad milia III.",
+      "question": "Quot fere hominum milia ex adversariis in proelio Mundensi ceciderunt?",
+      "answer": "Circiter triginta milia.",
+      "question_en": "About how many thousands of the enemy fell in the battle of Munda?",
+      "answer_en": "About thirty thousand.",
+      "derivation": "Number fact anchored to the battle of Munda. Supported verbatim by 'ceciderunt milia hominum circiter XXX et siquid amplius'; 'fere' mirrors the source's approximative 'circiter'. The roughly thirty thousand Pompeian dead at Munda are closed-book."
+    },
+    {
+      "locus": "De Bello Hispaniensi 31",
+      "source_text": "Ita ipsis Liberalibus fusi fugatique non superfuissent, nisi in eum locum confugissent, ex quo erant egressi.",
+      "question": "Quo die festo Cn. Pompei copiae in proelio Mundensi fusae fugataeque sunt?",
+      "answer": "Liberalibus.",
+      "question_en": "On what festival day were Pompeius's forces routed in the battle of Munda?",
+      "answer_en": "On the Liberalia.",
+      "derivation": "Date fact anchored to the battle of Munda. Supported verbatim by 'ipsis Liberalibus fusi fugatique'. Munda was fought on the Liberalia, 17 March 45 BC; the festival dating of the battle is closed-book."
+    },
+    {
+      "locus": "De Bello Hispaniensi 7",
+      "source_text": "Aquilas et signa habuit XIII legionum; sed ex quibus aliquid firmamenti se existimabat habere duae fuerunt vernaculae, quae a Trebonio transfugerant",
+      "question": "Quot legionum aquilas et signa Cn. Pompeius in bello Hispaniensi habuit?",
+      "answer": "Tredecim.",
+      "question_en": "The eagles and standards of how many legions did Gnaeus Pompeius have in the Spanish war?",
+      "answer_en": "Thirteen.",
+      "derivation": "Number fact anchored to Cn. Pompeius's army. Supported verbatim by 'Aquilas et signa habuit XIII legionum'. The thirteen-legion Pompeian army Caesar faced at Munda is closed-book for this campaign; the same thirteen eagles are later reported captured."
+    },
+    {
+      "locus": "De Bello Hispaniensi 3",
+      "source_text": "Erat idem temporis Sex. Pompeius frater qui cum praesidio Cordubam tenebat, quod eius provinciae caput esse existimabatur",
+      "question": "Quod oppidum, a Sex. Pompeio cum praesidio tentum, caput Hispaniae ulterioris esse existimabatur?",
+      "answer": "Corduba.",
+      "question_en": "Which town, held with a garrison by Sextus Pompeius, was considered the capital of Further Spain?",
+      "answer_en": "Corduba.",
+      "derivation": "Place fact anchored to Sextus Pompeius (Pompey the Great's younger son) and the province. Supported verbatim by 'Cordubam tenebat, quod eius provinciae caput esse existimabatur'. That Corduba was the capital of Hispania Ulterior, garrisoned by Sextus, is closed-book."
+    },
+    {
+      "locus": "De Bello Hispaniensi 32",
+      "source_text": "Cn. Pompeius cum equitibus paucis nonnullisque peditibus ad navale praesidium Carteiam contendit, quod oppidum abest ab Corduba milia passuum CLXX.",
+      "question": "Ad quod oppidum maritimum Cn. Pompeius adulescens post cladem Mundensem cum paucis confugit?",
+      "answer": "Ad Carteiam.",
+      "question_en": "To which coastal town did Gnaeus Pompeius the younger flee with a few men after the disaster at Munda?",
+      "answer_en": "To Carteia.",
+      "derivation": "Place fact anchored to Cn. Pompeius and the aftermath of Munda. Supported verbatim by 'ad navale praesidium Carteiam contendit'. That the defeated elder son of Pompey fled to the naval base of Carteia is closed-book."
+    },
+    {
+      "locus": "De Bello Hispaniensi 32",
+      "source_text": "Cn. Pompeius cum equitibus paucis nonnullisque peditibus ad navale praesidium Carteiam contendit, quod oppidum abest ab Corduba milia passuum CLXX.",
+      "question": "Quot milia passuum oppidum Carteia ab Corduba abesse auctor tradit?",
+      "answer": "Centum septuaginta milia.",
+      "question_en": "How many miles does the author record that the town of Carteia is distant from Corduba?",
+      "answer_en": "One hundred and seventy miles.",
+      "derivation": "Distance fact anchored to two named towns, Carteia and Corduba. Supported verbatim by 'abest ab Corduba milia passuum CLXX'; framed with 'auctor tradit' as the author's own datum (CLXX = 170)."
+    },
+    {
+      "locus": "De Bello Hispaniensi 39",
+      "source_text": "Exclusus a munitione amissisque auxiliis ad convallem exesumque locum in speluncam Pompeius se occultare coepit, ut a nostris non facile inveniretur nisi captivorum indicio. Ita ibi interficitur. Cum Caesar Gadibus fuisset, Hispalim pridie Idus Apriles caput adlatum et populo datum est in conspectum.",
+      "question": "In quam urbem caput Cn. Pompei adulescentis interfecti adlatum et populo in conspectum datum est?",
+      "answer": "Hispalim.",
+      "question_en": "Into which city was the head of the slain Gnaeus Pompeius the younger brought and shown to the people?",
+      "answer_en": "To Hispalis.",
+      "derivation": "Place and name fact anchored to Cn. Pompeius. After Munda he was hunted down, hid in a cave, and was killed; supported verbatim by 'in speluncam Pompeius se occultare coepit ... Ita ibi interficitur. ... Hispalim ... caput adlatum et populo datum est in conspectum'. The killing of Pompey the Great's elder son and the display of his head at Hispalis is closed-book."
+    }
+  ]
+}
