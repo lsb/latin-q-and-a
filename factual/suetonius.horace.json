@@ -1,0 +1,106 @@
+{
+  "source": "text/suetonius/suet.horace.txt",
+  "author": "Suetonius (Vita Horati)",
+  "work": "Vita Horati (Suetonius)",
+  "pairs": [
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Q. HORATIUS FLACCUS, Venusinus, patre ut ipse tradit libertino et exactionum coactore",
+      "question": "Unde oriundus erat Horatius poeta?",
+      "answer": "Venusia (Venusinus erat).",
+      "question_en": "Where was the poet Horace from?",
+      "answer_en": "Venusia (he was a Venusine).",
+      "derivation": "Origin fact, supported verbatim by the opening ethnic 'Venusinus' (= of Venusia). Anchored to Horace, single place answer; his birth at Venusia is a canonical, closed-book fact of Latin literary biography."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Q. HORATIUS FLACCUS, Venusinus, patre ut ipse tradit libertino et exactionum coactore",
+      "question": "Cuius condicionis fuit pater Horati, ut ipse poeta tradit?",
+      "answer": "Libertinus (et exactionum coactor).",
+      "question_en": "What was the status of Horace's father, as the poet himself reports?",
+      "answer_en": "A freedman (and a collector of payments).",
+      "derivation": "Father's status fact, supported verbatim ('patre ... libertino et exactionum coactore'). Anchored to Horace; the attribution 'ut ipse poeta tradit' mirrors the source's 'ut ipse tradit'. That Horace's father was a freedman is among the best-known facts about the poet, hence closed-book."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "bello Philippensi excitus a Marco Bruto imperatore, tribunus militum meruit; victisque partibus venia impetrata scriptum quaestorium comparavit.",
+      "question": "Quo munere militari Horatius bello Philippensi sub Marco Bruto functus est?",
+      "answer": "Tribunus militum.",
+      "question_en": "What military office did Horace hold at the war of Philippi under Marcus Brutus?",
+      "answer_en": "Military tribune.",
+      "derivation": "Office fact, supported verbatim ('tribunus militum meruit'). Anchored to Horace, Philippi and Brutus; single office answer. Horace's tribunate at Philippi is a standard biographical fact, hence closed-book."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "bello Philippensi excitus a Marco Bruto imperatore, tribunus militum meruit; victisque partibus venia impetrata scriptum quaestorium comparavit.",
+      "question": "Sub quo imperatore Horatius bello Philippensi tribunus militum meruit?",
+      "answer": "Sub Marco Bruto.",
+      "question_en": "Under what commander did Horace serve as a military tribune in the war of Philippi?",
+      "answer_en": "Under Marcus Brutus.",
+      "derivation": "Commander fact, supported verbatim ('excitus a Marco Bruto imperatore'). Anchored to Horace and Philippi; single-name answer. That Horace fought on the Republican side under Brutus at Philippi is a famous, closed-book fact."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Augustus epistolarum quoque ei officium optulit, ut hoc ad Maecenatem scripto significat:",
+      "question": "Quod officium Augustus poetae Horatio obtulit?",
+      "answer": "Epistolarum officium (officium ab epistulis).",
+      "question_en": "What office did Augustus offer the poet Horace?",
+      "answer_en": "The office of (his) secretary, in charge of his correspondence.",
+      "derivation": "Office-offer fact, supported verbatim ('Augustus epistolarum quoque ei officium optulit'). Anchored to Augustus and Horace; the post of imperial secretary 'ab epistulis'. Horace declined it ('ne recusanti quidem aut suscensuit'), a well-known anecdote, hence closed-book."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Scripta quidem eius usque adeo probavit mansuraque perpetuo opinatus est, ut non modo Saeculare carmen componendum iniunxerit sed et Vindelicam victoriam Tiberii Drusique, privignorum suorum, eumque coegerit propter hoc tribus Carminum libris ex longo intervallo quartum addere;",
+      "question": "Quod carmen Augustus Horatio componendum iniunxit?",
+      "answer": "Carmen Saeculare.",
+      "question_en": "What poem did Augustus charge Horace with composing?",
+      "answer_en": "The Carmen Saeculare (Secular Hymn).",
+      "derivation": "Commission fact, supported verbatim ('Saeculare carmen componendum iniunxerit'); the subject of 'iniunxerit' is Augustus, established in the preceding context. Anchored to Augustus and Horace; that Augustus commissioned the Carmen Saeculare for the Secular Games is a canonical, closed-book fact."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Natus est VI Idus Decembris L. Cotta et L. Torquato consulibus, decessit V Kl. Decembris C. Marcio Censorino et C. Asinio Gallo consulibus post nonum et quinquagesimum diem quam Maecenas obierat, aetatis agens septimum et quinquagesimum annum, herede Augusto palam nuncupato, cum urgente vi valitudinis non sufficeret ad obsignandas testamenti tabulas.",
+      "question": "Quibus consulibus Horatius poeta decessit?",
+      "answer": "C. Marcio Censorino et C. Asinio Gallo.",
+      "question_en": "In whose consulship did the poet Horace die?",
+      "answer_en": "When Gaius Marcius Censorinus and Gaius Asinius Gallus were consuls.",
+      "derivation": "Death-year fact (8 BC), supported verbatim ('decessit ... C. Marcio Censorino et C. Asinio Gallo consulibus'). Anchored to Horace, named consular pair; the consular dating frame parallels the reference Virgil file. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Natus est VI Idus Decembris L. Cotta et L. Torquato consulibus, decessit V Kl. Decembris C. Marcio Censorino et C. Asinio Gallo consulibus post nonum et quinquagesimum diem quam Maecenas obierat, aetatis agens septimum et quinquagesimum annum, herede Augusto palam nuncupato, cum urgente vi valitudinis non sufficeret ad obsignandas testamenti tabulas.",
+      "question": "Quotum aetatis annum agens Horatius decessit?",
+      "answer": "Septimum et quinquagesimum.",
+      "question_en": "In what year of his life did Horace die?",
+      "answer_en": "In his fifty-seventh year.",
+      "derivation": "Age-at-death fact, supported verbatim ('aetatis agens septimum et quinquagesimum annum'). Anchored to Horace; single ordinal-number answer. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Natus est VI Idus Decembris L. Cotta et L. Torquato consulibus, decessit V Kl. Decembris C. Marcio Censorino et C. Asinio Gallo consulibus post nonum et quinquagesimum diem quam Maecenas obierat, aetatis agens septimum et quinquagesimum annum, herede Augusto palam nuncupato, cum urgente vi valitudinis non sufficeret ad obsignandas testamenti tabulas.",
+      "question": "Post quotum diem ab obitu Maecenatis Horatius decessit?",
+      "answer": "Post nonum et quinquagesimum diem.",
+      "question_en": "How many days after the death of Maecenas did Horace die?",
+      "answer_en": "On the fifty-ninth day after (59 days later).",
+      "derivation": "Fact that Horace died shortly after Maecenas, supported verbatim ('post nonum et quinquagesimum diem quam Maecenas obierat'). Anchored to Horace and Maecenas; single number answer mirroring the source. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Natus est VI Idus Decembris L. Cotta et L. Torquato consulibus, decessit V Kl. Decembris C. Marcio Censorino et C. Asinio Gallo consulibus post nonum et quinquagesimum diem quam Maecenas obierat, aetatis agens septimum et quinquagesimum annum, herede Augusto palam nuncupato, cum urgente vi valitudinis non sufficeret ad obsignandas testamenti tabulas.",
+      "question": "Quem Horatius heredem palam nuncupavit, cum testamenti tabulas obsignare non posset?",
+      "answer": "Augustum.",
+      "question_en": "Whom did Horace name as heir by word of mouth, since he could not sign the tablets of his will?",
+      "answer_en": "Augustus.",
+      "derivation": "Inheritance fact, supported verbatim ('herede Augusto palam nuncupato, cum ... non sufficeret ad obsignandas testamenti tabulas'). Anchored to Horace and Augustus; single-name answer; the oral nuncupation because too weak to sign is the precise detail Suetonius gives. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Vita Horati",
+      "source_text": "Humatus et conditus est extremis Esquiliis iuxta Maecenatis tumulum.",
+      "question": "Iuxta cuius tumulum Horatius in extremis Esquiliis humatus est?",
+      "answer": "Iuxta Maecenatis tumulum.",
+      "question_en": "Beside whose tomb was Horace buried at the far end of the Esquiline?",
+      "answer_en": "Beside the tomb of Maecenas.",
+      "derivation": "Burial fact, supported verbatim ('Humatus et conditus est extremis Esquiliis iuxta Maecenatis tumulum'). Anchored to Horace, Maecenas and the Esquiline; single-name answer. That Horace was buried next to Maecenas is a recognizable, closed-book fact."
+    }
+  ]
+}
