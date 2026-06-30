@@ -1,0 +1,151 @@
+{
+  "source": "text/pliny.nh4.txt",
+  "author": "Pliny the Elder",
+  "work": "Naturalis Historia, liber IV",
+  "pairs": [
+    {
+      "locus": "Plinius, Naturalis Historia 4.2",
+      "source_text": "Molossi, apud quos Dodonaei Iovis templum oraculo inlustre",
+      "question": "Apud quam Epiri gentem templum Dodonaei Iovis, oraculo inlustre, situm esse Plinius tradit?",
+      "answer": "Apud Molossos.",
+      "question_en": "Among which people of Epirus does Pliny say the temple of Dodonaean Jupiter, famous for its oracle, is located?",
+      "answer_en": "Among the Molossi.",
+      "derivation": "The famous oracle and temple of Dodonaean Jupiter lies among the Molossi of Epirus. Anchored to Dodona plus Jupiter's oracle; single named-people answer supported verbatim by Molossi, apud quos Dodonaei Iovis templum oraculo inlustre. Closed-book: Dodona is among the most famous Greek oracles. Indirect statement templum situm esse governed by tradit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.7",
+      "source_text": "a quo VII p. introrsus liberum oppidum Delphi sub monte Parnaso, clarissimi in terris oraculi Apollinis.",
+      "question": "Sub quo monte oppidum Delphi, cum clarissimo Apollinis oraculo, situm esse Plinius tradit?",
+      "answer": "Sub monte Parnaso.",
+      "question_en": "Under which mountain does Pliny say the town of Delphi, with its most famous oracle of Apollo, is situated?",
+      "answer_en": "Under Mount Parnassus.",
+      "derivation": "The location of Delphi, seat of the most famous oracle of Apollo, beneath Mount Parnassus. Anchored to Delphi plus Apollo's oracle; single named-mountain answer supported verbatim by Delphi sub monte Parnaso. Closed-book, iconic. Indirect statement oppidum situm esse governed by tradit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.9",
+      "source_text": "Peloponnesus, Apia antea appellata et Pelasgia, paeninsula haut ulli terrae nobilitate postferenda, inter duo maria Aegeum et Ionium, platani folio similis propter angulosos recessus, circuitu DLXIII p. colligit auctore Isidoro.",
+      "question": "Cui folio Peloponnesum propter angulosos recessus similem esse Plinius scribit?",
+      "answer": "Folio platani.",
+      "question_en": "To which leaf does Pliny say the Peloponnese is similar, on account of its angular indentations?",
+      "answer_en": "To a plane-tree leaf.",
+      "derivation": "Pliny's well-known simile for the shape of the Peloponnese (a plane-tree leaf), paralleling the oak-leaf simile for Italy in Book III. Anchored to the Peloponnese; short answer (folio platani) supported verbatim by platani folio similis. Indirect statement Peloponnesum similem esse governed by scribit; closed-book, recognizable geographic image."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.14",
+      "source_text": "intus delubrum Olympii Iovis, ludorum claritate fastos Graeciae complexum, Pisaeorum quondam oppidum, praefluente Alpheo amne.",
+      "question": "Quo amne praefluente delubrum Olympii Iovis, ludorum claritate nobile, situm esse Plinius tradit?",
+      "answer": "Alpheo amne.",
+      "question_en": "By which river flowing past does Pliny say the temple of Olympian Jupiter, famous for its games, stands?",
+      "answer_en": "By the river Alpheus.",
+      "derivation": "Olympia, site of the temple of Olympian Jupiter and the Olympic games, lies by the river Alpheus. Anchored to Olympian Jupiter plus the games; single named-river answer supported verbatim by praefluente Alpheo amne. Closed-book, iconic (the Alpheus of Olympia). Ablative absolute in question; indirect statement delubrum situm esse governed by tradit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.30",
+      "source_text": "et ante cunctos claritate Penius, ortos iuxta Gomphos interque Ossam et Olympum nemorosa convalle defluens D stadiis, dimidio eius spatii navigabilis.",
+      "question": "Inter quos montes Penium amnem nemorosa convalle defluere Plinius tradit?",
+      "answer": "Inter Ossam et Olympum.",
+      "question_en": "Between which two mountains does Pliny say the river Peneus flows through a wooded valley?",
+      "answer_en": "Between Ossa and Olympus.",
+      "derivation": "The river Peneus runs through a wooded valley (the Vale of Tempe) between Mounts Ossa and Olympus in Thessaly. Anchored to the Peneus; two named mountains as answer, supported verbatim by interque Ossam et Olympum nemorosa convalle defluens. Closed-book, iconic (Tempe; the two great mountains of Thessaly). Indirect statement Penium defluere governed by tradit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.37",
+      "source_text": "fretum, quo montem Atho Xerxes Persarum rex continenti abscidit in longitudinem passuum MD.",
+      "question": "Qui Persarum rex montem Atho freto a continenti abscidisse a Plinio traditur?",
+      "answer": "Xerxes.",
+      "question_en": "Which king of the Persians is said by Pliny to have cut Mount Athos off from the mainland by a channel?",
+      "answer_en": "Xerxes.",
+      "derivation": "Xerxes' famous canal severing Mount Athos from the mainland. Anchored to Mount Athos plus the Persian king; single named-person answer supported verbatim by Xerxes Persarum rex ... abscidit. Closed-book, iconic engineering feat. Nominativus cum infinitivo (Xerxes abscidisse traditur)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.39",
+      "source_text": "haec eadem est Macedonia, cuius uno die Paulus Aemilius imperator noster LXII urbes direptas vendidit.",
+      "question": "Quot Macedoniae urbes Paulum Aemilium uno die direptas vendidisse Plinius tradit?",
+      "answer": "Duas et sexaginta.",
+      "question_en": "How many cities of Macedonia does Pliny say Paulus Aemilius sold as plunder in a single day?",
+      "answer_en": "Sixty-two.",
+      "derivation": "The striking claim that Aemilius Paulus sold sixty-two plundered Macedonian cities in one day (after Pydna, 167 BC). Anchored to Paulus Aemilius plus Macedonia; single number answer (LXII) supported verbatim. Indirect statement Paulum Aemilium vendidisse governed by tradit. Closed-book historical fact."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.46",
+      "source_text": "promunturium Chryseon Ceras, in quo oppidum Byzantium liberae condicionis, antea Lygos dictum;",
+      "question": "Quo nomine oppidum Byzantium antea appellatum esse Plinius tradit?",
+      "answer": "Lygos.",
+      "question_en": "By what name does Pliny say the town of Byzantium was formerly called?",
+      "answer_en": "Lygos.",
+      "derivation": "The former name of Byzantium (Lygos). Anchored to Byzantium; single-name answer supported verbatim by Byzantium ... antea Lygos dictum. Closed-book, iconic city. Indirect statement oppidum appellatum esse governed by tradit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.58",
+      "source_text": "Ipsa Creta, altero latere ad austrum, altero ad septentrionem versa, inter ortum occasumque porrigitur centum urbium clara fama.",
+      "question": "Quot urbium fama Cretam insulam claram esse Plinius tradit?",
+      "answer": "Centum urbium.",
+      "question_en": "For the fame of how many cities does Pliny say the island of Crete is renowned?",
+      "answer_en": "For a hundred cities.",
+      "derivation": "Crete's proverbial fame as the island of a hundred cities (the Homeric hekatompolis). Anchored to Crete; single number answer (centum) supported verbatim by centum urbium clara fama. Closed-book, iconic. Indirect statement Cretam claram esse governed by tradit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.65",
+      "source_text": "a promunturio Geraesto circa Delum in orbem sitae, unde et nomen traxere, Cyclades.",
+      "question": "Circa quam insulam Cycladas in orbem sitas esse Plinius tradit, unde nomen traxerint?",
+      "answer": "Circa Delum.",
+      "question_en": "Around which island does Pliny say the Cyclades are set in a circle, whence they took their name?",
+      "answer_en": "Around Delos.",
+      "derivation": "The etymology of the Cyclades: they lie in a ring around Delos. Anchored to the Cyclades plus Delos; single named-island answer supported verbatim by circa Delum in orbem sitae ... Cyclades. Closed-book, iconic. Indirect statement Cycladas sitas esse governed by tradit; embedded indirect question traxerint."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.67",
+      "source_text": "Paros cum oppido, ab Delo XXXVIII, marmore nobilis, quam primo Platean, postea Minoida vocarunt.",
+      "question": "Qua re insula Paros apud Plinium nobilis est?",
+      "answer": "Marmore.",
+      "question_en": "For what is the island of Paros notable, according to Pliny?",
+      "answer_en": "For its marble.",
+      "derivation": "Paros' fame for its marble (Parian marble). Anchored to Paros; single short answer (marmore, ablative of respect) supported verbatim by Paros ... marmore nobilis. Closed-book, iconic."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.75",
+      "source_text": "primas angustias Hellespontum vocant; hac Xerxes Persarum rex constrato in navibus ponte duxit exercitum.",
+      "question": "Per quas angustias Xerxes Persarum rex constrato in navibus ponte exercitum duxisse a Plinio traditur?",
+      "answer": "Per Hellespontum.",
+      "question_en": "Across which strait is Xerxes, king of the Persians, said by Pliny to have led his army over a bridge built on ships?",
+      "answer_en": "Across the Hellespont.",
+      "derivation": "Xerxes' bridge of boats across the Hellespont. Anchored to Xerxes; single named-strait answer supported verbatim by Hellespontum ... Xerxes ... constrato in navibus ponte duxit exercitum. Closed-book, iconic. Nominativus cum infinitivo (Xerxes duxisse traditur). Distinct from the Athos pair (different deed, different answer)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.76",
+      "source_text": "dein vastum mare Pontus Euxinus, qui quondam Axenus, longe refugientes occupat terras magnoque litorum flexu retro curvatus in cornua ab iis utrimque porrigitur, ut sit plane arcus Scythici forma.",
+      "question": "Cuius generis arcus formam Pontum Euxinum habere Plinius scribit?",
+      "answer": "Arcus Scythici.",
+      "question_en": "The shape of what kind of bow does Pliny write that the Black Sea (Pontus Euxinus) has?",
+      "answer_en": "Of a Scythian bow.",
+      "derivation": "Pliny's vivid simile that the Black Sea, curved into two horns, has exactly the shape of a Scythian bow. Anchored to the Pontus Euxinus; short answer (a Scythian bow) supported verbatim by ut sit plane arcus Scythici forma. Closed-book, recognizable geographic image. Indirect statement Pontum habere governed by scribit."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.102",
+      "source_text": "Albion ipsi nomen fuit, cum Britanniae vocarentur omnes de quibus mox paulo dicemus.",
+      "question": "Quod nomen insulae Britanniae ipsi antea fuisse Plinius tradit?",
+      "answer": "Albion.",
+      "question_en": "What name does Pliny say the island of Britain itself formerly bore?",
+      "answer_en": "Albion.",
+      "derivation": "The old name of the island of Britain (Albion), when the plural Britanniae denoted the whole island-group. Anchored to Britain; single-name answer supported verbatim by Albion ipsi nomen fuit. Closed-book, iconic. Indirect statement nomen fuisse governed by tradit; insulae Britanniae ipsi is dative of possession."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.104",
+      "source_text": "ultima omnium quae memorantur Tyle, in qua solstitio nullas esse noctes indicavimus, cancri signum sole transeunte, nullosque contra per brumam dies.",
+      "question": "In qua insula, omnium ultima, solstitio nullas esse noctes Plinius indicat?",
+      "answer": "In Tyle.",
+      "question_en": "On which island, the most remote of all, does Pliny indicate that there are no nights at the summer solstice?",
+      "answer_en": "On Thule.",
+      "derivation": "Thule, the most remote island, where there is no night at the summer solstice. Pinned by the defining property (no nights at the solstice; the northernmost land), yielding the famous Thule. Supported verbatim by Tyle, in qua solstitio nullas esse noctes. Closed-book, iconic (ultima Thule). Indirect statement nullas esse noctes governed by indicat."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 4.115",
+      "source_text": "Tagus auriferis harenis celebratur.",
+      "question": "Quibus harenis Tagus amnis apud Plinium celebratur?",
+      "answer": "Auriferis harenis.",
+      "question_en": "For what kind of sands is the river Tagus celebrated, according to Pliny?",
+      "answer_en": "For its gold-bearing sands.",
+      "derivation": "The Tagus' fame for gold-bearing sands. Anchored to the Tagus; short answer (auriferae harenae, ablative) supported verbatim by Tagus auriferis harenis celebratur. Closed-book, iconic (the gold of the Tagus)."
+    }
+  ]
+}
