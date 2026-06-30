@@ -1,0 +1,115 @@
+{
+  "source": "text/caesar/gall4.txt",
+  "author": "Caesar",
+  "work": "De Bello Gallico, liber IV",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Gallico 4.1",
+      "source_text": "Ea quae secuta est hieme, qui fuit annus Cn. Pompeio, M. Crasso consulibus, Usipetes Germani et item Tencteri magna cum multitudine hominum flumen Rhenum transierunt, non longe a mari, quo Rhenus influit.",
+      "question": "Quae duae gentes Germanorum flumen Rhenum, Cn. Pompeio et M. Crasso consulibus, transierunt?",
+      "answer": "Usipetes et Tencteri.",
+      "question_en": "Which two German peoples crossed the river Rhine in the consulship of Cn. Pompeius and M. Crassus?",
+      "answer_en": "The Usipetes and the Tencteri.",
+      "derivation": "Opening fact of Book 4, anchored to the consular year (55 BC) and the Rhine. Two named peoples whose migration and destruction frame the book; answer supported verbatim by 'Usipetes Germani et item Tencteri ... flumen Rhenum transierunt'. Closed-book, the iconic Germanic crossing of BG 4."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.1",
+      "source_text": "Sueborum gens est longe maxima et bellicosissima Germanorum omnium.",
+      "question": "Quae gens, ut Caesar scribit, omnium Germanorum longe maxima et bellicosissima est?",
+      "answer": "Sueborum gens.",
+      "question_en": "Which people, as Caesar writes, is by far the largest and most warlike of all the Germans?",
+      "answer_en": "The Suebi.",
+      "derivation": "Ethnographic superlative fact anchored to the Germans; single named answer supported verbatim by 'Sueborum gens est longe maxima et bellicosissima Germanorum omnium'. The Suebi are the recurrent Germanic power of the book; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.15",
+      "source_text": "Nostri ad unum omnes incolumes, perpaucis vulneratis, ex tanti belli timore, cum hostium numerus capitum CCCCXXX milium fuisset, se in castra receperunt.",
+      "question": "Quot milia hominum fuisse hostium numerum Caesar scribit, cum Usipetes et Tencteri ad confluentem Mosae et Rheni deleti sunt?",
+      "answer": "CCCCXXX milia.",
+      "question_en": "How many thousand men does Caesar say the enemy numbered when the Usipetes and Tencteri were destroyed at the confluence of the Meuse and the Rhine?",
+      "answer_en": "430,000.",
+      "derivation": "Number fact anchored to the destroyed Germans (Usipetes and Tencteri); answer (CCCCXXX milia = 430,000) supported verbatim by 'hostium numerus capitum CCCCXXX milium fuisset'. A much-cited total; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.16",
+      "source_text": "Ubii autem, qui uni ex Transrhenanis ad Caesarem legatos miserant, amicitiam fecerant, obsides dederant, magnopere orabant ut sibi auxilium ferret, quod graviter ab Suebis premerentur.",
+      "question": "Quae gens Germanorum una ex Transrhenanis ad Caesarem legatos miserat eique amicitiam fecerat?",
+      "answer": "Ubii.",
+      "question_en": "Which German people, alone of those beyond the Rhine, had sent envoys to Caesar and made friendship with him?",
+      "answer_en": "The Ubii.",
+      "derivation": "Name fact anchored to Caesar and the peoples across the Rhine; single answer supported verbatim by 'Ubii ... qui uni ex Transrhenanis ad Caesarem legatos miserant, amicitiam fecerant'. The Ubii's appeal motivates the Rhine bridge; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.18",
+      "source_text": "Diebus X, quibus materia coepta erat comportari, omni opere effecto exercitus traducitur.",
+      "question": "Quot diebus pons Caesaris in Rheno effectus est, ut ipse scribit?",
+      "answer": "Decem diebus.",
+      "question_en": "In how many days was Caesar's bridge over the Rhine built, as he himself writes?",
+      "answer_en": "In ten days.",
+      "derivation": "Number fact about the famous Rhine bridge, anchored to Caesar and the Rhine; answer (decem) supported verbatim by 'Diebus X, quibus materia coepta erat comportari, omni opere effecto exercitus traducitur'. The speed of the timber bridge is the iconic detail; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.19",
+      "source_text": "diebus omnino XVIII trans Rhenum consumptis, satis et ad laudem et ad utilitatem profectum arbitratus se in Galliam recepit pontemque rescidit.",
+      "question": "Quot omnino dies Caesar trans Rhenum consumpsit, antequam in Galliam rediret pontemque rescinderet?",
+      "answer": "Duodeviginti dies.",
+      "question_en": "How many days in all did Caesar spend across the Rhine before returning to Gaul and breaking down the bridge?",
+      "answer_en": "Eighteen days.",
+      "derivation": "Number fact anchored to Caesar and his first crossing into Germany; answer (XVIII = 18) supported verbatim by 'diebus omnino XVIII trans Rhenum consumptis ... se in Galliam recepit pontemque rescidit'. Closed-book; the length of the first Roman stay in Germany."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.20",
+      "source_text": "Exigua parte aestatis reliqua Caesar, etsi in his locis, quod omnis Gallia ad septentriones vergit, maturae sunt hiemes, tamen in Britanniam proficisci contendit, quod omnibus fere Gallicis bellis hostibus nostris inde subministrata auxilia intellegebat.",
+      "question": "In quam insulam Caesar exigua parte aestatis reliqua proficisci contendit?",
+      "answer": "In Britanniam.",
+      "question_en": "To which island did Caesar hasten to set out when only a small part of the summer remained?",
+      "answer_en": "To Britain.",
+      "derivation": "Place fact marking Caesar's first expedition to Britain, anchored to Caesar and the time of year; answer supported verbatim by 'tamen in Britanniam proficisci contendit'. The first Roman crossing to Britain is a closed-book landmark."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.21",
+      "source_text": "Ad haec cognoscenda, prius quam periculum faceret, idoneum esse arbitratus C. Volusenum cum navi longa praemittit. Huic mandat ut exploratis omnibus rebus ad se quam primum revertatur.",
+      "question": "Quem Caesar cum navi longa praemisit ut Britanniam ante adventum suum exploraret?",
+      "answer": "C. Volusenum.",
+      "question_en": "Whom did Caesar send ahead with a warship to reconnoiter Britain before his own arrival?",
+      "answer_en": "Gaius Volusenus.",
+      "derivation": "Name fact anchored to Caesar and the reconnaissance of Britain; single named answer supported verbatim by 'C. Volusenum cum navi longa praemittit'. The first scouting of Britain; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.21",
+      "source_text": "et cum iis una Commium, quem ipse Atrebatibus superatis regem ibi constituerat, cuius et virtutem et consilium probabat et quem sibi fidelem esse arbitrabatur cuiusque auctoritas in his regionibus magni habebatur, mittit.",
+      "question": "Cui genti Caesar Commium regem constituerat, quem in Britanniam praemisit?",
+      "answer": "Atrebatibus.",
+      "question_en": "Over which people had Caesar made Commius king, the man he sent ahead to Britain?",
+      "answer_en": "Over the Atrebates.",
+      "derivation": "Name/relation fact anchored to Commius and Caesar; answer supported verbatim by 'Commium, quem ipse Atrebatibus superatis regem ibi constituerat'. Commius the Atrebatian is a recurring named figure; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.22",
+      "source_text": "Navibus circiter LXXX onerariis coactis contractisque, quot satis esse ad duas transportandas legiones existimabat, quod praeterea navium longarum habebat quaestori, legatis praefectisque distribuit.",
+      "question": "Quot legiones Caesar primo in Britanniam transportare statuit, navibus circiter LXXX onerariis coactis?",
+      "answer": "Duas legiones.",
+      "question_en": "How many legions did Caesar decide to transport to Britain on his first expedition, having gathered about 80 transport ships?",
+      "answer_en": "Two legions.",
+      "derivation": "Number fact anchored to Caesar and the first British expedition; answer (duae legiones) supported verbatim by 'quot satis esse ad duas transportandas legiones existimabat'. The small two-legion force of 55 BC is closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.25",
+      "source_text": "Atque nostris militibus cunctantibus, maxime propter altitudinem maris, qui X legionis aquilam gerebat, obtestatus deos, ut ea res legioni feliciter eveniret, 'desilite', inquit, 'milites, nisi vultis aquilam hostibus prodere; ego certe meum rei publicae atque imperatori officium praestitero.' Hoc cum voce magna dixisset, se ex navi proiecit atque in hostes aquilam ferre coepit.",
+      "question": "Cuius legionis aquilifer primus in mare se proiecit, milites ad desiliendum cohortans, cum Romani in Britanniam egrederentur?",
+      "answer": "Decimae legionis.",
+      "question_en": "The standard-bearer of which legion first threw himself into the sea, urging the soldiers to leap down, as the Romans were landing in Britain?",
+      "answer_en": "Of the Tenth Legion.",
+      "derivation": "Name/number fact anchored to the British landing and a named legion; answer (decima) supported verbatim by 'qui X legionis aquilam gerebat ... se ex navi proiecit atque in hostes aquilam ferre coepit'. The aquilifer of the Tenth at the British landing is a famous, closed-book scene."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 4.38",
+      "source_text": "His rebus gestis ex litteris Caesaris dierum XX supplicatio a senatu decreta est.",
+      "question": "Quot dierum supplicationem senatus ex litteris Caesaris decrevit, postquam ille Rhenum transiit et in Britanniam navigavit?",
+      "answer": "Viginti dierum.",
+      "question_en": "How many days' thanksgiving did the senate decree on Caesar's dispatch, after he had crossed the Rhine and sailed to Britain?",
+      "answer_en": "A twenty-day thanksgiving.",
+      "derivation": "Number/institution fact anchored to the senate and Caesar's campaigns of 55 BC; answer (XX = 20) supported verbatim by 'dierum XX supplicatio a senatu decreta est'. The closing public honor of the book; closed-book."
+    }
+  ]
+}
