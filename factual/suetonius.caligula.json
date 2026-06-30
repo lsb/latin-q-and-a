@@ -1,0 +1,151 @@
+{
+  "source": "text/suetonius/suet.cal.txt",
+  "author": "Suetonius",
+  "work": "Gaius Caligula",
+  "pairs": [
+    {
+      "locus": "Suetonius, Gaius Caligula 1",
+      "source_text": "Germanicus, C. Caesaris pater, Drusi et minoris Antoniae filius, a Tiberio patruo adoptatus, quaesturam quinquennio ante quam per leges liceret et post eam consulatum statim gessit.",
+      "question": "Quis fuit pater C. Caesaris, qui Caligula cognominatus est?",
+      "answer": "Germanicus.",
+      "question_en": "Who was the father of Gaius Caesar, the one nicknamed Caligula?",
+      "answer_en": "Germanicus.",
+      "derivation": "Opening clause names 'Germanicus, C. Caesaris pater.' Entity-anchored to Caligula; single-name answer; closed-book (Germanicus as Caligula's father is among the best-known Julio-Claudian relations). Germanicus is here also called son of Drusus and Antonia minor and adopted by his uncle Tiberius."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 7",
+      "source_text": "Habuit in matrimonio Agrippinam, M. Agrippae et Iuliae filiam, et ex ea nouem liberos tulit.",
+      "question": "Quam in matrimonio habuit Germanicus, ex qua C. Caesarem (Caligulam) suscepit?",
+      "answer": "Agrippinam, M. Agrippae et Iuliae filiam.",
+      "question_en": "Whom did Germanicus have in marriage, by whom he had Gaius Caesar (Caligula)?",
+      "answer_en": "Agrippina, daughter of Marcus Agrippa and Iulia.",
+      "derivation": "Subject is Germanicus (from the preceding chapters). His wife and Caligula's mother is Agrippina the Elder, daughter of M. Agrippa and Iulia (Augustus's daughter). Supported verbatim. Entity-anchored to Germanicus/Caligula; single named answer with parentage; closed-book."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 7",
+      "source_text": "Habuit in matrimonio Agrippinam, M. Agrippae et Iuliae filiam, et ex ea nouem liberos tulit.",
+      "question": "Quot liberos Germanicus ex Agrippina suscepit, ut Suetonius tradit?",
+      "answer": "Novem.",
+      "question_en": "How many children did Germanicus have by Agrippina, according to Suetonius?",
+      "answer_en": "Nine.",
+      "derivation": "Number fact, supported verbatim by 'ex ea nouem liberos tulit.' Entity-anchored to Germanicus and Agrippina; single-number answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 9",
+      "source_text": "Caligulae cognomen castrensi ioco traxit, quia manipulario habitu inter milites educabatur.",
+      "question": "Qua de causa C. Caesar 'Caligulae' cognomen accepit, ut Suetonius tradit?",
+      "answer": "Quia manipulario habitu inter milites educabatur.",
+      "question_en": "Why did Gaius Caesar receive the nickname 'Caligula,' according to Suetonius?",
+      "answer_en": "Because he was brought up among the soldiers dressed as a common soldier.",
+      "derivation": "Origin of the famous nickname: a camp joke, because as a boy he was reared among the troops in a private soldier's outfit (the caligae, soldier's boots, give the name 'Caligula', little boot). Supported verbatim. Entity-anchored to Caligula; closed-book (the etymology is the best-known fact about him); brief causal answer matching the source."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 8",
+      "source_text": "Ego in actis Anti editum inuenio.",
+      "question": "Quo in oppido natum esse Gaium Suetonius ex actis publicis tradit?",
+      "answer": "Antii.",
+      "question_en": "In what town does Suetonius report, from the public records, that Gaius was born?",
+      "answer_en": "At Antium.",
+      "derivation": "Suetonius, weighing conflicting traditions about Caligula's birthplace, settles on Antium on the authority of the public records (acta). Indirect statement (natum esse Gaium) under tradit; the attribution frame fits a claim Suetonius argues for. Place answer in the locative (Antii); entity-anchored, single answer."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 15",
+      "source_text": "At in memoriam patris Septembrem mensem Germanicum appellauit.",
+      "question": "Quem mensem C. Caesar in memoriam patris sui 'Germanicum' appellavit?",
+      "answer": "Septembrem.",
+      "question_en": "Which month did Gaius Caesar name 'Germanicus' in memory of his father?",
+      "answer_en": "September.",
+      "derivation": "He renamed September 'Germanicus' after his father. Supported verbatim. Entity-anchored to Caligula and Germanicus; single-month answer; closed-book, parallel to Augustus renaming Sextilis."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 15",
+      "source_text": "patruum Claudium, equitem R. ad id tempus, collegam sibi in consulatu assumpsit.",
+      "question": "Quem patruum suum, tum equitem Romanum, C. Caesar collegam in consulatu sibi assumpsit?",
+      "answer": "Claudium.",
+      "question_en": "Which uncle of his, then a Roman knight, did Gaius Caesar take as his colleague in the consulship?",
+      "answer_en": "Claudius.",
+      "derivation": "Names Claudius as Caligula's paternal uncle (patruus), still only an eques, taken as consular colleague; this same Claudius later succeeded him as emperor. Supported verbatim. Entity-anchored, single-name answer, closed-book relation."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 17",
+      "source_text": "Consulatus quattuor gessit, primum ex Kal. Iul. per duos menses, secundum ex Kal. Ian. per XXX dies, tertium usque in Idus Ian., quartum usque septimum Idus easdem.",
+      "question": "Quot consulatus C. Caesar gessit, ut Suetonius tradit?",
+      "answer": "Quattuor.",
+      "question_en": "How many consulships did Gaius Caesar hold, according to Suetonius?",
+      "answer_en": "Four.",
+      "derivation": "Number fact, supported verbatim by 'Consulatus quattuor gessit.' Entity-anchored to Caligula; single-number answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 17",
+      "source_text": "tertium autem Luguduni iniit solus, non ut quidam opinantur superbia neglegentiaue, sed quod defunctum sub Kalendarum diem collegam rescisse absens non potuerat.",
+      "question": "In qua urbe C. Caesar tertium consulatum iniit?",
+      "answer": "Luguduni.",
+      "question_en": "In what city did Gaius Caesar enter upon his third consulship?",
+      "answer_en": "At Lugdunum (Lyon).",
+      "derivation": "Place fact: he entered his third consulship alone at Lugdunum. Supported verbatim. Entity-anchored to Caligula and the third consulship; single place answer in the locative (Luguduni)."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 19",
+      "source_text": "Nam Baiarum medium interuallum ad Puteolanas moles, trium milium et sescentorum fere passuum spatium, ponte coniunxit contractis undique onerariis nauibus et ordine duplici ad anchoras conlocatis superiectoque terreno ac derecto in Appiae uiae formam.",
+      "question": "Inter quae loca C. Caesar pontem ex navibus exstruxit?",
+      "answer": "Inter Baias et Puteolanas moles.",
+      "question_en": "Between what places did Gaius Caesar build his bridge made of ships?",
+      "answer_en": "Between Baiae and the moles of Puteoli.",
+      "derivation": "The famous bridge of boats across the bay: from Baiae to the Puteoli breakwaters, built of merchant ships. Supported verbatim. Entity-anchored to Caligula; place answer; closed-book. (source_text strips the edition's square brackets in '[ad]' and 'anc[h]oras', keeping the words.)"
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 19",
+      "source_text": "Nam Baiarum medium interuallum ad Puteolanas moles, trium milium et sescentorum fere passuum spatium, ponte coniunxit contractis undique onerariis nauibus et ordine duplici ad anchoras conlocatis superiectoque terreno ac derecto in Appiae uiae formam.",
+      "question": "Quantum fere spatium C. Caesar ponte inter Baias et Puteolos coniunxit?",
+      "answer": "Trium milium et sescentorum fere passuum.",
+      "question_en": "How great a span did Gaius Caesar join with a bridge between Baiae and Puteoli?",
+      "answer_en": "About 3,600 paces (three miles and six hundred).",
+      "derivation": "Measure fact for the bridge of boats: a span of about 3,600 paces. Supported verbatim ('trium milium et sescentorum fere passuum spatium'); answer kept in the genitive of measure as in the source. Entity-anchored, single-number answer."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 55",
+      "source_text": "Incitato equo, cuius causa pridie circenses, ne inquietaretur, uiciniae silentium per milites indicere solebat, praeter equile marmoreum et praesaepe eburneum praeterque purpurea tegumenta ac monilia e gemmis domum etiam et familiam et supellectilem dedit, quo lautius nomine eius inuitati acciperentur; consulatum quoque traditur destinasse.",
+      "question": "Quem honorem C. Caesar equo suo Incitato destinasse traditur?",
+      "answer": "Consulatum.",
+      "question_en": "What office is Gaius Caesar said to have intended for his horse Incitatus?",
+      "answer_en": "A consulship.",
+      "derivation": "Iconic story: his horse Incitatus, lavished with a marble stable and ivory manger, whom he is said to have meant to make consul. Supported verbatim ('consulatum quoque traditur destinasse'). Indirect statement (destinasse) under traditur; entity-anchored to Caligula and Incitatus; single-office answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 56",
+      "source_text": "Cum placuisset Palatinis ludis spectaculo egressum meridie adgredi, primas sibi partes Cassius Chaerea tribunus cohortis praetoriae depoposcit.",
+      "question": "A quo tribuno cohortis praetoriae C. Caesar (Caligula) interfectus est?",
+      "answer": "A Cassio Chaerea.",
+      "question_en": "By which tribune of a praetorian cohort was Gaius Caesar (Caligula) killed?",
+      "answer_en": "By Cassius Chaerea.",
+      "derivation": "Cassius Chaerea, a tribune of a praetorian cohort, claimed the lead in the plot and (ch. 58) struck the first blow as Caligula left the Palatine games. Supported verbatim. Entity-anchored to Caligula and Chaerea's office; single-name answer; closed-book famous."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 58",
+      "source_text": "VIIII. Kal. Febr. hora fere septima cunctatus an ad prandium surgeret marcente adhuc stomacho pridiani cibi onere, tandem suadentibus amicis egressus est.",
+      "question": "Quo die mensis C. Caesar interfectus est, ut Suetonius tradit?",
+      "answer": "Nono Kalendas Februarias.",
+      "question_en": "On what day of the month was Gaius Caesar killed, according to Suetonius?",
+      "answer_en": "On the ninth day before the Kalends of February (24 January).",
+      "derivation": "Date of the assassination: a.d. IX Kal. Feb. (= 24 January). Supported verbatim ('VIIII. Kal. Febr.'), the day on which, leaving for lunch, he was cut down. Entity-anchored to Caligula; single date answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 59",
+      "source_text": "Vixit annis uiginti nouem, imperauit triennio et decem mensibus diebusque octo.",
+      "question": "Quot annos vixit C. Caesar (Caligula), ut Suetonius tradit?",
+      "answer": "Viginti novem (annos).",
+      "question_en": "How many years did Gaius Caesar (Caligula) live, according to Suetonius?",
+      "answer_en": "Twenty-nine years.",
+      "derivation": "Age-at-death fact, supported verbatim by 'Vixit annis uiginti nouem.' Entity-anchored to Caligula; single-number answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Gaius Caligula 59",
+      "source_text": "Vixit annis uiginti nouem, imperauit triennio et decem mensibus diebusque octo.",
+      "question": "Quamdiu C. Caesar imperavit, ut Suetonius scribit?",
+      "answer": "Triennio et decem mensibus diebusque octo.",
+      "question_en": "How long did Gaius Caesar reign, according to Suetonius?",
+      "answer_en": "Three years, ten months, and eight days.",
+      "derivation": "Reign-length fact, supported verbatim by 'imperauit triennio et decem mensibus diebusque octo.' Answer kept in the ablative of duration as in the source. Entity-anchored to Caligula; precise span; closed-book."
+    }
+  ]
+}
