@@ -1,0 +1,97 @@
+{
+  "source": "text/augustine/conf5.txt",
+  "author": "Augustine",
+  "work": "Confessiones, liber V",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessiones 5.3.3",
+      "source_text": "iam venerat Carthaginem quidam manichaeorum episcopus, Faustus nomine, magnus laqueus diaboli, et multi implicabantur in eo per inlecebram suaviloquentiae.",
+      "question": "Quo nomine appellabatur ille Manichaeorum episcopus qui Carthaginem venit, quem Augustinus diu venturum expectabat?",
+      "answer": "Faustus.",
+      "question_en": "By what name was that Manichaean bishop who came to Carthage, whom Augustine long awaited, called?",
+      "answer_en": "Faustus.",
+      "derivation": "The Manichee bishop whose arrival at Carthage dominates Book 5 is named verbatim: 'manichaeorum episcopus, Faustus nomine.' Anchored to the Manichees + Carthage + Augustine's long expectation; single-name answer. Closed-book: Faustus is famous (Augustine later wrote Contra Faustum Manichaeum)."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.3.3",
+      "source_text": "iam venerat Carthaginem quidam manichaeorum episcopus, Faustus nomine, magnus laqueus diaboli.",
+      "question": "Cuius sectae episcopus erat Faustus, quem Augustinus Carthagini audivit?",
+      "answer": "Manichaeorum.",
+      "question_en": "Of what sect was Faustus, whom Augustine heard at Carthage, a bishop?",
+      "answer_en": "Of the Manichees.",
+      "derivation": "Faustus is identified as a bishop of the Manichees ('manichaeorum episcopus, Faustus nomine'). Anchored to Faustus by name; single-answer (the sect/office), distinct from the name fact. Closed-book biographical fact."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.3.3",
+      "source_text": "proloquar in conspectu dei mei annum illum undetricensimum aetatis meae. iam venerat Carthaginem quidam manichaeorum episcopus, Faustus nomine, magnus laqueus diaboli.",
+      "question": "Quoto anno aetatis suae Augustinus Faustum Carthaginem venisse narrat?",
+      "answer": "Undetricensimo.",
+      "question_en": "In which year of his age does Augustine relate that Faustus came to Carthage?",
+      "answer_en": "In his twenty-ninth.",
+      "derivation": "Augustine opens by declaring the year he is narrating, his 29th ('annum illum undetricensimum aetatis meae'), in which Faustus had come to Carthage. Number fact anchored to Augustine + Faustus's arrival; undetricensimus = 29th. Short, verifiable; age facts are precedent (cf. conf9)."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.6.10",
+      "source_text": "et per annos ferme ipsos novem quibus eos animo vagabundus audivi nimis extento desiderio venturum expectabam istum Faustum.",
+      "question": "Per quot fere annos Augustinus Manichaeos audiverat, dum Faustum venturum expectabat?",
+      "answer": "Ferme novem annos.",
+      "question_en": "For about how many years had Augustine been listening to the Manichees while he awaited the coming of Faustus?",
+      "answer_en": "About nine years.",
+      "derivation": "Number fact: Augustine had heard the Manichees for about nine years, awaiting Faustus ('per annos ferme ipsos novem... audivi... expectabam istum Faustum'). Answer mirrors the approximative 'ferme.' Anchored to Augustine + Manichees + Faustus. Closed-book: his ~9 years as a Manichaean auditor is standard biography."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.8.14",
+      "source_text": "egisti ergo mecum ut mihi persuaderetur Romam pergere et potius ibi docere quod docebam Carthagini.",
+      "question": "Quo Augustinus ex Carthagine docendi causa transiit?",
+      "answer": "Romam.",
+      "question_en": "Where did Augustine cross over to from Carthage for the sake of teaching?",
+      "answer_en": "To Rome.",
+      "derivation": "Augustine was persuaded to leave Carthage (where he taught) and go to Rome to teach there ('Romam pergere et potius ibi docere quod docebam Carthagini'). Anchored to Augustine + Carthage; single place answer. Closed-book: his move from Carthage to Rome is canonical biography."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.9.16",
+      "source_text": "et ecce excipior ibi flagello aegritudinis corporalis, et ibam iam ad inferos portans omnia mala quae commiseram et in te et in me et in alios.",
+      "question": "In qua urbe Augustinus, mox ut eo ex Africa pervenit, gravi corporis aegritudine correptus est?",
+      "answer": "Romae.",
+      "question_en": "In what city was Augustine struck down by a grave bodily illness soon after he arrived there from Africa?",
+      "answer_en": "At Rome.",
+      "derivation": "On reaching Rome from Africa, Augustine was seized by bodily illness ('excipior ibi flagello aegritudinis corporalis'; the 'ibi' is Rome, where he had just sailed from Carthage). Anchored to Augustine + Rome + arrival from Africa; single place answer. Closed-book: his near-fatal illness at Rome is a known episode."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.13.23",
+      "source_text": "itaque posteaquam missum est a Mediolanio Romam ad praefectum urbis, ut illi civitati rhetoricae magister provideretur, impertita etiam evectione publica, ego ipse ambivi per eos ipsos manichaeis vanitatibus ebrios (quibus ut carerem ibam, sed utrique nesciebamus) ut dictione proposita me probatum praefectus tunc Symmachus mitteret.",
+      "question": "Quis praefectus urbis Augustinum Mediolanium misit, ut illic rhetoricam doceret?",
+      "answer": "Symmachus.",
+      "question_en": "Which prefect of the City sent Augustine to Milan to teach rhetoric there?",
+      "answer_en": "Symmachus.",
+      "derivation": "The prefect of Rome, Symmachus, having approved Augustine by a set declamation, sent him to Milan ('praefectus tunc Symmachus mitteret'). Anchored to the prefecture of Rome + Milan + Augustine; single-name answer. Closed-book: Q. Aurelius Symmachus is a well-known figure."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.13.23",
+      "source_text": "itaque posteaquam missum est a Mediolanio Romam ad praefectum urbis, ut illi civitati rhetoricae magister provideretur, impertita etiam evectione publica, ego ipse ambivi per eos ipsos manichaeis vanitatibus ebrios (quibus ut carerem ibam, sed utrique nesciebamus) ut dictione proposita me probatum praefectus tunc Symmachus mitteret. et veni Mediolanium ad Ambrosium episcopum, in optimis notum orbi terrae, pium cultorem tuum.",
+      "question": "Quo Augustinus, a Symmacho praefecto probatus, rhetoricae magister missus est?",
+      "answer": "Mediolanium.",
+      "question_en": "Where was Augustine sent as a teacher of rhetoric after being approved by the prefect Symmachus?",
+      "answer_en": "To Milan.",
+      "derivation": "Milan had asked Rome's prefect to provide it a teacher of rhetoric ('a Mediolanio... ut illi civitati rhetoricae magister provideretur'); Symmachus sent Augustine, who 'veni Mediolanium.' Anchored to Augustine + Symmachus + the office of rhetoric-master; single place answer (Mediolanium). Closed-book: his professorship at Milan is standard biography."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.13.23",
+      "source_text": "et veni Mediolanium ad Ambrosium episcopum, in optimis notum orbi terrae, pium cultorem tuum, cuius tunc eloquia strenue ministrabant adipem frumenti tui et laetitiam olei et sobriam vini ebrietatem populo tuo.",
+      "question": "Ad quem episcopum Augustinus Mediolanium veniens accessit?",
+      "answer": "Ad Ambrosium.",
+      "question_en": "To which bishop did Augustine come on arriving at Milan?",
+      "answer_en": "To Ambrose.",
+      "derivation": "On reaching Milan Augustine came to its bishop Ambrose ('et veni Mediolanium ad Ambrosium episcopum'). Anchored to Augustine + Milan; single-name answer. Closed-book: Ambrose of Milan and his role in Augustine's conversion are famous."
+    },
+    {
+      "locus": "Augustine, Confessiones 5.13.23",
+      "source_text": "et studiose audiebam disputantem in populo, non intentione qua debui, sed quasi explorans eius facundiam, utrum conveniret famae suae an maior minorve proflueret quam praedicabatur.",
+      "question": "Quid potissimum in Ambrosio Augustinus primo explorabat, cum eum in populo disputantem audiret?",
+      "answer": "Eius facundiam.",
+      "question_en": "What above all did Augustine at first examine in Ambrose when he heard him preaching to the people?",
+      "answer_en": "His eloquence.",
+      "derivation": "Augustine eagerly listened to Ambrose preaching to the people, at first attending to his eloquence rather than the content ('quasi explorans eius facundiam'; 'rerum autem incuriosus'). Anchored to Augustine + Ambrose; short answer (his eloquence/facundia) supported verbatim. Fact-seeking and closed-book: the well-known point that Augustine first came for Ambrose's rhetoric."
+    }
+  ]
+}
