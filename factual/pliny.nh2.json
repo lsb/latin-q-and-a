@@ -1,0 +1,124 @@
+{
+  "source": "text/pliny.nh2.txt",
+  "author": "Pliny the Elder",
+  "work": "Naturalis Historia, liber II",
+  "pairs": [
+    {
+      "locus": "Plinius, Naturalis Historia 2.160",
+      "source_text": "orbem certe dicimus terrae globumque verticibus includi fatemur.",
+      "question": "Quam figuram terrae ipsius esse Plinius adfirmat?",
+      "answer": "Globi figuram.",
+      "question_en": "What shape does Pliny affirm the earth itself to have?",
+      "answer_en": "The shape of a globe (a sphere).",
+      "derivation": "The roundness of the earth: Pliny says we call it the orb of the earth and admit it is a globe enclosed by poles, and elsewhere argues it from ships vanishing over the horizon (2.164) and the rounding of water. Entity-anchored to the earth; short answer (a sphere) supported verbatim by orbem... terrae globumque. Indirect statement governed by adfirmat. Closed-book: the sphericity of the earth is a textbook tenet of ancient cosmology."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.6",
+      "source_text": "Hanc ergo formam eius aeterno et inrequieto ambitu, inenarrabili celeritate, viginti quattuor horarum spatio circumagi solis exortus et occasus haut dubium reliquere.",
+      "question": "Quot horarum spatio totum mundum semel circumagi Plinius tradit?",
+      "answer": "Viginti quattuor horarum spatio.",
+      "question_en": "In how many hours does Pliny say the whole world turns around once?",
+      "answer_en": "In the space of twenty-four hours.",
+      "derivation": "Number fact: the heaven/world completes one rotation in 24 hours (sunrise to sunrise). Entity-anchored to the mundus; single numeric answer supported verbatim by viginti quattuor horarum spatio circumagi. Indirect statement (mundum circumagi) governed by tradit. Closed-book: the daily rotation of the celestial sphere is a commonplace of ancient (geocentric) astronomy."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.12",
+      "source_text": "inter hanc caelumque eodem spiritu pendent certis discreta spatiis septem sidera, quae ab incessu vocamus errantia, cum errent nulla minus illis.",
+      "question": "Quot sunt errantia sidera, quae inter terram et caelum pendere Plinius tradit?",
+      "answer": "Septem.",
+      "question_en": "How many wandering stars (planets) are there, which Pliny says hang between the earth and the sky?",
+      "answer_en": "Seven.",
+      "derivation": "The seven 'wandering stars' (the classical planetae, counting the sun and moon). Entity-anchored to the planets set between earth and heaven; single numeric answer (seven) supported verbatim by septem sidera... errantia. Closed-book: the seven planets are a fixture of ancient astronomy."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.12",
+      "source_text": "eorum medius sol fertur, amplissima magnitudine ac potestate nec temporum modo terrarumque, sed siderum etiam ipsorum caelique rector.",
+      "question": "Quod ex septem errantibus sideribus medium ferri et caeli rectorem esse Plinius tradit?",
+      "answer": "Sol.",
+      "question_en": "Which of the seven wandering stars does Pliny say moves in the middle and is the ruler of the heaven?",
+      "answer_en": "The sun.",
+      "derivation": "The sun's central place among the seven planets and its role as 'ruler.' Entity-anchored to the wandering stars; single named answer (the sun) supported verbatim by eorum medius sol fertur... caelique rector. Indirect statement governed by tradit. Closed-book."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.32",
+      "source_text": "summum esse quod vocant Saturni sidus ideoque minimum videri et maximo ambire circulo ac tricesimo anno ad brevissima sedis suae principia regredi certum est.",
+      "question": "Quod errans sidus et altissimum esse et tricesimo anno ad sedis suae principia redire Plinius tradit?",
+      "answer": "Saturni sidus.",
+      "question_en": "Which wandering star does Pliny say is both the highest and returns to the beginning of its course in the thirtieth year?",
+      "answer_en": "The star of Saturn.",
+      "derivation": "Saturn is the outermost/highest of the planets and has the longest period, returning in the thirtieth year. Entity-anchored to the wandering stars; single named answer (Saturn) supported verbatim by summum esse quod vocant Saturni sidus... tricesimo anno... regredi. Two acc.+inf. clauses (altissimum esse, redire) governed by tradit. Closed-book."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.41",
+      "source_text": "Sed omnium admirationem vincit novissimum sidus, terris familiarissimum et in tenebrarum remedium ab natura apertum, lunae.",
+      "question": "Quod errantium siderum novissimum, id est terris proximum, esse Plinius tradit?",
+      "answer": "Luna.",
+      "question_en": "Which of the wandering stars does Pliny say is the lowest, that is, nearest to the earth?",
+      "answer_en": "The moon.",
+      "derivation": "The moon is the lowest (novissimum) of the seven planets and 'most familiar to the lands' (nearest), hence the smallest, fastest orbit (2.44). Entity-anchored to the wandering stars; single named answer (the moon) supported verbatim by novissimum sidus, terris familiarissimum... lunae. Closed-book: the moon as the nearest celestial body is basic ancient astronomy."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.45",
+      "source_text": "solis fulgore, ut reliqua siderum, regi, siquidem in totum mutuata ab eo luce fulgere, qualem in repercussu aquae volitare conspicimus.",
+      "question": "Unde lunam lumen suum habere Plinius tradit?",
+      "answer": "A sole, mutuata luce.",
+      "question_en": "From where does Pliny say the moon has its light?",
+      "answer_en": "From the sun, with borrowed light.",
+      "derivation": "The moon shines not by its own light but with light wholly borrowed from the sun. Entity-anchored to the moon; short answer (from the sun) supported verbatim by solis fulgore... regi, siquidem in totum mutuata ab eo luce fulgere. Indirect statement governed by tradit. Closed-book: that the moon's light is reflected sunlight is a well-known ancient finding."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.47",
+      "source_text": "quippe manifestum est solem interventu lunae occultari lunamque terrae obiectu ac vices reddi, eosdem solis radios luna interpositu suo auferente terrae terraque lunae.",
+      "question": "Cuius rei interventu solem, cuius obiectu lunam deficere Plinius tradit?",
+      "answer": "Solem interventu lunae, lunam obiectu terrae.",
+      "question_en": "Through the interposition of what does Pliny say the sun is eclipsed, and through the obstruction of what the moon?",
+      "answer_en": "The sun by the interposition of the moon, the moon by the obstruction (shadow) of the earth.",
+      "derivation": "The mechanism of eclipses: a solar eclipse is the sun hidden by the moon coming between, a lunar eclipse is the moon falling into the earth's shadow/obstruction. Entity-anchored to the sun and moon; verifiable two-part answer supported verbatim by solem interventu lunae occultari lunamque terrae obiectu. Closed-book: the cause of eclipses is a canonical ancient fact."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.47",
+      "source_text": "neque aliud esse noctem quam terrae umbram, figuram autem umbrae similem metae ac turbini inverso.",
+      "question": "Quid esse noctem Plinius adfirmat?",
+      "answer": "Nihil aliud quam terrae umbram.",
+      "question_en": "What does Pliny affirm night to be?",
+      "answer_en": "Nothing other than the shadow of the earth.",
+      "derivation": "Night defined as nothing other than the earth's shadow (a consequence of the eclipse/shadow geometry). Entity-anchored to night and the earth; short answer supported verbatim by neque aliud esse noctem quam terrae umbram. Indirect statement governed by adfirmat. Closed-book and memorable."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.53",
+      "source_text": "apud Graecos autem investigavit primus omnium Thales Milesius Olympiadis XLVIII anno quarto praedicto solis defectu, qui Alyatte rege factus est urbis conditae anno CLXX.",
+      "question": "Quis Graecorum primus solis defectum praedixisse a Plinio traditur?",
+      "answer": "Thales Milesius.",
+      "question_en": "Which of the Greeks is recorded by Pliny as the first to have predicted a solar eclipse?",
+      "answer_en": "Thales of Miletus.",
+      "derivation": "The famous prediction of a solar eclipse by Thales of Miletus (in the reign of Alyattes). Entity-anchored to the Greeks; single named answer supported verbatim by investigavit primus omnium Thales Milesius... praedicto solis defectu. Nominativus cum infinitivo (Thales praedixisse traditur). Closed-book and iconic in the history of science."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.36",
+      "source_text": "Infra solem ambit ingens sidus appellatum Veneris, alterno meatu vagum ipsisque cognominibus aemulum solis ac lunae. praeveniens quippe et ante matutinum exoriens luciferi nomen accepit ut sol alter diemque maturans, contra ab occasu refulgens nuncupatur vesper ut prorogans lucem vicemve lunae reddens.",
+      "question": "Quibus nominibus stella Veneris appellatur cum ante matutinum exoritur et cum ab occasu refulget, secundum Plinium?",
+      "answer": "Lucifer et Vesper.",
+      "question_en": "By what names is the star of Venus called when it rises before dawn and when it shines from the west (at sunset), according to Pliny?",
+      "answer_en": "Lucifer (the morning star) and Vesper (the evening star).",
+      "derivation": "The double name of the planet Venus: Lucifer as morning star, Vesper as evening star. Entity-anchored to Venus; verifiable two-name answer supported verbatim by luciferi nomen accepit... nuncupatur vesper. Closed-book: the morning/evening-star identity of Venus is a standard fact."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.119",
+      "source_text": "Veteres quattuor omnino servavere per totidem mundi partes—ideo nec Homerus plures nominat—hebeti, ut mox iudicatum est, ratione.",
+      "question": "Quot ventos Homerus nominat, ut Plinius refert?",
+      "answer": "Quattuor.",
+      "question_en": "How many winds does Homer name, as Pliny reports?",
+      "answer_en": "Four.",
+      "derivation": "The ancients reckoned only four winds, one for each quarter of the world, and Homer names no more than four. Entity-anchored to Homer; single numeric answer supported verbatim by Veteres quattuor omnino servavere... ideo nec Homerus plures nominat. Closed-book named-author fact."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 2.247",
+      "source_text": "universum autem circuitum Eratosthenes, in omnium quidem litterarum subtilitate, sed in hac utique praeter ceteros solers, quem cunctis probari video, CCLII milium stadiorum prodidit.",
+      "question": "Quot milium stadiorum universum terrae circuitum Eratosthenes prodidisse a Plinio traditur?",
+      "answer": "Ducentorum quinquaginta duorum milium stadiorum (CCLII).",
+      "question_en": "How many thousand stadia did Eratosthenes give for the whole circumference of the earth, according to Pliny?",
+      "answer_en": "252,000 stadia.",
+      "derivation": "Eratosthenes' celebrated measurement of the earth's circumference, 252,000 stadia. Entity-anchored to Eratosthenes; single numeric answer supported verbatim by Eratosthenes... CCLII milium stadiorum prodidit. Nominativus cum infinitivo (Eratosthenes prodidisse traditur). Closed-book and iconic in ancient geography/science."
+    }
+  ]
+}
