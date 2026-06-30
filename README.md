@@ -29,6 +29,30 @@ Justinian, Augustine, …) and **write** fact-seeking questions about the hard,
 specific, entity-anchored facts in them. See **`GUIDELINES.md`** for the full
 rationale and the seven acceptance criteria.
 
+## Coverage
+
+The dataset grows one work at a time (one reader per work). `qa.jsonl` is the
+authoritative list; `python3 aggregate.py` prints the current per-author tally.
+At a high level it spans, across the named authors and their close neighbours:
+
+- **Caesar & the Corpus Caesarianum** — the complete *Gallic War* (books I–VIII,
+  book VIII by Hirtius), the complete *Civil War* (I–III), and the *Alexandrian*,
+  *African*, and *Spanish* wars.
+- **Suetonius** — all of the *Twelve Caesars*, plus the Lives of the poets
+  (Virgil, Horace, Terence, Lucan).
+- **Tacitus** — all surviving works: *Germania*, *Agricola*, *Histories* I–V,
+  *Annals* I–IV, VI, XI–XVI.
+- **Pliny** — the Elder's *Naturalis Historia* (cosmology II; geography III–V;
+  the inventors/firsts of VII, sourced from LacusCurtius); the Younger's
+  *Letters* VI (Vesuvius) and X (the Trajan correspondence).
+- **Roman law** — Gaius's *Institutes* (all four books) and Justinian's *Digest*
+  (book I and the *regulae iuris* of book L).
+- **Augustine** — much of the *Confessions* (I, III–IX) and *City of God* I.
+- **Cato** — *De Agri Cultura*.
+
+Each pair records a `provenance` field; all texts are from the Latin Library
+except *NH* VII (LacusCurtius/Teubner), which the Latin Library does not carry.
+
 ## Layout
 
 | Path | What it is |
