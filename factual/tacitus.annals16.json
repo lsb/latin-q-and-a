@@ -1,0 +1,106 @@
+{
+  "source": "text/tacitus/tac.ann16.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber XVI",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 16.1",
+      "source_text": "Inlusit dehinc Neroni fortuna per vanitatem ipsius et promissa Caeseili Bassi, qui origine Poenus, mente turbida, nocturnae quietis imaginem ad spem haud dubiae rei traxit, vectusque Romam, principis aditum emercatus, expromit repertum in agro suo specum altitudine immensa, quo magna vis auri contineretur, non in formam pecuniae sed rudi et antiquo pondere.",
+      "question": "Quis Neroni nuntiavit se in agro suo specum repperisse, quo magna vis auri lateret, ut Tacitus tradit?",
+      "answer": "Caesellius Bassus.",
+      "question_en": "Who reported to Nero that he had found on his own land a cave in which a great quantity of gold lay hidden, according to Tacitus?",
+      "answer_en": "Caesellius Bassus.",
+      "derivation": "The famous African treasure-hunt of AD 65. Anchored to Nero + the reported cave of gold; single named person, supported by 'promissa Caeseili Bassi ... expromit repertum in agro suo specum ... quo magna vis auri contineretur'. Tacitus adds he was 'origine Poenus' (a Carthaginian). Indirect statement (se ... repperisse) under nuntiavit. Closed-book: the Caesellius Bassus treasure delusion is a stock episode of Nero's reign."
+    },
+    {
+      "locus": "Tacitus, Annales 16.1",
+      "source_text": "ceterum, ut coniectura demonstrabat, Dido Phoenissam Tyro profugam condita Carthagine illas opes abdidisse, ne novus populus nimia pecunia lasciviret aut reges Numidarum, et alias infensi, cupidine auri ad bellum accenderentur.",
+      "question": "Cuius reginae, conditricis Carthaginis, opes antiquas in illo specu Africano abditas esse coniectum est, ut Tacitus refert?",
+      "answer": "Didonis.",
+      "question_en": "Of which queen, the founder of Carthage, was it conjectured that her ancient wealth lay hidden in that African cave, according to Tacitus?",
+      "answer_en": "Of Dido.",
+      "derivation": "From the same treasure episode. Anchored to the founder of Carthage + the African cave; single named queen, supported by 'ut coniectura demonstrabat, Dido ... condita Carthagine illas opes abdidisse'. Indirect statement (opes ... abditas esse) under impersonal coniectum est. Closed-book: Dido, queen and founder of Carthage, is among the most famous figures of antiquity."
+    },
+    {
+      "locus": "Tacitus, Annales 16.6",
+      "source_text": "Post finem ludicri Poppaea mortem obiit, fortuita mariti iracundia, a quo gravida ictu calcis adflicta est.",
+      "question": "Quo modo Poppaea, Neronis uxor, mortem obiit, ut Tacitus tradit?",
+      "answer": "Ictu calcis a marito adflicta.",
+      "question_en": "In what manner did Poppaea, Nero's wife, meet her death, according to Tacitus?",
+      "answer_en": "Struck by a kick from her husband (Nero) while pregnant.",
+      "derivation": "Anchored to Poppaea + her husband Nero; the manner of death (a kick while pregnant) supported verbatim by 'fortuita mariti iracundia, a quo gravida ictu calcis adflicta est'. Tacitus explicitly rejects the poison rumor. Direct question, indicative obiit, with 'ut Tacitus tradit' as parenthetical frame. Closed-book: Poppaea's death from Nero's kick is among the most-cited facts of his reign."
+    },
+    {
+      "locus": "Tacitus, Annales 16.13",
+      "source_text": "cladem Lugdunensem quadragies sestertio solatus est princeps, ut amissa urbi reponerent; quam pecuniam Lugdunenses ante obtulerant urbis casibus.",
+      "question": "Quanta pecunia Nero cladem Lugdunensem solatus est, ut Tacitus tradit?",
+      "answer": "Quadragies sestertio.",
+      "question_en": "With how much money did Nero console the disaster of Lugdunum (Lyon), according to Tacitus?",
+      "answer_en": "With four million sesterces.",
+      "derivation": "Anchored to Nero + the disaster of Lugdunum (the fire at Lyon); single sum, supported verbatim by 'cladem Lugdunensem quadragies sestertio solatus est princeps' (quadragies HS = 4,000,000 sesterces, the very sum the Lugdunenses had earlier offered Rome after its own fire). Direct question, indicative solatus est. Closed-book number fact."
+    },
+    {
+      "locus": "Tacitus, Annales 16.18",
+      "source_text": "dein revolutus ad vitia seu vitiorum imitatione inter paucos familiarium Neroni adsumptus est, elegantiae arbiter, dum nihil amoenum et molle adfluentia putat, nisi quod ei Petronius adprobavisset.",
+      "question": "Quo titulo Petronius, inter paucos Neronis familiares adscitus, habitus est, ut Tacitus tradit?",
+      "answer": "Elegantiae arbiter.",
+      "question_en": "By what title was Petronius, taken among Nero's few intimates, regarded, according to Tacitus?",
+      "answer_en": "Arbiter of elegance (arbiter elegantiae).",
+      "derivation": "Anchored to Petronius + Nero's intimate circle; the designation supported verbatim by 'inter paucos familiarium Neroni adsumptus est, elegantiae arbiter'. Direct question, indicative habitus est. Closed-book: Petronius as Nero's 'arbiter elegantiae' (the arbiter of taste, traditionally identified with the author of the Satyricon) is one of the most famous phrases in Tacitus."
+    },
+    {
+      "locus": "Tacitus, Annales 16.18",
+      "source_text": "proconsul tamen Bithyniae et mox consul vigentem se ac parem negotiis ostendit.",
+      "question": "Cuius provinciae proconsul, et mox consul, fuit Petronius, ut Tacitus tradit?",
+      "answer": "Bithyniae.",
+      "question_en": "Of which province was Petronius proconsul, and then consul, according to Tacitus?",
+      "answer_en": "Of Bithynia.",
+      "derivation": "Anchored to Petronius; single named province, supported verbatim by 'proconsul tamen Bithyniae et mox consul'. Direct question, indicative fuit. Closed-book biographical fact about Petronius's public career before his fall."
+    },
+    {
+      "locus": "Tacitus, Annales 16.19",
+      "source_text": "neque tamen praeceps vitam expulit, sed incisas venas, ut libitum, obligatas aperire rursum et adloqui amicos, non per seria aut quibus gloriam constantiae peteret.",
+      "question": "Quo modo Petronius, Neronis elegantiae arbiter, sibi mortem conscivit, ut Tacitus tradit?",
+      "answer": "Incisis venis.",
+      "question_en": "By what means did Petronius, Nero's arbiter of elegance, take his own life, according to Tacitus?",
+      "answer_en": "By cutting his veins.",
+      "derivation": "Anchored to Petronius (the elegantiae arbiter); the method supported verbatim by 'incisas venas, ut libitum, obligatas aperire rursum'. Direct question, indicative conscivit. Tacitus stresses the leisurely manner: he bound and reopened them at will, dining and chatting. Closed-book: Petronius's elegant, unhurried suicide by opening his veins is a celebrated death-scene."
+    },
+    {
+      "locus": "Tacitus, Annales 16.21",
+      "source_text": "eaque offensio altius penetrabat, quia idem Thrasea Patavi, unde ortus erat, ludis cetastis a Troiano Antenore institutis habitu tragico cecinerat.",
+      "question": "Quo in oppido ortus erat Thrasea Paetus, ut Tacitus tradit?",
+      "answer": "Patavi.",
+      "question_en": "In which town had Thrasea Paetus been born, according to Tacitus?",
+      "answer_en": "At Patavium (Padua).",
+      "derivation": "Anchored to Thrasea Paetus; single named place, supported verbatim by 'idem Thrasea Patavi, unde ortus erat'. Locative Patavi. Closed-book: Thrasea Paetus's origin at Patavium (Padua, the city of Antenor) is a standard biographical fact."
+    },
+    {
+      "locus": "Tacitus, Annales 16.21",
+      "source_text": "Trucidatis tot insignibus viris ad postremum Nero virtutem ipsam excindere concupivit interfecto Thrasea Barea Sorano, olim utrisque infensus.",
+      "question": "Quem senatorem, virtutis ipsius specimen, Nero ad postremum una cum Barea Sorano perdere statuit, ut Tacitus tradit?",
+      "answer": "Thraseam Paetum.",
+      "question_en": "Which senator, a model of virtue itself, did Nero at last resolve to destroy together with Barea Soranus, according to Tacitus?",
+      "answer_en": "Thrasea Paetus.",
+      "derivation": "Anchored to Nero + Barea Soranus + the destruction of 'virtue itself'; single named person, supported verbatim by 'ad postremum Nero virtutem ipsam excindere concupivit interfecto Thrasea Barea Sorano' (stray cruces/character stripped). The text names him simply 'Thrasea' (full name Thrasea Paetus). Closed-book: Thrasea Paetus, the Stoic senator compelled to die by Nero, is the climactic senatorial martyrdom of the Annals."
+    },
+    {
+      "locus": "Tacitus, Annales 16.33",
+      "source_text": "accusatoribus Eprio et Cossutiano quinquagies sestertium singulis, Ostorio duodecies et quaestoria insignia tribuuntur.",
+      "question": "Qui duo Thraseam Paetum apud senatum accusaverunt et ob eam operam praemio pecuniae donati sunt, ut Tacitus tradit?",
+      "answer": "Cossutianus Capito et Eprius Marcellus.",
+      "question_en": "Which two men accused Thrasea Paetus before the senate and were rewarded with money for that service, according to Tacitus?",
+      "answer_en": "Cossutianus Capito and Eprius Marcellus.",
+      "derivation": "Anchored to Thrasea Paetus + his prosecution; two named accusers, supported by 'accusatoribus Eprio et Cossutiano quinquagies sestertium singulis ... tribuuntur' (the cognomen Capito at 16.21 'Capito Cossutianus', and Marcellus Eprius at 16.22). Each received 5,000,000 sesterces. Direct question, indicative accusaverunt. Closed-book: Cossutianus Capito and Eprius Marcellus are the notorious delatores of Thrasea Paetus."
+    },
+    {
+      "locus": "Tacitus, Annales 16.35",
+      "source_text": "porrectisque utriusque brachii venis, postquam cruorem effudit, humum super spargens, propius vocato quaestore 'libamus' inquit 'Iovi liberatori.'",
+      "question": "Cui deo Thrasea Paetus, venis utriusque brachii apertis, sanguinem suum libavit, ut Tacitus tradit?",
+      "answer": "Iovi liberatori.",
+      "question_en": "To which god did Thrasea Paetus pour his blood as a libation, having opened the veins of both arms, according to Tacitus?",
+      "answer_en": "To Jupiter the Liberator (Iuppiter Liberator).",
+      "derivation": "Anchored to Thrasea Paetus + his death; single named deity, supported verbatim by 'postquam cruorem effudit, humum super spargens ... libamus inquit Iovi liberatori'. Direct question, indicative libavit. Closed-book: Thrasea's dying libation of his blood to Iuppiter Liberator is the famous final scene of Annals 16."
+    }
+  ]
+}
