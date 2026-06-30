@@ -1,0 +1,115 @@
+{
+  "source": "text/caesar/gall3.txt",
+  "author": "Caesar",
+  "work": "De Bello Gallico, liber III",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Gallico 3.1",
+      "source_text": "Cum in Italiam proficisceretur Caesar, Ser. Galbam cum legione XII et parte equitatus in Nantuates, Veragros Sedunosque misit, qui a finibus Allobrogum et lacu Lemanno et flumine Rhodano ad summas Alpes pertinent.",
+      "question": "Quem legatum Caesar cum legione XII in Nantuates, Veragros Sedunosque misit?",
+      "answer": "Ser. Galbam.",
+      "question_en": "Which legate did Caesar send with the Twelfth legion against the Nantuates, Veragri and Seduni?",
+      "answer_en": "Servius Galba.",
+      "derivation": "Named-commander fact anchored to Caesar, the legion XII and the three Alpine peoples (Nantuates, Veragri, Seduni). Supported verbatim by 'Ser. Galbam cum legione XII ... in Nantuates, Veragros Sedunosque misit'. Single named answer; the opening of Book III, closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.1",
+      "source_text": "constituit cohortes duas in Nantuatibus conlocare et ipse cum reliquis eius legionis cohortibus in vico Veragrorum, qui appellatur Octodurus hiemare; qui vicus positus in valle non magna adiecta planitie altissimis montibus undique continetur.",
+      "question": "Quo nomine appellabatur vicus Veragrorum in quo Ser. Galba hiemare constituit?",
+      "answer": "Octodurus.",
+      "question_en": "What was the name of the village of the Veragri in which Servius Galba decided to take winter quarters?",
+      "answer_en": "Octodurus.",
+      "derivation": "Named-place fact anchored to Galba and the Veragri. The winter-quarters village is named verbatim ('in vico Veragrorum, qui appellatur Octodurus hiemare'). Single named answer; the famous Octodurus episode of BG III, closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.8",
+      "source_text": "Huius est civitatis longe amplissima auctoritas omnis orae maritimae regionum earum, quod et naves habent Veneti plurimas, quibus in Britanniam navigare consuerunt, et scientia atque usu rerum nauticarum ceteros antecedunt.",
+      "question": "Quae civitas longe amplissimam auctoritatem totius orae maritimae earum regionum obtinebat?",
+      "answer": "Veneti.",
+      "question_en": "Which people held by far the greatest authority of the whole sea-coast of those regions?",
+      "answer_en": "The Veneti.",
+      "derivation": "The headline ethnographic fact of the naval war: the Veneti are the foremost maritime power of the Atlantic coast ('Huius est civitatis longe amplissima auctoritas omnis orae maritimae ... naves habent Veneti plurimas'). Anchored to the Veneti; single named answer; closed-book staple of BG III."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.8",
+      "source_text": "Huius est civitatis longe amplissima auctoritas omnis orae maritimae regionum earum, quod et naves habent Veneti plurimas, quibus in Britanniam navigare consuerunt, et scientia atque usu rerum nauticarum ceteros antecedunt.",
+      "question": "In quam insulam Veneti navibus suis plurimis navigare consueverant?",
+      "answer": "In Britanniam.",
+      "question_en": "To which island had the Veneti been accustomed to sail with their very many ships?",
+      "answer_en": "To Britain.",
+      "derivation": "Geography fact anchored to the Veneti and their fleet ('naves habent Veneti plurimas, quibus in Britanniam navigare consuerunt'). Single named-place answer supported verbatim; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.9",
+      "source_text": "Quibus de rebus Caesar a Crasso certior factus, quod ipse aberat longius, naves interim longas aedificari in flumine Ligeri, quod influit in Oceanum, remiges ex provincia institui, nautas gubernatoresque comparari iubet.",
+      "question": "In quo flumine Caesar naves longas adversus Venetos aedificari iussit?",
+      "answer": "In flumine Ligeri.",
+      "question_en": "On which river did Caesar order warships to be built against the Veneti?",
+      "answer_en": "On the river Liger (the Loire).",
+      "derivation": "Geography fact anchored to Caesar and the Venetic war; the warships were built on the Liger (Loire) 'quod influit in Oceanum'. Supported verbatim by 'naves ... longas aedificari in flumine Ligeri'. Single named-river answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.11",
+      "source_text": "D. Brutum adulescentem classi Gallicisque navibus, quas ex Pictonibus et Santonis reliquisque pacatis regionibus convenire iusserat, praeficit et, cum primum possit, in Venetos proficisci iubet.",
+      "question": "Quem adulescentem Caesar classi Gallicisque navibus praefecit eumque in Venetos proficisci iussit?",
+      "answer": "Decimum Brutum.",
+      "question_en": "Which young man did Caesar put in charge of the fleet and the Gallic ships and order to set out against the Veneti?",
+      "answer_en": "Decimus Brutus.",
+      "derivation": "Named-commander fact anchored to Caesar, the fleet and the Veneti: Decimus Brutus commanded the naval expedition ('D. Brutum adulescentem classi Gallicisque navibus ... praeficit ... in Venetos proficisci iubet'), confirmed at 3.14 ('Bruto, qui classi praeerat'). Single named answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.11",
+      "source_text": "Q. Titurium Sabinum legatum cum legionibus tribus in Venellos, Coriosolites Lexoviosque mittit, qui eam manum distinendam curet.",
+      "question": "Quem legatum Caesar cum tribus legionibus in Venellos, Coriosolites Lexoviosque misit?",
+      "answer": "Q. Titurium Sabinum.",
+      "question_en": "Which legate did Caesar send with three legions against the Venelli, Coriosolites and Lexovii?",
+      "answer_en": "Quintus Titurius Sabinus.",
+      "derivation": "Named-commander fact anchored to Caesar and the three named peoples; Sabinus led three legions against the Venelli ('Q. Titurium Sabinum legatum cum legionibus tribus in Venellos ... mittit'). Single named answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.11",
+      "source_text": "P. Crassum cum cohortibus legionariis XII et magno numero equitatus in Aquitaniam proficisci iubet, ne ex his nationibus auxilia in Galliam mittantur ac tantae nationes coniungantur.",
+      "question": "In quam regionem Caesar P. Crassum cum duodecim cohortibus legionariis proficisci iussit?",
+      "answer": "In Aquitaniam.",
+      "question_en": "Into which region did Caesar order Publius Crassus to set out with twelve legionary cohorts?",
+      "answer_en": "Into Aquitania.",
+      "derivation": "Named-place/command fact anchored to Caesar and P. Crassus; Crassus was sent to subdue Aquitania ('P. Crassum cum cohortibus legionariis XII ... in Aquitaniam proficisci iubet'). Single named-region answer supported verbatim; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.14",
+      "source_text": "Quae ubi convenit ac primum ab hostibus visa est, circiter CCXX naves eorum paratissimae atque omni genere armorum ornatissimae profectae ex portu nostris adversae constiterunt.",
+      "question": "Quot fere naves Veneti adversus classem Romanam ex portu eduxerunt?",
+      "answer": "Circiter CCXX.",
+      "question_en": "About how many ships did the Veneti bring out of port against the Roman fleet?",
+      "answer_en": "About 220.",
+      "derivation": "Number fact anchored to the Veneti and the sea-battle; about 220 fully-equipped enemy ships sailed out against the Roman fleet ('circiter CCXX naves eorum paratissimae ... profectae ex portu nostris adversae constiterunt'). 'fere' mirrors the source's 'circiter'. Single number answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.17",
+      "source_text": "Q. Titurius Sabinus cum iis copiis quas a Caesare acceperat in fines Venellorum pervenit. His praeerat Viridovix ac summam imperii tenebat earum omnium civitatum quae defecerant.",
+      "question": "Quis Venellis praeerat et summam imperii omnium civitatum quae defecerant tenebat?",
+      "answer": "Viridovix.",
+      "question_en": "Who commanded the Venelli and held the supreme command of all the states that had revolted?",
+      "answer_en": "Viridovix.",
+      "derivation": "Named-leader fact anchored to the Venelli; Viridovix led them and held supreme command of the rebel states ('His praeerat Viridovix ac summam imperii tenebat earum omnium civitatum quae defecerant'). His defeat by Sabinus is the climax of the episode (3.19). Single named answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.22",
+      "source_text": "Adiatunnus, qui summam imperii tenebat, cum DC devotis, quos illi soldurios appellant, quorum haec est condicio, ut omnibus in vita commodis una cum iis fruantur quorum se amicitiae dediderint, si quid his per vim accidat, aut eundem casum una ferant aut sibi mortem consciscant.",
+      "question": "Quo nomine appellabantur sescenti illi viri Adiatunno in Aquitania devoti?",
+      "answer": "Soldurii.",
+      "question_en": "By what name were those six hundred men devoted to Adiatunnus in Aquitania called?",
+      "answer_en": "Soldurii.",
+      "derivation": "Named-custom fact anchored to Adiatunnus (the Sotiatian leader, 'qui summam imperii tenebat') and his 600 devoted followers; Caesar records that they call them soldurii ('cum DC devotis, quos illi soldurios appellant'). The soldurii are a celebrated Aquitanian institution; single named answer, closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 3.26",
+      "source_text": "Quos equitatus apertissimis campis consectatus ex milium L numero, quae ex Aquitania Cantabrisque convenisse constabat, vix quarta parte relicta, multa nocte se in castra recepit.",
+      "question": "Ex quot hominum milibus, quae ex Aquitania Cantabrisque convenerant, vix quarta pars proelio superfuit?",
+      "answer": "Ex L milibus.",
+      "question_en": "Out of how many thousand men, who had assembled from Aquitania and the Cantabri, did barely a quarter survive the battle?",
+      "answer_en": "Out of fifty thousand.",
+      "derivation": "Number fact anchored to Crassus's Aquitanian campaign and the host drawn from Aquitania and the Cantabri; of 50,000 barely a quarter remained ('ex milium L numero, quae ex Aquitania Cantabrisque convenisse constabat, vix quarta parte relicta'). Single number answer supported verbatim; closed-book."
+    }
+  ]
+}
