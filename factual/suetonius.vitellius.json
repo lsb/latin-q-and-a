@@ -1,0 +1,124 @@
+{
+  "source": "text/suetonius/suet.vit.txt",
+  "author": "Suetonius",
+  "work": "Vitellius",
+  "pairs": [
+    {
+      "locus": "Suetonius, Vitellius 7",
+      "source_text": "Advenientem male animatus erga principem exercitus pronusque ad res novas libens ac supinis manibus excepit, velut dono deum oblatum, ter consulis filium, aetate integra, facili ac prodigo animo.",
+      "question": "Quotiens consul fuit pater A. Vitellii imperatoris?",
+      "answer": "Ter.",
+      "question_en": "How many times was the father of the emperor Aulus Vitellius consul?",
+      "answer_en": "Three times.",
+      "derivation": "Family fact: the emperor's father, Lucius Vitellius, was consul three times (AD 34, 43, 47). The army welcomed Vitellius as 'ter consulis filium' (son of a man thrice consul). Number answer supported verbatim by 'ter consulis filium.' Entity-anchored to Vitellius's father; closed-book: Lucius Vitellius's three consulships are the standard mark of his eminence under Claudius."
+    },
+    {
+      "locus": "Suetonius, Vitellius 2",
+      "source_text": "Lucius ex consulatu Syriae praepositus, Artabanum Parthorum regem summis artibus non modo ad conloquium suum, sed etiam ad veneranda legionum signa pellexit. Mox cum Claudio principe duos insuper ordinarios consulatus censuramque gessit.",
+      "question": "Quod munus Lucius Vitellius, A. Vitellii imperatoris pater, cum Claudio principe praeter consulatus gessit?",
+      "answer": "Censuram.",
+      "question_en": "What office, besides consulships, did Lucius Vitellius, the father of the emperor Aulus Vitellius, hold together with the emperor Claudius?",
+      "answer_en": "The censorship.",
+      "derivation": "Family/career fact: Lucius Vitellius held the censorship (AD 47-48) jointly with Claudius, along with two further ordinary consulships. Answer supported verbatim by 'duos insuper ordinarios consulatus censuramque gessit.' Entity-anchored to Lucius Vitellius + Claudius; single-office answer. Closed-book: Lucius Vitellius was Claudius's colleague in the censorship."
+    },
+    {
+      "locus": "Suetonius, Vitellius 3",
+      "source_text": "Decessit paralysi altero die quam correptus est, duobus filiis superstitibus, quos ex Sextilia probatissima nec ignobili femina editos consules vidit, et quidem eodem ambos totoque anno, cum maiori minor in sex menses successisset.",
+      "question": "Quae fuit mater A. Vitellii imperatoris?",
+      "answer": "Sextilia.",
+      "question_en": "Who was the mother of the emperor Aulus Vitellius?",
+      "answer_en": "Sextilia.",
+      "derivation": "Family fact: Sextilia, wife of Lucius Vitellius, was the mother of the emperor. The source records that Lucius's two surviving sons were born 'ex Sextilia' and both reached the consulship in one year (the younger succeeding the elder within six months) - the elder being the future emperor Aulus Vitellius. Single-name answer supported verbatim by 'ex Sextilia ... editos.' Entity-anchored to the emperor; closed-book: Sextilia is the known mother of Vitellius (cf. ch. 14, his suspected role in her death)."
+    },
+    {
+      "locus": "Suetonius, Vitellius 5",
+      "source_text": "Trium itaque principium indulgentia non solum honoribus verum et sacerdotiis amplissimis auctus, proconsulatum Africae post haec curamque operum publicorum administravit et voluntate dispari et existimatione.",
+      "question": "Cuius provinciae proconsulatum A. Vitellius ante principatum administravit?",
+      "answer": "Africae.",
+      "question_en": "Of which province did Aulus Vitellius hold the proconsulship before his reign?",
+      "answer_en": "Of Africa.",
+      "derivation": "Career fact: before becoming emperor Vitellius governed Africa as proconsul. Province answer supported verbatim by 'proconsulatum Africae ... administravit.' Entity-anchored to Vitellius + Africa; verifiable, translatable, fact-seeking. Closed-book: a fixed point of his pre-imperial cursus."
+    },
+    {
+      "locus": "Suetonius, Vitellius 7",
+      "source_text": "A Galba in inferiorem Germaniam contra opinionem missus est.",
+      "question": "In quam provinciam A. Vitellius a Galba missus est?",
+      "answer": "In inferiorem Germaniam.",
+      "question_en": "To which province was Aulus Vitellius sent by Galba?",
+      "answer_en": "To Lower Germany.",
+      "derivation": "Pivotal fact: Galba sent Vitellius, against expectation, to govern Lower Germany (Germania Inferior), where the legions soon proclaimed him emperor. Place answer supported verbatim by 'A Galba in inferiorem Germaniam ... missus est.' Entity-anchored to Vitellius + Galba + Lower Germany. Closed-book: the command from which Vitellius launched his bid for the throne in AD 69."
+    },
+    {
+      "locus": "Suetonius, Vitellius 8",
+      "source_text": "Consentiente deinde etiam superioris provinciae exercitu, qui prius a Galba ad senatum defecerat, cognomen Germanici delatum ab universis cupide recepit, Augusti distulit, Caesaris in perpetuum recusavit.",
+      "question": "Quod cognomen A. Vitellius ab exercitu oblatum cupide recepit?",
+      "answer": "Germanici.",
+      "question_en": "Which cognomen, offered by the army, did Aulus Vitellius eagerly accept?",
+      "answer_en": "Germanicus.",
+      "derivation": "Accession fact: on his proclamation Vitellius eagerly took the cognomen 'Germanicus' (from his German legions), deferred 'Augustus,' and refused 'Caesar.' Answer supported verbatim by 'cognomen Germanici ... cupide recepit.' Entity-anchored to Vitellius; single-name answer. Closed-book: 'Germanicus' is the title by which Vitellius styled himself."
+    },
+    {
+      "locus": "Suetonius, Vitellius 8",
+      "source_text": "Consentiente deinde etiam superioris provinciae exercitu, qui prius a Galba ad senatum defecerat, cognomen Germanici delatum ab universis cupide recepit, Augusti distulit, Caesaris in perpetuum recusavit.",
+      "question": "Quod nomen A. Vitellius, imperator a militibus consalutatus, in perpetuum recusavit?",
+      "answer": "Nomen Caesaris.",
+      "question_en": "Which name did Aulus Vitellius, hailed emperor by the soldiers, refuse forever?",
+      "answer_en": "The name Caesar.",
+      "derivation": "Accession fact: while accepting 'Germanicus,' Vitellius refused the name 'Caesar' outright and for good - an unusual gesture among the emperors. Answer supported verbatim by 'Caesaris in perpetuum recusavit.' Entity-anchored to Vitellius; translatable, fact-seeking. Closed-book: a noted detail of his accession."
+    },
+    {
+      "locus": "Suetonius, Vitellius 13",
+      "source_text": "Hanc quoque exsuperavit ipse dedicatione patinae, quam ob immensam magnitudinem clipeum Minervae polioychoy dictitabat.",
+      "question": "Quo nomine A. Vitellius patinam illam immensae magnitudinis appellabat?",
+      "answer": "Clipeum Minervae poliouchou.",
+      "question_en": "By what name did Aulus Vitellius call that platter of enormous size?",
+      "answer_en": "The shield of Minerva the city-protectress (Poliouchos).",
+      "derivation": "Gluttony fact (single clean datum): a colossal dish Vitellius nicknamed 'the shield of Minerva Poliouchos' (city-guardian). Answer supported verbatim by 'clipeum Minervae ... dictitabat.' Entity-anchored to Vitellius; translatable as a nickname. Closed-book: the 'Shield of Minerva' is the most famous emblem of his legendary gluttony. (source_text keeps the Latin Library transliteration 'polioychoy' for Greek poliouchou.)"
+    },
+    {
+      "locus": "Suetonius, Vitellius 15",
+      "source_text": "Octavo imperii mense desciverunt ab eo exercitus Moesiarum atque Pannoniae, item ex transmarinis Iudaicus et Syriaticus, ac pars in absentis, pars in praesentis Vespasiani verba iurarunt.",
+      "question": "Quoto imperii mense exercitus Moesiarum et Pannoniae ab A. Vitellio desciverunt?",
+      "answer": "Octavo.",
+      "question_en": "In which month of his reign did the armies of the Moesias and of Pannonia revolt from Aulus Vitellius?",
+      "answer_en": "In the eighth.",
+      "derivation": "Reign-length anchor: in the eighth month of his reign the Danubian and eastern armies revolted; Vitellius held power only about eight months (proclaimed Jan., dead Dec. AD 69). Ordinal answer supported verbatim by 'Octavo imperii mense desciverunt.' Entity-anchored to Vitellius. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Vitellius 15",
+      "source_text": "Octavo imperii mense desciverunt ab eo exercitus Moesiarum atque Pannoniae, item ex transmarinis Iudaicus et Syriaticus, ac pars in absentis, pars in praesentis Vespasiani verba iurarunt.",
+      "question": "In cuius verba exercitus, ab A. Vitellio deficientes, iurarunt?",
+      "answer": "In Vespasiani verba.",
+      "question_en": "To whom did the armies that revolted from Aulus Vitellius swear allegiance?",
+      "answer_en": "To Vespasian.",
+      "derivation": "Succession fact: the revolting armies (Moesia, Pannonia, Judaea, Syria) swore allegiance to Vespasian. Answer supported verbatim by '... in ... Vespasiani verba iurarunt' (idiom iurare in verba alicuius). Entity-anchored to Vitellius + Vespasian. Closed-book: Vespasian's bid that overthrew Vitellius and ended the year of the four emperors."
+    },
+    {
+      "locus": "Suetonius, Vitellius 17",
+      "source_text": "Tandem apud Gemonias minutissimis ictibus excarnificatus atque confectus et inde unco tractus in Tiberim.",
+      "question": "In quod flumen cadaver A. Vitellii unco tractum est?",
+      "answer": "In Tiberim.",
+      "question_en": "Into which river was the body of Aulus Vitellius dragged with a hook?",
+      "answer_en": "Into the Tiber.",
+      "derivation": "Death fact: tortured to death with tiny cuts at the Gemonian steps, Vitellius's body was then dragged with a hook into the Tiber. Place answer supported verbatim by 'unco tractus in Tiberim.' Entity-anchored to Vitellius. Closed-book: the infamous end of Vitellius."
+    },
+    {
+      "locus": "Suetonius, Vitellius 18",
+      "source_text": "Periit cum fratre et filio anno vitae septimo quinquagesimo.",
+      "question": "Quotum vitae annum agens A. Vitellius, ut Suetonius tradit, periit?",
+      "answer": "Septimum quinquagesimum.",
+      "question_en": "In which year of his life did Aulus Vitellius die, as Suetonius reports?",
+      "answer_en": "In his fifty-seventh.",
+      "derivation": "Age-at-death fact: he died in his fifty-seventh year. Ordinal answer supported verbatim by 'anno vitae septimo quinquagesimo.' Attributed to Suetonius ('ut Suetonius tradit') because this figure is the author's (the age is debated). Entity-anchored to Vitellius. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Vitellius 18",
+      "source_text": "siquidem ab Antonio Primo adversarum partium duce oppressus est, cum Tolosae nato cognomen in pueritia Becco fuerat; id valet gallinacei rostrum.",
+      "question": "A quo adversarum partium duce A. Vitellius oppressus est?",
+      "answer": "Ab Antonio Primo.",
+      "question_en": "By which leader of the opposing (Flavian) party was Aulus Vitellius overthrown?",
+      "answer_en": "By Antonius Primus.",
+      "derivation": "Fall fact: the Flavian general Antonius Primus crushed Vitellius. Name answer supported verbatim by 'ab Antonio Primo adversarum partium duce oppressus est.' Entity-anchored to Vitellius + Antonius Primus. Closed-book: Antonius Primus led Vespasian's forces to the decisive victory (second battle of Bedriacum/Cremona, Oct. AD 69)."
+    }
+  ]
+}
