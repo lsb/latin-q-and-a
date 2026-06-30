@@ -1,0 +1,160 @@
+{
+  "source": "text/suetonius/suet.vesp.txt",
+  "author": "Suetonius",
+  "work": "Divus Vespasianus",
+  "pairs": [
+    {
+      "locus": "Suetonius, Divus Vespasianus 1",
+      "source_text": "Rebellione trium principum et caede incertum diu et quasi vagum imperium suscepit firmavitque tandem gens Flavia, obscura illa quidem ac sine ullis maiorum imaginibus, sed tamen rei p. nequaquam paenitenda.",
+      "question": "Quae gens, ut Suetonius scribit, imperium diu incertum ac vagum tandem suscepit firmavitque?",
+      "answer": "Gens Flavia.",
+      "question_en": "Which family, as Suetonius writes, finally took up and made firm the empire that had long been uncertain and adrift?",
+      "answer_en": "The Flavian family (gens Flavia).",
+      "derivation": "The founding of the Flavian dynasty (Vespasian, then his sons Titus and Domitian). Anchored to the gens Flavia; single-entity answer supported verbatim by 'suscepit firmavitque tandem gens Flavia.' Closed-book: the rise of the Flavians after the year of the four emperors."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 2",
+      "source_text": "Vespasianus natus est in Sabinis ultra Reate vico modico, cui nomen est Phalacrinae, XV. kal. Dec. vesperi, Q. Sulpicio Camerino C. Poppaeo Sabino cons., quinquennio ante quam Augustus excederet.",
+      "question": "Quo in loco, in Sabinis ultra Reate, Vespasianum natum esse Suetonius tradit?",
+      "answer": "In vico cui nomen Phalacrinae, ultra Reate.",
+      "question_en": "In what place, in the Sabine country beyond Reate, does Suetonius say Vespasian was born?",
+      "answer_en": "In the village called Phalacrinae, beyond Reate.",
+      "derivation": "Birthplace fact, anchored to Vespasian. Supported verbatim by 'in Sabinis ultra Reate vico modico, cui nomen est Phalacrinae.' Indirect statement (natum esse) under tradit. Closed-book: Vespasian's Sabine birthplace near Reate is a standard biographical fact."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 1",
+      "source_text": "Postea faenus apud Helvetios exercuit ibique diem obiit superstitibus uxore Vespasia Polla et duobus ex ea liberis, quorum maior Sabinus ad praefecturam urbis, minor Vespasianus ad principatum usque processit.",
+      "question": "Quo nomine appellata est mater Vespasiani imperatoris?",
+      "answer": "Vespasia Polla.",
+      "question_en": "By what name was the mother of the emperor Vespasian called?",
+      "answer_en": "Vespasia Polla.",
+      "derivation": "Family fact. The source names Vespasia Polla as the wife (of Vespasian's father) and mother of the two sons, of whom the younger, Vespasian, reached the principate. Entity-anchored to Vespasian; single-name answer supported verbatim."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 3",
+      "source_text": "Inter haec Flaviam Domitillam duxit uxorem, Statilii Capellae equitis R. Sabratensis ex Africa delicatam olim Latinaeque condicionis, sed mox ingenuam et civem Rom. reciperatorio iudicio pronuntiatam.",
+      "question": "Quam Vespasianus uxorem duxit, ex qua liberos suscepit?",
+      "answer": "Flaviam Domitillam.",
+      "question_en": "Whom did Vespasian take as his wife, from whom he had his children?",
+      "answer_en": "Flavia Domitilla.",
+      "derivation": "Family fact. Supported verbatim by 'Flaviam Domitillam duxit uxorem.' Entity-anchored to Vespasian; single-name answer. Closed-book: his wife, mother of Titus and Domitian."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 3",
+      "source_text": "Ex hac liberos tulit Titum et Domitianum et Domitillam.",
+      "question": "Quos liberos Vespasianus ex Flavia Domitilla tulit?",
+      "answer": "Titum, Domitianum et Domitillam.",
+      "question_en": "What children did Vespasian have by Flavia Domitilla?",
+      "answer_en": "Titus, Domitian, and Domitilla.",
+      "derivation": "Family fact. Supported verbatim by 'Ex hac liberos tulit Titum et Domitianum et Domitillam.' Entity-anchored to Vespasian and Flavia Domitilla; the two sons, Titus and Domitian, each later became emperor. Short list answer."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 4",
+      "source_text": "inde in Britanniam translatus tricies cum hoste conflixit. Duas validissimas gentes superque viginti oppida et insulam Vectem Britanniae proximan in dicionem redegit, partim Auli Plautii legati consularis, partim Claudi ipsius ductu.",
+      "question": "Quam insulam Britanniae proximam Vespasianus, in Britannia rem gerens, in dicionem redegit?",
+      "answer": "Insulam Vectem.",
+      "question_en": "Which island next to Britain did Vespasian, while campaigning in Britain, bring under his control?",
+      "answer_en": "The island of Vectis (the Isle of Wight).",
+      "derivation": "Career fact: under Claudius, Vespasian campaigned in Britain and subdued the island of Vectis (Isle of Wight). Supported verbatim by 'insulam Vectem Britanniae proximan in dicionem redegit.' Entity-anchored to Vespasian + Britain + the named island; single place answer. (source_text retains the Latin Library OCR slip 'proximan' for 'proximam'.)"
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 4",
+      "source_text": "Additis igitur ad copias duabus legionibus, octo alis, cohortibus decem, atque inter legatos maiore filio assumpto, ut primum provinciam attigit, proximas quoque convertit in se.",
+      "question": "Quem filium suum Vespasianus, dux in bello Iudaico, inter legatos sibi assumpsit?",
+      "answer": "Maiorem filium, Titum.",
+      "question_en": "Which of his sons did Vespasian, as commander in the Jewish war, take to himself among his legates?",
+      "answer_en": "His elder son, Titus.",
+      "derivation": "Career fact: in the Jewish war (under Nero) Vespasian took his elder son Titus among his legates. Supported by 'inter legatos maiore filio assumpto'; the elder son is Titus (named ch. 3). Entity-anchored to Vespasian + Titus + the Jewish war; short answer."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 5",
+      "source_text": "et unus ex nobilibus captivis Iosephus, cum coiceretur in vincula, constantissime asseveravit fore ut ab eodem brevi solveretur, verum iam imperatore.",
+      "question": "Quis ex nobilibus captivis, in vincula coniectus, Vespasianum brevi imperatorem fore praedixit?",
+      "answer": "Iosephus.",
+      "question_en": "Which of the noble captives, when thrown into chains, predicted that Vespasian would soon be emperor?",
+      "answer_en": "Josephus (the historian Flavius Josephus).",
+      "derivation": "Famous anecdote: the captured Jewish leader Josephus declared that Vespasian would soon free him, but as emperor. Supported by 'unus ex nobilibus captivis Iosephus ... asseveravit fore ut ab eodem brevi solveretur, verum iam imperatore.' Entity-anchored to Josephus + Vespasian; single-name answer; closed-book (a well-known episode of Josephus's life)."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 6",
+      "source_text": "Ceterum divulgato facto, Tiberius Alexander praefectus Aegypti primus in verba Vespasiani legiones adegit Kal. Iul., qui principatus dies in posterum observatus est.",
+      "question": "Quis praefectus Aegypti primus legiones in verba Vespasiani adegit?",
+      "answer": "Tiberius Alexander.",
+      "question_en": "Which prefect of Egypt was the first to swear his legions into allegiance to Vespasian?",
+      "answer_en": "Tiberius Alexander.",
+      "derivation": "Accession fact (AD 69). Supported verbatim by 'Tiberius Alexander praefectus Aegypti primus in verba Vespasiani legiones adegit Kal. Iul.'; that day (1 July) was thereafter kept as Vespasian's dies imperii. Entity-anchored, single-name answer; the proclamation of Vespasian while in the East."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 8",
+      "source_text": "Talis tantaque cum fama in urbem reversus, acto de Iudaeis triumpho, consulatus octo veteri addidit; suscepit et censuram.",
+      "question": "De qua gente Vespasianus, in urbem reversus, triumphum egit?",
+      "answer": "De Iudaeis.",
+      "question_en": "Over what people did Vespasian, on returning to the city, celebrate a triumph?",
+      "answer_en": "Over the Jews.",
+      "derivation": "Career fact: the Jewish triumph (AD 71). Supported verbatim by 'acto de Iudaeis triumpho.' Entity-anchored to Vespasian + the Jews; short answer. Closed-book: the famous triumph over Judaea, commemorated on the Arch of Titus."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 9",
+      "source_text": "Fecit et nova opera templum Pacis foro proximum, Divique Claudii in Caelio monte coeptum quidem ab Agrippina, sed a Nerone prope funditus destructum; item amphitheatrum urbe media, ut destinasse compererat Augustum.",
+      "question": "Quod novum opus Vespasianus urbe media exstruere coepit, quod Augustum destinasse compererat?",
+      "answer": "Amphitheatrum.",
+      "question_en": "What new structure did Vespasian begin to build in the middle of the city, which he had learned Augustus had planned?",
+      "answer_en": "An amphitheatre (the Flavian Amphitheatre, the Colosseum).",
+      "derivation": "Building fact: the Flavian Amphitheatre (Colosseum), begun by Vespasian in the city center. Supported verbatim by 'item amphitheatrum urbe media.' Entity-anchored to Vespasian; single answer; the most famous Flavian monument."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 23",
+      "source_text": "Reprehendenti filio Tito, quod etiam urinae vectigal commentus esset, pecuniam ex prima pensione admovit ad nares, sciscitans num odore offenderetur; et illo negante: Atqui, inquit, e lotio est.",
+      "question": "Quid Vespasianus filio Tito respondit, cum is urinae vectigal a patre excogitatum reprehenderet?",
+      "answer": "Atqui, e lotio est.",
+      "question_en": "What did Vespasian reply to his son Titus, when Titus criticized the tax on urine devised by his father?",
+      "answer_en": "And yet it comes from urine.",
+      "derivation": "The iconic 'pecunia non olet' episode: Titus objected to the urine tax, and Vespasian held a coin to his nose, saying 'Atqui, e lotio est' ('And yet it's from urine'). Supported verbatim. Entity-anchored to Vespasian + Titus + the urine tax; the saying survives translation and is among the most famous in Suetonius."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 23",
+      "source_text": "prima quoque morbi accessione: Vae, inquit, puto, deus fio.",
+      "question": "Quid Vespasianus per iocum dixit, cum primum morbo, quo postea periit, corriperetur?",
+      "answer": "Vae, puto, deus fio.",
+      "question_en": "What did Vespasian jokingly say when he was first seized by the illness of which he later died?",
+      "answer_en": "Woe, I think I am becoming a god.",
+      "derivation": "Vespasian's dying jest at the onset of his final illness, mocking the deification of emperors. Supported verbatim by 'prima quoque morbi accessione: Vae, inquit, puto, deus fio.' Entity-anchored to Vespasian; the famous saying survives translation; closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 24",
+      "source_text": "alvo repente usque ad defectionem soluta, imperatorem, ait statem mori oportere; dumque consurgit ac mititur, inter manus sublevantium extinctus est VIIII. Kal. Iul.",
+      "question": "Quid Vespasianus moriens dixit imperatorem facere oportere?",
+      "answer": "Stantem mori (imperatorem stantem mori oportere).",
+      "question_en": "What did the dying Vespasian say an emperor ought to do?",
+      "answer_en": "Die standing (an emperor ought to die on his feet).",
+      "derivation": "Vespasian's last famous saying, that an emperor ought to die standing; he died in the act of rising, held up by his attendants. Entity-anchored to Vespasian; translatable; closed-book. (source_text retains the Latin Library OCR slips 'statem' for 'stantem' and 'mititur' for 'nititur'.)"
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 24",
+      "source_text": "Consulatu suo nono temptatus in Campania motiunculis levibus protinusque urbe repetita, Cutilias ac Reatina rura, ubi aestivare quotannis solebat, petit.",
+      "question": "Quo Vespasianus, valetudine temptatus, ex urbe se contulit, ubi mox decessit?",
+      "answer": "Cutilias ac Reatina rura (prope Reate).",
+      "question_en": "To what place did Vespasian, when his health failed, withdraw from the city, where he soon died?",
+      "answer_en": "To Cutiliae and the Reatine country (near Reate).",
+      "derivation": "Death-place fact: Vespasian fell ill and died at Cutiliae (Aquae Cutiliae) in the Reatine country near Reate, his usual summer retreat. Supported verbatim by 'Cutilias ac Reatina rura ... petit'; he died there (ch. 24, 'inter manus sublevantium extinctus est'). Entity-anchored; place answer."
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 24",
+      "source_text": "inter manus sublevantium extinctus est VIIII. Kal. Iul. annum agens aetatis sexagensimum ac nonum, superque mensem ac diem septimum.",
+      "question": "Quotum aetatis annum agens Vespasianus decessit, ut Suetonius tradit?",
+      "answer": "Annum sexagesimum nonum.",
+      "question_en": "In which year of his age did Vespasian die, according to Suetonius?",
+      "answer_en": "His sixty-ninth.",
+      "derivation": "Age-at-death fact. Supported verbatim by 'annum agens aetatis sexagensimum ac nonum.' Ordinal/number answer, entity-anchored to Vespasian; closed-book (he died in AD 79, aged 69). (source_text retains the Latin Library spelling 'sexagensimum' for 'sexagesimum'.)"
+    },
+    {
+      "locus": "Suetonius, Divus Vespasianus 25",
+      "source_text": "Convenit inter omnis, tam certum eum de sua suorumque genitura semper fuisse, ut post assiduas in se coniurationes ausus sit adfirmare senatui, ut filios sibi successuros aut neminem.",
+      "question": "Quos Vespasianus senatui adfirmavit sibi successuros esse aut neminem?",
+      "answer": "Filios suos (Titum et Domitianum).",
+      "question_en": "Whom did Vespasian declare to the senate would succeed him, or else no one would?",
+      "answer_en": "His own sons (Titus and Domitian).",
+      "derivation": "Succession fact: Vespasian assured the senate that his sons would succeed him or no one. Supported verbatim by 'filios sibi successuros aut neminem'; his sons Titus, then Domitian, did in fact succeed him. Entity-anchored to Vespasian; short answer."
+    }
+  ]
+}
