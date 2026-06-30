@@ -1,0 +1,151 @@
+{
+  "source": "text/suetonius/suet.titus.txt",
+  "author": "Suetonius",
+  "work": "Divus Titus",
+  "pairs": [
+    {
+      "locus": "Suetonius, Divus Titus 1",
+      "source_text": "Titus cognomine paterno, amor ac deliciae generis humani, (tantum illi ad promerendam omnium voluntatem vel ingenii vel artis vel fortunae superfuit, et, quod difficillimum est, in imperio: quando privatus atque etiam sub patre principe ne odio quidem, nedum vituperatione publica caruit), natus est III. Kal. Ian.",
+      "question": "Quo praeconio Suetonius Titum imperatorem in vitae principio appellat?",
+      "answer": "Amorem ac delicias generis humani.",
+      "question_en": "By what acclamation does Suetonius hail the emperor Titus at the start of his life?",
+      "answer_en": "The love and darling of the human race.",
+      "derivation": "The famous Suetonian judgment on Titus. Supported verbatim by the appositive 'amor ac deliciae generis humani.' Entity-anchored to Titus; closed-book, as this is among the most quoted epithets of any emperor. Answer cast in accusative as the predicate of appellat."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 2",
+      "source_text": "educatus in aula cum Britannico simul, ac paribus disciplinis et apud eosdem magistros institutus.",
+      "question": "Cum quo Titus in aula educatus est, paribus disciplinis et apud eosdem magistros institutus?",
+      "answer": "Cum Britannico.",
+      "question_en": "With whom was Titus brought up in the palace, schooled in the same studies under the same teachers?",
+      "answer_en": "With Britannicus (son of the emperor Claudius).",
+      "derivation": "Biographical fact: Titus was reared alongside Britannicus, Claudius's son. Supported verbatim by 'educatus in aula cum Britannico simul.' Entity-anchored to Titus + Britannicus; single-name answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 4",
+      "source_text": "eodemque tempore Arrecinam Tertullam, patre eq. R. sed praefecto quodam praetorianarum cohortium, duxit uxorem et in defunctae locum Marciam Furnillam splendidi generis; cum qua, sublata filia, divortium fecit.",
+      "question": "Quas uxores Titus duxit, primum unam, deinde in defunctae locum alteram?",
+      "answer": "Arrecinam Tertullam et Marciam Furnillam.",
+      "question_en": "Which wives did Titus marry, one first and then a second in place of the deceased?",
+      "answer_en": "Arrecina Tertulla and Marcia Furnilla.",
+      "derivation": "Family fact: the two wives of Titus. Supported verbatim by 'Arrecinam Tertullam ... duxit uxorem et in defunctae locum Marciam Furnillam.' Entity-anchored to Titus; bounded two-name answer (cf. the multi-name set answers in the Vespasian file)."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 4",
+      "source_text": "Ex questurae deinde honore legioni praepositus, Taricheas et Gamalam urbes Iudaeae validissimas in potestate redegit.",
+      "question": "Quas urbes Iudaeae validissimas Titus, legioni praepositus, in potestatem redegit?",
+      "answer": "Taricheas et Gamalam.",
+      "question_en": "Which very strong cities of Judaea did Titus, put in command of a legion, bring under his power?",
+      "answer_en": "Tarichaeae and Gamala.",
+      "derivation": "Career fact from the Jewish war. Supported verbatim by 'Taricheas et Gamalam urbes Iudaeae validissimas in potestate redegit.' Entity-anchored to Titus + Judaea; two named-place answer. (source_text keeps the Latin Library reading 'in potestate redegit' for 'in potestatem redegit.')"
+    },
+    {
+      "locus": "Suetonius, Divus Titus 5",
+      "source_text": "Cuius brevi compos, et ad perdomandam Iudaeam relictus, novissima Hierosolymorum oppugnatione duodecim propugnatores totidem sagittarum confecit ictibus, cepitque ea natali filiae suae tanto militum gaudio ac favore, ut in gratulatione imperatorem eum consalutaverint.",
+      "question": "Quam urbem Titus, ad perdomandam Iudaeam relictus, novissima oppugnatione cepit?",
+      "answer": "Hierosolyma.",
+      "question_en": "Which city did Titus, left to subdue Judaea, capture in the final assault?",
+      "answer_en": "Jerusalem.",
+      "derivation": "The famous conquest: Titus took Jerusalem in the final assault of the Jewish war (AD 70). Supported by 'novissima Hierosolymorum oppugnatione ... cepitque ea.' Entity-anchored to Titus + Jerusalem; single-place answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 6",
+      "source_text": "Triumphavit cum patre censuramque gessit una, eidem collega et in tribunicia potestate et in septem consulatibus fuit.",
+      "question": "In quot consulatibus Titus patri Vespasiano collega fuit?",
+      "answer": "In septem.",
+      "question_en": "In how many consulships was Titus a colleague to his father Vespasian?",
+      "answer_en": "In seven.",
+      "derivation": "Number/office fact: Titus shared seven consulships with his father. Supported verbatim by 'in septem consulatibus fuit.' Entity-anchored to Titus + Vespasian; single-number answer."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 7",
+      "source_text": "Berenicen statim ab urbe dimisit, invitus, invitam.",
+      "question": "Quam reginam Titus, princeps factus, statim ab urbe dimisit, invitus invitam?",
+      "answer": "Berenicen.",
+      "question_en": "Which queen did Titus, on becoming emperor, immediately send away from Rome, unwilling though she too was unwilling?",
+      "answer_en": "Berenice (the Jewish queen).",
+      "derivation": "Famous episode: Titus dismissed Queen Berenice from Rome on his accession. Supported verbatim by 'Berenicen statim ab urbe dimisit, invitus, invitam.' Entity-anchored to Titus + Berenice; single-name answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 7",
+      "source_text": "Et tamen nemine ante se munificentia minor, amphitheatro dedicato thermisque iuxta celeriter exstructis, munus edidit apparatissimum largissimusque; dedit et navale proelium in veteri naumachia, ibidem et gladiatores atque uno die quinque milia omne genus ferarum.",
+      "question": "Quod opus Titus dedicavit, thermis iuxta celeriter exstructis, cum munus apparatissimum ederet?",
+      "answer": "Amphitheatrum.",
+      "question_en": "What structure did Titus dedicate, with baths quickly built nearby, when he gave a most lavish show?",
+      "answer_en": "The amphitheatre (the Flavian Amphitheatre, the Colosseum).",
+      "derivation": "Building fact: Titus dedicated the amphitheatre (the Colosseum) and built adjacent baths. Supported verbatim by 'amphitheatro dedicato thermisque iuxta celeriter exstructis.' Entity-anchored to Titus; single-answer; the most famous act of his reign."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 8",
+      "source_text": "atque etiam recordatus quondam super cenam, quod nihil cuiquam toto die praestitisset, memorabilem illam meritoque laudatam vocem edidit: \"Amici, diem perdidi.\"",
+      "question": "Quam memorabilem vocem Titus edidit, cum recordatus esset se nihil cuiquam toto die praestitisse?",
+      "answer": "Amici, diem perdidi.",
+      "question_en": "What memorable saying did Titus utter when he recalled that he had done no one a kindness the whole day?",
+      "answer_en": "Friends, I have lost a day.",
+      "derivation": "The most famous saying of Titus. Supported verbatim by the quoted 'Amici, diem perdidi.' Entity-anchored to Titus; survives translation; closed-book. Indirect statement (se ... praestitisse) under recordatus esset."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 8",
+      "source_text": "Quaedam sub eo fortuita ac tristia acciderunt, ut conflagratio Vesevi montis in Campania, et incendium Romae per triduum totidemque noctes, item pestilentia quanta non temere alias.",
+      "question": "Cuius montis conflagratio in Campania sub Tito principe accidit?",
+      "answer": "Vesevi montis.",
+      "question_en": "The eruption of which mountain occurred in Campania during the reign of Titus?",
+      "answer_en": "Of Mount Vesuvius.",
+      "derivation": "The eruption of Vesuvius (AD 79), the great disaster of Titus's reign. Supported verbatim by 'conflagratio Vesevi montis in Campania.' Entity-anchored to Titus's reign + Campania; single-place answer; closed-book. (source_text keeps the Latin Library spelling 'Vesevi' for 'Vesuvii'.)"
+    },
+    {
+      "locus": "Suetonius, Divus Titus 9",
+      "source_text": "Pontificatum maximum ideo se professus accipere ut puras servaret manus, fidem praestitit.",
+      "question": "Quod sacerdotium Titus se accipere professus est, ut puras servaret manus?",
+      "answer": "Pontificatum maximum.",
+      "question_en": "Which priesthood did Titus profess to take up in order to keep his hands clean?",
+      "answer_en": "The office of pontifex maximus (chief priesthood).",
+      "derivation": "Office fact: Titus said he accepted the pontificate maximus to keep his hands pure. Supported verbatim by 'Pontificatum maximum ideo se professus accipere ut puras servaret manus.' Entity-anchored to Titus; single-office answer; indirect statement (se accipere) under professus."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 9",
+      "source_text": "Fratrem insidiari sibi non desinentem, sed paene ex professo sollicitantem exercitus, meditantem fugam, neque occidere neque seponere ac ne in minore quidem honore habere sustinuit, sed, ut a primo imperii die, consorte successoremque testari perseveravit.",
+      "question": "Quem Titus, quamvis sibi insidiantem, a primo imperii die consortem ac successorem imperii testari perseveravit?",
+      "answer": "Fratrem suum Domitianum.",
+      "question_en": "Whom did Titus, although he kept plotting against him, persist in declaring his partner and successor in the empire from the first day of his reign?",
+      "answer_en": "His brother Domitian.",
+      "derivation": "Succession fact: Titus persisted in naming his brother (Domitian, who did succeed him) as partner and heir despite his plotting. Supported by 'Fratrem ... consorte successoremque testari perseveravit'; the brother of Titus is Domitian. Entity-anchored to Titus + Domitian; closed-book. (source_text keeps the Latin Library reading 'consorte' for 'consortem'.)"
+    },
+    {
+      "locus": "Suetonius, Divus Titus 11",
+      "source_text": "Excessit in eadem qua pater villa Id. Septb. post biennium ac menses duos diesque XX. quam successerat patri, altero et quadragesimo aetatis anno.",
+      "question": "Cui Titus in principatu successit?",
+      "answer": "Patri suo Vespasiano.",
+      "question_en": "Whom did Titus succeed as emperor?",
+      "answer_en": "His father Vespasian.",
+      "derivation": "Succession fact: Titus succeeded his father. Supported verbatim by 'quam successerat patri'; the father of Titus is Vespasian. Entity-anchored to Titus; single-name answer; closed-book (the Flavian succession)."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 11",
+      "source_text": "Excessit in eadem qua pater villa Id. Septb. post biennium ac menses duos diesque XX. quam successerat patri, altero et quadragesimo aetatis anno.",
+      "question": "In qua villa Titus mortuus est?",
+      "answer": "In eadem villa qua pater.",
+      "question_en": "In what villa did Titus die?",
+      "answer_en": "In the same villa as his father (the Sabine villa at Aquae Cutiliae).",
+      "derivation": "Death-place fact: Titus died in the same villa as his father Vespasian (Aquae Cutiliae in the Sabine country; cf. 'Sabinos petiit' in ch. 10). Supported verbatim by 'Excessit in eadem qua pater villa.' Entity-anchored to Titus; place answer; closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 11",
+      "source_text": "Excessit in eadem qua pater villa Id. Septb. post biennium ac menses duos diesque XX. quam successerat patri, altero et quadragesimo aetatis anno.",
+      "question": "Quamdiu Titus, postquam patri successit, imperium tenuit?",
+      "answer": "Biennium ac menses duos diesque viginti.",
+      "question_en": "How long did Titus hold power after he had succeeded his father?",
+      "answer_en": "Two years, two months, and twenty days.",
+      "derivation": "Reign-length fact. Supported verbatim by 'post biennium ac menses duos diesque XX. quam successerat patri.' Entity-anchored to Titus; precise duration answer (accusative of extent); closed-book (his famously short reign)."
+    },
+    {
+      "locus": "Suetonius, Divus Titus 11",
+      "source_text": "Excessit in eadem qua pater villa Id. Septb. post biennium ac menses duos diesque XX. quam successerat patri, altero et quadragesimo aetatis anno.",
+      "question": "Quotum aetatis annum agens Titus decessit?",
+      "answer": "Alterum et quadragesimum.",
+      "question_en": "In which year of his age did Titus die?",
+      "answer_en": "His forty-second.",
+      "derivation": "Age-at-death fact. Supported verbatim by 'altero et quadragesimo aetatis anno.' Ordinal/number answer, entity-anchored to Titus; closed-book (he died in AD 81, in his early forties)."
+    }
+  ]
+}
