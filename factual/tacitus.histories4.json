@@ -1,0 +1,124 @@
+{
+  "source": "text/tacitus/tac.hist4.txt",
+  "author": "Tacitus",
+  "work": "Historiae, liber IV",
+  "pairs": [
+    {
+      "locus": "Tacitus, Historiae 4.21",
+      "source_text": "quae ubi relata Civili, incensus ira universam Batavorum gentem in arma rapit; iunguntur Bructeri Tencterique et excita nuntiis Germania ad praedam famamque.",
+      "question": "Quis universam Batavorum gentem in arma contra Romanos rapuit, ut Tacitus tradit?",
+      "answer": "Iulius Civilis.",
+      "question_en": "Who swept the whole Batavian nation into arms against the Romans, per Tacitus?",
+      "answer_en": "Iulius Civilis.",
+      "derivation": "Anchored to the Batavi + the leader of their revolt against Rome; single named person, supported verbatim by 'incensus ira universam Batavorum gentem in arma rapit' (subject Civilis, from 'relata Civili'). His full name Iulius Civilis is fixed at 4.13. Closed-book: Iulius Civilis as leader of the Batavian revolt of AD 69-70 is the central named fact of the book."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.12",
+      "source_text": "Batavi, donec trans Rhenum agebant, pars Chattorum, seditione domestica pulsi extrema Gallicae orae vacua cultoribus simulque insulam iuxta sitam occupavere, quam mare Oceanus a fronte, Rhenus amnis tergum ac latera circumluit.",
+      "question": "Cuius gentis pars olim Batavi fuerunt, dum trans Rhenum agebant, ut Tacitus tradit?",
+      "answer": "Chattorum.",
+      "question_en": "Of which people were the Batavi once a part, while they dwelt beyond the Rhine, per Tacitus?",
+      "answer_en": "Of the Chatti.",
+      "derivation": "Anchored to the Batavi + their ethnic origin; single named people, supported verbatim by 'Batavi, donec trans Rhenum agebant, pars Chattorum'. Indirect-question frame avoided here (direct relative); 'dum ... agebant' mirrors the source's 'donec ... agebant'. Closed-book: that the Batavi were an offshoot of the Chatti is a stock ethnographic fact of Germania."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.61",
+      "source_text": "ea virgo nationis Bructerae late imperitabat, vetere apud Germanos more, quo plerasque feminarum fatidicas et augescente superstitione arbitrantur deas. tuncque Veledae auctoritas adolevit; nam prosperas Germanis res et excidium legionum praedixerat.",
+      "question": "Cuius nationis virgo fuit Veleda, quae apud Germanos late imperitabat, ut Tacitus tradit?",
+      "answer": "Nationis Bructerae.",
+      "question_en": "Of which people was the maiden Veleda, who ruled widely among the Germans, per Tacitus?",
+      "answer_en": "Of the Bructeri.",
+      "derivation": "Anchored to the prophetess Veleda + her people; single named nation, supported verbatim by 'ea virgo nationis Bructerae late imperitabat'. Answer kept in the source's form 'nationis Bructerae'. Closed-book: Veleda the Bructeran prophetess, held by the Germans as well-nigh divine, is a famous ethnographic figure of the period."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.61",
+      "source_text": "Munius Lupercus legatus legionis inter dona missus Veledae. ea virgo nationis Bructerae late imperitabat, vetere apud Germanos more, quo plerasque feminarum fatidicas et augescente superstitione arbitrantur deas.",
+      "question": "Cui Germanae virgini Munius Lupercus, legionis legatus, inter dona missus est, ut Tacitus tradit?",
+      "answer": "Veledae.",
+      "question_en": "To which German maiden was Munius Lupercus, a legionary legate, sent among the gifts, per Tacitus?",
+      "answer_en": "To Veleda.",
+      "derivation": "Anchored to the legate Munius Lupercus + the prophetess; single named person, supported verbatim by 'Munius Lupercus legatus legionis inter dona missus Veledae'. Dative 'Veledae' answers 'cui ... virgini'. Closed-book: the dispatch of the captured legate to Veleda as a gift is a signal detail of the revolt (he was killed en route)."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.53",
+      "source_text": "Curam restituendi Capitolii in Lucium Vestinum confert, equestris ordinis virum, sed auctoritate famaque inter proceres.",
+      "question": "Cui viro Vespasianus curam restituendi Capitolii mandavit, ut Tacitus tradit?",
+      "answer": "Lucio Vestino.",
+      "question_en": "To which man did Vespasian entrust the charge of rebuilding the Capitol, per Tacitus?",
+      "answer_en": "To Lucius Vestinus.",
+      "derivation": "Anchored to Vespasian + the rebuilding of the Capitol + the curator; single named person, supported verbatim by 'Curam restituendi Capitolii in Lucium Vestinum confert' (subject Vespasian, who has charge of the rebuilding begun in AD 70). Closed-book: the rebuilding of the burnt Capitol under Vespasian, with the eques Lucius Vestinus as curator, is a stock fact of the early Flavian principate."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.53",
+      "source_text": "XI kalendas Iulias serena luce spatium omne quod templo dicabatur evinctum vittis coronisque; ingressi milites, quis fausta nomina, felicibus ramis; dein virgines Vestales cum pueris puellisque patrimis matrimisque aqua e fontibus amnibusque hausta perluere.",
+      "question": "Quo die area Capitolii restituendi, sacris rite peractis, consecrata est, ut Tacitus tradit?",
+      "answer": "XI kalendas Iulias.",
+      "question_en": "On what day was the site of the Capitol-to-be-rebuilt consecrated, with the rites duly performed, per Tacitus?",
+      "answer_en": "On the eleventh day before the Kalends of July (21 June).",
+      "derivation": "Anchored to the rebuilding of the Capitol + the dated inaugural ceremony; single date, supported verbatim by 'XI kalendas Iulias serena luce spatium omne quod templo dicabatur evinctum vittis coronisque'. Answer kept in the source's calendar form. Closed-book/dated fact: the foundation ceremony for the new Capitol on 21 June AD 70."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.53",
+      "source_text": "tum Helvidius Priscus praetor, praeeunte Plautio Aeliano pontifice, lustrata suovetaurilibus area et super caespitem redditis extis, Iovem, Iunonem, Minervam praesidesque imperii deos precatus uti coepta prosperarent sedisque suas pietate hominum inchoatas divina ope attollerent, vittas, quis ligatus lapis innexique funes erant, contigit.",
+      "question": "Quis praetor aream Capitolii suovetaurilibus lustravit, cum templum sub Vespasiano restitueretur, ut Tacitus tradit?",
+      "answer": "Helvidius Priscus.",
+      "question_en": "Which praetor purified the Capitol's site with the suovetaurilia when the temple was being rebuilt under Vespasian, per Tacitus?",
+      "answer_en": "Helvidius Priscus.",
+      "derivation": "Anchored to the rebuilding of the Capitol + the magistrate who performed the rite; single named person with office, supported verbatim by 'tum Helvidius Priscus praetor ... lustrata suovetaurilibus area'. Closed-book: Helvidius Priscus the praetor presiding (under the pontifex Plautius Aelianus) over the Capitol's rededication is a noted episode of AD 70."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.55",
+      "source_text": "interfecto Hordeonio commeavere nuntii inter Civilem Classicumque praefectum alae Trevirorum. Classicus nobilitate opibusque ante alios: regium illi genus et pace belloque clara origo, ipse e maioribus suis hostis populi Romani quam socios iactabat.",
+      "question": "Cuius gentis alae praefectus erat Iulius Classicus, qui cum Civile contra Romanos coniuravit, ut Tacitus tradit?",
+      "answer": "Trevirorum.",
+      "question_en": "Of which people's cavalry wing was Iulius Classicus prefect, who conspired with Civilis against the Romans, per Tacitus?",
+      "answer_en": "Of the Treveri.",
+      "derivation": "Anchored to Iulius Classicus (the Treveran ringleader) + his command; single named people, supported verbatim by 'Classicumque praefectum alae Trevirorum'. Closed-book: Iulius Classicus, prefect of the Treveran ala and a leader of the Gallic rising, is a named figure of the revolt."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.59",
+      "source_text": "dein sumptis Romani imperii insignibus in castra venit. nec illi, quamquam ad omne facinus durato, verba ultra suppeditavere quam ut sacramentum recitaret: iuravere qui aderant pro imperio Galliarum.",
+      "question": "Pro quo imperio iuraverunt milites quos Iulius Classicus, sumptis Romani imperii insignibus, sacramento adegit, ut Tacitus tradit?",
+      "answer": "Pro imperio Galliarum.",
+      "question_en": "To what empire did the soldiers swear, whom Iulius Classicus, having put on the insignia of Roman power, bound by oath, per Tacitus?",
+      "answer_en": "To the empire of the Gauls (the Gallic Empire).",
+      "derivation": "Anchored to Classicus + the oath he imposed; single named institution, supported verbatim by 'iuravere qui aderant pro imperio Galliarum' (the subject who donned the Roman insignia is Classicus, from earlier in 4.59). Closed-book: the proclaimed 'imperium Galliarum' is the defining political fact of the Civilis-Classicus revolt."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.67",
+      "source_text": "Interea Iulius Sabinus proiectis foederis Romani monumentis Caesarem se salutari iubet magnamque et inconditam popularium turbam in Sequanos rapit, conterminam civitatem et nobis fidam.",
+      "question": "Quem se salutari iussit Iulius Sabinus, cum a populo Romano descivisset, ut Tacitus tradit?",
+      "answer": "Caesarem.",
+      "question_en": "As what did Iulius Sabinus order himself to be hailed, when he had revolted from the Roman people, per Tacitus?",
+      "answer_en": "As Caesar.",
+      "derivation": "Anchored to Iulius Sabinus (the Lingon ringleader) + the title he assumed; single named title, supported verbatim by 'Iulius Sabinus ... Caesarem se salutari iubet'. Predicate accusative 'Caesarem' with 'salutari'. Closed-book: Sabinus's having himself proclaimed Caesar is the memorable mark of the Gallic pretender."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.68",
+      "source_text": "At Romae cuncta in deterius audita Mucianum angebant, ne quamquam egregii duces (iam enim Gallum Annium et Petilium Cerialem delegerat) summam belli parum tolerarent.",
+      "question": "Quem ducem Mucianus, una cum Annio Gallo, ad bellum Batavicum Gallicumque conficiendum delegit, ut Tacitus tradit?",
+      "answer": "Petilium Cerialem.",
+      "question_en": "Which commander did Mucianus, together with Annius Gallus, appoint to finish the Batavian and Gallic war, per Tacitus?",
+      "answer_en": "Petillius Cerialis.",
+      "derivation": "Anchored to Mucianus + the generals chosen against the revolt; single named person, supported verbatim by 'iam enim Gallum Annium et Petilium Cerialem delegerat'. Cerialis is the commander who in fact crushes the revolt (4.71-79). Closed-book: Petillius Cerialis as the suppressor of the Batavian/Gallic rising is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.51",
+      "source_text": "aderant legati regis Vologaesi quadraginta milia Parthorum equitum offerentes. magnificum laetumque tantis sociorum auxiliis ambiri neque indigere: gratiae Vologaeso actae mandatumque ut legatos ad senatum mitteret et pacem esse sciret.",
+      "question": "Quot milia equitum Parthorum rex Vologaeses Vespasiano in auxilium obtulit, ut Tacitus tradit?",
+      "answer": "Quadraginta milia.",
+      "question_en": "How many thousands of Parthian cavalry did King Vologaeses offer Vespasian as aid, per Tacitus?",
+      "answer_en": "Forty thousand.",
+      "derivation": "Anchored to King Vologaeses + Vespasian + the offer; single number, supported verbatim by 'legati regis Vologaesi quadraginta milia Parthorum equitum offerentes'. Closed-book number fact: the Parthian king's offer of 40,000 horse to Vespasian."
+    },
+    {
+      "locus": "Tacitus, Historiae 4.81",
+      "source_text": "Per eos mensis quibus Vespasianus Alexandriae statos aestivis flatibus dies et certa maris opperiebatur, multa miracula evenere, quis caelestis favor et quaedam in Vespasianum inclinatio numinum ostenderetur. e plebe Alexandrina quidam oculorum tabe notus genua eius advolvitur, remedium caecitatis exposcens gemitu, monitu Serapidis dei, quem dedita superstitionibus gens ante alios colit; precabaturque principem ut genas et oculorum orbis dignaretur respergere oris excremento. alius manum aeger eodem deo auctore ut pede ac vestigio Caesaris calcaretur orabat.",
+      "question": "In qua urbe Vespasianus caecum quendam et alium manu aegrum, Serapide auctore, sanavisse traditur, ut Tacitus refert?",
+      "answer": "Alexandriae.",
+      "question_en": "In which city is Vespasian said to have healed a blind man and another sick in the hand, at the prompting of Serapis, per Tacitus?",
+      "answer_en": "At Alexandria.",
+      "derivation": "Anchored to Vespasian + the healing-miracles + the god; single named place, supported by 'Vespasianus Alexandriae ... multa miracula evenere' and the two Alexandrian petitioners (the blind man, the man with the diseased hand) prompted by Serapis. The cure itself ('conversa ad usum manus, ac caeco reluxit dies') follows in the same chapter. Closed-book: Vespasian's healing miracles at Alexandria are among the most famous omens of his reign."
+    }
+  ]
+}
