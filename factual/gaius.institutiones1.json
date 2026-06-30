@@ -1,0 +1,133 @@
+{
+  "source": "text/gaius1.txt",
+  "author": "Gaius",
+  "work": "Institutiones, liber I",
+  "pairs": [
+    {
+      "locus": "Gaius, Institutiones 1.1",
+      "source_text": "Nam quod quisque populus ipse sibi ius constituit, id ipsius proprium est vocaturque ius civile, quasi ius proprium civitatis.",
+      "question": "Quo nomine Gaius id ius appellat, quod quisque populus ipse sibi constituit?",
+      "answer": "Ius civile.",
+      "question_en": "By what name does Gaius call the law that each people establishes for itself?",
+      "answer_en": "The civil law (ius civile).",
+      "derivation": "The famous opening definition of ius civile in Gaius's Institutes: the law a people makes for itself is its own and is called ius civile. Closed-book foundational maxim, anchored to Gaius, single named-term answer present verbatim ('vocaturque ius civile')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.1",
+      "source_text": "Quod vero naturalis ratio inter omnes homines constituit, id apud omnes populos peraeque custoditur vocaturque ius gentium, quasi quo iure omnes gentes utuntur.",
+      "question": "Quo nomine Gaius id ius appellat, quod naturalis ratio inter omnes homines constituit?",
+      "answer": "Ius gentium.",
+      "question_en": "By what name does Gaius call the law that natural reason has established among all men?",
+      "answer_en": "The law of nations (ius gentium).",
+      "derivation": "Gaius's paired definition: what natural reason establishes among all men is called ius gentium. Closed-book foundational maxim, anchored to Gaius, single named-term answer verbatim ('vocaturque ius gentium')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.2",
+      "source_text": "Constant autem iura populi Romani ex legibus, plebiscitis, senatus consultis, constitutionibus principum, edictis eorum, qui ius edicendi habent, responsis prudentium.",
+      "question": "Ex quibus rebus iura populi Romani constare Gaius scribit?",
+      "answer": "Ex legibus, plebiscitis, senatus consultis, constitutionibus principum, edictis eorum qui ius edicendi habent, et responsis prudentium.",
+      "question_en": "Of what does Gaius say the law of the Roman people consists?",
+      "answer_en": "Of statutes, plebiscites, decrees of the senate, enactments of the emperors, edicts of those who have the right to issue edicts, and the responses of the jurists.",
+      "derivation": "Gaius's canonical enumeration of the sources (fontes) of Roman law. Closed-book, anchored to Gaius, a closed list of named institutions present verbatim; indirect statement (constare) governed by scribit."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.3",
+      "source_text": "unde olim patricii dicebant plebiscitis se non teneri, quia sine auctoritate eorum facta essent; sed postea lex Hortensia lata est, qua cautum est, ut plebiscita universum populum tenerent.",
+      "question": "Qua lege cautum est ut plebiscita universum populum tenerent, ut Gaius tradit?",
+      "answer": "Lege Hortensia.",
+      "question_en": "By what law was it provided that plebiscites should bind the whole people, as Gaius reports?",
+      "answer_en": "By the lex Hortensia.",
+      "derivation": "Gaius records the lex Hortensia, which made plebiscites binding on the entire people (patricians included). Closed-book famous legal-history fact, anchored to the named law, single named-entity answer verbatim ('lex Hortensia lata est, qua cautum est...')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.8",
+      "source_text": "Omne autem ius, quo utimur, vel ad personas pertinet vel ad res vel ad actiones.",
+      "question": "Ad quae tria omne ius quo utimur pertinere Gaius scribit?",
+      "answer": "Ad personas, ad res, ad actiones.",
+      "question_en": "To which three things does Gaius say all the law we use pertains?",
+      "answer_en": "To persons, to things, and to actions.",
+      "derivation": "Gaius's tripartite division of all law into personae, res, actiones, the organizing scheme of the Institutes (and quoted later at Dig. 1.5.1). Closed-book, anchored to Gaius, three-part answer verbatim; indirect statement (pertinere) governed by scribit."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.9",
+      "source_text": "Et quidem summa divisio de iure personarum haec est, quod omnes homines aut liberi sunt aut servi.",
+      "question": "Quae est summa divisio de iure personarum secundum Gaium?",
+      "answer": "Omnes homines aut liberi sunt aut servi.",
+      "question_en": "What is the chief division in the law of persons according to Gaius?",
+      "answer_en": "All men are either free or slaves.",
+      "derivation": "The most famous single sentence of the law of persons: the summa divisio that all men are either free or slaves. Closed-book maxim, anchored to Gaius + ius personarum, short verifiable answer verbatim."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.10-11",
+      "source_text": "Rursus liberorum hominum alii ingenui sunt, alii libertini. Ingenui sunt, qui liberi nati sunt; libertini, qui ex iusta servitute manumissi sunt.",
+      "question": "In quae duo genera liberos homines Gaius dividit?",
+      "answer": "In ingenuos et libertinos.",
+      "question_en": "Into which two classes does Gaius divide free men?",
+      "answer_en": "Into the freeborn (ingenui) and freedmen (libertini).",
+      "derivation": "Gaius's subdivision of free men into ingenui (born free) and libertini (manumitted from lawful slavery). Closed-book, anchored to Gaius, two named-term answer verbatim ('alii ingenui sunt, alii libertini')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.12",
+      "source_text": "Rursus libertinorum tria sunt genera: Nam aut cives Romani aut Latini aut dediticiorum numero sunt.",
+      "question": "Quae tria genera libertinorum Gaius distinguit?",
+      "answer": "Cives Romani, Latini et dediticii.",
+      "question_en": "Which three classes of freedmen does Gaius distinguish?",
+      "answer_en": "Roman citizens, Latins, and dediticii.",
+      "derivation": "Gaius's threefold classification of freedmen: cives Romani, Latini (Iuniani), dediticii. Closed-book, anchored to Gaius + libertini, three named-entity answer verbatim ('aut cives Romani aut Latini aut dediticiorum numero sunt')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.17",
+      "source_text": "Nam in cuius persona tria haec concurrunt, ut maior sit annorum triginta, et ex iure Quiritium domini, et iusta ac legitima manumissione liberetur, id est vindicta aut censu aut testamento, is civis Romanus fit.",
+      "question": "Quibus tribus modis iusta ac legitima manumissio fieri potest secundum Gaium?",
+      "answer": "Vindicta, censu, testamento.",
+      "question_en": "By which three modes can a lawful and formal manumission be effected according to Gaius?",
+      "answer_en": "By the rod (vindicta), by the census, and by will.",
+      "derivation": "The classic triad of formal manumission: vindicta, censu, testamento. Closed-book, anchored to Gaius + manumissio, three named-mode answer verbatim ('id est vindicta aut censu aut testamento')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.18",
+      "source_text": "Quod autem de aetate servi requiritur, lege Aelia Sentia introductum est. Nam ea lex minores XXX annorum servos non aliter voluit manumissos cives Romanos fieri, quam si vindicta, apud consilium iusta causa manumissionis adprobata, liberati fuerint.",
+      "question": "Servos cuius aetatis lex Aelia Sentia non aliter manumissos cives Romanos fieri voluit quam vindicta, iusta causa probata, ut Gaius scribit?",
+      "answer": "Minores triginta annorum.",
+      "question_en": "Slaves of what age did the lex Aelia Sentia allow to become Roman citizens on manumission only by vindicta, after a just cause had been approved, as Gaius writes?",
+      "answer_en": "Those under thirty years old.",
+      "derivation": "Gaius: under the lex Aelia Sentia slaves under 30 could become cives Romani on manumission only by vindicta with a just cause approved before the council. Closed-book numeric/legal fact, anchored to the named law, number answer verbatim ('minores XXX annorum servos')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.55",
+      "source_text": "Item in potestate nostra sunt liberi nostri, quos iustis nuptiis procreavimus. Quod ius proprium civium Romanorum est.",
+      "question": "Quorum hominum proprium esse patriam in liberos potestatem Gaius adfirmat?",
+      "answer": "Civium Romanorum.",
+      "question_en": "To which men does Gaius affirm that paternal power over children belongs as their own peculiar right?",
+      "answer_en": "To Roman citizens.",
+      "derivation": "Gaius's hallmark claim that patria potestas over legitimate children is a right peculiar to Roman citizens. Closed-book, anchored to Gaius + patria potestas, single named-entity answer verbatim ('Quod ius proprium civium Romanorum est'); indirect statement (proprium esse) governed by adfirmat."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.62",
+      "source_text": "Fratris filiam uxorem ducere licet: Idque primum in usum uenit, cum divus Claudius Agrippinam, fratris sui filiam, uxorem duxisset.",
+      "question": "Quis primus fratris filiam, scilicet Agrippinam, uxorem duxit, unde id in usum venit, ut Gaius refert?",
+      "answer": "Divus Claudius.",
+      "question_en": "Who first married his brother's daughter, namely Agrippina, whence the practice came into use, as Gaius reports?",
+      "answer_en": "The deified Claudius.",
+      "derivation": "Gaius records that marrying a brother's daughter first came into use when the emperor Claudius married Agrippina, his brother's daughter. Closed-book historical fact, anchored to Claudius + Agrippina, single named-entity answer verbatim ('cum divus Claudius Agrippinam, fratris sui filiam, uxorem duxisset')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.110",
+      "source_text": "Olim itaque tribus modis in manum conveniebant: usu, farreo, coemptione.",
+      "question": "Quibus tribus modis mulieres olim in manum conveniebant secundum Gaium?",
+      "answer": "Usu, farreo, coemptione.",
+      "question_en": "By which three modes did women formerly pass into marital subordination (manus) according to Gaius?",
+      "answer_en": "By usage (usu), by the spelt-cake rite (farreo), and by coemptio.",
+      "derivation": "Gaius's classic triad of the modes of entering manus: usu, farreo, coemptione. Closed-book, anchored to Gaius + manus, three named-mode answer verbatim ('tribus modis in manum conveniebant: usu, farreo, coemptione')."
+    },
+    {
+      "locus": "Gaius, Institutiones 1.159",
+      "source_text": "Est autem kapitis diminutio prioris status permutatio: Eaque tribus modis accidit: Nam aut maxima est kapitis diminutio aut minor, quam quidam mediam vocant, aut minima.",
+      "question": "In quot species capitis diminutionem dividi Gaius tradit?",
+      "answer": "In tres: maximam, minorem sive mediam, et minimam.",
+      "question_en": "Into how many kinds does Gaius report that capitis diminutio (loss of legal status) is divided?",
+      "answer_en": "Into three: the greatest (maxima), the lesser or middle (media), and the least (minima).",
+      "derivation": "Gaius's threefold division of capitis diminutio into maxima, minor (media), and minima. Closed-book legal-doctrine fact with a determinate count, anchored to Gaius + capitis diminutio, three-part answer verbatim ('tribus modis accidit: ... maxima ... minor, quam quidam mediam vocant ... minima')."
+    }
+  ]
+}
