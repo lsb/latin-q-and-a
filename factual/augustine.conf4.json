@@ -1,0 +1,97 @@
+{
+  "source": "text/augustine/conf4.txt",
+  "author": "Augustine",
+  "work": "Confessiones, liber IV",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessiones 4.1.1",
+      "source_text": "per idem tempus annorum novem, ab undevicensimo anno aetatis meae usque ad duodetricensimum, seducebamur et seducebamus, falsi atque fallentes in variis cupiditatibus.",
+      "question": "A quoto aetatis suae anno usque ad quotum illud novem annorum tempus pertinuisse Augustinus confitetur, quo et deceptus est et decepit?",
+      "answer": "Ab undevicensimo usque ad duodetricensimum.",
+      "question_en": "From which year of his age to which does Augustine confess that period of nine years extended, in which he was both deceived and deceived others?",
+      "answer_en": "From his nineteenth to his twenty-eighth.",
+      "derivation": "Augustine dates his nine-year period of error precisely: 'annorum novem, ab undevicensimo anno aetatis meae usque ad duodetricensimum' (from his 19th to his 28th year). Number/span fact anchored to Augustine + the nine years he was 'falsi atque fallentes' (a Manichee hearer). Indirect statement (tempus pertinuisse) under confitetur; relative clause mirrors 'seducebamur et seducebamus.' Closed-book: his roughly nine years as a Manichee, ages 19-28, is standard biography (cf. conf5 'per annos ferme novem')."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.2.2",
+      "source_text": "docebam in illis annis artem rhetoricam, et victoriosam loquacitatem victus cupiditate vendebam.",
+      "question": "Quam artem liberalem Augustinus iuvenis, antequam ad fidem catholicam converteretur, docebat?",
+      "answer": "Artem rhetoricam.",
+      "question_en": "What liberal art did the young Augustine teach, before he was converted to the catholic faith?",
+      "answer_en": "The art of rhetoric.",
+      "derivation": "Augustine states he taught rhetoric in these years: 'docebam in illis annis artem rhetoricam.' Anchored to Augustine + his pre-conversion years; short answer (rhetoric), supported verbatim. Closed-book: Augustine's career as a teacher of rhetoric is among the best-known facts of his life."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.3.5",
+      "source_text": "erat eo tempore vir sagax, medicinae artis peritissimus atque in ea nobilissimus, qui proconsul manu sua coronam illam agonisticam imposuerat non sano capiti meo, sed non ut medicus.",
+      "question": "Qua in arte nobilissimus erat ille proconsul qui coronam agonisticam capiti Augustini manu sua imposuit?",
+      "answer": "In medicina.",
+      "question_en": "In what art was that proconsul most distinguished, who with his own hand placed the contest-crown on Augustine's head?",
+      "answer_en": "In medicine.",
+      "derivation": "The proconsul who crowned Augustine at the poetic contest is identified as a physician of the first rank: 'vir sagax, medicinae artis peritissimus atque in ea nobilissimus, qui proconsul... coronam illam agonisticam imposuerat... capiti meo.' Anchored to that proconsul + Augustine; short answer (medicine), supported verbatim. NB: Book 4 does NOT name him; this is the physician-proconsul (Vindicianus, named only later, at Conf. 7.6.8) who in this same section urges Augustine to abandon astrology ('monuit ut eos abicerem') -- so the answer is his profession, which the text states, not a name the text withholds."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.7.12",
+      "source_text": "et tamen fugi de patria. minus enim eum quaerebant oculi mei ubi videre non solebant, atque a Thagastensi oppido veni Carthaginem.",
+      "question": "Quo Augustinus ex oppido Thagastensi, post mortem amici carissimi maerens, se contulit?",
+      "answer": "Carthaginem.",
+      "question_en": "Where did Augustine betake himself from the town of Thagaste, grieving after the death of his dearest friend?",
+      "answer_en": "To Carthage.",
+      "derivation": "Fleeing his homeland after his friend's death, Augustine went from Thagaste to Carthage: 'a Thagastensi oppido veni Carthaginem.' Anchored to Augustine + Thagaste + the friend's death; single place answer (Carthage), supported verbatim. Closed-book: Augustine's origin at Thagaste and his move to Carthage are canonical biography."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.13.20",
+      "source_text": "et ista consideratio scaturrivit in animo meo ex intimo corde meo, et scripsi libros 'de pulchro et apto' — puto duos aut tres: tu scis, deus, nam excidit mihi.",
+      "question": "Quo titulo inscripsit Augustinus primum illud opus quod, de pulchritudine disputans, composuit?",
+      "answer": "De pulchro et apto.",
+      "question_en": "Under what title did Augustine entitle that first work which he composed, discoursing on beauty?",
+      "answer_en": "On the Beautiful and the Fitting (De pulchro et apto).",
+      "derivation": "Augustine's earliest composition is named in the text: 'scripsi libros de pulchro et apto.' Anchored to Augustine + his first work on beauty; short title answer, supported verbatim. Closed-book: De pulchro et apto is universally cited as Augustine's first (now lost) book."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.14.21",
+      "source_text": "quid est autem quod me movit, domine deus meus, ut ad Hierium, Romanae urbis oratorem, scriberem illos libros? quem non noveram facie, sed amaveram hominem ex doctrinae fama, quae illi clara erat.",
+      "question": "Ad quem virum Augustinus libros suos 'de pulchro et apto' scripsit?",
+      "answer": "Ad Hierium.",
+      "question_en": "To which man did Augustine address his books 'On the Beautiful and the Fitting'?",
+      "answer_en": "To Hierius.",
+      "derivation": "Augustine addressed his De pulchro et apto to Hierius: 'ut ad Hierium... scriberem illos libros.' Anchored to Augustine + the named work; single-name answer (Hierius), supported verbatim. Closed-book: the dedication of Augustine's first book to the orator Hierius is the standard biographical detail, though Augustine had never met him face to face ('quem non noveram facie')."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.14.21",
+      "source_text": "quid est autem quod me movit, domine deus meus, ut ad Hierium, Romanae urbis oratorem, scriberem illos libros?",
+      "question": "Cuius urbis orator erat Hierius, ad quem Augustinus libros 'de pulchro et apto' misit?",
+      "answer": "Romae.",
+      "question_en": "Of what city was Hierius, to whom Augustine sent his books 'On the Beautiful and the Fitting,' an orator?",
+      "answer_en": "Of Rome.",
+      "derivation": "Hierius is identified as an orator of Rome: 'ad Hierium, Romanae urbis oratorem.' Anchored to Hierius (named) + the dedication of Augustine's work; single place answer (Rome), supported verbatim. Distinct from the dedication-name fact."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.15.27",
+      "source_text": "et eram aetate annorum fortasse viginti sex aut septem, cum illa volumina scripsi, volvens apud me corporalia figmenta obstrepentia cordis mei auribus, quas intendebam, dulcis veritas, in interiorem melodiam tuam, cogitans de pulchro et apto.",
+      "question": "Quot fere annos natus erat Augustinus cum illa volumina 'de pulchro et apto' conscripsit?",
+      "answer": "Fere viginti sex aut septem.",
+      "question_en": "About how many years old was Augustine when he wrote those volumes 'On the Beautiful and the Fitting'?",
+      "answer_en": "About twenty-six or twenty-seven.",
+      "derivation": "Augustine gives his age when he wrote the De pulchro et apto: 'eram aetate annorum fortasse viginti sex aut septem, cum illa volumina scripsi... cogitans de pulchro et apto.' Number fact anchored to Augustine + the named work; the answer mirrors his own 'fortasse' (perhaps 26 or 27), supported verbatim."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.16.28",
+      "source_text": "et quid mihi proderat quod annos natus ferme viginti, cum in manus meas venissent aristotelica quaedam, quas appellant decem categorias (quarum nomine, cum eas rhetor Carthaginiensis, magister meus, buccis typho crepantibus commemoraret et alii qui docti habebantur, tamquam in nescio quid magnum et divinum suspensus inhiabam), legi eas solus et intellexi?",
+      "question": "Cuius philosophi opus, quod 'decem categorias' appellant, Augustinus adulescens legit et per se intellexit?",
+      "answer": "Aristotelis.",
+      "question_en": "Whose work, which they call the 'Ten Categories,' did the young Augustine read and understand by himself?",
+      "answer_en": "Aristotle's.",
+      "derivation": "The 'ten categories' Augustine read are Aristotle's: 'aristotelica quaedam, quas appellant decem categorias.' Anchored to the work (the Categoriae) + Augustine; single-name answer (Aristotle), supported verbatim. Closed-book: that Augustine read Aristotle's Categories as a young man is a standard fact of his intellectual biography."
+    },
+    {
+      "locus": "Augustine, Confessiones 4.16.28",
+      "source_text": "et quid mihi proderat quod annos natus ferme viginti, cum in manus meas venissent aristotelica quaedam, quas appellant decem categorias (quarum nomine, cum eas rhetor Carthaginiensis, magister meus, buccis typho crepantibus commemoraret et alii qui docti habebantur, tamquam in nescio quid magnum et divinum suspensus inhiabam), legi eas solus et intellexi?",
+      "question": "Aristotelis decem categorias Augustinus utrum magistro tradente an nullo docente intellexit?",
+      "answer": "Solus, nullo docente.",
+      "question_en": "Did Augustine understand Aristotle's Ten Categories with a teacher's instruction, or with no one teaching him?",
+      "answer_en": "By himself, with no one teaching him.",
+      "derivation": "Augustine stresses that he read and grasped Aristotle's Categories unaided: 'legi eas solus et intellexi'; others who had needed eminent teachers could tell him no more than he had worked out alone. Anchored to Augustine + Aristotle's Categories; short answer (alone/unaided), supported verbatim by 'solus.' Closed-book: his effortless solo reading of the Categories is a celebrated detail of the Confessions."
+    }
+  ]
+}
