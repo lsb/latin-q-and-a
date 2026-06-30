@@ -1,0 +1,79 @@
+{
+  "source": "text/augustine/conf3.txt",
+  "author": "Augustine",
+  "work": "Confessiones, liber III",
+  "pairs": [
+    {
+      "locus": "Augustine, Confessiones 3.1.1",
+      "source_text": "veni Carthaginem, et circumstrepebat me undique sartago flagitiosorum amorum.",
+      "question": "In quam urbem Augustinus adulescens venit, ubi studiis eloquentiae operam dabat?",
+      "answer": "Carthaginem.",
+      "question_en": "Into what city did the young Augustine come, where he was devoting himself to the study of eloquence?",
+      "answer_en": "Carthage.",
+      "derivation": "The opening words of Book 3, 'veni Carthaginem.' Anchored to Augustine + his studies (he studies eloquence/rhetoric there, 3.3.6 'in schola rhetoris', 3.4.7 'discebam libros eloquentiae'); single place-name answer supported verbatim. Closed-book: Augustine's student years at Carthage are a famous biographical fact."
+    },
+    {
+      "locus": "Augustine, Confessiones 3.4.7",
+      "source_text": "et usitato iam discendi ordine perveneram in librum cuiusdam Ciceronis, cuius linguam fere omnes mirantur, pectus non ita. sed liber ille ipsius exhortationem continet ad philosophiam et vocatur 'Hortensius'. ille vero liber mutavit affectum meum.",
+      "question": "Quo titulo inscribitur liber Ciceronis quo lecto Augustinus ad amorem sapientiae accensus est?",
+      "answer": "Hortensius.",
+      "question_en": "Under what title is the book of Cicero, on reading which Augustine was kindled to the love of wisdom, inscribed?",
+      "answer_en": "Hortensius.",
+      "derivation": "Cicero's (now lost) Hortensius, an exhortation to philosophy, changed Augustine and inflamed him to wisdom ('liber ille ipsius exhortationem continet ad philosophiam et vocatur Hortensius. ille vero liber mutavit affectum meum'). Anchored to Cicero + Augustine; single title answer supported verbatim. Closed-book: one of the most famous turning points in the Confessions."
+    },
+    {
+      "locus": "Augustine, Confessiones 3.4.7",
+      "source_text": "et usitato iam discendi ordine perveneram in librum cuiusdam Ciceronis, cuius linguam fere omnes mirantur, pectus non ita. sed liber ille ipsius exhortationem continet ad philosophiam et vocatur 'Hortensius'. ille vero liber mutavit affectum meum.",
+      "question": "Cuius auctoris liber, exhortationem ad philosophiam continens, Augustinum ad sapientiae studium accendit?",
+      "answer": "Ciceronis.",
+      "question_en": "Which author's book, containing an exhortation to philosophy, kindled Augustine to the pursuit of wisdom?",
+      "answer_en": "Cicero's.",
+      "derivation": "The book that inflamed Augustine to philosophy is by Cicero ('perveneram in librum cuiusdam Ciceronis... exhortationem continet ad philosophiam'). Anchored to Augustine + the Hortensius; single-name answer supported verbatim. Distinct fact (the author) from the work's title; closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 3.4.7",
+      "source_text": "non enim ad acuendam linguam, quod videbar emere maternis mercedibus, cum agerem annum aetatis undevicensimum iam defuncto patre ante biennium, non ergo ad acuendam linguam referebam illum librum.",
+      "question": "Quotum annum aetatis agebat Augustinus cum librum Ciceronis Hortensium legeret?",
+      "answer": "Undevicensimum.",
+      "question_en": "What year of his age was Augustine in when he read Cicero's book the Hortensius?",
+      "answer_en": "His nineteenth.",
+      "derivation": "Number fact: Augustine read the Hortensius in the nineteenth year of his age ('cum agerem annum aetatis undevicensimum'). Anchored to Augustine + the reading of the Hortensius; short, verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Augustine, Confessiones 3.10.18",
+      "source_text": "et credidi miser magis esse misericordiam praestandam fructibus terrae quam hominibus propter quos nascerentur. si quis enim esuriens peteret qui manichaeus non esset, quasi capitali supplicio damnanda buccella videretur si ei daretur.",
+      "question": "Cuius haereticae sectae asseclam se Augustinus adulescens per plures annos fuisse confitetur?",
+      "answer": "Manichaeorum.",
+      "question_en": "Of what heretical sect does Augustine confess that he was a follower for several years as a young man?",
+      "answer_en": "Of the Manichees.",
+      "derivation": "Augustine names the Manichees while describing his own former belief that food should be given only to a Manichee ('si quis... qui manichaeus non esset...'); the Manichee period dominates the latter half of Book 3. Anchored to Augustine; single-name answer supported by 'manichaeus'. Closed-book: Augustine's years as a Manichee are among the most famous facts of his life. (Indirect statement 'se... asseclam fuisse' governed by 'confitetur'.)"
+    },
+    {
+      "locus": "Augustine, Confessiones 3.11.20",
+      "source_text": "nam novem ferme anni secuti sunt quibus ego in illo limo profundi ac tenebris falsitatis, cum saepe surgere conarer et gravius alliderer, volutatus sum.",
+      "question": "Per quot fere annos Augustinus in errore Manichaeorum versatus est?",
+      "answer": "Novem ferme annos.",
+      "question_en": "For about how many years was Augustine entangled in the error of the Manichees?",
+      "answer_en": "For about nine years.",
+      "derivation": "Number fact: 'novem ferme anni secuti sunt' in which Augustine was mired in falsity — the Manichee error that is the subject of Book 3. Answer mirrors the approximative 'ferme'. Anchored to Augustine + the Manichees; short, verifiable. Closed-book: the roughly nine years as a Manichee are a famous biographical datum."
+    },
+    {
+      "locus": "Augustine, Confessiones 3.11.19",
+      "source_text": "vidit enim se stantem in quadam regula lignea et advenientem ad se iuvenem splendidum hilarem atque arridentem sibi, cum illa esset maerens et maerore confecta.",
+      "question": "In qua re Monica, mater Augustini, se stantem per somnium vidit, cum iuvenis splendidus ad eam accederet?",
+      "answer": "In regula lignea.",
+      "question_en": "On what did Monica, Augustine's mother, see herself standing in a dream, as a radiant young man approached her?",
+      "answer_en": "On a wooden rule (measuring-rod).",
+      "derivation": "Monica's famous consolatory dream: she sees herself standing on a wooden rule ('se stantem in quadam regula lignea') when a radiant youth tells her that where she is, there her son will also be. Anchored to Monica (Augustine's mother, well known though unnamed in this book) + the dream; short answer supported verbatim. Closed-book: the dream of Monica is a celebrated episode."
+    },
+    {
+      "locus": "Augustine, Confessiones 3.12.21",
+      "source_text": "ille iam substomachans taedio, 'vade' inquit 'a me. ita vivas: fieri non potest, ut filius istarum lacrimarum pereat.'",
+      "question": "Quibus verbis episcopus quidam Monicam, Augustini matrem, de filii salute consolatus est?",
+      "answer": "Fieri non potest, ut filius istarum lacrimarum pereat.",
+      "question_en": "With what words did a certain bishop console Monica, Augustine's mother, concerning her son's salvation?",
+      "answer_en": "It cannot be that the son of these tears should perish.",
+      "derivation": "The famous consoling saying of the (unnamed) bishop to the weeping Monica. Anchored to Monica (Augustine's mother) + the bishop; the answer is the famous quoted sentence supported verbatim. Closed-book: among the most-quoted lines of the Confessions. Kept as a short famous quotation per the task; the bishop himself is unnamed in the text ('quendam episcopum')."
+    }
+  ]
+}
