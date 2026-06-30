@@ -1,0 +1,133 @@
+{
+  "source": "text/tacitus/tac.ann1.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber I",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 1.1",
+      "source_text": "Urbem Romam a principio reges habuere; libertatem et consulatum L. Brutus instituit.",
+      "question": "Qui Urbem Romam a principio habuerunt, ut initio Annalium Tacitus scribit?",
+      "answer": "Reges.",
+      "question_en": "Who held the city of Rome at the beginning, as Tacitus writes at the opening of the Annals?",
+      "answer_en": "Kings.",
+      "derivation": "The famous opening sentence of the Annals. Anchored to the city of Rome + Tacitus's opening; single verifiable answer 'reges', supported verbatim by 'Urbem Romam a principio reges habuere'. Direct question, indicative habuerunt (= habuere); closed-book because it is among the most-quoted openings in Latin literature."
+    },
+    {
+      "locus": "Tacitus, Annales 1.1",
+      "source_text": "Urbem Romam a principio reges habuere; libertatem et consulatum L. Brutus instituit.",
+      "question": "Quis Romae libertatem et consulatum instituisse a Tacito traditur?",
+      "answer": "L. Brutus.",
+      "question_en": "Who, according to Tacitus, is said to have established liberty and the consulship at Rome?",
+      "answer_en": "Lucius Brutus.",
+      "derivation": "From the same opening sentence. Anchored to Rome + the founding of the Republic; single named person, supported verbatim by 'libertatem et consulatum L. Brutus instituit'. Nominative-and-infinitive (instituisse ... traditur). Closed-book: L. Brutus as founder of liberty and the consulship is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Annales 1.3",
+      "source_text": "at hercule Germanicum Druso ortum octo apud Rhenum legionibus inposuit adscirique per adoptionem a Tiberio iussit",
+      "question": "Quot legionibus apud Rhenum Germanicum Augustus imposuisse traditur?",
+      "answer": "Octo.",
+      "question_en": "Over how many legions at the Rhine is Augustus reported to have placed Germanicus?",
+      "answer_en": "Eight.",
+      "derivation": "Anchored to Augustus + Germanicus + the Rhine; single number, supported verbatim by 'octo apud Rhenum legionibus inposuit'. Nominative-and-infinitive (Augustus ... imposuisse traditur). Closed-book number fact about the German command Augustus gave Germanicus."
+    },
+    {
+      "locus": "Tacitus, Annales 1.3",
+      "source_text": "at hercule Germanicum Druso ortum octo apud Rhenum legionibus inposuit adscirique per adoptionem a Tiberio iussit",
+      "question": "A quo per adoptionem Germanicum, Augusti iussu, adscitum esse Tacitus tradit?",
+      "answer": "A Tiberio.",
+      "question_en": "By whom, at Augustus's command, does Tacitus report that Germanicus was adopted?",
+      "answer_en": "By Tiberius.",
+      "derivation": "Anchored to Germanicus + Augustus; single named person, supported verbatim by 'adscirique per adoptionem a Tiberio iussit'. Indirect statement (Germanicum adscitum esse) governed by tradit. Closed-book: Germanicus's adoption by Tiberius is a stock fact of Julio-Claudian succession."
+    },
+    {
+      "locus": "Tacitus, Annales 1.5",
+      "source_text": "vixdum ingressus Illyricum Tiberius properis matris litteris accitur; neque satis conpertum est, spirantem adhuc Augustum apud urbem Nolam an exanimem reppererit.",
+      "question": "In qua urbe Augustum mortuum esse Tacitus tradit?",
+      "answer": "Nolae.",
+      "question_en": "In what city does Tacitus report that Augustus died?",
+      "answer_en": "At Nola.",
+      "derivation": "Anchored to Augustus; single place, supported by 'Augustum apud urbem Nolam' (where Tiberius found him dying or dead); corroborated in 1.9 ('Nolae in domo et cubiculo in quo pater eius Octavius vitam finivisset'). Indirect statement (Augustum mortuum esse) governed by tradit. Closed-book: Augustus's death at Nola is a stock fact."
+    },
+    {
+      "locus": "Tacitus, Annales 1.6",
+      "source_text": "Primum facinus novi principatus fuit Postumi Agrippae caedes",
+      "question": "Quod fuit primum facinus novi principatus Tiberii, ut Tacitus tradit?",
+      "answer": "Postumi Agrippae caedes.",
+      "question_en": "What was the first crime of the new principate of Tiberius, as Tacitus reports?",
+      "answer_en": "The murder of Agrippa Postumus.",
+      "derivation": "Anchored to the new principate of Tiberius; single named event/person, supported verbatim by 'Primum facinus novi principatus fuit Postumi Agrippae caedes'. Direct question, indicative fuit. Closed-book: the killing of Agrippa Postumus as Tiberius's first act is a well-known fact."
+    },
+    {
+      "locus": "Tacitus, Annales 1.16",
+      "source_text": "Hic rerum urbanarum status erat, cum Pannonicas legiones seditio incessit, nullis novis causis nisi quod mutatus princeps licentiam turbarum et ex civili bello spem praemiorum ostendebat. castris aestivis tres simul legiones habebantur, praesidente Iunio Blaeso.",
+      "question": "Quis tribus Pannonicis legionibus, cum seditionem fecerunt, praeerat, ut Tacitus tradit?",
+      "answer": "Iunius Blaesus.",
+      "question_en": "Who was in command of the three Pannonian legions when they mutinied, per Tacitus?",
+      "answer_en": "Junius Blaesus.",
+      "derivation": "Anchored to the Pannonian legions + their mutiny (AD 14); single named legate, supported verbatim by 'tres simul legiones habebantur, praesidente Iunio Blaeso'. praeerat takes dative (legionibus). Closed-book: Blaesus is the named commander of the Pannonian mutiny."
+    },
+    {
+      "locus": "Tacitus, Annales 1.31",
+      "source_text": "duo apud ripam Rheni exercitus erant: cui nomen superiori sub C. Silio legato, inferiorem A. Caecina curabat.",
+      "question": "Quis inferiorem apud ripam Rheni exercitum curabat, ut Tacitus tradit?",
+      "answer": "A. Caecina.",
+      "question_en": "Who commanded the lower army on the bank of the Rhine, per Tacitus?",
+      "answer_en": "Aulus Caecina.",
+      "derivation": "Anchored to the lower Rhine army (vs. the upper army under C. Silius); single named person, supported verbatim by 'inferiorem A. Caecina curabat'. Direct question, indicative curabat. Closed-book among readers of the Germanicus campaigns."
+    },
+    {
+      "locus": "Tacitus, Annales 1.55",
+      "source_text": "sed Varus fato et vi Armini cecidit",
+      "question": "Cuius vi Varum cecidisse Tacitus tradit?",
+      "answer": "Vi Arminii.",
+      "question_en": "By whose force does Tacitus say Varus fell?",
+      "answer_en": "By the force of Arminius.",
+      "derivation": "Anchored to Varus + Arminius; single named person, supported verbatim by 'Varus fato et vi Armini cecidit' (genitive 'Armini' as in the text). Indirect statement (Varum cecidisse) governed by tradit. Closed-book: Arminius as the destroyer of Varus is among the best-known facts of Roman history."
+    },
+    {
+      "locus": "Tacitus, Annales 1.57",
+      "source_text": "inerant feminae nobiles, inter quas uxor Arminii eademque filia Segestis",
+      "question": "Cuius filia erat uxor Arminii, ut Tacitus tradit?",
+      "answer": "Segestis.",
+      "question_en": "Whose daughter was the wife of Arminius, per Tacitus?",
+      "answer_en": "Segestes's.",
+      "derivation": "Anchored to Arminius + Segestes; single named relation, supported verbatim by 'uxor Arminii eademque filia Segestis'. Corroborated in 1.55 (Arminius had carried off Segestes's daughter, betrothed to another). Closed-book: that Arminius's wife was Segestes's daughter is a recurring fact in the Germanicus narrative."
+    },
+    {
+      "locus": "Tacitus, Annales 1.41",
+      "source_text": "iam infans in castris genitus, in contubernio legionum eductus, quem militari vocabulo Caligulam appellabant, quia plerumque ad concilianda vulgi studia eo tegmine pedum induebatur.",
+      "question": "Quo militari vocabulo Germanici filium, in castris genitum, milites appellabant, ut Tacitus tradit?",
+      "answer": "Caligulam.",
+      "question_en": "By what military nickname did the soldiers call Germanicus's son, born in the camp, per Tacitus?",
+      "answer_en": "Caligula.",
+      "derivation": "Anchored to Germanicus's son + the soldiers; single name, supported verbatim by 'quem militari vocabulo Caligulam appellabant'. Caligulam accusative as object of appellabant. Closed-book: Gaius's army-nickname 'Caligula' (from the caliga) is among the most famous facts of the period."
+    },
+    {
+      "locus": "Tacitus, Annales 1.60",
+      "source_text": "Bructeros sua urentis expedita cum manu L Stertinius missu Germanici fudit; interque caedem et praedam repperit undevicesimae legionis aquilam cum Varo amissam.",
+      "question": "Cuius legionis aquilam, cum Varo amissam, L. Stertinius apud Bructeros repperit, ut Tacitus tradit?",
+      "answer": "Undevicesimae legionis.",
+      "question_en": "The eagle of which legion, lost with Varus, did Stertinius recover among the Bructeri, per Tacitus?",
+      "answer_en": "Of the nineteenth legion.",
+      "derivation": "Anchored to Stertinius + the Varus disaster + the Bructeri; single numbered legion, supported verbatim by 'repperit undevicesimae legionis aquilam cum Varo amissam'. Direct question, indicative repperit. Closed-book: the recovery of the lost eagle of the 19th legion is a notable, specific fact."
+    },
+    {
+      "locus": "Tacitus, Annales 1.60",
+      "source_text": "ductum inde agmen ad ultimos Bructerorum, quantumque Amisiam et Lupiam amnis inter vastatum, haud procul Teutoburgiensi saltu in quo reliquiae Vari legionumque insepultae dicebantur.",
+      "question": "In quo saltu reliquias Vari legionumque insepultas iacuisse Tacitus tradit?",
+      "answer": "In Teutoburgiensi saltu.",
+      "question_en": "In what forest does Tacitus report that the unburied remains of Varus and his legions lay?",
+      "answer_en": "In the Teutoburg forest.",
+      "derivation": "Anchored to Varus + his legions; single named place, supported verbatim by 'haud procul Teutoburgiensi saltu in quo reliquiae Vari legionumque insepultae dicebantur'. Indirect statement (reliquias ... iacuisse) governed by tradit. Closed-book: the Teutoburg Forest is the famous site of the Varian disaster."
+    },
+    {
+      "locus": "Tacitus, Annales 1.62",
+      "source_text": "Igitur Romanus qui aderat exercitus sextum post cladis annum trium legionum ossa, nullo noscente alienas reliquias an suorum humo tegeret, omnis ut coniunctos, ut consanguineos, aucta in hostem ira, maesti simul et infensi condebant.",
+      "question": "Quot legionum ossa exercitus Germanici, sexto post Varianam cladem anno, in saltu Teutoburgiensi humo texit, ut Tacitus tradit?",
+      "answer": "Trium legionum.",
+      "question_en": "The bones of how many legions did Germanicus's army bury in the Teutoburg forest, in the sixth year after the Varian disaster, per Tacitus?",
+      "answer_en": "Of three legions.",
+      "derivation": "The famous toll of the Varian disaster. Anchored to Germanicus's army + the Teutoburg battlefield; single number, supported verbatim by 'sextum post cladis annum trium legionum ossa ... condebant'. The clades is the defeat of Varus (cf. 1.60 'aquilam cum Varo amissam', 1.61 'Vari castra ... trium legionum manus'). Closed-book: the loss of three legions under Varus is among the best-known facts of Roman history."
+    }
+  ]
+}
