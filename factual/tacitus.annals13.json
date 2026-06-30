@@ -1,0 +1,115 @@
+{
+  "source": "text/tacitus/tac.ann13.txt",
+  "author": "Tacitus",
+  "work": "Annales, liber XIII",
+  "pairs": [
+    {
+      "locus": "Tacitus, Annales 13.1",
+      "source_text": "Prima novo principatu mors Iunii Silani proconsulis Asiae ignaro Nerone per dolum Agrippinae paratur.",
+      "question": "Cuius proconsulis Asiae mors prima novo Neronis principatu fuit, ut Tacitus tradit?",
+      "answer": "Iunii Silani.",
+      "question_en": "The death of which proconsul of Asia was the first in Nero's new principate, according to Tacitus?",
+      "answer_en": "Of Junius Silanus.",
+      "derivation": "Anchored to Nero's new principate + the proconsulship of Asia; single named person, supported verbatim by 'Prima novo principatu mors Iunii Silani proconsulis Asiae'. Direct question, indicative fuit, 'ut Tacitus tradit' frame. Closed-book: that the first killing of Nero's reign (engineered by Agrippina) was of Junius Silanus is a stock fact of the period."
+    },
+    {
+      "locus": "Tacitus, Annales 13.2",
+      "source_text": "Ibaturque in caedes, nisi Afranius Burrus et Annaeus Seneca obviam issent. hi rectores imperatoriae iuventae et, rarum in societate potentiae, concordes, diversa arte ex aequo pollebant, Burrus militaribus curis et severitate morum, Seneca praeceptis eloquentiae et comitate honesta.",
+      "question": "Qui duo viri imperatoriae iuventae Neronis rectores fuere, ut Tacitus tradit?",
+      "answer": "Afranius Burrus et Annaeus Seneca.",
+      "question_en": "Which two men were the guides of Nero's imperial youth, according to Tacitus?",
+      "answer_en": "Afranius Burrus and Annaeus Seneca.",
+      "derivation": "Anchored to the young emperor Nero; two named persons, supported verbatim by 'Afranius Burrus et Annaeus Seneca ... hi rectores imperatoriae iuventae'. Direct question, indicative fuere. Closed-book: Seneca and Burrus as the directing pair of Nero's early reign are among the best-known facts of his principate."
+    },
+    {
+      "locus": "Tacitus, Annales 13.12",
+      "source_text": "Ceterum infracta paulatim potentia matris delapso Nerone in amorem libertae, cui vocabulum Acte fuit.",
+      "question": "Quod erat nomen libertae, in cuius amorem Nero delapsus est, ut Tacitus tradit?",
+      "answer": "Acte.",
+      "question_en": "What was the name of the freedwoman with whom Nero fell in love, according to Tacitus?",
+      "answer_en": "Acte.",
+      "derivation": "Anchored to Nero; single named person, supported verbatim by 'delapso Nerone in amorem libertae, cui vocabulum Acte fuit'. Direct question, indicative delapsus est. Closed-book: Nero's affair with the freedwoman Acte is a well-attested biographical fact."
+    },
+    {
+      "locus": "Tacitus, Annales 13.16",
+      "source_text": "Innoxia adhuc ac praecalida et libata gustu potio traditur Britannico; dein, postquam fervore aspernabatur, frigida in aqua adfunditur venenum, quod ita cunctos eius artus pervasit, ut vox pariter et spiritus eius raperentur.",
+      "question": "Quo modo Nero Britannicum, Claudii filium, e medio sustulit, ut Tacitus tradit?",
+      "answer": "Veneno.",
+      "question_en": "By what means did Nero do away with Britannicus, son of Claudius, according to Tacitus?",
+      "answer_en": "By poison.",
+      "derivation": "Anchored to Nero + Britannicus, the son of Claudius; the method (poison, slipped into a cooled drink at the meal) is supported verbatim by 'frigida in aqua adfunditur venenum, quod ita cunctos eius artus pervasit'. Direct question, indicative sustulit. Closed-book: that Nero had Britannicus poisoned at a banquet is one of the most famous facts of his reign."
+    },
+    {
+      "locus": "Tacitus, Annales 13.15",
+      "source_text": "occulta molitur pararique venenum iubet, ministro Pollione Iulio praetoriae cohortis tribuno, cuius cura attinebatur damnata veneficii nomine Locusta, multa scelerum fama.",
+      "question": "Cuius mulieris, veneficii damnatae, opera venenum in Britannicum paratum est, ut Tacitus tradit?",
+      "answer": "Locustae.",
+      "question_en": "By the agency of which woman, condemned for poisoning, was the poison prepared against Britannicus, according to Tacitus?",
+      "answer_en": "Of Locusta.",
+      "derivation": "Anchored to Britannicus + the poisoner; single named person, supported verbatim by 'pararique venenum iubet ... damnata veneficii nomine Locusta'. Direct question, indicative paratum est; genitive answer Locustae governed by opera. Closed-book: Locusta, the notorious poisoner used against Britannicus, is a stock figure of the Neronian age."
+    },
+    {
+      "locus": "Tacitus, Annales 13.17",
+      "source_text": "Nox eadem necem Britannici et rogum coniunxit, proviso ante funebri paratu, qui modicus fuit. in campo tamen Martis sepultus est.",
+      "question": "Quo loco Britannicus, Claudii filius, sepultus est, ut Tacitus tradit?",
+      "answer": "In campo Martis.",
+      "question_en": "Where was Britannicus, son of Claudius, buried, according to Tacitus?",
+      "answer_en": "In the Campus Martius.",
+      "derivation": "Anchored to Britannicus, the son of Claudius; single named place, supported verbatim by 'in campo tamen Martis sepultus est'. Direct question, indicative sepultus est. Closed-book: a checkable place fact about the burial of the murdered prince."
+    },
+    {
+      "locus": "Tacitus, Annales 13.8",
+      "source_text": "praeter suetam adulationem laeti, quod Domitium Corbulonem retinendae Armeniae praeposuerat videbaturque locus virtutibus patefactus.",
+      "question": "Quem Nero retinendae Armeniae praeposuit, ut Tacitus tradit?",
+      "answer": "Domitium Corbulonem.",
+      "question_en": "Whom did Nero put in charge of holding Armenia, according to Tacitus?",
+      "answer_en": "Domitius Corbulo.",
+      "derivation": "Anchored to Nero + the command in Armenia (against the Parthians); single named person, supported verbatim by 'Domitium Corbulonem retinendae Armeniae praeposuerat'. Direct question, indicative praeposuit; gerundive dative retinendae Armeniae. Closed-book: Corbulo's eastern command over Armenia is among the best-known facts of Nero's reign."
+    },
+    {
+      "locus": "Tacitus, Annales 13.41",
+      "source_text": "sed oppidani portis sponte patefactis se suaque Romanis permisere. quod salutem ipsis tulit; Artaxatis ignis immissus deletaque et solo aequata sunt.",
+      "question": "Quam Armeniae urbem Corbulonis exercitus igni delevit et solo aequavit, ut Tacitus tradit?",
+      "answer": "Artaxata.",
+      "question_en": "Which city of Armenia did Corbulo's army destroy by fire and level to the ground, according to Tacitus?",
+      "answer_en": "Artaxata.",
+      "derivation": "Anchored to Corbulo + Armenia; single named place, supported verbatim by 'Artaxatis ignis immissus deletaque et solo aequata sunt' (the chapter opens 'Et Corbulo'; Artaxata is called 'caput gentis' at 13.39). Direct question, indicative delevit/aequavit. Closed-book: Corbulo's capture and burning of the Armenian capital Artaxata is a well-known episode of his campaign."
+    },
+    {
+      "locus": "Tacitus, Annales 13.46",
+      "source_text": "deicitur familiaritate sueta, post congressu et comitatu Otho, et ad postremum, ne in urbe aemulatus ageret, provinciae Lusitaniae praeficitur.",
+      "question": "Cui provinciae Otho praefectus est, ut a Neronis aemulatione amoveretur, secundum Tacitum?",
+      "answer": "Lusitaniae.",
+      "question_en": "Over which province was Otho placed, so as to be removed from rivalry with Nero, according to Tacitus?",
+      "answer_en": "Lusitania.",
+      "derivation": "Anchored to Otho (the future emperor) + Nero; single named province, supported verbatim by 'provinciae Lusitaniae praeficitur'. Direct question, indicative praefectus est, purpose clause amoveretur. Closed-book: Otho's governorship of Lusitania before his bid for empire is a stock biographical fact."
+    },
+    {
+      "locus": "Tacitus, Annales 13.45",
+      "source_text": "erat in civitate Sabina Poppaea, T. Ollio patre genita, sed nomen avi materni sumpserat, inlustri memoria Poppaei Sabini consularis et triumphali decore praefulgentis.",
+      "question": "A quo Poppaea Sabina, cum T. Ollio patre genita esset, nomen sumpsit, ut Tacitus tradit?",
+      "answer": "Ab avo materno Poppaeo Sabino.",
+      "question_en": "From whom did Poppaea Sabina take her name, although she was born of her father Titus Ollius, according to Tacitus?",
+      "answer_en": "From her maternal grandfather Poppaeus Sabinus.",
+      "derivation": "Anchored to Poppaea Sabina (Nero's later wife); the relation is supported verbatim by 'T. Ollio patre genita, sed nomen avi materni sumpserat, inlustri memoria Poppaei Sabini consularis'. Direct question, indicative sumpsit, concessive cum-clause genita esset. Closed-book: that Poppaea bore her maternal grandfather Poppaeus Sabinus's name rather than her father Ollius's is a clean, single-answer genealogical fact."
+    },
+    {
+      "locus": "Tacitus, Annales 13.31",
+      "source_text": "Ceterum coloniae Capua atque Nuceria additis veteranis firmatae sunt.",
+      "question": "Quas duas colonias Nero additis veteranis firmavit, ut Tacitus tradit?",
+      "answer": "Capuam atque Nuceriam.",
+      "question_en": "Which two colonies did Nero strengthen by adding veterans, according to Tacitus?",
+      "answer_en": "Capua and Nuceria.",
+      "derivation": "Anchored to Nero; two named places, supported verbatim by 'coloniae Capua atque Nuceria additis veteranis firmatae sunt'. Direct question, indicative firmavit, ablative absolute additis veteranis. Closed-book: a checkable place fact, the veteran settlement at Capua and Nuceria under Nero."
+    },
+    {
+      "locus": "Tacitus, Annales 13.58",
+      "source_text": "Eodem anno Ruminalem arborem in comitio, quae octingentos et triginta ante annos Remi Romulique infantiam texerat, mortuis ramalibus et arescente trunco deminutam prodigii loco habitum est.",
+      "question": "Quot ante annos arbor Ruminalis in comitio Remi Romulique infantiam texerat, ut Tacitus tradit?",
+      "answer": "Octingentos et triginta.",
+      "question_en": "How many years earlier had the Ruminal tree in the comitium sheltered the infancy of Remus and Romulus, according to Tacitus?",
+      "answer_en": "Eight hundred and thirty.",
+      "derivation": "Anchored to the Ruminal tree + Romulus and Remus; single number, supported verbatim by 'quae octingentos et triginta ante annos Remi Romulique infantiam texerat'. Direct question, indicative texerat, 'ut Tacitus tradit' frame for a figure particular to Tacitus. Closed-book number fact about the famous fig tree of the comitium."
+    }
+  ]
+}
