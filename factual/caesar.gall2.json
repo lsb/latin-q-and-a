@@ -1,0 +1,124 @@
+{
+  "source": "text/caesar/gall2.txt",
+  "author": "Caesar",
+  "work": "De Bello Gallico, liber II",
+  "pairs": [
+    {
+      "locus": "Caesar, De Bello Gallico 2.1",
+      "source_text": "crebri ad eum rumores adferebantur litterisque item Labieni certior fiebat omnes Belgas, quam tertiam esse Galliae partem dixeramus, contra populum Romanum coniurare obsidesque inter se dare.",
+      "question": "Quam Galliae partem Belgas esse Caesar scribit?",
+      "answer": "Tertiam.",
+      "question_en": "Which part of Gaul does Caesar say the Belgae are?",
+      "answer_en": "The third.",
+      "derivation": "The famous opening fact echoed from BG 1.1: the Belgae are the third of the three parts of Gaul. Anchored to the Belgae and Caesar; single answer supported verbatim by 'quam tertiam esse Galliae partem'. Indirect statement (Belgas esse partem) under scribit; closed-book staple of Latin geography."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.1",
+      "source_text": "crebri ad eum rumores adferebantur litterisque item Labieni certior fiebat omnes Belgas, quam tertiam esse Galliae partem dixeramus, contra populum Romanum coniurare obsidesque inter se dare.",
+      "question": "Contra quem populum omnes Belgas coniurare Caesar litteris Labieni certior factus est?",
+      "answer": "Contra populum Romanum.",
+      "question_en": "Against what people was Caesar informed, by letters from Labienus, that all the Belgae were conspiring?",
+      "answer_en": "Against the Roman people.",
+      "derivation": "The opening fact of Book II. Anchored to the Belgae, Labienus, and Caesar; single answer supported verbatim by 'omnes Belgas ... contra populum Romanum coniurare'. Indirect statement (Belgas coniurare) under certior factus est; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.3",
+      "source_text": "Remi, qui proximi Galliae ex Belgis sunt, ad eum legatos Iccium et Andebrogium, primos civitatis, miserunt, qui dicerent se suaque omnia in fidem atque potestatem populi Romani permittere, neque se cum reliquis Belgis consensisse neque contra populum Romanum coniurasse.",
+      "question": "Qui populus Belgarum primus legatos ad Caesarem misit seque in fidem populi Romani permisit?",
+      "answer": "Remi.",
+      "question_en": "Which people of the Belgae was the first to send legates to Caesar and to commit itself to the protection of the Roman people?",
+      "answer_en": "The Remi.",
+      "derivation": "Anchored to the Belgae and Caesar; the Remi alone broke from the coalition and submitted first ('Remi ... ad eum legatos ... miserunt, qui dicerent se ... in fidem atque potestatem populi Romani permittere'). The Remi's early alliance is a staple of BG II; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.4",
+      "source_text": "Suessiones suos esse finitimos; fines latissimos feracissimosque agros possidere. Apud eos fuisse regem nostra etiam memoria Diviciacum, totius Galliae potentissimum, qui cum magnae partis harum regionum, tum etiam Britanniae imperium obtinuerit; nunc esse regem Galbam: ad hunc propter iustitiam prudentiamque summam totius belli omnium voluntate deferri.",
+      "question": "Cui Suessionum regi summa totius belli a Belgis omnium voluntate delata est?",
+      "answer": "Galbae.",
+      "question_en": "To which king of the Suessiones was the supreme command of the whole war entrusted by the unanimous wish of the Belgae?",
+      "answer_en": "To Galba.",
+      "derivation": "Named-leader fact anchored to the Suessiones and the Belgic coalition; Galba is the Belgic commander-in-chief ('nunc esse regem Galbam: ad hunc ... summam totius belli omnium voluntate deferri'). His kingship is confirmed at 2.13, where his two sons are given as hostages. Single named answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.4",
+      "source_text": "totidem Nervios, qui maxime feri inter ipsos habeantur longissimeque absint;",
+      "question": "Qui populus inter Belgas maxime ferus habebatur?",
+      "answer": "Nervii.",
+      "question_en": "Which people was reckoned the fiercest among the Belgae?",
+      "answer_en": "The Nervii.",
+      "derivation": "Anchored to the Belgae; the Nervii are reckoned the fiercest of them ('Nervios, qui maxime feri inter ipsos habeantur'), a judgement echoed at 2.15 ('esse homines feros magnaeque virtutis'). One of the best-known characterizations in BG II; closed-book, single named answer."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.6",
+      "source_text": "Iccius Remus, summa nobilitate et gratia inter suos, qui tum oppido praeerat, unus ex iis qui legati de pace ad Caesarem venerant, nuntium ad eum mittit, nisi subsidium sibi submittatur, sese diutius sustinere non posse.",
+      "question": "Quis Remus summae nobilitatis, qui oppido a Belgis obsesso praeerat, nuntium de subsidio ad Caesarem misit?",
+      "answer": "Iccius.",
+      "question_en": "Which Reman of the highest nobility, who commanded the town besieged by the Belgae, sent a message asking Caesar for relief?",
+      "answer_en": "Iccius.",
+      "derivation": "Named-leader fact anchored to the Remi, the Belgic siege, and Caesar. Iccius commanded the besieged town (Bibrax, named earlier in 2.6) and sent to Caesar for relief ('Iccius Remus ... qui tum oppido praeerat ... nuntium ad eum mittit'); he was also one of the Reman envoys of 2.3. Single named answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.15",
+      "source_text": "Eorum fines Nervii attingebant. Quorum de natura moribusque Caesar cum quaereret, sic reperiebat: nullum esse aditum ad eos mercatoribus; nihil pati vini reliquarumque rerum ad luxuriam pertinentium inferri, quod his rebus relanguescere animos eorum et remitti virtutem existimarent.",
+      "question": "Quam potionem Nervii in fines suos inferri non patiebantur, ne animi eorum relanguescerent?",
+      "answer": "Vinum.",
+      "question_en": "What drink did the Nervii not allow to be imported into their territory, lest their spirits be weakened?",
+      "answer_en": "Wine.",
+      "derivation": "Ethnographic custom anchored to the Nervii; they admitted no merchants and allowed no wine or luxuries to be imported ('nihil pati vini ... inferri, quod his rebus relanguescere animos eorum ... existimarent'). A famous Nervian custom; closed-book, short answer."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.16",
+      "source_text": "Cum per eorum fines triduum iter fecisset, inveniebat ex captivis Sabim flumen a castris suis non amplius milibus passuum X abesse; trans id flumen omnes Nervios consedisse adventumque ibi Romanorum expectare una cum Atrebatibus et Viromanduis, finitimis suis.",
+      "question": "Ad quod flumen omnes Nervios consedisse Caesar ex captivis cognovit?",
+      "answer": "Ad flumen Sabim.",
+      "question_en": "At which river did Caesar learn from prisoners that all the Nervii had encamped?",
+      "answer_en": "At the river Sabis (the Sambre).",
+      "derivation": "Geography/battle fact anchored to the Nervii; the river Sabis (Sambre), site of the famous battle, supported verbatim by 'trans id flumen omnes Nervios consedisse'. Single named answer; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.28",
+      "source_text": "et in commemoranda civitatis calamitate ex DC ad tres senatores, ex hominum milibus LX vix ad D, qui arma ferre possent, sese redactos esse dixerunt.",
+      "question": "Ex sescentis senatoribus ad quot senatores se redactos esse Nervii post proelium dixerunt?",
+      "answer": "Ad tres.",
+      "question_en": "From six hundred senators, to how many did the Nervii say they had been reduced after the battle?",
+      "answer_en": "To three.",
+      "derivation": "Number fact anchored to the Nervii (the 'civitas' of ch. 28, nearly annihilated at the Sabis); after the battle they declared themselves reduced from 600 senators to 3 ('ex DC ad tres senatores ... sese redactos esse'). The near-destruction of the Nervii is iconic; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.29",
+      "source_text": "Ipsi erant ex Cimbris Teutonisque prognati, qui, cum iter in provinciam nostram atque Italiam facerent, iis impedimentis quae secum agere ac portare non poterant citra flumen Rhenum depositis custodiam ex suis ac praesidium VI milia hominum una reliquerant.",
+      "question": "Ex quibus gentibus Atuatucos prognatos esse Caesar tradit?",
+      "answer": "Ex Cimbris Teutonisque.",
+      "question_en": "From which peoples does Caesar relate the Aduatuci were descended?",
+      "answer_en": "From the Cimbri and the Teutoni.",
+      "derivation": "Origin fact anchored to the Aduatuci ('Ipsi' = the Atuatuci, subject of ch. 29); descended from the Cimbri and Teutoni, supported verbatim by 'Ipsi erant ex Cimbris Teutonisque prognati'. Indirect statement (prognatos esse) under tradit; the Aduatuci's Cimbric descent is a well-known BG II fact; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.29",
+      "source_text": "Ipsi erant ex Cimbris Teutonisque prognati, qui, cum iter in provinciam nostram atque Italiam facerent, iis impedimentis quae secum agere ac portare non poterant citra flumen Rhenum depositis custodiam ex suis ac praesidium VI milia hominum una reliquerant. Hi post eorum obitum multos annos a finitimis exagitati, cum alias bellum inferrent, alias inlatum defenderent, consensu eorum omnium pace facta hunc sibi domicilio locum delegerant.",
+      "question": "Quot hominum milia Cimbri Teutonique citra Rhenum custodiae causa reliquerunt, unde Atuatuci orti sunt?",
+      "answer": "VI milia.",
+      "question_en": "How many thousand men did the Cimbri and Teutoni leave as a guard on the near side of the Rhine, from whom the Aduatuci sprang?",
+      "answer_en": "Six thousand.",
+      "derivation": "Number/origin fact anchored to the Cimbri, Teutoni, and the Aduatuci; the 6,000 men left as a garrison ('VI milia hominum una reliquerant') became the Aduatuci ('Hi ... hunc sibi domicilio locum delegerant'). Single number answer supported verbatim; closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.33",
+      "source_text": "Postridie eius diei refractis portis, cum iam defenderet nemo, atque intromissis militibus nostris, sectionem eius oppidi universam Caesar vendidit. Ab iis qui emerant capitum numerus ad eum relatus est milium LIII.",
+      "question": "Quot capitum milia ex oppido Atuatucorum vendito ab emptoribus Caesari renuntiata sunt?",
+      "answer": "LIII milia.",
+      "question_en": "How many thousand persons from the sold town of the Aduatuci were reported back to Caesar by the buyers?",
+      "answer_en": "Fifty-three thousand.",
+      "derivation": "The headline figure of the Aduatuci episode, anchored to the Aduatuci ('eius oppidi' = their stronghold of ch. 33); after Caesar sold the whole town, the buyers reported 53,000 heads ('capitum numerus ad eum relatus est milium LIII'). Single number answer supported verbatim; one of the most-cited figures in BG, closed-book."
+    },
+    {
+      "locus": "Caesar, De Bello Gallico 2.35",
+      "source_text": "Ob easque res ex litteris Caesaris dierum XV supplicatio decreta est, quod ante id tempus accidit nulli.",
+      "question": "Quot dierum supplicatio ob res a Caesare in Belgis gestas Romae decreta est?",
+      "answer": "Dierum XV.",
+      "question_en": "A thanksgiving of how many days was decreed at Rome for the deeds Caesar accomplished among the Belgae?",
+      "answer_en": "Of fifteen days.",
+      "derivation": "Historical fact anchored to Caesar; a 15-day supplicatio was decreed for these achievements, an unprecedented honour ('dierum XV supplicatio decreta est, quod ante id tempus accidit nulli'). Single number answer supported verbatim; the first 15-day thanksgiving ever voted, closed-book."
+    }
+  ]
+}
