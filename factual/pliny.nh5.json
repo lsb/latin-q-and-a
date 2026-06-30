@@ -1,0 +1,142 @@
+{
+  "source": "text/pliny.nh5.txt",
+  "author": "Pliny the Elder",
+  "work": "Naturalis Historia, liber V",
+  "pairs": [
+    {
+      "locus": "Plinius, Naturalis Historia 5.1",
+      "source_text": "Africam Graeci Libyam appellavere et mare ante eam Libycum.",
+      "question": "Quo nomine Africa a Graecis appellata esse a Plinio dicitur?",
+      "answer": "Libya.",
+      "question_en": "By what name does Pliny say Africa was called by the Greeks?",
+      "answer_en": "Libya.",
+      "derivation": "Opening fact of the book: the Greek name for Africa is Libya. Anchored to Africa + the Greeks; single named answer supported verbatim by Africam Graeci Libyam appellavere. Nominativus cum infinitivo (Africa appellata esse) governed by dicitur; closed-book because Libya as the Greek term for Africa is a commonplace of ancient geography."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.5",
+      "source_text": "multo tamen magis Autololum gente, per quam iter est ad montem Africae vel fabulosissimum Atlantem.",
+      "question": "Quem montem Plinius 'montem Africae vel fabulosissimum' nominat?",
+      "answer": "Atlantem.",
+      "question_en": "Which mountain does Pliny call 'the mountain of Africa, and the most fabulous'?",
+      "answer_en": "Mount Atlas.",
+      "derivation": "Identifies Atlas as the iconic mountain of Africa. Single named-mountain answer supported verbatim by montem Africae vel fabulosissimum Atlantem; nominat takes the double accusative (quem montem ... Atlantem). Closed-book: Mount Atlas is among the best-known landmarks of ancient geography."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.48",
+      "source_text": "ita se findente Nilo, ut triquetram terrae figuram efficiat, ideoque multi Graecae litterae vocabulo Delta appellavere Aegyptum.",
+      "question": "Quo Graecae litterae vocabulo multi Aegyptum appellaverunt, ob triquetram figuram quam Nilus se findens efficit, secundum Plinium?",
+      "answer": "Vocabulo litterae Delta.",
+      "question_en": "By the name of which Greek letter did many call Egypt, on account of the triangular shape that the Nile forms by splitting, according to Pliny?",
+      "answer_en": "By the name of the letter Delta.",
+      "derivation": "Egypt named 'Delta' from the Greek letter because the Nile, splitting, makes a triangular shape. Anchored to Egypt + the Nile; single answer supported verbatim by Graecae litterae vocabulo Delta appellavere Aegyptum. Closed-book and iconic (the Nile Delta)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.57",
+      "source_text": "auctus per puteos mensurae notis deprehenduntur. iustum incrementum est cubitorum XVI.",
+      "question": "Quot cubitorum esse iustum Nili incrementum Plinius tradit?",
+      "answer": "Cubitorum XVI.",
+      "question_en": "Of how many cubits does Pliny say the proper rise of the Nile is?",
+      "answer_en": "Sixteen cubits.",
+      "derivation": "The famous ideal flood-height of the Nile, sixteen cubits. Anchored to the Nile; single number answer supported verbatim by iustum incrementum est cubitorum XVI. Indirect statement (incrementum esse) governed by tradit; closed-book (the Nilometer's sixteen cubits)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.50",
+      "source_text": "inde LXII p. abest Memphis, quondam arx Aegypti regum.",
+      "question": "Quod oppidum Aegypti quondam arx regum fuisse a Plinio dicitur?",
+      "answer": "Memphis.",
+      "question_en": "Which Egyptian town does Pliny say was once the citadel of the kings?",
+      "answer_en": "Memphis.",
+      "derivation": "Memphis as the ancient royal seat of Egypt. Anchored to Egypt + its kings; single-name answer supported verbatim by Memphis, quondam arx Aegypti regum. Nominativus cum infinitivo (oppidum ... arx fuisse) governed by dicitur; closed-book and recognizable."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.60",
+      "source_text": "Diospolis Magna, eadem Thebe portarum centum nobilis fama.",
+      "question": "Quae urbs Aegypti, eadem Diospolis Magna, centum portarum fama nobilis est secundum Plinium?",
+      "answer": "Thebe.",
+      "question_en": "Which Egyptian city, also called Diospolis Magna, is famed for its hundred gates, according to Pliny?",
+      "answer_en": "Thebes.",
+      "derivation": "The hundred-gated Thebes (Diospolis Magna). Anchored to Egypt + the alternate name Diospolis Magna; single-name answer supported verbatim by Thebe portarum centum nobilis fama. Closed-book: the hekatompylos Thebes is a Homeric commonplace."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.62",
+      "source_text": "Sed iure laudetur in litore Aegyptii maris Alexandria, a Magno Alexandro condita in Africae parte ab ostio Canopico XII p. iuxta Mareotim lacum, qui locus antea Rhacotes nominabatur.",
+      "question": "A quo Alexandria in Aegypto condita esse a Plinio traditur?",
+      "answer": "A Magno Alexandro.",
+      "question_en": "By whom does Pliny say Alexandria in Egypt was founded?",
+      "answer_en": "By Alexander the Great.",
+      "derivation": "Founder fact: Alexander the Great founded Alexandria. Anchored to the city; single named-founder answer (ablative of agent) supported verbatim by Alexandria, a Magno Alexandro condita. Nominativus cum infinitivo governed by traditur; closed-book and iconic."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.128",
+      "source_text": "altera iuncta ponte Alexandriae, colonia Caesaris dictatoris, Pharos, quondam diei navigatione distans ab Aegypto, nunc e turri nocturnis ignibus cursum navium regens.",
+      "question": "Quae insula apud Alexandriam e turri nocturnis ignibus cursum navium regere a Plinio dicitur?",
+      "answer": "Pharos.",
+      "question_en": "Which island by Alexandria does Pliny say guides ships' course from a tower by nighttime fires?",
+      "answer_en": "Pharos.",
+      "derivation": "The lighthouse island of Pharos at Alexandria. Anchored to Alexandria; single-name answer supported verbatim by Pharos ... e turri nocturnis ignibus cursum navium regens. Nominativus cum infinitivo governed by dicitur; closed-book (the Pharos, one of the Seven Wonders)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.66",
+      "source_text": "ac magis etiamnum meridiana Babylonia, eadem Mesopotamia inter Euphraten et Tigrin.",
+      "question": "Inter quae duo flumina regionem Mesopotamiam sitam esse Plinius tradit?",
+      "answer": "Inter Euphraten et Tigrin.",
+      "question_en": "Between which two rivers does Pliny say the region of Mesopotamia lies?",
+      "answer_en": "Between the Euphrates and the Tigris.",
+      "derivation": "Mesopotamia lies between the Euphrates and the Tigris. Anchored to the named region; two-river answer supported verbatim by Mesopotamia inter Euphraten et Tigrin. Indirect statement (Mesopotamiam sitam esse) governed by tradit; closed-book (the very meaning of 'Mesopotamia')."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.70",
+      "source_text": "in qua fuere Hierosolyma, longe clarissima urbium orientis, non Iudaeae modo.",
+      "question": "Quae urbs Iudaeae a Plinio 'longe clarissima urbium orientis' appellatur?",
+      "answer": "Hierosolyma.",
+      "question_en": "Which city of Judaea does Pliny call 'by far the most famous of the cities of the East'?",
+      "answer_en": "Jerusalem (Hierosolyma).",
+      "derivation": "Pliny's superlative for Jerusalem, longe clarissima urbium orientis. Anchored to Judaea; single-name answer supported verbatim. Closed-book and iconic; passive appellatur keeps the 'according to Pliny' frame."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.73",
+      "source_text": "Ab occidente litora Esseni fugiunt usque qua nocent, gens sola et in toto orbe praeter ceteras mira, sine ulla femina, omni venere abdicata, sine pecunia, socia palmarum.",
+      "question": "Quae gens ad occidentale latus lacus Asphaltitae sine ulla femina degere a Plinio traditur?",
+      "answer": "Esseni.",
+      "question_en": "Which people does Pliny record as living on the western side of the Dead Sea (Lake Asphaltites) without any woman?",
+      "answer_en": "The Essenes.",
+      "derivation": "Pliny's famous notice placing the celibate Esseni on the western shore of the Dead Sea. Anchored to the lake + the womanless people; single named-people answer supported verbatim by Esseni ... sine ulla femina. Nominativus cum infinitivo governed by traditur; closed-book (the Essenes)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.76",
+      "source_text": "Tyros, quondam insula praealto mari DCC passibus divisa, nunc vero Alexandri oppugnantis operibus continens; olim partu clara, urbibus genitis Lepti, Utica et illa aemula terrarumque orbis avida Carthagine, etiam Gadibus extra orbem conditis.",
+      "question": "Cuius urbis Phoeniciae partu Carthaginem, Uticam, Gades genitas esse Plinius tradit?",
+      "answer": "Tyri.",
+      "question_en": "By the offspring of which Phoenician city does Pliny say Carthage, Utica, and Gades were founded?",
+      "answer_en": "Of Tyre.",
+      "derivation": "Tyre as the Phoenician mother-city of Carthage (and Utica and Gades). Anchored to Carthage et al.; single-name answer (genitive) supported verbatim by Tyros ... urbibus genitis ... Carthagine ... Gadibus. Indirect statement governed by tradit; closed-book (Carthage's Tyrian foundation)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.86",
+      "source_text": "Arabia supra dicta habet oppida Edessam, quae quondam Antiochia dicebatur, Callirhoem, a fonte nominatam, Carrhas, Crassi clade nobile.",
+      "question": "Quod oppidum a Plinio 'Crassi clade nobile' dicitur?",
+      "answer": "Carrhae.",
+      "question_en": "Which town does Pliny call 'famous for the defeat of Crassus'?",
+      "answer_en": "Carrhae.",
+      "derivation": "Carrhae as the site famous for Crassus' disaster. Anchored to Crassus; single-name answer supported verbatim by Carrhas, Crassi clade nobile. Closed-book and iconic (the Battle of Carrhae, 53 BC)."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.88",
+      "source_text": "Palmyra, urbs nobilis situ, divitiis soli et aquis amoenis, vasto undique ambitu haernis includit agros ac, velut terris exempta a rerum natura, privata sorte inter duo imperia summa Romanorum Parthorumque est, prima in discordia semper utrimque cura.",
+      "question": "Inter quae duo summa imperia urbem Palmyram sitam esse Plinius scribit?",
+      "answer": "Inter imperia Romanorum et Parthorum.",
+      "question_en": "Between which two great empires does Pliny say the city of Palmyra is situated?",
+      "answer_en": "Between the empires of the Romans and the Parthians.",
+      "derivation": "Palmyra lies between the two great empires of Rome and Parthia. Anchored to the named city; two-empire answer supported verbatim by inter duo imperia summa Romanorum Parthorumque est. Indirect statement (Palmyram sitam esse) governed by scribit; closed-book and recognizable."
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 5.132",
+      "source_text": "Sed pulcherrima est libera Rhodos, circuitu CXXV aut, si potius Isidoro credimus, CIII, habitata urbibus Lindo, Camiro, Ialyso, nunc Rhodo.",
+      "question": "Quam insulam, urbibus Lindo, Camiro, Ialyso habitatam, Plinius pulcherrimam liberamque esse tradit?",
+      "answer": "Rhodum.",
+      "question_en": "Which island, inhabited by the cities Lindus, Camirus, and Ialysus, does Pliny say is the most beautiful and free?",
+      "answer_en": "Rhodes.",
+      "derivation": "Pliny's superlative for Rhodes (pulcherrima ... libera), with its three classic cities. Anchored to Lindus/Camirus/Ialysus; single-name answer supported verbatim. Indirect statement (insulam pulcherrimam esse) governed by tradit; closed-book and iconic."
+    }
+  ]
+}
