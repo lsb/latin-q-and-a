@@ -115,13 +115,35 @@ re-run or extend:
 
 Notes that made the runs clean:
 - **One work at a time.** Serial keeps each reading focused and the run steerable.
-- **Precision over recall is the default.** A work yielding 5 gold pairs beats one
-  padded to 20; returning zero is acceptable.
+- **Precision is the quality gate, not a cap.** Drop doubtful/soft pairs, but keep
+  *every* fact that clears the seven criteria — no target ceiling, no
+  "famous-only" filter (see `author_prompt.md` → *Coverage: exhaustive within the
+  bar*). A sparse or theological work may still yield only a handful, and that's
+  fine.
 - **Name the target facts.** A reader told "hunt the birthplace, the offices, the
   named battle, the death" outperforms an open-ended "find facts."
 - **Let the reader drop what the text doesn't support.** Good readers refuse to
   assert a fact that isn't in *their* work (e.g. a name that only appears in a
   later book), and flag OCR slips / editorial brackets in the quoted `source_text`.
+
+### Depth: a first pass is a floor, not a ceiling
+
+Per-work yield reflects **how hard we mine**, not the text. A quick first pass
+under-mines a rich work; a **deep pass** — cap removed, keeping the
+verifiable-but-less-celebrated facts too — finds many more, all clearing the same
+bar. (Worked example: Suetonius's *Divus Iulius* gave **20** pairs on a first
+pass and **80 more** on a deep re-read — 100 in all.)
+
+To **deepen an already-covered work**, run a second reader that additionally:
+- reads the work's existing `factual/<name>.json` and is told **not to duplicate**
+  those facts/questions — it authors only *new* pairs;
+- writes just the new pairs (e.g. to a scratch file) so the original pairs are
+  merged back untouched; then dedup by question across the whole set and commit.
+
+Because coverage depth is a knob, `factual/*.json` files are at *different*
+depths: some works have had only a first pass and can still be deepened; a few
+(e.g. *Divus Iulius*) have had a deep pass. `qa.jsonl` + `aggregate.py` remain
+the authoritative record of what exists.
 
 ## Revisiting our choices
 

@@ -15,7 +15,8 @@ ethnography, biography, history, law, agronomy — so mine the *facts*, not the
 theory or rhetoric.
 
 ## Your job
-For each clean fact, produce a pair with three Latin parts + English glosses:
+Read the whole work and harvest **every** clean fact — not a curated few. For
+each, produce a pair with three Latin parts + English glosses:
 - **`source_text`** — the verbatim Latin sentence(s) stating the fact (evidence).
 - **`question`** — a NEW Latin question you write (correct, idiomatic Latin).
 - **`answer`** — a NEW short Latin answer you write.
@@ -58,11 +59,25 @@ answer's fact must be present, unaltered in substance, in that quoted source.
 - Whole-passage summary — fails *closed-book* + *short-answer*.
 - Anything you needed the passage open to even parse.
 
-## Precision over recall
-When a candidate is doubtful — fuzzy fact, arguable answer, thin anchoring,
-shaky Latin — **DROP it.** A work yielding 3–8 gold pairs is a success; zero is
-acceptable. Do not pad. Better few clean pairs than many soft ones. Most
-sentences will NOT yield a pair; that is expected.
+## Coverage: exhaustive within the bar (precision ≠ few)
+The seven criteria are the **quality gate**, and you apply them strictly: when a
+candidate is doubtful — fuzzy fact, arguable answer, thin anchoring, shaky Latin,
+passage-dependent — **DROP it.** But precision governs **quality, not count**.
+There is **no target ceiling** and **no "famous facts only" filter**:
+- Keep **every** fact that clears all seven criteria — the celebrated and the
+  merely verifiable alike. The *corona civica* at Mytilene counts as much as
+  *iacta alea est*; the obscure-but-checkable fact is often the *more* valuable
+  one for a cross-lingual test.
+- A dense biography or history can yield **dozens** of pairs; harvest them all. A
+  sparse, theological, or lyric work may yield a handful or none — also fine.
+- **"Do not pad"** means do not admit *soft* pairs (ones that fail a criterion) —
+  it does **not** mean stop early. Most individual *sentences* still won't yield
+  a pair, but read to the end and take all that do.
+
+**Deepening an already-covered work.** If you are given the pairs already
+extracted from this work, do **not** duplicate them — same fact or same
+question. Author only the additional pairs the text still supports (there are
+usually many more than a first pass took).
 
 ## Write correct Latin (you own this now)
 - Classical morphology and syntax. **Indirect question → subjunctive** (*quot

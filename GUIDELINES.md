@@ -102,13 +102,26 @@ Avoid (these are the "theories of humours" we steer clear of):
 - **Anything you had to read the passage to even parse the question.** If the
   question only makes sense next to the text, it is not decontextualizable.
 
-## Precision over recall
+## Precision on quality, exhaustive on coverage
 
-When a candidate is doubtful — the fact is fuzzy, the answer arguable, the
-anchoring thin, the Latin you'd have to write is shaky — **drop it.** A missed
-fact costs nothing; a wrong or ambiguous pair pollutes the dataset. A work that
-yields five clean pairs is a success; returning zero is an acceptable outcome.
-Do **not** pad. Better ten gold pairs than fifty soft ones.
+The seven criteria are a strict **quality gate**: when a candidate is doubtful —
+the fact is fuzzy, the answer arguable, the anchoring thin, the Latin you'd have
+to write is shaky — **drop it.** A wrong or ambiguous pair pollutes the dataset.
+
+But that precision is about **quality, not count.** We take **every** fact that
+clears the gate, with no target ceiling and no "famous facts only" filter — the
+celebrated and the merely verifiable alike (the obscure-but-checkable fact is
+often the *more* useful one for a cross-lingual test). "Do not pad" means do not
+admit *soft* pairs, not "stop early." So a dense biography or history can yield
+**dozens** of pairs and should; a sparse, theological, or lyric work may yield a
+handful or none, and that too is fine.
+
+**Yield reflects mining depth, not the text.** A single quick pass under-mines a
+rich work — a first pass over Suetonius's *Divus Iulius* took 20 pairs; a
+deep pass, cap removed, found 80 more, all clearing the same bar. Treat a
+first pass as a floor, and **deepen** dense works by re-reading them against the
+pairs already taken (see `author_prompt.md` → *Deepening an already-covered
+work*).
 
 ## Authoring the Latin (the part we now own)
 
