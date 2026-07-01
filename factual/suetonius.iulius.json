@@ -182,6 +182,726 @@
       "question_en": "In which year of his age did Caesar die?",
       "answer_en": "In his fifty-sixth.",
       "derivation": "Age-at-death fact, anchored to Caesar. Single number answer (56th year) supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 1",
+      "source_text": "Annum agens sextum decimum patrem amisit; sequentibusque consulibus flamen Dialis destinatus dimissa Cossutia, quae familia equestri sed admodum diues praetextato desponsata fuerat, Corneliam Cinnae quater consulis filiam duxit uxorem.",
+      "question": "Quoto aetatis anno Caesar patrem amisit?",
+      "answer": "Sexto decimo.",
+      "question_en": "In which year of his age did Caesar lose his father?",
+      "answer_en": "In his sixteenth.",
+      "derivation": "Biographical number fact, anchored to Caesar: he lost his father in his 16th year. Single number answer supported verbatim (annum agens sextum decimum). Closed-book, decontextualized."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 1",
+      "source_text": "sequentibusque consulibus flamen Dialis destinatus dimissa Cossutia, quae familia equestri sed admodum diues praetextato desponsata fuerat, Corneliam Cinnae quater consulis filiam duxit uxorem.",
+      "question": "Quod sacerdotium adulescenti Caesari destinatum est?",
+      "answer": "Flamen Dialis.",
+      "question_en": "To what priesthood was the young Caesar designated?",
+      "answer_en": "Flamen Dialis (priest of Jupiter).",
+      "derivation": "Office/priesthood fact, anchored to Caesar; he was designated flamen Dialis as a youth. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 1",
+      "source_text": "flamen Dialis destinatus dimissa Cossutia, quae familia equestri sed admodum diues praetextato desponsata fuerat, Corneliam Cinnae quater consulis filiam duxit uxorem.",
+      "question": "Cui Caesar praetextatus desponsatus fuerat, quam mox dimisit?",
+      "answer": "Cossutiae.",
+      "question_en": "To whom had Caesar been betrothed as a boy, whom he then dismissed?",
+      "answer_en": "To Cossutia.",
+      "derivation": "Betrothal fact: Caesar was betrothed as a boy to Cossutia (of an equestrian but wealthy family), then dismissed her to marry Cornelia. Anchored to Caesar; single named answer supported verbatim."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 1",
+      "source_text": "dum modo scirent eum, quem incolumem tanto opere cuperent, quandoque optimatium partibus, quas secum simul defendissent, exitio futurum; nam Caesari multos Marios inesse.",
+      "question": "Quid Sulla, ut Suetonius tradit, de Caesare dixit, monens fore ut optimatibus quandoque exitio esset?",
+      "answer": "Caesari multos Marios inesse.",
+      "question_en": "What did Sulla say about Caesar, according to Suetonius, warning that he would one day be the ruin of the optimates?",
+      "answer_en": "That in Caesar there were many Mariuses.",
+      "derivation": "Iconic saying attributed to Sulla when he spared Caesar. Anchored to Sulla + Caesar; verbatim quote (Caesari multos Marios inesse); fact-seeking 'what did he say', translatable. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 2",
+      "source_text": "Stipendia prima in Asia fecit Marci Thermi praetoris contubernio; a quo ad accersendam classem in Bithyniam missus desedit apud Nicomeden.",
+      "question": "Sub quo praetore Caesar prima stipendia in Asia fecit?",
+      "answer": "Sub Marco Thermo.",
+      "question_en": "Under which praetor did Caesar do his first military service, in Asia?",
+      "answer_en": "Under Marcus Thermus.",
+      "derivation": "First-service fact, anchored to Caesar + Asia. Single named answer (Marcus Thermus) supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 2",
+      "source_text": "reliqua militia secundiore fama fuit et a Thermo in expugnatione Mytilenarum corona ciuica donatus est.",
+      "question": "Qua corona Caesar in expugnatione Mytilenarum donatus est?",
+      "answer": "Corona ciuica.",
+      "question_en": "With what crown was Caesar awarded at the storming of Mytilene?",
+      "answer_en": "The civic crown (corona civica).",
+      "derivation": "Military-award fact, anchored to Caesar + Mytilene. Single named answer (corona civica) supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 3",
+      "source_text": "Meruit et sub Seruilio Isaurico in Cilicia, sed breui tempore.",
+      "question": "Sub quo imperatore Caesar in Cilicia meruit?",
+      "answer": "Sub Seruilio Isaurico.",
+      "question_en": "Under which commander did Caesar serve in Cilicia?",
+      "answer_en": "Under Servilius Isauricus.",
+      "derivation": "Service fact, anchored to Caesar + Cilicia. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 4",
+      "source_text": "Ceterum composita seditione ciuili Cornelium Dolabellam consularem et triumphalem repetundarum postulauit; absolutoque Rhodum secedere statuit.",
+      "question": "Quem uirum consularem et triumphalem Caesar repetundarum postulauit?",
+      "answer": "Cornelium Dolabellam.",
+      "question_en": "Which ex-consul and triumphator did Caesar prosecute for extortion?",
+      "answer_en": "Cornelius Dolabella.",
+      "derivation": "Prosecution fact, anchored to Caesar; his first great forensic case, against Dolabella for repetundae. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 4",
+      "source_text": "absolutoque Rhodum secedere statuit, et ad declinandam inuidiam et ut per otium ac requiem Apollonio Moloni clarissimo tunc dicendi magistro operam daret.",
+      "question": "Cuius rhetoris Rhodi Caesar operam dare statuit?",
+      "answer": "Apollonii Molonis.",
+      "question_en": "Under which rhetorician at Rhodes did Caesar decide to study?",
+      "answer_en": "Apollonius Molon.",
+      "derivation": "Education fact, anchored to Caesar + Rhodes. Single named answer (Apollonius Molon) supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 4",
+      "source_text": "huc dum hibernis iam mensibus traicit, circa Pharmacussam insulam a praedonibus captus est mansitque apud eos non sine summa indignatione prope quadraginta dies cum uno medico et cubicularis duobus.",
+      "question": "Quot fere dies Caesar apud praedones, qui eum circa Pharmacussam ceperant, mansit?",
+      "answer": "Prope quadraginta.",
+      "question_en": "About how many days did Caesar remain among the pirates who had captured him near Pharmacussa?",
+      "answer_en": "About forty.",
+      "derivation": "Number fact of the pirate-capture episode, anchored to Caesar + Pharmacussa. Single number (prope quadraginta dies) supported verbatim; distinct from the ransom fact. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 74",
+      "source_text": "Sed et in ulciscendo natura lenissimus piratas, a quibus captus est, cum in dicionem redegisset, quoniam suffixurum se cruci ante iurauerat, iugulari prius iussit, deinde suffigi.",
+      "question": "Quo supplicio Caesar piratas, a quibus captus erat, tandem adfecit?",
+      "answer": "Cruce (iugulatos suffigi iussit).",
+      "question_en": "With what punishment did Caesar finally punish the pirates who had captured him?",
+      "answer_en": "Crucifixion (he had them strangled first, then crucified).",
+      "derivation": "Punishment fact, anchored to Caesar + the pirates; he had sworn he would crucify them and did (strangled first for mercy). Verifiable answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 5",
+      "source_text": "Tribunatu militum, qui primus Romam reuerso per suffragia populi honor optigit, actores restituendae tribuniciae potestatis, cuius uim Sulla deminuerat, enixissime iuuit.",
+      "question": "Qui primus honor Caesari Romam reuerso per suffragia populi optigit?",
+      "answer": "Tribunatus militum.",
+      "question_en": "What was the first office that came to Caesar by popular vote on his return to Rome?",
+      "answer_en": "The military tribunate.",
+      "derivation": "Office fact, anchored to Caesar; the military tribunate was his first office won by popular vote. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 6",
+      "source_text": "In Corneliae autem locum Pompeiam duxit Quinti Pompei filiam, L. Sullae neptem; cum qua deinde diuortium fecit adulteratam opinatus a Publio Clodio.",
+      "question": "Quam Caesar in Corneliae locum uxorem duxit?",
+      "answer": "Pompeiam, Quinti Pompei filiam.",
+      "question_en": "Whom did Caesar marry in Cornelia's place?",
+      "answer_en": "Pompeia, daughter of Quintus Pompeius.",
+      "derivation": "Marriage fact: after Cornelia's death Caesar married Pompeia (daughter of Q. Pompeius, granddaughter of Sulla). Anchored to Caesar + Pompeia; single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 6",
+      "source_text": "cum qua deinde diuortium fecit adulteratam opinatus a Publio Clodio, quem inter publicas caerimonias penetrasse ad eam muliebri ueste tam constans fama erat, ut senatus quaestionem de pollutis sacris decreuerit.",
+      "question": "Cuius adulterii suspicione Caesar Pompeiam uxorem repudiauit?",
+      "answer": "Publi Clodi.",
+      "question_en": "On suspicion of adultery with whom did Caesar divorce his wife Pompeia?",
+      "answer_en": "Publius Clodius.",
+      "derivation": "Divorce fact tied to the Bona Dea / Clodius scandal, anchored to Caesar + Pompeia + Clodius. Single named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 74",
+      "source_text": "interrogatusque, cur igitur repudiasset uxorem: 'quoniam,' inquit, 'meos tam suspicione quam crimine iudico carere oportere.'",
+      "question": "Quid Caesar respondit, cum interrogaretur cur uxorem Pompeiam repudiasset?",
+      "answer": "Meos tam suspicione quam crimine carere oportere.",
+      "question_en": "What did Caesar answer when asked why he had divorced his wife Pompeia?",
+      "answer_en": "That his household ought to be free from suspicion as much as from accusation.",
+      "derivation": "The famous 'Caesar's wife must be above suspicion' saying, anchored to Caesar. Verbatim quote; fact-seeking 'what did he say', translatable. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 6",
+      "source_text": "'Amitae meae Iuliae maternum genus ab regibus ortum, paternum cum diis inmortalibus coniunctum est. nam ab Anco Marcio sunt Marcii Reges, quo nomine fuit mater; a Venere Iulii, cuius gentis familia est nostra.'",
+      "question": "A quo rege Caesar maternum genus amitae suae Iuliae (Marcios Reges) ortum esse dixit?",
+      "answer": "Ab Anco Marcio.",
+      "question_en": "From which king did Caesar say the maternal line of his aunt Julia (the Marcii Reges) descended?",
+      "answer_en": "From Ancus Marcius.",
+      "derivation": "From Caesar's funeral oration for his aunt Julia; the maternal (Marcii Reges) line traced to king Ancus Marcius. Anchored to Caesar + Marcii Reges; single named answer supported verbatim. Distinct from the Venus (paternal) fact. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 7",
+      "source_text": "Quaestori ulterior Hispania obuenit; ubi cum mandatu praetoris iure dicundo conuentus circumiret Gadisque uenisset, animaduersa apud Herculis templum Magni Alexandri imagine ingemuit.",
+      "question": "Quae prouincia Caesari quaestori obuenit?",
+      "answer": "Vlterior Hispania.",
+      "question_en": "Which province fell to Caesar as quaestor?",
+      "answer_en": "Further Spain.",
+      "derivation": "Office/province fact, anchored to Caesar; as quaestor he was allotted Further Spain. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 7",
+      "source_text": "Gadisque uenisset, animaduersa apud Herculis templum Magni Alexandri imagine ingemuit et quasi pertaesus ignauiam suam, quod nihil dum a se memorabile actum esset in aetate, qua iam Alexander orbem terrarum subegisset.",
+      "question": "Cuius imagine apud Herculis templum Gadibus conspecta Caesar ingemuit?",
+      "answer": "Magni Alexandri.",
+      "question_en": "At whose statue, seen in the temple of Hercules at Gades, did Caesar sigh?",
+      "answer_en": "Alexander the Great's.",
+      "derivation": "Iconic episode, anchored to Caesar + Gades + temple of Hercules; he sighed before Alexander's statue. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 10",
+      "source_text": "Aedilis praeter comitium ac forum basilicasque etiam Capitolium ornauit porticibus ad tempus extructis. uenationes autem ludosque et cum collega et separatim edidit. adiecit insuper Caesar etiam gladiatorium munus.",
+      "question": "Quem magistratum gerens Caesar uenationes, ludos gladiatoriumque munus edidit et Capitolium ornauit?",
+      "answer": "Aedilitatem.",
+      "question_en": "Holding which magistracy did Caesar give wild-beast hunts, games, and a gladiatorial show, and adorn the Capitol?",
+      "answer_en": "The aedileship.",
+      "derivation": "Office fact, anchored to Caesar; as curule aedile he gave venationes, games, a gladiatorial show, and adorned the Capitol. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 10",
+      "source_text": "quo factum est, ut communium quoque inpensarum solus gratiam caperet nec dissimularet collega eius Marcus Bibulus, euenisse sibi quod Polluci.",
+      "question": "Quis Caesari collega in aedilitate fuit?",
+      "answer": "Marcus Bibulus.",
+      "question_en": "Who was Caesar's colleague in the aedileship?",
+      "answer_en": "Marcus Bibulus.",
+      "derivation": "Colleague fact: Bibulus was Caesar's colleague in the aedileship (as later in the consulship). Anchored to Caesar + aedileship; single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 11",
+      "source_text": "quorum auctoritatem ut quibus posset modis in uicem deminueret, tropaea Gai Mari de Iugurtha deque Cimbris atque Teutonis olim a Sulla disiecta restituit.",
+      "question": "Cuius imperatoris tropaea de Iugurtha et de Cimbris Teutonisque Caesar restituit?",
+      "answer": "Gai Mari.",
+      "question_en": "Whose trophies over Jugurtha and over the Cimbri and Teutones did Caesar restore?",
+      "answer_en": "Gaius Marius's.",
+      "derivation": "Political-gesture fact, anchored to Caesar; he restored the trophies of Marius (his relative) over Jugurtha, the Cimbri, and Teutones. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 13",
+      "source_text": "cum mane ad comitia descenderet, praedixisse matri osculanti fertur domum se nisi pontificem non reuersurum.",
+      "question": "Quid Caesar matri osculanti die comitiorum pontificatus dixisse fertur?",
+      "answer": "Domum se nisi pontificem non reuersurum.",
+      "question_en": "What is Caesar said to have told his mother, who kissed him, on the day of the pontifical election?",
+      "answer_en": "That he would not return home except as pontifex.",
+      "derivation": "Reported saying, anchored to Caesar + the pontifex maximus election. Acc.+inf. under 'fertur'; verbatim substance; translatable. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 14",
+      "source_text": "Praetor creatus, detecta coniuratione Catilinae senatuque uniuerso in socios facinoris ultimam statuente poenam, solus municipatim diuidendos custodiendosque publicatis bonis censuit.",
+      "question": "Quem magistratum Caesar gerebat, cum coniuratio Catilinae detecta est?",
+      "answer": "Praeturam.",
+      "question_en": "Which magistracy was Caesar holding when Catiline's conspiracy was uncovered?",
+      "answer_en": "The praetorship.",
+      "derivation": "Office fact, anchored to Caesar + the Catilinarian conspiracy. Single named answer supported verbatim (Praetor creatus). Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 14",
+      "source_text": "senatuque uniuerso in socios facinoris ultimam statuente poenam, solus municipatim diuidendos custodiendosque publicatis bonis censuit.",
+      "question": "Quid Caesar unus de sociis coniurationis Catilinae censuit, cum senatus ultimam poenam decerneret?",
+      "answer": "Eos municipatim distribuendos et custodiendos esse.",
+      "question_en": "What did Caesar alone propose for the accomplices of Catiline's conspiracy, when the senate was decreeing the extreme penalty?",
+      "answer_en": "That they be distributed among the towns and kept under guard (not executed).",
+      "derivation": "Caesar's proposal in the famous Catilinarian debate (imprisonment vs. death), anchored to Caesar + the conspirators. Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 18",
+      "source_text": "sed cum edictis iam comitis ratio eius haberi non posset nisi priuatus introisset urbem, et ambienti ut legibus solueretur multi contra dicerent, coactus est triumphum, ne consulatu excluderetur, dimittere.",
+      "question": "Quid Caesar dimittere coactus est, ne consulatu excluderetur?",
+      "answer": "Triumphum.",
+      "question_en": "What was Caesar forced to give up so as not to be barred from the consulship?",
+      "answer_en": "His triumph.",
+      "derivation": "Dilemma fact after his Spanish propraetorship: he had to forgo his triumph to stand for the consulship. Anchored to Caesar; single answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 19",
+      "source_text": "Pompeioque Marcum Crassum reconciliauit ueterem inimicum ex consulatu, quem summa discordia simul gesserant; ac societatem cum utroque iniit, ne quid ageretur in re publica, quod displicuisset ulli e tribus.",
+      "question": "Cum quibus duobus uiris Caesar societatem iniit, ne quid in re publica ageretur ulli e tribus displicens?",
+      "answer": "Cum Pompeio et Crasso.",
+      "question_en": "With which two men did Caesar form an alliance, so that nothing should be done in the state displeasing to any of the three?",
+      "answer_en": "With Pompey and Crassus.",
+      "derivation": "The First Triumvirate, anchored to Caesar; he reconciled Pompey and Crassus and joined both in a pact. Named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 20",
+      "source_text": "Inito honore primus omnium instituit, ut tam senatus quam populi diurna acta confierent et publicarentur.",
+      "question": "Quid Caesar consul primus omnium instituit de senatus populique rebus cotidianis?",
+      "answer": "Vt acta diurna confierent et publicarentur.",
+      "question_en": "What did Caesar as consul first of all institute concerning the daily proceedings of the senate and people?",
+      "answer_en": "That daily records (acta diurna) be compiled and published.",
+      "derivation": "'primus omnium' institution fact, anchored to Caesar's first consulship; he first had the acta diurna of senate and people published. Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 22",
+      "source_text": "et initio quidem Galliam Cisalpinam Illyrico adiecto lege Vatinia accepit; mox per senatum Comatam quoque, ueritis patribus ne, si ipsi negassent, populus et hanc daret.",
+      "question": "Qua lege Caesar Galliam Cisalpinam cum Illyrico accepit?",
+      "answer": "Lege Vatinia.",
+      "question_en": "By which law did Caesar receive Cisalpine Gaul with Illyricum?",
+      "answer_en": "By the lex Vatinia.",
+      "derivation": "Law/province fact, anchored to Caesar; the lex Vatinia gave him Cisalpine Gaul with Illyricum. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 24",
+      "source_text": "Crassum Pompeiumque in urbem prouinciae suae Lucam extractos conpulit, ut detrudendi Domitii causa consulatum alterum peterent, perfecitque per utrumque, ut in quinquennium sibi imperium prorogaretur.",
+      "question": "In quam urbem prouinciae suae Caesar Crassum et Pompeium extraxit, ut sibi imperium prorogaretur?",
+      "answer": "Lucam.",
+      "question_en": "To which town of his province did Caesar draw Crassus and Pompey to have his command extended?",
+      "answer_en": "Luca.",
+      "derivation": "The conference of Luca, anchored to Caesar + Crassus + Pompey. Single named place answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 24",
+      "source_text": "perfecitque per utrumque, ut in quinquennium sibi imperium prorogaretur.",
+      "question": "In quot annos Caesari imperium, per Crassum et Pompeium, prorogatum est?",
+      "answer": "In quinquennium.",
+      "question_en": "For how many years was Caesar's command extended, through Crassus and Pompey?",
+      "answer_en": "For five years.",
+      "derivation": "Number fact, anchored to Caesar; his Gallic command was extended for five years (in quinquennium). Single number answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 24",
+      "source_text": "unam etiam ex Transalpinis conscriptam, uocabulo quoque Gallico Alauda enim appellabatur, quam disciplina cultuque Romano institutam et ornatam postea uniuersam ciuitate donauit.",
+      "question": "Quo uocabulo Gallico appellabatur legio quam Caesar ex Transalpinis conscripsit?",
+      "answer": "Alauda.",
+      "question_en": "By what Gallic name was the legion Caesar raised from Transalpine Gaul called?",
+      "answer_en": "Alauda ('the Lark').",
+      "derivation": "Name fact, anchored to Caesar; the legion levied in Transalpine Gaul bore the Gallic name Alauda. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 25",
+      "source_text": "adgressus est et Britannos ignotos antea superatisque pecunias et obsides imperauit.",
+      "question": "Quos insulanos antea ignotos Caesar adgressus est, pecunias et obsides imperans?",
+      "answer": "Britannos.",
+      "question_en": "Which previously unknown islanders did Caesar attack, exacting money and hostages?",
+      "answer_en": "The Britons.",
+      "derivation": "Campaign fact, anchored to Caesar; he attacked the previously unknown Britons, imposing money and hostages. Single named answer supported verbatim; distinct from the Rhine-bridge (Germans) fact. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 25",
+      "source_text": "per tot successus ter nec amplius aduersum casum expertus: in Britannia classe ui tempestatis prope absumpta et in Gallia ad Gergouiam legione fusa et in Germanorum finibus Titurio et Aurunculeio legatis per insidias caesis.",
+      "question": "Ad quod oppidum Galliae una Caesaris legio fusa est?",
+      "answer": "Ad Gergouiam.",
+      "question_en": "At which town of Gaul was one of Caesar's legions routed?",
+      "answer_en": "At Gergovia.",
+      "derivation": "Setback fact, anchored to Caesar; one of his three Gallic reverses was a legion routed at Gergovia. Single named place answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 25",
+      "source_text": "et in Germanorum finibus Titurio et Aurunculeio legatis per insidias caesis.",
+      "question": "Qui duo legati Caesaris in Germanorum finibus per insidias caesi sunt?",
+      "answer": "Titurius et Aurunculeius.",
+      "question_en": "Which two of Caesar's legates were killed by treachery in the territory of the Germans?",
+      "answer_en": "Titurius and Aurunculeius.",
+      "derivation": "Setback fact, anchored to Caesar; the legates Titurius and Aurunculeius (Sabinus and Cotta) were killed by treachery. Verifiable named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 26",
+      "source_text": "munus populo epulumque pronuntiauit in filiae memoriam, quod ante eum nemo.",
+      "question": "In cuius memoriam Caesar munus epulumque populo, quod ante eum nemo fecerat, edidit?",
+      "answer": "In filiae memoriam.",
+      "question_en": "In whose memory did Caesar give the people a gladiatorial show and feast, something no one before him had done?",
+      "answer_en": "In memory of his daughter (Julia).",
+      "derivation": "Novelty fact, anchored to Caesar; he gave a show and feast in memory of his daughter, first ever for a woman. Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 26",
+      "source_text": "legionibus stipendium in perpetuum duplicauit.",
+      "question": "Quid Caesar de stipendio legionum in perpetuum statuit?",
+      "answer": "Id duplicauit.",
+      "question_en": "What did Caesar permanently decide about the legions' pay?",
+      "answer_en": "He doubled it.",
+      "derivation": "Military-pay fact, anchored to Caesar; he permanently doubled the legions' pay. Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 35",
+      "source_text": "regnum Aegypti uictor Cleopatrae fratrique eius minori permisit, ueritus prouinciam facere.",
+      "question": "Cui Caesar uictor regnum Aegypti permisit?",
+      "answer": "Cleopatrae fratrique eius minori.",
+      "question_en": "To whom did Caesar as victor grant the kingdom of Egypt?",
+      "answer_en": "To Cleopatra and her younger brother.",
+      "derivation": "Settlement fact, anchored to Caesar + Egypt; after the Alexandrian war he gave the kingdom to Cleopatra and her younger brother. Named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 35",
+      "source_text": "urgentibus de Pharnace nuntiis, quem Mithridatis Magni filium ac tunc occasione temporum bellantem iamque multiplici successu praeferocem, intra quintum quam adfuerat diem, quattuor quibus in conspectum uenit horis, una profligauit acie.",
+      "question": "Quem Mithridatis Magni filium Caesar apud Pontum una acie profligauit?",
+      "answer": "Pharnacem.",
+      "question_en": "Which son of Mithridates the Great did Caesar rout in a single battle in Pontus?",
+      "answer_en": "Pharnaces.",
+      "derivation": "Victory fact, anchored to Caesar + Pontus; he crushed Pharnaces, son of Mithridates the Great, in one battle (the 'veni vidi vici' campaign). Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 35",
+      "source_text": "dehinc Scipionem ac Iubam reliquias partium in Africa refouentis deuicit, Pompei liberos in Hispania.",
+      "question": "Quos duces Caesar in Africa, reliquias partium refouentes, deuicit?",
+      "answer": "Scipionem et Iubam.",
+      "question_en": "Which leaders, reviving the remnants of the party in Africa, did Caesar defeat?",
+      "answer_en": "Scipio and Juba.",
+      "derivation": "Victory fact, anchored to Caesar + Africa; he defeated Scipio and Juba (Thapsus). Verifiable named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 35",
+      "source_text": "dehinc Scipionem ac Iubam reliquias partium in Africa refouentis deuicit, Pompei liberos in Hispania.",
+      "question": "Quos Caesar in Hispania, ultimo bello ciuili, deuicit?",
+      "answer": "Pompei liberos.",
+      "question_en": "Whom did Caesar defeat in Spain, in the last stage of the civil war?",
+      "answer_en": "Pompey's sons.",
+      "derivation": "Victory fact, anchored to Caesar + Spain; he defeated Pompey's sons (Munda). Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 36",
+      "source_text": "ipse prosperrime semper ac ne ancipiti quidem umquam fortuna praeterquam bis dimicauit: semel ad Dyrrachium, ubi pulsus non instante Pompeio negauit eum uincere scire.",
+      "question": "Quid Caesar de Pompeio dixit, cum ad Dyrrachium pulsus esset neque Pompeius instaret?",
+      "answer": "Eum uincere nescire.",
+      "question_en": "What did Caesar say about Pompey after being repulsed at Dyrrachium, when Pompey did not press on?",
+      "answer_en": "That he did not know how to win.",
+      "derivation": "Reported saying, anchored to Caesar + Pompey + Dyrrachium. Verbatim substance; translatable; fact-seeking. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 37",
+      "source_text": "Confectis bellis quinquiens triumphauit, post deuictum Scipionem quater eodem mense, sed interiectis diebus, et rursus semel post superatos Pompei liberos.",
+      "question": "Quotiens Caesar, bellis confectis, triumphauit?",
+      "answer": "Quinquiens.",
+      "question_en": "How many times did Caesar triumph after the wars were finished?",
+      "answer_en": "Five times.",
+      "derivation": "Number fact, anchored to Caesar; he celebrated five triumphs. Single number answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 37",
+      "source_text": "primum et excellentissimum triumphum egit Gallicum, sequentem Alexandrinum, deinde Ponticum, huic proximum Africanum, nouissimum Hispaniensem.",
+      "question": "Quem triumphum Caesar primum et excellentissimum egit?",
+      "answer": "Gallicum.",
+      "question_en": "Which triumph did Caesar celebrate first and as the most distinguished?",
+      "answer_en": "The Gallic.",
+      "derivation": "Sequence fact, anchored to Caesar; the first and finest of his five triumphs was the Gallic. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 37",
+      "source_text": "ascenditque Capitolium ad lumina quadraginta elephantis dextra sinistraque lychnuchos gestantibus.",
+      "question": "Quot elephanti lychnuchos gestantes Caesarem in triumpho Gallico Capitolium ascendentem comitati sunt?",
+      "answer": "Quadraginta.",
+      "question_en": "How many lamp-bearing elephants escorted Caesar as he climbed the Capitol at his Gallic triumph?",
+      "answer_en": "Forty.",
+      "derivation": "Number fact, anchored to Caesar + the Gallic triumph; forty elephants bearing lamps escorted him up the Capitol. Single number answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 40",
+      "source_text": "fuitque is annus, quo haec constituebantur, quindecim mensium cum intercalario, qui ex consuetudine in eum annum inciderat.",
+      "question": "Quot menses habuit annus quo Caesar fastos corrigebat?",
+      "answer": "Quindecim.",
+      "question_en": "How many months did the year have in which Caesar was reforming the calendar?",
+      "answer_en": "Fifteen.",
+      "derivation": "The 'year of confusion' fact, anchored to Caesar's calendar reform; that year had fifteen months. Single number answer supported verbatim; distinct from the 365-day fact. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 41",
+      "source_text": "atque ex uiginti trecentisque milibus accipientium frumentum e publico ad centum quinquaginta retraxit.",
+      "question": "Ad quot milia Caesar numerum ciuium frumentum publicum accipientium redegit?",
+      "answer": "Ad centum quinquaginta milia.",
+      "question_en": "To how many thousand did Caesar reduce the number of citizens receiving the public grain dole?",
+      "answer_en": "To 150,000.",
+      "derivation": "Reform number, anchored to Caesar; he cut the grain-dole recipients from 320,000 to 150,000. Single number answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 42",
+      "source_text": "omnisque medicinam Romae professos et liberalium artium doctores, quo libentius et ipsi urbem incolerent et ceteri adpeterent, ciuitate donauit.",
+      "question": "Quibus Romae Caesar ciuitatem dedit, ut libentius urbem incolerent?",
+      "answer": "Medicis et liberalium artium doctoribus.",
+      "question_en": "To whom at Rome did Caesar grant citizenship, so they would more gladly dwell in the city?",
+      "answer_en": "To physicians and teachers of the liberal arts.",
+      "derivation": "Policy fact, anchored to Caesar; he granted citizenship to physicians and teachers of liberal arts at Rome. Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 44",
+      "source_text": "bibliothecas Graecas Latinasque quas maximas posset publicare data Marco Varroni cura comparandarum ac digerendarum.",
+      "question": "Cui Caesar curam bibliothecas Graecas Latinasque comparandi ac digerendi mandauit?",
+      "answer": "Marco Varroni.",
+      "question_en": "To whom did Caesar entrust the task of acquiring and arranging Greek and Latin libraries?",
+      "answer_en": "To Marcus Varro.",
+      "derivation": "Plan fact, anchored to Caesar; he gave Varro charge of the public Greek and Latin libraries. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 45",
+      "source_text": "ualitudine prospera, nisi quod tempore extremo repente animo linqui atque etiam per somnum exterreri solebat. comitiali quoque morbo bis inter res agendas correptus est.",
+      "question": "Quo morbo Caesar bis inter res agendas correptus est?",
+      "answer": "Comitiali morbo.",
+      "question_en": "By what disease was Caesar twice seized while conducting business?",
+      "answer_en": "The falling sickness (epilepsy).",
+      "derivation": "Health fact, anchored to Caesar; he was twice seized by the morbus comitialis (epilepsy). Single named answer supported verbatim. Closed-book, well-known."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 45",
+      "source_text": "ex omnibus decretis sibi a senatu populoque honoribus non aliud aut recepit aut usurpauit libentius quam ius laureae coronae perpetuo gestandae.",
+      "question": "Quem honorem Caesar ex omnibus sibi decretis libentissime usurpauit?",
+      "answer": "Ius laureae coronae perpetuo gestandae.",
+      "question_en": "Which of all the honors decreed to him did Caesar most gladly make use of?",
+      "answer_en": "The right to wear the laurel crown perpetually.",
+      "derivation": "Honour fact, anchored to Caesar; of all honours he most gladly used the right to wear the laurel crown always (to hide his baldness). Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 46",
+      "source_text": "Habitauit primo in Subura modicis aedibus, post autem pontificatum maximum in Sacra uia domo publica.",
+      "question": "In qua regione urbis Caesar primo modicis aedibus habitauit?",
+      "answer": "In Subura.",
+      "question_en": "In which quarter of the city did Caesar first live, in a modest house?",
+      "answer_en": "In the Subura.",
+      "derivation": "Residence fact, anchored to Caesar; he first lived in the Subura, later in a state house on the Sacra Via after becoming pontifex maximus. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 47",
+      "source_text": "Britanniam petisse spe margaritarum, quarum amplitudinem conferentem interdum sua manu exegisse pondus.",
+      "question": "Qua spe Caesarem Britanniam petisse Suetonius refert?",
+      "answer": "Spe margaritarum.",
+      "question_en": "In hope of what does Suetonius report Caesar sought Britain?",
+      "answer_en": "In hope of pearls.",
+      "derivation": "Suetonian claim, anchored to Caesar + Britain; attributed frame (Suetonius refert). Single answer supported verbatim. Closed-book (a fact particular to this author)."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 50",
+      "source_text": "sed ante alias dilexit Marci Bruti matrem Seruiliam, cui et proximo suo consulatu sexagiens sestertium margaritam mercatus est.",
+      "question": "Quam feminam, Marci Bruti matrem, Caesar ante alias dilexit?",
+      "answer": "Seruiliam.",
+      "question_en": "Which woman, the mother of Marcus Brutus, did Caesar love above all others?",
+      "answer_en": "Servilia.",
+      "derivation": "Relation fact, anchored to Caesar + Servilia (mother of M. Brutus); he loved her before all others. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 52",
+      "source_text": "sed maxime Cleopatram ... quam denique accitam in urbem non nisi maximis honoribus praemiisque auctam remisit filiumque natum appellare nomine suo passus est.",
+      "question": "Cuius reginae filium Caesar nomine suo appellari passus est?",
+      "answer": "Cleopatrae.",
+      "question_en": "Whose son did Caesar allow to be called by his own name?",
+      "answer_en": "Cleopatra's (Caesarion).",
+      "derivation": "Relation fact, anchored to Caesar + Cleopatra; he allowed her son to bear his name (Caesarion). Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 53",
+      "source_text": "Vini parcissimum ne inimici quidem negauerunt. Marci Catonis est: unum ex omnibus Caesarem ad euertendam rem publicam sobrium accessisse.",
+      "question": "Quid Marcus Cato de Caesare et sobrietate dixisse fertur?",
+      "answer": "Vnum ex omnibus Caesarem ad euertendam rem publicam sobrium accessisse.",
+      "question_en": "What did Marcus Cato say about Caesar and sobriety?",
+      "answer_en": "That Caesar alone of all men came to overthrow the state sober.",
+      "derivation": "Saying attributed to Cato, anchored to Caesar. Verbatim quote; translatable; fact-seeking. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 56",
+      "source_text": "Reliquit et rerum suarum commentarios Gallici ciuilisque belli Pompeiani.",
+      "question": "De quibus bellis Caesar rerum suarum commentarios reliquit?",
+      "answer": "De bello Gallico et ciuili Pompeiano.",
+      "question_en": "On which wars did Caesar leave commentaries of his own deeds?",
+      "answer_en": "On the Gallic War and the civil (Pompeian) War.",
+      "derivation": "Authorship fact, anchored to Caesar; he left the Commentarii on the Gallic and civil wars. Verifiable answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 56",
+      "source_text": "nam Alexandrini Africique et Hispaniensis incertus auctor est: alii Oppium putant, alii Hirtium, qui etiam Gallici belli nouissimum imperfectumque librum suppleuerit.",
+      "question": "Quis nouissimum et imperfectum librum belli Gallici Caesaris suppleuisse dicitur?",
+      "answer": "Hirtius.",
+      "question_en": "Who is said to have completed the last, unfinished book of Caesar's Gallic War?",
+      "answer_en": "Hirtius.",
+      "derivation": "Authorship fact, anchored to Caesar's Gallic War; Hirtius supplied the unfinished last book (Book 8). Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 56",
+      "source_text": "reliquit et 'de analogia' duos libros et 'Anticatones' totidem ac praeterea poema quod inscribitur Iter.",
+      "question": "Quod opus Caesar aduersus Catonem duobus libris scripsit?",
+      "answer": "Anticatones.",
+      "question_en": "What work did Caesar write against Cato in two books?",
+      "answer_en": "The Anticato (Anticatones).",
+      "derivation": "Authorship fact, anchored to Caesar; he wrote the Anticato(nes) in two books. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 56",
+      "source_text": "quae si qui inuestigare et persequi uelit, quartam elementorum litteram, id est D pro A et perinde reliquas commutet.",
+      "question": "Quam litteram Caesar in notis suis pro A scribebat?",
+      "answer": "D (quartam litteram).",
+      "question_en": "Which letter did Caesar write in place of A in his cipher?",
+      "answer_en": "D (the fourth letter).",
+      "derivation": "The 'Caesar cipher' fact, anchored to Caesar; in his secret letters he substituted the fourth letter, D, for A. Single answer supported verbatim; translatable (a shift cipher). Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 56",
+      "source_text": "feruntur ab adulescentulo quaedam scripta, ut 'Laudes Herculis,' tragoedia 'Oedipus,' item 'Dicta collectanea': quos omnis libellos uetuit Augustus publicari.",
+      "question": "Quam tragoediam Caesar adulescens scripsisse fertur, quam Augustus publicari uetuit?",
+      "answer": "Oedipum.",
+      "question_en": "What tragedy is the young Caesar said to have written, which Augustus forbade to be published?",
+      "answer_en": "Oedipus.",
+      "derivation": "Authorship fact, anchored to Caesar; his youthful tragedy Oedipus, which Augustus suppressed. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 57",
+      "source_text": "longissimas uias incredibili celeritate confecit, expeditus, meritoria raeda, centena passuum milia in singulos dies.",
+      "question": "Quot milia passuum Caesar incredibili celeritate in singulos dies conficere solebat?",
+      "answer": "Centena.",
+      "question_en": "How many miles could Caesar travel in a single day with incredible speed?",
+      "answer_en": "A hundred.",
+      "derivation": "Number fact of Caesar's famed speed, anchored to Caesar; he covered 100 miles a day. Single number answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 34",
+      "source_text": "professus ante inter suos, ire se ad exercitum sine duce et inde reuersurum ad ducem sine exercitu.",
+      "question": "Quid Caesar, in Hispaniam contra Pompei legatos proficiscens, de duce et exercitu iocatus est?",
+      "answer": "Ire se ad exercitum sine duce et reuersurum ad ducem sine exercitu.",
+      "question_en": "What did Caesar say, setting out to Spain against Pompey's legates, about a leader and an army?",
+      "answer_en": "That he was going to an army without a leader, and would return to a leader without an army.",
+      "derivation": "Reported witticism, anchored to Caesar (Spain vs. Pompey's forces / Pompey himself). Verbatim substance; translatable; fact-seeking. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 34",
+      "source_text": "Lucio Domitio, qui per tumultum successor ei nominatus Corfinium praesidio tenebat, in dicionem redacto atque dimisso secundum Superum mare Brundisium tetendit.",
+      "question": "Quem ducem Caesar Corfinium tenentem in dicionem redegit ac dimisit?",
+      "answer": "Lucium Domitium.",
+      "question_en": "Which leader, holding Corfinium, did Caesar reduce to submission and release?",
+      "answer_en": "Lucius Domitius.",
+      "derivation": "Civil-war fact, anchored to Caesar + Corfinium; he captured and released L. Domitius (an early act of clemency). Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 76",
+      "source_text": "non enim honores modo nimios recepit: continuum consulatum, perpetuam dictaturam praefecturamque morum, insuper praenomen Imperatoris, cognomen Patris patriae.",
+      "question": "Quod praenomen inter honores nimios Caesari decretum est?",
+      "answer": "Imperatoris.",
+      "question_en": "Which praenomen was decreed to Caesar among his excessive honors?",
+      "answer_en": "Imperator (the praenomen Imperator).",
+      "derivation": "Honour fact, anchored to Caesar; he received the praenomen Imperator. Single named answer supported verbatim; distinct from Pater patriae. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 76",
+      "source_text": "continuum consulatum, perpetuam dictaturam praefecturamque morum, insuper praenomen Imperatoris.",
+      "question": "Cuius generis dictaturam Caesar recepit?",
+      "answer": "Perpetuam.",
+      "question_en": "What kind of dictatorship did Caesar receive?",
+      "answer_en": "A perpetual one (dictator for life).",
+      "derivation": "Office fact, anchored to Caesar; he was made dictator in perpetuity (perpetua dictatura). Single answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 76",
+      "source_text": "puluinar, flaminem, lupercos, appellationem mensis e suo nomine; ac nullos non honores ad libidinem cepit et dedit.",
+      "question": "Qui honor Caesari de mensibus anni decretus est?",
+      "answer": "Mensis e nomine suo appellatus.",
+      "question_en": "What honor concerning the months of the year was decreed to Caesar?",
+      "answer_en": "A month named after him (July).",
+      "derivation": "Honour fact, anchored to Caesar; a month was named after him (July, Iulius). Verifiable answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 79",
+      "source_text": "Lupercalibus pro rostris a consule Antonio admotum saepius capiti suo diadema reppulerit atque in Capitolium Ioui Optimo Maximo miserit.",
+      "question": "Quis consul Caesari Lupercalibus diadema saepius capiti admouit?",
+      "answer": "Antonius.",
+      "question_en": "Which consul repeatedly offered Caesar a diadem at the Lupercalia?",
+      "answer_en": "Antony (Mark Antony).",
+      "derivation": "Event fact, anchored to Caesar + Lupercalia; the consul Antony offered him the diadem, which he refused. Single named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 79",
+      "source_text": "quanquam et plebei regem se salutanti Caesarem se, non regem esse responderit.",
+      "question": "Quid Caesar plebeio se regem salutanti respondit?",
+      "answer": "Se Caesarem, non regem, esse.",
+      "question_en": "What did Caesar reply to a commoner who hailed him as king?",
+      "answer_en": "That he was Caesar, not king.",
+      "derivation": "Reported saying, anchored to Caesar; he rebuffed being hailed as king. Verbatim substance; translatable; fact-seeking. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 81",
+      "source_text": "et immolantem haruspex Spurinna monuit, caueret periculum, quod non ultra Martias Idus proferretur.",
+      "question": "Qui haruspex Caesarem monuit, ut periculum non ultra Idus Martias caueret?",
+      "answer": "Spurinna.",
+      "question_en": "Which soothsayer warned Caesar to beware a danger no later than the Ides of March?",
+      "answer_en": "Spurinna.",
+      "derivation": "Prodigy fact, anchored to Caesar + the Ides of March; the haruspex Spurinna warned him. Single named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 82",
+      "source_text": "ilicoque Cimber Tillius, qui primas partes susceperat, quasi aliquid rogaturus propius accessit renuentique et gestu in aliud tempus differenti ab utroque umero togam adprehendit.",
+      "question": "Quis coniuratorum primas partes suscepit et Caesari togam ab utroque umero adprehendit?",
+      "answer": "Tillius Cimber.",
+      "question_en": "Which of the conspirators took the leading part and seized Caesar's toga by both shoulders?",
+      "answer_en": "Tillius Cimber.",
+      "derivation": "Assassination fact, anchored to Caesar; Tillius Cimber gave the signal by grabbing his toga. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 82",
+      "source_text": "nec in tot uulneribus, ut Antistius medicus existimabat, letale ullum repertum est, nisi quod secundo loco in pectore acceperat.",
+      "question": "Quod uulnus, ut Antistius medicus existimauit, Caesari solum letale fuit?",
+      "answer": "Quod secundo loco in pectore acceperat.",
+      "question_en": "Which wound, in the physician Antistius's judgment, was the only fatal one to Caesar?",
+      "answer_en": "The one he received second, in the chest.",
+      "derivation": "Forensic fact, anchored to Caesar + the physician Antistius; only the second wound, to the chest, was fatal. Verifiable answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 83",
+      "source_text": "populo hortos circa Tiberim publice et uiritim trecenos sestertios legauit.",
+      "question": "Quot sestertios Caesar testamento singulis ciuibus legauit?",
+      "answer": "Trecenos.",
+      "question_en": "How many sesterces did Caesar bequeath to each citizen in his will?",
+      "answer_en": "Three hundred each.",
+      "derivation": "Will fact, anchored to Caesar; he bequeathed 300 sesterces to each citizen. Single number answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 83",
+      "source_text": "populo hortos circa Tiberim publice et uiritim trecenos sestertios legauit.",
+      "question": "Quid Caesar testamento populo Romano publice, praeter pecuniam, legauit?",
+      "answer": "Hortos circa Tiberim.",
+      "question_en": "What did Caesar bequeath publicly to the Roman people in his will, besides money?",
+      "answer_en": "His gardens by the Tiber.",
+      "derivation": "Will fact, anchored to Caesar; he left his gardens across the Tiber to the people. Verifiable answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 83",
+      "source_text": "sed nouissimo testamento tres instituit heredes sororum nepotes, Gaium Octauium ex dodrante, et Lucium Pinarium et Quintum Pedium ex quadrante reliquo.",
+      "question": "Qui duo, praeter Gaium Octauium, ex quadrante reliquo heredes Caesaris instituti sunt?",
+      "answer": "Lucius Pinarius et Quintus Pedius.",
+      "question_en": "Which two, besides Gaius Octavius, were made Caesar's heirs to the remaining quarter?",
+      "answer_en": "Lucius Pinarius and Quintus Pedius.",
+      "derivation": "Will fact, anchored to Caesar; the other two grand-nephew heirs, to the remaining quarter, were Pinarius and Pedius. Verifiable named answer supported verbatim; distinct from the Octavius pair. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 83",
+      "source_text": "Postulante ergo Lucio Pisone socero testamentum eius aperitur recitaturque in Antoni domo, quod Idibus Septembribus proximis in Lauicano suo fecerat demandaueratque uirgini Vestali maximae.",
+      "question": "Cui Caesar testamentum suum custodiendum demandauerat?",
+      "answer": "Virgini Vestali maximae.",
+      "question_en": "To whom had Caesar entrusted his will for safekeeping?",
+      "answer_en": "To the chief Vestal Virgin.",
+      "derivation": "Will fact, anchored to Caesar; he had entrusted his will to the chief Vestal Virgin. Single answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 84",
+      "source_text": "In summo publico luctu exterarum gentium multitudo circulatim suo quaeque more lamentata est praecipueque Iudaei, qui etiam noctibus continuis bustum frequentarunt.",
+      "question": "Quae exterarum gentium natio praecipue Caesaris bustum, noctibus etiam continuis, frequentauit?",
+      "answer": "Iudaei.",
+      "question_en": "Which foreign nation especially thronged Caesar's pyre, even on successive nights?",
+      "answer_en": "The Jews.",
+      "derivation": "Funeral fact, anchored to Caesar; the Jews especially mourned at his pyre for successive nights. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 85",
+      "source_text": "obuium sibi Heluium Cinnam per errorem nominis, quasi Cornelius is esset, quem grauiter pridie contionatum de Caesare requirebat, occidit caputque eius praefixum hastae circumtulit.",
+      "question": "Quem uirum plebs post funus Caesaris per errorem nominis, pro Cornelio Cinna, occidit?",
+      "answer": "Heluium Cinnam.",
+      "question_en": "Whom did the mob kill after Caesar's funeral through a mistake of name, taking him for Cornelius Cinna?",
+      "answer_en": "Helvius Cinna.",
+      "derivation": "Aftermath fact, anchored to Caesar's funeral; the mob killed Helvius Cinna by mistaking him for Cornelius Cinna. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 88",
+      "source_text": "siquidem ludis, quos primos consecratos ei heres Augustus edebat, stella crinita per septem continuos dies fulsit exoriens circa undecimam horam, creditumque est animam esse Caesaris in caelum recepti; et hac de causa simulacro eius in uertice additur stella.",
+      "question": "Quod caeleste signum per ludos ab Augusto Caesari consecratos apparuit, quod anima Caesaris esse credebatur?",
+      "answer": "Stella crinita.",
+      "question_en": "What celestial sign appeared during the games Augustus consecrated to Caesar, believed to be Caesar's soul?",
+      "answer_en": "A comet (a 'hairy star').",
+      "derivation": "Deification fact (sidus Iulium), anchored to Caesar; a comet shone during the funeral games and was taken for his soul. Single named answer supported verbatim. Closed-book, iconic."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 88",
+      "source_text": "Curiam, in qua occisus est, obstrui placuit Idusque Martias Parricidium nominari, ac ne umquam eo die senatus ageretur.",
+      "question": "Quo nomine Idus Martiae post Caesaris caedem appellari placuit?",
+      "answer": "Parricidium.",
+      "question_en": "By what name was it decided the Ides of March should be called after Caesar's murder?",
+      "answer_en": "Parricidium ('Parricide').",
+      "derivation": "Commemoration fact, anchored to Caesar; the Ides of March were named Parricidium. Single named answer supported verbatim. Closed-book."
+    },
+    {
+      "locus": "Suetonius, Divus Iulius 89",
+      "source_text": "Percussorum autem fere neque triennio quisquam amplius superuixit neque sua morte defunctus est.",
+      "question": "Quam diu fere nemo percussorum Caesaris superuixit?",
+      "answer": "Non amplius triennio.",
+      "question_en": "For about how long did none of Caesar's assassins survive?",
+      "answer_en": "Not more than three years.",
+      "derivation": "Aftermath fact, anchored to Caesar's assassins; none survived more than three years, and none died a natural death. Verifiable answer supported verbatim. Closed-book."
     }
   ]
 }
