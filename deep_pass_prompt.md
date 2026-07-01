@@ -44,8 +44,7 @@ works not yet in `factual/` may be added the same way.
   **not** fetch text from anywhere else. (`pliny.nh7` is the one recorded
   non-Latin-Library exception; don't add more without the user's say-so.)
 - **One work per commit**, pushed to `trunk` (branch first if you prefer).
-  End commit messages with:
-  `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>`
+  Use the default authorship on commit messages.
 
 **Loop — repeat until Scope is done or the user says stop:**
 
