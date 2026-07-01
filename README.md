@@ -13,21 +13,18 @@ whose answer a well-read model should know *without the text in front of it*:
 > **A:** *In tres partes.* ("Into how many parts does Caesar say Gaul is divided?" → "Into three parts.")
 
 We **author new Latin** for both the question and the answer, and keep the
-verbatim source sentence as evidence. The mined dataset is **`qa.jsonl`** (one
+verbatim source sentence as evidence. The flat dataset is **`qa.jsonl`** (one
 pair per line).
 
-## What this is (and what it used to be)
+## What this is
 
-This project was retargeted. It previously *mined* existing question structure
-out of the texts (direct speech, rhetorical questions) under a strict "invent no
-new Latin" rule. That produced ~3,700 pairs but almost none were factual,
-closed-book, short-answer questions — the texts simply don't contain many. The
-old artifacts were removed in a delete-commit; they remain in git history.
-
-Now we read **factual prose** (Cato, Caesar, Pliny, Tacitus, Suetonius,
-Justinian, Augustine, …) and **write** fact-seeking questions about the hard,
-specific, entity-anchored facts in them. See **`GUIDELINES.md`** for the full
-rationale and the seven acceptance criteria.
+We read **factual prose** (Cato, Caesar, Pliny, Tacitus, Suetonius, Justinian,
+Augustine, …) and **write** fact-seeking questions about the hard, specific,
+entity-anchored facts in them, keeping the verbatim source sentence as evidence.
+We do **not** mine the text for questions already in it, and we do **not**
+require the question or answer to be verbatim — the *fact*, not the wording, is
+what must trace to the source. See **`GUIDELINES.md`** for the full rationale and
+the seven acceptance criteria.
 
 ## Coverage
 
@@ -92,6 +89,39 @@ Details and worked examples in `GUIDELINES.md`.
    `factual/*.json`, so an interrupted run just resumes.
 3. **Aggregate** — `python3 aggregate.py` → writes `qa.jsonl` (flattens
    `factual/*.json` to one pair per line) and prints summary stats.
+
+## Reproducing with Claude
+
+Step 2 (the authoring) is done by **Claude driving one subagent per work**. The
+whole dataset was built with Claude Code this way, and the loop is easy to
+re-run or extend:
+
+1. **Pick a work** in `text/` that isn't in `factual/` yet, and confirm the file
+   exists. (If a target text is missing from the corpus, the reader reports back
+   rather than fetching it from elsewhere — see the NH VII note on provenance.)
+2. **Spawn one reader subagent** (serially — never in parallel). Give it a prompt
+   that: (a) tells it to read `author_prompt.md` and `GUIDELINES.md` in full;
+   (b) points it at the single target file and an existing `factual/*.json` as a
+   worked example; (c) names the specific facts worth hunting in that work (this
+   focusing helps a lot); and (d) tells it to write valid JSON to
+   `factual/<name>.json` with exactly the seven per-pair keys and reply with a
+   one-paragraph summary (not the JSON — keep the big text out of the transcript).
+3. **Validate** the returned file: it parses, every pair has exactly the seven
+   keys, every question ends in `?`, answers are short. Spot-check a few facts
+   and the Latin (indirect question → subjunctive; indirect statement → acc.+inf.).
+4. **Aggregate and check** — `python3 aggregate.py`, then confirm no duplicate
+   questions across the whole set.
+5. **Commit** that one work to the branch and move to the next.
+
+Notes that made the runs clean:
+- **One work at a time.** Serial keeps each reading focused and the run steerable.
+- **Precision over recall is the default.** A work yielding 5 gold pairs beats one
+  padded to 20; returning zero is acceptable.
+- **Name the target facts.** A reader told "hunt the birthplace, the offices, the
+  named battle, the death" outperforms an open-ended "find facts."
+- **Let the reader drop what the text doesn't support.** Good readers refuse to
+  assert a fact that isn't in *their* work (e.g. a name that only appears in a
+  later book), and flag OCR slips / editorial brackets in the quoted `source_text`.
 
 ## Revisiting our choices
 

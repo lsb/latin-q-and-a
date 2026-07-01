@@ -7,22 +7,12 @@ from the Latin Library corpus (plain text under `text/`), in the spirit of
 These are working rules; the boundaries are debatable, so every pair records the
 verbatim source it rests on and *why* it was drawn the way it was.
 
-## What changed, and why
+## What we do (and don't)
 
-The earlier version of this project *mined* existing question/answer structure
-out of the texts — direct-speech exchanges, self-answered rhetorical questions —
-and forbade inventing any new Latin. That produced ~3,700 pairs, but almost none
-were what we actually want: of those, only ~16 were genuinely **factual,
-closed-book, short-answer** questions, and most of *those* came from one
-grammatical catechism (Donatus). Dialogue retorts, pleas, and theory dominate;
-fact-seeking questions with a single verifiable answer are vanishingly rare in
-the wild.
-
-So we retarget. The goal is no longer to *find* questions in the text but to
-**author** them. We read **factual prose** — geography, ethnography, biography,
-history, law, agronomy — and for each clean fact we **write a new Latin
-question** whose answer is that fact. We keep the verbatim source sentence as
-evidence so every pair is auditable.
+We **author** questions; we do not merely *find* them. We read **factual prose**
+— geography, ethnography, biography, history, law, agronomy — and for each clean
+fact we **write a new Latin question** whose answer is that fact, keeping the
+verbatim source sentence as evidence so every pair is auditable.
 
 The canonical shape:
 
@@ -30,9 +20,16 @@ The canonical shape:
 > **Q (new Latin):** *In quot partes Galliam divisam esse Caesar scribit?*
 > **A (new Latin):** *In tres partes.*
 
-This is the inversion of the old rule #1: we **do** compose new Latin, for both
-the question and the answer. What anchors us to the text is no longer
-word-for-word reuse but the **fact** and its recorded **evidence**.
+What anchors a pair to the text is not word-for-word reuse but the **fact** and
+its recorded **evidence**. So, concretely, we do **not**:
+
+- **mine the text for questions already in it** (direct-speech exchanges,
+  rhetorical questions) — those are overwhelmingly dialogue retorts, pleas, and
+  theory, not fact-seeking questions with a single verifiable answer;
+- **require the question or answer to be verbatim** — we compose new, correct
+  Latin for both (the *fact*, not the wording, must trace to the source);
+- **chase theory, doctrine, or opinion** — humours, virtue, the will of the
+  gods; we want who/how-many/where/when facts (see the bar below).
 
 ## What we keep per pair
 
@@ -74,7 +71,7 @@ must satisfy **all seven**:
 6. **Translatable.** The question and answer survive translation into other
    languages without turning on a Latin pun, meter, grammatical form, or
    untranslatable wordplay. (Grammar/metre trivia about the Latin *as language*
-   fails this — that is the Donatus trap.)
+   fails this.)
 7. **Non-rhetorical / fact-seeking.** A genuine information question with a real
    answer, not a rhetorical flourish, a moral, an exhortation, or an opinion.
 
@@ -93,7 +90,7 @@ Hunt for **hard, specific, checkable facts** anchored to named entities:
 - **Offices, institutions, customs** — who held what magistracy, what a law
   provided, what a people's named custom was.
 
-Avoid (these are the "theories of humors" the retarget is moving away from):
+Avoid (these are the "theories of humours" we steer clear of):
 
 - **Theory, doctrine, opinion, morals** — *why* something is best, what virtue
   consists in, what the gods will. Not closed-book facts.
