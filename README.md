@@ -56,6 +56,7 @@ except *NH* VII (LacusCurtius/Teubner), which the Latin Library does not carry.
 |---|---|
 | `GUIDELINES.md` | The rules: the ECLeKTic-style target, the seven acceptance criteria, the boundary calls, and *why*. Read this first. |
 | `author_prompt.md` | The self-contained instruction set given to each per-work authoring subagent. |
+| `deep_pass_prompt.md` | A ready-to-paste driver prompt for a fresh Claude agent to run a fuller (deep) pass over the corpus — embeds the reader template. |
 | `text/` | Plain text of every work (converted from HTML with pandoc). |
 | `factual/` | One JSON file per work: `{ source, author, work, pairs: [{ locus, source_text, question, answer, question_en, answer_en, derivation }] }`. |
 | `qa.jsonl` | The aggregated dataset — one pair per line. |
