@@ -51,10 +51,11 @@ At a high level it spans, across the named authors and their close neighbours:
 - **Cato** — *De Agri Cultura*.
 
 The **cultural texts** (post-June-2026 targets, landing work by work):
-Petronius's *Satyricon*, Apicius's *De Re Coquinaria*, Ovid's *Fasti* /
-*Metamorphoses* I / *Ars Amatoria*, Martial (*Xenia*, *Apophoreta*, *De
-Spectaculis*, then the numbered books), Catullus, Plautus, and the epigraphic
-set (epitaphs, inscriptions, the *SC de Bacchanalibus*, the Twelve Tables).
+Petronius's *Satyricon*, Apicius's *De Re Coquinaria* (all ten books + the
+Vinidarius excerpts), Ovid's *Fasti* / *Metamorphoses* I / *Ars Amatoria*,
+Martial (*Xenia*, *Apophoreta*, *De Spectaculis*, then the numbered books),
+Catullus, Plautus, Macrobius's *Saturnalia*, and the epigraphic set (epitaphs,
+inscriptions, the *SC de Bacchanalibus*, the Twelve Tables).
 `python3 aggregate.py` is always the authoritative tally.
 
 Each pair records a `provenance` field; all texts are from the Latin Library
@@ -75,12 +76,24 @@ except *NH* VII (LacusCurtius/Teubner), which the Latin Library does not carry.
 The raw `www.thelatinlibrary.com/` HTML is **not** committed (see `.gitignore`);
 re-fetch with `wget -r` to re-run the conversion.
 
-**Provenance.** Almost every work's text is from the Latin Library. The one
-exception is **Pliny, *Naturalis Historia* VII**, which the Latin Library does
-not carry: its text was fetched from **LacusCurtius (Mayhoff/Teubner edition)**
-and normalized to the corpus's plain-text style. Each pair in `qa.jsonl` carries
-a `provenance` field (defaulting to the Latin Library) so the source edition is
-always explicit; the per-work file under `factual/` also records it.
+**Provenance.** Almost every work's text is from the Latin Library. The
+exceptions — each fetched, normalized to the corpus's plain-text style, and
+recorded per work — are:
+
+- **Pliny, *Naturalis Historia* VII** — LacusCurtius (Mayhoff/Teubner).
+- **Apicius, *De Re Coquinaria* VI–X + the *Excerpta a Vinidario*** — the
+  Latin Library's own index lists all ten books but links only I–V (the rest
+  404), and LacusCurtius has Apicius only in English; the Latin is from the
+  **Bibliotheca Augustana** transcription (text after Milham's Teubner), via
+  `fetch_augustana_apicius.py`.
+- **Macrobius, *Saturnalia* I–VII** — not in the Latin Library at all; from
+  **LacusCurtius (ed. L. von Jan, 1852)**, via
+  `fetch_lacuscurtius_macrobius.py`. (The transmitted text is lacunose: much
+  of IV, the end of VII.)
+
+Each pair in `qa.jsonl` carries a `provenance` field (defaulting to the Latin
+Library) so the source edition is always explicit; the per-work file under
+`factual/` also records it.
 
 ## The eight acceptance criteria (summary)
 

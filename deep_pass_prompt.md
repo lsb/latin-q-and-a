@@ -47,10 +47,13 @@ genre-salient facts; the settings are nominally Greek). History deepening is
 
 **Hard rules.**
 - **Serial only.** Exactly ONE reader subagent running at a time. Never parallel.
-- **Corpus is the Latin Library** under `text/`. If a target text file is missing
-  or empty, the reader must report `MISSING: <path>` and write nothing — it must
-  **not** fetch text from anywhere else. (`pliny.nh7` is the one recorded
-  non-Latin-Library exception; don't add more without the user's say-so.)
+- **Corpus is what's under `text/`.** If a target text file is missing or
+  empty, the reader must report `MISSING: <path>` and write nothing — it must
+  **not** fetch text from anywhere else. (Recorded non-Latin-Library
+  provenances so far: `pliny.nh7` (LacusCurtius/Teubner), `apicius/apicius6..10`
+  + `apicius/vinidarius` (Bibliotheca Augustana), `macrobius/sat1..7`
+  (LacusCurtius/Jan) — see the README; don't add more without the user's
+  say-so. Readers must carry the right `provenance` field for these works.)
 - **One work per commit**, pushed to `trunk` (branch first if you prefer).
   Use the default authorship on commit messages.
 
