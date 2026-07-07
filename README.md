@@ -3,7 +3,10 @@
 A dataset of **closed-book, fact-seeking Latin question/answer pairs**, authored
 from the [Latin Library](https://www.thelatinlibrary.com/) corpus in the style
 of **ECLeKTic** ([arXiv:2502.21228](https://arxiv.org/abs/2502.21228)) — a
-benchmark for cross-lingual factual knowledge transfer.
+benchmark for cross-lingual factual knowledge transfer — and, since June 2026,
+of **Global PIQA** ([arXiv:2510.24081](https://arxiv.org/abs/2510.24081)):
+**culturally salient** knowledge of the Roman/Latin world, authored natively in
+Latin. (See *How the approach has changed*, below.)
 
 Each pair takes a **fact stated in a Latin work** and turns it into a question
 whose answer a well-read model should know *without the text in front of it*:
@@ -24,7 +27,7 @@ entity-anchored facts in them, keeping the verbatim source sentence as evidence.
 We do **not** mine the text for questions already in it, and we do **not**
 require the question or answer to be verbatim — the *fact*, not the wording, is
 what must trace to the source. See **`GUIDELINES.md`** for the full rationale and
-the seven acceptance criteria.
+the eight acceptance criteria.
 
 ## Coverage
 
@@ -47,6 +50,13 @@ At a high level it spans, across the named authors and their close neighbours:
 - **Augustine** — much of the *Confessions* (I, III–IX) and *City of God* I.
 - **Cato** — *De Agri Cultura*.
 
+The **cultural texts** (post-June-2026 targets, landing work by work):
+Petronius's *Satyricon*, Apicius's *De Re Coquinaria*, Ovid's *Fasti* /
+*Metamorphoses* I / *Ars Amatoria*, Martial (*Xenia*, *Apophoreta*, *De
+Spectaculis*, then the numbered books), Catullus, Plautus, and the epigraphic
+set (epitaphs, inscriptions, the *SC de Bacchanalibus*, the Twelve Tables).
+`python3 aggregate.py` is always the authoritative tally.
+
 Each pair records a `provenance` field; all texts are from the Latin Library
 except *NH* VII (LacusCurtius/Teubner), which the Latin Library does not carry.
 
@@ -54,7 +64,7 @@ except *NH* VII (LacusCurtius/Teubner), which the Latin Library does not carry.
 
 | Path | What it is |
 |---|---|
-| `GUIDELINES.md` | The rules: the ECLeKTic-style target, the seven acceptance criteria, the boundary calls, and *why*. Read this first. |
+| `GUIDELINES.md` | The rules: the ECLeKTic-style target, the cultural turn, the eight acceptance criteria, the two tracks, the boundary calls, and *why*. Read this first. |
 | `author_prompt.md` | The self-contained instruction set given to each per-work authoring subagent. |
 | `deep_pass_prompt.md` | A ready-to-paste driver prompt for a fresh Claude agent to run a fuller (deep) pass over the corpus — embeds the reader template. |
 | `text/` | Plain text of every work (converted from HTML with pandoc). |
@@ -72,12 +82,48 @@ and normalized to the corpus's plain-text style. Each pair in `qa.jsonl` carries
 a `provenance` field (defaulting to the Latin Library) so the source edition is
 always explicit; the per-work file under `factual/` also records it.
 
-## The seven acceptance criteria (summary)
+## The eight acceptance criteria (summary)
 
 A pair is kept only if **all** hold: **closed-book**, **entity-anchored**,
 **verifiable answer**, **decontextualizable**, **short answer**, **translatable**,
-**non-rhetorical / fact-seeking**. Precision over recall — when in doubt, drop it.
-Details and worked examples in `GUIDELINES.md`.
+**non-rhetorical / fact-seeking**, and (since June 2026) **culturally salient**
+— the shared, ambient knowledge of the Roman/Latin world, neither universal to
+every culture nor clique-local. Precision over recall — when in doubt, drop it.
+The one sanctioned exception: pairs tagged `track: "latin-specific"` waive
+*translatable* (and only that) for knowledge that lives in the Latin language
+itself — meter, scansion, wordplay. Details and worked examples in
+`GUIDELINES.md`.
+
+## How the approach has changed
+
+The repo is version-controlled precisely so the method can move; here is the
+history of the method, newest first:
+
+- **June 2026 — the cultural turn** ([issue #2](../../issues/2)). The meeting
+  notes concluded "we prob have enough history" and retargeted the dataset
+  toward **culture**: food (Apicius, Martial's *Xenia*), festivals and the
+  sacred calendar (Ovid's *Fasti*), daily life and its registers (Petronius,
+  Plautus, Martial), myth as shared story (Ovid), funerary culture
+  (epitaphs, Catullus 101). Concretely: an eighth acceptance criterion
+  (**culturally salient**, adapted from the meeting notes and Global PIQA's
+  insider-knowledge framing), per-pair **`category`** tags, a small
+  **`latin-specific` track** that waives translatability for meter/wordplay
+  knowledge (Global PIQA's natively-authored, non-parallel split is the
+  precedent), and a pause on new history mining. Pairs authored before the
+  turn are retained unchanged and are recognizable by their seven-key schema
+  (no `category`/`track`).
+- **May–June 2026 — depth passes.** The realization that per-work yield
+  reflects mining depth, not the text: deep re-reads against already-taken
+  pairs (e.g. *Divus Iulius*, 20 → 100 pairs), `deep_pass_prompt.md`, and the
+  no-ceiling "exhaustive within the bar" coverage rule.
+- **Spring 2026 — author, don't mine.** The founding decision: read factual
+  prose end-to-end and *write* new Latin Q&A about the facts (ECLeKTic-style,
+  closed-book, seven criteria), rather than harvesting questions that already
+  appear in texts. One reader subagent per work, run serially; verbatim
+  `source_text` kept as evidence; precision over recall.
+
+To revise a choice, edit `GUIDELINES.md` + `author_prompt.md` and re-run the
+affected works (see *Revisiting our choices*).
 
 ## Pipeline
 
@@ -105,10 +151,11 @@ re-run or extend:
    (b) points it at the single target file and an existing `factual/*.json` as a
    worked example; (c) names the specific facts worth hunting in that work (this
    focusing helps a lot); and (d) tells it to write valid JSON to
-   `factual/<name>.json` with exactly the seven per-pair keys and reply with a
+   `factual/<name>.json` with exactly the eight per-pair keys and reply with a
    one-paragraph summary (not the JSON — keep the big text out of the transcript).
-3. **Validate** the returned file: it parses, every pair has exactly the seven
-   keys, every question ends in `?`, answers are short. Spot-check a few facts
+3. **Validate** the returned file: it parses, every pair has exactly the eight
+   keys (seven pre-turn keys + `category`; `track` only on latin-specific runs),
+   every question ends in `?`, answers are short. Spot-check a few facts
    and the Latin (indirect question → subjunctive; indirect statement → acc.+inf.).
 4. **Aggregate and check** — `python3 aggregate.py`, then confirm no duplicate
    questions across the whole set.
@@ -117,7 +164,7 @@ re-run or extend:
 Notes that made the runs clean:
 - **One work at a time.** Serial keeps each reading focused and the run steerable.
 - **Precision is the quality gate, not a cap.** Drop doubtful/soft pairs, but keep
-  *every* fact that clears the seven criteria — no target ceiling, no
+  *every* fact that clears the eight criteria — no target ceiling, no
   "famous-only" filter (see `author_prompt.md` → *Coverage: exhaustive within the
   bar*). A sparse or theological work may still yield only a handful, and that's
   fine.
@@ -149,7 +196,8 @@ the authoritative record of what exists.
 ## Revisiting our choices
 
 The interesting decisions live in **`GUIDELINES.md`** (mirrored in
-`author_prompt.md`): author-not-mine, the seven criteria, fact-over-theory,
+`author_prompt.md`): author-not-mine, the eight criteria, fact-over-theory,
+culture-over-more-history (since issue #2),
 keep-the-verbatim-evidence, write-correct-Latin, precision over recall,
 read-don't-grep, serial single-subagent runs.
 

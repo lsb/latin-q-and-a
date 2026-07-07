@@ -3,10 +3,13 @@
 
 Writes qa.jsonl -- one Q&A pair per line, each:
   {source, author, work, provenance, locus, source_text, question, answer,
-   question_en, answer_en, derivation}
+   question_en, answer_en, derivation, category, track}
 `provenance` records the corpus a work's text came from; it defaults to the
 Latin Library and is overridden per work (e.g. NH 7, which the Latin Library
-does not carry, is from LacusCurtius/Teubner). Prints summary statistics.
+does not carry, is from LacusCurtius/Teubner). `category` is the coarse domain
+tag and `track` marks pairs that waive the translatability criterion; both were
+introduced with the June 2026 cultural turn (issue #2), so earlier pairs
+default to category "" and track "translatable". Prints summary statistics.
 """
 import glob
 import json
@@ -33,6 +36,8 @@ for f in sorted(glob.glob("factual/*.json")):
             "question_en": p.get("question_en", ""),
             "answer_en": p.get("answer_en", ""),
             "derivation": p.get("derivation", ""),
+            "category": p.get("category", ""),
+            "track": p.get("track", "translatable"),
         })
 
 with open("qa.jsonl", "w") as fh:
@@ -40,8 +45,16 @@ with open("qa.jsonl", "w") as fh:
         fh.write(json.dumps(r, ensure_ascii=False) + "\n")
 
 by_author = Counter(r["author"] for r in rows)
+by_category = Counter(r["category"] or "(untagged, pre-2026-06)" for r in rows)
+by_track = Counter(r["track"] for r in rows)
 print(f"works: {works}  (with pairs: {works - empty_works}, empty: {empty_works})")
 print(f"pairs: {len(rows)}  -> qa.jsonl")
 print("by author:")
 for a, n in sorted(by_author.items(), key=lambda kv: -kv[1]):
     print(f"  {n:5}  {a}")
+print("by category:")
+for c, n in sorted(by_category.items(), key=lambda kv: -kv[1]):
+    print(f"  {n:5}  {c}")
+print("by track:")
+for t, n in sorted(by_track.items(), key=lambda kv: -kv[1]):
+    print(f"  {n:5}  {t}")

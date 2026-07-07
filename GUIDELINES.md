@@ -1,8 +1,15 @@
-# Factual Q&A Authoring Guidelines (ECLeKTic-style)
+# Factual & Cultural Q&A Authoring Guidelines
 
-How we build a dataset of **closed-book, fact-seeking question/answer pairs**
-from the Latin Library corpus (plain text under `text/`), in the spirit of
-**ECLeKTic** ([arXiv:2502.21228](https://arxiv.org/abs/2502.21228)).
+How we build a dataset of **closed-book question/answer pairs** from the Latin
+Library corpus (plain text under `text/`), in the spirit of two benchmarks:
+
+- **ECLeKTic** ([arXiv:2502.21228](https://arxiv.org/abs/2502.21228)) —
+  closed-book *factual* recall that transfers across languages; this shaped the
+  first phase of the dataset (history, biography, law).
+- **Global PIQA** ([arXiv:2510.24081](https://arxiv.org/abs/2510.24081)) —
+  *culturally salient* knowledge, authored natively in each language rather
+  than translated; this shapes the current phase (see *The cultural turn*
+  below and [issue #2](../../issues/2)).
 
 These are working rules; the boundaries are debatable, so every pair records the
 verbatim source it rests on and *why* it was drawn the way it was.
@@ -10,9 +17,11 @@ verbatim source it rests on and *why* it was drawn the way it was.
 ## What we do (and don't)
 
 We **author** questions; we do not merely *find* them. We read **factual prose**
-— geography, ethnography, biography, history, law, agronomy — and for each clean
-fact we **write a new Latin question** whose answer is that fact, keeping the
-verbatim source sentence as evidence so every pair is auditable.
+— geography, ethnography, biography, history, law, agronomy — and **cultural
+texts** — comedy, epigram, the novel, recipes, calendar poetry, inscriptions and
+epitaphs — and for each clean fact we **write a new Latin question** whose
+answer is that fact, keeping the verbatim source sentence as evidence so every
+pair is auditable.
 
 The canonical shape:
 
@@ -31,6 +40,37 @@ its recorded **evidence**. So, concretely, we do **not**:
 - **chase theory, doctrine, or opinion** — humours, virtue, the will of the
   gods; we want who/how-many/where/when facts (see the bar below).
 
+## The cultural turn (June 2026)
+
+The first phase of the dataset mined **history** — and by mid-2026 we had
+enough of it (issue #2: "we prob have enough history"). The target is now
+**culture**: the shared, ambient knowledge of the Roman/Latin world.
+
+What changed, concretely:
+
+- **Sources.** From historians and jurists to culturally dense texts:
+  Petronius's *Satyricon*, Apicius's recipes, Ovid's *Fasti* (the festival
+  calendar) and myth, Martial's *Xenia*/*Apophoreta*, Plautus, Catullus,
+  inscriptions and epitaphs.
+- **What counts as a fact.** Alongside battles and magistracies: **food and
+  cookery, festivals and rites, spectacles and leisure, customs of daily life
+  (funerals, weddings, patronage, baths, dress, money), myth as shared story,
+  proverbs with a checkable point.** A mythological "fact" (Daphne was turned
+  into a laurel) is a fact *of the culture*, evidenced by the text like any
+  other.
+- **A new acceptance criterion** — *culturally salient* (criterion 8 below),
+  adapted from the meeting notes in issue #2.
+- **Two tracks** — the main dataset stays translatable (ECLeKTic-compatible);
+  a small tagged track relaxes *only* translatability for knowledge that lives
+  in the Latin language itself (see *Two tracks* below). Global PIQA is the
+  precedent: its non-parallel split was authored natively per language — over
+  half its examples reference local foods, customs, and traditions — and was
+  never meant to survive translation.
+
+History pairs authored under the earlier bar are **retained unchanged**;
+history mining is paused, not repudiated. Pre-turn per-work files lack the
+`category`/`track` fields, and `aggregate.py` defaults them.
+
 ## What we keep per pair
 
 Three things, always, all in Latin, plus English glosses:
@@ -44,14 +84,16 @@ Three things, always, all in Latin, plus English glosses:
    short as is natural — a name, a number, a place, a short phrase.
 
 Plus `question_en` / `answer_en` (English glosses, for cross-lingual seeding and
-review) and a `derivation` note.
+review), a `derivation` note, a `category` domain tag, and — only when
+criterion 6 is deliberately waived — a `track` marker (see *Two tracks*).
 
-## The acceptance bar — the seven criteria
+## The acceptance bar — the eight criteria
 
-ECLeKTic is about *closed-book cross-lingual factual recall*. A pair is only
-worth keeping if a well-read model — one that learned this content in **any**
-language, without the text in front of it — could answer it. Every kept pair
-must satisfy **all seven**:
+ECLeKTic is about *closed-book cross-lingual factual recall*; Global PIQA is
+about *culturally salient* knowledge. A pair is only worth keeping if a
+well-read model — one that learned this content in **any** language, without
+the text in front of it — could answer it. Every kept pair must satisfy **all
+eight**:
 
 1. **Closed-book.** Answerable from knowledge of the content, *not* by needing
    this specific passage open. "Quid in hoc capitulo dicitur?" fails. The fact
@@ -74,8 +116,19 @@ must satisfy **all seven**:
    fails this.)
 7. **Non-rhetorical / fact-seeking.** A genuine information question with a real
    answer, not a rhetorical flourish, a moral, an exhortation, or an opinion.
+8. **Culturally salient.** The fact belongs to the *shared* knowledge of the
+   Roman/Latin world — the kind of thing an insider (a Roman, or a well-read
+   Latin reader) would carry around, and an outsider likely would not:
+   festivals, foods, rites, spectacles, proverbs, famous myths, civic customs,
+   celebrated history. Two failure modes, one on each side: **not universal**
+   (knowledge every culture shares — "bread is baked in an oven" — tells you
+   nothing about Latin), and **not clique-local** (a detail only one town,
+   household, or army unit could know, carried by no one). It is fine if an
+   outsider *could* look the fact up; the test is whose **ambient knowledge**
+   it is, not secrecy. (Adapted from the issue #2 meeting notes.)
 
-If any one fails, **drop the pair.**
+If any one fails, **drop the pair.** (Exception: pairs explicitly tagged
+`track: "latin-specific"` waive criterion 6 — *and only 6* — see *Two tracks*.)
 
 ## What makes a *good* fact (and what to avoid)
 
@@ -89,6 +142,18 @@ Hunt for **hard, specific, checkable facts** anchored to named entities:
   what borders what.
 - **Offices, institutions, customs** — who held what magistracy, what a law
   provided, what a people's named custom was.
+- **Food & cookery** — named dishes and what goes in them, the staple sauces
+  (garum/liquamen, defrutum, passum), named wines, what course was served when.
+- **Festivals & the sacred calendar** — which feast in which month, for which
+  god, with what named rite (Lupercalia, Saturnalia, Parilia…).
+- **Spectacles & leisure** — the games and their venues, chariot factions,
+  gladiator types, the baths, theater conventions.
+- **Mores & daily life** — funerals and epitaph formulas, weddings, patronage
+  and the salutatio, dress (toga, stola), coinage, meals and their hours.
+- **Myth as shared story** — who was turned into what, who fathered/loved/slew
+  whom, canonical attributes and epithets. (Daphne → laurel is a keepable
+  cultural fact, evidenced by Ovid.)
+- **Proverbs & sayings** — where the point is checkable (who said it, of what).
 
 Avoid (these are the "theories of humours" we steer clear of):
 
@@ -96,7 +161,9 @@ Avoid (these are the "theories of humours" we steer clear of):
   consists in, what the gods will. Not closed-book facts.
 - **Vague generalities** — "what did X think about Y?" with no single answer.
 - **Language trivia** — declensions, scansion, how a word is spelled. Fails
-  *translatable*.
+  *translatable* — **on the main track.** Knowledge that genuinely lives in the
+  Latin language (meter, wordplay) belongs on the `latin-specific` track, not
+  in the discard pile; see *Two tracks* below.
 - **Whole-passage summary** — "what happens in book 2?" Fails *closed-book* and
   *short-answer*.
 - **Anything you had to read the passage to even parse the question.** If the
@@ -104,17 +171,19 @@ Avoid (these are the "theories of humours" we steer clear of):
 
 ## Precision on quality, exhaustive on coverage
 
-The seven criteria are a strict **quality gate**: when a candidate is doubtful —
+The eight criteria are a strict **quality gate**: when a candidate is doubtful —
 the fact is fuzzy, the answer arguable, the anchoring thin, the Latin you'd have
 to write is shaky — **drop it.** A wrong or ambiguous pair pollutes the dataset.
 
 But that precision is about **quality, not count.** We take **every** fact that
 clears the gate, with no target ceiling and no "famous facts only" filter — the
-celebrated and the merely verifiable alike (the obscure-but-checkable fact is
-often the *more* useful one for a cross-lingual test). "Do not pad" means do not
-admit *soft* pairs, not "stop early." So a dense biography or history can yield
-**dozens** of pairs and should; a sparse, theological, or lyric work may yield a
-handful or none, and that too is fine.
+celebrated and the merely verifiable alike (the less-celebrated but still
+culturally-shared fact is often the *more* useful one for a cross-lingual
+test). Criterion 8 is part of the gate, not a fame filter: it drops the
+clique-local minutia nobody carries, not the merely un-famous. "Do not pad"
+means do not admit *soft* pairs, not "stop early." So a dense biography or
+history can yield **dozens** of pairs and should; a sparse, theological, or
+lyric work may yield a handful or none, and that too is fine.
 
 **Yield reflects mining depth, not the text.** A single quick pass under-mines a
 rich work — a first pass over Suetonius's *Divus Iulius* took 20 pairs; a
@@ -122,6 +191,45 @@ deep pass, cap removed, found 80 more, all clearing the same bar. Treat a
 first pass as a floor, and **deepen** dense works by re-reading them against the
 pairs already taken (see `author_prompt.md` → *Deepening an already-covered
 work*).
+
+## Two tracks: `translatable` and `latin-specific`
+
+The main dataset keeps criterion 6 — that is what makes it ECLeKTic-comparable,
+and it is the default (no `track` field needed). But the issue #2 meeting asked
+for **untranslatable questions** too: knowledge that lives *in the Latin* —
+meter, scansion, wordplay — the way Global PIQA's natively-authored pairs live
+in their language and were never meant to be parallel. Those pairs go in the
+same per-work files and the same `qa.jsonl`, tagged `track: "latin-specific"`,
+so downstream ECLeKTic-style use filters them out with one condition.
+
+Rules for the `latin-specific` track:
+
+- It waives **criterion 6 and only 6**. Closed-book, entity-anchored,
+  verifiable, decontextualizable, short-answer, non-rhetorical, and culturally
+  salient all still bind. "Scan this line" is an exercise, not a fact; "which
+  foot is *never* admitted in the last place of a hexameter" is knowledge.
+- **The meter boundary call.** A fact *about* meter often translates fine and
+  belongs on the **main** track: "In what meter is the *Aeneid* composed?" →
+  *Hexametro dactylico.* survives translation into any language. What is
+  `latin-specific` is knowledge that requires the Latin itself to state or
+  verify: where the caesura falls in a particular famous line, what a pun turns
+  on, which syllable is long. When in doubt, tag it `latin-specific` — the tag
+  is cheap, and un-tagging is easy; polluting the translatable set is not.
+- Keep this track **small and deliberate** — it is an experiment (pilot: the
+  scansion/caesura questions the meeting floated), not a second firehose.
+
+## Category tags
+
+Each new pair carries a coarse `category`, one of:
+
+`cibus` (food & cookery) · `religio` (rites, festivals, the sacred calendar) ·
+`ludi` (spectacles, games, theater, leisure) · `mores` (daily life & custom) ·
+`mythos` (mythology) · `proverbium` (sayings) · `historia` (political/military
+history, biography) · `ius` (law & institutions) · `geographia` (places &
+peoples) · `lingua` (latin-specific language knowledge)
+
+One tag per pair — pick the dominant domain. Pre-turn files have no tag;
+`aggregate.py` leaves those empty rather than guessing.
 
 ## Authoring the Latin (the part we now own)
 
@@ -177,7 +285,14 @@ answer       "<new Latin short answer>"
 question_en  "<English gloss of the question>"
 answer_en    "<English gloss of the answer>"
 derivation   "<which fact; why it's closed-book & entity-anchored; notes>"
+category     "<domain tag — see Category tags>"        # required since 2026-06
+track        "latin-specific"          # ONLY when criterion 6 is waived; else omit
 ```
+
+Pre-turn pairs (authored before June 2026) have exactly the first seven keys;
+new pairs have eight (plus `track` on the rare latin-specific pair).
+`aggregate.py` accepts both, defaulting `category` to `""` and `track` to
+`"translatable"`.
 
 Per-work file (`factual/<name>.json`):
 
@@ -223,6 +338,31 @@ Per-work file (`factual/<name>.json`):
 - **derivation:** Anchored to the gens Octavia. Single named-entity answer,
   supported verbatim. *dicitur* keeps the closed-book "according to the
   tradition" frame for a claim particular to Suetonius.
+
+### Apicius, *De Re Coquinaria* 1.1 — cultural (food) fact
+- **source_text:** `Mellis p.XV in aeneum uas mittuntur, praemissis vini sextariis duobus, ut in coctura mellis vinum decoquas.`
+- **question:** `Ex quibus duabus rebus praecipue conditum paradoxum apud Apicium temperatur?`
+- **answer:** `Ex melle et vino.`
+- **question_en:** "From which two principal ingredients is *conditum paradoxum* prepared in Apicius?"
+- **answer_en:** "From honey and wine."
+- **category:** `cibus`
+- **derivation:** *Conditum* (spiced honey wine) was the standard Roman
+  aperitif — ambient food culture, criterion 8's home turf. Anchored to Apicius
+  + the named preparation; the two-ingredient base is stated verbatim.
+  Translatable: nothing turns on the Latin words.
+
+### Vergil, *Aeneid* 1.1 — `latin-specific` track (scansion) fact
+- **source_text:** `Arma virumque cano, Troiae qui primus ab oris`
+- **question:** `In primo Aeneidos versu, post quod verbum incidit caesura praecipua?`
+- **answer:** `Post "cano".`
+- **question_en:** "In the first line of the Aeneid, after which word does the main caesura fall?"
+- **answer_en:** "After *cano*."
+- **category:** `lingua` — **track:** `latin-specific`
+- **derivation:** The third-foot (penthemimeral) caesura of the most famous
+  hexameter in Latin — knowledge every reader of Vergil carries, verifiable by
+  scanning the quoted line, but it cannot survive translation (criterion 6
+  waived, all others hold). This is the shape of the meeting's "scansion
+  questions" idea.
 
 ### A pair to REJECT (fails the bar)
 - candidate Q: `Cur Belgae fortissimi sunt?` / A: `Quod a cultu atque humanitate

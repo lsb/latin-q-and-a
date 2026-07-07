@@ -10,32 +10,40 @@ the "Scope" line with the works you want.
 
 ---
 
-You are building an **ECLeKTic-style factual Latin Q&A dataset** in this repo.
-Before doing anything, read these — they are the source of truth and override any
-assumption you have: **`GUIDELINES.md`**, **`author_prompt.md`**, and the
-README's **"Reproducing with Claude"** and **"Depth: a first pass is a floor"**
-sections. Then follow the loop below.
+You are building a **closed-book Latin Q&A dataset** in this repo — ECLeKTic-
+style factual recall, retargeted (June 2026, issue #2) toward **culturally
+salient knowledge** in the spirit of Global PIQA. Before doing anything, read
+these — they are the source of truth and override any assumption you have:
+**`GUIDELINES.md`**, **`author_prompt.md`**, and the README's **"Reproducing
+with Claude"** and **"Depth: a first pass is a floor"** sections. Then follow
+the loop below.
 
 **What exists.** `text/` holds one plain-text file per work (the Latin Library
 corpus). `factual/<name>.json` holds the pairs for one work
 (`{source, author, work, [provenance], pairs:[{locus, source_text, question,
-answer, question_en, answer_en, derivation}]}`). `python3 aggregate.py` flattens
-all of `factual/*.json` into `qa.jsonl` and prints a per-author tally. Some
-`factual/*.json` are only a first (shallow) pass and can be **deepened**; a few
-(e.g. `suetonius.iulius.json`) have had a deep pass.
+answer, question_en, answer_en, derivation, category, [track]}]}` — pairs
+authored before June 2026 lack `category`/`track`; that's expected).
+`python3 aggregate.py` flattens all of `factual/*.json` into `qa.jsonl` and
+prints per-author/category/track tallies. Some `factual/*.json` are only a
+first (shallow) pass and can be **deepened**; a few (e.g.
+`suetonius.iulius.json`) have had a deep pass.
 
-**Goal.** Take **every** fact that clears the seven acceptance criteria — no
+**Goal.** Take **every** fact that clears the eight acceptance criteria — no
 target ceiling, no "famous-only" filter. Precision is the *quality gate* (drop
-doubtful/soft/passage-dependent pairs), not a cap on count. The obscure-but-
-verifiable fact is often the *more* valuable one for a cross-lingual test.
+doubtful/soft/passage-dependent pairs), not a cap on count. The less-celebrated
+but culturally-shared fact is often the *more* valuable one for a cross-lingual
+test; the clique-local minutia no one carries fails criterion 8.
 
-**Scope (edit this line to limit the run).** Deep-pass the dense works, in this
-priority order, then stop and report: the rest of the Twelve Caesars
-(`suetonius.augustus`, `.tiberius`, `.caligula`, `.claudius`, `.nero`, `.galba`,
-`.otho`, `.vitellius`, `.vespasian`, `.titus`, `.domitian`); Caesar's
-commentaries (`caesar.gall1..8`, `caesar.bc1..3`, `caesar.alex/.bellafr/.hisp`);
-the Tacitus books (`tacitus.*`); Pliny (`pliny.nh2..5`, `pliny.ep6/.ep10`). New
-works not yet in `factual/` may be added the same way.
+**Scope (edit this line to limit the run).** The **cultural** works, in this
+priority order, then stop and report: the epigraphic set (`epitaphs`,
+`inscriptions`, `scbaccanalibus`, `12tables`); Petronius (`petronius1`,
+`petroniusfrag`); Apicius (`apicius/apicius1..5` + any LacusCurtius-provenance
+books); Ovid's *Fasti* (`ovid/ovid.fasti1..6`); Martial (`martial/mart13`,
+`mart14`, `mart.spec`, then the numbered books); Catullus (`catullus`); Ovid
+*Metamorphoses* I (myth pilot) and *Ars Amatoria* (`ovid/ovid.artis1..3`);
+Plautus (`plautus/*`, one play at a time — keep only Roman-salient or
+genre-salient facts; the settings are nominally Greek). History deepening is
+**paused** (issue #2: enough history).
 
 **Hard rules.**
 - **Serial only.** Exactly ONE reader subagent running at a time. Never parallel.
@@ -58,15 +66,21 @@ works not yet in `factual/` may be added the same way.
    ```
    python3 - <<'PY'
    import json
-   req={'locus','source_text','question','answer','question_en','answer_en','derivation'}
+   req={'locus','source_text','question','answer','question_en','answer_en','derivation','category'}
+   opt={'track'}
+   cats={'cibus','religio','ludi','mores','mythos','proverbium','historia','ius','geographia','lingua'}
    d=json.load(open('factual/<name>.json'))          # or the scratch file for a deepening pass
    ps=d['pairs'] if isinstance(d,dict) else d
    print('pairs:',len(ps))
-   print('schema issues:',sum(1 for p in ps if (req-set(p)) or (set(p)-req)))
+   print('schema issues:',sum(1 for p in ps if (req-set(p)) or (set(p)-req-opt)))
+   print('bad categories:',sum(1 for p in ps if p.get('category') not in cats))
+   print('bad tracks:',sum(1 for p in ps if 'track' in p and p['track']!='latin-specific'))
    print('non-? questions:',sum(1 for p in ps if not p['question'].rstrip().endswith('?')))
    print('longest answers (words):',sorted((len(p['answer'].split()) for p in ps),reverse=True)[:3])
    PY
    ```
+   (Pre-June-2026 files have seven keys per pair — no `category`/`track` — and
+   stay valid as-is; this check is for **newly authored** pairs.)
    Then spot-check a few facts against the source and eyeball the Latin (indirect
    question → subjunctive; indirect statement → acc.+inf.; no macrons).
 4. **Merge (deepening only).** Append the new pairs to the existing
@@ -97,15 +111,20 @@ works not yet in `factual/` may be added the same way.
 >    (an existing output) for the shape and quality bar.
 > 2. Read the ENTIRE work: `<TEXT_PATH>`  (`<AUTHOR>`, `<WORK>`). Use Read with
 >    offset/limit to cover all of it.
-> 3. Author pairs. This is a DEPTH pass: take **every** fact that clears ALL SEVEN
+> 3. Author pairs. This is a DEPTH pass: take **every** fact that clears ALL EIGHT
 >    criteria (closed-book, entity-anchored, verifiable, decontextualizable,
->    short-answer, translatable, non-rhetorical). NO target ceiling and NO
->    "famous-only" filter — keep the less-celebrated verifiable facts too. Still
->    DROP anything doubtful, untranslatable (Latin puns/metre/grammar trivia), or
->    passage-dependent. Hunt across the whole work: `<TARGET_FACTS — e.g. birth/
->    death dates & places, family & marriages, offices & magistracies held, named
->    battles/campaigns and who won, distances & numbers, laws & institutions,
->    named customs, buildings, sayings with a checkable point>`.
+>    short-answer, translatable, non-rhetorical, culturally-salient). NO target
+>    ceiling and NO "famous-only" filter — keep the less-celebrated verifiable
+>    facts too. Still DROP anything doubtful, untranslatable (Latin puns/metre/
+>    grammar trivia — unless this is an explicit latin-specific-track run),
+>    passage-dependent, universal-to-every-culture, or clique-local. Hunt across
+>    the whole work: `<TARGET_FACTS — e.g. named dishes & ingredients, festivals
+>    & rites & their dates, spectacles & venues & factions, customs of funerals/
+>    weddings/patronage/dress, myths (who became what, who loved/slew whom),
+>    proverbs with a checkable point; and for factual prose: dates & places,
+>    family & marriages, offices, named battles, distances & numbers, laws>`.
+>    Tag every pair with its `category` (cibus|religio|ludi|mores|mythos|
+>    proverbium|historia|ius|geographia|lingua).
 >    Attribute to the author where natural (`...ut Suetonius tradit? / apud
 >    Tacitum? / Caesar scribit?`). Answers short and grammatical; no macrons.
 >    Normalize `source_text` (strip `[1]` markers/number-runs/footers; strip
@@ -117,7 +136,9 @@ works not yet in `factual/` may be added the same way.
 > 4. WRITE valid JSON to `<OUTPUT_PATH>` — <for a NEW work: the object
 >    `{"source":"<TEXT_PATH>","author":"<AUTHOR>","work":"<WORK>","pairs":[...]}`;
 >    for a DEEPENING pass: a bare JSON ARRAY of only the new pair objects> — each
->    pair having EXACTLY the seven keys, no extras. Then reply with the COUNT and a
+>    pair having EXACTLY the eight keys (locus, source_text, question, answer,
+>    question_en, answer_en, derivation, category), no extras (`track` only on an
+>    explicit latin-specific-track run). Then reply with the COUNT and a
 >    one-paragraph summary (NOT the JSON).
 
 ---
