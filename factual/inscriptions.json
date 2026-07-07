@@ -1,0 +1,247 @@
+{
+  "source": "text/inscriptions.txt",
+  "author": "Anonymi (tituli parietarii)",
+  "work": "Inscriptiones parietariae Pompeianae",
+  "pairs": [
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 14",
+      "source_text": "venimus hoc cupidi, multo magis hire cupjimus ut liceat nostros visere, Roma, Lares",
+      "question": "Quos deos suos visere cupiunt viatores in celebri disticho parietario Pompeiano, quod incipit 'venimus huc cupidi'?",
+      "answer": "Lares.",
+      "question_en": "Which gods of their own do the travelers in the famous Pompeian wall distich beginning 'venimus huc cupidi' long to go and see?",
+      "answer_en": "Their Lares (household gods).",
+      "derivation": "The anthologized homesickness distich: the writers came eagerly but long far more to go back, 'ut liceat nostros visere, Roma, Lares.' The cultural fact is the Lares as the household gods whose sight means home; anchored by the famous incipit and the address to Roma; single-name answer supported verbatim ('nostros ... Lares'; vulgar spellings hoc = huc, hire = ire kept in the source).",
+      "category": "religio"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 31",
+      "source_text": "tu, pupa. sic valeas, sic habeas Venere Pompeianam propytia",
+      "question": "Quam deam Pompeiani, urbis suae patronam, in benedictionibus parietariis propitiam sibi optabant?",
+      "answer": "Venerem Pompeianam.",
+      "question_en": "Which goddess, the patroness of their city, did Pompeians wish propitious to themselves in wall blessings?",
+      "answer_en": "Venus Pompeiana.",
+      "derivation": "Venus Pompeiana, tutelary goddess of the colony (Colonia Cornelia Veneria Pompeianorum), invoked in the blessing 'sic habeas Venere Pompeianam propytia' (vulgar for Venerem Pompeianam propitiam). Convention-level: the city's patron goddess is ambient knowledge, not one lover's detail; single-name answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 170",
+      "source_text": "M. Cerrinium Vatiam aedilem, dignum rei publicae, Tyrannus cupiens fecit cum sodales.",
+      "question": "Qua formula sollemni programmata Pompeiana candidatos aedilitatis commendare solent?",
+      "answer": "Dignum rei publicae.",
+      "question_en": "With what fixed formula do Pompeian election notices commend candidates for the aedileship?",
+      "answer_en": "'Dignum rei publicae' — 'worthy of the commonwealth.'",
+      "derivation": "The standard commendation formula of the painted programmata, abbreviated d.r.p. on the walls; attested verbatim here ('dignum rei p.') and again in n. 172. Convention-level fact of the celebrated Pompeian election notices — the aedileship is the office campaigned for on the walls, and the individual candidate (Cerrinius Vatia) is only the anchor, not the subject.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 172",
+      "source_text": "C. Cuspium Pansam aedilem dignum rei publicae oro vos faciatis, Saturninus cum discentes rogant.",
+      "question": "Quid scriptores programmatum Pompeianorum litteris O. V. F. cives orare solebant?",
+      "answer": "Ut candidatum aedilem facerent.",
+      "question_en": "What did the writers of Pompeian election notices, with the letters O.V.F., beg the citizens to do?",
+      "answer_en": "To elect the candidate aedile ('oro vos faciatis' — 'I beg you to make him [aedile]').",
+      "derivation": "The most frequent formula of the programmata, o(ro) v(os) f(aciatis), 'I beg you to elect (him),' here written out for the aedile-candidate Cuspius Pansa. Convention-level fact cited in every account of Pompeian elections; supported verbatim by 'aedilem ... oro vos faciatis' (editorial parentheses expanding the abbreviations stripped per normalization).",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 172",
+      "source_text": "C. Cuspium Pansam aedilem dignum rei publicae oro vos faciatis, Saturninus cum discentes rogant.",
+      "question": "Quo verbo fautores, in programmatibus Pompeianis nominatim se profitentes, suffragia pro candidatis petunt?",
+      "answer": "Rogant.",
+      "question_en": "With what verb do supporters, naming themselves in Pompeian election notices, solicit votes for their candidates?",
+      "answer_en": "'Rogant' — 'they ask (for his election).'",
+      "derivation": "The convention of named rogatores: supporters subscribe the notice with rogat/rogant — here a master with his apprentices ('Saturninus cum discentes rog.'), elsewhere even barmaids (n. 897 'Asellinas rogant'). A formula-level fact of Pompeian campaigning, like the epitaphs' fixed formulas; translatable as 'ask/urge'; supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 247",
+      "source_text": "hec venatio pugnabet V. k. septembres et Felix ad ursos pugnabet.",
+      "question": "Quod bestiarum spectaculum in parietibus Pompeianis, die pugnae adscripto, nuntiari solebat?",
+      "answer": "Venatio.",
+      "question_en": "What beast-show was customarily announced on Pompeian walls, with the day of the fight added?",
+      "answer_en": "A venatio (wild-beast hunt).",
+      "derivation": "The wall-advertisement convention for spectacles: a venatio announced with its date ('hec venatio pugnabet V. k. septembres' — vulgar for haec ... pugnabit). Venationes and their painted announcements are ambient Roman spectacle culture; the pair asks about the advertised genre, not the particular day.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 247",
+      "source_text": "hec venatio pugnabet V. k. septembres et Felix ad ursos pugnabet.",
+      "question": "Ad quas feras pugnaturus erat Felix, cuius pugna in venatione Pompeiana in pariete nuntiatur?",
+      "answer": "Ad ursos.",
+      "question_en": "Against what beasts was Felix to fight, whose bout in the Pompeian venatio is announced on a wall?",
+      "answer_en": "Against bears.",
+      "derivation": "Bear-fights as a billed event of the Pompeian venatio ('Felix ad ursos pugnabet'). The culturally salient fact is bears among the beasts of the arena, the announced fighter serving only as anchor; single answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 309",
+      "source_text": "calos Paris isse, Septentrio.",
+      "question": "Quo vocabulo, e lingua Graeca sumpto, fautores Pompeiani histriones suos in parietibus acclamabant?",
+      "answer": "Calos.",
+      "question_en": "With what word, borrowed from Greek, did Pompeian fans acclaim their actors on the walls?",
+      "answer_en": "'Calos' — 'bravo!' (Greek kalos).",
+      "derivation": "The theatrical acclamation calos (Greek kalos, 'beautifully!, bravo!'), scratched for the star performer: 'calos Paris isse' (= calos Paris ipse — very likely the celebrated pantomimus Paris). The acclamation formula, not the fan, is the fact; the Greek loan survives translation as 'the cheer used for actors'; supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 396",
+      "source_text": "ligna, procu IV pan. H VI coliclo II, betam I, sinapi I, mentam I, sale I.",
+      "question": "Quo in loco Pompeiani indices cibariorum cotidianorum — panis, holerum, salis — cum pretiis notare solebant?",
+      "answer": "In parietibus.",
+      "question_en": "Where did Pompeians customarily jot down their lists of everyday provisions — bread, vegetables, salt — with the prices?",
+      "answer_en": "On the walls (of their houses).",
+      "derivation": "The famous use of the Pompeian wall as household notebook: this graffito is a shopping list — firewood, bread, cabbage, beet, mustard, mint, salt, each with its sum (cf. n. 402, the lard-and-garlic account). The pair asks about the attested practice (walls as account-books), an anthologized fact of Pompeian daily life, not about one household's purchases.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 402",
+      "source_text": "IIX id. Iulias axungia pondo CC, aliu, manuplos CCL.",
+      "question": "Quo vocabulo pondus librarum — velut axungiae — in rationibus Romanis significari solet?",
+      "answer": "Pondo.",
+      "question_en": "With what term is weight in pounds — of lard, for instance — customarily expressed in Roman accounts?",
+      "answer_en": "'Pondo' — 'in pounds (by weight).'",
+      "derivation": "The fixed accounting idiom pondo + numeral for weights in Roman pounds: 'axungia pondo CC,' two hundred pounds of axle-grease/lard, dated and set beside 250 bundles of garlic. A convention of Roman reckoning (the libra behind the idiom), attested by this wall account; the particular purchase is only the anchor.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 427",
+      "source_text": "Vitalis trama, pesu Florentina pesa III, Amaryllis pesu, trama et stamen, Ianuaria suptemen, pesa II et sta. pes. dua semis",
+      "question": "Quo nomine appellabatur lanae pondus quod singulis ancillis lanificis ad opus attribuebatur?",
+      "answer": "Pensum.",
+      "question_en": "By what name was the weighed portion of wool called that was assigned to each slave-woman for her wool-work?",
+      "answer_en": "The pensum.",
+      "derivation": "The pensum, the weighed wool-task of Roman lanificium, attested in this weaving record from a Pompeian textrina: each named worker has her pesu(m)/pesa (vulgar for pensum/pensa) of trama (weft), stamen (warp), or subtemen. The institution of the pensum is ambient Roman daily-life culture (the matron's 'lanam fecit'); the individual spinners are not the subject.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 525",
+      "source_text": "Aulus Olo suo salutem.",
+      "question": "Quo verbo epistulae titulique parietarii Romani salutationem inter amicos aperire solent?",
+      "answer": "Salutem.",
+      "question_en": "With what word do Roman letters and wall greetings customarily open a salutation between friends?",
+      "answer_en": "'Salutem' — '(sends) greetings.'",
+      "derivation": "The universal greeting formula 'N. N-i suo salutem (sc. dicit),' here 'Aulus Olo suo salutem'; on the walls it is often abbreviated sal. (n. 523 'fullo Cresces coponi sal.'; cf. n. 474 'Zosimus Victoriae salutem'). Convention-level epistolary and parietal formula, supported verbatim; the private greeters are not the subject.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 569",
+      "source_text": "benivolentibus feliceter",
+      "question": "Quo vocabulo fausto acclamationes parietariae Romanae hominibus bene precari solent?",
+      "answer": "Feliciter.",
+      "question_en": "With what word of good omen do Roman wall acclamations wish people well?",
+      "answer_en": "'Feliciter' — 'good fortune!'",
+      "derivation": "The acclamation feliciter, the standing good-luck cry of Roman walls: here 'benivolentibus feliceter' (vulgar spelling), and again among the Roman vigiles' graffiti (n. 219 'feliciter feliciter'). A formula-level convention like the epitaphs' S.T.T.L.; single-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 594",
+      "source_text": "quisquis ama valia, peria qui nosci amare",
+      "question": "Quid celeberrimus versus parietarius Pompeianus 'quisquis amat valeat' ei imprecatur qui amare nescit?",
+      "answer": "Ut pereat.",
+      "question_en": "What does the most famous Pompeian wall verse 'quisquis amat valeat' call down on the man who does not know how to love?",
+      "answer_en": "That he perish.",
+      "derivation": "The most celebrated of all Pompeian graffiti: 'quisquis amat valeat, pereat qui nescit amare' (on the wall in vulgar spelling 'quisquis ama valia, peria qui nosci amare'). Anchored by its famous incipit; the completion is the checkable fact, exactly as with the anthologized epitaph formulas; supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 594",
+      "source_text": "quisquis ama valia, peria qui nosci amare, bis tanti peria, quisquis amare vota.",
+      "question": "Quis, secundum celeberrimum carmen parietarium Pompeianum 'quisquis amat valeat', bis tanto pereat?",
+      "answer": "Quisquis amare vetat.",
+      "question_en": "Who, according to the most famous Pompeian wall poem 'quisquis amat valeat', should perish twice over?",
+      "answer_en": "Whoever forbids love.",
+      "derivation": "The famous couplet's climax: 'bis tanti peria, quisquis amare vota' = bis tanto pereat quisquis amare vetat — he who forbids love perishes doubly. Part of the anthologized verse, anchored by its incipit; single-phrase answer supported verbatim (vulgar spellings kept in the source).",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 598",
+      "source_text": "qui hoc leget, nuncquam posteac aliid legat.",
+      "question": "Quid notus titulus parietarius Pompeianus ei imprecatur qui eum legerit?",
+      "answer": "Ne quidquam postea legat.",
+      "question_en": "What does a well-known Pompeian graffito wish upon whoever reads it?",
+      "answer_en": "That he never read anything again afterwards.",
+      "derivation": "The anthologized reader-curse: 'qui hoc leget, nuncquam posteac aliid legat' — may whoever reads this never read anything else. (On the wall a second hand curses the writer back, 'nunquam sit salvos qui supra scripsit,' and a third agrees, 'vere dicis' — the exchange is part of its fame.) A celebrated joke of graffiti culture, quoted in every collection; short purpose-clause answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 636",
+      "source_text": "talia te fallant utinam medacia, copo: tu vedes acuam et bibes ipse merum.",
+      "question": "Quid caupo ille, quem versus parietarius Pompeianus aquam vendere accusat, ipse bibit?",
+      "answer": "Merum.",
+      "question_en": "What does the innkeeper, whom a famous Pompeian wall verse accuses of selling water, drink himself?",
+      "answer_en": "Unmixed wine (merum).",
+      "derivation": "The celebrated jab at the wine-watering innkeeper: 'tu vedes acuam et bibes ipse merum' (= tu vendis aquam et bibis ipse merum). The cheating copo is a stock figure of Roman popular culture, and this epigram is its textbook attestation; the punch line — he drinks the unmixed wine himself — is the checkable completion, supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 641",
+      "source_text": "L. Istacidi at quem non ceno, barbarus ille mihi est.",
+      "question": "Quo nomine scriptor notae sententiae parietariae Pompeianae eum appellat apud quem non cenat?",
+      "answer": "Barbarum.",
+      "question_en": "What does the writer of a well-known Pompeian wall saying call the man at whose house he does not dine?",
+      "answer_en": "A barbarian.",
+      "derivation": "The quotable dinner-quip 'at quem non ceno, barbarus ille mihi est' (at = ad): whoever does not have me to dinner is a barbarian to me. Anthologized graffito humor turning on the Roman cena as the social institution par excellence; single-word answer supported verbatim; the addressee Istacidius is only the occasion.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii n. 897",
+      "source_text": "C. Lollium Fuscum II vir. viis aedibus sacris publicis procurandis Asellinas rogant nec sine Zmyrina.",
+      "question": "Quibus rebus procurandis duoviri Pompeiani, ut programmata parietaria testantur, praeponebantur?",
+      "answer": "Viis aedibusque sacris et publicis.",
+      "question_en": "Over the care of what were the Pompeian duoviri set, as the wall election notices attest?",
+      "answer_en": "Roads and sacred and public buildings.",
+      "derivation": "The official style of the Pompeian magistracy in the programmata: II vir(um) viis aedibus sacris publicis procurandis — duovir for the upkeep of roads and of sacred and public buildings — stated verbatim in the notice for C. Lollius Fuscus. An institutional fact standard in accounts of Pompeian elections; the endorsing barmaids ('Asellinas rogant nec sine Zmyrina') corroborate the rogant convention, but the office's charge is the fact taken.",
+      "category": "ius"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Pompeii CIL IV 8203",
+      "source_text": "Idibus Iulis inaures postas ad Faustilla. pro X II usura deduxit aeris assem ex summa XXX.",
+      "question": "Cuius metalli nummus erat as, quo usurae pretiaque minuta in titulis Pompeianis numerantur?",
+      "answer": "Aeris.",
+      "question_en": "Of what metal was the as, the coin in which petty interest and small prices are reckoned in Pompeian graffiti?",
+      "answer_en": "Of bronze.",
+      "derivation": "The as as the small bronze coin of everyday reckoning: in this pawnbroking record (earrings deposited with the moneylender, 'inaures postas ad Faustilla') the interest deducted is 'aeris assem' — an as of bronze. The coin and its metal are ambient Roman money-culture; the private transaction is only the anchor's setting; supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Herculaneum n. 388",
+      "source_text": "Ferreas strigles VII",
+      "question": "Quod instrumentum, quo in balineis cutis destringebatur, in supellectili domestica Romana ferreum reperiebatur?",
+      "answer": "Strigilis.",
+      "question_en": "What implement, used for scraping the skin at the baths, was found in iron among ordinary Roman household goods?",
+      "answer_en": "The strigil.",
+      "derivation": "Iron strigils counted among a Herculanean household's inventory: 'ferreas strigles VII' (strigles vulgar for strigiles), seven of them, in a wall-list of pots, lamps, and basins. The strigil, the scraper of the Roman bath, is flagship daily-life culture (criterion 8); the inventory attests it as ordinary supellex, and the question rides on the object, not the one household.",
+      "category": "mores"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Roma n. 219",
+      "source_text": "imperatore Antonino et Alessanro, Grato et Seleuco cos. Kalendis Iunis Celius Saturninus sebaciaria fecit",
+      "question": "Quorum magistratuum nominibus Romani annos in titulis designare solebant?",
+      "answer": "Consulum.",
+      "question_en": "By the names of which magistrates did Romans customarily designate the year in inscriptions?",
+      "answer_en": "The consuls'.",
+      "derivation": "Eponymous consular dating — the year named by its two consuls — attested in this graffito of a Roman vigilis: 'Grato et Seleuco cos. Kalendis Iunis' (the consuls of AD 221). One of the most basic institutions of Roman civic time-reckoning, ambient for any reader of Roman documents; single-word answer; 'Se(leuco)' expanded per normalization.",
+      "category": "ius"
+    },
+    {
+      "locus": "Inscriptiones parietariae, Roma n. 221",
+      "source_text": "cohors VII vigilum Antoniniana centuria Aviti Planius Saturninus sevacia tuta fecit salvis commanuculis suis mense Aug. omnia tuta.",
+      "question": "Qui milites, in cohortes numeratas discripti, urbi Romae excubias agebant?",
+      "answer": "Vigiles.",
+      "question_en": "Which soldiers, organized into numbered cohorts, kept the watch over the city of Rome?",
+      "answer_en": "The vigiles (the city watch).",
+      "derivation": "The cohortes vigilum, Rome's night watch and fire brigade, attested scratching their duty-records on the walls of their posts: 'cohors VII vigilum ... sevacia tuta fecit ... omnia tuta' ('all safe'; sevacia = sebaciaria, the monthly torch-duty; cf. n. 238 'Genio escubitori'). The vigiles organized in numbered cohorts are handbook Roman institutional knowledge; the individual soldier is not the subject; supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Inscriptiones parietariae, aliarum regionum n. 1078a",
+      "source_text": "quisquis ammata pueros, sene finem puellas, rationem saccli no refert.",
+      "question": "Cuius rei rationem, ut versus parietarius iocatur, non refert quisquis pueros et sine fine puellas amat?",
+      "answer": "Sacculi.",
+      "question_en": "Of what, as a joking wall verse says, does he who loves boys and girls without end render no account?",
+      "answer_en": "Of his purse.",
+      "derivation": "The quotable graffito epigram 'quisquis amat pueros, sine fine puellas, rationem sacculi non refert' (wall spellings ammata, sene, saccli, no kept verbatim in the source): endless love keeps no account of the purse. Proverb-shaped and translatable; the lover ruined in purse is stock Roman popular wisdom, so the point, not any individual, carries the pair.",
+      "category": "proverbium"
+    }
+  ]
+}
