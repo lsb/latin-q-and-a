@@ -217,6 +217,16 @@ Rules for the `latin-specific` track:
   is cheap, and un-tagging is easy; polluting the translatable set is not.
 - Keep this track **small and deliberate** — it is an experiment (pilot: the
   scansion/caesura questions the meeting floated), not a second firehose.
+- **Sources for the pilot** (the meeting asked for a Latin analogue of
+  Dionysius of Halicarnassus, who wrote in Greek and is out of scope): the
+  corpus's own Latin criticism — **Cicero, *Orator*** (the *numerus* section,
+  the fullest Latin treatment of prose rhythm and clausulae),
+  **Quintilian, *Institutio* IX** (on *compositio*), **Macrobius,
+  *Saturnalia* V–VI** (quotes Vergil beside Homer and Ennius and analyzes the
+  verses — the closest Latin match to Dionysius' method with Sappho), and
+  **Gellius** (chapters on euphony and meter). A dedicated metrical treatise
+  (Terentianus Maurus) is not in the corpus; add it only with recorded
+  provenance if the pilot proves out.
 
 ## Category tags
 
