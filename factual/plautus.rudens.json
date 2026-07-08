@@ -1,0 +1,652 @@
+{"source": "text/plautus/rudens.txt",
+ "author": "Plautus",
+ "work": "Rudens",
+ "pairs": [
+  {
+   "locus": "Plautus, Rudens prol. 3-5",
+   "source_text": "ita sum, ut videtis, splendens stella candida, signum quod semper tempore exoritur suo hic atque in caelo: nomen Arcturo est mihi.",
+   "question": "Quod sidus in Rudente Plauti prologum loquitur?",
+   "answer": "Arcturus.",
+   "question_en": "Which star speaks the prologue in Plautus' Rudens?",
+   "answer_en": "Arcturus.",
+   "derivation": "The famous theatrical curiosity of the Rudens: the prologue-god is a constellation, the star Arcturus, who names himself (nomen Arcturo est mihi). Canonical literature-fact of the fabula palliata; anchored to the named play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 9-12",
+   "source_text": "qui est imperator divom atque hominum Iuppiter, is nos per gentis alium alia disparat, qui facta hominum, mores, pietatem et fidem noscamus, ut quemque adiuvet opulentia.",
+   "question": "Quam ob causam Iuppiter stellas inter gentes hominum disparat, ut Arcturus in prologo Rudentis Plauti narrat?",
+   "answer": "Vt facta hominum, mores, pietatem et fidem noscant.",
+   "question_en": "For what purpose does Jupiter distribute the stars among the nations of men, as Arcturus recounts in the prologue of Plautus' Rudens?",
+   "answer_en": "So that they may learn men's deeds, characters, piety, and good faith.",
+   "derivation": "The moral bookkeeping of heaven: Jupiter stations stars among mortals as observers of human conduct. The celebrated theological conceit of the Rudens prologue; anchored to Jupiter + Arcturus + the play; answer is a brief purpose clause taken directly from the source.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 13-15",
+   "source_text": "Qui falsas litis falsis testimoniis petunt quique in iure abiurant pecuniam, eorum referimus nomina exscripta ad Iovem;",
+   "question": "Ad quem deum Arcturus in Rudente Plauti nomina periurorum exscripta referri dicit?",
+   "answer": "Ad Iovem.",
+   "question_en": "To which god does Arcturus in Plautus' Rudens say the written-out names of perjurers are reported?",
+   "answer_en": "To Jupiter.",
+   "derivation": "The stars keep written lists of litigious perjurers and deliver them to Jupiter — the prologue's heavenly ledger. Anchored to Arcturus + the play; one-name answer verbatim (ad Iovem).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 32-33",
+   "source_text": "primumdum huic esse nomen urbi Diphilus Cyrenas voluit.",
+   "question": "Ex quo poeta Graeco Plautus fabulam Rudentem sumpsit, ut prologus ipse testatur?",
+   "answer": "Ex Diphilo.",
+   "question_en": "From which Greek poet did Plautus take the play Rudens, as the prologue itself attests?",
+   "answer_en": "From Diphilus.",
+   "derivation": "The prologue names Diphilus as the poet who set the play's city at Cyrene — the play's own statement of its Greek original. Canonical literary-history fact; anchored to the named play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 32-33",
+   "source_text": "primumdum huic esse nomen urbi Diphilus Cyrenas voluit. illic habitat Daemones in agro atque villa proxima propter mare,",
+   "question": "Apud quam urbem fabula Plauti quae Rudens inscribitur agitur?",
+   "answer": "Apud Cyrenas.",
+   "question_en": "Near what city is Plautus' play called Rudens set?",
+   "answer_en": "Near Cyrene.",
+   "derivation": "The setting of the Rudens: the shore near Cyrene in North Africa, declared by the prologue. Anchored to the named play; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 33-35",
+   "source_text": "illic habitat Daemones in agro atque villa proxima propter mare, senex, qui huc Athenis exul venit, hau malus;",
+   "question": "Ex qua urbe Daemones senex, qui in Rudente Plauti prope mare Cyrenaeum villam habitat, exul venit?",
+   "answer": "Athenis.",
+   "question_en": "From what city did the old man Daemones, who in Plautus' Rudens lives in a villa by the Cyrenean shore, come as an exile?",
+   "answer_en": "From Athens.",
+   "derivation": "Daemones' backstory: an honest Athenian exile living by the sea at Cyrene, who lost his fortune through generosity. Anchored to the named character + play; one-place answer verbatim (Athenis exul venit).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 42-46",
+   "source_text": "adulescens quidam civis huius Atticus eam vidit ire e ludo fidicinio domum, amare occepit: ad lenonem devenit, minis triginta sibi puellam destinat datque arrabonem et iure iurando alligat.",
+   "question": "Quot minis Plesidippus adulescens Palaestram puellam a lenone in Rudente Plauti sibi destinavit?",
+   "answer": "Triginta minis.",
+   "question_en": "For how many minae did the young man Plesidippus contract to buy the girl Palaestra from the pimp in Plautus' Rudens?",
+   "answer_en": "For thirty minae.",
+   "derivation": "The purchase price at the root of the plot: thirty minae, agreed with earnest money and an oath. A clean number fact; anchored to the named characters + play; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 45-46",
+   "source_text": "minis triginta sibi puellam destinat datque arrabonem et iure iurando alligat.",
+   "question": "Quo pignore Plesidippus emptionem Palaestrae apud lenonem Labracem in Rudente Plauti firmavit?",
+   "answer": "Arrabone dato.",
+   "question_en": "With what pledge did Plesidippus secure his purchase of Palaestra from the pimp Labrax in Plautus' Rudens?",
+   "answer_en": "By giving an earnest-money deposit (arrabo).",
+   "derivation": "The arrabo — the earnest money binding a sale, a standard institution of ancient commercial practice — plus an oath. Cultural-legal realia of buying and selling; anchored to the named characters; one-phrase answer verbatim (datque arrabonem).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 49-50",
+   "source_text": "ei erat hospes par sui, Siculus senex scelestus, Agrigentinus, urbis proditor;",
+   "question": "Ex qua urbe Sicula Charmides, hospes Labracis lenonis in Rudente Plauti, oriundus erat?",
+   "answer": "Agrigento.",
+   "question_en": "From what Sicilian city did Charmides, the guest-friend of the pimp Labrax in Plautus' Rudens, come?",
+   "answer_en": "From Agrigentum.",
+   "derivation": "The leno's rascally guest is a Sicilian of Agrigentum, 'betrayer of his city.' Anchored to the named characters + play; one-place answer verbatim (Agrigentinus).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 53-55",
+   "source_text": "infit lenoni suadere, ut secum simul eat in Siciliam: ibi esse homines voluptarios dicit, potesse ibi eum fieri divitem.",
+   "question": "Quo Charmides Labraci lenoni in Rudente Plauti persuasit ut meretrices navi aveheret?",
+   "answer": "In Siciliam.",
+   "question_en": "To where did Charmides persuade the pimp Labrax in Plautus' Rudens to carry off his courtesans by ship?",
+   "answer_en": "To Sicily.",
+   "derivation": "The voyage that causes the shipwreck: Charmides talks Labrax into sailing for Sicily, where men are pleasure-loving and a pimp can grow rich. Anchored to the named characters; one-place answer verbatim.",
+   "category": "geographia"
+  }
+,
+  {
+   "locus": "Plautus, Rudens prol. 67-69",
+   "source_text": "Ego quoniam video virginem asportarier, tetuli ei auxilium et lenoni exitium simul: increpui hibernum et fluctus movi maritimos.",
+   "question": "Quod sidus in Rudente Plauti tempestatem movisse qua navis Labracis lenonis fracta est narrat?",
+   "answer": "Arcturus.",
+   "question_en": "Which star in Plautus' Rudens recounts that it raised the storm by which the pimp Labrax's ship was wrecked?",
+   "answer_en": "Arcturus.",
+   "derivation": "The divine machinery of the plot: Arcturus himself raised the winter storm to save the girl and destroy the pimp. Canonical fact of the play's design; anchored to the named star, pimp, and play; one-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Rudens prol. 70-71",
+   "source_text": "nam Arcturus signum sum omnium acerrimum: vehemens sum exoriens, cum occido vehementior.",
+   "question": "Vtrum oriens an occidens Arcturus sidus vehementius esse apud Plautum in Rudente dicitur?",
+   "answer": "Occidens.",
+   "question_en": "Is the star Arcturus said in Plautus' Rudens to be more violent at its rising or at its setting?",
+   "answer_en": "At its setting.",
+   "derivation": "Ancient weather-lore: Arcturus was the proverbial storm-star (cf. Vergil's and Pliny's stormy Arcturus), and the prologue states the doctrine — fierce rising, fiercer setting. Shared star-calendar knowledge; anchored to Arcturus; one-word comparative answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 83-87",
+   "source_text": "detexit ventus villam — quid verbis opust? non ventus fuit, verum Alcumena Euripidi, ita omnis de tecto deturbavit tegulas;",
+   "question": "Cuius poetae tragoediam fuisse ventum qui villam Daemonis detexit Sceparnio servus in Rudente Plauti iocatur?",
+   "answer": "Euripidis Alcumenam.",
+   "question_en": "Which poet's tragedy does the slave Sceparnio in Plautus' Rudens joke the wind that unroofed Daemones' villa really was?",
+   "answer_en": "Euripides' Alcumena.",
+   "derivation": "A celebrated literary allusion (and a testimonium for Euripides' lost Alcmene, evidently famous for its storm scene): the gale 'was no wind but Euripides' Alcumena.' Anchored to Sceparnio + the play; short two-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 145-146",
+   "source_text": "Cererem te meliust quam Venerem sectarier: amori haec curat; tritico curat Ceres.",
+   "question": "Cui rei Ceres dea curat, ut Sceparnio in Rudente Plauti ait, cum Venus amori curet?",
+   "answer": "Tritico.",
+   "question_en": "What does the goddess Ceres look after, as Sceparnio says in Plautus' Rudens, while Venus looks after love?",
+   "answer_en": "Wheat.",
+   "derivation": "The canonical division of divine provinces — Venus over love, Ceres over grain — stated as folk wisdom (the same pairing behind 'sine Cerere et Libero friget Venus'). Shared religious knowledge; anchored to the two named goddesses; one-word answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Rudens 160-161",
+   "source_text": "sed, o Palaemon, sancte Neptuni comes, qui Herculis socius esse diceris,",
+   "question": "Cuius dei sanctus comes Palaemon apud Plautum in Rudente invocatur?",
+   "answer": "Neptuni.",
+   "question_en": "Of which god is Palaemon invoked as holy companion in Plautus' Rudens?",
+   "answer_en": "Of Neptune.",
+   "derivation": "Mythological attribute: Palaemon (the deified Melicertes) as sea-god in Neptune's train, invoked by Sceparnio watching the shipwrecked women. Shared myth knowledge; anchored to Palaemon + the play; one-name answer verbatim.",
+   "category": "mythos"
+  }
+,
+  {
+   "locus": "Plautus, Rudens 283-285",
+   "source_text": "AMP. Veneris fanum, obsecro, hoc est? PTOL. Fateor. ego huius fani sacerdos clueo.",
+   "question": "Quo nomine sacerdos Veneris appellatur quae in Rudente Plauti Palaestram et Ampeliscam naufragas hospitio recipit?",
+   "answer": "Ptolemocratia.",
+   "question_en": "What is the name of the priestess of Venus who in Plautus' Rudens takes in the shipwrecked Palaestra and Ampelisca?",
+   "answer_en": "Ptolemocratia.",
+   "derivation": "The kindly priestess of the Venus shrine at Cyrene, named in the scene heading and addressed by name at v. 481 (heus exi, Ptolemocratia); she shelters the castaways. Canonical character of the play; anchored to Venus' shrine + the two girls; one-name answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 269-271",
+   "source_text": "Ergo aequius vos erat candidatas venire hostiatasque. ad hoc fanum ad istunc modum non veniri solet.",
+   "question": "Quo cultu supplices ad fanum Veneris venire solere Ptolemocratia sacerdos in Rudente Plauti docet?",
+   "answer": "Candidatas hostiatasque.",
+   "question_en": "In what guise does the priestess Ptolemocratia in Plautus' Rudens teach that suppliants customarily come to the shrine of Venus?",
+   "answer_en": "Dressed in white and bringing sacrificial victims.",
+   "derivation": "Cult realia: the proper approach to a temple is in white garments and with victims for sacrifice — the priestess states the norm while excusing the castaways. Shared religious custom; anchored to the named priestess and shrine; two-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 293-294",
+   "source_text": "nos iam de ornatu propemodum ut locupletes simus scitis: hisce hami atque haec harundines sunt nobis quaestu et cultu.",
+   "question": "Quibus instrumentis piscatores pauperes in Rudente Plauti quaestum et cultum sibi esse canunt?",
+   "answer": "Hamis atque harundinibus.",
+   "question_en": "With what implements do the poor fishermen in Plautus' Rudens sing that they get their living and keep?",
+   "answer_en": "With hooks and rods.",
+   "derivation": "The fishermen's chorus on the hard sea-livelihood of the poor: hook and rod are their whole trade and sustenance; if nothing is caught they go home to bed unsupped. Mores of working poverty; anchored to the fishermen of the named play; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 334-335",
+   "source_text": "Estne hic Trachalio, quem conspicor, calator Plesidippi?",
+   "question": "Cuius adulescentis servus erat Trachalio in Rudente Plauti?",
+   "answer": "Plesidippi.",
+   "question_en": "Whose young master did the slave Trachalio serve in Plautus' Rudens?",
+   "answer_en": "Plesidippus'.",
+   "derivation": "The master-slave pairing of the play: Trachalio is Plesidippus' attendant (calator), later the engine of the rescue and the arbitration. Anchored to both named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 372-373",
+   "source_text": "Novi, Neptunus ita solet, quamvis fastidiosus aedilis est: si quae improbae sunt merces, iactat omnis.",
+   "question": "Cui magistratui Neptunum similem esse Trachalio in Rudente Plauti iocatur, quod merces improbas omnes iactet?",
+   "answer": "Aedili fastidioso.",
+   "question_en": "To which magistrate does Trachalio in Plautus' Rudens jokingly compare Neptune, because he throws out all defective merchandise?",
+   "answer_en": "To a fussy aedile.",
+   "derivation": "The joke presumes the aedile's real duty of inspecting market wares and condemning the bad — institutional realia carried by every Roman playgoer. Anchored to Neptune + Trachalio + the play; one-word office answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Rudens 388-393",
+   "source_text": "quia leno ademit cistulam ei, quam habebat ubique habebat qui suos parentis noscere posset: eam veretur ne perierit. TRACH. Vbinam ea fuit cistellula? AMP. Ibidem in navi. conclusit ipse in vidulum, ne copia esset eius, qui suos parentes nosceret.",
+   "question": "Qua in re condita erant ea quibus Palaestra in Rudente Plauti parentes suos noscere posset?",
+   "answer": "In cistula.",
+   "question_en": "In what container were the things kept by which Palaestra in Plautus' Rudens could recognize her parents?",
+   "answer_en": "In a little casket (cistula).",
+   "derivation": "The recognition-token casket that drives the plot: Palaestra's cistula holds the proofs of her parentage, and the leno locked it in his trunk (vidulus) on the ship. The exposure-and-recognition apparatus is core cultural knowledge of New Comedy; anchored to Palaestra + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 382-385",
+   "source_text": "etiam qui it lavatum in balineas, cum ibi sedulo sua vestimenta servat, tamen surripiuntur, quippe qui quem illorum observet falsust; fur facile qui observat videt: custos qui fur sit nescit.",
+   "question": "Quid hominibus qui lavatum eunt in balineis surripi solere Trachalio in Rudente Plauti commemorat?",
+   "answer": "Vestimenta.",
+   "question_en": "What does Trachalio in Plautus' Rudens remark is habitually stolen from men who go to bathe at the baths?",
+   "answer_en": "Their clothes.",
+   "derivation": "Clothes-theft at the public baths — the notorious fur balnearius of ancient daily life (a standing theme from comedy to the jurists). Mores realia; anchored to Trachalio + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 402",
+   "source_text": "Ergo animus aequos optimum est aerumnae condimentum.",
+   "question": "Quid optimum aerumnae condimentum esse apud Plautum in Rudente dicitur?",
+   "answer": "Animus aequos.",
+   "question_en": "What is said in Plautus' Rudens to be the best seasoning for hardship?",
+   "answer_en": "A calm mind.",
+   "derivation": "A proverb verbatim: equanimity is the best condiment of trouble — one of the Rudens' quotable sententiae. Checkable point (what is the condimentum?); anchored to the play; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Rudens 473-478",
+   "source_text": "sacram urnam Veneris? mi exhibeat negotium. metuo hercle ne illa mulier mi insidias locet, ut comprehendar cum sacra urna Veneria. nempe optimo me iure in vinclis enicet magistratus si quis me hanc habere viderit. nam haec litteratast, eapse cantat cuia sit.",
+   "question": "Quo indicio urna sacra Veneris in Rudente Plauti ipsa cuia esset cantabat?",
+   "answer": "Litteris inscriptis.",
+   "question_en": "By what token did the sacred urn of Venus in Plautus' Rudens itself proclaim whose it was?",
+   "answer_en": "By the letters inscribed on it.",
+   "derivation": "Realia of temple property: sacred vessels were inscribed with the owner-deity's name (haec litteratast, eapse cantat cuia sit), so possession of one incriminated the holder before a magistrate. Anchored to Venus' urn + the play; short answer supported verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 508-509",
+   "source_text": "Scelestiorem cenam cenavi tuam, quam quae Thyestae quondam aut posita est Tereo.",
+   "question": "Quibus duobus fabularum heroibus cenae scelestae adpositae esse in Rudente Plauti memorantur?",
+   "answer": "Thyestae et Tereo.",
+   "question_en": "For which two heroes of legend are accursed dinners recalled as having been served in Plautus' Rudens?",
+   "answer_en": "For Thyestes and Tereus.",
+   "derivation": "Myth as shared story: the cannibal feasts of Thyestes (served his sons by Atreus) and Tereus (served Itys by Procne) are the paradigm of the scelesta cena, casually cited by Charmides. Anchored to the two named figures; two-name answer verbatim.",
+   "category": "mythos"
+  }
+,
+  {
+   "locus": "Plautus, Rudens 598-604",
+   "source_text": "ad hirundininum nidum visa est simia ascensionem ut faceret admolirier neque eas eripere quibat inde. postibi videtur ad me simia adgredirier, rogare scalas ut darem utendas sibi.",
+   "question": "Quod animal in somnio Daemonis in Rudente Plauti hirundines e nido eripere conabatur?",
+   "answer": "Simia.",
+   "question_en": "What animal in Daemones' dream in Plautus' Rudens was trying to snatch the swallows from their nest?",
+   "answer_en": "A monkey.",
+   "derivation": "The prophetic dream of the play: a monkey assaults a swallows' nest and asks Daemones for a ladder — later decoded by Daemones himself as the leno attacking the girls (haec illast simia, 771-773). A celebrated set piece of the Rudens; anchored to Daemones + the play; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 603-605",
+   "source_text": "ego ad hoc exemplum simiae respondeo, natas ex Philomela atque ex Progne esse hirundines. ago cum illa, ne quid noceat meis popularibus.",
+   "question": "Ex quibus duabus sororibus natas esse hirundines Daemones in Rudente Plauti simiae respondet?",
+   "answer": "Ex Philomela atque Progne.",
+   "question_en": "From which two sisters does Daemones in Plautus' Rudens reply to the monkey that swallows are descended?",
+   "answer_en": "From Philomela and Procne.",
+   "derivation": "Myth as shared story: the Athenian sisters Philomela and Procne, transformed into birds, are the ancestresses of the swallows — which is why Daemones the Athenian calls the swallows his 'countrywomen' (popularibus). Anchored to the named heroines; two-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Rudens 629-631",
+   "source_text": "Teque oro et quaeso, si speras tibi hoc anno multum futurum sirpe et laserpicium eamque eventuram exagogam Capuam salvam et sospitem,",
+   "question": "Quae merx nobilissima in agro Cyrenensi provenire ex Rudente Plauti apparet, ubi Trachalio Daemoni multam eam hoc anno futuram optat?",
+   "answer": "Sirpe et laserpicium.",
+   "question_en": "What most famous product is shown by Plautus' Rudens to grow in the territory of Cyrene, where Trachalio wishes Daemones a plentiful crop of it this year?",
+   "answer_en": "Silphium and its juice, laserpicium.",
+   "derivation": "Cyrene's legendary export: silphium (sirpe) and laserpicium, here with an export run to Capua (exagogam Capuam). The identification of Cyrene with silphium was ambient Mediterranean knowledge (it stamped Cyrene's coins). Anchored to Cyrene + the named characters; short answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Rudens 688-695",
+   "source_text": "TRACH. Ne, inquam, timete; adsidite hic in ara. ... PAL. Tibi auscultamus et, Venus alma, ambae te obsecramus, aram amplexantes hanc tuam lacrumantes, genibus nixae, in custodelam nos tuam ut recipias et tutere;",
+   "question": "Quo Palaestra et Ampelisca in Rudente Plauti, vim lenonis Labracis fugientes, supplices confugerunt?",
+   "answer": "In aram Veneris.",
+   "question_en": "Where did Palaestra and Ampelisca in Plautus' Rudens flee as suppliants, escaping the violence of the pimp Labrax?",
+   "answer_en": "To the altar of Venus.",
+   "derivation": "The great asylum scene: the girls sit on Venus' altar and embrace it as suppliants, and the altar's protection is treated as inviolable (aram habete hanc vobis pro castris). Altar-asylum is core religious realia; anchored to the named girls, pimp, and goddess; one-phrase answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 704",
+   "source_text": "te ex concha natam esse autumant, cave tu harum conchas spernas.",
+   "question": "Ex qua re Venerem natam esse homines autumant, ut Trachalio in Rudente Plauti deam ipsam admonet?",
+   "answer": "Ex concha.",
+   "question_en": "From what do people assert that Venus was born, as Trachalio in Plautus' Rudens reminds the goddess herself?",
+   "answer_en": "From a shell.",
+   "derivation": "Canonical myth: Venus born from the sea in a shell — Trachalio puns that she should therefore not spurn these girls' 'shells.' Shared iconographic knowledge (the Anadyomene type); anchored to Venus + the play; two-word answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Rudens 738-739",
+   "source_text": "Atque eras tuas quidem hercle, atque ex germana Graecia; nam altera haec est nata Athenis ingenuis parentibus.",
+   "question": "In qua urbe Palaestra, quam Labrax leno in Rudente Plauti ancillam suam vindicabat, ingenuis parentibus nata erat?",
+   "answer": "Athenis.",
+   "question_en": "In what city was Palaestra, whom the pimp Labrax in Plautus' Rudens claimed as his slave-girl, born of freeborn parents?",
+   "answer_en": "At Athens.",
+   "derivation": "The crux of the recognition plot: Palaestra is freeborn and Athenian — which makes her Daemones' fellow-citizen and, it emerges, his daughter. Anchored to the named girl and pimp; one-place answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 742-744",
+   "source_text": "O filia mea, quom hanc video, mearum me absens miseriarum commones; trima quae periit mihi, iam tanta esset, si vivit, scio.",
+   "question": "Quot annos nata erat filiola Daemonis cum ei periit, ut ipse in Rudente Plauti memorat?",
+   "answer": "Tres annos nata (trima).",
+   "question_en": "How old was Daemones' little daughter when he lost her, as he himself recalls in Plautus' Rudens?",
+   "answer_en": "Three years old.",
+   "derivation": "A clean number fact of the recognition plot: the daughter was lost as a three-year-old (trima), stolen and sold to the pimp. Anchored to Daemones + the play; one-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 761",
+   "source_text": "DAEM. Quid facies? LABR. Volcanum adducam, is Venerist adversarius.",
+   "question": "Quem deum Labrax leno in Rudente Plauti Veneri adversarium esse dicit, cum ignem petiturus minatur?",
+   "answer": "Volcanum.",
+   "question_en": "Which god does the pimp Labrax in Plautus' Rudens call Venus' adversary, when he threatens to fetch fire?",
+   "answer_en": "Vulcan.",
+   "derivation": "Mythological pairing played for a joke: Vulcan (fire, and Venus' ill-matched husband) as the adversary of Venus — Labrax will burn the suppliants off her altar. Shared myth knowledge; anchored to the named god, goddess, and pimp; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Rudens 821-823",
+   "source_text": "Heu hercle, ne istic fana mutantur cito: iam hoc Herculi est, Veneris fanum quod fuit, ita duo destituit signa hic cum clavis senex.",
+   "question": "Cuius dei factum esse fanum Veneris Labrax in Rudente Plauti iocatur, postquam Daemones duos servos cum clavis ibi statuit?",
+   "answer": "Herculis.",
+   "question_en": "Whose god's shrine does Labrax in Plautus' Rudens joke the shrine of Venus has become, after Daemones posts two slaves with clubs there?",
+   "answer_en": "Hercules'.",
+   "derivation": "The joke turns on Hercules' canonical attribute, the club (clava): two club-bearing 'statues' convert Venus' shrine into Hercules'. Shared iconography; anchored to the named gods and characters; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Rudens 764",
+   "source_text": "LORARIVS Nullum habemus ignem, ficis victitamus aridis.",
+   "question": "Quo cibo se victitare, cum ignem nullum haberent, servus Daemonis in Rudente Plauti respondet?",
+   "answer": "Ficis aridis.",
+   "question_en": "On what food does Daemones' slave in Plautus' Rudens reply that they live, since they have no fire?",
+   "answer_en": "On dried figs.",
+   "derivation": "Food realia of the poor rustic household: dried figs, eaten without cooking — the slave's deadpan excuse for having no fire to lend. Anchored to Daemones' household + the play; two-word answer verbatim.",
+   "category": "cibus"
+  }
+,
+  {
+   "locus": "Plautus, Rudens 588-589",
+   "source_text": "quasi vinis Graecis Neptunus nobis suffudit mare, itaque alvom prodi speravit nobis salsis poculis;",
+   "question": "Quibus vinis Charmides naufragus in Rudente Plauti mare a Neptuno sibi infusum comparat?",
+   "answer": "Vinis Graecis.",
+   "question_en": "To what wines does the shipwrecked Charmides in Plautus' Rudens compare the sea Neptune poured into him?",
+   "answer_en": "To Greek wines.",
+   "derivation": "The joke rests on real oenological practice: Greek wines were treated with seawater (salted), so a bellyful of brine is 'Greek wine' from Neptune's cellar. Food-and-drink realia every Roman drinker knew; anchored to Charmides + Neptune; two-word answer verbatim.",
+   "category": "cibus"
+  }
+,
+  {
+   "locus": "Plautus, Rudens 969-970",
+   "source_text": "Dominus huic, ne frustra sis, nisi ego nemo natust, hunc qui cepi in venatu meo.",
+   "question": "Quis piscator in Rudente Plauti vidulum lenonis Labracis e mari extraxit?",
+   "answer": "Gripus.",
+   "question_en": "Which fisherman in Plautus' Rudens hauled the pimp Labrax's trunk out of the sea?",
+   "answer_en": "Gripus.",
+   "derivation": "The pivotal catch of the play: Gripus, Daemones' slave-fisherman, nets the vidulus containing the recognition tokens and claims it as his 'hunt.' Canonical plot fact; anchored to the named fisherman, pimp, and play; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 938",
+   "source_text": "Heus, mane. GRIP. Quid maneam? TRACH. Dum hanc tibi, quam trahis, rudentem complico.",
+   "question": "Qua re retenta Trachalio Gripum piscatorem vidulum trahentem moratur, unde comoediae Plautinae nomen Rudens inditum est?",
+   "answer": "Rudente, id est fune.",
+   "question_en": "By holding onto what does Trachalio delay the fisherman Gripus as he drags the trunk — the thing from which the Plautine comedy takes its name Rudens?",
+   "answer_en": "The rope (rudens).",
+   "derivation": "The title-fact: the rudens is the rope of Gripus' net, which Trachalio seizes (and later: mitte rudentem, sceleste, 1015), turning the tug-of-war over the trunk into the play's name. Literary-history fact of the named play; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 906-907",
+   "source_text": "Neptuno has ago gratias meo patrono, qui salsis locis incolit pisculentis,",
+   "question": "Quem deum Gripus piscator in Rudente Plauti patronum suum vocat?",
+   "answer": "Neptunum.",
+   "question_en": "Which god does the fisherman Gripus in Plautus' Rudens call his patron?",
+   "answer_en": "Neptune.",
+   "derivation": "Religious realia of the trade: the fisherman thanks Neptune, dweller of the fishy salt places, as his patronus — the sea-god as patron of fishermen. Anchored to Gripus + the play; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 934-935",
+   "source_text": "oppidum magnum communibo, ei ego urbi Gripo indam nomen, monimentum meae famae et factis, ibi qui regnum magnum instituam.",
+   "question": "Quod nomen urbi quam se conditurum somniat Gripus piscator in Rudente Plauti se inditurum ait?",
+   "answer": "Gripo, de suo ipsius nomine.",
+   "question_en": "What name does the fisherman Gripus in Plautus' Rudens say he will give the city he dreams of founding?",
+   "answer_en": "Gripus, after his own name.",
+   "derivation": "The slave's daydream of wealth ends in eponymous city-founding — 'I will name the city Gripus, a monument to my fame.' A parody of the royal founder-eponym custom; anchored to the named character; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 932-933",
+   "source_text": "post animi causa mihi navem faciam atque imitabor Stratonicum, oppida circumvectabor.",
+   "question": "Quem virum clarum se imitaturum Gripus in Rudente Plauti dicit, cum navi animi causa oppida circumvectabitur?",
+   "answer": "Stratonicum.",
+   "question_en": "What famous man does Gripus in Plautus' Rudens say he will imitate, sailing around from town to town for pleasure?",
+   "answer_en": "Stratonicus.",
+   "derivation": "A cultural name-drop: Stratonicus, the celebrated Greek citharode famous for touring the cities, is the daydreaming slave's model of the rich travelling celebrity. Anchored to the named figure + character; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 937",
+   "source_text": "sed hic rex cum aceto pransurust et sale, sine bono pulmento.",
+   "question": "Quo prandio Gripus, qui se regem futurum modo somniaverat, in Rudente Plauti contentum se fore ait?",
+   "answer": "Aceto et sale.",
+   "question_en": "On what lunch does Gripus, who had just been dreaming of becoming a king, say in Plautus' Rudens he will have to make do?",
+   "answer_en": "On vinegar and salt.",
+   "derivation": "Food realia of poverty: the poor man's meal is vinegar and salt with no proper relish (pulmentum) — the comic deflation of Gripus' royal daydream. Anchored to the named character; two-word answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Rudens 975",
+   "source_text": "mare quidem commune certost omnibus.",
+   "question": "Quid omnibus commune esse Gripus piscator apud Plautum in Rudente pronuntiat?",
+   "answer": "Mare.",
+   "question_en": "What does the fisherman Gripus declare in Plautus' Rudens to be common to all?",
+   "answer_en": "The sea.",
+   "derivation": "The famous maxim of the arbitration scene — 'the sea is certainly common to all' — a proverbial statement of the sea's common status (later a tag of natural-law doctrine). Verbatim proverb with a checkable point; anchored to Gripus + the play; one-word answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Rudens 984-985",
+   "source_text": "In manu non est mea: ubi demisi rete atque hamum, quidquid haesit extraho. meum quod rete atque hami nancti sunt, meum potissimumst.",
+   "question": "Quo iure Gripus piscator in Rudente Plauti vidulum e mari extractum suum esse contendit?",
+   "answer": "Quod rete atque hami sui nancti sunt, id suum potissimum esse.",
+   "question_en": "By what right does the fisherman Gripus in Plautus' Rudens maintain that the trunk pulled from the sea is his?",
+   "answer_en": "That whatever his net and hooks have caught is emphatically his.",
+   "derivation": "The fisherman's salvage principle stated as a rule: what my net and hook take is mine — the maritime-law flavor of the great arbitration over the trunk (against Trachalio's retort that a trunk is no fish). Anchored to Gripus + the vidulus; short answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Rudens 1017-1018",
+   "source_text": "Non probare pernegando mihi potes, nisi pars datur aut ad arbitrum reditur aut sequestro ponitur.",
+   "question": "Quas duas vias litis de vidulo componendae Trachalio Gripo in Rudente Plauti proponit, nisi pars praedae detur?",
+   "answer": "Vt ad arbitrum eatur aut res sequestro ponatur.",
+   "question_en": "What two ways of settling the dispute over the trunk does Trachalio propose to Gripus in Plautus' Rudens, unless a share of the haul is given?",
+   "answer_en": "To go before an arbiter, or to deposit the thing with a sequester (neutral stakeholder).",
+   "derivation": "Legal-procedure realia: a disputed chattel goes to an arbiter or into sequestration (sequestro ponitur) — the everyday institutions of private dispute-settlement, staged in the tug-of-war. Anchored to the named characters + the vidulus; short two-item answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Rudens 1114",
+   "source_text": "Eo tacent, quia tacitast melior mulier semper quam loquens.",
+   "question": "Vtra mulier melior semper esse apud Plautum in Rudente dicitur, tacita an loquens?",
+   "answer": "Tacita.",
+   "question_en": "Which woman is said in Plautus' Rudens always to be better — the silent one or the talking one?",
+   "answer_en": "The silent one.",
+   "derivation": "A proverb verbatim from the arbitration scene: a silent woman is always better than a speaking one — quotable comic misogyny with a single checkable point. Anchored to the play; one-word answer.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Rudens 1362-1363",
+   "source_text": "una istinc cistella excepta est modo cum crepundiis, quibuscum hodie filiam inveni meam.",
+   "question": "Quibus signis Daemones in Rudente Plauti Palaestram filiam suam esse cognovit?",
+   "answer": "Crepundiis, quae in cistella erant.",
+   "question_en": "By what tokens did Daemones in Plautus' Rudens recognize Palaestra as his daughter?",
+   "answer_en": "By the childhood tokens (crepundia) that were in the little casket.",
+   "derivation": "The recognition fact of the play, in Daemones' own words: the cistella with the crepundia is how he found his daughter. The crepundia — the tokens exposed or lost children carried — are the standard recognition apparatus of New Comedy; anchored to the named father and daughter; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 1156-1160",
+   "source_text": "PAL. Ensiculust aureolus primum litteratus. DAEM. Dice dum, in eo ensiculo litterarum quid est? PAL. Mei nomen patris. ... dic, in ensiculo quid nomen est paternum? PAL. Daemones.",
+   "question": "Quod nomen in ensiculo aureolo, primo inter crepundia Palaestrae, inscriptum erat?",
+   "answer": "Daemones, nomen patris.",
+   "question_en": "What name was inscribed on the little golden sword, first among Palaestra's childhood tokens?",
+   "answer_en": "Daemones, her father's name.",
+   "derivation": "The first named crepundium: a lettered gold toy sword bearing the father's name Daemones — the very word that triggers the recognition. Anchored to Palaestra + the tokens; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 1158-1164",
+   "source_text": "post altrinsecust securicula ancipes, itidem aurea litterata: ibi matris nomen in securiculast. ... DAEM. Loquere matris nomen hic quid in securicula siet. PAL. Daedalis.",
+   "question": "Quod nomen matris in securicula aurea inter crepundia Palaestrae in Rudente Plauti inscriptum erat?",
+   "answer": "Daedalis.",
+   "question_en": "What mother's name was inscribed on the little golden axe among Palaestra's tokens in Plautus' Rudens?",
+   "answer_en": "Daedalis.",
+   "derivation": "The second named crepundium: a two-edged gold toy axe lettered with the mother's name Daedalis — thereby also fixing the name of Daemones' wife. Anchored to the named tokens and family; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 1169-1171",
+   "source_text": "PAL. Post sicilicula argenteola et duae conexae maniculae et sucula.",
+   "question": "Ex quo metallo sicilicula inter crepundia Palaestrae in Rudente Plauti facta erat?",
+   "answer": "Ex argento.",
+   "question_en": "Of what metal was the little sickle among Palaestra's tokens in Plautus' Rudens made?",
+   "answer_en": "Of silver.",
+   "derivation": "The token inventory continues: a little silver sickle (sicilicula argenteola), two linked little hands, and a little windlass. The named crepundia are the play's celebrated recognition props; anchored to Palaestra + the tokens; one-word answer verbatim (argenteola).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 1171-1172",
+   "source_text": "Et bulla aurea est, pater quam dedit mi natali die.",
+   "question": "Quod ornamentum aureum pater Palaestrae natali die ei dedisse in Rudente Plauti inter crepundia memoratur?",
+   "answer": "Bullam auream.",
+   "question_en": "What golden ornament is recorded among the tokens in Plautus' Rudens as given to Palaestra by her father on her birthday?",
+   "answer_en": "A golden bulla.",
+   "derivation": "The last crepundium: the golden bulla, the amulet of the freeborn child, given by the father at birth — core Roman childhood realia, and proof of Palaestra's free birth. Anchored to Palaestra + her father; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 1206-1208",
+   "source_text": "atque adorna, ut rem divinam faciam, cum intro advenero, Laribus familiaribus, cum auxerunt nostram familiam. sunt domi agni et porci sacres.",
+   "question": "Quibus dis Daemones in Rudente Plauti rem divinam facere paravit, quod familiam eius auxissent?",
+   "answer": "Laribus familiaribus.",
+   "question_en": "To which gods did Daemones in Plautus' Rudens prepare to sacrifice, because they had increased his household?",
+   "answer_en": "To the household Lares.",
+   "derivation": "Domestic religion: the recovered daughter is an increase of the familia, owed to the Lares familiares, who receive a thanksgiving sacrifice. Core Roman household cult; anchored to Daemones + the occasion; two-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 1208",
+   "source_text": "sunt domi agni et porci sacres.",
+   "question": "Quas victimas domi se habere Daemones in Rudente Plauti dicit, cum Laribus familiaribus sacrificare vellet?",
+   "answer": "Agnos et porcos sacres.",
+   "question_en": "What sacrificial victims does Daemones in Plautus' Rudens say he has at home, when he wishes to sacrifice to the household Lares?",
+   "answer_en": "Lambs and consecrated pigs.",
+   "derivation": "Sacrificial realia: lambs and porci sacres (pigs set apart for sacrifice) kept ready on the farm — the pig being the classic victim of household cult. Anchored to Daemones + the Lares; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 1197-1198",
+   "source_text": "et eam de genere summo adulescenti dabo ingenuo, Atheniensi et cognato meo.",
+   "question": "Cui adulescenti Daemones in Rudente Plauti filiam Palaestram repertam uxorem se daturum dixit?",
+   "answer": "Plesidippo, cognato suo.",
+   "question_en": "To which young man did Daemones in Plautus' Rudens say he would give his recovered daughter Palaestra as wife?",
+   "answer_en": "To Plesidippus, his kinsman.",
+   "derivation": "The betrothal ending: the daughter goes to the young Athenian lover Plesidippus, who — the recognition's bonus — turns out to be Daemones' own kinsman (cognato meo). Anchored to the named characters; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 1220",
+   "source_text": "TRACH. Atque ut mi Ampelisca nubat, ubi ego sim liber. DAEM. Licet.",
+   "question": "Quam mulierem Trachalio servus in Rudente Plauti, ubi liber esset, uxorem petivit?",
+   "answer": "Ampeliscam.",
+   "question_en": "What woman did the slave Trachalio in Plautus' Rudens ask to marry once he should be free?",
+   "answer_en": "Ampelisca.",
+   "derivation": "The secondary match of the finale: Trachalio bargains his reward — manumission and marriage to Ampelisca — in the famous 'licet' exchange. Anchored to both named characters; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 1281-1282",
+   "source_text": "Quis me est mortalis miserior qui vivat alter hodie, quem ad recuperatores modo damnavit Plesidippus?",
+   "question": "Apud quos iudices Plesidippus Labracem lenonem in Rudente Plauti damnavit?",
+   "answer": "Apud recuperatores.",
+   "question_en": "Before which panel of judges did Plesidippus get the pimp Labrax condemned in Plautus' Rudens?",
+   "answer_en": "Before the recuperatores.",
+   "derivation": "Legal realia: the leno is condemned before recuperatores, the Roman board of judges for swift restitution suits — a distinctly Roman institution planted in the Greek setting. Anchored to the named litigants; one-word answer verbatim.",
+   "category": "ius"
+  }
+,
+  {
+   "locus": "Plautus, Rudens 1313-1314",
+   "source_text": "Nummi octingenti aurei in marsuppio infuerunt, praeterea centum minaria Philippa in pasceolo sorsus.",
+   "question": "Quot nummos aureos in marsuppio suo, qui in vidulo erat, fuisse Labrax leno in Rudente Plauti recenset?",
+   "answer": "Octingentos.",
+   "question_en": "How many gold coins does the pimp Labrax in Plautus' Rudens reckon were in his purse inside the trunk?",
+   "answer_en": "Eight hundred.",
+   "derivation": "The itemized treasure of the vidulus: 800 gold coins in the purse, plus a hundred Philippics in a separate pouch — the 'signa' by which Labrax proves the trunk is his. Clean number fact; anchored to Labrax + the vidulus; one-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 1338-1344",
+   "source_text": "GRIP. Venus Cyrenensis, testem te testor mihi, si vidulum illum, quem ego in navi perdidi, cum auro atque argento salvom investigavero isque in potestatem meam pervenerit, tum ego huic Gripo, inquito, et me tangito— LABR. Tum ego huic Gripo— dico, Venus, ut tu audias— talentum argenti magnum continuo dabo.",
+   "question": "Quantum argenti Labrax leno, aram Veneris tangens, Gripo se daturum in Rudente Plauti iuravit, si vidulum recepisset?",
+   "answer": "Talentum magnum.",
+   "question_en": "How much silver did the pimp Labrax, touching the altar of Venus, swear in Plautus' Rudens to give Gripus if he got his trunk back?",
+   "answer_en": "A great talent.",
+   "derivation": "The oath scene: Gripus dictates and Labrax swears by Venus Cyrenensis, hand on her altar, to pay a talentum magnum for the trunk's recovery. Oath-at-altar realia plus a clean sum; anchored to the named characters and goddess; two-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Rudens 1374",
+   "source_text": "ius iurandum rei servandae, non perdendae conditum est.",
+   "question": "Cui rei ius iurandum conditum esse Labrax leno periurus apud Plautum in Rudente pronuntiat?",
+   "answer": "Rei servandae, non perdendae.",
+   "question_en": "For what purpose does the perjured pimp Labrax in Plautus' Rudens declare that the oath was invented?",
+   "answer_en": "For keeping one's property, not losing it.",
+   "derivation": "The pimp's cynical maxim verbatim — oaths exist to save your goods, not to lose them — the quotable creed of the periurus leno. Proverb with a checkable point; anchored to Labrax + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Rudens 1380-1382",
+   "source_text": "Cedo quicum habeam iudicem, ni dolo malo instipulatus sis nive etiamdum haud siem quinque et viginti annos natus.",
+   "question": "Quot annos natum se nondum esse Labrax leno in Rudente Plauti causatur, ut sponsio cum Gripo facta irrita fiat?",
+   "answer": "Quinque et viginti.",
+   "question_en": "How many years old does the pimp Labrax in Plautus' Rudens plead he is not yet, so that his bargain with Gripus may be voided?",
+   "answer_en": "Twenty-five.",
+   "derivation": "A joke resting on real law: contracts extracted from those under twenty-five could be undone (the protection later associated with the lex Plaetoria) — the grizzled pimp absurdly claims minority. Legal realia every Roman would catch; anchored to Labrax + Gripus; one-number answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Rudens 1405-1406",
+   "source_text": "Dic mihi, quanti illam emisti tuam alteram mulierculam, Ampeliscam? LABR. Mille nummum denumeravi.",
+   "question": "Quanti Labrax leno Ampeliscam emisse se in Rudente Plauti dicit?",
+   "answer": "Mille nummum.",
+   "question_en": "For how much does the pimp Labrax in Plautus' Rudens say he bought Ampelisca?",
+   "answer_en": "For a thousand coins.",
+   "derivation": "The stated purchase price of the second girl, the basis for Daemones' settlement. Clean number fact of the slave trade; anchored to Labrax + Ampelisca; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Rudens 1408-1411",
+   "source_text": "D. Dividuom talentum faciam. L. Bene facis. D. Pro illa altera, libera ut sit, dimidium tibi sume, dimidium huc cedo. LABR. Maxime. DAEM. Pro illo dimidio ego Gripum emittam manu, quem propter tu vidulum et ego gnatam inveni.",
+   "question": "In quas duas res talentum a Labrace iuratum Daemones in fine Rudentis Plauti dividit?",
+   "answer": "In libertatem Ampeliscae et in manumissionem Gripi.",
+   "question_en": "To what two ends does Daemones in the finale of Plautus' Rudens divide the talent Labrax had sworn?",
+   "answer_en": "To the freedom of Ampelisca and the manumission of Gripus.",
+   "derivation": "The famous half-talent settlement: Daemones splits the sworn talent — half buys Ampelisca's liberty from the leno, and with the other half he manumits Gripus, finder of the trunk. Anchored to all named parties; short two-item answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Rudens 1417-1423",
+   "source_text": "DAEM. Hic hodie cenato, leno. LABR. Fiat, condicio placet. ... vos hic hodie cenatote ambo. LABR. Fiat. DAEM. Plausum date.",
+   "question": "Quem lenonem Daemones in fine Rudentis Plauti, contra morem comicum, ad cenam vocat?",
+   "answer": "Labracem.",
+   "question_en": "Which pimp does Daemones at the end of Plautus' Rudens, against comic custom, invite to dinner?",
+   "answer_en": "Labrax.",
+   "derivation": "The Rudens' famously mild ending: instead of the usual thrashing, the punished leno is asked to dinner along with Gripus (cenatote ambo). A canonical literature-fact about the play's close; anchored to both named characters; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Rudens 1418-1422",
+   "source_text": "spectatores, vos quoque ad cenam vocem, ni daturus nil sim neque sit quicquam pollucti domi, nive adeo vocatos credam vos esse ad cenam foras. verum si voletis plausum fabulae huic clarum dare, comissatum omnes venitote ad me ad annos sedecim.",
+   "question": "Ad quot annos spectatores comissatum ad se venire Daemones in extremo Rudente Plauti invitat?",
+   "answer": "Ad sedecim annos.",
+   "question_en": "In how many years does Daemones at the very end of Plautus' Rudens invite the spectators to come revel at his house?",
+   "answer_en": "In sixteen years.",
+   "derivation": "The closing joke to the audience: applaud, and you are all invited to a party — sixteen years from now. A quotable epilogue-fact of the play's last lines; anchored to the play + speaker; one-number answer verbatim.",
+   "category": "ludi"
+  }
+ ]}

@@ -1,0 +1,409 @@
+{"source": "text/plautus/cistellaria.txt",
+ "author": "Plautus",
+ "work": "Cistellaria",
+ "pairs": [
+  {
+   "locus": "Plautus, Cistellaria 149-155",
+   "source_text": "quod si tacuisset, tamen ego eram dicturus, deus, qui poteram planius. nam mihi Auxilio est nomen. nunc operam date, ut ego argumentum hoc vobis plane perputem.",
+   "question": "Quis deus in Cistellaria Plauti argumentum fabulae spectatoribus eloquitur?",
+   "answer": "Auxilium.",
+   "question_en": "Which god recounts the plot of the play to the spectators in Plautus' Cistellaria?",
+   "answer_en": "Auxilium ('Help').",
+   "derivation": "The play's theatrical curiosity: a personified god named Auxilium delivers a delayed prologue (only after the opening scenes, grumbling that the tipsy old woman has already told half the story). Canonical literature-fact of the named play; one-name answer verbatim (mihi Auxilio est nomen).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 197-202",
+   "source_text": "bene valete et vincite virtute vera, quod fecistis antidhac; servate vostros socios, veteres et novos, augete auxilia vostra iustis legibus, perdite perduelles, parite laudem et lauream, ut vobis victi Poeni poenas sufferant.",
+   "question": "Quos hostes victos poenas Romanis daturos esse Auxilium deus in fine prologi Cistellariae Plauti optat?",
+   "answer": "Poenos.",
+   "question_en": "Which conquered enemies does the god Auxilium at the end of the prologue of Plautus' Cistellaria pray will pay the penalty to the Romans?",
+   "answer_en": "The Carthaginians (Poeni).",
+   "derivation": "The famous patriotic aside that dates the play: the prologue-god urges the audience to destroy the foe 'that the vanquished Poeni may suffer punishment' — composed while the Second Punic War was still being fought. Historical fact embedded in the named play; one-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Cistellaria 156-158",
+   "source_text": "fuere Sicyoni iam diu Dionysia. mercator venit huc ad ludos Lemnius, isque hic compressit virginem, adulescentulus, vi, vinulentus multa nocte in via.",
+   "question": "In qua urbe fabula Plauti quae Cistellaria inscribitur agitur?",
+   "answer": "Sicyone.",
+   "question_en": "In what city is Plautus' play called Cistellaria set?",
+   "answer_en": "At Sicyon.",
+   "derivation": "The setting declared by Auxilium's prologue: Sicyon, where the Dionysia were held and where the whole action takes place (adulescens hic est Sicyoni, 190). Anchored to the named play; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Cistellaria 156-159",
+   "source_text": "fuere Sicyoni iam diu Dionysia. mercator venit huc ad ludos Lemnius, isque hic compressit virginem, adulescentulus, vi, vinulentus multa nocte in via.",
+   "question": "Quibus ludis mercator Lemnius Sicyonem venerat, cum virginem nocte vinulentus compressit, ut Auxilium deus in Cistellaria Plauti narrat?",
+   "answer": "Dionysiis.",
+   "question_en": "For which festival games had the Lemnian merchant come to Sicyon when, drunk at night, he assaulted the maiden, as the god Auxilium recounts in Plautus' Cistellaria?",
+   "answer_en": "For the Dionysia.",
+   "derivation": "The originating event of the plot is pinned to a named festival: the Dionysia of Sicyon, which drew the merchant from Lemnos to the games. Festival realia + plot fact; anchored to Sicyon and the Lemnian; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Cistellaria 162-163",
+   "source_text": "illa quam compresserat decumo post mense exacto hic peperit filiam.",
+   "question": "Quoto mense post vitium oblatum virgo Sicyonia in Cistellaria Plauti filiam peperit?",
+   "answer": "Decumo.",
+   "question_en": "In what month after the assault did the Sicyonian maiden in Plautus' Cistellaria bear her daughter?",
+   "answer_en": "In the tenth.",
+   "derivation": "A number fact resting on the ancient tenth-month reckoning of pregnancy (lunar months): the child is born decumo post mense. Anchored to the Sicyonian maiden of the named play; one-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 123-124",
+   "source_text": "nam ego illanc olim, quae hinc flens abiit, parvolam puellam proiectam ex angiportu sustuli.",
+   "question": "Vnde lena in Cistellaria Plauti puellam parvolam expositam sustulisse se narrat?",
+   "answer": "Ex angiportu.",
+   "question_en": "From where does the procuress in Plautus' Cistellaria recount that she picked up the exposed baby girl?",
+   "answer_en": "From an alley.",
+   "derivation": "The exposure-and-rescue fact at the root of the plot: the newborn was cast out in an angiportum (back alley) and 'taken up' (sustuli — the technical verb) by the old woman. Infant exposure is core ancient social realia; anchored to the lena + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 170-173",
+   "source_text": "ut eampse vos audistis confiterier, dat eam puellam meretrici Melaenidi, eaque educavit eam sibi pro filia bene ac pudice.",
+   "question": "Cui meretrici lena puellam expositam in Cistellaria Plauti dono dedit educandam?",
+   "answer": "Melaenidi.",
+   "question_en": "To which courtesan did the procuress in Plautus' Cistellaria give the exposed girl to bring up?",
+   "answer_en": "To Melaenis.",
+   "derivation": "The foundling's foster-mother: the meretrix Melaenis, who raised her as her own daughter 'well and chastely.' Anchored to the named foster-mother + the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 133-144",
+   "source_text": "quae saepe mecum mentionem fecerat, puerum aut puellam alicunde ut reperirem sibi, recens natum, eapse quod sibi supponeret. ... eandem puellam peperit quam a me acceperat, sine obstetricis opera et sine doloribus, ... nam amatorem aibat esse peregrinum sibi suppositionemque eius facere gratia.",
+   "question": "Quid Melaenis meretrix in Cistellaria Plauti simulavit, ubi puellam expositam a lena accepit?",
+   "answer": "Se ipsam eam peperisse.",
+   "question_en": "What did the courtesan Melaenis in Plautus' Cistellaria pretend when she received the exposed girl from the procuress?",
+   "answer_en": "That she herself had given birth to her.",
+   "derivation": "The suppositio: Melaenis passes the foundling off as her own newborn — a 'birth' without midwife or labor — to bind her foreign lover. The supposititious child is a named practice of ancient social life and a comedy staple; anchored to Melaenis; short answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 80-81",
+   "source_text": "verum enim meretrix fortunati est oppidi simillima: non potest suam rem obtinere sola sine multis viris.",
+   "question": "Cui rei meretricem simillimam esse lena apud Plautum in Cistellaria pronuntiat?",
+   "answer": "Fortunato oppido.",
+   "question_en": "To what does the procuress in Plautus' Cistellaria declare a courtesan to be most similar?",
+   "answer_en": "To a prosperous town.",
+   "derivation": "The lena's proverbial simile on the meretrix's trade: like a flourishing town, she cannot keep her estate without many men. Quotable maxim of the courtesan-versus-matron speech; anchored to the play; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Cistellaria 78-79",
+   "source_text": "Matronae magis conducibilest istuc, mea Selenium, unum amare et cum eo aetatem exigere quoi nuptast semel.",
+   "question": "Cuius mulieris esse lena in Cistellaria Plauti dicit unum virum amare et cum eo aetatem exigere?",
+   "answer": "Matronae.",
+   "question_en": "For what kind of woman does the procuress in Plautus' Cistellaria say it is fitting to love one man and pass her life with him?",
+   "answer_en": "For a married lady (matrona).",
+   "derivation": "The famous mores contrast of the lena's speech: the matrona loves the one man she married once; the meretrix cannot. The one-man ideal (univira) is core Roman marriage morality, stated verbatim; anchored to the lena + the play; one-word answer.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Cistellaria 69-70",
+   "source_text": "Namque ecastor Amor et melle et felle est fecundissimus; gustui dat dulce, amarum ad satietatem usque oggerit.",
+   "question": "Quibus duabus rebus Amor fecundissimus esse apud Plautum in Cistellaria dicitur?",
+   "answer": "Melle et felle.",
+   "question_en": "In what two things is Love said in Plautus' Cistellaria to be most abounding?",
+   "answer_en": "In honey and in gall.",
+   "derivation": "The celebrated Plautine maxim on Love: fecund in honey and gall — a taste of sweet, bitterness heaped up to satiety. Quotable proverb with a checkable two-item point; anchored to the play; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Cistellaria 149",
+   "source_text": "Vtrumque haec, et multiloqua et multibiba, est anus.",
+   "question": "Quibus duobus vitiis anum lenam Auxilium deus in Cistellaria Plauti notat?",
+   "answer": "Multiloqua et multibiba est.",
+   "question_en": "With what two vices does the god Auxilium in Plautus' Cistellaria brand the old procuress?",
+   "answer_en": "She is much-talking and much-drinking.",
+   "derivation": "The prologue-god's verdict on the drunken old woman who has just blabbed the plot: multiloqua et multibiba — the garrulous, bibulous anus, a stock figure of comedy here stamped in two coined words. Anchored to Auxilium + the lena; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 89-91",
+   "source_text": "Per Dionysia mater pompam me spectatum duxit. dum redeo domum, conspicillo consecutust clanculum me usque ad fores.",
+   "question": "Quo spectatum Selenium mater per Dionysia duxerat, cum Alcesimarchus eam primum conspexit, ut ipsa in Cistellaria Plauti narrat?",
+   "answer": "Pompam.",
+   "question_en": "What had Selenium's mother taken her to watch during the Dionysia, when Alcesimarchus first caught sight of her, as she herself recounts in Plautus' Cistellaria?",
+   "answer_en": "The procession (pompa).",
+   "derivation": "Festival realia: the Dionysia open with a pompa which respectable girls attend as spectators — and where lovers first see them (the classic New Comedy meeting). Anchored to Selenium + Alcesimarchus + the named festival; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Cistellaria 98-99",
+   "source_text": "At ille conceptis iuravit verbis apud matrem meam, me uxorem ducturum esse:",
+   "question": "Quid Alcesimarchus conceptis verbis apud matrem Selenii in Cistellaria Plauti iuravit?",
+   "answer": "Se Selenium uxorem ducturum esse.",
+   "question_en": "What did Alcesimarchus swear in set form of words before Selenium's mother in Plautus' Cistellaria?",
+   "answer_en": "That he would take Selenium as his wife.",
+   "derivation": "The broken oath that drives the play: a formal oath (conceptis verbis — the technical phrase for a set-form oath) sworn before the girl's mother to marry her. Oath realia + plot fact; anchored to both named lovers; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 99-101",
+   "source_text": "ei nunc alia ducendast domum, sua cognata Lemniensis, quae habitat hic in proxumo. nam eum pater eius subegit.",
+   "question": "Cuiatem sponsam pater Alcesimarcho in Cistellaria Plauti invito ducendam subegit?",
+   "answer": "Cognatam Lemniensem.",
+   "question_en": "What bride did his father force upon the unwilling Alcesimarchus in Plautus' Cistellaria?",
+   "answer_en": "A kinswoman from Lemnos.",
+   "derivation": "The rival match: the father compels a marriage with a Lemnian kinswoman living next door — the obstacle the recognition will remove. Anchored to Alcesimarchus + the play; two-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 176-179",
+   "source_text": "postquam ille uxori iusta fecit, ilico huc commigravit; duxit uxorem hic sibi eandem quam olim virginem hic compresserat, et eam cognoscit esse, quam compresserat;",
+   "question": "Quam feminam mercator Lemnius in Cistellaria Plauti, mortua priore uxore, Sicyone uxorem duxit?",
+   "answer": "Eandem quam olim virginem compresserat.",
+   "question_en": "What woman did the Lemnian merchant in Plautus' Cistellaria marry at Sicyon after his first wife died?",
+   "answer_en": "The very woman he had once assaulted as a maiden.",
+   "derivation": "The play's second knot: the Lemnian (Demipho) returns, and his new wife turns out to be the woman he wronged — mother of the exposed girl he now seeks. Canonical plot fact of the named play; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 203",
+   "source_text": "Credo ego Amorem primum apud homines carnificinam commentum.",
+   "question": "Quid primum apud homines Amorem commentum esse Alcesimarchus apud Plautum in Cistellaria credit?",
+   "answer": "Carnificinam.",
+   "question_en": "What does Alcesimarchus in Plautus' Cistellaria believe Love first invented among men?",
+   "answer_en": "Torture.",
+   "derivation": "The famous opening sententia of Alcesimarchus' lovesick monody: Love was the first inventor of the torturer's trade. Quotable maxim with one checkable point; anchored to the named speaker + play; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Cistellaria 225-226",
+   "source_text": "ita pater apud villam detinuit me hos dies sex ruri continuos, neque licitum interea est meam amicam visere",
+   "question": "Quot dies continuos pater Alcesimarchum ruri apud villam in Cistellaria Plauti detinuit?",
+   "answer": "Sex.",
+   "question_en": "For how many days on end did his father keep Alcesimarchus in the country at the farm in Plautus' Cistellaria?",
+   "answer_en": "Six.",
+   "derivation": "A clean number fact: six unbroken days at the villa away from his beloved — the separation that opens the lover's lament. Anchored to Alcesimarchus + the play; one-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 38-40",
+   "source_text": "quia nos libertinae sumus, et ego et tua mater, ambae meretrices fuimus: illa te, ego hanc mihi educavi ex patribus conventiciis.",
+   "question": "Cuius condicionis se et Melaenidem esse lena in Cistellaria Plauti fatetur?",
+   "answer": "Libertinae, quae ambae meretrices fuerunt.",
+   "question_en": "Of what status does the procuress in Plautus' Cistellaria confess that she and Melaenis are?",
+   "answer_en": "Freedwomen, who had both been courtesans.",
+   "derivation": "Social-status realia: the two old women are libertinae and former meretrices, raising girls got 'from chance fathers' — the demimonde milieu of the play stated plainly. Anchored to the lena + Melaenis; short answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Cistellaria 635-637",
+   "source_text": "nam hic crepundia insunt, quibuscum te illa olim ad me detulit, quae mihi dedit, parentes te ut cognoscant facilius. accipe hanc cistellam, Halisca.",
+   "question": "Quid in cistella, unde comoediae Plauti nomen Cistellaria inditum est, conditum erat?",
+   "answer": "Crepundia Selenii.",
+   "question_en": "What was kept in the little casket from which Plautus' comedy takes its name Cistellaria?",
+   "answer_en": "Selenium's childhood tokens (crepundia).",
+   "derivation": "The title-fact: the cistella holds the crepundia with which the baby was handed over, kept so the parents could recognize her more easily — the recognition-token apparatus that names the play. Anchored to the named play + Selenium; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 505-506",
+   "source_text": "Inter novam rem verbum usurpabo vetus: quod dedi datum non vellem, quod relicuomst non dabo.",
+   "question": "Quod verbum vetus Melaenis in Cistellaria Plauti usurpat, cum Alcesimarcho amicam reddere negat?",
+   "answer": "Quod dedi datum non vellem, quod relicuomst non dabo.",
+   "question_en": "What old saying does Melaenis quote in Plautus' Cistellaria when she refuses to give Alcesimarchus back his beloved?",
+   "answer_en": "'What I gave I wish ungiven; what remains I will not give.'",
+   "derivation": "A proverb explicitly flagged as such (verbum vetus) and quoted verbatim — the retort of the wronged party breaking off a relationship. Checkable point (which saying?); anchored to Melaenis + Alcesimarchus; answer is the proverb itself.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Cistellaria 502-503",
+   "source_text": "alibi quaere ubi iuri iurando tuo satis sit subsidi: hic apud nos iam, Alcesimarche, confregisti tesseram.",
+   "question": "Quam rem Alcesimarchum apud se confregisse Melaenis in Cistellaria Plauti dicit, cum ei fidem denuntiat ruptam?",
+   "answer": "Tesseram.",
+   "question_en": "What does Melaenis in Plautus' Cistellaria tell Alcesimarchus he has broken at her house, declaring the bond of trust ended?",
+   "answer_en": "The tessera (the token of guest-friendship).",
+   "derivation": "The idiom rests on real custom: hosts and friends kept a split tessera (hospitalis) as the token of their bond, and breaking it ended the relationship. Mores realia carried by every hearer; anchored to the named characters; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 512-514",
+   "source_text": "itaque me Iuno regina et Iovis supremi filia itaque me Saturnus eius patruos— MEL. Ecastor pater.",
+   "question": "Quis deus pater Iovis est, ut Melaenis Alcesimarchum perperam iurantem in Cistellaria Plauti corrigit?",
+   "answer": "Saturnus.",
+   "question_en": "Which god is Jupiter's father, as Melaenis corrects the wrongly-swearing Alcesimarchus in Plautus' Cistellaria?",
+   "answer_en": "Saturn.",
+   "derivation": "The joke of the bungled oath assumes the canonical genealogy: Alcesimarchus calls Saturn Jupiter's uncle and is corrected — 'his father, by Castor.' Shared myth knowledge; anchored to the named gods and characters; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Cistellaria 515",
+   "source_text": "ALC. Itaque me Ops opulenta illius avia— MEL. Immo mater quidem.",
+   "question": "Quae dea mater Iovis est, ut Melaenis in Cistellaria Plauti Alcesimarchum eam aviam vocantem corrigit?",
+   "answer": "Ops.",
+   "question_en": "Which goddess is Jupiter's mother, as Melaenis in Plautus' Cistellaria corrects Alcesimarchus who calls her his grandmother?",
+   "answer_en": "Ops.",
+   "derivation": "Same bungled-oath joke, second correction: Ops opulenta is Jupiter's mother, not his grandmother. The Saturn-Ops-Jupiter genealogy is core Roman myth; anchored to the named deities; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Cistellaria 522-523",
+   "source_text": "di me omnes, magni minuti, et etiam patellarii faxint, ne ego dem vivae vivos savium Selenio,",
+   "question": "Qui di praeter magnos et minutos ab Alcesimarcho iurante in Cistellaria Plauti invocantur?",
+   "answer": "Di patellarii.",
+   "question_en": "Which gods besides the great and the small are invoked by the swearing Alcesimarchus in Plautus' Cistellaria?",
+   "answer_en": "The dish-gods (di patellarii).",
+   "derivation": "Religious realia in a comic oath: the di patellarii, the humble household gods who receive their offerings on little dishes (patellae) — a Plautine glimpse of domestic cult. Anchored to the speaker + play; two-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Cistellaria 541-542",
+   "source_text": "vix exculpsi ut diceret, quia ei promisi dolium vini dare.",
+   "question": "Quo praemio promisso Lampadio servus in Cistellaria Plauti anui persuasit ut rem de puella exposita eloqueretur?",
+   "answer": "Dolio vini.",
+   "question_en": "With the promise of what reward did the slave Lampadio in Plautus' Cistellaria get the old woman to tell the story of the exposed girl?",
+   "answer_en": "A jar of wine.",
+   "derivation": "The bibulous old woman again: her tongue is pried loose only by the promise of a whole dolium of wine. A checkable point playing on stock mores; anchored to Lampadio + the anus; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 559-562",
+   "source_text": "ego te reduco et revoco ad summas ditias, ubi tu locere in luculentam familiam, unde tibi talenta magna viginti pater det dotis;",
+   "question": "Quot talenta magna dotis patrem inventae filiae daturum Lampadio in Cistellaria Plauti praedicat?",
+   "answer": "Viginti.",
+   "question_en": "How many great talents of dowry does Lampadio in Plautus' Cistellaria proclaim the father will give his recovered daughter?",
+   "answer_en": "Twenty.",
+   "derivation": "A clean dowry figure: restored to her rich family, the girl would receive twenty great talents as dos. Marriage-property realia + number fact; anchored to Lampadio's speech + the play; one-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 562-563",
+   "source_text": "non enim hic, ubi ex Tusco modo tute tibi indigne dotem quaeras corpore.",
+   "question": "Quo more mulierem corpore sibi dotem quaerere Lampadio apud Plautum in Cistellaria dicit?",
+   "answer": "Tusco modo.",
+   "question_en": "In what people's fashion does Lampadio in Plautus' Cistellaria say a woman earns herself a dowry with her body?",
+   "answer_en": "In the Etruscan fashion.",
+   "derivation": "A famous testimonium of the Roman stereotype (already in Herodotus of the Etruscans): girls earning their dowry by prostitution is 'the Tuscan way.' Ethnographic mores fact; anchored to the named custom; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 599",
+   "source_text": "MEL. Quis istic habitat? LAMP. Demipho dominus meus.",
+   "question": "Quis senex dominus erat Lampadionis servi in Cistellaria Plauti?",
+   "answer": "Demipho.",
+   "question_en": "Which old man was the master of the slave Lampadio in Plautus' Cistellaria?",
+   "answer_en": "Demipho.",
+   "derivation": "The house identified by name: Demipho, the Lemnian who wronged Phanostrata and now hunts for the exposed daughter, is Lampadio's master. Anchored to both named characters; one-name answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Cistellaria 549-553",
+   "source_text": "Dico ei, quo pacto eam ab hippodromo viderim erilem nostram filiam sustollere. ... nam mihi ab hippodromo memini adferri parvolam puellam eamque me mihi supponere.",
+   "question": "A quo loco urbis puella exposita sublata esse in Cistellaria Plauti memoratur?",
+   "answer": "Ab hippodromo.",
+   "question_en": "From near what place in the city is the exposed baby girl in Plautus' Cistellaria recorded as having been taken up?",
+   "answer_en": "From the hippodrome.",
+   "derivation": "The exposure spot fixed by two witnesses (Lampadio saw the taking-up; Melaenis remembers the baby brought from there): beside the hippodromos, the racecourse of Sicyon. Place-anchored plot fact; one-word answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Cistellaria 546-548",
+   "source_text": "vidi exeuntem mulierem. PHAN. Illam quae meam gnatam sustulerat? LAMP. Rem tenes.",
+   "question": "Quae matrona in Cistellaria Plauti filiam olim expositam per Lampadionem servum quaerit?",
+   "answer": "Phanostrata.",
+   "question_en": "Which married lady in Plautus' Cistellaria searches through the slave Lampadio for the daughter once exposed?",
+   "answer_en": "Phanostrata.",
+   "derivation": "The searching mother of the play: Phanostrata (so named in the personae and scene-headings), Demipho's wife, whose exposed baby is Selenium. Anchored to the named slave + play; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 616-620",
+   "source_text": "Prius hanc compressit quam uxorem duxit domum, prius gravida facta est priusque peperit filiam; eam postquam peperit, iussit parvam proici: ego eam proieci, alia mulier sustulit, ego inspectavi.",
+   "question": "Quis servus in Cistellaria Plauti puellam parvam iussus proiecit et quis eam tolleret inspectavit?",
+   "answer": "Lampadio.",
+   "question_en": "Which slave in Plautus' Cistellaria exposed the baby girl as ordered and watched who picked her up?",
+   "answer_en": "Lampadio.",
+   "derivation": "The exposure executed and witnessed by the same man: Lampadio cast the child out and spied on the woman who took her up — which makes the recognition possible years later. Anchored to the named slave; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 532-533",
+   "source_text": "postremo, quando aequa lege pauperi cum divite non licet, perdam operam potius quam carebo filia.",
+   "question": "Cui cum quo aequa lege agere non licere Melaenis apud Plautum in Cistellaria queritur?",
+   "answer": "Pauperi cum divite.",
+   "question_en": "For whom against whom does Melaenis in Plautus' Cistellaria complain that it is impossible to contend on equal legal terms?",
+   "answer_en": "For the poor against the rich.",
+   "derivation": "The quotable sententia of the powerless: the poor cannot go to law with the rich on equal terms. Proverbial social maxim with a checkable two-term point; anchored to Melaenis + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Cistellaria 675-677",
+   "source_text": "quamne in manibus tenui atque accepi hic ante aedis cistellam, ubi ea sit nescio, nisi ut opinor loca haec circiter excidit mihi.",
+   "question": "Quae ancilla in Cistellaria Plauti cistellam cum crepundiis ante aedes amisit?",
+   "answer": "Halisca.",
+   "question_en": "Which maidservant in Plautus' Cistellaria lost the little casket with the tokens in front of the house?",
+   "answer_en": "Halisca.",
+   "derivation": "The accident that resolves the play: Melaenis' maid Halisca drops the cistella while running to stop Alcesimarchus' suicide, and Lampadio finds it at the door. Canonical plot fact of the title object; anchored to the named maid; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 697-698",
+   "source_text": "sed is hac iit, hac socci video vestigium in pulvere, persequar hac.",
+   "question": "Cuius calceamenti vestigium Halisca in pulvere in Cistellaria Plauti vestigans videt?",
+   "answer": "Socci.",
+   "question_en": "The print of what footwear does Halisca, tracking in the dust, see in Plautus' Cistellaria?",
+   "answer_en": "Of a soccus (a slipper).",
+   "derivation": "Dress realia in the tracking scene: the tell-tale footprint is of a soccus, the low slipper — proverbially the very shoe of comedy. Anchored to Halisca + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 663-665",
+   "source_text": "Crepundia haec sunt, quibuscum tu extulisti nostram filiolam ad necem.",
+   "question": "Quibus signis Phanostrata in Cistellaria Plauti filiam olim expositam recognovit?",
+   "answer": "Crepundiis in cistella repertis.",
+   "question_en": "By what tokens did Phanostrata in Plautus' Cistellaria recognize the daughter once exposed?",
+   "answer_en": "By the childhood tokens (crepundia) found in the casket.",
+   "derivation": "The recognition moment: the mother knows at sight the crepundia sent out with her doomed baby — the token-and-recognition practice attached to infant exposure. Anchored to Phanostrata + the casket; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 755-756",
+   "source_text": "quot annos nata dicitur? HAL. Septemdecim. PHAN. Mea est.",
+   "question": "Quot annos nata erat Selenium cum Phanostrata mater eam in Cistellaria Plauti agnovit?",
+   "answer": "Septemdecim.",
+   "question_en": "How old was Selenium when her mother Phanostrata recognized her in Plautus' Cistellaria?",
+   "answer_en": "Seventeen.",
+   "derivation": "The clinching number of the recognition: the girl's stated age, seventeen, matches the count of years since the exposure (ut numerus annorum attulit). Clean number fact; anchored to both named women; one-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Cistellaria 728-730",
+   "source_text": "Imitatur nequam bestiam et damnificam. PHAN. Quamnam, amabo? LAMP. Involvolum, quae in pampini folio intorta implicat se: itidem haec exorditur sibi intortam orationem.",
+   "question": "Cui bestiolae vitium vastanti Lampadio in Cistellaria Plauti mulierem intortam orationem exordientem comparat?",
+   "answer": "Involvolo.",
+   "question_en": "To what little vine-ravaging creature does Lampadio in Plautus' Cistellaria compare a woman spinning a twisted speech?",
+   "answer_en": "To the leaf-roller caterpillar (involvolus).",
+   "derivation": "Agricultural realia in a simile: the involvolus, the pest that rolls itself up in the vine leaf — a creature every Italian farmer knew (Cato prescribes against it). Anchored to Lampadio + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Cistellaria 782-787",
+   "source_text": "CATERVA Ne exspectetis, spectatores, dum illi huc ad vos exeant: nemo exibit, omnes intus conficient negotium. ... nunc quod ad vos, spectatores, relicuom relinquitur, more maiorum date plausum postrema in comoedia.",
+   "question": "Quis in extrema Cistellaria Plauti spectatores adloquitur et more maiorum plausum poscit?",
+   "answer": "Caterva.",
+   "question_en": "Who addresses the spectators at the very end of Plautus' Cistellaria and asks for applause 'after the ancestral custom'?",
+   "answer_en": "The whole troupe (caterva).",
+   "derivation": "Theater realia: the epilogue is spoken not by a character but by the caterva, the assembled company, telling the audience no one will come back out — the ending is settled indoors. Convention of the palliata; anchored to the named play; one-word answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Cistellaria 784-785",
+   "source_text": "ubi id erit factum, ornamenta ponent; postidea loci qui deliquit vapulabit, qui non deliquit bibet.",
+   "question": "Quid actori qui in agendo deliquit post fabulam fore caterva in Cistellaria Plauti spectatoribus nuntiat?",
+   "answer": "Vapulabit; qui non deliquit, bibet.",
+   "question_en": "What does the troupe in Plautus' Cistellaria announce to the spectators will happen after the play to the actor who made mistakes?",
+   "answer_en": "He will be flogged; the one who made none will get a drink.",
+   "derivation": "A celebrated glimpse of the Roman acting company's discipline: once the costumes (ornamenta) are laid off, the erring player is beaten and the faultless one drinks. Theater realia stated verbatim in the epilogue; anchored to the play; short two-part answer verbatim.",
+   "category": "ludi"
+  }
+ ]}
