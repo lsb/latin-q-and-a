@@ -1,4 +1,5 @@
-{"source": "text/plautus/pseudolus.txt",
+{
+ "source": "text/plautus/pseudolus.txt",
  "author": "Plautus",
  "work": "Pseudolus",
  "pairs": [
@@ -56,10 +57,10 @@
    "locus": "Plautus, Pseudolus 125-128",
    "source_text": "nunc, ne quis dictum sibi neget, dico omnibus pube praesenti in contione: omni poplo, omnibus amicis notisque edico meis, in hunc diem a me ut caveant, ne credant mihi.",
    "question": "Quid Pseudolus servus in Pseudolo Plauti omni poplo amicisque suis palam edicit?",
-   "answer": "Vt in eum diem ab se caveant neve sibi credant.",
+   "answer": "Vt in eum diem ab se caveant.",
    "question_en": "What does the slave Pseudolus openly proclaim to the whole people and his friends in Plautus' Pseudolus?",
-   "answer_en": "That for that day they should beware of him and not trust him.",
-   "derivation": "The arch clever-slave's signature gesture: a mock public edict warning everyone that he is going to cheat someone today. A celebrated set-piece of the play; anchored to Pseudolus; short answer supported verbatim (a me ut caveant, ne credant mihi).",
+   "answer_en": "That for that day they should beware of him.",
+   "derivation": "The arch clever-slave's signature gesture: a mock public edict warning everyone that he is going to cheat someone today. A celebrated set-piece of the play; anchored to Pseudolus; short answer supported verbatim (a me ut caveant, ne credant mihi). [Answer trimmed to the core warning during validation.]",
    "category": "ludi"
   },
   {
@@ -101,8 +102,7 @@
    "answer_en": "To the macellum, the provision market.",
    "derivation": "Daily-life realia: fish for a feast is bought at the macellum, the food market. Anchored to Ballio + his birthday preparations; one-word answer verbatim (in macellum).",
    "category": "cibus"
-  }
-,
+  },
   {
    "locus": "Plautus, Pseudolus 199-201",
    "source_text": "cras te quasi Dircam olim, ut memorant, duo gnati Iovis devinxere ad taurum, item ego te distringam ad carnarium.",
@@ -182,8 +182,7 @@
    "answer_en": "King Jason.",
    "derivation": "Ballio's boast turns on Jason (the fabulously rich tyrant of Pherae, for the audience a byword for wealth): with enough grain the city would rename the leno 'King Jason.' Anchored to Ballio + the named king; one-name answer verbatim.",
    "category": "ludi"
-  }
-,
+  },
   {
    "locus": "Plautus, Pseudolus 265-268",
    "source_text": "nam si sacruficem summo Iovi atque in manibus exta teneam, ut poriciam, interea loci si lucri quid detur, potius rem divinam deseram.",
@@ -283,8 +282,7 @@
    "answer_en": "A good spirit (good courage).",
    "derivation": "A quotable Plautine sententia spoken by Callipho: courage in adversity halves the adversity. Proverb verbatim; short answer (bonus animus).",
    "category": "proverbium"
-  }
-,
+  },
   {
    "locus": "Plautus, Pseudolus 483-487",
    "source_text": "SIM. Ecquas viginti minas per sycophantiam atque per doctos dolos paritas ut auferas a me? PS. Abs te ego auferam? SIM. Ita, quas meo gnato des, qui amicam liberet?",
@@ -384,8 +382,7 @@
    "answer_en": "Three (his master, the pimp, and the man who handed him the letter).",
    "derivation": "The economy of the central trick, counted by Pseudolus himself: one letter, three dupes — Simo, Ballio, Harpax. Anchored to Pseudolus + the letter; single-number answer verbatim.",
    "category": "ludi"
-  }
-,
+  },
   {
    "locus": "Plautus, Pseudolus 735",
    "source_text": "etiam opust chlamyde et machaera et petaso. CHAR. Possum a me dare.",
@@ -435,8 +432,7 @@
    "answer_en": "In the forum coquinum, the cooks' market.",
    "derivation": "The cook-market realia: cooks were hired for the day at a dedicated market, the forum coquinum — which Ballio, returning with his hire, jokes should rather be called furinum, 'the thieves' market.' Anchored to Ballio + the named institution; short answer verbatim.",
    "category": "mores"
-  }
-,
+  },
   {
    "locus": "Plautus, Pseudolus 807-809",
    "source_text": "hoc ego fui hodie solus obsessor fori. illi drachmissent miseri: me nemo potest minoris quisquam nummo ut surgam subigere.",
@@ -536,8 +532,7 @@
    "answer_en": "By hand (not in writing).",
    "derivation": "The mock-explanation for the letter's missing salutation: soldiers greet friends — and punish enemies — with the hand, not with written compliments. A crisp military-mores quip anchored to the letter scene; one-word answer verbatim.",
    "category": "mores"
-  }
-,
+  },
   {
    "locus": "Plautus, Pseudolus 415-417",
    "source_text": "Si de damnosis aut si de amatoribus dictator fiat nunc Athenis Atticis, nemo anteveniat filio, credo, meo.",
@@ -637,8 +632,7 @@
    "answer_en": "A comitia centuriata (the Roman centuriate assembly).",
    "derivation": "Roman constitutional realia in a Greek costume: judgment on a citizen's caput belonged to the comitia centuriata, so the ruined Ballio says Pseudolus has held one over him. Anchored to Ballio + Pseudolus; short answer verbatim.",
    "category": "ius"
-  }
-,
+  },
   {
    "locus": "Plautus, Pseudolus 1239-1241",
    "source_text": "nunc mihi certum est alio pacto Pseudolo insidias dare, quam in aliis comoediis fit, ubi cum stimulis aut flagris insidiantur.",
@@ -739,4 +733,5 @@
    "derivation": "The transmitted didascalia dates the premiere by the urban praetor M. Iunius M. fil. (191 BC, the year the Megalensian games dedicated the Magna Mater's temple) — a canonical literary-history fact of the play. Abbreviations of the notice kept verbatim; one-name answer.",
    "category": "historia"
   }
-]}
+ ]
+}
