@@ -1,0 +1,266 @@
+{
+ "source": "text/plautus/asinaria.txt",
+ "author": "Plautus",
+ "work": "Asinaria",
+ "pairs": [
+  {
+   "locus": "Plautus, Asinaria prol. 10-12",
+   "source_text": "huic nomen graece Onagost fabulae; Demophilus scripsit, Maccus vortit barbare; Asinariam volt esse, si per vos licet.",
+   "question": "Quod nomen Graecum habebat fabula ex qua Plautus Asinariam suam fecit?",
+   "answer": "Onagos.",
+   "question_en": "What Greek title did the play have from which Plautus made his Asinaria?",
+   "answer_en": "Onagos (The Ass-Driver).",
+   "derivation": "The prologue names the Greek original: Onagos ('the ass-driver'), which Plautus turned into the Asinaria. Anchored to Plautus + Asinaria; one-word title answer stated verbatim (Onagost = Onagos est). A famous authorship fact.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria prol. 11",
+   "source_text": "Demophilus scripsit, Maccus vortit barbare; Asinariam volt esse, si per vos licet.",
+   "question": "Quis poeta Graecus fabulam scripsit quam Plautus in Asinariam vertit, ut prologus narrat?",
+   "answer": "Demophilus.",
+   "question_en": "Which Greek poet wrote the play that Plautus turned into the Asinaria, as the prologue relates?",
+   "answer_en": "Demophilus.",
+   "derivation": "The prologue credits the Greek source-play to Demophilus (Demophilus scripsit). Anchored to Asinaria + Plautus; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria prol. 11",
+   "source_text": "Demophilus scripsit, Maccus vortit barbare; Asinariam volt esse, si per vos licet.",
+   "question": "Quo nomine se ipse auctor in prologo Asinariae appellat, qui fabulam Demophili barbare vertit?",
+   "answer": "Maccus.",
+   "question_en": "By what name does the author call himself in the prologue of the Asinaria, the one who turned Demophilus' play into Latin?",
+   "answer_en": "Maccus.",
+   "derivation": "A celebrated authorship fact: in the Asinaria prologue Plautus names himself 'Maccus' (Maccus vortit barbare). Anchored to the named play + prologue; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria prol. 10-12",
+   "source_text": "huic nomen graece Onagost fabulae; Demophilus scripsit, Maccus vortit barbare; Asinariam volt esse, si per vos licet.",
+   "question": "Quod nomen Latinum Plautus fabulae imponere vult, quae graece Onagos inscribebatur?",
+   "answer": "Asinariam.",
+   "question_en": "What Latin title does Plautus wish to give the play that in Greek was called Onagos?",
+   "answer_en": "Asinaria.",
+   "derivation": "The prologue gives the Latin title (Asinariam volt esse). Anchored to Plautus + the Greek Onagos; one-word title answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria prol. 11",
+   "source_text": "Demophilus scripsit, Maccus vortit barbare; Asinariam volt esse, si per vos licet.",
+   "question": "In quam linguam Plautus se fabulam Demophili 'vortisse' dicit, quam more Graeco 'barbaram' vocat?",
+   "answer": "In Latinam.",
+   "question_en": "Into what language does Plautus say he 'turned' Demophilus' play, which in the Greek manner he calls 'barbarian'?",
+   "answer_en": "Into Latin.",
+   "derivation": "'Maccus vortit barbare' — Plautus rendered the Greek original into Latin, which Greeks (and Plautus jokingly) call the 'barbarian' tongue. Anchored to Plautus + Demophilus; short answer; the fact (translation into Latin) is standard.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria 85-86",
+   "source_text": "dotalem servom Sauream uxor tua adduxit, cui plus in manu sit quam tibi.",
+   "question": "Quis servus dotalis, ab uxore Demaeneti in domum adductus, plus in manu quam ipse dominus habet apud Plautum in Asinaria?",
+   "answer": "Saurea.",
+   "question_en": "What dowry-slave, brought into the house by Demaenetus' wife, holds more in his control than the master himself, in Plautus' Asinaria?",
+   "answer_en": "Saurea.",
+   "derivation": "Roman realia of the dotata uxor: the wife's dowry included a slave, Saurea, who as dotalis controls more of the household money than Demaenetus. Anchored to Demaenetus + Asinaria; one-name answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Asinaria 118",
+   "source_text": "Argentum accepi, dote imperium vendidi.",
+   "question": "Quid Demaenetus se pro dote uxoris accepta vendidisse apud Plautum in Asinaria dicit?",
+   "answer": "Imperium domesticum.",
+   "question_en": "What does Demaenetus say he sold in return for accepting his wife's dowry, in Plautus' Asinaria?",
+   "answer_en": "His authority over the household.",
+   "derivation": "The henpecked-husband/dotata-uxor theme compressed into a line: by taking the dowry Demaenetus 'sold his authority.' Anchored to Demaenetus + Asinaria; short answer verbatim (dote imperium vendidi).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 229-230",
+   "source_text": "dic, quid me aequom censes pro illa tibi dare, annum hunc ne cum quiquam alio sit? CLEAR. Tene? viginti minas;",
+   "question": "Quot minas Cleareta lena ab Argyrippo poscit, ut Philaenium annum unum cum nullo alio sit, apud Plautum in Asinaria?",
+   "answer": "Viginti minas.",
+   "question_en": "How many minae does the bawd Cleareta demand from Argyrippus, so that Philaenium be with no other man for a year, in Plautus' Asinaria?",
+   "answer_en": "Twenty minae.",
+   "derivation": "The sum that drives the plot: twenty minae for a year's exclusive claim to Philaenium. Anchored to Cleareta + Argyrippus + Asinaria; number answer verbatim (viginti minas).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 215",
+   "source_text": "Non tu scis? hic noster quaestus aucupi simillimust.",
+   "question": "Cui arti Cleareta lena quaestum suum lenonium simillimum esse dicit apud Plautum in Asinaria?",
+   "answer": "Aucupio.",
+   "question_en": "To what craft does the bawd Cleareta say her trade as a procuress is most similar, in Plautus' Asinaria?",
+   "answer_en": "To fowling (bird-catching).",
+   "derivation": "Cleareta's set-piece on the courtesan-house economics: the bawd's trade works like fowling (bait the field, the lovers are the birds). Anchored to Cleareta + Asinaria; one-word answer verbatim (aucupi simillimust).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 241-242",
+   "source_text": "portitorum simillumae sunt ianuae lenoniae: si adfers, tum patent, si non est quod des, aedes non patent.",
+   "question": "Quibus Cleareta lena ianuas domus lenoniae similes esse dicit, quae adferenti pecuniam patent, non habenti clausae sunt, apud Plautum in Asinaria?",
+   "answer": "Portitoribus.",
+   "question_en": "To whom does the bawd Cleareta liken the doors of a procuress' house, which open to one who brings money and stay shut to one who has none, in Plautus' Asinaria?",
+   "answer_en": "To customs-collectors (toll-men).",
+   "derivation": "A mercenary maxim of the trade: the doors of the bawd's house are like the portitores (customs-men), open only to those who pay. Anchored to Cleareta + Asinaria; one-word answer verbatim (portitorum simillumae).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 213",
+   "source_text": "quasi piscis, itidemst amator lenae: nequam est, nisi recens;",
+   "question": "Cui animali Cleareta lena amatorem comparat, quem 'nequam esse nisi recentem' ait apud Plautum in Asinaria?",
+   "answer": "Pisci.",
+   "question_en": "To what creature does the bawd Cleareta compare a lover, saying he is 'no good unless fresh,' in Plautus' Asinaria?",
+   "answer_en": "To a fish.",
+   "derivation": "Cleareta's simile on the trade: a lover is like a fish, worthless unless fresh (still paying). Anchored to Cleareta + Asinaria; one-word answer verbatim (quasi piscis).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Asinaria 333-334",
+   "source_text": "meministin asinos Arcadicos mercatori Pellaeo nostrum vendere atriensem?",
+   "question": "Ex venditione quorum animalium ortum est illud argentum quod servi Libanus et Leonida in Asinaria Plauti intercipiunt?",
+   "answer": "Ex venditione asinorum Arcadicorum.",
+   "question_en": "From the sale of which animals arose the money that the slaves Libanus and Leonida intercept in Plautus' Asinaria?",
+   "answer_en": "From the sale of Arcadian asses (donkeys).",
+   "derivation": "The title-fact: the plot turns on the price of asses. Demaenetus' steward had sold Arcadian asses, and the returned price (twenty minae) is intercepted by the slaves. Anchored to the named play + slaves; supported verbatim (asinos Arcadicos ... vendere atriensem).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 333-334",
+   "source_text": "meministin asinos Arcadicos mercatori Pellaeo nostrum vendere atriensem?",
+   "question": "Cui mercatori atriensis Demaeneti asinos Arcadicos vendiderat, cuius pretium in Asinaria Plauti intercipitur?",
+   "answer": "Mercatori Pellaeo.",
+   "question_en": "To what merchant had Demaenetus' steward sold the Arcadian asses, whose price is intercepted in Plautus' Asinaria?",
+   "answer_en": "To a merchant of Pella.",
+   "derivation": "The buyer of the asses was a Pellaean merchant (mercator Pellaeus), whose agent brings the price. Anchored to Demaenetus + Asinaria; short answer verbatim (mercatori Pellaeo).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 347-348",
+   "source_text": "Ait se ob asinos ferre argentum atriensi Saureae, viginti minas, sed eum sese non nosse hominem qui siet, ipsum vero se novisse callide Demaenetum.",
+   "question": "Quod officium in domo Demaeneti servus Saurea gerit, cui pretium asinorum dandum erat apud Plautum in Asinaria?",
+   "answer": "Atriensis est.",
+   "question_en": "What office does the slave Saurea hold in Demaenetus' household, to whom the price of the asses was to be paid, in Plautus' Asinaria?",
+   "answer_en": "He is the atriensis (house-steward).",
+   "derivation": "Roman household realia: Saurea is the atriensis, the chief house-steward, to whom the ass-money is owed. Anchored to Saurea + Demaenetus + Asinaria; one-word office answer verbatim (atriensi Saureae).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 407-409",
+   "source_text": "te ex Leonida futurum esse atriensem Sauream, dum argentum afferat mercator pro asinis.",
+   "question": "Cuius personam servus Leonida induit, ut argentum pro asinis solvendum intercipiat, apud Plautum in Asinaria?",
+   "answer": "Saureae atriensis.",
+   "question_en": "Whose identity does the slave Leonida assume, in order to intercept the money to be paid for the asses, in Plautus' Asinaria?",
+   "answer_en": "That of Saurea, the steward.",
+   "derivation": "The central con of the play: Leonida pretends to be the steward Saurea to receive the ass-money from the merchant's agent. Anchored to Leonida + Asinaria; short answer verbatim (te ex Leonida futurum esse atriensem Sauream).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria 495",
+   "source_text": "lupus est homo homini, non homo, quom qualis sit non novit.",
+   "question": "Quid homo homini esse, non homo, apud Plautum in Asinaria dicitur, dum qualis alter sit ignoratur?",
+   "answer": "Lupus.",
+   "question_en": "According to Plautus in the Asinaria, what is a man to a man — not a man — so long as he does not know what sort the other is?",
+   "answer_en": "A wolf.",
+   "derivation": "The origin of the proverb 'homo homini lupus': in the Asinaria the wary merchant says a man is a wolf to a stranger he does not know. Anchored to the named play; one-word answer verbatim (lupus est homo homini).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Asinaria 533-534",
+   "source_text": "nemo etiam me accusavit merito meo, neque me alter est Athenis hodie quisquam, cui credi recte aeque putent.",
+   "question": "In qua urbe fabula Plauti Asinaria agitur, ut Leonida servus indicat?",
+   "answer": "Athenis.",
+   "question_en": "In what city is Plautus' play Asinaria set, as the slave Leonida indicates?",
+   "answer_en": "At Athens.",
+   "derivation": "The setting: Leonida boasts that no one in Athens is held more trustworthy, placing the action there. Anchored to the named play; one-word place answer verbatim (Athenis).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria 539-541",
+   "source_text": "Etiam opilio qui pascit, mater, alienas ovis, aliquam habet peculiarem, qui spem soletur suam.",
+   "question": "Cuius operis exemplo Philaenium utitur, ut sibi unum amatorem proprium habere liceat, apud Plautum in Asinaria?",
+   "answer": "Opilionis.",
+   "question_en": "By the example of which worker does Philaenium argue that she may keep one lover of her own, in Plautus' Asinaria?",
+   "answer_en": "Of a shepherd.",
+   "derivation": "Philaenium's proverb: even the shepherd tending another's flock keeps one sheep of his own (peculiaris), so she may keep one lover. Anchored to Philaenium + Asinaria; one-word answer verbatim (opilio qui pascit ... alienas ovis).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Asinaria 634-635",
+   "source_text": "argenti viginti minae me ad mortem appulerunt, quas hodie adulescens Diabolus ipsi daturus dixit, ut hanc ne quoquam mitteret nisi ad se hunc annum totum.",
+   "question": "Quis adulescens Argyrippo de Philaenio amanda rivalis est apud Plautum in Asinaria?",
+   "answer": "Diabolus.",
+   "question_en": "What young man is Argyrippus' rival for the love of Philaenium in Plautus' Asinaria?",
+   "answer_en": "Diabolus.",
+   "derivation": "The rival lover: Diabolus offers the lena twenty minae for a year's exclusive claim to Philaenium, threatening to outbid Argyrippus. Anchored to Argyrippus + Philaenium + Asinaria; one-name answer verbatim (adulescens Diabolus).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria 751-753",
+   "source_text": "Diabolus Glauci filius Clearetae lenae dedit dono argenti viginti minas, Philaenium ut secum esset noctes et dies hunc annum totum.",
+   "question": "Cuius filius est Diabolus, rivalis Argyrippi, ut in syngrapho Asinariae Plauti scribitur?",
+   "answer": "Glauci.",
+   "question_en": "Whose son is Diabolus, Argyrippus' rival, as written in the contract of Plautus' Asinaria?",
+   "answer_en": "Glaucus's.",
+   "derivation": "The contract opens by naming the parties: 'Diabolus, son of Glaucus.' Name-relation fact anchored to Diabolus + Asinaria; one-name answer verbatim (Diabolus Glauci filius).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria 746-747",
+   "source_text": "Agedum istum ostende quem conscripsti syngraphum inter me et amicam et lenam. leges pellege.",
+   "question": "Quo nomine appellatur illud pactum scriptum quod Diabolus cum lena Cleareta de Philaenio init apud Plautum in Asinaria?",
+   "answer": "Syngraphus.",
+   "question_en": "By what name is the written contract called that Diabolus makes with the bawd Cleareta over Philaenium in Plautus' Asinaria?",
+   "answer_en": "A syngraphus (a written bond).",
+   "derivation": "Roman contract realia parodied: the lovers' agreement is drawn up as a formal syngraphus (written bond) with clauses read out like a statute. Anchored to Diabolus + Cleareta + Asinaria; one-word answer verbatim (syngraphum ... conscripsti).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Asinaria 792-793",
+   "source_text": "Neque ullum verbum faciat perplexabile, neque ulla lingua sciat loqui nisi Attica.",
+   "question": "Qua sola lingua Philaenium loqui, ex syngrapho Diaboli, apud Plautum in Asinaria licet?",
+   "answer": "Attica.",
+   "question_en": "According to Diabolus' contract in the Asinaria, in what language alone is Philaenium permitted to speak?",
+   "answer_en": "In Attic (Greek).",
+   "derivation": "A clause of the jealous contract: Philaenium may know no tongue but Attic, reflecting the trope of the refined courtesan speaking pure Attic Greek. Anchored to Diabolus' syngraphus + Asinaria; one-word answer verbatim (nisi Attica).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 74-75",
+   "source_text": "nam me hodie oravit Argyrippus filius, uti sibi amanti facerem argenti copiam;",
+   "question": "Cui, contra uxorem suam, Demaenetus senex argenti copiam ad amorem faciendam parat apud Plautum in Asinaria?",
+   "answer": "Argyrippo filio.",
+   "question_en": "For whom, against his own wife, does the old man Demaenetus arrange a supply of money for love, in Plautus' Asinaria?",
+   "answer_en": "For his son Argyrippus.",
+   "derivation": "The driving premise: the henpecked Demaenetus conspires against his wife to help his lovesick son Argyrippus find the money for the courtesan. Anchored to Demaenetus + Asinaria; one-name answer verbatim (oravit Argyrippus filius ... facerem argenti copiam).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria 904-905",
+   "source_text": "Iace, pater, talos, ut porro nos iaciamus. DEM. Maxime. te, Philaenium, mihi atque uxoris mortem. hoc Venerium est.",
+   "question": "Quo nomine Demaenetus optimum talorum iactum appellat, cum in Asinaria Plauti talos iacit?",
+   "answer": "Venerium.",
+   "question_en": "By what name does Demaenetus call the best throw of the knucklebones when he casts the dice in Plautus' Asinaria?",
+   "answer_en": "The Venus-throw (Venerius).",
+   "derivation": "Roman gaming realia: the highest cast of the tali was the 'Venus' throw. Demaenetus names his winning cast 'Venerium.' Anchored to Demaenetus + Asinaria; one-word answer verbatim (hoc Venerium est).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Asinaria 897-898",
+   "source_text": "sine, revenias modo domum, faxo ut scias quid pericli sit dotatae uxori vitium dicere.",
+   "question": "Cuius generis uxori Demaenetum, ut Artemona minatur, periculose vitium dicere apud Plautum in Asinaria docetur?",
+   "answer": "Dotatae uxori.",
+   "question_en": "What kind of wife does Demaenetus dangerously insult, as Artemona threatens, in Plautus' Asinaria?",
+   "answer_en": "A dowried wife (a dotata uxor).",
+   "derivation": "The dotata-uxor theme made explicit: the wife who brought a dowry holds power, and it is perilous to insult her. Anchored to Demaenetus/Artemona + Asinaria; verbatim (dotatae uxori vitium dicere).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Asinaria 933",
+   "source_text": "Cano capite te cuculum uxor ex lustris rapit.",
+   "question": "Vnde uxor Artemona Demaenetum maritum canum in fine Asinariae Plauti domum abstrahit?",
+   "answer": "Ex lustris.",
+   "question_en": "From where does his wife Artemona drag the grey-haired husband Demaenetus home at the end of Plautus' Asinaria?",
+   "answer_en": "From the courtesan's dens (the brothel-haunts).",
+   "derivation": "The play's punchline: the dotata wife Artemona catches Demaenetus feasting with his son's mistress and hauls him home from the lustra. Anchored to Demaenetus + Artemona + Asinaria; short answer verbatim (ex lustris rapit). Artemona is named in the dialogue (line 855).",
+   "category": "mores"
+  }
+ ]}

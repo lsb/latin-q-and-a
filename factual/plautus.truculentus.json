@@ -1,0 +1,266 @@
+{
+ "source": "text/plautus/truculentus.txt",
+ "author": "Plautus",
+ "work": "Truculentus",
+ "pairs": [
+  {
+   "locus": "Plautus, Truculentus prol. 10-11",
+   "source_text": "Athenis mutabo ita ut hoc est proscaenium tantisper dum transigimus hanc comoediam.",
+   "question": "In qua urbe fabula Plauti Truculentus, mutato in prologo proscaenio, agitur?",
+   "answer": "Athenis.",
+   "question_en": "In what city is Plautus' play Truculentus set, the prologue turning the stage-front into it?",
+   "answer_en": "At Athens.",
+   "derivation": "The prologue transforms the stage into Athens for the duration of the play. Anchored to the named play; one-word place answer verbatim (Athenis mutabo).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Truculentus prol. 77-78",
+   "source_text": "nam mihi haec meretrix quae hic habet, Phronesium, suom nomen omne ex pectore exmovit meo, phronesim, nam phronesis est sapientia.",
+   "question": "Quid significat nomen meretricis Phronesii apud Plautum in Truculento, ut Diniarchus ludens explicat?",
+   "answer": "Sapientiam.",
+   "question_en": "What does the name of the courtesan Phronesium mean in Plautus' Truculentus, as Diniarchus playfully explains?",
+   "answer_en": "Wisdom (Greek phronesis).",
+   "derivation": "A name-etymology fact: Phronesium's name is the Greek phronesis, 'wisdom/prudence'; Diniarchus puns that she drove all his phronesis out of his heart. Anchored to Phronesium + Truculentus; one-word answer verbatim (phronesis est sapientia).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Truculentus arg. 1-2",
+   "source_text": "Tres unam pereunt adulescentes mulierem. Rure unus, alter urbe, peregre tertius;",
+   "question": "Quot amatores simul Phronesium meretrix in Truculento Plauti emungit atque perdit?",
+   "answer": "Tres.",
+   "question_en": "How many lovers does the courtesan Phronesium fleece and ruin at once in Plautus' Truculentus?",
+   "answer_en": "Three.",
+   "derivation": "The play's premise: three young men are ruined for one woman, one from the country, one from the city, one from abroad. Anchored to Phronesium + Truculentus; number answer verbatim (Tres unam pereunt adulescentes mulierem).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Truculentus prol. 18-19",
+   "source_text": "ea se peperisse puerum simulat militi, quo citius rem ab eo averrat cum pulvisculo.",
+   "question": "Quid Phronesium meretrix militi se fecisse simulat, ut eius rem citius auferat, apud Plautum in Truculento?",
+   "answer": "Ex eo puerum peperisse.",
+   "question_en": "What does the courtesan Phronesium pretend to have done with respect to the soldier, in order to sweep away his money the faster, in Plautus' Truculentus?",
+   "answer_en": "To have borne him a son.",
+   "derivation": "The suppositious-child scheme, the play's central trick: Phronesium pretends to have borne the soldier a boy to extract greater gifts. Anchored to Phronesium + Truculentus; short answer verbatim (se peperisse puerum simulat militi).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Truculentus 83-85",
+   "source_text": "quem antehac odiosum sibi esse memorabat mala, Babyloniensem militem. is nunc dicitur venturus peregre;",
+   "question": "Quali cognomine Diniarchus rivalem suum, militem peregre venientem amatorem Phronesii, in Truculento Plauti designat?",
+   "answer": "Militem Babyloniensem.",
+   "question_en": "By what epithet does Diniarchus designate his rival, the soldier-lover of Phronesium coming from abroad, in Plautus' Truculentus?",
+   "answer_en": "The Babylonian soldier.",
+   "derivation": "The braggart-soldier lover serving abroad: Diniarchus' rival is 'the Babylonian soldier,' returning from overseas with plunder-gifts. Anchored to Phronesium + Truculentus; short answer verbatim (Babyloniensem militem).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Truculentus 227-228",
+   "source_text": "meretricem sentis similem esse condecet, quemquem hominem attigerit, profecto ei aut malum aut damnum dare.",
+   "question": "Cui rei spinosae Astaphium ancilla meretricem similem esse oportere dicit, quae cuique quem attingit malum aut damnum dat, in Truculento Plauti?",
+   "answer": "Senti.",
+   "question_en": "To what thorny thing does the maid Astaphium say a courtesan ought to be similar, one who gives harm or loss to whomever she touches, in Plautus' Truculentus?",
+   "answer_en": "To a bramble (a thorn).",
+   "derivation": "Astaphium's maxim on the trade: a courtesan should be like a bramble, harming whatever she touches. Anchored to Astaphium + Truculentus; one-word answer verbatim (meretricem sentis similem esse).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Truculentus 170-171",
+   "source_text": "Amator similest oppidi hostilis. DIN. Quo argumento est? AST. Quam primum expugnari potis est, tam id optimum est amicae.",
+   "question": "Cui loco Astaphium amatorem similem esse dicit, quem quam primum 'expugnari' amicae optimum est, in Truculento Plauti?",
+   "answer": "Oppido hostili.",
+   "question_en": "To what place does Astaphium liken a lover, one whom it is best for the courtesan to 'storm' as soon as possible, in Plautus' Truculentus?",
+   "answer_en": "To an enemy town.",
+   "derivation": "Astaphium's simile: a lover is like an enemy town, best sacked quickly. Anchored to Astaphium + Truculentus; short answer verbatim (Amator similest oppidi hostilis).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Truculentus 265",
+   "source_text": "nimis quidem hic truculentust.",
+   "question": "Quo cognomine appellatur servus ille agrestis et violentus a quo comoedia Plauti nomen accepit?",
+   "answer": "Truculentus.",
+   "question_en": "By what epithet is that boorish, violent slave called, the one from whom Plautus' comedy takes its name?",
+   "answer_en": "Truculentus (the churlish one).",
+   "derivation": "The title-character: a churlish country slave whom Astaphium dubs 'truculentus,' and who gives the play its name. Anchored to the named play; one-word answer verbatim (nimis quidem hic truculentust).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Truculentus 297-298",
+   "source_text": "Erilis noster filius apud vos Strabax ut pereat, ut eum inliciatis in malam fraudem et probrum.",
+   "question": "Cuius domini sui filium, adulescentem rusticum, servus truculentus apud meretrices perire dolet in Truculento Plauti?",
+   "answer": "Strabacem.",
+   "question_en": "Which son of his master, a rustic young man, does the churlish slave grieve to see ruined among the courtesans in Plautus' Truculentus?",
+   "answer_en": "Strabax.",
+   "derivation": "The churlish slave's grievance identifies the country lover: Strabax, the young master whose money is being drained at Phronesium's. Anchored to the slave + Truculentus; one-name answer verbatim (erilis noster filius ... Strabax).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Truculentus 489",
+   "source_text": "pluris est oculatus testis unus quam auriti decem; qui audiunt audita dicunt, qui vident plane sciunt.",
+   "question": "Quot testibus 'auritis' unum testem 'oculatum' Stratophanes miles apud Plautum in Truculento pluris esse dicit?",
+   "answer": "Decem.",
+   "question_en": "Than how many 'ear-witnesses' does the soldier Stratophanes say one 'eyewitness' is worth more, in Plautus' Truculentus?",
+   "answer_en": "Than ten.",
+   "derivation": "The proverb of the eyewitness: one who sees is worth more than ten who merely hear. Anchored to the named play; number answer verbatim (oculatus testis unus quam auriti decem).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Truculentus 499-500",
+   "source_text": "Miles, mea Phronesium, tibi adest Stratophanes.",
+   "question": "Quod est nomen militis, amatoris Phronesii, qui peregre cum donis exoticis Athenas revenit in Truculento Plauti?",
+   "answer": "Stratophanes.",
+   "question_en": "What is the name of the soldier, Phronesium's lover, who returns to Athens from abroad with exotic gifts in Plautus' Truculentus?",
+   "answer_en": "Stratophanes.",
+   "derivation": "The braggart-soldier lover named: Stratophanes, back from the wars to claim the son Phronesium pretends she bore him. Anchored to Phronesium + Truculentus; one-name answer verbatim (tibi adest Stratophanes).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Truculentus 530-532",
+   "source_text": "adduxi ancillas tibi eccas ex Suria duas, is te dono. adduce hoc tu istas. sed istae reginae domi suae fuerunt ambae, earum patriam ego excidi manu.",
+   "question": "Ex qua terra duas ancillas, olim reginas, Stratophanes miles Phronesio dono adducit in Truculento Plauti?",
+   "answer": "Ex Suria.",
+   "question_en": "From what land does the soldier Stratophanes bring two slave-maids, once queens, as a gift to Phronesium in Plautus' Truculentus?",
+   "answer_en": "From Syria.",
+   "derivation": "The braggart soldier's plunder-gifts from abroad: two Syrian slave-women, said to have been queens whose homeland he sacked. Anchored to Stratophanes + Truculentus; place answer verbatim (ancillas ... ex Suria duas).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Truculentus 539-540",
+   "source_text": "ex Arabia tibi attuli tus, Ponto amomum. tene tibi, voluptas mea.",
+   "question": "Vnde tus, quod Stratophanes miles Phronesio dono attulit, oriundum esse in Truculento Plauti dicitur?",
+   "answer": "Ex Arabia.",
+   "question_en": "From where does the frankincense that the soldier Stratophanes brings Phronesium as a gift come, in Plautus' Truculentus?",
+   "answer_en": "From Arabia.",
+   "derivation": "Among the soldier's exotic gifts, frankincense from Arabia (the ambient association of Arabia with incense) and amomum from Pontus. Anchored to Stratophanes + Truculentus; place answer verbatim (ex Arabia ... tus).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Truculentus 476",
+   "source_text": "date mi huc stactam atque ignem in aram, ut venerem Lucinam meam.",
+   "question": "Quam deam Phronesium, puerperium mentita, apud Plautum in Truculento veneratur?",
+   "answer": "Lucinam.",
+   "question_en": "What goddess does Phronesium worship, feigning childbirth, in Plautus' Truculentus?",
+   "answer_en": "Lucina.",
+   "derivation": "Lucina, the Roman goddess of childbirth, invoked by Phronesium to make her fake lying-in convincing. Anchored to Phronesium + Truculentus; one-name answer verbatim (venerem Lucinam meam).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Truculentus 515",
+   "source_text": "Mars peregre adveniens salutat Nerienem uxorem suam.",
+   "question": "Cuius dei uxor Nerienes (Nerio) habebatur, quam Stratophanes miles, se Martem fingens, apud Plautum in Truculento salutat?",
+   "answer": "Martis.",
+   "question_en": "Of what god was Nerio (Nerienes) held to be the wife, whom the soldier Stratophanes, playing Mars, greets in Plautus' Truculentus?",
+   "answer_en": "Of Mars.",
+   "derivation": "Roman divine lore: Nerio (Nerienes) was the consort of Mars; the swaggering soldier greets Phronesium as 'Mars greeting his wife Nerio.' Anchored to the named play; one-name answer verbatim (Mars ... salutat Nerienem uxorem suam).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Truculentus 568-569",
+   "source_text": "meretricem ego item esse reor, mare ut est: quod des devorat nec datis umquam abundat.",
+   "question": "Cui rei Cyamus servus meretricem similem esse dicit, quae quod datur devorat neque umquam datis abundat, in Truculento Plauti?",
+   "answer": "Mari.",
+   "question_en": "To what does the slave Cyamus liken a courtesan, one who swallows whatever is given and is never full from the giving, in Plautus' Truculentus?",
+   "answer_en": "To the sea.",
+   "derivation": "Cyamus' simile on the trade: a courtesan is like the sea, devouring all gifts yet never full. Anchored to Cyamus + Truculentus; one-word answer verbatim (meretricem ... esse reor, mare ut est).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Truculentus 649",
+   "source_text": "qui ovis Tarentinas erat mercatus de patre.",
+   "question": "Cuius generis oves ille debitor a patre Strabacis emerat, quarum pretium Strabax ad Phronesium defert in Truculento Plauti?",
+   "answer": "Oves Tarentinas.",
+   "question_en": "What kind of sheep had that debtor bought from Strabax's father, whose price Strabax carries off to Phronesium in Plautus' Truculentus?",
+   "answer_en": "Tarentine sheep.",
+   "derivation": "Livestock- and wool-trade realia: the prized Tarentine sheep, famed for fine wool. Their sale-price is what the country lover Strabax squanders on the courtesan. Anchored to Strabax + Truculentus; answer verbatim (ovis Tarentinas ... mercatus de patre).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Truculentus 673-674",
+   "source_text": "Nimio minus saevos iam sum, Astaphium, quam fui, iam non ego sum truculentus, noli metuere.",
+   "question": "Quomodo servi truculenti mores mutantur, postquam saepe in urbem ventitat, in Truculento Plauti?",
+   "answer": "Mitis fit; iam non truculentus.",
+   "question_en": "How do the churlish slave's manners change once he keeps coming to the city, in Plautus' Truculentus?",
+   "answer_en": "He grows gentle (no longer churlish).",
+   "derivation": "The play's thematic point: the boorish country slave is tamed by city ways, declaring 'iam non sum truculentus' and that he has all new manners. Anchored to the title-slave + Truculentus; short answer supported verbatim (minus saevos iam sum ... iam non sum truculentus).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Truculentus 688-690",
+   "source_text": "rabonem habeto, ut mecum hanc noctem sies. AST. Perii, rabonem? quam esse dicam hanc beluam? quin tu arrabonem dicis?",
+   "question": "Quo nomine appellatur pignus pecuniae quod Stratophanes miles dat, ut secum Astaphium noctem sit, in Truculento Plauti?",
+   "answer": "Arrabo.",
+   "question_en": "By what name is the money-pledge called that the soldier Stratophanes gives so that Astaphium will spend the night with him, in Plautus' Truculentus?",
+   "answer_en": "An arrabo (earnest-money deposit).",
+   "derivation": "Commercial realia: the arrabo, an earnest-money deposit sealing a bargain; the soldier pays one to reserve a night (comically clipping it to 'rabo'). Anchored to Stratophanes + Truculentus; one-word answer verbatim (arrabonem dicis).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Truculentus 789-790",
+   "source_text": "Quid puero factumst, mea quem peperit filia, meo nepote? capita rerum ede expedite.",
+   "question": "Cuius revera filia puerum peperit, quem Phronesium pro suo supposuit, in Truculento Plauti?",
+   "answer": "Calliclis.",
+   "question_en": "Whose daughter really bore the boy that Phronesium passed off as her own, in Plautus' Truculentus?",
+   "answer_en": "Callicles' (the old man's).",
+   "derivation": "The recognition: the suppositious baby is truly the child of the old man Callicles' daughter, his grandson (meo nepote). Anchored to Callicles + Truculentus; one-name answer verbatim (mea quem peperit filia, meo nepote).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Truculentus 825",
+   "source_text": "Diniarchus, quoi illam prius desponderas.",
+   "question": "Cui adulescenti Callicles filiam suam desponderat, qui idem patrem pueri suppositi se esse in Truculento Plauti confitetur?",
+   "answer": "Diniarcho.",
+   "question_en": "To what young man had Callicles betrothed his daughter, the same man who confesses to being the father of the suppositious child in Plautus' Truculentus?",
+   "answer_en": "To Diniarchus.",
+   "derivation": "The recognition resolving the plot: Diniarchus, betrothed to Callicles' daughter, is exposed as the man who violated her and fathered the child Phronesium passed off. Anchored to Callicles + Truculentus; one-name answer verbatim (Diniarchus, quoi illam prius desponderas).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Truculentus 844-845",
+   "source_text": "verum hoc ego te multabo bolo: sex talenta magna dotis demam pro ista inscitia.",
+   "question": "Quot talenta magna dotis Callicles Diniarcho detrahit, quod filiam eius ante nuptias vitiaverat, in Truculento Plauti?",
+   "answer": "Sex talenta.",
+   "question_en": "How many great talents of dowry does Callicles deduct from Diniarchus, because he had violated his daughter before marriage, in Plautus' Truculentus?",
+   "answer_en": "Six talents.",
+   "derivation": "The resolution's dowry realia: Callicles gives his daughter to Diniarchus but docks six talents from her dowry as a fine for the wrong. Anchored to Callicles + Diniarchus + Truculentus; number answer verbatim (sex talenta magna dotis demam).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Truculentus 809-810",
+   "source_text": "Callicles, vide in quaestione ne facias iniuriam: reus solutus causam dicit, testis vinctos attines.",
+   "question": "Quo statu reus in quaestione causam dicere solet, ut ancilla apud Plautum in Truculento Calliclem monet?",
+   "answer": "Solutus.",
+   "question_en": "In what state does the accused (reus) usually plead his case in an inquiry, as the maid reminds Callicles in Plautus' Truculentus?",
+   "answer_en": "Unbound (free).",
+   "derivation": "Roman legal-procedure realia: the accused pleads unbound, unlike the bound (torturable) slave-witnesses; the maid protests being kept bound while a reus would be free. Anchored to Truculentus; one-word answer verbatim (reus solutus causam dicit).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Truculentus 885",
+   "source_text": "verum est verbum quod memoratur: ubi amici ibidem sunt opes.",
+   "question": "Quid ibidem esse, ubi amici sint, proverbium a Phronesio apud Plautum in Truculento memoratum affirmat?",
+   "answer": "Opes.",
+   "question_en": "What does the proverb recalled by Phronesium in Plautus' Truculentus affirm to be present where friends are?",
+   "answer_en": "Wealth (resources).",
+   "derivation": "The proverb 'ubi amici ibi opes' — where there are friends, there is wealth. Anchored to Truculentus; one-word answer verbatim (ubi amici ibidem sunt opes).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Truculentus 931-932",
+   "source_text": "Venitne in mentem tibi quod verbum in cavea dixit histrio: omnes homines ad suom quaestum callent et fastidiunt.",
+   "question": "Ad quam rem omnes homines 'callere et fastidire,' secundum verbum histrionis quod Phronesium in Truculento Plauti refert, dicuntur?",
+   "answer": "Ad suom quaestum.",
+   "question_en": "For what are all men said to be 'shrewd and disdainful,' according to the actor's saying that Phronesium recalls in Plautus' Truculentus?",
+   "answer_en": "For their own profit.",
+   "derivation": "A proverb quoted as a line an actor spoke in the theater (in cavea): all men are cunning for their own gain. Anchored to Truculentus; short answer verbatim (ad suom quaestum callent).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Truculentus 967",
+   "source_text": "Veneris causa adplaudite: eius haec in tutelast fabula.",
+   "question": "Cuius deae in tutela fabula Plauti Truculentus, ut epilogus adfirmat, esse dicitur?",
+   "answer": "Veneris.",
+   "question_en": "Under whose divine protection is Plautus' play Truculentus said to be, as the epilogue affirms?",
+   "answer_en": "Venus'.",
+   "derivation": "A theatrical-convention fact: the epilogue commends the play to Venus' protection ('this play is in her tutelage'), fitting for a comedy of courtesans. Anchored to the named play; one-name answer verbatim (eius haec in tutelast fabula).",
+   "category": "ludi"
+  }
+ ]}
