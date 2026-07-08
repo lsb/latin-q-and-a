@@ -1,0 +1,430 @@
+{"source": "text/plautus/amphitruo.txt",
+ "author": "Plautus",
+ "work": "Amphitruo",
+ "pairs": [
+  {
+   "locus": "Plautus, Amphitruo prol. 59-63",
+   "source_text": "faciam ut commixta sit: sit tragicomoedia. nam me perpetuo facere ut sit comoedia, reges quo veniant et di, non par arbitror. quid igitur? quoniam hic servos quoque partes habet, faciam sit, proinde ut dixi, tragicomoedia.",
+   "question": "Quo novo nomine Mercurius in prologo Amphitruonis Plauti fabulam appellat, quia et di regesque et servus in ea partes habent?",
+   "answer": "Tragicomoediam.",
+   "question_en": "By what new name does Mercury in the prologue of Plautus' Amphitruo call the play, because both gods and kings and a slave have roles in it?",
+   "answer_en": "A tragicomedy.",
+   "derivation": "Mercury's prologue coins the word 'tragicomoedia' — the first attested use in literature, a canonical literary fact every Latin reader carries. Anchored to Mercury + the Amphitruo prologue; single-word answer stated verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 120-121",
+   "source_text": "nam meus pater intus nunc est eccum Iuppiter; in Amphitruonis vertit sese imaginem",
+   "question": "Cuius viri imaginem Iuppiter in Amphitruone Plauti induit, ut Alcumena clam frueretur?",
+   "answer": "Amphitruonis, ducis Thebani.",
+   "question_en": "Whose form does Jupiter assume in Plautus' Amphitruo in order to enjoy Alcumena in secret?",
+   "answer_en": "That of Amphitruo, the Theban commander.",
+   "derivation": "The central myth of the play: Jupiter impersonates Amphitruo. Closed-book canonical story (the begetting of Hercules); anchored to Jupiter + Amphitruo.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 124-125",
+   "source_text": "ego servi sumpsi Sosiae mi imaginem, qui cum Amphitruone abiit hinc in exercitum",
+   "question": "Cuius servi formam Mercurius in Amphitruone Plauti sumpsit, ut patri amanti subserviret?",
+   "answer": "Sosiae.",
+   "question_en": "Which slave's form does Mercury take in Plautus' Amphitruo, to serve his father in his love affair?",
+   "answer_en": "Sosia's.",
+   "derivation": "Mercury doubles the slave Sosia — the famous 'double' plot that made 'sosie' a common noun for a lookalike. Anchored to Mercury + Sosia; single-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 112-113",
+   "source_text": "et meus pater nunc intus hic cum illa cubat, et haec ob eam rem nox est facta longior",
+   "question": "Quid nocti accidit, dum Iuppiter apud Alcumenam in Amphitruone Plauti cubat?",
+   "answer": "Longior facta est.",
+   "question_en": "What happened to the night while Jupiter lay with Alcumena in Plautus' Amphitruo?",
+   "answer_en": "It was made longer.",
+   "derivation": "The famous 'long night' of the Amphitruo/Hercules myth — Jupiter lengthens the night for his tryst. Canonical shared story, stated verbatim (nox est facta longior).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 97-98",
+   "source_text": "Haec urbs est Thebae. in illisce habitat aedibus Amphitruo",
+   "question": "In qua urbe fabula Plauti quae Amphitruo inscribitur agitur?",
+   "answer": "Thebis.",
+   "question_en": "In what city is Plautus' play Amphitruo set?",
+   "answer_en": "At Thebes.",
+   "derivation": "The setting of the play, declared in the prologue — part of the shared Amphitruo/Hercules story (Hercules born at Thebes). Anchored to the named play; one-place answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 99",
+   "source_text": "quicum Alcumena est nupta, Electri filia.",
+   "question": "Cuius filia fuit Alcumena, uxor Amphitruonis, ut Plautus tradit?",
+   "answer": "Electri.",
+   "question_en": "Whose daughter was Alcumena, the wife of Amphitruo, as Plautus records?",
+   "answer_en": "Electrus' (Electryon's).",
+   "derivation": "Genealogical myth-fact: Alcumena is daughter of Electrus (Greek Electryon). Anchored to Alcumena + Amphitruo; single-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 110-111",
+   "source_text": "nunc de Alcumena ut rem teneatis rectius, utrimque est gravida, et ex viro et ex summo Iove.",
+   "question": "Ex quibus duobus Alcumena in Amphitruone Plauti simul gravida est?",
+   "answer": "Ex Amphitruone viro et ex Iove.",
+   "question_en": "By which two is Alcumena simultaneously pregnant in Plautus' Amphitruo?",
+   "answer_en": "By her husband Amphitruo and by Jupiter.",
+   "derivation": "The double paternity that yields the twins Hercules and Iphicles — canonical myth. Two-name answer stated verbatim (et ex viro et ex summo Iove).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 11-12",
+   "source_text": "nam vos quidem id iam scitis concessum et datum mi esse ab dis aliis, nuntiis praesim et lucro",
+   "question": "Quibus duabus rebus Mercurium deum praeesse prologus Amphitruonis dicit?",
+   "answer": "Nuntiis et lucro.",
+   "question_en": "Over what two things does the prologue of the Amphitruo say the god Mercury presides?",
+   "answer_en": "Over messages and profit.",
+   "derivation": "Canonical divine attribute: Mercury as god of messengers and gain (commerce) — ambient Roman religious knowledge, stated verbatim by the god himself.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 142-145",
+   "source_text": "nunc internosse ut nos possitis facilius, ego has habebo usque in petaso pinnulas; tum meo patri autem torulus inerit aureus sub petaso: id signum Amphitruoni non erit.",
+   "question": "Quo signo spectatores Iovem a vero Amphitruone in fabula Plauti dignoscere possunt?",
+   "answer": "Torulo aureo sub petaso.",
+   "question_en": "By what token can the spectators distinguish Jupiter from the real Amphitruo in Plautus' play?",
+   "answer_en": "By a little golden tuft under his hat.",
+   "derivation": "Famous theatrical convention of the play: Mercury wears little wings on his petasus, Jupiter a golden tuft beneath his — the tokens announced to the audience. Anchored to Jupiter/Amphitruo; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Amphitruo 155",
+   "source_text": "quid faciam nunc, si tres viri me in carcerem compegerint?",
+   "question": "Quos magistratus Sosia servus in Amphitruone Plauti timet, ne se noctu ambulantem in carcerem compingant?",
+   "answer": "Tresviros.",
+   "question_en": "Which magistrates does the slave Sosia in Plautus' Amphitruo fear may throw him into prison for walking about at night?",
+   "answer_en": "The tresviri (the Roman board of three who policed the night).",
+   "derivation": "Roman realia through the Greek mask: the tresviri capitales, Rome's night police with jail duty, invoked anachronistically in Theban 'Thebes'. Anchored to Sosia + the play; one-office answer verbatim.",
+   "category": "ius"
+  }
+,
+  {
+   "locus": "Plautus, Amphitruo prol. 72",
+   "source_text": "sive adeo aediles perfidiose cui duint, sirempse legem iussit esse Iuppiter, quasi magistratum sibi alterive ambiverit.",
+   "question": "Qui magistratus Romani, ut prologus Amphitruonis innuit, palmam histrionibus in ludis dabant?",
+   "answer": "Aediles.",
+   "question_en": "Which Roman magistrates, as the prologue of the Amphitruo implies, awarded the palm to actors at the games?",
+   "answer_en": "The aediles.",
+   "derivation": "Roman theatrical institution poking through the Greek dress: the aediles ran the ludi and judged the prize (palma) for actors. Anchored to the Amphitruo prologue; one-office answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 100-101",
+   "source_text": "is nunc Amphitruo praefectust legionibus, nam cum Telobois bellum est Thebano poplo.",
+   "question": "Contra quem populum Amphitruo, legionibus Thebanis praefectus, bellum gessit apud Plautum?",
+   "answer": "Contra Teloboas.",
+   "question_en": "Against what people did Amphitruo, commander of the Theban legions, wage war in Plautus?",
+   "answer_en": "Against the Teloboians.",
+   "derivation": "The war frame of the myth: Amphitruo commands Thebes against the Teloboae while Jupiter visits his wife. Anchored to Amphitruo + Thebes; one-people answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 252",
+   "source_text": "ipsusque Amphitruo regem Pterelam sua obtruncavit manu.",
+   "question": "Quem regem Teloboarum Amphitruo sua manu occidit, ut in Amphitruone Plauti narratur?",
+   "answer": "Pterelam.",
+   "question_en": "Which king of the Teloboians did Amphitruo slay with his own hand, as told in Plautus' Amphitruo?",
+   "answer_en": "Pterelas.",
+   "derivation": "Named single combat of the myth: Amphitruo kills King Pterelas. Anchored to Amphitruo + the Teloboae; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 194",
+   "source_text": "regique Thebano Creoni regnum stabilivit suom.",
+   "question": "Quis Thebis regnabat, cum Amphitruo contra Teloboas pugnaret, ut Plautus tradit?",
+   "answer": "Creo rex.",
+   "question_en": "Who was reigning at Thebes when Amphitruo fought the Teloboians, as Plautus records?",
+   "answer_en": "King Creon.",
+   "derivation": "Creon as king of Thebes in the Amphitruo/Hercules saga — canonical myth-figure. Anchored to Thebes + the Teloboan war; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo prol. 98",
+   "source_text": "in illisce habitat aedibus Amphitruo, natus Argis ex Argo patre",
+   "question": "Qua in urbe natum esse Amphitruonem prologus Plauti dicit?",
+   "answer": "Argis.",
+   "question_en": "In what city does Plautus' prologue say Amphitruo was born?",
+   "answer_en": "At Argos.",
+   "derivation": "Plautus' particular claim about Amphitruo's origin (born at Argos of an Argive father) — attributed to the prologue, hence the 'dicit' frame. One-place answer verbatim.",
+   "category": "mythos"
+  }
+,
+  {
+   "locus": "Plautus, Amphitruo 260-261",
+   "source_text": "post ob virtutem ero Amphitruoni patera donata aurea est, qui Pterela potitare solitus est rex.",
+   "question": "Quod donum Amphitruo dux ob virtutem, Telobois victis, accepit apud Plautum?",
+   "answer": "Pateram auream, qua Pterela rex potitare solitus erat.",
+   "question_en": "What gift did the commander Amphitruo receive for his valor after the defeat of the Teloboians, in Plautus?",
+   "answer_en": "The golden bowl from which King Pterelas used to drink.",
+   "derivation": "The famous stage property of the play — the patera aurea of King Pterelas, given to Amphitruo as prize of valor; it later drives the recognition plot. Anchored to Amphitruo + Pterelas; short noun-phrase answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 419-422",
+   "source_text": "Est in cistula; Amphitruonis obsignata signo est. Signi dic quid est? Cum quadrigis Sol exoriens.",
+   "question": "Quod signum anulo Amphitruonis insculptum erat, quo patera aurea in Amphitruone Plauti obsignata est?",
+   "answer": "Sol exoriens cum quadrigis.",
+   "question_en": "What device was engraved on Amphitruo's signet, with which the golden bowl was sealed in Plautus' Amphitruo?",
+   "answer_en": "The rising Sun with his four-horse chariot.",
+   "derivation": "Named seal-device of Amphitruo's signet (the rising Sun with quadriga), by which Mercury proves his false identity — a memorable checkable detail of the canonical play; also Roman sealing practice through the Greek mask. Speaker tags stripped per normalization.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 480-483",
+   "source_text": "hodie illa pariet filios geminos duos alter decumo post mense nascetur puer quam seminatust, alter mense septumo; eorum Amphitruonis alter est, alter Iovis",
+   "question": "Quot filios et quibus patribus Alcumena in Amphitruone Plauti paritura esse dicitur?",
+   "answer": "Geminos duos, alterum Amphitruonis, alterum Iovis.",
+   "question_en": "How many sons, and by what fathers, is Alcumena said to be about to bear in Plautus' Amphitruo?",
+   "answer_en": "Twin sons, one Amphitruo's, one Jupiter's.",
+   "derivation": "The canonical twin birth (Hercules and Iphicles) with double paternity, foretold by Mercury. Anchored to Alcumena + the two named fathers; short count-and-names answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 481-482",
+   "source_text": "alter decumo post mense nascetur puer quam seminatust, alter mense septumo",
+   "question": "Quoto mense post conceptum nasciturus est puer Iovis filius, ut Mercurius in Amphitruone praedicit?",
+   "answer": "Septumo mense.",
+   "question_en": "In what month after conception will the boy who is Jupiter's son be born, as Mercury foretells in the Amphitruo?",
+   "answer_en": "In the seventh month.",
+   "derivation": "Mercury's obstetric detail: the younger-conceived child (Jupiter's, i.e. Hercules) comes in the seventh month, the husband's in the tenth — the ancient seven-month/ten-month birth lore. Number answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 365",
+   "source_text": "Sosiam vocant Thebani, Davo prognatum patre.",
+   "question": "Quo patre natus est Sosia, servus Amphitruonis, apud Plautum?",
+   "answer": "Davo.",
+   "question_en": "Of what father was Sosia, Amphitruo's slave, born, according to Plautus?",
+   "answer_en": "Of Davus.",
+   "derivation": "Named filiation of the famous doubled slave: Sosia son of Davus (the stock comic slave name). Anchored to Sosia + Amphitruo; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 534-536",
+   "source_text": "nunc tibi hanc pateram, quae dono mi illi ob virtutem data est, Pterela rex qui potitavit, quem ego mea occidi manu, Alcumena, tibi condono.",
+   "question": "Cui Iuppiter, Amphitruonis specie indutus, pateram auream Pterelae regis dono dedit apud Plautum?",
+   "answer": "Alcumenae.",
+   "question_en": "To whom did Jupiter, wearing Amphitruo's likeness, present the golden bowl of King Pterelas, in Plautus?",
+   "answer_en": "To Alcumena.",
+   "derivation": "Jupiter regifts Amphitruo's prize bowl to Alcumena — the act that later convicts the real Amphitruo of 'lying'. Anchored to Jupiter + the named patera; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 508",
+   "source_text": "Ecastor te experior quanti facias uxorem tuam.",
+   "question": "Quod iusiurandum, quo solae mulieres Romanae utebantur, Alcumena matrona in Amphitruone Plauti profert?",
+   "answer": "Ecastor.",
+   "question_en": "What oath, used only by Roman women, does the matron Alcumena utter in Plautus' Amphitruo?",
+   "answer_en": "'Ecastor' (by Castor).",
+   "derivation": "Gendered Roman oath usage evidenced in the text: the matrona swears 'ecastor' (by Castor), the women-only oath, while the men swear edepol/hercle. Roman speech-custom through the Greek mask; one-word answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Amphitruo 648-653",
+   "source_text": "virtus praemium est optimum; virtus omnibus rebus anteit profecto: libertas salus vita res et parentes, patria et prognati tutantur, servantur: virtus omnia in sese habet, omnia adsunt bona quem penest virtus.",
+   "question": "Quid Alcumena in Amphitruone Plauti praemium optimum esse et rebus omnibus anteire canit?",
+   "answer": "Virtutem.",
+   "question_en": "What does Alcumena in Plautus' Amphitruo sing is the best reward and surpasses all things?",
+   "answer_en": "Virtus (valor/virtue).",
+   "derivation": "Alcumena's celebrated canticum in praise of virtus — one of the most quoted moral tags in Plautus ('virtus praemium est optimum'). Anchored to Alcumena + the play; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Amphitruo 831-834",
+   "source_text": "Per supremi regis regnum iuro et matrem familias Iunonem, quam me vereri et metuere est par maxume, ut mi extra unum te mortalis nemo corpus corpore contigit, quo me impudicam faceret.",
+   "question": "Per quam deam Alcumena in Amphitruone Plauti pudicitiam suam iurat?",
+   "answer": "Per Iunonem, matrem familias.",
+   "question_en": "By what goddess does Alcumena in Plautus' Amphitruo swear to her chastity?",
+   "answer_en": "By Juno, the mater familias.",
+   "derivation": "The matron's oath by Juno, the married woman's own goddess, styled 'mater familias' — Roman matronal religion evidenced verbatim. Anchored to Alcumena; one-name answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Amphitruo 703-705",
+   "source_text": "Bacchae bacchanti si velis advorsarier, ex insana insaniorem facies, feriet saepius; si obsequare, una resolvas plaga.",
+   "question": "Quid fieri Sosia apud Plautum dicit, si quis Bacchae bacchanti advorsari velit?",
+   "answer": "Ex insana insanior fit.",
+   "question_en": "What does Sosia in Plautus say happens if one tries to oppose a raving Bacchant?",
+   "answer_en": "From mad she becomes madder.",
+   "derivation": "Proverbial wisdom with a checkable point, built on the shared image of the frenzied Bacchant (Bacchic rites as ambient cultural knowledge). Short answer stated verbatim (ex insana insaniorem facies).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Amphitruo 739-740",
+   "source_text": "sed, mulier, postquam experrecta es, te prodigiali Iovi aut mola salsa hodie aut ture comprecatam oportuit.",
+   "question": "Quibus rebus oblatis somnia prodigialia Iovi expiari oportebat, ut Sosia in Amphitruone Plauti monet?",
+   "answer": "Mola salsa aut ture.",
+   "question_en": "With what offerings ought portentous dreams to be expiated before Jupiter, as Sosia advises in Plautus' Amphitruo?",
+   "answer_en": "With salted meal (mola salsa) or with incense.",
+   "derivation": "Genuine Roman rite through the Greek mask: prodigies and ominous dreams expiated by prayer to Iuppiter prodigialis with mola salsa or incense — the mola salsa being the quintessential Roman offering. Two-item answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Amphitruo 404-405",
+   "source_text": "nonne hac noctu nostra navis huc ex portu Persico venit, quae me advexit?",
+   "question": "Ex quo portu navis, quae Sosiam Thebas revexit, in Amphitruone Plauti advenit?",
+   "answer": "E portu Persico.",
+   "question_en": "From what harbor did the ship that brought Sosia back to Thebes arrive, in Plautus' Amphitruo?",
+   "answer_en": "From the Persian harbor (portus Persicus).",
+   "derivation": "The named harbor of the play — the portus Persicus where Amphitruo's ship lay (also 'cenavi in navi in portu Persico'). A checkable place-name detail of the canonical comedy; one-place answer verbatim.",
+   "category": "geographia"
+  }
+,
+  {
+   "locus": "Plautus, Amphitruo 839-842",
+   "source_text": "Non ego illam mihi dotem duco esse, quae dos dicitur, sed pudicitiam et pudorem et sedatum cupidinem, deum metum, parentum amorem et cognatum concordiam, tibi morigera atque ut munifica sim bonis, prosim probis.",
+   "question": "Quam rem Alcumena in Amphitruone Plauti pro vera dote sua maxime ducit, non pecuniam?",
+   "answer": "Pudicitiam.",
+   "question_en": "What does Alcumena in Plautus' Amphitruo count as her true dowry, rather than money?",
+   "answer_en": "Her chastity (pudicitia).",
+   "derivation": "Alcumena's famous 'my dowry is my virtue' speech — pudicitia heads her list (with pudor, fear of the gods, love of parents). A celebrated statement of Roman matronal ideals framed against the money-dowry (dos). Anchored to Alcumena; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Amphitruo 928",
+   "source_text": "valeas, tibi habeas res tuas, reddas meas.",
+   "question": "Quibus verbis sollemnibus Alcumena in Amphitruone Plauti matrimonium renuntiat?",
+   "answer": "Valeas, tibi habeas res tuas, reddas meas.",
+   "question_en": "With what formulaic words does Alcumena in Plautus' Amphitruo renounce her marriage?",
+   "answer_en": "'Farewell; keep your things for yourself, and give back mine.'",
+   "derivation": "The Roman divorce formula ('tuas res tibi habeto', known from the jurists) placed in the Theban matron's mouth — Roman law through the Greek mask. A saying quoted verbatim per the proverb rule; anchored to Alcumena + the play.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Amphitruo 946-948",
+   "source_text": "Iube vero vasa pura adornari mihi, ut quae apud legionem vota vovi, si domum rediissem salvos, ea ego exsolvam omnia.",
+   "question": "Qualia vasa sibi adornari iubet Iuppiter, Amphitruonis forma indutus, ut vota apud legionem suscepta exsolvat?",
+   "answer": "Vasa pura.",
+   "question_en": "What kind of vessels does Jupiter, in Amphitruo's form, order prepared so that he may discharge the vows he made with the legion?",
+   "answer_en": "Pure (plain, undecorated) vessels — vasa pura.",
+   "derivation": "Roman votive religion evidenced verbatim: vows made on campaign, conditional on safe return, discharged at home with sacrifice using the ritually 'pure' vessels (vasa pura, a technical term of Roman cult). Short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Amphitruo 950-951",
+   "source_text": "gubernatorem qui in mea navi fuit Blepharonem arcessat, qui nobiscum prandeat.",
+   "question": "Quo munere Blepharo in Amphitruone Plauti fungitur?",
+   "answer": "Gubernatoris navis Amphitruonis.",
+   "question_en": "What role does Blepharo fill in Plautus' Amphitruo?",
+   "answer_en": "That of the pilot (helmsman) of Amphitruo's ship.",
+   "derivation": "Named character fact of the canonical play: Blepharo is the gubernator of Amphitruo's ship (so also the personae list), invited to lunch and later made arbiter. One-office answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo arg. II 7-8",
+   "source_text": "Blepharo captus arbiter Vter sit non quit Amphitruo decernere.",
+   "question": "Quis in Amphitruone Plauti arbiter captus uter verus Amphitruo esset decernere non potuit?",
+   "answer": "Blepharo gubernator.",
+   "question_en": "Who in Plautus' Amphitruo, taken as arbiter, could not decide which was the real Amphitruo?",
+   "answer_en": "Blepharo the ship's pilot.",
+   "derivation": "The famous judgment scene: Blepharo, called in as arbiter between Jupiter and Amphitruo, cannot tell them apart and walks off ('qui utri sim advocatus nescio'). Anchored to the named play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 986-988",
+   "source_text": "nam mihi quidem hercle qui minus liceat deo minitarier populo, ni decedat mihi, quam servolo in comoediis? ille navem salvam nuntiat aut irati adventum senis",
+   "question": "Quae duo nuntiare solet servolus currens in comoediis, ut Mercurius in Amphitruone Plauti ait?",
+   "answer": "Navem salvam aut irati senis adventum.",
+   "question_en": "What two things does the running slave in comedies usually announce, as Mercury says in Plautus' Amphitruo?",
+   "answer_en": "That the ship is safe, or that the angry old man is coming.",
+   "derivation": "Meta-theatrical fact: the stock 'servus currens' convention of Roman comedy, described by Mercury himself — theater conventions are criterion 8's home turf. Two-item answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Amphitruo 999",
+   "source_text": "capiam coronam mi in caput, adsimulabo me esse ebrium",
+   "question": "Quo capitis ornatu Mercurius in Amphitruone Plauti se ebrium esse simulat?",
+   "answer": "Corona in caput sumpta.",
+   "question_en": "With what head-adornment does Mercury in Plautus' Amphitruo pretend to be drunk?",
+   "answer_en": "With a garland put on his head.",
+   "derivation": "Banquet custom: the corona (garland) worn on the head was the recognized sign of the drinker fresh from a party — Mercury dons one precisely to play drunk. Short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Amphitruo fr. 1034a",
+   "source_text": "At ego te cruce et cruciatu mactabo, mastigia.",
+   "question": "Quo supplicio Amphitruo apud Plautum ei minatur, quem servum suum Sosiam esse credit?",
+   "answer": "Cruce.",
+   "question_en": "With what punishment does Amphitruo in Plautus threaten the man he believes to be his slave Sosia?",
+   "answer_en": "With the cross.",
+   "derivation": "The crux as the servile punishment par excellence — the stock slave-threat of Roman comedy, hurled here at the false Sosia. Roman penal realia through the Greek mask; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Amphitruo 1043-1044",
+   "source_text": "ego pol illum ulciscar hodie Thessalum veneficum, qui pervorse perturbavit familiae mentem meae.",
+   "question": "Vnde oriundum esse veneficum Amphitruo apud Plautum suspicatur eum, qui familiae suae mentem perturbavit?",
+   "answer": "Ex Thessalia.",
+   "question_en": "From where does Amphitruo in Plautus suspect the sorcerer who has deranged his household comes?",
+   "answer_en": "From Thessaly.",
+   "derivation": "Thessaly as the proverbial homeland of witches and poisoners — a shared ancient commonplace, evidenced by 'Thessalum veneficum'. Anchored to Amphitruo; one-place answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Amphitruo 1119",
+   "source_text": "Puer ambo angues enicat.",
+   "question": "Quid fecit puer, quem Alcumena Iovi peperit, cum angues ad cunas eius venissent, in Amphitruone Plauti?",
+   "answer": "Ambo angues enicavit.",
+   "question_en": "What did the boy whom Alcumena bore to Jupiter do when the serpents came to his cradle, in Plautus' Amphitruo?",
+   "answer_en": "He killed both serpents.",
+   "derivation": "The canonical infant-Hercules deed: the newborn leaps from the cradle and strangles the two snakes (the play never names Hercules, but every reader carries the story). Anchored to Jupiter's son + the cradle; brief answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 1107-1109",
+   "source_text": "postquam in cunas conditust, devolant angues iubati deorsum in impluvium duo maximi: continuo extollunt ambo capita.",
+   "question": "In quam partem aedium duo angues iubati in Amphitruone Plauti devolaverunt?",
+   "answer": "In impluvium.",
+   "question_en": "Into what part of the house did the two crested serpents fly down in Plautus' Amphitruo?",
+   "answer_en": "Into the impluvium (the rain-basin of the atrium).",
+   "derivation": "Roman realia through the Greek mask: the snakes descend into the impluvium — the rain-catching basin of the Roman atrium house, anachronistically placed in 'Thebes'. Also fixes the number (duo) and epithet (iubati). One-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Amphitruo 1122-1124",
+   "source_text": "is se dixit cum Alcumena clam consuetum cubitibus, eumque filium suom esse qui illos angues vicerit; alterum tuom esse dixit puerum.",
+   "question": "Vter geminorum ab Alcumena editorum Iovis filius erat, ut ipse Iuppiter in Amphitruone Plauti declaravit?",
+   "answer": "Is qui angues vicit.",
+   "question_en": "Which of the twins borne by Alcumena was Jupiter's son, as Jupiter himself declared in Plautus' Amphitruo?",
+   "answer_en": "The one who overcame the serpents.",
+   "derivation": "Jupiter's own identification of his child (the future Hercules) by the snake-victory, the other twin being Amphitruo's. Anchored to Jupiter + Alcumena's twins; short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 1128-1129",
+   "source_text": "ego Teresiam coniectorem advocabo et consulam quid faciundum censeat",
+   "question": "Quem coniectorem Amphitruo de prodigiis domus suae consulere constituit apud Plautum?",
+   "answer": "Teresiam.",
+   "question_en": "Which seer did Amphitruo decide to consult about the prodigies in his house, in Plautus?",
+   "answer_en": "Teresias (Tiresias).",
+   "derivation": "The canonical Theban seer Tiresias, summoned to interpret the portents — then dismissed when Jupiter himself explains ('missum facio Teresiam senem'). Anchored to Amphitruo + the named seer; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo arg. I 9-10",
+   "source_text": "donec cum tonitru voce missa ex aethere adulterum se Iuppiter confessus est.",
+   "question": "Quis deus in fine Amphitruonis Plauti, voce ex aethere missa, se adulterum esse confessus est?",
+   "answer": "Iuppiter.",
+   "question_en": "Which god at the end of Plautus' Amphitruo, with a voice sent from the sky, confessed himself the adulterer?",
+   "answer_en": "Jupiter.",
+   "derivation": "The deus-ex-machina ending: Jupiter appears amid thunder, confesses the deed and reconciles the couple ('ego in caelum migro'). Anchored to the named play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Amphitruo 1093-1094",
+   "source_text": "invocat deos immortales, ut sibi auxilium ferant, manibus puris, capite operto.",
+   "question": "Quo corporis habitu Alcumena parturiens deos immortales invocavit, ut Bromia in Amphitruone Plauti narrat?",
+   "answer": "Manibus puris, capite operto.",
+   "question_en": "In what bodily attitude did Alcumena in labor call upon the immortal gods, as Bromia relates in Plautus' Amphitruo?",
+   "answer_en": "With clean hands and covered head.",
+   "derivation": "Roman prayer ritual evidenced verbatim: praying capite operto (with veiled head) and with pure hands — the characteristically Roman posture of worship, worn here by a Theban matron. Short answer verbatim.",
+   "category": "religio"
+  }
+ ]}

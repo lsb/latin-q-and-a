@@ -1,0 +1,621 @@
+{"source": "text/plautus/aulularia.txt",
+ "author": "Plautus",
+ "work": "Aulularia",
+ "pairs": [
+  {
+   "locus": "Plautus, Aulularia prol. 1-3",
+   "source_text": "Ne quis miretur qui sim, paucis eloquar. ego Lar sum familiaris ex hac familia unde exeuntem me aspexistis.",
+   "question": "Quis deus prologum Aululariae Plauti agit?",
+   "answer": "Lar familiaris.",
+   "question_en": "What god speaks the prologue of Plautus' Aulularia?",
+   "answer_en": "The Lar familiaris (the household god).",
+   "derivation": "Canonical literary fact: the Aulularia's prologue is spoken by the household Lar — Roman domestic religion stepping through the Greek mask to open the play. One-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia prol. 6-8",
+   "source_text": "sed mi avos huius obsecrans concredidit thensaurum auri clam omnis: in medio foco defodit, venerans me ut id servarem sibi.",
+   "question": "Quo loco avus Euclionis thensaurum auri defoderat, ut Lar in Aululariae prologo narrat?",
+   "answer": "In medio foco.",
+   "question_en": "Where had Euclio's grandfather buried the treasure of gold, as the Lar tells in the prologue of the Aulularia?",
+   "answer_en": "In the middle of the hearth.",
+   "derivation": "The treasure entrusted to the Lar and buried in the hearth — the focus being precisely the Lar's seat in the Roman house. Anchored to Euclio's grandfather + the Lar; one-place answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia prol. 23-25",
+   "source_text": "huic filia una est. ea mihi cottidie aut ture aut vino aut aliqui semper supplicat, dat mihi coronas.",
+   "question": "Quibus donis filia Euclionis Larem familiarem cottidie colit, ut ipse Lar apud Plautum narrat?",
+   "answer": "Ture, vino, coronis.",
+   "question_en": "With what gifts does Euclio's daughter honor the household Lar every day, as the Lar himself tells in Plautus?",
+   "answer_en": "With incense, wine, and garlands.",
+   "derivation": "Roman household cult in daily practice: incense, wine, and garlands offered to the Lar — the standard domestic offerings. Anchored to Euclio's daughter + the Lar; three-item answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia prol. 25-27",
+   "source_text": "eius honoris gratia feci, thensaurum ut hic reperiret Euclio, quo illam facilius nuptum, si vellet, daret.",
+   "question": "Cuius honoris gratia Lar familiaris effecit, ut Euclio thensaurum reperiret?",
+   "answer": "Filiae Euclionis, quae eum cottidie colebat.",
+   "question_en": "For whose sake did the household Lar bring it about that Euclio found the treasure?",
+   "answer_en": "For Euclio's daughter, who worshipped him daily.",
+   "derivation": "The Lar's stated motive: he reveals the treasure to reward the pious daughter and provide her a dowry — the theology of the household cult (honor repaid) driving the plot. Anchored to the Lar + Euclio; short answer verbatim in substance.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia prol. 34-36",
+   "source_text": "is adulescentis illius est avonculus, qui illam stupravit noctu, Cereris vigiliis.",
+   "question": "Quo festo tempore filia Euclionis in Aulularia Plauti vitiata est?",
+   "answer": "Noctu, Cereris vigiliis.",
+   "question_en": "At what festival time was Euclio's daughter violated in Plautus' Aulularia?",
+   "answer_en": "At night, during the vigil of Ceres.",
+   "derivation": "Named rite anchoring the plot: the nocturnal vigil of Ceres, at which Lyconides assaulted the girl. Festival knowledge (criterion 8) with a one-phrase answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia arg. II 1-2",
+   "source_text": "Aulam repertam auri plenam Euclio Vi summa servat, miseris adfectus modis.",
+   "question": "Quam rem Euclio senex avarus in Aulularia Plauti summa vi servat?",
+   "answer": "Aulam auri plenam.",
+   "question_en": "What does the miserly old man Euclio guard with all his might in Plautus' Aulularia?",
+   "answer_en": "A pot full of gold.",
+   "derivation": "The title-fact of the play: Euclio the miser and his aula (pot) of gold, from which the Aulularia is named — the canonical literature-fact every Latin reader carries. Short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia 107-108",
+   "source_text": "nam noster nostrae qui est magister curiae dividere argenti dixit nummos in viros",
+   "question": "Quis, ut Euclio in Aulularia Plauti refert, nummos argenti in viros dividere dixerat?",
+   "answer": "Magister curiae.",
+   "question_en": "Who, as Euclio reports in Plautus' Aulularia, had announced a distribution of silver coins per man?",
+   "answer_en": "The master of the curia (ward-president).",
+   "derivation": "Roman civic institution through the Greek mask: the curia and its magister distributing a money dole man by man — the errand that forces Euclio from home. One-office answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Aulularia 162-164",
+   "source_text": "Post mediam aetatem qui media ducit uxorem domum, si eam senex anum praegnatem fortuito fecerit, quid dubitas, quin sit paratum nomen puero Postumus?",
+   "question": "Quod nomen puero paratum esse Megadorus in Aulularia iocatur, quem senex ex anu uxore genuerit?",
+   "answer": "Postumus.",
+   "question_en": "What name does Megadorus in the Aulularia joke is ready-made for a boy begotten by an old man on an aged wife?",
+   "answer_en": "Postumus.",
+   "derivation": "Roman naming custom: Postumus, the cognomen for the late-born (or after-born) child, deployed as the punchline of Megadorus' joke about old men marrying. Anchored to Megadorus; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 167-169",
+   "source_text": "istas magnas factiones, animos, dotes dapsiles, clamores, imperia, eburata vehicla, pallas, purpuram, nil moror quae in servitutem sumptibus redigunt viros.",
+   "question": "Quo uxores magnis cum dotibus viros suos redigere Megadorus apud Plautum dicit?",
+   "answer": "In servitutem, sumptibus.",
+   "question_en": "To what condition does Megadorus in Plautus say wives with great dowries reduce their husbands?",
+   "answer_en": "To servitude, by their expenses.",
+   "derivation": "Megadorus' famous tirade on dowered wives — their retinues, ivory carriages, mantles and purple enslave the husband. A mores locus classicus on the Roman dowry debate; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 235",
+   "source_text": "hoc magnum est periclum, ab asinis ad boves transcendere.",
+   "question": "Quid Euclio in Aulularia Plauti magnum periculum esse dicit, cum de nuptiis cum divite loquitur?",
+   "answer": "Ab asinis ad boves transcendere.",
+   "question_en": "What does Euclio in Plautus' Aulularia say is a great danger, speaking of marriage with a rich man?",
+   "answer_en": "To climb over from the asses to the oxen.",
+   "derivation": "Proverbial saying the play made famous: the poor man 'crossing from asses to oxen' (marrying above his station) courts ruin. Quoted verbatim per the proverb rule; anchored to Euclio.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Aulularia 195",
+   "source_text": "altera manu fert lapidem, panem ostentat altera.",
+   "question": "Quid altera manu fert, qui panem altera ostentat, secundum proverbium apud Plautum in Aulularia?",
+   "answer": "Lapidem.",
+   "question_en": "What does he carry in one hand who shows bread with the other, according to the proverb in Plautus' Aulularia?",
+   "answer_en": "A stone.",
+   "derivation": "The proverb of the two-faced benefactor — bread on show, stone in hand — coined of the rich man flattering the poor. Quoted point is checkable; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Aulularia 198",
+   "source_text": "ego istos novi polypos, qui ubi quidquid tetigerunt tenent.",
+   "question": "Quibus animalibus Euclio in Aulularia Plauti divites comparat, qui quidquid tetigerunt tenent?",
+   "answer": "Polypis.",
+   "question_en": "To what animals does Euclio in Plautus' Aulularia compare the rich, who hold whatever they have touched?",
+   "answer_en": "To polyps (octopuses).",
+   "derivation": "Proverbial image: the grasping man as a polypus that never lets go of what it touches. Anchored to Euclio + the rich; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Aulularia 85-86",
+   "source_text": "Mirum quin tua me causa faciat Iuppiter Philippum regem aut Dareum, trivenefica.",
+   "question": "Quos duos reges Euclio in Aulularia Plauti ut exempla summarum divitiarum nominat?",
+   "answer": "Philippum et Dareum.",
+   "question_en": "Which two kings does Euclio in Plautus' Aulularia name as bywords for the greatest wealth?",
+   "answer_en": "Philip and Darius.",
+   "derivation": "Philip of Macedon and Darius of Persia as proverbially rich kings — the shared byword for fabulous wealth (cf. the Philippei nummi). Two-name answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Aulularia 95-97",
+   "source_text": "cultrum, securim, pistillum, mortarium, quae utenda vasa semper vicini rogant, fures venisse atque abstulisse dicito.",
+   "question": "Quae quattuor vasa vicinos semper utenda rogare Euclio in Aulularia Plauti dicit?",
+   "answer": "Cultrum, securim, pistillum, mortarium.",
+   "question_en": "What four utensils does Euclio in Plautus' Aulularia say the neighbors are always asking to borrow?",
+   "answer_en": "The knife, the axe, the pestle, and the mortar.",
+   "derivation": "Daily-life custom: the standing neighborly loan of kitchen implements (vasa utenda), the four named items being the stock list. Anchored to Euclio + the neighbors; four-item answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia arg. I 5-7",
+   "source_text": "interea senex Megadorus a sorore suasus ducere uxorem avari gnatam deposcit sibi.",
+   "question": "A qua persuasus Megadorus senex uxorem ducere in Aulularia Plauti statuit?",
+   "answer": "A sorore sua.",
+   "question_en": "By whom was the old man Megadorus persuaded to take a wife in Plautus' Aulularia?",
+   "answer_en": "By his sister (Eunomia).",
+   "derivation": "Named relation of the plot: Megadorus moves to marry at his sister's urging (Eunomia in the play). Anchored to Megadorus; short answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Aulularia 255-256",
+   "source_text": "Quid nunc? etiam mihi despondes filiam? Illis legibus, cum illa dote quam tibi dixi. Sponden ergo? Spondeo.",
+   "question": "Quo verbo sollemni Euclio filiam suam Megadoro in Aulularia Plauti despondet?",
+   "answer": "Spondeo.",
+   "question_en": "With what solemn word does Euclio betroth his daughter to Megadorus in Plautus' Aulularia?",
+   "answer_en": "'Spondeo' (I pledge).",
+   "derivation": "The Roman betrothal by sponsio — the formal question-and-answer 'sponden? / spondeo' — enacted on stage. Roman law of engagement through the Greek mask; one-word answer verbatim. Speaker tags stripped per normalization.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Aulularia 238-239",
+   "source_text": "At nihil est dotis quod dem. Ne duas. dum modo morata recte veniat, dotata est satis.",
+   "question": "Qua re satis dotatam esse virginem Megadorus in Aulularia Plauti dicit, etiam sine pecunia?",
+   "answer": "Moribus rectis.",
+   "question_en": "With what does Megadorus in Plautus' Aulularia say a girl is sufficiently dowered, even without money?",
+   "answer_en": "With good character.",
+   "derivation": "The famous sententia on dowries: 'dum modo morata recte veniat, dotata est satis' — character as dowry, the moral counterpart to Megadorus' anti-dowry tirade. Short answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 325-326",
+   "source_text": "Tun, trium litterarum homo, me vituperas? fur.",
+   "question": "Quis appellatur 'trium litterarum homo' apud Plautum in Aulularia?",
+   "answer": "Fur.",
+   "question_en": "Who is called 'a man of three letters' in Plautus' Aulularia?",
+   "answer_en": "A thief (fur — spelled with three letters).",
+   "derivation": "The celebrated 'trium litterarum homo' joke: the three letters are f-u-r, 'thief' — a proverbial tag the play made famous, hurled by one cook at the other. Kept per instructions as a famous checkable saying; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Aulularia 324-325",
+   "source_text": "Cocus ille nundinalest, in nonum diem solet ire coctum.",
+   "question": "Quoto quoque die cocus 'nundinalis' coctum ire solet, ut Anthrax in Aulularia Plauti iocatur?",
+   "answer": "In nonum diem.",
+   "question_en": "Every how many days does the 'market-day cook' go out to cook, as Anthrax jokes in Plautus' Aulularia?",
+   "answer_en": "Every ninth day (on the nundinae).",
+   "derivation": "The Roman nundinae — the ninth-day market cycle — underlie the joke of the cook hired only once a market-week. Calendar realia through the Greek mask; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 280-282",
+   "source_text": "Postquam obsonavit erus et conduxit coquos tibicinasque hasce apud forum, edixit mihi ut dispertirem obsonium hic bifariam.",
+   "question": "Vbi Megadorus coquos tibicinasque in nuptias conduxit, ut in Aulularia Plauti narratur?",
+   "answer": "Apud forum.",
+   "question_en": "Where did Megadorus hire the cooks and the flute-girls for the wedding, as told in Plautus' Aulularia?",
+   "answer_en": "At the forum.",
+   "derivation": "Roman wedding logistics: cooks and tibicinae hired in the forum, with the provisions (obsonium), for a nuptial feast — daily-life custom evidenced verbatim. One-place answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 290-292",
+   "source_text": "Vicini huius Euclionis senis e proximo. ei adeo obsoni hinc iussit dimidium dari, cocum alterum itidemque alteram tibicinam.",
+   "question": "Quantam obsonii partem Megadorus ad Euclionem in nuptias mitti iussit apud Plautum?",
+   "answer": "Dimidium, cum altero coco et altera tibicina.",
+   "question_en": "How large a share of the provisions did Megadorus order sent to Euclio for the wedding, in Plautus?",
+   "answer_en": "Half, with one of the two cooks and one of the two flute-girls.",
+   "derivation": "The rich groom underwrites the poor father-in-law's share of the feast, split 'bifariam' — wedding custom and the play's plot engine. Short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 333-334",
+   "source_text": "i sane cum illo, Phrugia. tu autem, Eleusium, huc intro abi ad nos.",
+   "question": "Quibus nominibus duae tibicinae in Aulularia Plauti appellantur?",
+   "answer": "Phrygia et Eleusium.",
+   "question_en": "By what names are the two flute-girls in Plautus' Aulularia called?",
+   "answer_en": "Phrygia and Eleusium.",
+   "derivation": "The named tibicinae of the wedding — the hired flute-girl being a fixture of Roman festivity (and of the comic stage). Anchored to the play; two-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia 327-329",
+   "source_text": "Tu, Congrio, quem illic reliquit agnum, eum sume atque abi intro illuc",
+   "question": "Vter coquorum in Aulularia Plauti ad aedes Euclionis coquere missus est?",
+   "answer": "Congrio.",
+   "question_en": "Which of the two cooks in Plautus' Aulularia was sent to cook at Euclio's house?",
+   "answer_en": "Congrio.",
+   "derivation": "The canonical cook Congrio (named for the conger eel) drawn by lot to the miser's house, where Euclio cudgels him — a scene every reader of the play carries. One-name answer verbatim; editorial brackets stripped.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia 416-417",
+   "source_text": "Quia ad tris viros iam ego deferam nomen tuom. Quam ob rem? Quia cultrum habes.",
+   "question": "Ad quos magistratus Euclio nomen Congrionis coqui deferre minatur, quia cultrum habet?",
+   "answer": "Ad tresviros.",
+   "question_en": "To which magistrates does Euclio threaten to report the cook Congrio's name, because he carries a knife?",
+   "answer_en": "To the tresviri (the Roman police board of three).",
+   "derivation": "Roman policing through the Greek mask: carrying a blade gets you denounced to the tresviri capitales — the same anachronistic board Sosia fears in the Amphitruo. One-office answer verbatim; speaker tags stripped.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Aulularia 316-319",
+   "source_text": "pulmentum pridem ei eripuit milvos: homo ad praetorem plorabundus devenit; infit ibi postulare plorans, eiulans, ut sibi liceret milvom vadarier.",
+   "question": "Ad quem magistratum Euclio plorabundus devenit, cum milvus ei pulmentum eripuisset, ut in Aulularia iocose narratur?",
+   "answer": "Ad praetorem.",
+   "question_en": "To which magistrate did Euclio come weeping when a kite had snatched his food, as jokingly told in the Aulularia?",
+   "answer_en": "To the praetor.",
+   "derivation": "Roman legal anachronism in Greek dress: the miser asks the praetor for leave to summon the kite to court (vadari — the formal vadimonium). Anchored to Euclio + the praetor; one-office answer verbatim.",
+   "category": "ius"
+  }
+,
+  {
+   "locus": "Plautus, Aulularia 445-446",
+   "source_text": "ita me bene amet Laverna, uti te iam, nisi reddi mihi vasa iubes, pipulo hic differam ante aedis.",
+   "question": "Quam deam Congrio cocus in Aulularia Plauti iurans invocat?",
+   "answer": "Lavernam.",
+   "question_en": "Which goddess does the cook Congrio invoke in his oath in Plautus' Aulularia?",
+   "answer_en": "Laverna (the patron goddess of thieves).",
+   "derivation": "Laverna, the Roman goddess of thieves, sworn by — aptly — a cook, the proverbially light-fingered trade. Roman popular religion evidenced verbatim; one-name answer. Editorial brackets stripped.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 354-355",
+   "source_text": "Cererin, Pythodice, has sunt facturi nuptias? Qui? Quia temeti nihil allatum intellego.",
+   "question": "Cui deae nuptias parari Staphyla in Aulularia iocatur, quia nihil temeti allatum est?",
+   "answer": "Cereri.",
+   "question_en": "For which goddess does Staphyla in the Aulularia joke the wedding is being prepared, since no wine has been brought?",
+   "answer_en": "For Ceres.",
+   "derivation": "Rite-specific joke: a 'wedding for Ceres' would be wineless, since Ceres' rites excluded wine (temetum, the archaic word for it) — Roman sacral knowledge evidenced by the joke's own logic. One-name answer verbatim; speaker tags stripped.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 380-381",
+   "source_text": "festo die si quid prodegeris, profesto egere liceat, nisi peperceris.",
+   "question": "Quid ei licebit profesto die, qui festo die prodegerit, secundum proverbium apud Plautum in Aulularia?",
+   "answer": "Egere.",
+   "question_en": "What will he be free to do on the working day who has squandered on the feast day, according to the proverb in Plautus' Aulularia?",
+   "answer_en": "To go without (be needy).",
+   "derivation": "Proverb of thrift built on the Roman calendar division of dies festi and profesti: waste on the holiday, want on the workday. Point checkable, quoted verbatim; one-word answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Aulularia 385-387",
+   "source_text": "nunc tusculum emi hoc et coronas floreas: haec imponentur in foco nostro Lari, ut fortunatas faciat gnatae nuptias.",
+   "question": "Cui deo Euclio tusculum et coronas floreas in foco imposuit, ut gnatae nuptias fortunaret?",
+   "answer": "Lari familiari.",
+   "question_en": "To which god did Euclio offer a bit of incense and flower garlands on the hearth, to bless his daughter's wedding?",
+   "answer_en": "To the household Lar.",
+   "derivation": "Wedding-day domestic rite: incense and garlands laid on the hearth for the Lar to prosper the marriage — the household cult at the heart of the play. Anchored to Euclio + the Lar; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 394-395",
+   "source_text": "Apollo, quaeso, subveni mi atque adiuva, confige sagittis fures thensaurarios",
+   "question": "Quem deum Euclio invocat, ut fures thensaurarios sagittis configat, apud Plautum?",
+   "answer": "Apollinem.",
+   "question_en": "Which god does Euclio invoke to pierce the treasure-thieves with arrows, in Plautus?",
+   "answer_en": "Apollo.",
+   "derivation": "Apollo the archer — his canonical attribute, the arrows — invoked against thieves. Shared divine iconography evidenced verbatim; one-name answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 465-469",
+   "source_text": "condigne etiam meus med intus gallus gallinacius, qui erat anu peculiaris, perdidit paenissume. ubi erat haec defossa, occepit ibi scalpurrire ungulis cirum circa. quid opust verbis? ita mihi pectus peracuit: capio fustem, obtrunco gallum, furem manufestarium.",
+   "question": "Quod animal Euclio in Aulularia Plauti fuste obtruncavit, quia ibi ubi aurum defossum erat scalpurribat?",
+   "answer": "Gallum gallinacium.",
+   "question_en": "What animal did Euclio in Plautus' Aulularia strike dead with a club, because it was scratching where the gold was buried?",
+   "answer_en": "A farmyard cock.",
+   "derivation": "The famous comic scene: the old woman's rooster scratches over the hiding place and Euclio kills it as a 'thief caught in the act' — a set piece every reader of the play carries. Short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia 406-408",
+   "source_text": "neque ego umquam nisi hodie ad Bacchas veni in Bacchanal coquinatum, ita me miserum et meos discipulos fustibus male contuderunt.",
+   "question": "Quo se coquinatum venisse Congrio cocus queritur, cum ab Euclione fustibus contusus fugit?",
+   "answer": "Ad Bacchas in Bacchanal.",
+   "question_en": "Where does the cook Congrio complain he has come to cook, as he flees cudgelled by Euclio?",
+   "answer_en": "To the Bacchants, into a Bacchic shrine.",
+   "derivation": "The Bacchanal as shared byword for violent frenzy — Congrio can only compare the miser's house to cooking among raving Bacchae. Bacchic rites as ambient cultural knowledge; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 478-481",
+   "source_text": "nam meo quidem animo si idem faciant ceteri opulentiores, pauperiorum filias ut indotatas ducant uxores domum, et multo fiat civitas concordior",
+   "question": "Qualis fieret civitas, si opulentiores pauperum filias indotatas ducerent, secundum Megadorum apud Plautum?",
+   "answer": "Multo concordior.",
+   "question_en": "What would the state become if the wealthier married poor men's daughters without dowries, according to Megadorus in Plautus?",
+   "answer_en": "Much more harmonious.",
+   "derivation": "Megadorus' civic argument for dowry-less marriage — the mores speech the run instructions flag as a goldmine on Roman dowry debate. One-word comparative answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 494-495",
+   "source_text": "ego faxim muli, pretio qui superant equos, sint viliores Gallicis cantheriis.",
+   "question": "Quae iumenta pretio equos superare Megadorus in Aulularia Plauti dicit?",
+   "answer": "Muli.",
+   "question_en": "Which beasts of burden does Megadorus in Plautus' Aulularia say exceed horses in price?",
+   "answer_en": "Mules.",
+   "derivation": "Roman market realia: mules — the carriage animals of wealthy matrons — actually outpriced horses, which is the premise of Megadorus' threat to cheapen them below Gallic geldings. One-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 398-399",
+   "source_text": "Dromo, desquama piscis. tu, Machaerio, congrum, murenam exdorsua quantum potest.",
+   "question": "Quos duos pisces Machaerio exdorsuare iubetur in cena nuptiali apud Plautum in Aulularia?",
+   "answer": "Congrum et murenam.",
+   "question_en": "Which two fish is Machaerio ordered to fillet for the wedding dinner in Plautus' Aulularia?",
+   "answer_en": "The conger eel and the moray.",
+   "derivation": "Named dishes of the Roman festive table: conger and murena, the prestige fish (the murena a Roman delicacy), being dressed for the wedding feast. Two-item answer verbatim.",
+   "category": "cibus"
+  }
+,
+  {
+   "locus": "Plautus, Aulularia 534-535",
+   "source_text": "nam quae indotata est, ea in potestate est viri; dotatae mactant et malo et damno viros.",
+   "question": "In cuius potestate esse uxorem indotatam Megadorus in Aulularia Plauti dicit?",
+   "answer": "In potestate viri.",
+   "question_en": "In whose power does Megadorus in Plautus' Aulularia say the undowered wife is?",
+   "answer_en": "In her husband's power.",
+   "derivation": "The point of the whole dowry debate stated as a maxim: the undowered wife is in the husband's power, the dowered wife ruins him. Roman marriage mores (potestas/manus language) verbatim; short answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 552-554",
+   "source_text": "qui mi intro misti in aedis quingentos coquos, cum senis manibus, genere Geryonaceo",
+   "question": "Cuius monstri generi Euclio coquos senis manibus praeditos adsimulat apud Plautum?",
+   "answer": "Geryonis.",
+   "question_en": "To what monster's breed does Euclio liken the cooks endowed with six hands apiece, in Plautus?",
+   "answer_en": "To Geryon's.",
+   "derivation": "Geryon the triple-bodied giant (hence six hands) — canonical myth-figure invoked in Euclio's hyperbole about the thieving cooks. Anchored to Euclio + Geryon; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Aulularia 555-557",
+   "source_text": "quos si Argus servet, qui oculeus totus fuit, quem quondam Ioni Iuno custodem addidit, is numquam servet.",
+   "question": "Quem custodem Iuno quondam Ioni addidit, ut in Aulularia Plauti memoratur?",
+   "answer": "Argum, qui oculeus totus fuit.",
+   "question_en": "What guardian did Juno once set over Io, as recalled in Plautus' Aulularia?",
+   "answer_en": "Argus, who was all eyes.",
+   "derivation": "Canonical myth as shared story: Argus the all-eyed watcher whom Juno appointed to guard Io — cited casually as ambient knowledge. Names and attribute all verbatim; short answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Aulularia 557-559",
+   "source_text": "praeterea tibicinam, quae mi interbibere sola, si vino scatat, Corinthiensem fontem Pirenam potest.",
+   "question": "Cuius urbis fons erat Pirena, ut apud Plautum in Aulularia dicitur?",
+   "answer": "Corinthi.",
+   "question_en": "Of what city was Pirene the spring, as said in Plautus' Aulularia?",
+   "answer_en": "Of Corinth.",
+   "derivation": "The famous spring Pirene at Corinth — shared Greek-Roman geography, the standard of the joke that the flute-girl could drink it dry. One-place answer verbatim (Corinthiensem fontem Pirenam).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Aulularia 564-566",
+   "source_text": "quin exta inspicere in sole ei vivo licet: ita is pellucet quasi lanterna Punica.",
+   "question": "Cui rei Euclio agnum macrum pellucentem in Aulularia Plauti comparat?",
+   "answer": "Lanternae Punicae.",
+   "question_en": "To what does Euclio in Plautus' Aulularia compare the scrawny lamb you can see through?",
+   "answer_en": "To a Punic lantern (of translucent horn).",
+   "derivation": "Realia of trade: the 'Punic lantern' of thin translucent horn, proverbially see-through — a Carthaginian import familiar enough to carry the joke. Short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Aulularia 579",
+   "source_text": "Ego, nisi quid me vis, eo lavatum, ut sacruficem.",
+   "question": "Quid Megadorus in Aulularia Plauti prius facit, quam sacrificet?",
+   "answer": "Lavatum it.",
+   "question_en": "What does Megadorus in Plautus' Aulularia do before he sacrifices?",
+   "answer_en": "He goes to bathe.",
+   "derivation": "Ritual purity before sacrifice: one washes first (so too Euclio, 'nunc lavabo, ut rem divinam faciam'). Roman sacral custom evidenced verbatim; short answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 582-583",
+   "source_text": "nunc hoc mihi factu est optumum, ut ted auferam, aula, in Fidei fanum: ibi abstrudam probe.",
+   "question": "In cuius deae fanum Euclio aulam auri e domo sublatam primum abstrusit?",
+   "answer": "Fidei.",
+   "question_en": "In which goddess's shrine did Euclio first hide the pot of gold taken from his house?",
+   "answer_en": "In that of Fides (deified Faith).",
+   "derivation": "The cult of Fides with her fanum — Roman deified abstraction — chosen by the miser with the running pun on fides/trust ('fretus tua, Fides, fiducia'). Anchored to Euclio + the aula; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 673-676",
+   "source_text": "nunc hoc ubi abstrudam cogito solum locum. Silvani lucus extra murum est avius, crebro salicto oppletus. ibi sumam locum. certumst, Silvano potius credam quam Fide.",
+   "question": "Quo Euclio aulam auri, e fano Fidei ablatam, deinde abstrusit apud Plautum?",
+   "answer": "In lucum Silvani extra murum.",
+   "question_en": "Where did Euclio then hide the pot of gold he had removed from the shrine of Fides, in Plautus?",
+   "answer_en": "In the grove of Silvanus outside the wall.",
+   "derivation": "Silvanus the extra-urban woodland god, his lonely grove outside the wall — Roman religion's topography, and the site of the fateful theft. Anchored to Euclio + Fides/Silvanus; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 624-625",
+   "source_text": "Non temere est quod corvos cantat mihi nunc ab laeva manu; semul radebat pedibus terram et voce croccibat sua",
+   "question": "A qua parte corvus Euclioni cecinit, quod omen ille non temere esse putavit?",
+   "answer": "Ab laeva manu.",
+   "question_en": "On which side did the raven croak at Euclio, an omen he thought not without meaning?",
+   "answer_en": "On the left hand.",
+   "derivation": "Roman bird-omen lore: the raven's cry on the left as a significant sign (Euclio later credits it with saving him: 'ni subvenisset corvos'). Augural realia verbatim; short answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 620-623",
+   "source_text": "sed si repperero, o Fides, mulsi congialem plenam faciam tibi fideliam. id adeo tibi faciam; verum ego mihi bibam, ubi id fecero.",
+   "question": "Quid Strobilus deae Fidei se daturum vovet, si aurum reppererit, apud Plautum?",
+   "answer": "Fideliam congialem mulsi plenam.",
+   "question_en": "What does Strobilus vow to give the goddess Fides if he finds the gold, in Plautus?",
+   "answer_en": "A gallon-jar (congius-sized pot) full of honey-wine (mulsum).",
+   "derivation": "A comic votum with real furniture: mulsum (honey-wine) as offering, the congius measure, the fidelia jar — and the punchline that he'll drink it himself. Vow-practice realia; short answer verbatim.",
+   "category": "religio"
+  }
+,
+  {
+   "locus": "Plautus, Aulularia 691-692",
+   "source_text": "Perii, mea nutrix. obsecro te, uterum dolet. Iuno Lucina, tuam fidem!",
+   "question": "Quam deam filia Euclionis parturiens in Aulularia Plauti invocat?",
+   "answer": "Iunonem Lucinam.",
+   "question_en": "Which goddess does Euclio's daughter call upon in labor in Plautus' Aulularia?",
+   "answer_en": "Juno Lucina.",
+   "derivation": "Juno Lucina, the Roman goddess of childbirth, invoked in the canonical birth-cry of comedy — shared religious knowledge evidenced verbatim. One-name answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Aulularia 741",
+   "source_text": "Quid vis fieri? factum est illud: fieri infectum non potest.",
+   "question": "Quid de re facta fieri non posse Lyconides in Aulularia Plauti dicit?",
+   "answer": "Infectum fieri non potest.",
+   "question_en": "What does Lyconides in Plautus' Aulularia say cannot happen to a thing once done?",
+   "answer_en": "It cannot be made undone.",
+   "derivation": "The proverb 'factum fieri infectum non potest' — what is done cannot be undone — a saying this scene helped make canonical (echoed by Terence). Quoted verbatim per the proverb rule.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Aulularia 700",
+   "source_text": "ibo intro, ubi de capite meo sunt comitia.",
+   "question": "Quid de capite suo intus haberi Lyconides in Aulularia Plauti iocatur, dum mater cum avunculo agit?",
+   "answer": "Comitia.",
+   "question_en": "What does Lyconides in Plautus' Aulularia joke is being held indoors concerning his life, while his mother deals with his uncle?",
+   "answer_en": "The comitia (the Roman voting assembly, as a capital court).",
+   "derivation": "Roman institutional anachronism: the comitia that voted 'de capite' (on a citizen's life) transplanted into Greek Athens as a metaphor for the family council. One-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Aulularia 778-780",
+   "source_text": "hic mihi est Megadorus avonculus, meus pater fuit Antimachus, ego vocor Lyconides, mater est Eunomia.",
+   "question": "Quo patre et qua matre natus est Lyconides adulescens in Aulularia Plauti?",
+   "answer": "Antimacho patre, Eunomia matre.",
+   "question_en": "Of what father and mother was the young Lyconides born, in Plautus' Aulularia?",
+   "answer_en": "Of Antimachus as father and Eunomia as mother.",
+   "derivation": "Lyconides' formal self-identification gives the family tree in one line: father Antimachus, mother Eunomia. Named-relation fact of the canonical play; two-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia 778",
+   "source_text": "hic mihi est Megadorus avonculus",
+   "question": "Quis erat Lyconidi avunculus in Aulularia Plauti?",
+   "answer": "Megadorus.",
+   "question_en": "Who was Lyconides' maternal uncle in Plautus' Aulularia?",
+   "answer_en": "Megadorus.",
+   "derivation": "The kinship on which the plot turns: Megadorus, the girl's aged suitor, is the young lover's avunculus (mother's brother), and yields the bride to him. One-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia 810",
+   "source_text": "quis me Athenis nunc magis quisquam est homo cui di sint propitii?",
+   "question": "In qua urbe fabula Plauti quae Aulularia inscribitur agitur?",
+   "answer": "Athenis.",
+   "question_en": "In what city is Plautus' play called the Aulularia set?",
+   "answer_en": "At Athens.",
+   "derivation": "The nominal setting of the comedy, evidenced by Strobilus counting himself the most god-favored man 'at Athens' — the Greek frame through which the Roman realia poke. One-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Aulularia 809",
+   "source_text": "quadrilibrem aulam auro onustam habeo. quis me est ditior?",
+   "question": "Quanti ponderis erat aula auro onusta Euclionis, ut Strobilus in Aulularia gloriatur?",
+   "answer": "Quattuor librarum (quadrilibris).",
+   "question_en": "Of what weight was Euclio's pot laden with gold, as Strobilus boasts in the Aulularia?",
+   "answer_en": "Four pounds (quadrilibris).",
+   "derivation": "The one number attached to the famous pot: a four-pounder of gold ('quadrilibrem... aulam', repeated at 821-822). Measure fact of the canonical play; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia 783",
+   "source_text": "Is me nunc renuntiare repudium iussit tibi.",
+   "question": "Quid Megadorus per Lyconidem Euclioni renuntiavit, nuptiis iam exornatis?",
+   "answer": "Repudium.",
+   "question_en": "What did Megadorus have Lyconides announce to Euclio, though the wedding was already prepared?",
+   "answer_en": "The repudium (formal breaking-off of the betrothal).",
+   "derivation": "Roman legal institution: repudium, the formal renunciation of a sponsio-betrothal, duly 'renuntiatum' by messenger. Anchored to Megadorus + Euclio; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Aulularia 792-793",
+   "source_text": "ut mi ignoscas eamque uxorem mihi des, ut leges iubent.",
+   "question": "Quid fieri leges iubent, cum adulescens virginem vitiavit, ut Lyconides in Aulularia adfirmat?",
+   "answer": "Vt ea ei uxor detur.",
+   "question_en": "What do the laws command to be done when a young man has violated a maiden, as Lyconides asserts in the Aulularia?",
+   "answer_en": "That she be given to him as wife.",
+   "derivation": "The comic-law commonplace (from Attic law, naturalized in the palliata): the seducer must marry the girl — 'ut leges iubent'. Anchored to Lyconides + Euclio's daughter; short answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Aulularia 798",
+   "source_text": "nam tua gnata peperit, decumo mense post: numerum cape",
+   "question": "Quoto mense post Cereris vigilias filia Euclionis peperit, ut Lyconides apud Plautum computat?",
+   "answer": "Decumo.",
+   "question_en": "In what month after the vigil of Ceres did Euclio's daughter give birth, as Lyconides reckons in Plautus?",
+   "answer_en": "In the tenth.",
+   "derivation": "The Roman ten-month reckoning of pregnancy ('decumo mense post: numerum cape'), tying the birth to the Ceres-vigil assault. Number answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Aulularia 823",
+   "source_text": "In arca apud me. nunc volo me emitti manu.",
+   "question": "Quod praemium Strobilus servus, aula auri inventa, ab ero suo petit in Aulularia Plauti?",
+   "answer": "Vt manu emittatur.",
+   "question_en": "What reward does the slave Strobilus, having found the pot of gold, ask of his master in Plautus' Aulularia?",
+   "answer_en": "To be manumitted (freed).",
+   "derivation": "Manumissio — freedom bought with a windfall — the standing dream of the comic slave and a real Roman institution ('emitti manu'). Anchored to Strobilus + the aula; short answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Aulularia arg. II 7-8",
+   "source_text": "Re omni inspecta compressoris servolus Id surpit.",
+   "question": "Cuius servus aulam auri Euclionis e luco Silvani surripuit in Aulularia Plauti?",
+   "answer": "Lyconidis, qui virginem compresserat.",
+   "question_en": "Whose slave stole Euclio's pot of gold from the grove of Silvanus in Plautus' Aulularia?",
+   "answer_en": "Lyconides' — the man who had violated the girl.",
+   "derivation": "The theft that breaks the miser: the ravisher's slave (Strobilus in the play) spies out the hiding place and lifts the pot. Anchored via the argumentum's 'compressoris servolus'; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia arg. I 12-14",
+   "source_text": "per dolum mox Euclio cum perdidisset aulam, insperato invenit laetusque natam conlocat Lyconidi.",
+   "question": "Cui Euclio, aula insperato recuperata, filiam suam tandem in matrimonium conlocavit?",
+   "answer": "Lyconidi.",
+   "question_en": "To whom did Euclio, having unexpectedly recovered the pot, finally give his daughter in marriage?",
+   "answer_en": "To Lyconides.",
+   "derivation": "The resolution of the play as the ancient argumentum preserves it — the play's own final scenes are lost (the text breaks off in Act V), so the transmitted summary is the evidence; nothing invented. One-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia fr. (Non. 98M)",
+   "source_text": "nec noctu nec diu quietus umquam servabam eam: nunc dormiam.",
+   "question": "Quid Euclio, cura auri tandem liberatus, se facturum esse dicit in fragmento Aululariae?",
+   "answer": "Dormiturum.",
+   "question_en": "What does Euclio, freed at last from worry over the gold, say he will do, in a fragment of the Aulularia?",
+   "answer_en": "Sleep.",
+   "derivation": "The celebrated fragment of the lost ending: the miser who watched night and day can say 'nunc dormiam' once the gold is out of his hands — the moral of the play in one word. Short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Aulularia fr. (Non. 120M)",
+   "source_text": "qui mi holera cruda ponunt, hallec adduint.",
+   "question": "Quod condimentum holeribus crudis addendum esse dicit fragmentum Aululariae Plauti?",
+   "answer": "Hallec.",
+   "question_en": "What condiment does a fragment of Plautus' Aulularia say should be supplied with raw vegetables?",
+   "answer_en": "Hallec (allec), the fish-sauce paste.",
+   "derivation": "Staple table realia: hallec/allec, the sediment of garum, as the dressing owed to a dish of raw greens — the fish-sauce family the guidelines flag as core food culture. One-word answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Aulularia fr. (Non. 538M)",
+   "source_text": "pro illis corcotis, strophiis, sumptu uxorio",
+   "question": "Quae duo vestimenta muliebria fragmentum Aululariae inter sumptum uxorium numerat?",
+   "answer": "Crocotas et strophia.",
+   "question_en": "Which two articles of women's wear does a fragment of the Aulularia count among a wife's expenses?",
+   "answer_en": "Saffron gowns (crocotae) and breast-bands (strophia).",
+   "derivation": "Dress realia from the dowry-tirade tradition: the crocota (saffron robe) and strophium as typical items of wifely luxury. Two-item answer verbatim.",
+   "category": "mores"
+  }
+ ]}
