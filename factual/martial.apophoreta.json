@@ -1,0 +1,1602 @@
+{
+  "source": "text/martial/mart14.txt",
+  "author": "Martial",
+  "work": "Apophoreta (Epigrammaton liber XIV)",
+  "pairs": [
+    {
+      "locus": "Martial, Apophoreta 14.1",
+      "source_text": "Synthesibus dum gaudet eques dominusque senator Dumque decent nostrum pillea sumpta Iovem;",
+      "question": "Qua veste Saturnalibus etiam eques et senator gaudere dicuntur apud Martialem in Apophoretis?",
+      "answer": "Synthesibus.",
+      "question_en": "In what garment do even the knight and the senator rejoice at the Saturnalia, according to Martial in the Apophoreta?",
+      "answer_en": "In the synthesis (the loose dinner-suit).",
+      "derivation": "The proem of the Apophoreta: during the Saturnalia the toga was laid aside and everyone, up to knights and senators, wore the informal synthesis; the pilleus (freedom-cap) was likewise worn. The Saturnalian frame is explicit in the poem (v. 9 'madidis, Saturne, diebus'). Anchored to Martial + Saturnalia; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.1",
+      "source_text": "Nec timet aedilem moto spectare fritillo, Cum videat gelidos tam prope verna lacus:",
+      "question": "Quem magistratum aleator, moto fritillo, Saturnalibus non timet, ut scribit Martialis?",
+      "answer": "Aedilem.",
+      "question_en": "Which magistrate does the dicer, rattling his dice-box, not fear during the Saturnalia, as Martial writes?",
+      "answer_en": "The aedile.",
+      "derivation": "Gambling with dice was normally policed by the aediles, but the ban was suspended during the Saturnalia — the classic 'Saturnalian license' fact, stated in the proem. Anchored to the fritillo/Saturnalia frame; single-office answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.1",
+      "source_text": "Divitis alternas et pauperis accipe sortes: Praemia convivae dent sua quisque suo.",
+      "question": "Quorum duorum hominum sortes alternae in Apophoretis Martialis leguntur?",
+      "answer": "Divitis et pauperis.",
+      "question_en": "Whose alternating lots are read in Martial's Apophoreta?",
+      "answer_en": "The rich man's and the poor man's.",
+      "derivation": "The organizing frame of the whole book, stated in the proem: the gift-couplets alternate between a rich man's present and a poor man's, to be drawn by lot (sortes) at the Saturnalian banquet. Anchored to the Apophoreta by name; two-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.2",
+      "source_text": "Quo vis cumque loco potes hunc finire libellum: Versibus explicitumst omne duobus opus.",
+      "question": "Quot versibus unumquodque munus in Apophoretis Martialis explicatur?",
+      "answer": "Duobus versibus.",
+      "question_en": "In how many verses is each gift treated in Martial's Apophoreta?",
+      "answer_en": "In two verses (a couplet).",
+      "derivation": "The book states its own form: every item is complete in a two-line epigram, so the reader may stop anywhere (and, the poem adds, may read the lemmata alone). Anchored to the Apophoreta; single-number answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.3",
+      "source_text": "Secta nisi in tenues essemus ligna tabellas, Essemus Libyci nobile dentis onus.",
+      "question": "Quo sustinebantur mensae citreae pretiosae apud Romanos, ut innuit Martialis de pugillaribus citreis?",
+      "answer": "Dente Libyco (ebore).",
+      "question_en": "On what did the costly citrus-wood tables rest among the Romans, as Martial hints in the couplet on citrus-wood tablets?",
+      "answer_en": "On Libyan tusk (ivory legs).",
+      "derivation": "The famous luxury pairing: tabletops of African citrus wood rested on legs of elephant ivory — had the wood not been cut into humble tablets, it would have been 'the noble burden of the Libyan tusk.' Anchored to the citrus-wood object; short answer supported verbatim (Libyci dentis onus).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.7",
+      "source_text": "Esse puta ceras, licet haec membrana vocetur: Delebis, quotiens scripta novare voles.",
+      "question": "Quid in pugillaribus membraneis facere licet, quotiens scripta novare velis, teste Martiale?",
+      "answer": "Delere scripta.",
+      "question_en": "What may one do on parchment tablets whenever one wishes to renew what is written, on Martial's testimony?",
+      "answer_en": "Erase the writing.",
+      "derivation": "Parchment notebooks (pugillares membranei) could be wiped and reused like wax tablets — a key fact of Roman writing culture and of the early history of parchment. Anchored to the named object; short answer supported verbatim (Delebis... novare voles).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.8",
+      "source_text": "Nondum legerit hos licet puella, Novit quid cupiant Vitelliani.",
+      "question": "Quo nomine vocabantur pugillares illi quos amantes ad blanditias mittere solebant, ut iocatur Martialis?",
+      "answer": "Vitelliani.",
+      "question_en": "By what name were called the little tablets that lovers used to send for their sweet nothings, as Martial jokes?",
+      "answer_en": "Vitelliani.",
+      "derivation": "Vitelliani were small writing-tablets proverbially used for love-notes — a girl knows what they want before she even reads them. A named object of daily life; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.12",
+      "source_text": "Hos nisi de flava loculos implere moneta Non decet: argentum vilia ligna ferant.",
+      "question": "Qua moneta loculos eboreos impleri decere scribit Martialis?",
+      "answer": "Flava moneta (aurea).",
+      "question_en": "With what coin does Martial write that ivory money-boxes should be filled?",
+      "answer_en": "With yellow coin (gold).",
+      "derivation": "The decorum of containers: ivory caskets are for gold coin, cheap wooden ones may carry silver. Anchored to the named object (loculi eborei); short answer supported verbatim (de flava moneta).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.14",
+      "source_text": "Cum steterit nullus vultu tibi talus eodem, Munera me dices magna dedisse tibi.",
+      "question": "Quis iactus in ludo talorum optimus habetur, teste Martiale in Apophoretis?",
+      "answer": "Cum nullus talus eodem vultu stat.",
+      "question_en": "Which throw is held the best in the game of knucklebones, on Martial's testimony in the Apophoreta?",
+      "answer_en": "When no knucklebone lands showing the same face (all four different).",
+      "derivation": "The winning throw at tali — all four knucklebones showing different faces (the 'Venus' throw) — is stated as the moment the gift proves great. A core fact of Roman gaming culture; answer supported verbatim (nullus vultu talus eodem).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.15",
+      "source_text": "Non sim talorum numero par tessera, dum sit Maior, quam talis, alea saepe mihi.",
+      "question": "Utro ludo maior alea fieri solet, tesseris an talis, secundum Martialem?",
+      "answer": "Tesseris.",
+      "question_en": "In which game do the stakes usually run higher, dice (tesserae) or knucklebones (tali), according to Martial?",
+      "answer_en": "With the tesserae (cubic dice).",
+      "derivation": "The two Roman dice-games distinguished: the tesserae are fewer in number than the tali but carry the bigger gamble (maior alea). Anchored to the two named game-pieces; one-word answer supported verbatim.",
+      "category": "ludi"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.16",
+      "source_text": "Quae scit compositos manus improba mittere talos, Si per me misit, nil nisi vota feret.",
+      "question": "Ad quid turricula in ludo talorum adhibebatur, teste Martiale?",
+      "answer": "Ne manus improba compositos talos mitteret.",
+      "question_en": "For what purpose was the turricula (dice-tower) used in the game of knucklebones, on Martial's testimony?",
+      "answer_en": "So that a cheating hand could not throw 'arranged' knucklebones (to prevent cheating).",
+      "derivation": "The dice-tower (turricula, the lemma of the epigram) randomizes the throw: a hand skilled at slipping in a fixed cast wins nothing if it must throw through the tower. A concrete fact of Roman gaming equipment; answer supported verbatim by the couplet.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.17",
+      "source_text": "Hac mihi bis seno numeratur tessera puncto; Calculus hac gemino discolor hoste perit.",
+      "question": "Quot hostibus oppressus calculus in ludo latrunculorum perit, ut scribit Martialis?",
+      "answer": "Gemino hoste (duobus).",
+      "question_en": "By how many enemies is a piece taken (destroyed) in the game of latrunculi, as Martial writes?",
+      "answer_en": "By a twin enemy (two).",
+      "derivation": "The capture rule of latrunculi: a piece perishes when caught by two enemy pieces (custodia capture) — stated on the game-board couplet. A core rule of the most popular Roman board game; number answer supported verbatim (gemino hoste perit).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.17",
+      "source_text": "Hac mihi bis seno numeratur tessera puncto; Calculus hac gemino discolor hoste perit.",
+      "question": "Quot punctis tessera in altera parte tabulae lusoriae numeratur apud Martialem?",
+      "answer": "Bis senis punctis (duodecim).",
+      "question_en": "With how many points is the die counted on the one side of the gaming-board in Martial?",
+      "answer_en": "With twice six points (twelve) — the 'twelve lines' game.",
+      "derivation": "The tabula lusoria was double-sided: one face for the dice game of 'twelve points' (duodecim scripta), the other for latrunculi. The number bis seno puncto is stated verbatim; anchored to the named gaming-board.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.18",
+      "source_text": "Insidiosorum si ludis bella latronum, Gemmeus iste tibi miles et hostis erit.",
+      "question": "Quorum bella ludo calculorum luduntur, ut ait Martialis in Apophoretis?",
+      "answer": "Latronum insidiosorum.",
+      "question_en": "Whose wars are played in the game of gaming-pieces (calculi), as Martial says in the Apophoreta?",
+      "answer_en": "Those of the ambushing 'robbers' (latrones) — it is a war-game of soldiers.",
+      "derivation": "Latrunculi was conceived as a battle of 'latrones' (soldiers/brigands), the piece serving as both one's soldier and the foe's; here the gift pieces are of gemstone/glass. Anchored to the named game; short answer supported verbatim (bella latronum).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.19",
+      "source_text": "Alea parva nuces et non damnosa videtur; Saepe tamen pueris abstulit illa natis.",
+      "question": "Quae alea parva nec damnosa pueris esse videtur apud Martialem?",
+      "answer": "Nuces.",
+      "question_en": "What is regarded as a small and harmless gamble for boys in Martial?",
+      "answer_en": "Nuts (playing for nuts).",
+      "derivation": "Nuts were the proverbial small-stakes gambling of children, especially at the Saturnalia (cf. the proem's 'Lude nucibus'). Anchored to the named stake; one-word answer supported verbatim (Alea parva nuces).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.20",
+      "source_text": "Sortitus thecam calamis armare memento: Cetera nos dedimus, tu leviora para.",
+      "question": "Quibus instrumentis thecam librariam armare debet qui eam sortitus est, ut monet Martialis?",
+      "answer": "Calamis.",
+      "question_en": "With what implements must the man who has drawn a writing-case arm it, as Martial advises?",
+      "answer_en": "With reed pens (calami).",
+      "derivation": "The theca libraria was the case for one's reed pens — the winner of the lot must furnish the calami himself. A named object of Roman writing culture; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.21",
+      "source_text": "Haec tibi erunt armata suo graphiaria ferro: Si puero dones, non leve munus erit.",
+      "question": "Quo armatum est graphiarium apud Martialem?",
+      "answer": "Ferro suo (stilis ferreis).",
+      "question_en": "With what is the stylus-case (graphiarium) armed in Martial?",
+      "answer_en": "With its own iron (iron styli).",
+      "derivation": "The graphiarium held the iron styli for writing on wax — Martial adds it makes no slight gift for a schoolboy. A named object of writing culture; answer supported verbatim (armata suo ferro).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.22",
+      "source_text": "Lentiscum melius: sed si tibi frondea cuspis Defuerit, dentes pinna levare potest.",
+      "question": "Quae materia dentiscalpio optima habetur secundum Martialem?",
+      "answer": "Lentiscus.",
+      "question_en": "What material is held best for a toothpick according to Martial?",
+      "answer_en": "Mastic wood (lentisk).",
+      "derivation": "The canonical Roman toothpick was a sliver of mastic (lentiscus); failing that, a quill (pinna) would do. Anchored to the named implement; one-word answer supported verbatim (Lentiscum melius).",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.24",
+      "source_text": "Splendida ne madidi violent bombycina crines, Figat acus tortas sustineatque comas.",
+      "question": "Quid agit acus aurea in cultu mulieris Romanae, teste Martiale?",
+      "answer": "Tortas comas figit sustinetque.",
+      "question_en": "What does the golden hairpin do in a Roman woman's toilette, on Martial's testimony?",
+      "answer_en": "It pins and holds up the twisted (piled) hair.",
+      "derivation": "The acus (hairpin) fixed the elaborate piled coiffure so that perfumed hair would not stain the silk (bombycina) garments. A named toilette object of daily life; answer supported verbatim (figat acus tortas sustineatque comas).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.26",
+      "source_text": "Chattica Teutonicos accendit spuma capillos: Captivis poteris cultior esse comis.",
+      "question": "Ex quibus comis capillamenta sua mulieres Romanae parare poterant, ut ait Martialis in Apophoretis?",
+      "answer": "Ex captivis comis Germanorum.",
+      "question_en": "From whose hair could Roman women furnish their wigs, as Martial says in the Apophoreta?",
+      "answer_en": "From the captive hair of the Germans.",
+      "derivation": "Blond German hair — here 'Teutonic' locks brightened by Chattian soap-foam — was taken from captives and worn at Rome as wigs (crines, the lemma). A famous fact of Roman fashion; answer supported verbatim (Captivis... comis, Teutonicos capillos).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.27",
+      "source_text": "Si mutare paras longaevos cana capillos, Accipe Mattiacas - quo tibi calva? - pilas.",
+      "question": "Quibus pilis mulier cana capillos mutare (tinguere) potest secundum Martialem?",
+      "answer": "Mattiacis pilis (sapone).",
+      "question_en": "With what balls can a grey-haired woman change (dye) her hair, according to Martial?",
+      "answer_en": "With Mattiac balls (soap-balls from Germany).",
+      "derivation": "Sapo (the lemma): the German soap-balls from Mattiacum (near Wiesbaden) used at Rome as hair-dye for greying hair. Named product + named origin; answer supported verbatim (Mattiacas... pilas).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.29",
+      "source_text": "In Pompeiano tecum spectabo theatro: Mandatus populo vela negare solet.",
+      "question": "Quid populo in theatro Pompeiano ventus negare solet, ut ait Martialis de causea?",
+      "answer": "Vela.",
+      "question_en": "What does the wind usually deny the people in the theater of Pompey, as Martial says of the causea (spectator's hat)?",
+      "answer_en": "The awnings (vela).",
+      "derivation": "The great theaters were shaded by vela (awnings), but wind could force them to stay furled — hence the causea, a broad hat, as spectator's gear. Anchored to the theater of Pompey; one-word answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.30",
+      "source_text": "Excipient apros expectabuntque leones, Intrabunt ursos, sit modo firma manus.",
+      "question": "Quas tres feras venabula excipere et intrare parata sunt apud Martialem?",
+      "answer": "Apros, leones, ursos.",
+      "question_en": "What three beasts are hunting-spears ready to receive and pierce in Martial?",
+      "answer_en": "Boars, lions, and bears.",
+      "derivation": "The canonical big game of the Roman hunt (venatio), listed on the gift of venabula. Anchored to the named weapon; three-noun answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.31",
+      "source_text": "Si deiecta gemas longo venabula rostro, Hic brevis ingentem comminus ibit aprum.",
+      "question": "Quam feram culter venatorius comminus adire dicitur, si venabula deiecta sunt, teste Martiale?",
+      "answer": "Aprum.",
+      "question_en": "What beast is the hunting-knife said to go against at close quarters when the spears have been struck down, on Martial's testimony?",
+      "answer_en": "The boar.",
+      "derivation": "The culter venatorius was the hunter's short close-quarters blade against the boar, backup when the boar's snout beat down the long spear. Anchored to the named implement; one-word answer supported verbatim (comminus ibit aprum).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.32",
+      "source_text": "Militiae decus hoc gratique erit omen honoris, Arma tribunicium cingere digna latus.",
+      "question": "Cuius officii militaris latus cingere digna sunt arma quae parazonium vocantur, ut ait Martialis?",
+      "answer": "Tribuni (tribunicium latus).",
+      "question_en": "The side of what military officer are the arms called parazonium worthy to gird, as Martial says?",
+      "answer_en": "Of the tribune (a tribune's side).",
+      "derivation": "The parazonium (the lemma), a short sword worn as a badge of rank, befits the military tribune — an omen of the office to come. Anchored to the named object; short answer supported verbatim (tribunicium... latus).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.33",
+      "source_text": "Pugio, quem curva signat brevis orbita vena. Stridentem gelidis hunc Salo tinxit aquis.",
+      "question": "Quod flumen pugionem stridentem gelidis aquis tinxisse dicit Martialis?",
+      "answer": "Salo.",
+      "question_en": "What river does Martial say tempered the hissing dagger in its cold waters?",
+      "answer_en": "The Salo (the river of Bilbilis in Spain).",
+      "derivation": "The Salo, the river of Martial's native Bilbilis in Hispania, was famed for tempering steel — blades were quenched hissing in its cold water. Named river + named weapon; one-word answer supported verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.34",
+      "source_text": "Pax me certa ducis placidos curvavit in usus. Agricolae nunc sum, militis ante fui.",
+      "question": "Cuius fuit ante falx illa quae nunc agricolae est, ut loquitur ipsa apud Martialem?",
+      "answer": "Militis.",
+      "question_en": "Whose was the sickle before, which now belongs to the farmer, as it says of itself in Martial?",
+      "answer_en": "A soldier's (it was a sword).",
+      "derivation": "The famous sword-beaten-into-sickle couplet: the emperor's assured peace bent the soldier's blade to the farmer's peaceful use. Anchored to the falx (the lemma) speaking of itself; one-word answer supported verbatim (militis ante fui).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.36",
+      "source_text": "Tondendis haec arma tibi sunt apta capillis; Unguibus hic longis utilis, illa genis.",
+      "question": "Quibus tribus usibus ferramenta tonsoria apta sunt apud Martialem?",
+      "answer": "Capillis tondendis, unguibus, genis.",
+      "question_en": "For what three uses is the barber's kit of irons fitted in Martial?",
+      "answer_en": "For cutting hair, for the (long) nails, and for the cheeks (shaving).",
+      "derivation": "The Roman barber (tonsor) cut hair, pared nails, and shaved cheeks — the three services named on the gift of ferramenta tonsoria. Anchored to the named kit; three-item answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.38",
+      "source_text": "Dat chartis habiles calamos Memphitica tellus; Texantur reliqua tecta palude tibi.",
+      "question": "Quae terra calamos chartis habiles dare dicitur apud Martialem?",
+      "answer": "Aegyptus (Memphitica tellus).",
+      "question_en": "What land is said to supply the reed pens suited for writing on papyrus, in Martial?",
+      "answer_en": "Egypt (the land of Memphis).",
+      "derivation": "Writing reeds, like the papyrus itself, came from the Egyptian marshes — 'the land of Memphis' supplies the calami fit for chartae. Named place + named implement; answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.39",
+      "source_text": "Dulcis conscia lectuli lucerna, Quidquid vis facias licet, tacebo.",
+      "question": "Quid promittit lucerna cubicularis, conscia lectuli, apud Martialem?",
+      "answer": "Se tacituram esse.",
+      "question_en": "What does the bedroom lamp, confidant of the bed, promise in Martial?",
+      "answer_en": "That it will keep silent.",
+      "derivation": "The celebrated couplet on the lucerna cubicularis: the lamp that witnesses everything done in the bedroom and promises silence ('tacebo'). Anchored to the named object; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.41",
+      "source_text": "Inlustrem cum tota meis convivia flammis Totque geram myxos, una lucerna vocor.",
+      "question": "Quid gerit lucerna quae polymyxos vocatur, ut ipsa loquitur apud Martialem?",
+      "answer": "Multos myxos (multa ellychnia).",
+      "question_en": "What does the lamp called polymyxos carry, as it says of itself in Martial?",
+      "answer_en": "Many wicks (nozzles).",
+      "derivation": "The lucerna polymyxos (the lemma) is the many-wicked lamp that can light a whole banquet by itself though called a single lamp. Anchored to the named lamp-type; short answer supported verbatim (totque geram myxos).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.43",
+      "source_text": "Nomina candelae nobis antiqua dederunt: Non norat parcos uncta lucerna patres.",
+      "question": "Quo lumine parci patres Romanorum antiqui utebantur, cum lucernam unctam nondum nossent, teste Martiale?",
+      "answer": "Candelis.",
+      "question_en": "What light did the frugal Roman forefathers use, when they did not yet know the oil lamp, on Martial's testimony?",
+      "answer_en": "Candles.",
+      "derivation": "On the Corinthian candelabrum: it takes its ancient name from the candela, because the oil lamp was unknown to the thrifty ancestors — a fact of early Roman domestic history. Anchored to the maiores; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.45",
+      "source_text": "Haec quae difficili turget paganica pluma, Folle minus laxast et minus arta pila.",
+      "question": "Qua re farta turget pila paganica apud Martialem?",
+      "answer": "Pluma.",
+      "question_en": "With what stuffing does the paganica ball bulge in Martial?",
+      "answer_en": "With feathers.",
+      "derivation": "The paganica, the 'countryman's ball,' was stuffed hard with feathers. Anchored to the named ball-type of the Roman game taxonomy; one-word answer supported verbatim (turget paganica pluma).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.45",
+      "source_text": "Haec quae difficili turget paganica pluma, Folle minus laxast et minus arta pila.",
+      "question": "Inter quas duas pilas media est paganica mollitie sua, ut docet Martialis?",
+      "answer": "Inter follem et pilam.",
+      "question_en": "Between which two balls does the paganica stand midway in its softness, as Martial teaches?",
+      "answer_en": "Between the follis (air-ball) and the (hard) pila.",
+      "derivation": "The Roman ball taxonomy in one line: the paganica is less slack than the inflated follis and less hard-packed than the pila proper. Anchored to the three named ball types; short answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.46",
+      "source_text": "Si me nobilibus scis expulsare sinistris, Sum tua. Tu nescis? rustice, redde pilam.",
+      "question": "Qua manu peritus lusor pilam trigonalem expulsare scit, teste Martiale?",
+      "answer": "Sinistra.",
+      "question_en": "With which hand does the skilled player know how to strike back the trigon ball, on Martial's testimony?",
+      "answer_en": "With the left.",
+      "derivation": "In the trigon (three-corner ball game), the mark of the expert was returning the ball with elegant left-handed strokes (nobilibus sinistris); the duffer must give the ball back. Anchored to the named game; one-word answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.47",
+      "source_text": "Ite procul, iuvenes: mitis mihi convenit aetas: Folle decet pueros ludere, folle senes.",
+      "question": "Quas aetates folle ludere decet secundum Martialem?",
+      "answer": "Pueros et senes.",
+      "question_en": "What ages is it fitting to play with the follis (air-filled ball), according to Martial?",
+      "answer_en": "Boys and old men.",
+      "derivation": "The follis, the light inflated ball, was the gentle game for the two mild ages — boys and old men — while young men are sent away. Anchored to the named ball; two-word answer supported verbatim (Folle decet pueros ludere, folle senes).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.48",
+      "source_text": "Haec rapit Antaei velox in pulvere draucus, Grandia qui vano colla labore facit.",
+      "question": "Quo in loco harpasta rapi solent apud Martialem?",
+      "answer": "In pulvere (palaestrae).",
+      "question_en": "Where are the harpasta (snatch-balls) usually snatched, in Martial?",
+      "answer_en": "In the dust (of the wrestling-ground).",
+      "derivation": "The harpastum was the snatching ball-game played on the dusty wrestling-ground ('the dust of Antaeus') by muscle-building athletes — completing the ball-game taxonomy. Anchored to the named game; short answer supported verbatim (rapit... in pulvere).",
+      "category": "ludi"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.50",
+      "source_text": "Ne lutet inmundum nitidos ceroma capillos, Hac poteris madidas condere pelle comas.",
+      "question": "A qua re galericulum comas athletae defendit, teste Martiale?",
+      "answer": "A ceromate.",
+      "question_en": "From what does the little leather cap (galericulum) protect the athlete's hair, on Martial's testimony?",
+      "answer_en": "From the ceroma (the wrestler's mud-and-oil ointment).",
+      "derivation": "The galericulum (the lemma), a skin cap, kept the filthy ceroma of the wrestling-ground from fouling well-kept hair. Two named objects of Roman athletics; answer supported verbatim (Ne lutet inmundum... ceroma capillos... pelle).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.51",
+      "source_text": "Pergamon has misit. Curvo destringere ferro: Non tam saepe teret lintea fullo tibi.",
+      "question": "Quae urbs strigiles Romam misisse dicitur apud Martialem?",
+      "answer": "Pergamon.",
+      "question_en": "What city is said to have sent the strigils to Rome, in Martial?",
+      "answer_en": "Pergamon.",
+      "derivation": "Strigils — the curved iron scrapers of the baths — came from Pergamon; scraping with them spares one's linen towels from the fuller. Named city + named implement; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.53",
+      "source_text": "Nuper in Ausonia domini spectatus harena Hic erit ille tibi, cui pila taurus erat.",
+      "question": "Quod animal, nuper in harena domini spectatum, taurum quasi pilam iactabat, ut ait Martialis?",
+      "answer": "Rhinoceros.",
+      "question_en": "What animal, lately exhibited in the emperor's arena, tossed a bull about as if it were a ball, as Martial says?",
+      "answer_en": "The rhinoceros.",
+      "derivation": "The rhinoceros (the lemma; here a flask of its horn) exhibited in Domitian's amphitheater famously tossed a bull like a ball — the same show celebrated in Martial's Liber spectaculorum. Anchored to the emperor's arena; one-word answer supported by the lemma + couplet (cui pila taurus erat).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.55",
+      "source_text": "Proficies nihil hoc, caedas licet usque, flagello, Si tibi purpureo de grege currit equus.",
+      "question": "De quo grege currit equus circensis cui flagellum nihil proficiet, ut iocatur Martialis?",
+      "answer": "De purpureo grege.",
+      "question_en": "From what stable does the race-horse run for which the whip will do no good, as Martial jokes?",
+      "answer_en": "From the purple stable (the purple faction).",
+      "derivation": "Evidence for the purple racing faction (purpureus grex) of the circus, added under Domitian alongside the old colors — the horse from that stable needs no whip. Anchored to the flagellum gift + the named faction color; short answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.56",
+      "source_text": "Quid mecum est tibi? me puella sumat: Emptos non soleo polire dentes.",
+      "question": "Quales dentes dentifricium polire non solere ait Martialis?",
+      "answer": "Emptos.",
+      "question_en": "What sort of teeth does tooth-powder say it does not polish, according to Martial?",
+      "answer_en": "Bought (false) teeth.",
+      "derivation": "The dentifricium jokes that it will not polish purchased teeth — Roman evidence for false teeth (cf. Martial's Laecania). A daily-life fact anchored to the named product; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.59",
+      "source_text": "Balsama me capiunt, haec sunt unguenta virorum: Delicias Cosmi vos redolete, nurus.",
+      "question": "Quae unguenta virorum propria esse dicit Martialis in Apophoretis?",
+      "answer": "Balsama.",
+      "question_en": "Which perfume does Martial in the Apophoreta declare the proper scent of men?",
+      "answer_en": "Balsam (opobalsamum).",
+      "derivation": "The gendering of Roman perfume: plain balsam for men, while the confections of Cosmus — the most famous perfumer of Rome — are left to young women. Anchored to the named unguent; one-word answer supported verbatim (haec sunt unguenta virorum).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.60",
+      "source_text": "Gratum munus erit scisso nec inutile ventri, Si clara Stephani balnea luce petes.",
+      "question": "Cui corporis parti lomentum gratum et utile est, teste Martiale?",
+      "answer": "Ventri scisso (rugoso).",
+      "question_en": "For what part of the body is bean-meal paste (lomentum) a welcome and useful gift, on Martial's testimony?",
+      "answer_en": "For a wrinkled (stretch-marked) belly.",
+      "derivation": "Lomentum, a cosmetic paste of bean-meal, smoothed a wrinkled belly before appearing in the bright light of the baths (Stephanus's baths named). Anchored to the named cosmetic; short answer supported verbatim (scisso... ventri).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.63",
+      "source_text": "Ebria nos madidis rumpit tibicina buccis: Saepe duas pariter, saepe monaulon habet.",
+      "question": "Quot tibias pariter tibicina saepe inflat apud Martialem?",
+      "answer": "Duas.",
+      "question_en": "How many pipes does the flute-girl often blow at once, in Martial?",
+      "answer_en": "Two (the double pipe).",
+      "derivation": "The tibicina of the banquet played the double pipe — two tibiae at once — or sometimes the single monaulos. A fact of Roman musical culture anchored to the named player and instrument; number answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.64",
+      "source_text": "Quid me conpactam ceris et harundine rides? Quae primum structa est fistula talis erat.",
+      "question": "Quibus rebus fistula pastoricia conpacta est, ut ait Martialis?",
+      "answer": "Ceris et harundine.",
+      "question_en": "Of what is the shepherd's panpipe put together, as Martial says?",
+      "answer_en": "Of wax and reed.",
+      "derivation": "The fistula (panpipe, the syrinx) is reeds joined with wax — and, the couplet adds, the very first panpipe was just such. Anchored to the named instrument; two-noun answer supported verbatim.",
+      "category": "ludi"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.66",
+      "source_text": "Taurino poteras pectus constringere tergo: Nam pellis mammas non capit ista tuas.",
+      "question": "Quo indumento pectus mulieris constringi solebat, quod mamillare vocatur apud Martialem?",
+      "answer": "Pelle (fascia pellicea).",
+      "question_en": "With what garment was a woman's chest bound, the one called mamillare in Martial?",
+      "answer_en": "A leather band (a band of skin).",
+      "derivation": "The mamillare (the lemma) was a breast-band of leather; the joke offers bull's hide for a bust the ordinary skin band cannot hold. A named garment of daily dress; answer supported verbatim (pellis mammas non capit ista).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.67",
+      "source_text": "Lambere quae turpes prohibet tua prandia muscas, Alitis eximiae cauda superba fuit.",
+      "question": "Ex cuius avis cauda fit muscarium quod muscas a prandio prohibet, teste Martiale?",
+      "answer": "Pavonis.",
+      "question_en": "From which bird's tail is made the fly-whisk that keeps flies off one's lunch, on Martial's testimony?",
+      "answer_en": "The peacock's.",
+      "derivation": "The muscarium pavoninum (the lemma): fly-whisks at table were made from the proud tail of the peacock, the 'matchless bird.' Anchored to the named utensil; one-word answer supported by lemma + couplet (alitis eximiae cauda).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.69",
+      "source_text": "Peccantis famuli pugno ne percute dentes: Clara Rhodos coptam quam tibi misit edat.",
+      "question": "Quae insula coptas, dura illa crustula, mittere solebat, ut iocatur Martialis?",
+      "answer": "Rhodos.",
+      "question_en": "What island used to send the copta, that hard biscuit, as Martial jokes?",
+      "answer_en": "Rhodes.",
+      "derivation": "The copta Rhodiaca — the proverbially rock-hard biscuit from famous Rhodes (hard enough to punish a slave's teeth in place of a punch). Named food + named place; one-word answer supported verbatim (Clara Rhodos coptam... misit).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.70",
+      "source_text": "Si vis esse satur, nostrum potes esse Priapum: Ipsa licet rodas inguina, purus eris.",
+      "question": "Cuius dei imago e siligine ficta inter dona Saturnalicia editur apud Martialem?",
+      "answer": "Priapi.",
+      "question_en": "The image of what god, shaped from fine wheat flour, is eaten among the Saturnalian gifts in Martial?",
+      "answer_en": "Of Priapus.",
+      "derivation": "The Priapus siligineus (the lemma): pastry-work in the shape of the god Priapus, of fine siligo flour, which one may eat entire and stay 'pure.' A named festive confection; answer supported by lemma + couplet (nostrum potes esse Priapum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.71",
+      "source_text": "Iste tibi faciet bona Saturnalia porcus, Inter spumantes ilice pastus apros.",
+      "question": "Quod animal bona Saturnalia facere dicitur apud Martialem?",
+      "answer": "Porcus.",
+      "question_en": "What animal is said to make a good Saturnalia, in Martial?",
+      "answer_en": "The pig.",
+      "derivation": "The pig — here acorn-fed among the boars — was the canonical Saturnalian feast animal (the porcus Saturnalicius). Festival + named animal; one-word answer supported verbatim (faciet bona Saturnalia porcus).",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.72",
+      "source_text": "Qui venit botulus mediae tibi tempore brumae, Saturni septem venerat ante dies.",
+      "question": "Quot dies Saturnalia durabant, ut testatur Martialis in Apophoretis?",
+      "answer": "Septem dies.",
+      "question_en": "How many days did the Saturnalia last, as Martial attests in the Apophoreta?",
+      "answer_en": "Seven days.",
+      "derivation": "The botulus (sausage) arriving at midwinter had already come before, during 'the seven days of Saturn' — prime evidence that the Saturnalia of Martial's day ran seven days. Festival + number; answer supported verbatim (Saturni septem... dies).",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.73",
+      "source_text": "Psittacus a vobis aliorum nomina discam: Hoc didici per me dicere CAESAR HAVE.",
+      "question": "Quam salutationem psittacus ille per se dicere didicit apud Martialem?",
+      "answer": "'Caesar have.'",
+      "question_en": "What greeting did the parrot in Martial learn to say all by itself?",
+      "answer_en": "'Hail, Caesar.'",
+      "derivation": "Talking parrots were taught greetings as luxury pets; this one learned unprompted to hail the emperor — a famous piece of imperial-age bird lore (cf. the raven of the Ara). Anchored to the parrot gift; short quoted answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.75",
+      "source_text": "Flet Philomela nefas incesti Tereos, et quae Muta puella fuit, garrula fertur avis.",
+      "question": "In quam avem Philomela, quae muta puella fuerat, mutata fertur?",
+      "answer": "In lusciniam.",
+      "question_en": "Into what bird is Philomela, who had been a mute girl, said to have been changed?",
+      "answer_en": "Into the nightingale.",
+      "derivation": "The Philomela myth in its Roman form: the girl silenced by Tereus becomes the garrulous singing bird — the luscinia (the lemma). The bird's identity as the nightingale is the epigram's subject; canonical shared myth, supported by lemma + couplet.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.76",
+      "source_text": "Pica loquax certa dominum te voce saluto: Si me non videas, esse negabis avem.",
+      "question": "Quae avis loquax dominum certa voce salutare dicitur apud Martialem?",
+      "answer": "Pica.",
+      "question_en": "What talkative bird is said to greet its master with a distinct voice, in Martial?",
+      "answer_en": "The magpie.",
+      "derivation": "The talking magpie kept as a greeting pet — so human-voiced that unseen you would deny it is a bird. A named bird of Roman pet culture; one-word answer supported verbatim (Pica loquax... saluto).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.77",
+      "source_text": "Si tibi talis erit, qualem dilecta Catullo Lesbia plorabat, hic habitare potest.",
+      "question": "Quae puella, Catullo dilecta, avem suam mortuam plorabat, ut memorat Martialis?",
+      "answer": "Lesbia.",
+      "question_en": "What girl, beloved of Catullus, wept for her dead bird, as Martial recalls?",
+      "answer_en": "Lesbia.",
+      "derivation": "The most famous pet bird of Latin literature — Lesbia's passer, mourned in Catullus's poems — invoked to size the ivory cage. Two named literary figures; one-word answer supported verbatim (dilecta Catullo Lesbia plorabat).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.78",
+      "source_text": "Artis ebur medicae narthecia cernis: habebis Munera, quae cuperet Paccius esse sua.",
+      "question": "Cuius artis instrumentum est narthecium, teste Martiale?",
+      "answer": "Artis medicae.",
+      "question_en": "Of what art is the narthecium (case for salves) the instrument, on Martial's testimony?",
+      "answer_en": "Of the medical art.",
+      "derivation": "The narthecium, here of ivory, was the physician's box of drugs and salves — a gift the (famous) doctor Paccius would covet. Named object + named profession; short answer supported verbatim (artis ebur medicae narthecia).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.79",
+      "source_text": "Ludite lascivi, sed tantum ludite, servi: Haec signata mihi quinque diebus erunt.",
+      "question": "Quot diebus flagra signata iacebunt, dum Saturnalibus servi ludunt, ut ait Martialis?",
+      "answer": "Quinque diebus.",
+      "question_en": "For how many days will the whips lie sealed away while the slaves play at the Saturnalia, as Martial says?",
+      "answer_en": "For five days.",
+      "derivation": "Saturnalian license for slaves: the whips are sealed up for the five days of the festival while the slaves play unpunished (Martial elsewhere counts seven days of Saturn; the couplet's own figure is five). Anchored to the flagra gift + the festival; number answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.80",
+      "source_text": "Invisae nimium pueris grataeque magistris, Clara Prometheo munere ligna sumus.",
+      "question": "Cuius munere clara sunt ligna ferularum, ut ait Martialis?",
+      "answer": "Promethei.",
+      "question_en": "By whose gift is the wood of the fennel-stalks (ferulae) famous, as Martial says?",
+      "answer_en": "By Prometheus's (he carried the stolen fire in a fennel stalk).",
+      "derivation": "The myth that Prometheus brought fire to men hidden in a fennel stalk (ferula) — 'famous for Prometheus's gift.' Named mythic figure + named plant; one-word answer supported verbatim (Clara Prometheo munere ligna).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.80",
+      "source_text": "Invisae nimium pueris grataeque magistris, Clara Prometheo munere ligna sumus.",
+      "question": "Quibus invisae, quibus gratae erant ferulae in schola Romana, teste Martiale?",
+      "answer": "Pueris invisae, magistris gratae.",
+      "question_en": "To whom were the ferulae (canes) hateful and to whom welcome in the Roman school, on Martial's testimony?",
+      "answer_en": "Hateful to the boys, welcome to the schoolmasters.",
+      "derivation": "The ferula as the schoolmaster's instrument of punishment — the emblematic fact of Roman schooling (cf. Juvenal's 'manum ferulae subduximus'). Anchored to the named implement; paired answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.82",
+      "source_text": "In pretio scopas testatur palma fuisse. Otia sed scopis nunc analecta dedit.",
+      "question": "Ex qua arbore scopae Romanae fieri solebant, ut testatur Martialis?",
+      "answer": "E palma.",
+      "question_en": "From what tree were Roman brooms usually made, as Martial attests?",
+      "answer_en": "From the palm.",
+      "derivation": "Brooms (scopae) were made of palm fronds; the couplet adds that the crumb-collector (analecta) has now given brooms a rest. Named object + named material; short answer supported verbatim (scopas... palma).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.83",
+      "source_text": "Defendet manus haec scapulas mordente molesto Pulice, vel si quid pulice sordidius.",
+      "question": "Cuius membri formam habebat scalptorium eboreum, quo scapulae a pulice defenduntur?",
+      "answer": "Manus.",
+      "question_en": "The shape of what limb did the ivory back-scratcher have, with which the shoulder-blades are defended from the flea?",
+      "answer_en": "Of a hand.",
+      "derivation": "The scalptorium (the lemma) was an ivory hand on a stick for scratching flea-bitten shoulders. A named toilette implement of daily life; one-word answer supported verbatim (Defendet manus haec scapulas).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.84",
+      "source_text": "Ne toga barbatos faciat vel paenula libros, Haec abies chartis tempora longa dabit.",
+      "question": "Ex qua materia manuale, quod libros a tritu vestis defendit, factum erat apud Martialem?",
+      "answer": "Ex abiete.",
+      "question_en": "Of what material was the manuale made, the case that protects books from the rubbing of one's clothes, in Martial?",
+      "answer_en": "Of fir-wood.",
+      "derivation": "The manuale, a fir-wood case, kept the toga or paenula from fraying one's book-rolls 'bearded' and gave the papyrus long life. A named object of book culture; short answer supported verbatim (Haec abies chartis tempora longa dabit).",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.85",
+      "source_text": "Nomina dat spondae pictis pulcherrima pinnis Nunc Iunonis avis, sed prius Argus erat.",
+      "question": "Quis prius fuit pavo, avis Iunonis, ut narrat Martialis?",
+      "answer": "Argus.",
+      "question_en": "Who was the peacock, Juno's bird, before, as Martial relates?",
+      "answer_en": "Argus (the hundred-eyed watchman).",
+      "derivation": "The shared myth behind the peacock's eyed tail: Juno's bird was formerly Argus, her hundred-eyed guard, whose eyes she set in its feathers. Named goddess + named figure; one-word answer supported verbatim (Nunc Iunonis avis, sed prius Argus erat).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.87",
+      "source_text": "Accipe lunata scriptum testudine sigma. Octo capit; veniat quisquis amicus erit.",
+      "question": "Quot convivas capit sigma, lectus ille lunatus, apud Martialem?",
+      "answer": "Octo.",
+      "question_en": "How many diners does the sigma, the crescent-shaped couch, hold in Martial?",
+      "answer_en": "Eight.",
+      "derivation": "The sigma (stibadium), the crescent dining-couch named from the lunate Greek letter, here inlaid with tortoiseshell, seats eight. A named furnishing of the Roman dinner; number answer supported verbatim (Octo capit).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.88",
+      "source_text": "Femineam nobis cherson si credis inesse, Deciperis: pelagi mascula praeda sumus.",
+      "question": "Ex qua testudine gustatorium pretiosum factum est, terrestri an marina, ut ipsum loquitur apud Martialem?",
+      "answer": "Marina (pelagi praeda).",
+      "question_en": "From which tortoise is the costly hors-d'oeuvre tray made, the land or the sea one, as it says of itself in Martial?",
+      "answer_en": "The sea-turtle (prey of the deep).",
+      "derivation": "Fine tortoiseshell ware came from the sea-turtle — the tray boasts it is 'the masculine prey of the deep,' not the land tortoise (cherson). Anchored to the named serving-piece; short answer supported verbatim (pelagi mascula praeda sumus).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.89",
+      "source_text": "Accipe felices, Atlantica munera, silvas: Aurea qui dederit dona, minora dabit.",
+      "question": "Ex quibus silvis mensa citrea, munus pretiosissimum, petebatur, teste Martiale?",
+      "answer": "Ex Atlanticis silvis (Maurorum).",
+      "question_en": "From what forests was the citrus-wood table, that most costly gift, sought, on Martial's testimony?",
+      "answer_en": "From the forests of Atlas (Mauretania).",
+      "derivation": "Citrus-wood for luxury tables came from the Atlas region of Mauretania — 'Atlantic gifts.' Named object + named region; short answer supported verbatim (Atlantica munera, silvas).",
+      "category": "geographia"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.89",
+      "source_text": "Accipe felices, Atlantica munera, silvas: Aurea qui dederit dona, minora dabit.",
+      "question": "Utrum maius munus dat, qui mensam citream an qui dona aurea dederit, secundum Martialem?",
+      "answer": "Qui mensam citream.",
+      "question_en": "Who gives the greater gift, the man who gives a citrus-wood table or the man who gives gifts of gold, according to Martial?",
+      "answer_en": "The giver of the citrus-wood table.",
+      "derivation": "The proverbial extravagance of citrus-wood tables: they outvalued gold itself ('he who gives golden gifts will give less'). Anchored to the named luxury; short comparative answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.92",
+      "source_text": "Puncta notis ilex et acuta cuspide clusa Saepe redemptoris prodere furta solet.",
+      "question": "Cuius hominis furta quinquepedal prodere solet, ut ait Martialis?",
+      "answer": "Redemptoris.",
+      "question_en": "Whose frauds does the five-foot measuring rod usually expose, as Martial says?",
+      "answer_en": "The building contractor's.",
+      "derivation": "The quinquepedal (the lemma), a five-foot rule of holm-oak marked with points, was the tool for catching a contractor (redemptor) cheating on measurements. Named instrument + named trade; one-word answer supported verbatim (redemptoris prodere furta).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.93",
+      "source_text": "Non est ista recens nec nostri gloria caeli: Primus in his Mentor, dum facit illa, bibit.",
+      "question": "Quis artifex primus in poculis archetypis, dum ea facit, bibisse dicitur apud Martialem?",
+      "answer": "Mentor.",
+      "question_en": "What craftsman is said to have first drunk from the antique embossed cups while he was making them, in Martial?",
+      "answer_en": "Mentor.",
+      "derivation": "Mentor, the most celebrated Greek silver-chaser, byword for antique masterwork plate at Rome — the cups' pedigree is that Mentor himself first drank from them. Named artist; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.94",
+      "source_text": "Nos sumus audacis plebeia toreumata vitri, Nostra neque ardenti gemma feritur aqua.",
+      "question": "Qua re calices vitrei plebeii non feriuntur, ut ipsi gloriantur apud Martialem?",
+      "answer": "Ardenti aqua.",
+      "question_en": "By what are the plebeian glass cups not cracked, as they themselves boast in Martial?",
+      "answer_en": "By hot water (unlike precious crystal, hot drinks do not crack them).",
+      "derivation": "Common glassware could take hot drinks that shattered precious crystal and murrine — the 'bold' cheap cups' one advantage. Anchored to the named ware; short answer supported verbatim (neque ardenti gemma feritur aqua).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.95",
+      "source_text": "Glorior arte magis: nam Myos iste labor.",
+      "question": "Cuius artificis labor erat phiala aurea caelata, qua arte magis quam metallo gloriatur, apud Martialem?",
+      "answer": "Myos.",
+      "question_en": "Whose workmanship was the chased golden bowl, which glories more in its art than in its metal, in Martial?",
+      "answer_en": "Mys's.",
+      "derivation": "Mys, with Mentor a canonical Greek master-chaser; the bowl, though red with Callaician (Spanish) gold, boasts of his art more than the metal. Named artist + named gold-source; one-word answer supported verbatim (Myos iste labor).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.96",
+      "source_text": "Vilia sutoris calicem monimenta Vatini Accipe; sed nasus longior ille fuit.",
+      "question": "Cuius artificii homo fuit Vatinius ille, a quo calices Vatinii nomen traxerunt?",
+      "answer": "Sutor.",
+      "question_en": "Of what trade was that Vatinius from whom the Vatinian cups took their name?",
+      "answer_en": "A cobbler.",
+      "derivation": "The calices Vatinii, cheap long-nosed cups, were named for Vatinius the cobbler (of Beneventum, cf. Juvenal 5.46) — a piece of shared tableware lore. Named man + trade; one-word answer supported verbatim (sutoris... Vatini).",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.97",
+      "source_text": "Grandia ne viola parvo chrysendeta mullo: Ut minimum, libras debet habere duas.",
+      "question": "Quot libras mullus habere debet, qui in lance chrysendeta ponatur, ut praecipit Martialis?",
+      "answer": "Duas libras ut minimum.",
+      "question_en": "How many pounds must a mullet weigh to be served on a gold-inlaid dish, as Martial prescribes?",
+      "answer_en": "At least two pounds.",
+      "derivation": "The Roman obsession with mullet size: a fish worthy of the grand chrysendeta must weigh two pounds at minimum. Named dish + named fish + number; answer supported verbatim (Ut minimum, libras... duas).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.98",
+      "source_text": "Arretina nimis ne spernas vasa monemus: Lautus erat Tuscis Porsena fictilibus.",
+      "question": "Quis rex Tuscis fictilibus lautus fuisse dicitur, ut monet Martialis de vasis Arretinis?",
+      "answer": "Porsena.",
+      "question_en": "What king is said to have lived in style with Tuscan earthenware, as Martial notes of Arretine ware?",
+      "answer_en": "Porsena.",
+      "derivation": "Arretium's famous red pottery defended by the example of Porsena, the Etruscan king, who was 'lautus' with Tuscan crockery. Named ware + named king; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.99",
+      "source_text": "Barbara de pictis veni bascauda Britannis; Sed me iam mavolt dicere Roma suam.",
+      "question": "A qua gente bascauda Romam venit, teste Martiale?",
+      "answer": "De pictis Britannis.",
+      "question_en": "From what people did the bascauda (basket-work vessel) come to Rome, on Martial's testimony?",
+      "answer_en": "From the painted Britons.",
+      "derivation": "The bascauda, a British import (the word itself Celtic) that Rome had adopted as her own — with the stock ethnographic epithet 'painted Britons.' Named object + named people; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.100",
+      "source_text": "Si non ignotast docti tibi terra Catulli, Potasti testa Raetica vina mea.",
+      "question": "Quae vina in terra docti Catulli e panaca bibuntur, ut ait Martialis?",
+      "answer": "Raetica.",
+      "question_en": "What wines are drunk from the panaca in the homeland of learned Catullus, as Martial says?",
+      "answer_en": "Raetian wines.",
+      "derivation": "Raetian wine belonged to the Verona country — 'the land of learned Catullus' — drunk from the local panaca jar; also attests Verona as Catullus's homeland. Named wine + named poet's country; one-word answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.101",
+      "source_text": "Cum mihi boleti dederint tam nobile nomen, Prototomis - pudet heu! - servio coliculis.",
+      "question": "A quo cibo boletaria nomen suum nobile acceperunt, teste Martiale?",
+      "answer": "A boletis.",
+      "question_en": "From what food did the boletaria (mushroom-dishes) take their noble name, on Martial's testimony?",
+      "answer_en": "From boleti (the prized mushrooms).",
+      "derivation": "The boletar was the dish named for the boletus, the noblest mushroom of the Roman table — though, it complains, it now serves cheap early-cut cabbage sprouts. Named dish + named food; short answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.102",
+      "source_text": "Accipe non vili calices de pulvere natos, Sed Surrentinae leve toreuma rotae.",
+      "question": "Cuius loci rota calices fictiles nobiles tornavit, quos laudat Martialis?",
+      "answer": "Surrenti (Surrentinae rotae).",
+      "question_en": "The wheel of what place turned the fine clay cups that Martial praises?",
+      "answer_en": "Of Surrentum (the Surrentine wheel).",
+      "derivation": "Surrentine cups — the respected fine pottery of Surrentum on the bay of Naples, 'the smooth embossed work of the Surrentine wheel,' born of no cheap clay. Named place-product; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.103",
+      "source_text": "Setinos, moneo, nostra nive frange trientes: Pauperiore mero tingere lina potes.",
+      "question": "Qua re Setinum merum frangi (temperari) monet colum nivarium apud Martialem?",
+      "answer": "Nive.",
+      "question_en": "With what does the snow-strainer advise that Setine wine be 'broken' (tempered), in Martial?",
+      "answer_en": "With snow.",
+      "derivation": "Chilling wine through snow — the colum nivarium (snow-strainer) for the noble Setine, linen for cheaper stuff. Named wine + named practice; one-word answer supported verbatim (nostra nive frange trientes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.105",
+      "source_text": "Frigida non deerit, non deerit calda petenti. Sed tu morosa ludere parce siti.",
+      "question": "Quas duas aquas urceoli ministratorii convivae petenti praebent apud Martialem?",
+      "answer": "Frigidam et caldam.",
+      "question_en": "Which two waters do the serving-jugs supply to the diner who asks, in Martial?",
+      "answer_en": "Cold and hot (frigida and calda).",
+      "derivation": "Roman table service offered both frigida and calda — cold water and the hot water for mixing with wine — from the ministering jugs. Named vessel + the two named drinks; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.106",
+      "source_text": "Hic tibi donatur pansa ruber urceus ansa. Stoicus hoc gelidam Fronto petebat aquam.",
+      "question": "Quis Stoicus gelidam aquam urceo fictili petebat, ut refert Martialis?",
+      "answer": "Fronto.",
+      "question_en": "What Stoic used to fetch cold water in an earthenware jug, as Martial reports?",
+      "answer_en": "Fronto.",
+      "derivation": "The red clay urceus dignified by philosophic frugality: the Stoic Fronto drank his cold water from just such a jug. Named philosopher + named vessel; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.107",
+      "source_text": "Nos Satyri, nos Bacchus amat, nos ebria tigris, Perfusos domini lambere docta pedes.",
+      "question": "Qui deus cum Satyris suis calathos amare dicitur apud Martialem?",
+      "answer": "Bacchus.",
+      "question_en": "What god, along with his Satyrs, is said to love the calathus cups, in Martial?",
+      "answer_en": "Bacchus.",
+      "derivation": "The calathus as the Bacchic drinking-cup, loved by Bacchus, the Satyrs, and the god's drunken tigress taught to lick her master's wine-drenched feet. Named god + named cup; one-word answer supported verbatim.",
+      "category": "mythos"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.108",
+      "source_text": "Quae non sollicitus teneat servetque minister, Sume Saguntino pocula facta luto.",
+      "question": "Ex cuius oppidi luto pocula vilia facta sunt, quae minister sine sollicitudine tenet, apud Martialem?",
+      "answer": "Sagunti.",
+      "question_en": "From the clay of what town are the cheap cups made that a servant can hold without anxiety, in Martial?",
+      "answer_en": "Of Saguntum (in Spain).",
+      "derivation": "Saguntine clay-ware, the inexpensive Spanish pottery a slave need not fear dropping — its cheapness the whole point of the gift. Named place-product; one-word answer supported verbatim (Saguntino... luto).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.109",
+      "source_text": "Gemmatum Scythicis ut luceat ignibus aurum, Aspice. Quot digitos exuit iste calix!",
+      "question": "Quibus ignibus aurum calicum gemmatorum lucere dicit Martialis?",
+      "answer": "Scythicis ignibus (gemmis smaragdisque).",
+      "question_en": "With what fires does Martial say the gold of the jeweled cups gleams?",
+      "answer_en": "With Scythian fires (the green gems, emeralds, of Scythia).",
+      "derivation": "Jeweled gold cups set with 'Scythian fires' — the smaragdi (emeralds) proverbially from Scythia — gems stripped, the couplet jokes, from many fingers' rings. Named gem-source; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.113",
+      "source_text": "Si caldum potas, ardenti murra Falerno Convenit et melior fit sapor inde mero.",
+      "question": "Quod poculum ardenti Falerno caldo maxime convenit, ita ut melior fiat sapor, teste Martiale?",
+      "answer": "Murra (poculum murrinum).",
+      "question_en": "What cup best suits blazing-hot Falernian, so that the flavor of the wine actually improves, on Martial's testimony?",
+      "answer_en": "Murrine (a cup of murra).",
+      "derivation": "The famous murrine ware: it tolerated hot drinks and was believed to improve the wine's flavor — here paired with hot Falernian. Named ware + named wine; short answer supported verbatim (murra Falerno convenit... melior fit sapor).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.114",
+      "source_text": "Hanc tibi Cumano rubicundam pulvere testam Municipem misit casta Sibylla suam.",
+      "question": "Quae vates patellam Cumanam, municipem suam, misisse dicitur apud Martialem?",
+      "answer": "Sibylla (Cumana).",
+      "question_en": "What prophetess is said to have sent the Cumaean dish, her fellow-townswoman, in Martial?",
+      "answer_en": "The (chaste) Sibyl of Cumae.",
+      "derivation": "Cumae's red earthenware personified as fellow-citizen of the Cumaean Sibyl — attesting both the town's red pottery and the Sibyl's famous residence there. Named place + named prophetess; one-word answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.115",
+      "source_text": "Aspicis ingenium Nili: quibus addere plura Dum cupit, a quotiens perdidit auctor opus!",
+      "question": "Cuius fluminis ingenium in calicibus vitreis agnoscitur, teste Martiale?",
+      "answer": "Nili.",
+      "question_en": "The ingenuity of what river is recognized in the glass cups, on Martial's testimony?",
+      "answer_en": "Of the Nile (Egyptian glasswork).",
+      "derivation": "Fine glassware as 'the ingenuity of the Nile' — Egypt (Alexandria) was the famed center of glass craft, whose artists often ruined a piece by attempting one touch more. Named river-region; one-word answer supported verbatim (ingenium Nili).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.117",
+      "source_text": "Non potare nivem, sed aquam potare recentem De nive commenta est ingeniosa sitis.",
+      "question": "Quid ex lagona nivaria potatur, nix ipsa an aqua, ut docet Martialis?",
+      "answer": "Aqua recens de nive (non ipsa nix).",
+      "question_en": "What is drunk from the snow-flask, the snow itself or water, as Martial explains?",
+      "answer_en": "Fresh water chilled by the snow (not the snow itself).",
+      "derivation": "The refinement of Roman cold drinks: ingenious thirst devised drinking not melted snow but fresh water cooled through snow. Anchored to the lagona nivaria (the lemma); short answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.118",
+      "source_text": "Massiliae fumos miscere nivalibus undis Parce, puer, constet ne tibi pluris aqua.",
+      "question": "Cuius urbis vina 'fumos' appellat Martialis?",
+      "answer": "Massiliae.",
+      "question_en": "The wines of what city does Martial call 'smoke'?",
+      "answer_en": "Of Massilia (Marseille).",
+      "derivation": "Massilia's cheap wine, aged in smoke, was proverbially 'fumus' — not worth mixing with snow-cooled water that costs more than it. Named city + its wine's byname; one-word answer supported verbatim (Massiliae fumos).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.119",
+      "source_text": "Dum poscor crepitu digitorum et verna moratur, O quotiens paelex culcita facta mea est!",
+      "question": "Quo signo matella nocte a domino poscebatur, teste Martiale?",
+      "answer": "Crepitu digitorum.",
+      "question_en": "By what signal was the chamber-pot called for at night by its master, on Martial's testimony?",
+      "answer_en": "By a snapping of the fingers.",
+      "derivation": "The Roman custom of snapping one's fingers to summon the slave with the matella (chamber-pot) — with the joke that when the boy dallies, the mattress plays rival. Named object + named gesture; short answer supported verbatim (poscor crepitu digitorum).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.121",
+      "source_text": "Sum cocleis habilis, sed nec minus utilis ovis. Numquid scis, potius cur cocleare vocer?",
+      "question": "Quibus duobus cibis cocleare aptum est, teste Martiale?",
+      "answer": "Cocleis et ovis.",
+      "question_en": "For which two foods is the cocleare (pointed spoon) suited, on Martial's testimony?",
+      "answer_en": "For snails and for eggs.",
+      "derivation": "The cocleare, the small pointed spoon named from the snail (coclea), served for snails and equally for eggs — the two shell-foods of the Roman table. Named utensil; two-noun answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.124",
+      "source_text": "Romanos rerum dominos gentemque togatam Ille facit, magno qui dedit astra patri.",
+      "question": "Quo epitheto a veste sua gens Romana appellatur, quod ex Vergilio refert Martialis in Apophoretis?",
+      "answer": "Gens togata.",
+      "question_en": "By what epithet, drawn from its dress, is the Roman race called, which Martial in the Apophoreta echoes from Vergil?",
+      "answer_en": "The toga-clad race (gens togata).",
+      "derivation": "The toga as the Roman national dress: Martial quotes Vergil's famous line (Aen. 1.282) 'Romanos rerum dominos gentemque togatam' on the gift of a toga. Anchored to Romans + toga; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.125",
+      "source_text": "Si matutinos facilest tibi perdere somnos, Attrita veniet sportula saepe toga.",
+      "question": "Quid clienti, qui matutinos somnos perdere sustinet, cum attrita toga saepe veniet, ut ait Martialis?",
+      "answer": "Sportula.",
+      "question_en": "What will often come, along with a worn-out toga, to the client who can bear to lose his morning sleep, as Martial says?",
+      "answer_en": "The sportula (the patron's dole).",
+      "derivation": "The client system in one couplet: rise before dawn, wear out your toga at the salutatio, and earn the sportula. Named institution + named garment; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.128",
+      "source_text": "Gallia Santonico vestit te bardocucullo. Cercopithecorum paenula nuper erat.",
+      "question": "Quae terra homines bardocucullo Santonico vestit, teste Martiale?",
+      "answer": "Gallia.",
+      "question_en": "What land clothes men with the Santonic bardocucullus (hooded cloak), on Martial's testimony?",
+      "answer_en": "Gaul.",
+      "derivation": "The bardocucullus, the hooded cloak of the Gallic Santones (whence 'Santonic'), a Gaulish export garment at Rome. Named garment + named land and people; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.129",
+      "source_text": "Roma magis fuscis vestitur, Gallia rufis, Et placet hic pueris militibusque colos.",
+      "question": "Quo colore lanarum Roma, quo Gallia magis vestitur, secundum Martialem?",
+      "answer": "Roma fuscis, Gallia rufis.",
+      "question_en": "In wool of what color does Rome mostly dress, and in what color Gaul, according to Martial?",
+      "answer_en": "Rome in dark (brown), Gaul in red.",
+      "derivation": "The color-geography of dress: Rome wore the dark Canusian wools, Gaul the red — and red, Martial adds, pleases boys and soldiers. Two named places + colors; paired answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.130",
+      "source_text": "Ingrediare viam caelo licet usque sereno, Ad subitas numquam scortea desit aquas.",
+      "question": "Ad quas res paenula scortea viatori semper praesto esse debet, ut monet Martialis?",
+      "answer": "Ad subitas aquas (imbres).",
+      "question_en": "For what should the traveler always have his leather paenula at hand, as Martial advises?",
+      "answer_en": "For sudden rains.",
+      "derivation": "The scortea, the leather rain-cloak of the Roman traveler: carry it even under a clear sky against sudden showers. Named garment; short answer supported verbatim (Ad subitas... scortea... aquas).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.131",
+      "source_text": "Si veneto prasinove faves, quid coccina sumes? Ne fias ista transfuga sorte, vide.",
+      "question": "Quibus duabus factionibus circensium favere spectatores solitos innuit Martialis de lacernis coccineis?",
+      "answer": "Venetae et prasinae.",
+      "question_en": "Which two circus factions does Martial imply the spectators usually favor, in the couplet on scarlet cloaks?",
+      "answer_en": "The Blue and the Green.",
+      "derivation": "The great chariot factions of the circus — venetus (Blue) and prasinus (Green): wearing scarlet, you would look like a deserter of your color. Named factions; two-word answer supported verbatim (veneto prasinove faves).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.133",
+      "source_text": "Non est lana mihi mendax, nec mutor aheno. Sic placeant Tyriae: me mea tinxit ovis.",
+      "question": "Unde colorem suum habent lacernae Baeticae, ut ipsae apud Martialem gloriantur?",
+      "answer": "A sua ove (natura lanae, non fuco).",
+      "question_en": "From what do the Baetic cloaks get their color, as they themselves boast in Martial?",
+      "answer_en": "From their own sheep (the wool's natural color, not dye).",
+      "derivation": "The famous naturally-colored (golden-brown) wool of Baetica in Spain: no lying wool, no dye-vat — 'my own sheep dyed me,' unlike Tyrian purple. Named region-product; short answer supported verbatim (me mea tinxit ovis).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.135",
+      "source_text": "Amphitheatrali nos commendamus ab usu, Cum teget algentes alba lacerna togas.",
+      "question": "Quo in spectaculo lacerna alba super togam sumi solebat, teste Martiale?",
+      "answer": "In amphitheatro.",
+      "question_en": "At what spectacle was the white lacerna worn over the toga, on Martial's testimony?",
+      "answer_en": "In the amphitheater.",
+      "derivation": "The white lacerna as amphitheater dress, worn over the chilly toga at the games (white was the required color of the spectator's cloak under Domitian). Named garment + named venue; short answer supported verbatim (amphitheatrali... usu).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.136",
+      "source_text": "Nec fora sunt nobis nec sunt vadimonia nota: Hoc opus est, pictis accubuisse toris.",
+      "question": "Quod unum opus est vestis cenatoriae, ut ipsa loquitur apud Martialem?",
+      "answer": "Pictis toris accubuisse.",
+      "question_en": "What is the one business of dinner-clothes, as they say of themselves in Martial?",
+      "answer_en": "To recline on the embroidered dining-couches.",
+      "derivation": "The cenatoria: a distinct outfit worn only for dining — it knows neither forum nor court-dates, its sole work is reclining at table. Named garment-class; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.139",
+      "source_text": "Nobilius villosa tegant tibi lintea citrum: Orbibus in nostris circulus esse potest.",
+      "question": "Qualem mensam lintea villosa (mantelia) tegere debent apud Martialem?",
+      "answer": "Citream (citrum).",
+      "question_en": "What sort of table should the shaggy linen cloths (mantelia) cover, in Martial?",
+      "answer_en": "The citrus-wood table.",
+      "derivation": "Tablecloths guarded the precious citrus tabletops — a wine-cup's ring may sit on the cloth, not the wood. Named textile + named luxury table; one-word answer supported verbatim (villosa tegant... lintea citrum).",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.141",
+      "source_text": "Non hos lana dedit, sed olentis barba mariti: Cinyphio poterit planta latere sinu.",
+      "question": "Ex qua materia udones Cilicii facti sunt, teste Martiale?",
+      "answer": "E barba hircorum (non lana).",
+      "question_en": "Of what material are Cilician udones (foot-socks) made, on Martial's testimony?",
+      "answer_en": "Of he-goats' beard-hair (not wool).",
+      "derivation": "Cilician cloth (cilicium) was woven of goat hair — the socks come 'not from wool but from the beard of the smelly husband' of the she-goats, of Cinyphian (North African) goat fleece. Named product; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.142",
+      "source_text": "Dum toga per quinas gaudet requiescere luces, Hos poteris cultus sumere iure tuo.",
+      "question": "Per quot dies toga Saturnalibus requiescit, dum synthesis iure sumitur, teste Martiale?",
+      "answer": "Per quinque dies.",
+      "question_en": "For how many days does the toga rest at the Saturnalia, while the synthesis is worn by right, on Martial's testimony?",
+      "answer_en": "For five days.",
+      "derivation": "The synthesis (the lemma) as the licensed Saturnalian dress: while the toga 'delights to rest for five days,' one may wear the dinner-suit by right. Named garments + festival + number; answer supported verbatim (per quinas... luces).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.143",
+      "source_text": "Vellera consumunt Patavinae multa trilices, Et pingues tunicas serra secare potest.",
+      "question": "Cuius urbis tunicae trilices tam pingues erant ut serra secari possent, ut iocatur Martialis?",
+      "answer": "Patavii.",
+      "question_en": "Of what city were the triple-twill tunics so thick that a saw could cut them, as Martial jokes?",
+      "answer_en": "Of Patavium (Padua).",
+      "derivation": "Patavium's famous heavy woolens: its trilix (triple-woven) tunics consume masses of fleece and are thick enough for the saw. Named city-product; one-word answer supported verbatim (Patavinae... trilices).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.150",
+      "source_text": "Haec tibi Memphitis tellus dat munera: victa est Pectine Niliaco iam Babylonos acus.",
+      "question": "Cuius urbis acus pectine Niliaco victa esse dicitur apud Martialem?",
+      "answer": "Babylonos.",
+      "question_en": "The needle of what city is said to have been beaten by the Nile's comb (loom), in Martial?",
+      "answer_en": "Of Babylon.",
+      "derivation": "The two famed textile arts compared: Egyptian polymita weaving (the 'comb of the Nile') has now surpassed Babylonian embroidery ('the needle of Babylon'). Two named centers; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.152",
+      "source_text": "Lodices mittet docti tibi terra Catulli: Nos Helicaonia de regione sumus.",
+      "question": "Quae terra lodices mittere solet, ut ait Martialis?",
+      "answer": "Terra Catulli (Verona).",
+      "question_en": "What land customarily sends the lodices (blankets), as Martial says?",
+      "answer_en": "The land of Catullus (Verona).",
+      "derivation": "Verona — 'the land of learned Catullus' — was known for its lodices (blankets), while the square gausapum speaks as a native of Patavium ('the region of Helicaon'). Named region-product; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.154",
+      "source_text": "Ebria Sidoniae cum sim de sanguine conchae, Non video, quare sobria lana vocer.",
+      "question": "Cuius conchae sanguine lanae amethystinae tinguntur, ut ait Martialis?",
+      "answer": "Sidoniae.",
+      "question_en": "With the blood of what shellfish are the amethyst-colored wools dyed, as Martial says?",
+      "answer_en": "Of the Sidonian (purple) shellfish.",
+      "derivation": "Amethystine wool was dyed with the Phoenician murex — 'drunk with the blood of the Sidonian shell' (the couplet then puns on amethystos, 'unintoxicated'). Named dye-source; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.155",
+      "source_text": "Velleribus primis Apulia, Parma secundis Nobilis; Altinum tertia laudat ovis.",
+      "question": "Quae terra velleribus primis, quae secundis, quod oppidum tertiis nobile est, secundum Martialem?",
+      "answer": "Apulia primis, Parma secundis, Altinum tertiis.",
+      "question_en": "What land is famed for the first-rank fleeces, which for the second, and what town for the third, according to Martial?",
+      "answer_en": "Apulia first, Parma second, Altinum third.",
+      "derivation": "The canonical ranking of Italian white wools: Apulia first, Parma second, Altinum third — the ambient market knowledge of Roman wool (cf. Pliny and Columella on the same trio). Three named places; ranked answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.156",
+      "source_text": "Nos Lacedaemoniae pastor donavit amicae: Deterior Ledae purpura matris erat.",
+      "question": "Quis pastor lanas Tyrias Lacedaemoniae amicae donavisse fingitur apud Martialem?",
+      "answer": "Paris (Helenae).",
+      "question_en": "What shepherd is imagined in Martial to have given the Tyrian purple wool to his Spartan mistress?",
+      "answer_en": "Paris (to Helen).",
+      "derivation": "The mythic pedigree of Tyrian wool: 'the shepherd' who gave it to his 'Lacedaemonian mistress' is Paris giving to Helen — confirmed by 'her mother Leda' in the pentameter. Decoding the periphrasis is exactly the shared myth-knowledge the couplet assumes; supported by the quoted lines.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.157",
+      "source_text": "Non tantum pullo lugentes vellere lanas, Sed solet et calices haec dare terra suos.",
+      "question": "Quibus duabus mercibus terra Pollentina nobilis erat, teste Martiale?",
+      "answer": "Lanis pullis et calicibus.",
+      "question_en": "For which two wares was the land of Pollentia known, on Martial's testimony?",
+      "answer_en": "For dark (mourning) wools and for its cups.",
+      "derivation": "Pollentia (the lemma: lanae Pollentinae) supplied both the dark 'mourning' fleeces and its own dark pottery cups. Named town + two products; two-noun answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.160",
+      "source_text": "Tomentum concisa palus Circense vocatur. Haec pro Leuconico stramina pauper emit.",
+      "question": "Quod tomentum pauper pro Leuconico emere solet, teste Martiale?",
+      "answer": "Circense (concisam paludem).",
+      "question_en": "What mattress-stuffing does the poor man buy in place of the Leuconian, on Martial's testimony?",
+      "answer_en": "The 'Circus' stuffing (chopped marsh-reeds).",
+      "derivation": "The rich/poor bedding pair: chopped marsh-reed was sold as 'tomentum Circense,' the poor man's substitute for the fine Leuconian shorn-wool flock. Two named stuffings; short answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.161",
+      "source_text": "Lassus Amyclaea poteris requiescere pluma, Interior cycni quam tibi lana dedit.",
+      "question": "Cuius avis pluma interior culcitas mollissimas implebat, teste Martiale?",
+      "answer": "Cycni.",
+      "question_en": "The inner down of what bird filled the softest pillows, on Martial's testimony?",
+      "answer_en": "Of the swan.",
+      "derivation": "The finest bedding was stuffed with swan's down — 'the inner wool of the swan,' called Amyclaean after the swan of Leda's Amyclae. Named bird-product; one-word answer supported verbatim (Interior cycni... lana).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.163",
+      "source_text": "Redde pilam: sonat aes thermarum. Ludere pergis? Virgine vis sola lotus abire domum.",
+      "question": "Quo signo lusores pilae in thermas vocabantur, teste Martiale?",
+      "answer": "Aere sonanti (tintinabulo thermarum).",
+      "question_en": "By what signal were the ball-players summoned to the hot baths, on Martial's testimony?",
+      "answer_en": "By the sounding bronze (the bell of the baths).",
+      "derivation": "The bell (tintinabulum, the lemma) rang to announce the thermae were open — time to give up the ball, or wash at home in the cold Aqua Virgo alone. A named institution of bath life; answer supported verbatim (sonat aes thermarum).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.165",
+      "source_text": "Reddidit Eurydicen vati: sed perdidit ipse, Dum sibi non credit nec patienter amat.",
+      "question": "Quam uxorem cithara vati Orpheo reddidit, quam ipse mox iterum perdidit?",
+      "answer": "Eurydicen.",
+      "question_en": "What wife did the lyre restore to the bard Orpheus, whom he himself soon lost again?",
+      "answer_en": "Eurydice.",
+      "derivation": "The Orpheus myth on the gift of a cithara: the lyre won Eurydice back from the underworld, but the bard lost her by not trusting himself and looking back. Canonical shared story; one-word answer supported verbatim (Reddidit Eurydicen vati... perdidit ipse).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.167",
+      "source_text": "Fervida ne trito tibi pollice pusula surgat, Exornent docilem candida plectra lyram.",
+      "question": "Cui digito plectrum parcit, ne pusula fervida surgat, dum lyra pulsatur, teste Martiale?",
+      "answer": "Pollici.",
+      "question_en": "Which finger does the plectrum spare from raising a burning blister when the lyre is struck, on Martial's testimony?",
+      "answer_en": "The thumb.",
+      "derivation": "The plectrum's practical point: it saves the player's thumb, worn and blistered by plucking the strings bare. Named implement + named finger; one-word answer supported verbatim (trito... pollice pusula).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.169",
+      "source_text": "Garrulus in laxo cur anulus orbe vagatur? Cedat ut argutis obvia turba trochis.",
+      "question": "Quam ob rem anuli garruli in orbe trochi currentis vagantur, ut docet Martialis?",
+      "answer": "Ut obvia turba trochis cedat.",
+      "question_en": "For what purpose do jingling rings run loose on the hoop's rim, as Martial explains?",
+      "answer_en": "So that the crowd in the way may step aside for the hoops.",
+      "derivation": "The trochus, the boys' driving-hoop, carried loose metal rings whose jingle warned pedestrians to clear the way — the purpose is stated, not left to interpretation. Named toy; short answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.170",
+      "source_text": "Haec illi sine sorte datur, cui nomina Rhenus Vera dedit. Deciens adde Falerna, puer.",
+      "question": "Quod flumen Domitiano nomina vera, id est Germanici cognomen, dedisse ait Martialis?",
+      "answer": "Rhenus.",
+      "question_en": "What river does Martial say gave Domitian his 'true name' — the surname Germanicus?",
+      "answer_en": "The Rhine.",
+      "derivation": "The golden Victory goes without lot to him 'to whom the Rhine gave his true name' — Domitian, styled Germanicus after his Rhine (Chattan) campaign. Named river + imperial cognomen; one-word answer supported verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.171",
+      "source_text": "Gloria tam parvi non est obscura sigilli: Istius pueri Brutus amator erat.",
+      "question": "Quis amator erat pueri illius, sigilli celeberrimi, ut refert Martialis?",
+      "answer": "Brutus.",
+      "question_en": "Who was the lover (devotee) of that famous boy-statuette, as Martial reports?",
+      "answer_en": "Brutus.",
+      "derivation": "The 'puer Bruti,' the celebrated small bronze boy that Brutus so loved it bore his name — a stock piece of Roman art lore (Martial cites it elsewhere too). Named collector + named statuette; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.172",
+      "source_text": "Ad te reptanti, puer insidiose, lacertae Parce: cupit digitis illa perire tuis.",
+      "question": "Quod animal puer ille insidiosus in signo Sauroctono petit, teste Martiale?",
+      "answer": "Lacertam.",
+      "question_en": "What creature does the lurking boy stalk in the Sauroctonos statue, on Martial's testimony?",
+      "answer_en": "A lizard.",
+      "derivation": "The Sauroctonos ('lizard-slayer'), the famous statue type of the boy (Apollo, after Praxiteles) poised to kill the creeping lizard — here in Corinthian bronze. Named artwork; one-word answer supported verbatim (reptanti... lacertae).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.173",
+      "source_text": "Flectit ab inviso morientia lumina disco Oebalius, Phoebi culpa dolorque, puer.",
+      "question": "Quo instrumento Hyacinthus, Phoebi culpa dolorque, periit, ut pingitur apud Martialem?",
+      "answer": "Disco.",
+      "question_en": "By what implement did Hyacinthus, Phoebus's fault and grief, die, as painted in Martial?",
+      "answer_en": "By the discus.",
+      "derivation": "The Hyacinthus myth: the Spartan ('Oebalian') boy killed by the discus, the guilt and grief of Apollo who threw it — the painting shows him turning his dying eyes from the hated discus. Canonical myth; one-word answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.174",
+      "source_text": "Masculus intravit fontis, emersit utrumque: Pars est una patris, cetera matris habet.",
+      "question": "Qualis fontem intravit Hermaphroditus et qualis emersit, ut ait Martialis?",
+      "answer": "Masculus intravit, utriusque sexus emersit.",
+      "question_en": "In what form did Hermaphroditus enter the spring, and in what form did he emerge, as Martial says?",
+      "answer_en": "He entered male and came out of both sexes.",
+      "derivation": "The Hermaphroditus myth (Salmacis's spring): he went in a male and emerged double-natured, 'one part of his father, the rest of his mother' (Hermes and Aphrodite). Canonical shared story on the marble statue; answer supported verbatim.",
+      "category": "mythos"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.175",
+      "source_text": "Cur a te pretium Danae, regnator Olympi, Accepit, gratis si tibi Leda dedit?",
+      "question": "Quae femina Iovi gratis se dedisse dicitur, cum Danae pretium acceperit, ut iocatur Martialis?",
+      "answer": "Leda.",
+      "question_en": "Which woman is said to have given herself to Jupiter for free, whereas Danae took a price, as Martial jokes?",
+      "answer_en": "Leda.",
+      "derivation": "Two canonical loves of Jupiter set side by side: Danae 'paid' with the golden shower, Leda (visited as the swan) gave gratis. Two named mythic women + the god; one-word answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.176",
+      "source_text": "Sum figuli lusus russi persona Batavi. Quae tu derides, haec timet ora puer.",
+      "question": "Cuius gentis ora russa persona illa fictilis refert, quam puer timet, teste Martiale?",
+      "answer": "Batavi.",
+      "question_en": "The red face of what people does that clay mask represent, which a boy fears, on Martial's testimony?",
+      "answer_en": "Of a Batavian.",
+      "derivation": "The persona Germana: a potter's clay mask with the red(-haired) Batavian face — the adult laughs, the child is frightened. The red Batavian is the stock ethnographic image; one-word answer supported verbatim (russi persona Batavi).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.177",
+      "source_text": "Elidit geminos infans nec respicit anguis. Iam poterat teneras hydra timere manus.",
+      "question": "Quot anguis Hercules infans elisit, ut in signo Corinthio ostenditur apud Martialem?",
+      "answer": "Geminos (duos).",
+      "question_en": "How many snakes did the infant Hercules crush, as shown in the Corinthian bronze in Martial?",
+      "answer_en": "Twin snakes (two).",
+      "derivation": "The canonical infant-Hercules scene: the baby strangling the two snakes sent against him, so that already the hydra might fear his tender hands. Named hero (lemma: Hercules Corinthius); number answer supported verbatim (geminos... anguis).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.179",
+      "source_text": "Dic mihi, virgo ferox, cum sit tibi cassis et hasta, Quare non habeas aegida. 'Caesar habet.'",
+      "question": "Quis aegida Minervae habere dicitur, cum ipsa cassidem et hastam gerat, apud Martialem?",
+      "answer": "Caesar (Domitianus).",
+      "question_en": "Who is said to hold Minerva's aegis, while she herself carries helmet and spear, in Martial?",
+      "answer_en": "Caesar (Domitian).",
+      "derivation": "Domitian's special devotion to Minerva, his patron goddess: the silver statuette has helmet and spear, and the aegis 'Caesar has.' Named goddess + emperor; short answer supported verbatim ('Caesar habet').",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.180",
+      "source_text": "Mutari melius tauro, pater optime divum, Tunc poteras, Io cum tibi vacca fuit.",
+      "question": "In quod animal Iuppiter propter Europam mutatus est, ut pingitur apud Martialem?",
+      "answer": "In taurum.",
+      "question_en": "Into what animal did Jupiter change for Europa, as painted in Martial?",
+      "answer_en": "Into a bull.",
+      "derivation": "On the painted Europa (the lemma): Jupiter became a bull to carry her off — the joke adds he should have done it when Io was his cow. Named god + named girl; short answer supported by lemma + couplet (mutari... tauro).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.181",
+      "source_text": "Clamabat tumidis audax Leandros in undis: 'Mergite me, fluctus, cum rediturus ero.'",
+      "question": "Quando se mergi a fluctibus Leandros audax patiebatur, ut clamabat apud Martialem?",
+      "answer": "Cum rediturus esset (in reditu).",
+      "question_en": "When was bold Leander willing to be drowned by the waves, as he cried out in Martial?",
+      "answer_en": "On his way back (spare me going, drown me returning).",
+      "derivation": "The Leander story — the youth who swam the Hellespont nightly to his love — in Martial's famous epigrammatic point: drown me when I am returning, not going. Named hero; short answer supported verbatim (Mergite me... cum rediturus ero).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.182",
+      "source_text": "Ebrius haec fecit terris, puto, monstra Prometheus: Saturnalicio lusit et ipse luto.",
+      "question": "Quis homines e luto finxisse fertur, ut iocatur Martialis de sigillo gibberi?",
+      "answer": "Prometheus.",
+      "question_en": "Who is said to have fashioned mankind out of clay, as Martial jokes about the hunchback figurine?",
+      "answer_en": "Prometheus.",
+      "derivation": "The shared myth that Prometheus molded men from clay, turned into a joke: hunchbacks must be the work of a drunken Prometheus playing, like the potters, with 'Saturnalian clay' (the clay sigillaria given at the festival). Named figure; one-word answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.183",
+      "source_text": "Perlege Maeonio cantatas carmine ranas Et frontem nugis solvere disce meis.",
+      "question": "Cuius poetae carmine ranae illae cantatae sunt, quas Batrachomachia narrat?",
+      "answer": "Homeri (Maeonii vatis).",
+      "question_en": "By the song of what poet were those frogs sung which the Batrachomachia tells of?",
+      "answer_en": "Of Homer (the Maeonian bard).",
+      "derivation": "The Batrachomachia (the lemma), the mock-epic battle of the frogs, went under Homer's name — 'frogs sung in Maeonian song' (Maeonius = Homeric). Named work + author; short answer supported by lemma + verbatim epithet.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.184",
+      "source_text": "Ilias et Priami regnis inimicus Ulixes Multiplici pariter condita pelle latent.",
+      "question": "Quae duo carmina Homeri in una membrana multiplici pariter condita sunt apud Martialem?",
+      "answer": "Ilias et Odyssea (carmen Ulixis).",
+      "question_en": "Which two poems of Homer are stored together in one many-folded parchment in Martial?",
+      "answer_en": "The Iliad and the Odyssey (the poem of Ulysses).",
+      "derivation": "The whole of Homer in a single parchment codex — the Iliad and 'Ulysses, enemy of Priam's kingdom' (the Odyssey in periphrasis) hidden together in the folded skin. A landmark of book history; answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.185",
+      "source_text": "Accipe facundi Culicem, studiose, Maronis, Ne nucibus positis ARMA VIRUMQUE legas.",
+      "question": "Cuius poetae est Culex ille libellus, teste Martiale?",
+      "answer": "Vergili (Maronis).",
+      "question_en": "Of what poet is the little work called the Culex, on Martial's testimony?",
+      "answer_en": "Of Vergil (Maro).",
+      "derivation": "The Culex ('The Gnat') circulated as a light juvenile poem of Vergil — fit for the Saturnalia, so that 'with the nuts put away' one need not start Arma virumque (the Aeneid). Named work + author; short answer supported verbatim (Culicem... Maronis).",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.186",
+      "source_text": "Quam brevis inmensum cepit membrana Maronem! Ipsius vultus prima tabella gerit.",
+      "question": "Quid prima tabella membranarum Vergilium totum continentium gerit, ut miratur Martialis?",
+      "answer": "Vultum ipsius Maronis.",
+      "question_en": "What does the first leaf of the parchment codex containing the whole of Vergil carry, as Martial marvels?",
+      "answer_en": "The portrait of Maro himself.",
+      "derivation": "The parchment pocket-Vergil with an author-portrait on its first page — 'how small a parchment has held immense Maro!' A famous document of early codex culture; answer supported verbatim (Ipsius vultus prima tabella gerit).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.187",
+      "source_text": "Hac primum iuvenum lascivos lusit amores; Nec Glycera pueri, Thais amica fuit.",
+      "question": "Qua fabula Menander primum lascivos iuvenum amores lusisse dicitur apud Martialem?",
+      "answer": "Thaide.",
+      "question_en": "With what play is Menander said in Martial to have first sported with the wanton loves of the young?",
+      "answer_en": "With the Thais.",
+      "derivation": "Menander's Thais (the Greek lemma) as the play with which he first treated young men's love-affairs — and Thais, not Glycera, was the young man's mistress. Named playwright + named play; one-word answer supported by lemma + couplet.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.188",
+      "source_text": "Si comes ista tibi fuerit membrana, putato Carpere te longas cum Cicerone vias.",
+      "question": "Cuius auctoris membrana comes longarum viarum fingitur apud Martialem?",
+      "answer": "Ciceronis.",
+      "question_en": "The parchment codex of what author is imagined as the companion of long journeys, in Martial?",
+      "answer_en": "Of Cicero.",
+      "derivation": "Cicero in a parchment travel-codex: carry it and think yourself journeying with Cicero himself — the portability of the membrana is the very point of the gift. Named author; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.189",
+      "source_text": "Cynthia - facundi carmen iuvenale Properti - Accepit famam, non minus ipsa dedit.",
+      "question": "Quae puella carmine iuvenali Properti, quod Monobyblos vocatur, celebratur?",
+      "answer": "Cynthia.",
+      "question_en": "What girl is celebrated in the youthful poetry of Propertius, the book called Monobyblos?",
+      "answer_en": "Cynthia.",
+      "derivation": "Propertius's first book (the Monobyblos, the lemma) and its subject Cynthia, who 'received fame and gave no less' — the canonical elegiac pairing of poet and beloved. Named poet + named puella; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.190",
+      "source_text": "Pellibus exiguis artatur Livius ingens, Quem mea non totum bibliotheca capit.",
+      "question": "Quis historicus ingens pellibus exiguis artari dicitur, quem tota bibliotheca non capit, apud Martialem?",
+      "answer": "Livius.",
+      "question_en": "What immense historian is said to be compressed into scanty skins, whom a whole library cannot hold, in Martial?",
+      "answer_en": "Livy.",
+      "derivation": "The celebrated couplet on the parchment Livy: the huge history (142 books) squeezed into a small parchment codex, though Martial's own library cannot hold the whole. Named author; one-word answer supported verbatim (Pellibus exiguis artatur Livius ingens).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.191",
+      "source_text": "Hic erit, ut perhibent doctorum corda virorum, Primus Romana Crispus in historia.",
+      "question": "Quis primus in Romana historia habetur, ut perhibent docti apud Martialem?",
+      "answer": "Sallustius Crispus.",
+      "question_en": "Who is held first in Roman historiography, as the learned declare in Martial?",
+      "answer_en": "Sallustius Crispus (Sallust).",
+      "derivation": "The shared literary verdict, explicitly attributed to 'the hearts of learned men': Crispus (Sallust) ranks first in Roman history-writing. Named author + attributed judgment; short answer supported verbatim (Primus Romana Crispus in historia).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.192",
+      "source_text": "Haec tibi, multiplici quae structa est massa tabella, Carmina Nasonis quinque decemque gerit.",
+      "question": "Quot carmina (libros) Metamorphosis Nasonis gerit, teste Martiale?",
+      "answer": "Quinque decemque (quindecim).",
+      "question_en": "How many poems (books) of Naso's Metamorphoses does the codex carry, on Martial's testimony?",
+      "answer_en": "Fifteen.",
+      "derivation": "The Metamorphoses of Ovid in fifteen books, here stacked as a mass of many leaves in a parchment codex. Named work + author + number; answer supported verbatim (Carmina Nasonis quinque decemque).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.193",
+      "source_text": "Ussit amatorem Nemesis lasciva Tibullum, In tota iuvit quem nihil esse domo.",
+      "question": "Quae puella amatorem Tibullum ussisse dicitur apud Martialem?",
+      "answer": "Nemesis.",
+      "question_en": "What girl is said to have set the lover Tibullus aflame, in Martial?",
+      "answer_en": "Nemesis.",
+      "derivation": "Nemesis, the beloved of Tibullus's second book of elegies — the canonical poet-and-mistress pairing (the pentameter echoes Tibullus's own line). Named poet + named puella; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.194",
+      "source_text": "Sunt quidam, qui me dicant non esse poetam: Sed qui me vendit bybliopola putat.",
+      "question": "Quis Lucanum poetam esse putat, cum quidam id negent, ut ipse iocatur apud Martialem?",
+      "answer": "Bybliopola qui eum vendit.",
+      "question_en": "Who does think Lucan a poet, though some deny it, as the book itself jokes in Martial?",
+      "answer_en": "The bookseller who sells him.",
+      "derivation": "The ancient critical dispute whether Lucan was a 'poet' (or a versifying historian), answered commercially: his bookseller thinks so. Named author (lemma: Lucanus) + the book trade; short answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.195",
+      "source_text": "Tantum magna suo debet Verona Catullo, Quantum parva suo Mantua Vergilio.",
+      "question": "Cui poetae suo tantum debet Verona quantum Mantua Vergilio, teste Martiale?",
+      "answer": "Catullo.",
+      "question_en": "To which poet of her own does Verona owe as much as Mantua owes to Vergil, on Martial's testimony?",
+      "answer_en": "To Catullus.",
+      "derivation": "The paired hometown facts of Latin poetry: Catullus of Verona, Vergil of Mantua — great Verona owes the one what little Mantua owes the other. Two named poets + two named towns; one-word answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.199",
+      "source_text": "Hic brevis ad numeros rapidum qui colligit unguem, Venit ab auriferis gentibus Astur equus.",
+      "question": "A quibus gentibus venit asturco, equus brevis qui ad numeros gradum colligit, teste Martiale?",
+      "answer": "Ab Asturibus, auriferis gentibus.",
+      "question_en": "From what peoples comes the asturco, the small horse that gathers its step to a rhythm, on Martial's testimony?",
+      "answer_en": "From the Astures, the gold-bearing peoples (of northern Spain).",
+      "derivation": "The asturco, the ambling pony that paces 'to a measure,' came from Asturia — whose peoples were proverbially gold-bearing (the Asturian mines). Named breed + named people; short answer supported verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.200",
+      "source_text": "Non sibi, sed domino venatur vertragus acer, Inlaesum leporem qui tibi dente feret.",
+      "question": "Qualem leporem vertragus domino suo dente refert, teste Martiale?",
+      "answer": "Inlaesum.",
+      "question_en": "In what condition does the vertragus (greyhound) carry the hare back to its master in its teeth, on Martial's testimony?",
+      "answer_en": "Unharmed.",
+      "derivation": "The vertragus, the Celtic gazehound: it hunts for its master, not itself, retrieving the hare unhurt in its mouth — the defining virtue of the breed. Named dog (Celtic loanword); one-word answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.202",
+      "source_text": "Callidus emissas eludere simius hastas, Si mihi cauda foret, cercopithecus eram.",
+      "question": "Quid simio deest quo cercopithecus sit, ut iocatur Martialis?",
+      "answer": "Cauda.",
+      "question_en": "What does the ape lack that would make it a cercopithecus, as Martial jokes?",
+      "answer_en": "A tail.",
+      "derivation": "The Roman monkey taxonomy: the simius (ape, here trained to dodge thrown spears) is tailless; with a tail it would be a cercopithecus ('tail-ape'). Two named animals; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.204",
+      "source_text": "Aera Celaenaeos lugentia matris amores Esuriens Gallus vendere saepe solet.",
+      "question": "Quis esuriens cymbala Matris deum vendere saepe solet, teste Martiale?",
+      "answer": "Gallus.",
+      "question_en": "What starving figure often sells the cymbals of the Mother of the gods, on Martial's testimony?",
+      "answer_en": "The Gallus (the begging priest of Cybele).",
+      "derivation": "The cymbals of Cybele's cult — 'bronzes mourning the Mother's Celaenaean love' (Attis of Celaenae) — hawked by the hungry Gallus, her mendicant eunuch priest. Named cult figure + instrument; one-word answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.207",
+      "source_text": "Sume Cytheriaco medicatum nectare ceston: Ussit amatorem balteus iste Iovem.",
+      "question": "Cuius deae cestos, balteus amoris, etiam Iovem amatorem ussit, teste Martiale?",
+      "answer": "Veneris (Cythereae).",
+      "question_en": "The cestus, love's girdle of what goddess, set even Jupiter aflame as a lover, on Martial's testimony?",
+      "answer_en": "Of Venus (the Cytherean).",
+      "derivation": "Venus's cestus — the love-charming girdle of Homer's Iliad 14, steeped in 'Cytherean nectar' — which inflamed Jupiter himself. Named goddess + god; short answer supported verbatim (Cytheriaco... ceston... Iovem).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.208",
+      "source_text": "Currant verba licet, manus est velocior illis: Nondum lingua suum, dextra peregit opus.",
+      "question": "Utra velocior est apud notarium, lingua an manus, ut ait Martialis?",
+      "answer": "Manus (dextra).",
+      "question_en": "Which is quicker in the shorthand-writer, the tongue or the hand, as Martial says?",
+      "answer_en": "The hand (the right hand).",
+      "derivation": "The notarius and Roman shorthand (notae): though the words race, the hand outruns them — the right hand finishes before the tongue. Named profession; short answer supported verbatim (manus est velocior illis).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.209",
+      "source_text": "Levis ab aequorea cortex Mareotica concha Fiat: inoffensa curret harundo via.",
+      "question": "Quo instrumento charta Mareotica levigatur, ut calamus inoffensa via currat, teste Martiale?",
+      "answer": "Concha (aequorea).",
+      "question_en": "With what implement is Mareotic papyrus polished smooth, so that the reed pen may run unimpeded, on Martial's testimony?",
+      "answer_en": "With a (sea-)shell.",
+      "derivation": "Papyrus-finishing: the Egyptian (Mareotic) sheet was burnished with a smooth shell so the pen would not catch. A concrete fact of Roman book production; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.213",
+      "source_text": "Haec, quae saepe solet vinci, quae vincere raro, Parma tibi, scutum pumilionis erit.",
+      "question": "Cui homini parma pro scuto erit, ut iocatur Martialis?",
+      "answer": "Pumilioni.",
+      "question_en": "For what man will the parma (small shield) serve as a full scutum, as Martial jokes?",
+      "answer_en": "For a dwarf.",
+      "derivation": "The parma was the small shield (of the Thraex, 'often beaten, rarely winning' — the parmularii Domitian disfavored), the scutum the large one: to a dwarf the parma is a scutum. Two named shield types; one-word answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.215",
+      "source_text": "Dic mihi simpliciter, comoedis et citharoedis, Fibula, quid praestas? 'Carius ut futuant.'",
+      "question": "Quibus artificibus scaenicis fibula imponi solebat, teste Martiale?",
+      "answer": "Comoedis et citharoedis.",
+      "question_en": "On what performers was the fibula (the performer's pin) customarily put, on Martial's testimony?",
+      "answer_en": "On comic actors and citharodes (lyre-singers).",
+      "derivation": "The fibula, the infibulation pin worn by stage performers and singers (ostensibly to preserve the voice) — the couplet names its two wearers, comoedi and citharoedi. Named practice + professions; two-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.216",
+      "source_text": "Non tantum calamis, sed cantu fallitur ales, Callida dum tacita crescit harundo manu.",
+      "question": "Quibus duabus rebus auceps alitem fallit, teste Martiale?",
+      "answer": "Calamis et cantu.",
+      "question_en": "By what two means does the fowler deceive the bird, on Martial's testimony?",
+      "answer_en": "By (limed) reeds and by song (birdcall).",
+      "derivation": "Roman fowling technique: the bird is tricked by the limed reeds and by imitated song, while the jointed rod 'grows' silently in the fowler's hand toward the perch. Named craft; two-noun answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Martial, Apophoreta 14.217",
+      "source_text": "Praedo fuit volucrum: famulus nunc aucupis idem Decipit et captas non sibi maeret aves.",
+      "question": "Cuius famulus factus est accipiter, qui aves iam non sibi capit, teste Martiale?",
+      "answer": "Aucupis.",
+      "question_en": "Whose servant has the hawk become, now catching birds no longer for itself, on Martial's testimony?",
+      "answer_en": "The fowler's.",
+      "derivation": "The trained hunting hawk — once a robber of birds, now the fowler's servant, grieving over catches not its own: early Roman evidence for hawking. Named bird + named craft; one-word answer supported verbatim (famulus nunc aucupis).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.218",
+      "source_text": "Dic quotus et quanti cupias cenare, nec unum Addideris verbum: cena parata tibi est.",
+      "question": "Quae duo obsonatori dicenda sunt, ut cena statim paretur, teste Martiale?",
+      "answer": "Quotus et quanti cenare cupias.",
+      "question_en": "What two things must one tell the obsonator (caterer) for dinner to be made ready at once, on Martial's testimony?",
+      "answer_en": "How many you dine and at what price (party size and budget).",
+      "derivation": "The obsonator, the professional dinner-buyer: state the number of diners and the spend, add not one word more, and the cena is ready. Named profession; two-item answer supported verbatim (quotus et quanti cupias cenare).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.220",
+      "source_text": "Non satis est ars sola coco: servire palatum Nolo: cocus domini debet habere gulam.",
+      "question": "Quid cocus praeter artem habere debet, ut ait Martialis?",
+      "answer": "Domini gulam.",
+      "question_en": "What must a cook have besides his skill, as Martial says?",
+      "answer_en": "His master's palate (taste).",
+      "derivation": "The dictum on the Roman cook: skill alone is not enough — the cook must have his master's gula, cooking to the master's taste. Attributed saying with a checkable point; short answer supported verbatim (cocus domini debet habere gulam).",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.221",
+      "source_text": "Rara tibi curva craticula sudet ofella; Spumeus in longa cuspide fumet aper.",
+      "question": "Quod animal in longa cuspide (veribus) fumat, dum ofella in craticula sudat, apud Martialem?",
+      "answer": "Aper.",
+      "question_en": "What animal smokes on the long spit while the morsel of pork sweats on the gridiron, in Martial?",
+      "answer_en": "The boar.",
+      "derivation": "Roman kitchen gear in one couplet: the curved craticula (gridiron) for the ofella (little chop), the long spit (verua, the lemma) for the whole foaming boar. Named implements + named dishes; one-word answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.222",
+      "source_text": "Mille tibi dulces operum manus ista figuras Extruet: huic uni parca laborat apis.",
+      "question": "Cui uni artifici apis parca laborare dicitur apud Martialem?",
+      "answer": "Pistori dulciario.",
+      "question_en": "For which one craftsman alone is the thrifty bee said to labor, in Martial?",
+      "answer_en": "For the pastry-cook (pistor dulciarius).",
+      "derivation": "The pistor dulciarius (the lemma), the confectioner who builds a thousand sweet shapes: honey being the Roman sweetener, the bee works for him alone. Named trade; short answer supported by lemma + couplet (huic uni... laborat apis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Apophoreta 14.223",
+      "source_text": "Surgite: iam vendit pueris ientacula pistor Cristataeque sonant undique lucis aves.",
+      "question": "Quibus pistor ientacula prima luce vendere solet, teste Martiale?",
+      "answer": "Pueris.",
+      "question_en": "To whom does the baker sell breakfasts at first light, on Martial's testimony?",
+      "answer_en": "To the boys (schoolboys).",
+      "derivation": "The closing couplet of the Apophoreta: at cockcrow the baker is already selling ientacula (breakfasts — the adipata, lard-pastries of the lemma) to the boys on their way to school. Named meal + named trade; one-word answer supported verbatim.",
+      "category": "cibus"
+    }
+  ]}
