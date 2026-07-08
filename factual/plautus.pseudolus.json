@@ -1,0 +1,742 @@
+{"source": "text/plautus/pseudolus.txt",
+ "author": "Plautus",
+ "work": "Pseudolus",
+ "pairs": [
+  {
+   "locus": "Plautus, Pseudolus 51-52",
+   "source_text": "Leno me peregre militi Macedonio minis viginti vendidit, voluptas mea.",
+   "question": "Quanti leno Ballio Phoenicium militi Macedonio apud Plautum in Pseudolo vendidit?",
+   "answer": "Viginti minis.",
+   "question_en": "For how much did the pimp Ballio sell Phoenicium to the Macedonian soldier in Plautus' Pseudolus?",
+   "answer_en": "For twenty minae.",
+   "derivation": "The price that drives the whole plot, stated in Phoenicium's letter: the leno sold her abroad to a Macedonian soldier for twenty minae. Anchored to the named play, girl, and buyer; single-number answer verbatim (minis viginti).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 53-54",
+   "source_text": "et prius quam hinc abiit, quindecim miles minas dederat; nunc unae quinque remorantur minae.",
+   "question": "Quot minas miles Macedonius, qui Phoenicium viginti minis emerat, lenoni in Pseudolo Plauti adhuc debebat?",
+   "answer": "Quinque minas.",
+   "question_en": "How many minae did the Macedonian soldier, who had bought Phoenicium for twenty minae, still owe the pimp in Plautus' Pseudolus?",
+   "answer_en": "Five minae.",
+   "derivation": "The down-payment arithmetic of the plot: fifteen minae paid, five outstanding — the five minae Pseudolus will intercept. Anchored to soldier + Phoenicium + leno; single-number answer verbatim (unae quinque... minae).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 55-58",
+   "source_text": "ea causa miles hic reliquit symbolum, expressam in cera ex anulo suam imaginem, ut qui huc adferret eius similem symbolum, cum eo simul me mitteret.",
+   "question": "Quod symbolum miles Macedonius apud lenonem in Pseudolo Plauti reliquit, ut qui simile attulisset Phoenicium abduceret?",
+   "answer": "Imaginem suam ex anulo in cera expressam.",
+   "question_en": "What token did the Macedonian soldier leave with the pimp in Plautus' Pseudolus, so that whoever brought its match might take Phoenicium away?",
+   "answer_en": "His own likeness stamped in wax from his signet ring.",
+   "derivation": "The seal-token (symbolus) mechanism of the play, and a clean piece of realia: identity verified by matching a wax impression of a signet ring. Anchored to the soldier + Phoenicium; short answer verbatim (expressam in cera ex anulo suam imaginem).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 58-59",
+   "source_text": "ei rei dies haec praestituta est, proxuma Dionysia.",
+   "question": "Quo die praestituto Phoenicium militi Macedonio a lenone tradenda erat apud Plautum in Pseudolo?",
+   "answer": "Proxumis Dionysiis.",
+   "question_en": "On what appointed day was Phoenicium to be handed over by the pimp to the Macedonian soldier in Plautus' Pseudolus?",
+   "answer_en": "At the next Dionysia festival.",
+   "derivation": "The festival frame of the plot: the deadline for the transaction is the Dionysia, the Greek festival of Dionysus — the Greek-calendar setting of the palliata. Anchored to Phoenicium + soldier + leno; one-festival answer verbatim (proxuma Dionysia).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Pseudolus 41-43",
+   "source_text": "Phoenicium Calidoro amatori suo per ceram et lignum litterasque interpretes salutem mittit et salutem abs te expetit.",
+   "question": "Quae meretrix apud Plautum in Pseudolo Calidoro amatori suo per ceram et lignum salutem mittit?",
+   "answer": "Phoenicium.",
+   "question_en": "Which courtesan in Plautus' Pseudolus sends greetings to her lover Calidorus 'through wax and wood'?",
+   "answer_en": "Phoenicium.",
+   "derivation": "The tear-stained wax-tablet letter that opens the play, with its salutation naming both lovers — and the realia of the tabellae ('wax and wood and letters as go-betweens'). Anchored to Calidorus; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 125-128",
+   "source_text": "nunc, ne quis dictum sibi neget, dico omnibus pube praesenti in contione: omni poplo, omnibus amicis notisque edico meis, in hunc diem a me ut caveant, ne credant mihi.",
+   "question": "Quid Pseudolus servus in Pseudolo Plauti omni poplo amicisque suis palam edicit?",
+   "answer": "Vt in eum diem ab se caveant neve sibi credant.",
+   "question_en": "What does the slave Pseudolus openly proclaim to the whole people and his friends in Plautus' Pseudolus?",
+   "answer_en": "That for that day they should beware of him and not trust him.",
+   "derivation": "The arch clever-slave's signature gesture: a mock public edict warning everyone that he is going to cheat someone today. A celebrated set-piece of the play; anchored to Pseudolus; short answer supported verbatim (a me ut caveant, ne credant mihi).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 119-120",
+   "source_text": "atque hoc, ne dictum tibi neges, dico prius: si neminem alium potero, tuom tangam patrem.",
+   "question": "Quem Pseudolus servus, si neminem alium possit, argenti causa se tacturum esse Calidoro praedicit?",
+   "answer": "Patrem Calidori.",
+   "question_en": "Whom does the slave Pseudolus forewarn Calidorus he will fleece for the money, if he can manage no one else?",
+   "answer_en": "Calidorus' own father.",
+   "derivation": "The clever slave announces in advance that his victim will be his master's father (Simo) — the classic servus callidus versus senex configuration. Anchored to Pseudolus + Calidorus; short answer verbatim (tuom tangam patrem).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 165",
+   "source_text": "nam mi hodie natalis dies est, decet eum omnis vos concelebrare.",
+   "question": "Quo die fabula Plauti Pseudolus agitur, ut Ballio leno ipse declarat?",
+   "answer": "Die natali Ballionis.",
+   "question_en": "On what day does Plautus' play Pseudolus take place, as the pimp Ballio himself declares?",
+   "answer_en": "On Ballio's birthday.",
+   "derivation": "The play's one-day action falls on Ballio's birthday, declared in his entrance monologue — the reason for the feast, the cook, and the presents demanded of his women. A canonical frame-fact of the play; anchored to Ballio; short answer verbatim (mi hodie natalis dies est).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 166",
+   "source_text": "pernam callum glandium sumen facito in aqua iaceant. satin audis?",
+   "question": "Quae obsonia Ballio leno die natali suo in aqua iacere famulos apud Plautum iubet?",
+   "answer": "Pernam, callum, glandium, sumen.",
+   "question_en": "What pork delicacies does the pimp Ballio order his servants to lay in water (to soak) for his birthday in Plautus?",
+   "answer_en": "Ham, pork rind, neck-glands, and sow's udder.",
+   "derivation": "Roman festive food realia in Ballio's household orders: the four salted pork delicacies (perna, callum, glandium, sumen — sow's udder the classic luxury) put to soak before cooking. Anchored to Ballio + his birthday; list answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Pseudolus 169",
+   "source_text": "ego eo in macellum, ut piscium quidquid ibist pretio praestinem.",
+   "question": "Quo Ballio leno, ut pisces pretio praestinet, die natali suo se iturum esse dicit?",
+   "answer": "In macellum.",
+   "question_en": "Where does the pimp Ballio say he will go on his birthday to buy up whatever fish are there?",
+   "answer_en": "To the macellum, the provision market.",
+   "derivation": "Daily-life realia: fish for a feast is bought at the macellum, the food market. Anchored to Ballio + his birthday preparations; one-word answer verbatim (in macellum).",
+   "category": "cibus"
+  }
+,
+  {
+   "locus": "Plautus, Pseudolus 199-201",
+   "source_text": "cras te quasi Dircam olim, ut memorant, duo gnati Iovis devinxere ad taurum, item ego te distringam ad carnarium.",
+   "question": "Quam mulierem duo gnati Iovis, ut apud Plautum in Pseudolo memoratur, olim ad taurum devinxerunt?",
+   "answer": "Dircam.",
+   "question_en": "Which woman did the two sons of Jupiter, as recalled in Plautus' Pseudolus, once bind to a bull?",
+   "answer_en": "Dirce.",
+   "derivation": "Myth as shared story: Ballio's threat assumes the audience knows that Amphion and Zethus, the twin sons of Jupiter, punished Dirce by tying her to a bull. Anchored to Dirce + the sons of Jupiter; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Pseudolus 145-147",
+   "source_text": "ita ego vestra latera loris faciam ut valide varia sint, ut ne peristromata quidem aeque picta sint Campanica neque Alexandrina beluata tonsilia tappetia.",
+   "question": "Quibus e regionibus peristromata picta et tappetia beluata Ballio leno apud Plautum in Pseudolo nominat?",
+   "answer": "E Campania et Alexandria.",
+   "question_en": "From which regions do the embroidered coverlets and beast-figured tapestries come that the pimp Ballio names in Plautus' Pseudolus?",
+   "answer_en": "From Campania and Alexandria.",
+   "derivation": "Luxury-textile realia embedded in the whip-threat: Campanian coverlets (peristromata Campanica) and Alexandrian tapestries figured with animals (Alexandrina beluata tappetia) as bywords for variegated color. Anchored to Ballio; two-place answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 157",
+   "source_text": "tu qui urnam habes aquam ingere, face plenum ahenum sit coco.",
+   "question": "Quod vas servus aquarius in familia Ballionis lenonis coco plenum facere iubetur?",
+   "answer": "Ahenum.",
+   "question_en": "What vessel is the water-carrying slave in the pimp Ballio's household ordered to fill for the cook?",
+   "answer_en": "The bronze cauldron (ahenum).",
+   "derivation": "Household-organization realia from Ballio's task-drill: the slave with the urna must carry water and fill the bronze cooking-cauldron for the cook. Anchored to Ballio's household + the cook; one-word answer verbatim (plenum ahenum sit coco).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 162",
+   "source_text": "tu esto lectisterniator. tu argentum eluito, idem exstruito.",
+   "question": "Quo nomine servus qui lectos convivio sternit in Ballionis familia apud Plautum appellatur?",
+   "answer": "Lectisterniator.",
+   "question_en": "By what title is the slave who spreads the couches for the banquet called in Ballio's household in Plautus?",
+   "answer_en": "Lectisterniator, the couch-spreader.",
+   "derivation": "A named household office from Ballio's job-assignments: the lectisterniator who makes up the dining couches (beside the slave who washes and sets out the silver). Job-title realia of the Roman banquet; anchored to Ballio's household; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 188-190",
+   "source_text": "principio, Hedytium, tecum ago, quae amica es frumentariis, quibus cunctis montes maxumi acervi frumenti sunt domi: fac sis sit delatum huc mihi frumentum, hunc annum quod satis.",
+   "question": "Quae e mulieribus Ballionis lenonis, frumentariorum amica, frumentum in annum satis deferendum curare iubetur?",
+   "answer": "Hedytium.",
+   "question_en": "Which of the pimp Ballio's women, the mistress of the grain-dealers, is ordered to see that grain enough for a year is delivered?",
+   "answer_en": "Hedytium.",
+   "derivation": "The set-piece roll-call of Ballio's courtesans by their lovers' trades: Hedytium serves the frumentarii and must levy a year's grain as a birthday gift. Anchored to Ballio + the named woman + the trade; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 196-200",
+   "source_text": "Aeschrodora, tu quae amicos tibi habes lenonum aemulos lanios, qui, item ut nos iurando, iure malo male quaerunt rem, audi: nisi carnaria tria gravida tegoribus onere uberi hodie mihi erunt, cras te quasi Dircam olim, ut memorant, duo gnati Iovis devinxere ad taurum, item ego te distringam ad carnarium.",
+   "question": "Quot carnaria tegoribus gravida Ballio leno ab Aeschrodora, quae lanios amicos habet, die natali suo exigit?",
+   "answer": "Tria.",
+   "question_en": "How many meat-racks laden with sides of meat does the pimp Ballio demand on his birthday from Aeschrodora, whose lovers are butchers?",
+   "answer_en": "Three.",
+   "derivation": "Second entry of the roll-call: Aeschrodora's butcher lovers (lanii, jokingly 'the pimps' rivals') must fill three carnaria with meat. Anchored to Ballio + Aeschrodora + the butchers; single-number answer verbatim (carnaria tria).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 210-214",
+   "source_text": "Xystilis, fac ut animum advortas, quoius amatores olivi denamin domi habent maxumam. si mihi non iam huc culleis oleum deportatum erit, te ipsam culleo ego cras faciam ut deportere—in pergulam.",
+   "question": "Quam mercem amatores Xystilidis, mulieris Ballionis lenonis, culleis deportare apud Plautum iubentur?",
+   "answer": "Oleum.",
+   "question_en": "What commodity are the lovers of Xystilis, one of the pimp Ballio's women, ordered to deliver in leather sacks in Plautus?",
+   "answer_en": "Olive oil.",
+   "derivation": "Third entry of the roll-call: Xystilis' lovers are oil-magnates and must send oil by the culleus (the great leather sack, the standard bulk container). Trade-realia of the oil business; anchored to Ballio + Xystilis; one-word answer verbatim (oleum).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 190-193",
+   "source_text": "atque adeo ut frumento afluam, ut civitas nomen mihi commutet meque ut praedicet lenone ex Ballione regem Iasonem.",
+   "question": "Quem regem se pro Ballione lenone civitatem praedicaturam esse Ballio iactat, si frumento affluat?",
+   "answer": "Regem Iasonem.",
+   "question_en": "What king does Ballio boast the city will proclaim him in place of 'Ballio the pimp,' if he overflows with grain?",
+   "answer_en": "King Jason.",
+   "derivation": "Ballio's boast turns on Jason (the fabulously rich tyrant of Pherae, for the audience a byword for wealth): with enough grain the city would rename the leno 'King Jason.' Anchored to Ballio + the named king; one-name answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Pseudolus 265-268",
+   "source_text": "nam si sacruficem summo Iovi atque in manibus exta teneam, ut poriciam, interea loci si lucri quid detur, potius rem divinam deseram.",
+   "question": "Quid Ballio leno apud Plautum se deserturum esse profitetur, si inter exta porricienda lucri quid detur?",
+   "answer": "Rem divinam summo Iovi.",
+   "question_en": "What does the pimp Ballio in Plautus profess he would abandon, if any profit were offered while he was presenting the entrails?",
+   "answer_en": "The sacrifice to highest Jupiter.",
+   "derivation": "The defining creed of the model pimp of Latin literature: he would drop a sacrifice to Jupiter, entrails already in hand, for profit. Anchored to Ballio + Jupiter; short answer verbatim (rem divinam deseram).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 301-302",
+   "source_text": "Eme die caeca hercle olivom, id vendito oculata die: iam hercle vel ducentae fieri possunt praesentes minae.",
+   "question": "Qua 'die' emere et qua vendere olivom Ballio leno proverbialiter suadet, ut ducentae minae praesentes fiant?",
+   "answer": "Caeca die emere, oculata die vendere.",
+   "question_en": "On what 'day' does the pimp Ballio proverbially advise buying olive oil, and on what 'day' selling it, to make two hundred minae in ready cash?",
+   "answer_en": "Buy on the 'blind day' (on credit), sell on the 'seeing day' (for cash down).",
+   "derivation": "The proverbial merchant's formula caeca die emere, oculata die vendere — buy on credit (the day that does not see the money), sell for cash. Commercial proverb verbatim in the text; anchored to Ballio's advice.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 303-304",
+   "source_text": "Perii, annorum lex me perdit quinavicenaria. metuont credere omnes.",
+   "question": "Quae lex, ut Calidorus adulescens apud Plautum in Pseudolo queritur, efficit ut omnes ei pecuniam credere metuant?",
+   "answer": "Lex quinavicenaria.",
+   "question_en": "Which law, as the young Calidorus complains in Plautus' Pseudolus, makes everyone afraid to lend him money?",
+   "answer_en": "The 'twenty-five-year law' (the law protecting minors under twenty-five).",
+   "derivation": "A famous piece of legal realia: the lex quinavicenaria — the law on minors under twenty-five (the lex Plaetoria), which made loans to young men unrecoverable, so no one would lend. Anchored to Calidorus; one-name answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Pseudolus 313-314",
+   "source_text": "nam istuc quod nunc lamentare, non esse argentum tibi, apud novercam querere.",
+   "question": "Apud quam personam frustra queri aliquem proverbio apud Plautum in Pseudolo dicitur?",
+   "answer": "Apud novercam.",
+   "question_en": "Before what figure is one proverbially said, in Plautus' Pseudolus, to be complaining in vain?",
+   "answer_en": "Before a stepmother.",
+   "derivation": "The proverb apud novercam queri — to complain where no pity is to be had, resting on the stepmother's proverbial hard-heartedness. Spoken by Ballio to Calidorus; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 318-319",
+   "source_text": "Quia pol qua opera credam tibi, una opera alligem fugitivam canem agninis lactibus.",
+   "question": "Cui rei Ballio leno fidem Pseudolo servo habere apud Plautum comparat?",
+   "answer": "Fugitivam canem agninis lactibus alligare.",
+   "question_en": "To what does the pimp Ballio compare putting trust in the slave Pseudolus in Plautus?",
+   "answer_en": "Tying up a runaway dog with a leash of lamb's guts.",
+   "derivation": "Proverbial comparison for a futile precaution: a runaway dog leashed with lamb's intestines (which it will eat). Anchored to Ballio + Pseudolus; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 352-353",
+   "source_text": "iuravistin te illam nulli venditurum nisi mihi? BAL. Fateor. CAL. Nempe conceptis verbis? BAL. Etiam consutis quoque.",
+   "question": "Cui soli Ballio leno Phoenicium se venditurum esse conceptis verbis iuraverat, ut in Pseudolo Plauti fatetur?",
+   "answer": "Calidoro.",
+   "question_en": "To whom alone had the pimp Ballio sworn in due form of words that he would sell Phoenicium, as he admits in Plautus' Pseudolus?",
+   "answer_en": "To Calidorus.",
+   "derivation": "The broken oath that brands Ballio periuri caput: he had sworn conceptis verbis (in the formal wording of an oath) to sell Phoenicium to no one but Calidorus, then sold her to the soldier. Anchored to all three parties; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 358",
+   "source_text": "numquam ad praetorem aeque cursim curram, ut emittar manu.",
+   "question": "Ad quem magistratum servus manu emittendus, ut Pseudolus apud Plautum significat, currere solet?",
+   "answer": "Ad praetorem.",
+   "question_en": "To which magistrate, as Pseudolus indicates in Plautus, does a slave about to be freed run?",
+   "answer_en": "To the praetor.",
+   "derivation": "Roman legal realia dropped into the Greek setting: manumission (emitti manu) is performed before the praetor, and no slave ever ran to him as fast as Pseudolus will run to abuse Ballio. Anchored to Pseudolus + the office; one-office answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Pseudolus 369",
+   "source_text": "In pertusum ingerimus dicta dolium, operam ludimus.",
+   "question": "In quale vas dicta frustra ingeri Pseudolus proverbialiter ait, cum Ballio maledictis nihil moveatur?",
+   "answer": "In pertusum dolium.",
+   "question_en": "Into what kind of vessel does Pseudolus proverbially say their words are being poured to no purpose, since Ballio is unmoved by all the insults?",
+   "answer_en": "Into a jar full of holes (a leaky jar).",
+   "derivation": "The proverb of wasted effort — pouring into the perforated dolium (the image of the Danaids' jar) — capping the famous insult-litany that Ballio cheerfully absorbs. Anchored to Pseudolus + Ballio; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 401-405",
+   "source_text": "sed quasi poeta, tabulas cum cepit sibi, quaerit quod nusquamst gentium, reperit tamen, facit illud veri simile, quod mendacium est, nunc ego poeta fiam: viginti minas, quae nusquam nunc sunt gentium, inveniam tamen.",
+   "question": "Cui artifici Pseudolus servus se ipse comparat, cum viginti minas quae nusquam gentium sint inventurus sit?",
+   "answer": "Poetae.",
+   "question_en": "To what maker does the slave Pseudolus compare himself, when he must find twenty minae that exist nowhere on earth?",
+   "answer_en": "To a poet.",
+   "derivation": "The celebrated metatheatrical monologue: the clever slave 'will become a poet' — one who seeks what exists nowhere, finds it, and makes the lie plausible. A canonical fame-fact of the play; anchored to Pseudolus + the twenty minae; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 452",
+   "source_text": "bonus animus in mala re dimidiumst mali.",
+   "question": "Quid in mala re dimidium mali esse apud Plautum in Pseudolo proverbio dicitur?",
+   "answer": "Bonus animus.",
+   "question_en": "What, according to the proverb in Plautus' Pseudolus, is 'half the evil' in a bad situation (i.e. halves the trouble)?",
+   "answer_en": "A good spirit (good courage).",
+   "derivation": "A quotable Plautine sententia spoken by Callipho: courage in adversity halves the adversity. Proverb verbatim; short answer (bonus animus).",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Pseudolus 483-487",
+   "source_text": "SIM. Ecquas viginti minas per sycophantiam atque per doctos dolos paritas ut auferas a me? PS. Abs te ego auferam? SIM. Ita, quas meo gnato des, qui amicam liberet?",
+   "question": "Quot minas Pseudolus servus per sycophantiam a Simone ero suo auferre parat, quas Calidoro det ad amicam liberandam?",
+   "answer": "Viginti minas.",
+   "question_en": "How many minae does the slave Pseudolus set out to take by trickery from his master Simo, to give Calidorus for freeing his sweetheart?",
+   "answer_en": "Twenty minae.",
+   "derivation": "The famous stake of the play: the twenty minae Pseudolus openly announces he will trick out of Simo — the sum Simo in the end must pay. Anchored to Pseudolus + Simo + Calidorus; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 531-532",
+   "source_text": "Siquidem istaec opera, ut praedicas, perfeceris, virtute regi Agathocli antecesseris.",
+   "question": "Cui regi Pseudolum virtute antecessurum esse Simo senex ait, si quae praedicat perfecerit?",
+   "answer": "Regi Agathocli.",
+   "question_en": "Which king does old Simo say Pseudolus will have surpassed in prowess, if he accomplishes what he proclaims?",
+   "answer_en": "King Agathocles.",
+   "derivation": "Agathocles of Syracuse as the proverbial self-made king of great exploits: Simo says success would rank the slave above him. Anchored to Simo + Pseudolus + the named king; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 533-534",
+   "source_text": "sed si non faxis, numquid causaest, ilico quin te in pistrinum condam?",
+   "question": "Quo Simo senex Pseudolum se conditurum esse minatur, nisi quae promisit perfecerit?",
+   "answer": "In pistrinum.",
+   "question_en": "Where does old Simo threaten to shut Pseudolus up, if he does not accomplish what he has promised?",
+   "answer_en": "In the mill (pistrinum).",
+   "derivation": "The penalty side of the wager, and standing Roman realia: the pistrinum, the grinding-mill, as the standard punishment for a slave. Anchored to Simo + Pseudolus; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 568-570",
+   "source_text": "nam qui in scaenam provenit, novo modo novom aliquid inventum adferre addecet; si id facere nequeat, det locum illi qui queat.",
+   "question": "Quid eum qui in scaenam provenit adferre addecere Pseudolus apud Plautum pronuntiat?",
+   "answer": "Novo modo novom aliquid inventum.",
+   "question_en": "What does Pseudolus in Plautus declare it befits the man who comes on stage to bring?",
+   "answer_en": "Something newly invented, in a new way.",
+   "derivation": "A celebrated statement of the comic poet's creed, put in the slave's mouth: whoever takes the stage owes the audience novelty, or should yield to one who can supply it. Theater-convention fact; anchored to Pseudolus; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 573a",
+   "source_text": "tibicen vos interibi hic delectaverit.",
+   "question": "Quis spectatores fabulae Plautinae interea delectat, dum Pseudolus intro abiit, ut ipse abiens promittit?",
+   "answer": "Tibicen.",
+   "question_en": "Who entertains the spectators of the Plautine play in the meantime, while Pseudolus has gone inside, as he himself promises on leaving?",
+   "answer_en": "The flute-player (tibicen).",
+   "derivation": "A rare explicit attestation of Roman stage practice: during a pause in the action the tibicen plays for the audience. Anchored to the play + Pseudolus' announcement; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 607-608",
+   "source_text": "HARP. Tune es Ballio? PS. Immo vero ego eius sum Subballio. HARP. Quid istuc verbist? PS. Condus promus sum, procurator peni.",
+   "question": "Quod munus domesticum Pseudolus, cum Subballionem se nominat, se gerere Harpaci mentitur?",
+   "answer": "Condus promus est, procurator peni.",
+   "question_en": "What household office does Pseudolus, styling himself 'Subballio,' falsely claim to Harpax that he holds?",
+   "answer_en": "Storeroom-keeper and dispenser, manager of the provisions.",
+   "derivation": "Household-staff realia: the condus promus, the slave who stores and issues the provisions (penus), ranking even above the atriensis in Pseudolus' boast. Anchored to Pseudolus + Harpax; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 653-655",
+   "source_text": "sed quid est tibi nomen? HARP. Harpax. PS. Apage te, Harpax, hau places; huc quidem hercle haud ibis intro, ne quid harpax feceris. HARP. Hostis vivos rapere soleo ex acie: eo hoc nomen mihi est.",
+   "question": "Cur cacula militis Macedonii in Pseudolo Plauti Harpax nominari se ipse explicat?",
+   "answer": "Quia hostis vivos ex acie rapere solet.",
+   "question_en": "Why does the Macedonian soldier's orderly in Plautus' Pseudolus explain that he himself is called Harpax?",
+   "answer_en": "Because he is wont to snatch enemies alive out of the battle line.",
+   "derivation": "The canonical name-fact of the play: Harpax 'the Snatcher' explains his own name by his battlefield snatching. The explanation is given in the text itself, so it survives translation. Anchored to the named character; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 658-659",
+   "source_text": "Ego devortor extra portam huc in tabernam tertiam, apud anum illam doliarem, claudam crassam, Chrysidem.",
+   "question": "Apud quam anum cauponam Harpax extra portam in taberna tertia devorti se dicit?",
+   "answer": "Apud Chrysidem.",
+   "question_en": "With which old hostess does Harpax say he is lodging, at the third inn outside the gate?",
+   "answer_en": "With Chrysis.",
+   "derivation": "Traveler's realia: lodging at a taberna outside the city gate, kept by a named old innkeeper (Chrysis 'shaped like a storage-jar, lame and fat') — where Harpax waits to be summoned, letting the impersonation proceed. Anchored to Harpax + the named hostess; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 678-679",
+   "source_text": "centum doctum hominum consilia sola haec devincit dea, Fortuna.",
+   "question": "Quae dea una centum doctorum hominum consilia devincere apud Plautum in Pseudolo dicitur?",
+   "answer": "Fortuna.",
+   "question_en": "Which goddess alone is said in Plautus' Pseudolus to defeat the plans of a hundred learned men?",
+   "answer_en": "Fortuna.",
+   "derivation": "A quotable Plautine sententia from Pseudolus' mock-philosophical monologue: Fortune beats the schemes of a hundred wise men. Anchored to the named goddess; one-name answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 690-691",
+   "source_text": "nunc ego hac epistula tris deludam, erum et lenonem et qui hanc dedit mi epistulam.",
+   "question": "Quot homines Pseudolus una epistula intercepta se delusurum esse gloriatur?",
+   "answer": "Tris.",
+   "question_en": "How many men does Pseudolus boast he will dupe with the one intercepted letter?",
+   "answer_en": "Three (his master, the pimp, and the man who handed him the letter).",
+   "derivation": "The economy of the central trick, counted by Pseudolus himself: one letter, three dupes — Simo, Ballio, Harpax. Anchored to Pseudolus + the letter; single-number answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Pseudolus 735",
+   "source_text": "etiam opust chlamyde et machaera et petaso. CHAR. Possum a me dare.",
+   "question": "Quibus tribus ornamentis ad militis caculam mentiendum opus esse Pseudolus Charino dicit?",
+   "answer": "Chlamyde, machaera, petaso.",
+   "question_en": "What three pieces of gear does Pseudolus tell Charinus are needed to impersonate the soldier's orderly?",
+   "answer_en": "A military cloak, a sword, and a traveling hat (chlamys, machaera, petasus).",
+   "derivation": "The stage-soldier's costume kit, itemized: the Greek chlamys, the machaera, and the broad petasus mark the military traveler. Dress realia of the palliata; anchored to Pseudolus + Charinus + the impersonation plot; three-item answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 740-741",
+   "source_text": "Quid, si opus sit ut dulce promat indidem, ecquid habet? CH. Rogas? murrinam, passum, defrutum, mellam, mel quoivismodi.",
+   "question": "Quae dulcia Charinus apud Plautum in Pseudolo enumerat, cum servum suum ex pectore ea promere posse iactat?",
+   "answer": "Murrinam, passum, defrutum, mellam, mel.",
+   "question_en": "What sweet things does Charinus list in Plautus' Pseudolus, when he boasts his slave can dispense them from his breast?",
+   "answer_en": "Spiced myrrh-wine, raisin wine, boiled-down must, honey-wine, and honey of every kind.",
+   "derivation": "A catalogue of the standard Roman sweet drinks — murrina, passum, defrutum, mella — capped by 'honey of every sort,' the stock of a whole pantopolium. Food-and-drink realia; anchored to Charinus + the play; list answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Pseudolus 747",
+   "source_text": "Quid cum manifesto tenetur? CHAR. Anguillast, elabitur.",
+   "question": "Cui animali homo lubricus, qui cum manifesto tenetur elabitur, apud Plautum in Pseudolo comparatur?",
+   "answer": "Anguillae.",
+   "question_en": "To what animal is the slippery fellow who, even when caught red-handed, slips away compared in Plautus' Pseudolus?",
+   "answer_en": "To an eel.",
+   "derivation": "The proverbial eel: the character who escapes even when caught in the act 'is an eel — he slips away.' Proverbial comparison verbatim; anchored via Charinus' praise of the trickster-slave.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 761-762",
+   "source_text": "omnes ordine sub signis ducam legiones meas, avi sinistra, auspicio liquido atque ex mea sententia.",
+   "question": "Qua avi, dextra an sinistra, auspicium prosperum esse Pseudolus, legiones suas ducturus, significat?",
+   "answer": "Avi sinistra.",
+   "question_en": "With the bird on which side, right or left, does Pseudolus, about to lead out his 'legions,' indicate that the auspices are favorable?",
+   "answer_en": "With the bird on the left.",
+   "derivation": "Roman augural realia in the slave's mock-triumphal language: in Roman practice the bird on the left (avis sinistra) is the favorable sign, paired here with auspicio liquido, 'a clear auspice.' Anchored to Pseudolus; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Pseudolus 790-791",
+   "source_text": "Forum coquinum qui vocant, stulte vocant, nam non coquinum est, verum furinum est forum.",
+   "question": "Quo in foro coqui apud Plautum in Pseudolo conduci solent?",
+   "answer": "In foro coquino.",
+   "question_en": "In what market are cooks customarily hired in Plautus' Pseudolus?",
+   "answer_en": "In the forum coquinum, the cooks' market.",
+   "derivation": "The cook-market realia: cooks were hired for the day at a dedicated market, the forum coquinum — which Ballio, returning with his hire, jokes should rather be called furinum, 'the thieves' market.' Anchored to Ballio + the named institution; short answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Pseudolus 807-809",
+   "source_text": "hoc ego fui hodie solus obsessor fori. illi drachmissent miseri: me nemo potest minoris quisquam nummo ut surgam subigere.",
+   "question": "Quo pretio coqui vulgares in foro coquino, ut coquos a Ballione conductus narrat, se locare solebant?",
+   "answer": "Drachuma.",
+   "question_en": "At what price did the common cooks in the cooks' market hire themselves out, as the cook Ballio hired relates?",
+   "answer_en": "For a drachma.",
+   "derivation": "The wage realia of the cook-market: the ordinary cooks 'would go for a drachma' (drachmissent), while this self-styled master will not stand up for less than a nummus (a two-drachma piece). Anchored to the forum-coquinum scene + Ballio's cook; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 814-816",
+   "source_text": "indunt coriandrum, feniculum, alium, atrum holus, apponunt rumicem, brassicam, betam, blitum, eo laserpici libram pondo diluont.",
+   "question": "Quantum laserpici coqui alii, ut eos coquos Ballionis vituperat, in patinas diluere solent?",
+   "answer": "Libram pondo.",
+   "question_en": "How much silphium-juice do the other cooks dissolve into their dishes, as Ballio's cook derides them?",
+   "answer_en": "A whole pound.",
+   "derivation": "The seasoning satire of the cook scene: rival cooks serve 'seasoned meadows' — coriander, fennel, garlic, herbs — and melt in a full pound of laserpicium (silphium), the celebrated and costly condiment. Anchored to the cook's tirade; measure answer verbatim (libram pondo).",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Pseudolus 829-830",
+   "source_text": "nam vel ducenos annos poterunt vivere meas qui essitabunt escas quas condivero.",
+   "question": "Quot annos vivere poterunt qui escas coqui a Ballione conducti essitabunt, ut ipse coquos gloriatur?",
+   "answer": "Vel ducenos annos.",
+   "question_en": "How many years will those be able to live who eat the dishes of the cook Ballio hired, as the cook himself boasts?",
+   "answer_en": "Even two hundred years.",
+   "derivation": "The gloriosus-cook's boast, satirizing gourmet quackery: his divine seasonings prolong life to two hundred years. Anchored to Ballio's cook; single-number answer verbatim (vel ducenos annos).",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Pseudolus 834-836",
+   "source_text": "haec ad Neptuni pecudes condimenta sunt: terrestris pecudes cicimalindro condio, hapalocopide aut cataractria.",
+   "question": "Quae animalia coquos gloriosus apud Plautum in Pseudolo 'Neptuni pecudes' vocat?",
+   "answer": "Pisces.",
+   "question_en": "What creatures does the boastful cook in Plautus' Pseudolus call 'Neptune's flocks'?",
+   "answer_en": "Fish (the creatures of the sea).",
+   "derivation": "The kenning Neptuni pecudes for seafood, set explicitly against terrestres pecudes (land animals) in the cook's list of invented condiments. Anchored to the cook scene + Neptune; one-word answer supported by the verbatim contrast.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Pseudolus 844-846",
+   "source_text": "eum odorem cenat Iuppiter cottidie. BAL. Si nusquam is coctum, quidnam cenat Iuppiter? COC. It incenatus cubitum.",
+   "question": "Quid Iuppiter cottidie cenare dicitur, ut coquos a Ballione conductus gloriatur?",
+   "answer": "Odorem escarum eius.",
+   "question_en": "What is Jupiter said to dine on every day, according to the boast of the cook Ballio hired?",
+   "answer_en": "The aroma of his dishes.",
+   "derivation": "The famous punchline of the cook scene: Jupiter dines daily on the smell of his cooking — and goes to bed dinnerless when the cook is not hired. Anchored to the cook + Jupiter; short answer verbatim (eum odorem cenat Iuppiter).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 851-852",
+   "source_text": "An tu invenire postulas quemquam coquom nisi miluinis aut aquilinis ungulis?",
+   "question": "Quibus unguibus omnem coquom praeditum esse apud Plautum in Pseudolo dicitur?",
+   "answer": "Miluinis aut aquilinis.",
+   "question_en": "With what kind of talons is every cook said to come equipped, in Plautus' Pseudolus?",
+   "answer_en": "A kite's or an eagle's.",
+   "derivation": "The thieving-cook topos stated as a rule by the cook himself: no cook exists without the claws of the raptor birds. A proverbial-style characterization of the trade; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 868-871",
+   "source_text": "quia sorbitione faciam ego hodie te mea, item ut Medea Peliam concoxit senem, quem medicamento et suis venenis dicitur fecisse rursus ex sene adulescentulum, item ego te faciam.",
+   "question": "Quem senem Medea medicamento et venenis suis ex sene adulescentulum rursus fecisse apud Plautum dicitur?",
+   "answer": "Peliam.",
+   "question_en": "What old man is Medea said, in Plautus, to have made young again from an old man by her drugs and potions?",
+   "answer_en": "Pelias.",
+   "derivation": "Myth as shared story: Medea 'boiled down' old Pelias — the rejuvenation-cauldron tale, cited by the cook as the model for his life-giving broth. Anchored to Medea + Pelias; one-name answer verbatim; dicitur keeps the as-the-story-goes frame.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Pseudolus 956-957",
+   "source_text": "Minus malum hunc hominem esse opinor quam esse censebam coquom, nam nihil etiam dum harpagavit praeter cyathum et cantharum.",
+   "question": "Quae duo vasa coquos conductus Ballioni lenoni, ut ipse leno ait, iam harpagaverat?",
+   "answer": "Cyathum et cantharum.",
+   "question_en": "Which two vessels had the hired cook already pilfered from the pimp Ballio, by the pimp's own account?",
+   "answer_en": "A ladle and a tankard.",
+   "derivation": "The thieving-cook joke made concrete with named drinking-ware: the cyathus (dipper for serving wine) and cantharus (large cup) are the first things to vanish. Anchored to Ballio + his cook; two-item answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 988-990",
+   "source_text": "Oh, Polymachaeroplagides purus putus est ipsus. novi. heus, Polymachaeroplagides nomen est.",
+   "question": "Quod nomen erat militi Macedonio qui Phoenicium a Ballione lenone viginti minis emerat?",
+   "answer": "Polymachaeroplagides.",
+   "question_en": "What was the name of the Macedonian soldier who had bought Phoenicium from the pimp Ballio for twenty minae?",
+   "answer_en": "Polymachaeroplagides.",
+   "derivation": "The soldier's grandiose comic name ('son of many-sword-blows'), revealed when Ballio reads the seal on the letter. A canonical name-fact of the play; anchored to Ballio + Phoenicium; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1003-1006",
+   "source_text": "Ita militaris disciplinast, Ballio: manu salutem mittunt benevolentibus; eadem malam rem mittunt malevolentibus.",
+   "question": "Qua re milites, ut militaris disciplina apud Plautum in Pseudolo fertur, salutem benevolentibus mittunt?",
+   "answer": "Manu.",
+   "question_en": "By what means do soldiers send their greeting to well-wishers, according to 'military discipline' as reported in Plautus' Pseudolus?",
+   "answer_en": "By hand (not in writing).",
+   "derivation": "The mock-explanation for the letter's missing salutation: soldiers greet friends — and punish enemies — with the hand, not with written compliments. A crisp military-mores quip anchored to the letter scene; one-word answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Pseudolus 415-417",
+   "source_text": "Si de damnosis aut si de amatoribus dictator fiat nunc Athenis Atticis, nemo anteveniat filio, credo, meo.",
+   "question": "In qua urbe fabula Plauti quae Pseudolus inscribitur agitur?",
+   "answer": "Athenis.",
+   "question_en": "In what city is Plautus' play entitled Pseudolus set?",
+   "answer_en": "At Athens.",
+   "derivation": "The setting of the play: Simo speaks of 'now at Attic Athens,' and the characters repeatedly name Athens as the here of the action. Anchored to the named play; one-place answer verbatim (Athenis Atticis).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Pseudolus 972-973",
+   "source_text": "Pauci istuc faciunt homines quod tu praedicas, nam in foro vix decumus quisque est qui ipsus sese noverit.",
+   "question": "Quotus quisque in foro, ut Simia apud Plautum in Pseudolo philosophatur, ipse sese novit?",
+   "answer": "Vix decumus quisque.",
+   "question_en": "How many a man in the forum, as Simia philosophizes in Plautus' Pseudolus, actually knows himself?",
+   "answer_en": "Scarcely one in ten.",
+   "derivation": "A Plautine sententia playing on the Delphic 'know thyself': hardly every tenth man in the forum knows himself. Quotable maxim; anchored to Simia + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1038-1043",
+   "source_text": "SIMIA Ne plora, nescis ut res sit, Phoenicium, verum haud multo post faxo scibis accubans. non ego te ad illum duco dentatum virum Macedoniensem, qui te nunc flentem facit: cuiam esse te vis maxime, ad eum ducere: Calidorum haud multo post faxo amplexabere.",
+   "question": "Quis servus, subditicius Harpax a Pseudolo exornatus, Phoenicium a Ballione abductam ad Calidorum duxit?",
+   "answer": "Simia.",
+   "question_en": "Which slave, dressed up by Pseudolus as a counterfeit Harpax, led Phoenicium away from Ballio and brought her to Calidorus?",
+   "answer_en": "Simia.",
+   "derivation": "The central impersonation of the play: Simia ('the Monkey'), the sharp slave borrowed from Charinus, plays the fake Harpax, delivers the token and five minae, and walks off with Phoenicium for Calidorus. Anchored to all named parties; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1048-1051",
+   "source_text": "quin hinc metimur gradibus militariis? PS. Atque edepol, quamquam nequam homo es, recte mones. ite hac triumphi ad cantharum recta via.",
+   "question": "Quo Pseudolus, muliere e manibus lenonis erepta, triumphi recta via ire iubet?",
+   "answer": "Ad cantharum.",
+   "question_en": "Where does Pseudolus, once the woman has been snatched from the pimp's hands, order the march to go 'in triumph, straight ahead'?",
+   "answer_en": "To the wine-tankard (cantharus).",
+   "derivation": "The slave's mock-triumph: victory over Ballio is celebrated in Roman triumphal language — military paces, then 'this way in triumph' — with the cantharus as the goal. Anchored to Pseudolus + the victory; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1063-1064",
+   "source_text": "Viso quid rerum meus Vlixes egerit, iamne habeat signum ex arce Ballionia.",
+   "question": "Cui heroi Simo senex Pseudolum comparat, cum visit iamne signum ex arce Ballionia habeat?",
+   "answer": "Vlixi.",
+   "question_en": "To which hero does old Simo compare Pseudolus, when he goes to see whether he yet has the 'statue from the Ballionian citadel'?",
+   "answer_en": "To Ulysses.",
+   "derivation": "Simo casts Pseudolus as 'my Ulysses' and the trick as the theft of the signum (the Palladium) from the citadel — the shared myth of Ulysses stealing Troy's talisman, transferred to 'the citadel of Ballio.' Anchored to Simo + Pseudolus + the hero; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1070-1075",
+   "source_text": "Roga me viginti minas, si ille hodie illa sit potitus muliere sive eam tuo gnato hodie, ut promisit, dabit, roga opsecro hercle, gestio promittere. omnibus modis tibi esse rem ut salvam scias; atque etiam habeto mulierem dono tibi.",
+   "question": "Quid Ballio leno Simoni ultro spopondit, si Pseudolus illo die muliere potitus esset?",
+   "answer": "Viginti minas et mulierem dono.",
+   "question_en": "What did the pimp Ballio of his own accord pledge to Simo, should Pseudolus get possession of the woman that day?",
+   "answer_en": "Twenty minae — and the woman as a gift besides.",
+   "derivation": "Ballio's rash counter-wager, sworn when he thinks the woman already safely handed to the soldier's man: twenty minae plus Phoenicium gratis if Pseudolus wins — exactly what he must then forfeit. Anchored to Ballio + Simo + Pseudolus; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1170-1171",
+   "source_text": "Quanti te emit? HAR. Suarum in pugna virium victoria. nam ego eram domi imperator summus in patria mea.",
+   "question": "Quo pacto miles Polymachaeroplagides Harpacem servom sibi comparavit, ut ipse Harpax respondet?",
+   "answer": "In pugna virium suarum victoria.",
+   "question_en": "How did the soldier Polymachaeroplagides acquire Harpax as his slave, as Harpax himself answers?",
+   "answer_en": "By the victory of his strength in battle (Harpax was a war captive).",
+   "derivation": "Slavery realia: Harpax was not bought but captured in war — he claims he was supreme commander in his own country. War captivity as the source of slaves; anchored to both named men; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1173-1174",
+   "source_text": "Quotumo die ex Sicyone huc pervenisti? HAR. Altero ad meridie.",
+   "question": "Quotumo die Harpax ex Sicyone Athenas se pervenisse Ballioni dicit?",
+   "answer": "Altero die, ad meridiem.",
+   "question_en": "On which day after setting out does Harpax tell Ballio he arrived from Sicyon to Athens?",
+   "answer_en": "On the second day, by noon.",
+   "derivation": "A travel-time fact fixing the geography: the soldier waits at Sicyon, a day and a half's journey from the Athens of the play. Anchored to Harpax + Sicyon; short answer verbatim (altero ad meridie).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1218-1220",
+   "source_text": "Rufus quidam, ventriosus, crassis suris, subniger, magno capite, acutis oculis, ore rubicundo, admodum magnis pedibus.",
+   "question": "Quo colore capilli Pseudolus servus ab Harpace apud Ballionem describitur?",
+   "answer": "Rufo.",
+   "question_en": "With what color of hair is the slave Pseudolus described by Harpax before Ballio?",
+   "answer_en": "Red.",
+   "derivation": "The famous portrait of Pseudolus: red-haired, pot-bellied, thick-calved, swarthy, big-headed, sharp-eyed, ruddy-faced, enormous feet — the description by which Ballio recognizes who duped him ('you finished me when you said the feet'). The red hair of the comic slave; anchored to Pseudolus; one-word answer verbatim (rufus).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1232",
+   "source_text": "Pseudolus mihi centuriata habuit capitis comitia.",
+   "question": "Quae comitia de capite suo Pseudolum habuisse Ballio leno queritur?",
+   "answer": "Comitia centuriata.",
+   "question_en": "What assembly does the pimp Ballio complain that Pseudolus has held over his life?",
+   "answer_en": "A comitia centuriata (the Roman centuriate assembly).",
+   "derivation": "Roman constitutional realia in a Greek costume: judgment on a citizen's caput belonged to the comitia centuriata, so the ruined Ballio says Pseudolus has held one over him. Anchored to Ballio + Pseudolus; short answer verbatim.",
+   "category": "ius"
+  }
+,
+  {
+   "locus": "Plautus, Pseudolus 1239-1241",
+   "source_text": "nunc mihi certum est alio pacto Pseudolo insidias dare, quam in aliis comoediis fit, ubi cum stimulis aut flagris insidiantur.",
+   "question": "Quibus rebus servis dolosis in aliis comoediis insidiari solitum esse Simo apud Plautum dicit?",
+   "answer": "Stimulis aut flagris.",
+   "question_en": "With what implements does Simo in Plautus say people usually lie in wait for tricky slaves in other comedies?",
+   "answer_en": "With goads or whips.",
+   "derivation": "A metatheatrical convention-fact: the stock comic ambush of the clever slave is with goads and whips — which Simo pointedly declines, bringing the twenty minae instead. Anchored to Simo + Pseudolus + the genre; two-item answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1244",
+   "source_text": "superavit dolum Troianum atque Vlixem Pseudolus.",
+   "question": "Quem dolum atque quem heroem Pseudolus superavisse a Simone senex praedicatur?",
+   "answer": "Dolum Troianum atque Vlixem.",
+   "question_en": "What stratagem and what hero is Pseudolus declared by old Simo to have outdone?",
+   "answer_en": "The Trojan trick (the wooden horse) and Ulysses.",
+   "derivation": "The fame-line of the play: the slave's ruse tops the dolus Troianus — the horse — and its contriver Ulysses. Anchored to Pseudolus + the named myth; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1250-1251",
+   "source_text": "magnum hoc vitium vino est: pedes captat primum, luctator dolosust.",
+   "question": "Quid vinum, quasi luctator dolosus, primum captare Pseudolus ebrius apud Plautum dicit?",
+   "answer": "Pedes.",
+   "question_en": "What does wine, like a crafty wrestler, seize first, as the drunken Pseudolus says in Plautus?",
+   "answer_en": "The feet.",
+   "derivation": "A quotable Plautine sententia on drink: wine is a tricky wrestler — it goes for the feet first. Spoken by the staggering Pseudolus; anchored to him; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1265-1266",
+   "source_text": "unguenta atque odores, lemniscos, corollas dari dapsiles, non enim parce promi.",
+   "question": "Quae deliciae in convivio, ubi Pseudolus victor acceptus est, dapsiles dari solitae esse memorantur?",
+   "answer": "Vnguenta, odores, lemnisci, corollae.",
+   "question_en": "What luxuries are recalled as lavishly handed round at the banquet where the victorious Pseudolus was entertained?",
+   "answer_en": "Unguents, perfumes, ribbons, and garlands.",
+   "derivation": "Banquet realia itemized: scented oils, perfumes, lemnisci (the ribbons hung from garlands), and the garlands themselves, given out unsparingly. Anchored to Pseudolus' victory-party narration; list answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1274-1275",
+   "source_text": "nimis ex discipulina, quippe ego qui probe Ionica perdidici.",
+   "question": "Quod genus saltandi Pseudolus se probe perdidicisse in convivio gloriatur?",
+   "answer": "Ionica.",
+   "question_en": "What style of dancing does Pseudolus boast he has thoroughly mastered at the drinking-party?",
+   "answer_en": "The Ionic dance.",
+   "derivation": "Leisure-culture realia: the Ionica, the soft Ionic dance of the Greek symposium, which the drunk slave performs (and falls doing). Anchored to Pseudolus; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1287",
+   "source_text": "PS. Cum corona ebrium Pseudolum tuom.",
+   "question": "Quo habitu Pseudolus victor in extrema fabula coram Simone ero apparet?",
+   "answer": "Ebrius, cum corona.",
+   "question_en": "In what state does the victorious Pseudolus appear before his master Simo at the end of the play?",
+   "answer_en": "Drunk, wearing a garland.",
+   "derivation": "The canonical closing image of the play: the triumphant slave reels in from the party garlanded and drunk, belching in his master's face, to collect the wager. The corona is the banqueter's festal garland; anchored to Pseudolus + Simo; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1303-1304",
+   "source_text": "Credo equidem potesse te, scelus, Massici montis uberrumos quattuor fructus ebibere in hora una. PS. Hiberna addito.",
+   "question": "Cuius montis quattuor uberrumos fructus una hora Pseudolum ebibere posse Simo credit?",
+   "answer": "Massici montis.",
+   "question_en": "Of what mountain does Simo believe Pseudolus could drink down four most abundant vintages in a single hour?",
+   "answer_en": "Of Mount Massicus.",
+   "derivation": "Wine realia: Massic wine from Mons Massicus in Campania, one of the celebrated Italian crus, used as the measure of the slave's drinking (with his retort 'make them winter hours'). Anchored to Simo + Pseudolus + the named mountain; one-name answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1316-1317",
+   "source_text": "satin ultro et argentum aufert et me inridet? PS. Vae victis.",
+   "question": "Quibus verbis proverbialibus Pseudolus Simonem victum, argentum umero ferentem, inridet?",
+   "answer": "Vae victis.",
+   "question_en": "With what proverbial words does Pseudolus mock the defeated Simo as he shoulders the money?",
+   "answer_en": "Vae victis — 'woe to the conquered.'",
+   "derivation": "The famous Gallic taunt (the cry of Brennus over conquered Rome) flung by the slave at his own beaten master — proverb quoted verbatim in the text. Anchored to Pseudolus + Simo; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Pseudolus 1331-1335",
+   "source_text": "verum si voltis adplaudere atque adprobare hunc gregem et fabulam, in crastinum vos vocabo.",
+   "question": "Quo die Pseudolus spectatores, si gregem et fabulam adprobaverint, se vocaturum esse in fine fabulae promittit?",
+   "answer": "In crastinum.",
+   "question_en": "For what day does Pseudolus, at the end of the play, promise to invite the spectators, if they applaud the troupe and the play?",
+   "answer_en": "For the morrow (tomorrow's performance).",
+   "derivation": "Theater-closing convention: the actor asks for applause for the grex (the acting company) and invites the audience back 'tomorrow.' Anchored to the play's epilogue; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Pseudolus, didascalia",
+   "source_text": "M. IUNIO. M. FIL. PR. URB. AC. M.",
+   "question": "Quo praetore urbano fabulam Pseudolum Plauti actam esse didascalia tradit?",
+   "answer": "Marco Iunio, Marci filio.",
+   "question_en": "Under which urban praetor does the production notice say Plautus' Pseudolus was staged?",
+   "answer_en": "Under Marcus Junius, son of Marcus.",
+   "derivation": "The transmitted didascalia dates the premiere by the urban praetor M. Iunius M. fil. (191 BC, the year the Megalensian games dedicated the Magna Mater's temple) — a canonical literary-history fact of the play. Abbreviations of the notice kept verbatim; one-name answer.",
+   "category": "historia"
+  }
+]}

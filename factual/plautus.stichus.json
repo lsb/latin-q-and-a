@@ -1,0 +1,580 @@
+{"source": "text/plautus/stichus.txt",
+ "author": "Plautus",
+ "work": "Stichus",
+ "pairs": [
+  {
+   "locus": "Plautus, Stichus, didascalia",
+   "source_text": "GRAECA ADELPHOE MENANDRU",
+   "question": "Quae fabula Graeca, ut didascalia tradit, Sticho Plauti exemplo fuit?",
+   "answer": "Adelphoe Menandri.",
+   "question_en": "What Greek play, according to the production notice, was the model for Plautus' Stichus?",
+   "answer_en": "The Adelphoe of Menander.",
+   "derivation": "The transmitted didascalia of the Stichus — the most complete for any Plautine play — names the Greek original: Menander's Adelphoe (the earlier play of that name, not Terence's model). Canonical literary-history fact; anchored to the named play; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus, didascalia",
+   "source_text": "ACTA LUDIS PLEBEIS CN. BAEBIO C. TERENTIO AED. PL.",
+   "question": "Quibus ludis fabula Stichus Plauti primum acta est, ut didascalia tradit?",
+   "answer": "Ludis Plebeiis.",
+   "question_en": "At which games was Plautus' Stichus first performed, according to the production notice?",
+   "answer_en": "At the Plebeian Games (Ludi Plebeii).",
+   "derivation": "The didascalia records the festival of the premiere: the Ludi Plebeii, given by the plebeian aediles Cn. Baebius and C. Terentius (November, 200 BC). Festival-and-theater fact; anchored to the named play; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus, didascalia",
+   "source_text": "T. PUBLILIUS PELLIO",
+   "question": "Quis fabulam Stichum Plauti egit, ut didascalia tradit?",
+   "answer": "T. Publilius Pellio.",
+   "question_en": "Who acted (produced) Plautus' Stichus, according to the production notice?",
+   "answer_en": "T. Publilius Pellio.",
+   "derivation": "The didascalia names the actor-manager: Pellio, Plautus' famous leading actor (mocked by name in the Bacchides). Theater-history fact; anchored to the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus, didascalia",
+   "source_text": "TIBIIS SARRANIS TOTAM",
+   "question": "Quibus tibiis tota fabula Stichus Plauti cantata est, ut didascalia tradit?",
+   "answer": "Tibiis Sarranis.",
+   "question_en": "On what kind of pipes was the whole of Plautus' Stichus accompanied, according to the production notice?",
+   "answer_en": "On Sarranian ('Tyrian') pipes.",
+   "derivation": "The didascalia specifies the music: the whole play accompanied on the tibiae Sarranae (the matched pair of pipes named from Sarra/Tyre); the notice also preserves the musician's name, Marcipor, slave of Oppius. Stage-music realia; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus, didascalia",
+   "source_text": "C. SULPICIO C. AURELIO COS.",
+   "question": "Quibus consulibus fabula Stichus Plauti acta est, ut didascalia tradit?",
+   "answer": "C. Sulpicio et C. Aurelio consulibus.",
+   "question_en": "In the consulship of which men was Plautus' Stichus performed, according to the production notice?",
+   "answer_en": "In the consulship of C. Sulpicius and C. Aurelius (200 BC).",
+   "derivation": "The consular date of the premiere preserved in the didascalia: C. Sulpicius Galba and C. Aurelius Cotta, consuls of 200 BC. Anchored to the named play; two-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Stichus 1-5",
+   "source_text": "Credo ego miseram fuisse Penelopam, soror, suo ex animo, quae tam diu vidua viro suo caruit; nam nos eius animum de nostris factis noscimus, quarum viri hinc apsunt.",
+   "question": "Cui heroinae fideli Panegyris se sororemque suam, quarum viri peregre aberant, primis Stichi Plautini versibus comparat?",
+   "answer": "Penelopae.",
+   "question_en": "To which faithful heroine does Panegyris, in the opening lines of Plautus' Stichus, compare herself and her sister, whose husbands were away abroad?",
+   "answer_en": "To Penelope.",
+   "derivation": "The celebrated opening of the play: the loyal wives measure their own longing by Penelope's, the canonical wife who endured her husband's long absence. Myth as shared story; anchored to Panegyris + the play's opening; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Stichus 29-30",
+   "source_text": "nam viri nostri domo ut abierunt, hic tertius annus.",
+   "question": "Quotus annus agebatur, ex quo viri duarum sororum in Sticho Plauti domo abierant?",
+   "answer": "Tertius.",
+   "question_en": "The how-many-eth year was running since the husbands of the two sisters in Plautus' Stichus had left home?",
+   "answer_en": "The third.",
+   "derivation": "The time-frame of the plot: the husbands have been trading abroad into the third year (the argumentum's per triennium). Anchored to the sisters + the play; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 24-25",
+   "source_text": "neque ille sibi mereat Persarum montis, qui esse aurei perhibentur, ut istuc faciat quod tu metuis.",
+   "question": "Cuius gentis montes aurei esse perhibentur, ut proverbialiter apud Plautum in Sticho dicitur?",
+   "answer": "Persarum.",
+   "question_en": "Whose mountains are proverbially said to be of gold, as the saying goes in Plautus' Stichus?",
+   "answer_en": "The Persians'.",
+   "derivation": "The proverbial 'golden mountains of the Persians' as the image of limitless wealth (montes auri polliceri became the standard idiom). Anchored to the named people; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 60",
+   "source_text": "vos meministis quot kalendis petere demensum cibum: qui minus meministis quod opus sit facto facere in aedibus?",
+   "question": "Quo mensis die servi demensum cibum petere meminerunt, ut Antipho senex in Sticho Plauti exprobrat?",
+   "answer": "Kalendis.",
+   "question_en": "On what day of the month do slaves remember to ask for their rationed food, as old Antipho complains in Plautus' Stichus?",
+   "answer_en": "On the kalends.",
+   "derivation": "Household realia: the demensum, the slave's measured monthly ration, drawn on the kalends — the one duty Antipho says his slaves never forget. Anchored to Antipho + the institution; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 133",
+   "source_text": "Placet ille meus mihi mendicus: suos rex reginae placet.",
+   "question": "Quis reginae placere proverbio apud Plautum in Sticho dicitur?",
+   "answer": "Suos rex.",
+   "question_en": "Who is proverbially said in Plautus' Stichus to please the queen?",
+   "answer_en": "Her own king.",
+   "derivation": "The sister's proverb defending her beggared husband: 'my beggar suits me — her own king suits the queen,' i.e. every woman is content with her own man. Proverb verbatim; short answer.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Stichus 139",
+   "source_text": "Stultitiast, pater, venatum ducere invitas canes.",
+   "question": "Quales canes venatum ducere stultitia esse proverbio apud Plautum in Sticho dicitur?",
+   "answer": "Invitas.",
+   "question_en": "What sort of dogs is it proverbially foolish to take hunting, according to the saying in Plautus' Stichus?",
+   "answer_en": "Unwilling ones.",
+   "derivation": "The proverb with which the daughter answers her father's remarriage plan: taking unwilling hounds to the hunt is folly. Proverb verbatim; anchored to the Stichus scene; one-word answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 140",
+   "source_text": "hostis est uxor, invita quae viro nuptum datur.",
+   "question": "Qualis uxor viro hostis esse apud Plautum in Sticho dicitur?",
+   "answer": "Quae invita viro nuptum datur.",
+   "question_en": "What kind of wife is said in Plautus' Stichus to be an enemy to her husband?",
+   "answer_en": "One given in marriage to the man against her will.",
+   "derivation": "The companion maxim to the hunting-dogs proverb: a wife married unwilling is an enemy, not a wife. A quotable sententia on Roman marriage; verbatim; short answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 202-204",
+   "source_text": "adeunt, perquirunt quid sit causae ilico: alienum aes cogat an pararit praedium, uxorin sit reddenda dos divortio.",
+   "question": "Quid uxori divortio facto reddendum esse apud Plautum in Sticho memoratur?",
+   "answer": "Dos.",
+   "question_en": "What is mentioned in Plautus' Stichus as having to be given back to a wife when a divorce takes place?",
+   "answer_en": "The dowry.",
+   "derivation": "Legal realia embedded in Gelasimus' list of stock reasons for holding an auction: debts to be paid, an estate bought, or a dowry to be returned upon divorce — the actio rei uxoriae in everyday form. Anchored to the auction scene; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Stichus 155-156",
+   "source_text": "Famem ego fuisse suspicor matrem mihi, nam postquam natus sum, satur numquam fui.",
+   "question": "Quam matrem sibi fuisse Gelasimus parasitus in Sticho Plauti suspicatur?",
+   "answer": "Famem.",
+   "question_en": "Whom does the parasite Gelasimus in Plautus' Stichus suspect to have been his mother?",
+   "answer_en": "Hunger (Fames).",
+   "derivation": "The parasite's signature self-definition opening his monologue: Hunger personified must be his mother, since he has never once been full. Anchored to the named parasite; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 159-160",
+   "source_text": "nam illa me in alvo menses gestavit decem, at ego illam in alvo gesto plus annos decem.",
+   "question": "Quot menses mater Gelasimum in alvo gestavit, ut ipse parasitus computat?",
+   "answer": "Decem menses.",
+   "question_en": "For how many months did his mother carry Gelasimus in her womb, as the parasite himself reckons?",
+   "answer_en": "Ten months.",
+   "derivation": "The Roman reckoning of pregnancy as ten (lunar) months, the standard ancient count — against which Gelasimus has carried his 'mother' Hunger more than ten years. Anchored to Gelasimus; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 167-169",
+   "source_text": "atque auditavi saepe hoc volgo dicier, solere elephantum gravidam perpetuos decem esse annos.",
+   "question": "Quot annos elephantum gravidam esse solere volgo dicitur, ut Gelasimus in Sticho refert?",
+   "answer": "Perpetuos decem annos.",
+   "question_en": "For how many years is a she-elephant commonly said to be pregnant, as Gelasimus reports in Plautus' Stichus?",
+   "answer_en": "Ten whole years.",
+   "derivation": "A piece of shared ancient nature-lore, marked in the text as a common saying (volgo dicier): the elephant's ten-year pregnancy (the belief Pliny also records). Anchored to the elephant + the common report; number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 174-177",
+   "source_text": "Gelasimo nomen mi indidit parvo pater, quia inde iam a pausillo puero ridiculus fui.",
+   "question": "Quam ob rem Gelasimo parasito id nomen a patre parvo inditum est, ut ipse narrat?",
+   "answer": "Quia iam a puero ridiculus fuit.",
+   "question_en": "Why was the parasite Gelasimus given that name by his father when small, as he himself tells?",
+   "answer_en": "Because he was 'laughable' (ridiculus) from early boyhood.",
+   "derivation": "The name-fact of the parasite: Gelasimus, from Greek gelasimos 'laughable,' explained in the text by his lifelong role of ridiculus — the jester who earns dinners by being laughed at. The etymology is glossed in the Latin itself, so it survives translation; anchored to the named character.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 177-178",
+   "source_text": "eo quia paupertas fecit ridiculus forem; nam illa artis omnis perdocet, ubi quem attigit.",
+   "question": "Quae res artis omnis perdocet, ubi quem attigit, ut Gelasimus apud Plautum in Sticho ait?",
+   "answer": "Paupertas.",
+   "question_en": "What thing teaches a man all the arts once it has touched him, as Gelasimus says in Plautus' Stichus?",
+   "answer_en": "Poverty.",
+   "derivation": "The famous maxim: poverty is the teacher of all arts — here explaining how want made the parasite funny. Proverb verbatim; one-word answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 218-221",
+   "source_text": "Nunc auctionem facere decretumst mihi: foras necessumst quidquid habeo vendere. adeste sultis, praeda erit praesentium. logos ridiculos vendo. age licemini.",
+   "question": "Quas merces Gelasimus parasitus, auctione facta, in Sticho Plauti venditat?",
+   "answer": "Logos ridiculos.",
+   "question_en": "What wares does the parasite Gelasimus put up for sale at his auction in Plautus' Stichus?",
+   "answer_en": "His jokes (logi ridiculi, his stock of witticisms).",
+   "derivation": "The set-piece of the play: the starving parasite auctions his working capital — his funny stories (logi), priced at a lunch or a dinner. Canonical scene of parasite-culture; anchored to Gelasimus; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 230-231",
+   "source_text": "robiginosam strigilem, ampullam rubidam, parasitum inanem quo recondas reliquias.",
+   "question": "Quae duo instrumenta balnearia Gelasimus parasitus inter bona sua auctione vendenda enumerat?",
+   "answer": "Strigilem robiginosam et ampullam rubidam.",
+   "question_en": "What two pieces of bath-gear does the parasite Gelasimus list among his goods for auction?",
+   "answer_en": "A rusty strigil and a reddish oil-flask.",
+   "derivation": "Bath-culture realia: the strigil (scraper) and ampulla (oil-flask), the standard personal kit a man carried to the baths — here rusted and shabby, the parasite's whole estate. Anchored to Gelasimus' auction; two-item answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Stichus 241-242",
+   "source_text": "Fuit disertim, verum id usu perdidi: nunc Miccotrogus nomine e vero vocor.",
+   "question": "Quo nomine 'e vero' se nunc vocari Gelasimus parasitus fame confectus iocatur?",
+   "answer": "Miccotrogo.",
+   "question_en": "By what name does the starved parasite Gelasimus joke that he is now 'truly' called?",
+   "answer_en": "Miccotrogus ('Little-nibbler').",
+   "derivation": "The parasite's second name-joke: having lost the use of the name Gelasimus, he goes by the 'true' name Miccotrogus, Greek for one who nibbles crumbs. Name stated in the text; anchored to Gelasimus; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 253-255",
+   "source_text": "quid igitur me volt? CROC. Tritici modios decem rogare, opinor te volt. GEL. Mene, ut ab sese petam? CROC. Immo ut a vobis mutuom nobis dares.",
+   "question": "Quot modios tritici Panegyris a Gelasimo parasito mutuos rogari iussit?",
+   "answer": "Decem.",
+   "question_en": "How many measures of wheat did Panegyris have asked of the parasite Gelasimus as a loan?",
+   "answer_en": "Ten (modii).",
+   "derivation": "Household-economy realia: grain borrowed by the modius between houses — ten modii of wheat, the request that panics the penniless parasite. Anchored to Panegyris + Gelasimus; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 274-275",
+   "source_text": "Mercurius, Iovis qui nuntius perhibetur, numquam aeque patri suo nuntium lepidum attulit quam ego nunc meae erae nuntiabo.",
+   "question": "Cuius dei nuntius Mercurius esse perhibetur, ut apud Plautum in Sticho dicitur?",
+   "answer": "Iovis.",
+   "question_en": "Of which god is Mercury reputed to be the messenger, as stated in Plautus' Stichus?",
+   "answer_en": "Of Jupiter (his father).",
+   "derivation": "Myth as shared knowledge, stated outright: Mercury is Jupiter's messenger — and his son (patri suo) — the standard against which the slave-boy measures his own good news. Anchored to Mercury + Jupiter; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Stichus 300",
+   "source_text": "secundas fortunas decent superbiae.",
+   "question": "Quid secundas fortunas decere Pinacium puer apud Plautum in Sticho pronuntiat?",
+   "answer": "Superbiae.",
+   "question_en": "What does the boy Pinacium in Plautus' Stichus declare befits good fortune?",
+   "answer_en": "Airs of pride.",
+   "derivation": "A quotable Plautine sententia from the boy's mock-grand monologue: prosperity licenses pride. Maxim verbatim; short answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 305",
+   "source_text": "contundam facta Talthubi contemnamque omnis nuntios.",
+   "question": "Cuius nuntii veteris facta se contusurum esse Pinacium, laetum nuntium ferens, gloriatur?",
+   "answer": "Talthubi.",
+   "question_en": "Whose deeds — of what famous messenger of old — does Pinacium, bearing his glad news, boast he will eclipse?",
+   "answer_en": "Talthybius'.",
+   "derivation": "Talthybius, the herald of Agamemnon and the Greeks at Troy, as the proverbial messenger whom the slave-boy claims to outdo. Myth-figure named verbatim; anchored to Pinacium; one-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Stichus 306",
+   "source_text": "simulque ad cursuram meditabor me ad ludos Olympios.",
+   "question": "Ad quos ludos cursuram se meditari Pinacium puer citus iocatur?",
+   "answer": "Ad ludos Olympios.",
+   "question_en": "For what games does the swift boy Pinacium joke that he is training himself in running?",
+   "answer_en": "For the Olympic games.",
+   "derivation": "The Olympic games and their footrace as shared Greek athletic culture, invoked by the running slave-boy. Anchored to Pinacium; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 352-353",
+   "source_text": "Ecquis huc effert nassiternam cum aqua? GEL. Sine suffragio populi tamen aedilitatem hic quidem gerit.",
+   "question": "Quem magistratum Pinacium sine suffragio populi gerere Gelasimus iocatur, cum munditias vias spargendo fieri iubet?",
+   "answer": "Aedilitatem.",
+   "question_en": "What magistracy does Gelasimus joke that Pinacium is exercising without the people's vote, as he orders the cleaning and sprinkling?",
+   "answer_en": "The aedileship.",
+   "derivation": "Institutional realia in a joke: street-cleaning and sprinkling belonged to the aediles, magistrates elected suffragio populi — so the bossy slave-boy 'holds the aedileship without an election.' Anchored to both named characters; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Stichus 366-371",
+   "source_text": "dum percontor portitores, ecquae navis venerit ex Asia, negant venisse, conspicatus sum interim cercurum, quo ego me maiorem non vidisse censeo. in portum vento secundo, velo passo pervenit. alius alium percontamur: quoiast navis? quid vehit? interibi Epignomum conspicio tuom virum et servom Stichum.",
+   "question": "Ex qua terra Epignomus, Panegyris vir, cum servo Sticho divitiis onustus navi rediit?",
+   "answer": "Ex Asia.",
+   "question_en": "From what land did Epignomus, Panegyris' husband, return by ship with his slave Stichus, laden with riches?",
+   "answer_en": "From Asia.",
+   "derivation": "The core plot-fact of the play: the impoverished husbands went trading and return rich from Asia — the boy questions the harbor customs-men (portitores) for a ship from Asia and spots Epignomus and Stichus. Anchored to the named husband + slave; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Stichus 368-369",
+   "source_text": "conspicatus sum interim cercurum, quo ego me maiorem non vidisse censeo. in portum vento secundo, velo passo pervenit.",
+   "question": "Quo genere navis Epignomus in portum vento secundo, velo passo, pervenit?",
+   "answer": "Cercuro.",
+   "question_en": "On what type of ship did Epignomus reach harbor with a fair wind and full sail?",
+   "answer_en": "On a cercurus (a light merchant galley).",
+   "derivation": "Seafaring realia: the cercurus, the swift Cypriot-style merchant vessel — the biggest one the boy claims ever to have seen — brings the trader home. Anchored to Epignomus' arrival; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 378-379",
+   "source_text": "Tum Babylonica et peristroma tonsilia et tappetia advexit, nimium bonae rei.",
+   "question": "Qualia stragula pretiosa Epignomus ex Asia secum advexisse a Pinacio nuntiatur?",
+   "answer": "Babylonica peristromata et tappetia.",
+   "question_en": "What costly coverings is Epignomus reported by Pinacium to have brought back with him from Asia?",
+   "answer_en": "Babylonian coverlets and tapestries.",
+   "derivation": "Luxury-trade realia in the cargo catalogue: Babylonica — the famed figured coverlets of Babylon — with shorn peristromata and tapetia, alongside gold, silver, purple and ivoried couches. Anchored to Epignomus' cargo; short answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Stichus 380-381",
+   "source_text": "Poste, ut occepi narrare, fidicinas, tibicinas, sambucas advexit secum forma eximia.",
+   "question": "Quas artifices feminas forma eximia Epignomus secum ex Asia advexit?",
+   "answer": "Fidicinas, tibicinas, sambucas.",
+   "question_en": "What women performers of striking beauty did Epignomus bring back with him from Asia?",
+   "answer_en": "Lyre-girls, flute-girls, and harp-girls.",
+   "derivation": "Entertainment realia of the rich man's household: the imported music-girls — fidicinae (lyre), tibicinae (pipes), sambucae (the triangular harp) — part of the Asian cargo; one of the fidicinae becomes the slaves' party companion. List answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 388-389",
+   "source_text": "Poste autem advexit parasitos secum. GEL. Ei, perii miser. PIN. Ridiculissumos.",
+   "question": "Quos homines ridiculissimos Epignomum secum ex Asia advexisse Pinacium nuntiat, quo nuntio Gelasimus perit?",
+   "answer": "Parasitos.",
+   "question_en": "What 'most amusing' men does Pinacium report Epignomus has brought back from Asia — the news that undoes Gelasimus?",
+   "answer_en": "Parasites.",
+   "derivation": "The joke that ruins the resident parasite: the master returns with his own imported parasites, funnier than Gelasimus — who instantly takes his jokes off the market. Anchored to Epignomus + Gelasimus; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 402-405",
+   "source_text": "Quom bene re gesta salvos convortor domum, Neptuno grates habeo et Tempestatibus; simul Mercurio, qui me in mercimoniis iuvit lucrisque quadruplicavit rem meam.",
+   "question": "Quibus dis Epignomus, mari salvos domum reversus, grates habere se dicit?",
+   "answer": "Neptuno, Tempestatibus, Mercurio.",
+   "question_en": "To which gods does Epignomus, returned home safe by sea, say he gives thanks?",
+   "answer_en": "To Neptune, the Storm-goddesses (Tempestates), and Mercury.",
+   "derivation": "The merchant-sailor's thanksgiving triad: Neptune and the Tempestates (who had a real cult at Rome) for the safe voyage, Mercury for the profits of trade. Rite-and-cult realia; anchored to Epignomus; three-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Stichus 404-405",
+   "source_text": "simul Mercurio, qui me in mercimoniis iuvit lucrisque quadruplicavit rem meam.",
+   "question": "Quantum rem suam lucris auctam esse Epignomus, Mercurio iuvante, praedicat?",
+   "answer": "Quadruplicatam.",
+   "question_en": "By how much does Epignomus declare his fortune increased in profits, with Mercury's help?",
+   "answer_en": "Quadrupled.",
+   "derivation": "The scale of the trading windfall, credited to Mercury, god of commerce: his estate multiplied fourfold. Anchored to Epignomus + Mercury; single-word number answer verbatim (quadruplicavit).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 419-422",
+   "source_text": "nunc hunc diem unum ex illis multis miseriis volo me eleutheria capere advenientem domum. EPIG. Et ius et aequom postulas: sumas, Stiche.",
+   "question": "Quid Stichus servus, domum cum ero reversus, unum diem sibi capere ab Epignomo postulat?",
+   "answer": "Eleutheria.",
+   "question_en": "What does the slave Stichus, back home with his master, ask of Epignomus to take for one day?",
+   "answer_en": "A 'freedom-festival' (eleutheria) — a day of holiday license.",
+   "derivation": "The slaves'-holiday frame of the finale: after the shared hardships Stichus claims one day of eleutheria (Greek 'freedom-feast'), and the master grants it as fair. The licensed day off behind the closing party; anchored to Stichus + Epignomus; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 425",
+   "source_text": "cadum tibi veteris vini propino.",
+   "question": "Quod donum Epignomus Sticho servo in diem festum eius propinat?",
+   "answer": "Cadum veteris vini.",
+   "question_en": "What gift does Epignomus pledge to the slave Stichus for his holiday?",
+   "answer_en": "A jar (cadus) of old wine.",
+   "derivation": "The master's contribution to the slaves' party: a cadus of vintage wine — old wine being the prized kind — which becomes the one amphora shared at the finale. Anchored to Epignomus + Stichus; short answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Stichus 431-434",
+   "source_text": "amicam ego habeo Stephanium hinc ex proxumo, tui fratris ancillam: eo condixi in symbolam ad cenam, ad eius conservom Sangarinum Syrum. eademst amica ambobus, rivales sumus.",
+   "question": "Quae ancilla et Sticho et Sangarino servis amica erat, ita ut rivales essent?",
+   "answer": "Stephanium.",
+   "question_en": "Which slave-girl was sweetheart to both the slaves Stichus and Sangarinus, making them rivals?",
+   "answer_en": "Stephanium.",
+   "derivation": "The famous arrangement of the finale: one girlfriend, Stephanium, shared amicably by the two slaves — 'she is sweetheart to both; we are rivals.' Anchored to all three named slaves; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 432-433",
+   "source_text": "eo condixi in symbolam ad cenam, ad eius conservom Sangarinum Syrum.",
+   "question": "Quo more Stichus cenam apud Sangarinum conservom condixit?",
+   "answer": "In symbolam.",
+   "question_en": "On what arrangement did Stichus engage for dinner at his fellow-slave Sangarinus' place?",
+   "answer_en": "By contribution — each paying his share (symbola).",
+   "derivation": "Dining realia: the symbola, the Greek-style club dinner to which each guest contributes his share — the basis of the slaves' pot-luck party. Anchored to Stichus + Sangarinus; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 446-448",
+   "source_text": "atque id ne vos miremini, hominis servolos potare, amare atque ad cenam condicere: licet haec Athenis nobis.",
+   "question": "Vbi servolis potare, amare atque ad cenam condicere licere Stichus spectatores monet?",
+   "answer": "Athenis.",
+   "question_en": "Where does Stichus remind the spectators that it is permitted for slaves to drink, make love, and arrange dinner parties?",
+   "answer_en": "At Athens.",
+   "derivation": "The celebrated aside on the Greek license of the palliata: do not marvel at slaves partying — 'this is allowed us at Athens' (not at Rome). A theater-convention fact about the genre itself; anchored to Stichus' address; one-place answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 449-452",
+   "source_text": "est etiam hic ostium aliud posticum nostrarum harunc aedium: posticam partem magis utuntur aedium. ea ibo opsonatum, eadem referam opsonium: per hortum utroque commeatus continet.",
+   "question": "Quo ostio aedium Stichus, ne invidiam inveniat, opsonatum ire et opsonium referre constituit?",
+   "answer": "Postico, per hortum.",
+   "question_en": "Through which door of the house does Stichus decide to go marketing and bring back the provisions, to avoid ill-will?",
+   "answer_en": "Through the back door, by way of the garden.",
+   "derivation": "Domestic-architecture realia: the posticum, the back door opening on the garden, giving passage between the two houses — used to keep the slaves' shopping out of sight. Anchored to Stichus; short answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Stichus 520-522",
+   "source_text": "ut cuique homini res paratast, perinde amicis utitur: si res firma, item firmi amici sunt; sin res laxe labat, itidem amici conlabascunt: res amicos invenit.",
+   "question": "Quid amicos invenire proverbio apud Plautum in Sticho dicitur?",
+   "answer": "Res.",
+   "question_en": "What is proverbially said in Plautus' Stichus to find a man his friends?",
+   "answer_en": "Property (wealth).",
+   "derivation": "The quotable maxim capping Antipho's reflection: friends stand firm as one's fortune stands — res amicos invenit, 'money finds friends.' Proverb verbatim; one-word answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 547-548",
+   "source_text": "'Ego tibi meam filiam, bene quicum cubitares, dedi: nunc mihi reddi ego aequom esse abs te quicum cubitem censeo.'",
+   "question": "Quid Antipho senex viduos, qui filias generis dederat, sibi vicissim reddi aequom esse per apologum significat?",
+   "answer": "Quicum cubitet — amicam.",
+   "question_en": "What does the widowed old Antipho, who gave his daughters to his sons-in-law, hint through his fable that it is fair he get back in turn?",
+   "answer_en": "Someone to sleep with — a concubine (one of the imported music-girls).",
+   "derivation": "The famous apologus scene: the old man tells a thinly-veiled fable ('a certain old man, just like me...') to extract one of the music-girls as his bedmate, arguing he gave dowries with his daughters; Epignomus grants him the girl. Anchored to Antipho + his sons-in-law; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 577",
+   "source_text": "atque eccum tibi lupum in sermone: praesens esuriens adest.",
+   "question": "Quod animal 'in sermone' adesse proverbialiter apud Plautum in Sticho dicitur, cum is de quo loquuntur ipse supervenit?",
+   "answer": "Lupus.",
+   "question_en": "What animal is proverbially said to be 'in the talk' in Plautus' Stichus, when the man being spoken of turns up himself?",
+   "answer_en": "The wolf.",
+   "derivation": "The proverb lupus in sermone (the familiar lupus in fabula): speak of the wolf and he appears — here the starving Gelasimus arriving as the brothers discuss him. Proverb verbatim; one-word answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 649-650",
+   "source_text": "Salvete, Athenae, quae nutrices Graeciae, sperata erilis patria, te video libens.",
+   "question": "Quo praeconio Sangarinus servus, cum ero peregre reversus, Athenas salutat?",
+   "answer": "Nutrices Graeciae.",
+   "question_en": "With what title of honor does the slave Sangarinus, back from abroad with his master, greet Athens?",
+   "answer_en": "'Nurse of Greece.'",
+   "derivation": "The celebrated salute fixing the play's setting: Athens hailed as the nurse of Greece, the master's longed-for homeland. Anchored to Sangarinus + Athens; short answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Stichus 661",
+   "source_text": "fero convivam Dionysum mihique et tibi.",
+   "question": "Quem 'convivam' Stichus, cadum vini adportans, se sibi et Sangarino ferre dicit?",
+   "answer": "Dionysum.",
+   "question_en": "What 'dinner-guest' does Stichus, carrying in the jar of wine, say he brings for himself and Sangarinus?",
+   "answer_en": "Dionysus (the wine itself, by the god's name).",
+   "derivation": "The shared metonymy of the wine-god: the jar of wine is 'the guest Dionysus.' Myth-as-culture, anchored to Stichus + Sangarinus; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Stichus 689-691",
+   "source_text": "Hoc conviviumst pro opibus nostris satis commodule nucibus, fabulis, ficulis, oleae interiplio, lupillo, comminuto crustulo.",
+   "question": "Quibus cibis convivium servorum Stichi et Sangarini pro opibus eorum instructum erat?",
+   "answer": "Nucibus, fabulis, ficulis, olea, lupillo, crustulo comminuto.",
+   "question_en": "With what foods was the slaves' banquet of Stichus and Sangarinus furnished, as their means allowed?",
+   "answer_en": "Nuts, little beans, little figs, olives, lupine seeds, and crumbled pastry.",
+   "derivation": "The poor man's dessert-board itemized: the cheap nibbles (bellaria) of the slaves' party — nuts, beans, figs, olives, lupines, broken cake. Food realia; anchored to the two named slaves; list answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Stichus 693-694",
+   "source_text": "quibus divitiae domi sunt, scaphiis cantharis batiocis bibunt, at nos nostro Samiolo poterio.",
+   "question": "Quali poterio Stichus et Sangarinus servi, cum divites scaphiis cantharis batiocis bibant, vinum bibunt?",
+   "answer": "Samiolo.",
+   "question_en": "From what sort of cup do the slaves Stichus and Sangarinus drink their wine, while the rich drink from bowls, tankards, and goblets?",
+   "answer_en": "From a little Samian (cheap earthenware) cup.",
+   "derivation": "Tableware realia along the social scale: the rich drink from scaphia, canthari, batiocae; the slaves from the humble Samian-ware cup — Samian pottery as the byword for cheap crockery. Anchored to the named slaves; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 696",
+   "source_text": "Age dice uter utrubi accumbamus. STICH. Abi tu sane superior.",
+   "question": "Quem locum accumbendi Stichus Sangarino, cum uter utrubi accumbat quaeritur, concedit?",
+   "answer": "Superiorem.",
+   "question_en": "Which dining place does Stichus yield to Sangarinus, when the question is who reclines where?",
+   "answer_en": "The higher (superior) place.",
+   "derivation": "Dining-etiquette realia: even the slaves' two-man party observes the ranked places of the couch, and 'who lies where' (uter utrubi accumbamus) must be settled first — Stichus gives up the locus superior. Anchored to both slaves; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 698-700",
+   "source_text": "Quid istuc est provinciai? STICH. Vtrum Fontine an Libero imperium te inhibere mavis? SANG. Nimio liquido Libero.",
+   "question": "Vtri deo Sangarinus imperium inhibere mavolt, Fontine an Libero?",
+   "answer": "Libero.",
+   "question_en": "Over which god does Sangarinus prefer to exercise command — Fons or Liber?",
+   "answer_en": "Over Liber (the wine rather than the water).",
+   "derivation": "The banquet 'provinces' divided by their gods: Fons, god of springs, stands for the water, Liber for the wine, and Sangarinus chooses the wine-command. Cult-name realia of the mixing of wine; anchored to both slaves + both gods; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Stichus 702",
+   "source_text": "strategum te facio huic convivio.",
+   "question": "Quem magistratum convivii sui Sangarinus Sticho mandat?",
+   "answer": "Strategum.",
+   "question_en": "What office over their banquet does Sangarinus confer on Stichus?",
+   "answer_en": "That of 'general' (strategus) — master of the drinking.",
+   "derivation": "Banquet-custom realia: the party elects a master of ceremonies (the Greek strategos here, the Roman magister or rex bibendi) to command the drinking. Anchored to the two slaves; one-word answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Stichus 706-707",
+   "source_text": "vide, quot cyathos bibimus. STICH. Tot quot digiti tibi sunt in manu. cantio Graecast: e pevt e tria pin e me tettara.",
+   "question": "Quot cyathos bibi Stichus, cantionem Graecam secutus, respondet?",
+   "answer": "Tot quot digiti sunt in manu: quinque.",
+   "question_en": "How many ladles (cyathi) does Stichus answer they are drinking, following the Greek catch?",
+   "answer_en": "As many as the fingers on the hand: five.",
+   "derivation": "Drinking-rule realia: wine is measured out by the cyathus, and the Greek catch quoted in the text prescribes 'drink five or three, not four' — so Stichus counts five, the fingers of the hand. Anchored to the named slave + the drinking scene; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 708-709",
+   "source_text": "Tibi propino. decumam a fonte tibi tute inde, si sapis. bene vos, bene nos, bene te, bene me, bene nostram etiam Stephanium.",
+   "question": "Quibus verbis sollemnibus Sangarinus, poculum propinans, convivis salutem precatur?",
+   "answer": "Bene vos, bene nos, bene te, bene me.",
+   "question_en": "With what set words does Sangarinus, pledging the cup, drink the health of the company?",
+   "answer_en": "'Health to you, to us, to thee, to me' — the bene te toast.",
+   "derivation": "The Roman toast-formula verbatim: bene te ('your health'), run round the whole company and extended to 'our Stephanium too.' Convivial-custom realia; anchored to Sangarinus' pledge; formula answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 725-727",
+   "source_text": "Stiche, uter demutassit, poculo multabitur. STICH. Bonum ius dicis. impetrare oportet qui aequom postulat. SANG. Age ergo observa. si pecassis, multam hic retinebo ilico.",
+   "question": "Qua multa, uter in ludo demutasset, apud Stichum et Sangarinum multandus erat?",
+   "answer": "Poculo.",
+   "question_en": "With what fine was whichever of Stichus and Sangarinus changed the step in their game to be punished?",
+   "answer_en": "A cup (a forfeit of drink).",
+   "derivation": "Party-game realia: the forfeit of the symposium — whoever slips in the dance-and-mimicry game is fined a cup, the fine exacted on the spot. Anchored to the two named slaves; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Stichus 729-730",
+   "source_text": "haec facetiast, amare inter se rivalis duos, uno cantharo potare, unum scortum ducere.",
+   "question": "Quot cantharis duo rivales Stichus et Sangarinus in fine fabulae potant, et quot amicas ducunt?",
+   "answer": "Vno cantharo et uno scorto.",
+   "question_en": "From how many tankards do the two rivals Stichus and Sangarinus drink at the play's end, and how many girls do they take?",
+   "answer_en": "One tankard — and one girl between them.",
+   "derivation": "The emblem of the finale, stated by Stichus himself as the joke of the piece: two rivals who love each other, drink from a single cantharus, and share a single girl, neither begrudging the other. Anchored to both named slaves; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 751",
+   "source_text": "Vapulat peculium, actum est. SANG. Fugit hoc libertas caput.",
+   "question": "Quid vapulare Stichus ait, cum Stephanium ambos amare se dicit?",
+   "answer": "Peculium.",
+   "question_en": "What does Stichus say is 'taking a beating' when Stephanium declares she loves them both?",
+   "answer_en": "His peculium — the slave's savings.",
+   "derivation": "Slave-economy realia: the peculium, the slave's own hoard (his hope of buying freedom), will be spent on the shared girlfriend — as Sangarinus caps it, 'liberty flees this head.' Anchored to the named slaves + Stephanium; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Stichus 773",
+   "source_text": "satis esse nobis non magis potis quam fungo imber.",
+   "question": "Cui rei imbrem numquam nimium esse posse proverbio apud Plautum in Sticho dicitur?",
+   "answer": "Fungo.",
+   "question_en": "For what thing can rain never be too much, according to the proverbial comparison in Plautus' Stichus?",
+   "answer_en": "For a mushroom.",
+   "derivation": "Proverbial comparison closing the dance-off: the revelers can no more have their fill than a mushroom can have too much rain. Proverb verbatim; one-word answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Stichus 774-775",
+   "source_text": "vos, spectatores, plaudite atque ite ad vos comissatum.",
+   "question": "Quid spectatores in extremo Sticho Plauti, praeter plausum, facere iubentur?",
+   "answer": "Ire ad se comissatum.",
+   "question_en": "What are the spectators told to do at the very end of Plautus' Stichus, besides applauding?",
+   "answer_en": "To go home and hold a revel of their own.",
+   "derivation": "The closing formula of the play: the plaudite plus an invitation to the audience to carry the comissatio (drinking-revel) home — fitting the slaves'-party finale. Theater-convention fact; short answer verbatim.",
+   "category": "ludi"
+  }
+]}
