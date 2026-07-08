@@ -1,0 +1,1318 @@
+{
+  "source": "text/petronius1.txt",
+  "author": "Petronius",
+  "work": "Satyricon",
+  "pairs": [
+    {
+      "locus": "Petronius, Satyricon 26",
+      "source_text": "Trimalchio, lautissimus homo. Horologium in triclinio et bucinatorem habet subornatum, ut subinde sciat quantum de vita perdiderit!",
+      "question": "Quae duo instrumenta Trimalchio in triclinio suo habebat, ut quantum de vita perdidisset subinde sciret?",
+      "answer": "Horologium et bucinatorem.",
+      "question_en": "What two devices did Trimalchio keep in his dining room so that he might constantly know how much of his life he had lost?",
+      "answer_en": "A clock and a trumpeter.",
+      "derivation": "One of the most famous introductory details of the Cena Trimalchionis: the clock and the liveried trumpeter in the triclinium. Anchored to the named Trimalchio; two-item answer supported verbatim. The Cena is canonical ambient knowledge for the well-read (criterion 8).",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 27",
+      "source_text": "cum subito videmus senem calvum, tunica vestitum russea, inter pueros capillatos ludentem pila. Nec tam pueri nos, quamquam erat operae pretium, ad spectaculum duxerant, quam ipse pater familiae, qui soleatus pila prasina exercebatur.",
+      "question": "Quo colore erat pila, qua Trimalchio senex calvus ante cenam se exercebat?",
+      "answer": "Prasino (viridi).",
+      "question_en": "What color was the ball with which the bald old Trimalchio exercised before dinner?",
+      "answer_en": "Leek-green.",
+      "derivation": "The celebrated first appearance of Trimalchio: a bald old man in a russet tunic playing with a green (prasina) ball. Anchored to Trimalchio; single color answer supported verbatim ('pila prasina exercebatur'). The green ball is a stock detail of the Cena.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 28",
+      "source_text": "QVISQVIS SERVVS SINE DOMINICO IVSSV FORAS EXIERIT ACCIPIET PLAGAS CENTVM.",
+      "question": "Quot plagas, secundum libellum in poste ianuae Trimalchionis fixum, accepturus erat servus qui sine iussu domini foras exisset?",
+      "answer": "Centum.",
+      "question_en": "According to the notice fixed on Trimalchio's doorpost, how many lashes would a slave receive who went out of doors without his master's order?",
+      "answer_en": "One hundred.",
+      "derivation": "The posted household edict at Trimalchio's door: 100 lashes for any slave leaving without permission. Anchored to Trimalchio's house; single number answer supported verbatim by the quoted inscription.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 29",
+      "source_text": "Ad sinistram enim intrantibus non longe ab ostiarii cella canis ingens, catena vinctus, in pariete erat pictus superque quadrata littera scriptum CAVE CANEM.",
+      "question": "Quae verba supra canem pictum in pariete domus Trimalchionis quadrata littera scripta erant?",
+      "answer": "CAVE CANEM.",
+      "question_en": "What words were written in square capitals above the painted dog on the wall of Trimalchio's house?",
+      "answer_en": "CAVE CANEM ('Beware of the dog').",
+      "derivation": "The most famous single detail of the Satyricon: the painted chained dog with the warning CAVE CANEM at Trimalchio's entrance, matching the real mosaic from Pompeii. Anchored to Trimalchio's house; the two-word answer is quoted verbatim. Quintessential shared Roman daily-life knowledge.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 29",
+      "source_text": "Erat autem venalicium cum titulis pictis, et ipse Trimalchio capillatus caduceum tenebat Minervamque ducente Romam intrabat.",
+      "question": "Qua dea ducente Trimalchio in pictura parietis domus suae Romam intrabat?",
+      "answer": "Minerva ducente.",
+      "question_en": "Led by which goddess did Trimalchio enter Rome in the wall-painting of his own house?",
+      "answer_en": "Led by Minerva.",
+      "derivation": "The biographical fresco in Trimalchio's portico: the young long-haired Trimalchio, holding the caduceus, enters Rome led by Minerva. Anchored to Trimalchio + Rome; single named-deity answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 29",
+      "source_text": "Interrogare ergo atriensem coepi, quas in medio picturas haberent. Iliada et Odyssian, inquit, ac Laenatis gladiatorium munus.",
+      "question": "Praeter Iliada et Odyssian, quae pictura in medio domus Trimalchionis erat, ut atriensis narravit?",
+      "answer": "Gladiatorium munus Laenatis.",
+      "question_en": "Besides the Iliad and the Odyssey, what painting was in the middle of Trimalchio's house, as the steward reported?",
+      "answer_en": "The gladiatorial show of Laenas.",
+      "derivation": "The atriensis lists the middle paintings: the Iliad, the Odyssey, and Laenas' gladiatorial games — Homer beside the arena, a signature joke about freedman taste. Anchored to Trimalchio's house; short named answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 30",
+      "source_text": "in postibus triclinii fasces erant cum securibus fixi, quorum imam partem quasi embolum navis aeneum finiebat, in quo erat scriptum: C. POMPEIO TRIMALCHIONI SEVIRO AVGVSTALI CINNAMVS DISPENSATOR.",
+      "question": "Quo sacerdotio sive honore Trimalchio in titulo postibus triclinii fixo ornatur?",
+      "answer": "Seviratu Augustali (sevir Augustalis erat).",
+      "question_en": "With what priesthood or office is Trimalchio honored in the inscription fixed on his dining-room doorposts?",
+      "answer_en": "The office of sevir Augustalis.",
+      "derivation": "Trimalchio's proudest title, sevir Augustalis — the civic-religious office open to rich freedmen — displayed with fasces at his triclinium door. Anchored to Trimalchio; single-office answer supported verbatim by the quoted dedication of Cinnamus the steward.",
+      "category": "ius"
+    },
+    {
+      "locus": "Petronius, Satyricon 30",
+      "source_text": "His repleti voluptatibus cum conaremur in triclinium intrare, exclamavit unus ex pueris, qui super hoc officium erat positus: 'Dextro pede!'",
+      "question": "Quo pede convivae limen triclinii Trimalchionis transire iubebantur, ne omen malum fieret?",
+      "answer": "Dextro pede.",
+      "question_en": "With which foot were guests ordered to cross the threshold of Trimalchio's dining room, lest it be a bad omen?",
+      "answer_en": "With the right foot.",
+      "derivation": "The famous Roman threshold superstition: a slave posted at Trimalchio's door cries 'Dextro pede!' — enter right foot first. Anchored to Trimalchio's triclinium; single answer supported verbatim. A shared Roman luck-belief, criterion 8's home turf.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 31",
+      "source_text": "Ceterum in promulsidari asellus erat Corinthius cum bisaccio positus, qui habebat olivas in altera parte albas, in altera nigras.",
+      "question": "Quid asellus Corinthius in promulsidari cenae Trimalchionis in bisaccio suo gerebat?",
+      "answer": "Olivas, in altera parte albas, in altera nigras.",
+      "question_en": "What did the Corinthian bronze donkey on the hors-d'oeuvre tray at Trimalchio's dinner carry in its saddle-bags?",
+      "answer_en": "Olives — white in one side, black in the other.",
+      "derivation": "The opening dish of the Cena: a Corinthian-bronze donkey with double panniers of white and black olives. Anchored to Trimalchio's cena; short answer supported verbatim. Named-dish food culture (criterion 8).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 31",
+      "source_text": "Ponticuli etiam ferruminati sustinebant glires melle ac papavere sparsos.",
+      "question": "Quibus rebus aspersi glires in gustatione cenae Trimalchionis appositi sunt?",
+      "answer": "Melle ac papavere.",
+      "question_en": "With what were the dormice sprinkled that were served among the hors-d'oeuvres at Trimalchio's dinner?",
+      "answer_en": "With honey and poppy-seed.",
+      "derivation": "Dormice with honey and poppy-seed — the emblematic Roman delicacy, attested here at the Cena. Anchored to Trimalchio's gustatio; two-ingredient answer supported verbatim. Classic cibus fact.",
+      "category": "cibus"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 32",
+      "source_text": "Pallio enim coccineo adrasum excluserat caput, circaque oneratas veste cervices laticlaviam immiserat mappam fimbriis hinc atque illinc pendentibus.",
+      "question": "Quo colore erat pallium, quo Trimalchio in cenam suam allatus caput adrasum excluserat?",
+      "answer": "Coccineo.",
+      "question_en": "What color was the cloak from which Trimalchio, carried in to his own dinner, thrust his close-shaven head?",
+      "answer_en": "Scarlet.",
+      "derivation": "Trimalchio's grand entrance: the scarlet pallium and a napkin with a broad purple stripe (a mock laticlavus). Anchored to Trimalchio; single color answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 33",
+      "source_text": "Sequebatur puer cum tabula terebinthina et crystallinis tesseris, notavique rem omnium delicatissimam. Pro calculis enim albis ac nigris aureos argenteosque habebat denarios.",
+      "question": "Quibus rebus pro calculis albis ac nigris Trimalchio in lusu suo utebatur?",
+      "answer": "Aureis argenteisque denariis.",
+      "question_en": "What did Trimalchio use in his board game instead of white and black counters?",
+      "answer_en": "Gold and silver denarii.",
+      "derivation": "Trimalchio plays his game with gold and silver coins for counters — the celebrated emblem of his vulgar wealth. Anchored to Trimalchio; short answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 33",
+      "source_text": "Amici, ait, pavonis ova gallinae iussi supponi. Et mehercules timeo ne iam concepti sint. Temptemus tamen, si adhuc sorbilia sunt.",
+      "question": "Cuius avis ova Trimalchio gallinae supponi iussit, ut convivis in gustatione apponerentur?",
+      "answer": "Pavonis.",
+      "question_en": "Which bird's eggs did Trimalchio order to be placed under a hen, to be served to his guests as an appetizer?",
+      "answer_en": "A peacock's.",
+      "derivation": "The peahen-egg course: eggs 'of a peacock' set under a wooden hen, each containing a fig-pecker in peppered yolk. Anchored to Trimalchio; single-bird answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 33",
+      "source_text": "Accipimus nos cochlearia non minus selibras pendentia, ovaque ex farina pingui figurata pertundimus. Ego quidem paene proieci partem meam ... persecutus putamen manu, pinguissimam ficedulam inveni piperato vitello circumdatam.",
+      "question": "Quae avicula intra ova ficta in cena Trimalchionis apposita, piperato vitello circumdata, inventa est?",
+      "answer": "Ficedula pinguissima.",
+      "question_en": "What little bird was found inside the imitation eggs served at Trimalchio's dinner, surrounded by peppered yolk?",
+      "answer_en": "A very fat fig-pecker.",
+      "derivation": "The surprise inside the pastry 'peahen eggs': a ficedula (fig-pecker, a prized table bird) in peppered egg-yolk. Anchored to the Cena's famous egg course; single answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 34",
+      "source_text": "Statim allatae sunt amphorae vitreae diligenter gypsatae, quarum in cervicibus pittacia erant affixa cum hoc titulo: FALERNVM OPIMIANVM ANNORVM CENTVM.",
+      "question": "Quod vinum et quot annorum in amphoris gypsatis apud Trimalchionem titulo inscriptum apponebatur?",
+      "answer": "Falernum Opimianum annorum centum.",
+      "question_en": "What wine, and of what age, was served at Trimalchio's with a label inscribed on the plastered amphorae?",
+      "answer_en": "Falernian of Opimius' vintage, one hundred years old.",
+      "derivation": "The famous wine label FALERNUM OPIMIANUM ANNORUM CENTUM — Falernian of the legendary Opimian vintage (121 BC), absurdly labeled a round hundred years old. Anchored to Trimalchio's cena; answer quoted verbatim from the titulus. Falernian and the Opimian vintage are canonical Roman wine culture.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 34",
+      "source_text": "Potantibus ergo nobis et accuratissime lautitias mirantibus larvam argenteam attulit servus sic aptatam ut articuli eius vertebraeque laxatae in omnem partem flecterentur.",
+      "question": "Cuius rei imaginem argenteam, articulis in omnem partem flexilibus, servus inter pocula in mensam Trimalchionis attulit?",
+      "answer": "Larvam argenteam (imaginem hominis mortui, sceleti).",
+      "question_en": "What silver figure, with joints flexible in every direction, did a slave bring to Trimalchio's table during the drinking?",
+      "answer_en": "A silver skeleton.",
+      "derivation": "The silver skeleton (larva argentea) thrown on the table with the carpe-diem verses 'Ergo vivamus, dum licet esse bene' — a celebrated Roman memento mori at banquets. Anchored to Trimalchio's cena; single-object answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 35",
+      "source_text": "Rotundum enim repositorium duodecim habebat signa in orbe disposita, super quae proprium convenientemque materiae structor imposuerat cibum: super arietem cicer arietinum, super taurum bubulae frustum, super geminos testiculos ac rienes ... super aquarium anserem, super pisces duos mullos.",
+      "question": "Quot signa caelestia in orbe disposita rotundum illud repositorium cenae Trimalchionis habebat, super quae singulis conveniens cibus impositus erat?",
+      "answer": "Duodecim.",
+      "question_en": "How many celestial signs, arranged in a circle, did the famous round dish at Trimalchio's dinner bear, with an appropriate food placed on each?",
+      "answer_en": "Twelve.",
+      "derivation": "The zodiac dish: a round tray with the twelve signs, each topped by a punningly appropriate food (chickpea on the Ram, beef on the Bull, mullets on the Fishes...). Anchored to Trimalchio's cena; single number answer supported verbatim ('duodecim habebat signa').",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 35",
+      "source_text": "super arietem cicer arietinum, super taurum bubulae frustum, super geminos testiculos ac rienes, super cancrum coronam, super leonem ficum Africanam.",
+      "question": "Quis cibus in repositorio zodiaco Trimalchionis super signum arietis impositus erat?",
+      "answer": "Cicer arietinum.",
+      "question_en": "What food was placed over the sign of the Ram on Trimalchio's zodiac dish?",
+      "answer_en": "Ram's-head chickpeas (cicer arietinum).",
+      "derivation": "The pun-dish of the zodiac tray: chickpea (cicer arietinum, 'ram chickpea') on Aries. Anchored to the famous zodiac repositorium; single answer supported verbatim; the joke survives translation because the botanical name itself carries it.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 36",
+      "source_text": "Haec ut dixit, ad symphoniam quattuor tripudiantes procurrerunt superioremque partem repositorii abstulerunt. Quo facto, videmus infra altilia et sumina leporemque in medio pinnis subornatum, ut Pegasus videretur.",
+      "question": "Quod animal fabulosum lepus pinnis subornatus in medio ferculo Trimalchionis imitabatur?",
+      "answer": "Pegasum.",
+      "question_en": "What mythical creature did the hare fitted with wings in the middle of Trimalchio's dish represent?",
+      "answer_en": "Pegasus.",
+      "derivation": "Under the zodiac lid: fattened fowls, sow's udders, and a hare with wings 'so that it looked like Pegasus'. Anchored to Trimalchio's cena; single mythological-name answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 36",
+      "source_text": "Notavimus etiam circa angulos repositorii Marsyas quattuor, ex quorum utriculis garum piperatum currebat super pisces, qui tamquam in euripo natabant.",
+      "question": "Quod liquamen ex utriculis quattuor Marsyarum super pisces in ferculo Trimalchionis currebat?",
+      "answer": "Garum piperatum.",
+      "question_en": "What sauce ran from the little wineskins of the four Marsyas figures over the fish on Trimalchio's dish?",
+      "answer_en": "Peppered garum.",
+      "derivation": "Four Marsyas figures at the tray's corners pour peppered garum — the staple Roman fish sauce — over fish swimming as in a channel. Anchored to Trimalchio's cena; named-sauce answer supported verbatim. Garum is core Roman food culture.",
+      "category": "cibus"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 36",
+      "source_text": "Vides illum, inquit, qui obsonium carpit: Carpus vocatur. Ita quotiescumque dicit 'Carpe', eodem verbo et vocat et imperat.",
+      "question": "Quo nomine scissor ille apud Trimalchionem vocabatur, ut dominus uno verbo 'Carpe' et vocaret et imperaret?",
+      "answer": "Carpus.",
+      "question_en": "What was the name of the carver at Trimalchio's, so that his master with the single word 'Carpe' both called him and gave the order?",
+      "answer_en": "Carpus.",
+      "derivation": "The Carpe/Carpus joke: the carver is named Carpus so 'Carpe!' is at once vocative and imperative. Anchored to Trimalchio's household; single-name answer supported verbatim. One of the most-cited jokes of the Cena; the point (a servant named so that calling him is the command to carve) survives translation as a fact about the name.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 37",
+      "source_text": "Vxor, inquit, Trimalchionis, Fortunata appellatur, quae nummos modio metitur.",
+      "question": "Quo nomine uxor Trimalchionis appellabatur?",
+      "answer": "Fortunata.",
+      "question_en": "What was the name of Trimalchio's wife?",
+      "answer_en": "Fortunata.",
+      "derivation": "Fortunata, Trimalchio's wife, 'who measures her money by the peck' — a principal character of the Cena. Anchored to Trimalchio; single-name answer supported verbatim. Core ambient knowledge of the Satyricon.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 38",
+      "source_text": "Ad summam, parum illi bona lana nascebatur; arietes a Tarento emit, et eos culavit in gregem. Mel Atticum ut domi nasceretur, apes ab Athenis iussit afferri.",
+      "question": "Vnde Trimalchio apes afferri iussit, ut mel Atticum domi sibi nasceretur?",
+      "answer": "Ab Athenis.",
+      "question_en": "From where did Trimalchio order bees to be brought, so that Attic honey might be produced on his own estate?",
+      "answer_en": "From Athens.",
+      "derivation": "Trimalchio's 'everything home-grown' boast: rams from Tarentum, bees from Athens for Attic honey. Anchored to Trimalchio; single place answer supported verbatim. Attic honey as the proverbial best is shared Roman food culture.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 39",
+      "source_text": "In cancro ego natus sum: ideo multis pedibus sto, et in mari et in terra multa possideo; nam cancer et hoc et illoc quadrat.",
+      "question": "Quo signo caelesti Trimalchio se natum esse convivis suis dixit?",
+      "answer": "Cancro.",
+      "question_en": "Under which sign of the zodiac did Trimalchio tell his guests he had been born?",
+      "answer_en": "Under Cancer (the Crab).",
+      "derivation": "In his astrological lecture on the zodiac dish Trimalchio declares 'In cancro ego natus sum' — hence he stands on many feet and owns property on land and sea. Anchored to Trimalchio; single-sign answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 40",
+      "source_text": "Secutum est hos repositorium, in quo positus erat primae magnitudinis aper, et quidem pilleatus, e cuius dentibus sportellae dependebant duae palmulis textae, altera caryatis, altera thebaicis repleta.",
+      "question": "Quo capitis ornamento aper ille primae magnitudinis in cena Trimalchionis allatus insignis erat?",
+      "answer": "Pilleo (pilleatus erat).",
+      "question_en": "What head-covering distinguished the huge boar brought in at Trimalchio's dinner?",
+      "answer_en": "A freedman's cap (pilleus).",
+      "derivation": "The boar served wearing the pilleus, the cap of liberty — one of the Cena's most famous conceits. Anchored to Trimalchio's cena; single-object answer supported verbatim ('aper, et quidem pilleatus').",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 41",
+      "source_text": "Hic aper, cum heri summa cena eum vindicasset, a conviviis dimissus est; itaque hodie tamquam libertus in convivium revertitur.",
+      "question": "Cur aper in cena Trimalchionis pilleatus allatus est, ut convivae interpretati sunt?",
+      "answer": "Quia heri a cena dimissus hodie tamquam libertus revertebatur.",
+      "question_en": "Why was the boar at Trimalchio's dinner brought in wearing a freedman's cap, as the guests explained?",
+      "answer_en": "Because, sent away from dinner the day before, it returned today as a freedman.",
+      "derivation": "The riddle of the pilleated boar solved: it had been 'dismissed' by yesterday's diners, so today it returns as a freed slave — freedman culture turned into a table joke. Anchored to the famous boar of the Cena; the explanation is a short checkable point stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 40",
+      "source_text": "strictoque venatorio cultro latus apri vehementer percussit, ex cuius plaga turdi evolaverunt.",
+      "question": "Quae aves ex latere apri percusso in cena Trimalchionis evolaverunt?",
+      "answer": "Turdi.",
+      "question_en": "What birds flew out of the boar's side when it was struck open at Trimalchio's dinner?",
+      "answer_en": "Thrushes.",
+      "derivation": "The carver strikes the boar and live thrushes fly out, to be caught by waiting fowlers — a celebrated coup de theatre of the Cena. Anchored to the boar course; single answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 41",
+      "source_text": "puer speciosus, vitibus hederisque redimitus ... Ad quem sonum conversus Trimalchio: 'Dionyse, inquit, liber esto.' Puer detraxit pilleum apro capitique suo imposuit.",
+      "question": "Quibus verbis Trimalchio puerum Dionysum appellatum manumisisse ioco visus est?",
+      "answer": "Dionyse, liber esto.",
+      "question_en": "With what words did Trimalchio jokingly appear to free the slave-boy named Dionysus?",
+      "answer_en": "'Dionysus, be free (Liber)!'",
+      "derivation": "The Liber/liber pun: Trimalchio tells the boy costumed as Bacchus 'Dionyse, liber esto', then boasts he has 'Liberum patrem'. Anchored to Trimalchio + the named boy; the two-word formula (also the legal manumission formula) is quoted verbatim and its double sense is a canonical joke of the Cena.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 42",
+      "source_text": "Homo bellus, tam bonus Chrysanthus animam ebulliit. Modo, modo me appellavit. Videor mihi cum illo loqui. Heu, eheu! Vtres inflati ambulamus.",
+      "question": "Quis homo, ut Seleucus in cena Trimalchionis narravit, nuper animam ebulliit, cuius in funere ipse fuerat?",
+      "answer": "Chrysanthus.",
+      "question_en": "Who, as Seleucus related at Trimalchio's dinner, had just 'bubbled out his soul', at whose funeral he had been?",
+      "answer_en": "Chrysanthus.",
+      "derivation": "Seleucus' funeral gossip: the death of Chrysanthus ('animam ebulliit', a famous colloquialism) after a five-day fast against his doctors. Anchored to the named Chrysanthus + Seleucus at the Cena; single-name answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 43",
+      "source_text": "Et quot putas illum annos secum tulisse? Septuaginta et supra. Sed corneolus fuit, aetatem bene ferebat, niger tanquam corvus.",
+      "question": "Quot annos Chrysanthus, cuius mors in cena Trimalchionis narratur, secum tulisse dicitur?",
+      "answer": "Septuaginta et supra.",
+      "question_en": "How many years is Chrysanthus, whose death is discussed at Trimalchio's dinner, said to have carried with him?",
+      "answer_en": "Seventy and more.",
+      "derivation": "Phileros' obituary of Chrysanthus: he died at over seventy, still hale, 'black as a crow'. Anchored to the named Chrysanthus; number answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 44",
+      "source_text": "Aediles male eveniat, qui cum pistoribus colludunt: 'Serva me, servabo te.' Itaque populus minutus laborat; nam isti maiores maxillae semper Saturnalia agunt.",
+      "question": "Cum quibus opificibus aediles, ut Ganymedes apud Petronium queritur, de annona colludebant?",
+      "answer": "Cum pistoribus.",
+      "question_en": "With which tradesmen, as Ganymedes complains in Petronius, did the aediles collude over the grain supply?",
+      "answer_en": "With the bakers.",
+      "derivation": "Ganymedes' bread-price tirade: the aediles are in league with the bakers ('Serva me, servabo te'), so the little man starves. Anchored to the aediles + the named speaker at the Cena; single answer supported verbatim. Everyday municipal-corruption culture, with the proverbial 'you scratch my back'.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 45",
+      "source_text": "Et ecce habituri sumus munus excellente in triduo die festa; familia non lanisticia, sed plurimi liberti. Et Titus noster magnum animum habet, et est caldicerebrius.",
+      "question": "Quis apud Petronium munus gladiatorium excellens in triduo editurus erat, ut Echion centonarius narrat?",
+      "answer": "Titus.",
+      "question_en": "Who, according to the rag-dealer Echion in Petronius, was about to give an excellent three-day gladiatorial show?",
+      "answer_en": "Titus.",
+      "derivation": "Echion's gladiator gossip: Titus will give a splendid munus over three festival days, with cold steel and no running away. Anchored to the named Titus + Echion; single-name answer supported verbatim. Spectacle culture of the colonial town.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 45",
+      "source_text": "Iam Manios aliquot habet et mulierem essedariam et dispensatorem Glyconis, qui deprehensus est cum dominam suam delectaretur.",
+      "question": "Cuius generis gladiatorem feminam Titus ille apud Petronium in munus suum comparaverat?",
+      "answer": "Essedariam (mulierem essedariam).",
+      "question_en": "What type of female gladiator had Titus in Petronius acquired for his show?",
+      "answer_en": "A chariot-fighter (essedaria).",
+      "derivation": "Among Titus' attractions: a woman who fights from a British war-chariot (essedaria) — a named gladiator type. Anchored to Titus' munus; single-type answer supported verbatim. Gladiatorial realia (criterion 8).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 45",
+      "source_text": "Glyco autem, sestertiarius homo, dispensatorem ad bestias dedit. Hoc est se ipsum traducere.",
+      "question": "Quo supplicio Glyco apud Petronium dispensatorem suum, cum domina deprehensum, affecit?",
+      "answer": "Ad bestias dedit.",
+      "question_en": "With what punishment did Glyco in Petronius visit his steward, caught with his mistress?",
+      "answer_en": "He gave him to the beasts.",
+      "derivation": "Glyco condemns his steward to the beasts for adultery with his wife — damnatio ad bestias as a master's revenge, aired as town gossip. Anchored to the named Glyco; short answer supported verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 45",
+      "source_text": "'Munus tamen, inquit, tibi dedi — et ego tibi plodo. Computa, et tibi plus do quam accepi. Manus manum lavat.'",
+      "question": "Quod proverbium de mutuis officiis Echion apud Petronium de munerario et populo profert?",
+      "answer": "Manus manum lavat.",
+      "question_en": "What proverb about mutual services does Echion quote in Petronius concerning the giver of games and the people?",
+      "answer_en": "'One hand washes the other' (manus manum lavat).",
+      "derivation": "The proverb manus manum lavat, preserved verbatim in Echion's speech — one of the most famous Latin sayings, here in its locus classicus. Anchored to Petronius as the attesting text; the three-word answer is quoted verbatim and its point survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 46",
+      "source_text": "Emi ergo nunc puero aliquot libra rubricata, quia volo illum ad domusionem aliquid de iure gustare. Habet haec res panem. ... Litterae thesaurum est, et artificium nunquam moritur.",
+      "question": "Quam sententiam de litteris Echion centonarius apud Petronium profert, cum de filio suo erudiendo loquitur?",
+      "answer": "Litterae thesaurum est.",
+      "question_en": "What maxim about letters does the rag-dealer Echion pronounce in Petronius when speaking of his son's education?",
+      "answer_en": "'Learning is a treasure' (litterae thesaurum est).",
+      "derivation": "Echion's famous (solecistic) maxim 'litterae thesaurum est' with its pendant 'artificium nunquam moritur'. Anchored to the named Echion at the Cena; short quotable answer supported verbatim. A celebrated saying the text itself made proverbial.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 47",
+      "source_text": "Nam mundatis ad symphoniam mensis tres albi sues in triclinium adducti sunt capistris et tintinnabulis culti, quorum unum bimum nomenculator esse dicebat, alterum trimum, tertium vero iam sexennem.",
+      "question": "Quot sues albi vivi, capistris et tintinnabulis culti, in triclinium Trimalchionis adducti sunt?",
+      "answer": "Tres.",
+      "question_en": "How many live white pigs, decked with muzzles and bells, were led into Trimalchio's dining room?",
+      "answer_en": "Three.",
+      "derivation": "Three white pigs of two, three, and six years are paraded so the guests may choose their dinner. Anchored to Trimalchio's cena; single number supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 48",
+      "source_text": "Et ne me putes studia fastiditum, tres bybliothecas habeo, unam Graecam, alteram Latinam.",
+      "question": "Quot bybliothecas se habere Trimalchio gloriatus est?",
+      "answer": "Tres.",
+      "question_en": "How many libraries did Trimalchio boast that he owned?",
+      "answer_en": "Three.",
+      "derivation": "The famous arithmetic joke: 'I have three libraries, one Greek, the other Latin.' Anchored to Trimalchio; single number supported verbatim; the count (three announced, two listed) is the joke every reader of the Cena carries.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 48",
+      "source_text": "Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent: 'Sibilla, ti thelis?', respondebat illa: 'apothanin thelo'.",
+      "question": "Quid Sibylla Cumana, in ampulla pendens, pueris interrogantibus se velle respondebat, ut Trimalchio narrat?",
+      "answer": "Se mori velle ('apothanin thelo').",
+      "question_en": "What did the Cumaean Sibyl, hanging in her jar, answer that she wanted when the boys questioned her, as Trimalchio tells it?",
+      "answer_en": "That she wanted to die ('apothanein thelo').",
+      "derivation": "The celebrated Sibyl-in-the-bottle story: at Cumae she hangs in an ampulla and, asked 'Sibyl, what do you want?', answers 'I want to die.' Anchored to the Cumaean Sibyl + Trimalchio as narrator; short answer supported verbatim by the quoted Greek. Canonical myth-fact (famous also as the epigraph of The Waste Land).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 49",
+      "source_text": "Cum constitisset ad mensam cocus tristis et diceret se oblitum esse exinterare ... 'Ergo, inquit, quia tam malae memoriae es, palam nobis illum exintera.' Recepta cocus tunica cultrum arripuit, porcique ventrem hinc atque illinc timida manu secuit. Nec mora, ex plagis ponderis inclinatione crescentibus tomacula cum botulis effusa sunt.",
+      "question": "Quae obsonia ex ventre porci non exinterati coram convivis Trimalchionis secti effusa sunt?",
+      "answer": "Tomacula cum botulis.",
+      "question_en": "What delicacies poured out of the belly of the 'ungutted' pig when it was cut open before Trimalchio's guests?",
+      "answer_en": "Sausages and black puddings.",
+      "derivation": "The mock-punished cook's trick: the pig 'forgotten to be gutted' spills out tomacula and botuli when slit. Anchored to Trimalchio's cena; two-item answer supported verbatim. Named Roman sausage types are food culture.",
+      "category": "cibus"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 50",
+      "source_text": "Et forsitan, inquit, quaeris quare solus Corinthea vera possideam: quia scilicet aerarius, a quo emo, Corinthus vocatur.",
+      "question": "Cur Trimalchio solus vera Corinthea vasa possidere se iactabat?",
+      "answer": "Quia aerarius, a quo emebat, Corinthus vocabatur.",
+      "question_en": "Why did Trimalchio boast that he alone possessed genuine Corinthian bronze?",
+      "answer_en": "Because the bronzesmith he bought from was named Corinthus.",
+      "derivation": "The Corinthus joke: his bronzes are 'Corinthian' because his dealer is named Corinthus. Anchored to Trimalchio; the checkable point (the dealer's name) is stated verbatim. One of the Cena's most quoted witticisms; Corinthian bronze itself is shared Roman luxury culture.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 51",
+      "source_text": "Fuit tamen faber qui fecit phialam vitream, quae non frangebatur. ... Postquam negavit, iussit illum Caesar decollari: quia enim, si scitum esset, aurum pro luto haberemus.",
+      "question": "Quid Caesar de fabro fecit, qui phialam vitream infrangibilem invenerat, ut Trimalchio narrat?",
+      "answer": "Decollari eum iussit.",
+      "question_en": "What did Caesar do with the craftsman who had invented unbreakable glass, as Trimalchio tells the story?",
+      "answer_en": "He ordered him beheaded.",
+      "derivation": "The famous legend of unbreakable (flexible) glass: the inventor shows Caesar a phiala that will not shatter, admits no one else knows the secret, and is beheaded lest gold become as cheap as mud. Anchored to Caesar + the story as Trimalchio tells it; short answer supported verbatim. A celebrated anecdote also in Pliny — canonical ambient knowledge.",
+      "category": "historia"
+    },
+    {
+      "locus": "Petronius, Satyricon 52",
+      "source_text": "Nam Hermerotis pugnas et Petraitis in poculis habeo, omnia ponderosa; meum enim intelligere nulla pecunia vendo.",
+      "question": "Quorum duorum gladiatorum pugnas Trimalchio in poculis suis caelatas habebat?",
+      "answer": "Hermerotis et Petraitis.",
+      "question_en": "The fights of which two gladiators did Trimalchio have engraved on his cups?",
+      "answer_en": "Of Hermeros and Petraites.",
+      "derivation": "Trimalchio's cups show the bouts of the gladiators Hermeros and Petraites (Petraites recurs on his tomb reliefs, 71). Anchored to Trimalchio; two-name answer supported verbatim. Gladiator fandom on tableware is spectacle culture.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 52",
+      "source_text": "Et 'Aquam foras, vinum intro' clamavit Trimalchio.",
+      "question": "Quibus verbis Trimalchio inter pocula clamavit, aquam eici et vinum induci iubens?",
+      "answer": "Aquam foras, vinum intro.",
+      "question_en": "With what words did Trimalchio cry out over the cups, ordering water out and wine in?",
+      "answer_en": "'Water out, wine in!' (aquam foras, vinum intro).",
+      "derivation": "The convivial cry 'Aquam foras, vinum intro' — a drinking-culture tag the Cena made proverbial. Anchored to Trimalchio; the formula is quoted verbatim and its sense survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 53",
+      "source_text": "actuarius, qui tanquam Vrbis acta recitavit: 'VII kalendas Sextiles: in praedio Cumano, quod est Trimalchionis, nati sunt pueri XXX, puellae XL.'",
+      "question": "Quot pueri et quot puellae uno die in praedio Cumano Trimalchionis nati esse in actis recitati sunt?",
+      "answer": "Pueri triginta, puellae quadraginta.",
+      "question_en": "How many boys and how many girls were reported in the estate record as born in a single day on Trimalchio's Cumaean property?",
+      "answer_en": "Thirty boys and forty girls.",
+      "derivation": "The estate gazette read out like the acta Urbis: 30 boys and 40 girls born in one day on the Cumaean estate — the celebrated absurd index of Trimalchio's wealth. Anchored to Trimalchio's praedium Cumanum; two-number answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 53",
+      "source_text": "Mirabatur haec solus Trimalchio dicebatque ingratum artificium esse: ceterum duo esse in rebus humanis, quae libentissime spectaret, petauristarios et cornicines.",
+      "question": "Quae duo acroamata Trimalchio libentissime se spectare dicebat?",
+      "answer": "Petauristarios et cornicines.",
+      "question_en": "What two kinds of entertainers did Trimalchio say he most enjoyed watching?",
+      "answer_en": "Acrobats and horn-players.",
+      "derivation": "Trimalchio's stated taste in entertainment: acrobats and horn-blowers alone please him. Anchored to Trimalchio; two-item answer supported verbatim. Leisure culture of the Cena.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 54",
+      "source_text": "in vicem enim poenae venit decretum Trimalchionis, quo puerum iussit liberum esse, ne quis posset dicere tantum virum esse a servo vulneratum.",
+      "question": "Quid Trimalchio de puero decrevit, qui in brachium eius e scalis ceciderat?",
+      "answer": "Liberum eum esse iussit.",
+      "question_en": "What did Trimalchio decree concerning the boy who had fallen from the ladder onto his arm?",
+      "answer_en": "He ordered him to be freed.",
+      "derivation": "The acrobat who falls on Trimalchio is freed by decree — 'lest anyone say so great a man was wounded by a slave.' Anchored to Trimalchio + the falling boy; short answer supported verbatim. A famous set-piece of the Cena on manumission as display.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 55",
+      "source_text": "Rogo, inquit, magister, quid putas inter Ciceronem et Publilium interesse? Ego alterum puto disertiorem fuisse, alterum honestiorem.",
+      "question": "Quos duos scriptores Trimalchio inter se comparavit, alterum disertiorem, alterum honestiorem iudicans?",
+      "answer": "Ciceronem et Publilium.",
+      "question_en": "Which two writers did Trimalchio compare, judging the one more eloquent and the other more upright?",
+      "answer_en": "Cicero and Publilius (Syrus).",
+      "derivation": "Trimalchio's literary verdict: Cicero the more eloquent, Publilius the more honest — the Cena's famous mock-criticism. Anchored to the two named authors + Trimalchio; two-name answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 56",
+      "source_text": "Quod autem, inquit, putamus secundum litteras difficillimum esse artificium? Ego puto medicum et nummularium.",
+      "question": "Quae duo artificia Trimalchio post litteras difficillima esse putabat?",
+      "answer": "Medici et nummularii.",
+      "question_en": "Which two trades did Trimalchio consider the most difficult after letters?",
+      "answer_en": "The doctor's and the money-changer's.",
+      "derivation": "Trimalchio's table-philosophy: after literature the hardest trades are medicine and money-changing (the one sees inside men, the other sees the bronze through the silver). Anchored to Trimalchio; two-item answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 56",
+      "source_text": "cum pittacia in scypho circumferri coeperunt, puerque super hoc positus officium apophoreta recitavit. 'Argentum sceleratum': allata est perna, supra quam acetabula erant posita.",
+      "question": "Quo nomine dona vocabantur, quae convivae Trimalchionis sortibus ductis secum auferebant?",
+      "answer": "Apophoreta.",
+      "question_en": "What was the name of the gifts which Trimalchio's guests drew by lot and carried away with them?",
+      "answer_en": "Apophoreta (take-away gifts).",
+      "derivation": "The lottery of punning apophoreta (take-home party gifts) at the Cena — the same convivial institution Martial's book 14 is named for. Anchored to Trimalchio's cena; single-term answer supported verbatim; the custom, not the Latin word-play of individual lots, is the fact.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 57",
+      "source_text": "Glebulas emi, lamellulas paravi; viginti ventres pasco et canem; contubernalem meam redemi, ne qui in illius capillis manus tergeret; mille denarios pro capite solvi; sevir gratis factus sum.",
+      "question": "Quot denarios Hermeros conlibertus Trimalchionis pro capite contubernalis suae redimendae se solvisse iactat?",
+      "answer": "Mille denarios.",
+      "question_en": "How many denarii does Hermeros, Trimalchio's fellow freedman, boast he paid to buy his mate's freedom?",
+      "answer_en": "A thousand denarii.",
+      "derivation": "Hermeros' self-defense: he bought his contubernalis free for 1000 denarii and became sevir without paying. Anchored to the named Hermeros; single number answer supported verbatim. Freedman economics — the price of a person — is core cultural realia.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 57",
+      "source_text": "Quare ergo servivisti? Quia ipse me dedi in servitutem et malui civis Romanus esse quam tributarius.",
+      "question": "Cur Hermeros apud Petronium se ipsum in servitutem dedisse dicit?",
+      "answer": "Quia maluit civis Romanus esse quam tributarius.",
+      "question_en": "Why does Hermeros in Petronius say he sold himself into slavery?",
+      "answer_en": "Because he preferred to become a Roman citizen rather than a provincial tribute-payer.",
+      "derivation": "Hermeros' famous paradox: he entered slavery voluntarily because manumission would make him a Roman citizen, better than a free tributarius. Anchored to the named speaker; the reason is a short checkable clause quoted verbatim — a much-cited fact about the Roman freedman route to citizenship.",
+      "category": "ius"
+    },
+    {
+      "locus": "Petronius, Satyricon 58",
+      "source_text": "Plane qualis dominus, talis et servus.",
+      "question": "Quod proverbium de domino et servo Hermeros apud Petronium in Gitonem ridentem torquet?",
+      "answer": "Qualis dominus, talis et servus.",
+      "question_en": "What proverb about master and slave does Hermeros hurl at the laughing Giton in Petronius?",
+      "answer_en": "'Like master, like slave' (qualis dominus, talis et servus).",
+      "derivation": "The proverb 'qualis dominus, talis et servus', preserved verbatim in Hermeros' tirade — its locus classicus. Anchored to Petronius; the saying is the answer, quoted verbatim, and its point survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 58",
+      "source_text": "O? Saturnalia? rogo, mensis December est? Quando vicesimam numerasti?",
+      "question": "Quo mense Saturnalia agi solita esse Hermeros apud Petronium significat, cum Gitonem tanquam intempestive lascivientem obiurgat?",
+      "answer": "Mense Decembri.",
+      "question_en": "In what month does Hermeros in Petronius imply the Saturnalia were held, when he scolds Giton for untimely frolicking?",
+      "answer_en": "In December.",
+      "derivation": "Hermeros' jibe 'Saturnalia? rogo, mensis December est?' attests the shared calendar fact that the license of the Saturnalia belongs to December. Anchored to the named festival; single-month answer supported verbatim. Core festival culture (criterion 8).",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 59",
+      "source_text": "clamorem Homeristae sustulerunt, interque familiam discurrentem vitulus in lance ducenaria elixus allatus est, et quidem galeatus. Secutus est Aiax strictoque gladio, tanquam insaniret, concidit.",
+      "question": "Quis heros, dum Homeristae apud Trimalchionem fabulam agunt, vitulum galeatum stricto gladio tanquam insaniens concidit?",
+      "answer": "Aiax.",
+      "question_en": "Which hero, while the Homeric performers acted at Trimalchio's, hacked up the helmeted boiled calf with drawn sword as if mad?",
+      "answer_en": "Ajax.",
+      "derivation": "The Homeristae show: a boiled calf wearing a helmet is carved by a performer playing the mad Ajax. Anchored to Trimalchio's cena + the named hero; single-name answer supported verbatim. Ajax's madness is canonical myth used as dinner theater.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 60",
+      "source_text": "Inter haec tres pueri candidas succincti tunicas intraverunt, quorum duo Lares bullatos super mensam posuerunt ... Aiebat autem unum Cerdonem, alterum Felicionem, tertium Lucronem vocari.",
+      "question": "Quibus nominibus Lares domus Trimalchionis vocabantur?",
+      "answer": "Cerdo, Felicio, Lucro.",
+      "question_en": "By what names were the Lares of Trimalchio's household called?",
+      "answer_en": "Cerdo ('Gain'), Felicio ('Luck'), and Lucro ('Profit').",
+      "derivation": "Trimalchio's household gods bear money-names: Cerdo, Felicio, Lucro — the famous satiric emblem of freedman piety toward profit. Anchored to Trimalchio's Lares; three-name answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 60",
+      "source_text": "Rati ergo sacrum esse fericulum tam religioso apparatu perfusum, consurreximus altius et 'Augusto, patri patriae, feliciter' diximus.",
+      "question": "Quibus verbis convivae Trimalchionis, sacrum esse fericulum rati, consurrexerunt et acclamaverunt?",
+      "answer": "Augusto, patri patriae, feliciter.",
+      "question_en": "With what words did Trimalchio's guests, thinking the dish sacred, rise and acclaim?",
+      "answer_en": "'Good fortune to Augustus, father of his country!'",
+      "derivation": "The loyal acclamation 'Augusto, patri patriae, feliciter' at the saffron-spurting dessert — imperial-cult etiquette at a private table. Anchored to the emperor's title; the formula is quoted verbatim and its content survives translation.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 61-62",
+      "source_text": "At ille circumminxit vestimenta sua, et subito lupus factus est. ... Intellexi illum versipellem esse, nec postea cum illo panem gustare potui, non si me occidisses.",
+      "question": "Quis conviva Trimalchionis fabulam de milite narravit, qui inter monimenta lupus factus est?",
+      "answer": "Niceros.",
+      "question_en": "Which of Trimalchio's guests told the story of the soldier who turned into a wolf among the tombs?",
+      "answer_en": "Niceros.",
+      "derivation": "The werewolf tale of the Cena: Niceros tells how his companion, a soldier, urinated a circle around his clothes among the tombstones and became a wolf. Anchored to the named narrator + the famous story; single-name answer; the frame (61 'Trimalchio ad Nicerotem respexit... narra illud') and the quoted transformation support it. The most famous werewolf story in classical literature.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 62",
+      "source_text": "Deinde ut respexi ad comitem, ille exuit se et omnia vestimenta secundum viam posuit. ... At ille circumminxit vestimenta sua, et subito lupus factus est. ... deinde accessi, ut vestimenta eius tollerem: illa autem lapidea facta sunt.",
+      "question": "Quid de vestimentis militis versipellis in fabula Nicerotis factum est, postquam ille lupus abiit?",
+      "answer": "Lapidea facta sunt.",
+      "question_en": "What happened to the werewolf soldier's clothes in Niceros' story after he ran off as a wolf?",
+      "answer_en": "They turned to stone.",
+      "derivation": "The signature detail of the werewolf story: the clothes, ringed with urine, turn to stone, proving the magic. Anchored to Niceros' famous tale; short answer supported verbatim ('illa autem lapidea facta sunt').",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 62",
+      "source_text": "lupus enim villam intravit et omnia pecora tanquam lanius sanguinem illis misit. Nec tamen derisit, etiamsi fugit; senius enim noster lancea collum eius traiecit. ... iacebat miles meus in lecto tanquam bovis, et collum illius medicus curabat. Intellexi illum versipellem esse.",
+      "question": "Quo indicio Niceros militem illum versipellem fuisse intellexit, cum domum rediit?",
+      "answer": "Quod medicus collum eius curabat, quo loco lupus lancea traiectus erat.",
+      "question_en": "By what sign did Niceros realize the soldier was a werewolf when he returned home?",
+      "answer_en": "A doctor was treating his neck, where the wolf had been run through with a lance.",
+      "derivation": "The proof of the versipellis: the wolf speared in the neck at the farm, the soldier found in bed with a neck wound. Anchored to Niceros' tale; the sympathetic-wound motif is the story's checkable point, supported verbatim. 'Versipellis' names the werewolf — the Latin term the passage made canonical.",
+      "category": "mythos"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 63",
+      "source_text": "scilicet iam puerum strigae involaverant et supposuerant stramenticium vavatonem. Rogo vos, oportet credatis, sunt mulieres plussciae, sunt Nocturnae, et quod sursum est, deorsum faciunt.",
+      "question": "Quid strigae in fabula Trimalchionis pro puero mortuo, quem involaverant, supposuerunt?",
+      "answer": "Stramenticium vavatonem (maniam ex stramentis factam).",
+      "question_en": "What did the witches in Trimalchio's story substitute for the dead boy they had carried off?",
+      "answer_en": "A straw dummy.",
+      "derivation": "Trimalchio's striga story: the witches steal the boy's corpse and leave a straw changeling with no heart or innards. Anchored to Trimalchio's famous tale; short answer supported verbatim. The strigae (night-witches) are core Roman folklore.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 64",
+      "source_text": "Quo admonitus officio Trimalchio Scylacem iussit adduci 'praesidium domus familiaeque'. Nec mora, ingentis formae adductus est canis catena vinctus.",
+      "question": "Quo nomine canis ingens Trimalchionis, praesidium domus familiaeque, vocabatur?",
+      "answer": "Scylax.",
+      "question_en": "What was the name of Trimalchio's huge dog, the 'guardian of house and household'?",
+      "answer_en": "Scylax.",
+      "derivation": "Trimalchio's chained watchdog Scylax ('Puppy' in Greek), styled guardian of house and familia. Anchored to Trimalchio; single-name answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 65",
+      "source_text": "Habinnas sevir est idemque lapidarius, qui videtur monumenta optime facere.",
+      "question": "Quod artificium Habinnas sevir, amicus Trimalchionis, exercebat?",
+      "answer": "Lapidarius erat, monumentorum faber.",
+      "question_en": "What trade did the sevir Habinnas, Trimalchio's friend, practice?",
+      "answer_en": "He was a stonemason, a maker of tomb monuments.",
+      "derivation": "Habinnas, sevir and monument-mason 'who makes tombstones best' — the friend later commissioned for Trimalchio's tomb. Anchored to the named Habinnas; single-trade answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 65",
+      "source_text": "Scissa lautum novendialem servo suo misello faciebat, quem mortuum manu miserat. Et, puto, cum vicensimariis magnam mantissam habet; quinquaginta enim millibus aestimant mortuum.",
+      "question": "Quod convivium funebre Scissa servo suo mortuo faciebat, de quo Habinnas ad cenam Trimalchionis venit?",
+      "answer": "Novendialem (cenam novendialem).",
+      "question_en": "What funeral feast was Scissa holding for his dead slave, from which Habinnas came to Trimalchio's dinner?",
+      "answer_en": "The ninth-day funeral feast (novendialis).",
+      "derivation": "Habinnas arrives from a novendialis — the Roman ninth-day funeral banquet — held by Scissa for a slave freed on his deathbed (with the 5% manumission tax, vicesima, in play). Anchored to the named Scissa; single-term answer supported verbatim. Funeral custom is core mores.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 66",
+      "source_text": "Habuimus tamen in primo porcum botulo coronatum et circa sangunculum et gizeria optime facta et certe betam et panem autopyrum de suo sibi, quem ego malo quam candidum; nam et vires facit, et cum mea re causa facio, non ploro.",
+      "question": "Quale panem Habinnas candido praeferre se dixit, cum cenam apud Scissam narraret?",
+      "answer": "Panem autopyrum (e farina integra).",
+      "question_en": "What kind of bread did Habinnas say he prefers to white, when describing the dinner at Scissa's?",
+      "answer_en": "Whole-meal bread (panis autopyrus).",
+      "derivation": "Habinnas prefers panis autopyrus (whole-wheat) to white bread because 'it gives strength'. Anchored to the named Habinnas; single answer supported verbatim. Named bread types are Roman food culture.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 67",
+      "source_text": "Venit ergo galbino succincta cingillo, ita ut infra cerasina appareret tunica et periscelides tortae phaecasiaeque inauratae.",
+      "question": "Quo colore erat cingillum, quo Fortunata in cenam veniens succincta erat?",
+      "answer": "Galbino.",
+      "question_en": "What color was the little belt with which Fortunata was girt when she came in to the dinner?",
+      "answer_en": "Greenish-yellow.",
+      "derivation": "Fortunata's celebrated get-up: yellow-green sash over a cherry-red tunic, with twisted anklets and gilt slippers. Anchored to the named Fortunata; single-color answer supported verbatim. Dress culture of the freedman milieu.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 69-70",
+      "source_text": "Nec ullus tot malorum finis fuisset, nisi epidipnis esset allata, turdi siliginei uvis passis nucibusque farsi.",
+      "question": "Quibus rebus farsi erant turdi siliginei, qui in epidipnide cenae Trimalchionis allati sunt?",
+      "answer": "Vvis passis nucibusque.",
+      "question_en": "With what were the pastry thrushes stuffed that were brought in as the dessert course at Trimalchio's dinner?",
+      "answer_en": "With raisins and nuts.",
+      "derivation": "The epidipnis (dessert course): imitation thrushes of fine wheat pastry stuffed with raisins and nuts. Anchored to Trimalchio's cena; two-item answer supported verbatim. Named-dish food culture.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 70",
+      "source_text": "Non potest esse pretiosior homo. Volueris, de vulva faciet piscem, de lardo palumbam, de perna turturem, de colaepio gallinam. Et ideo ingenio meo impositum est illi nomen bellissimum; nam Daedalus vocatur.",
+      "question": "Quo nomine cocus ille Trimalchionis vocabatur, qui de porco quidvis fingere poterat?",
+      "answer": "Daedalus.",
+      "question_en": "What was the name of Trimalchio's cook, who could fashion anything out of pork?",
+      "answer_en": "Daedalus.",
+      "derivation": "The virtuoso cook named Daedalus — after the mythical craftsman — because he makes fish from sow's womb, pigeon from bacon, turtledove from ham. Anchored to Trimalchio's household; single-name answer supported verbatim. A signature Cena fact.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 70",
+      "source_text": "Et quia bonam mentem habet, attuli illi Roma munus cultros Norico ferro.",
+      "question": "Ex quo ferro facti erant cultri, quos Trimalchio coco suo Daedalo Roma munus attulit?",
+      "answer": "Norico ferro.",
+      "question_en": "Of what iron were the knives made that Trimalchio brought from Rome as a gift for his cook Daedalus?",
+      "answer_en": "Of Noric steel.",
+      "derivation": "The gift knives of Noric iron — Noricum's steel was proverbially the best (cf. Horace). Anchored to Trimalchio + Daedalus; single answer supported verbatim. Shared Roman knowledge of regional products.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 70",
+      "source_text": "Permitto, inquit, Philargyre et Cario, etsi prasinianus es famosus, dic et Menophilae, contubernali tuae, discumbat.",
+      "question": "Cuius factionis circensis fautor erat Philargyrus servus Trimalchionis?",
+      "answer": "Prasinae (factionis venetae aemulae; prasinianus erat).",
+      "question_en": "Of which circus faction was Trimalchio's slave Philargyrus a partisan?",
+      "answer_en": "Of the Greens (he was a 'prasinianus').",
+      "derivation": "Philargyrus is a notorious partisan of the Green faction (prasina) of the circus; the cook likewise bets on the Greens at the next races (70 fin.). Anchored to the named slave + Trimalchio's household; single-faction answer supported verbatim. Chariot-faction fandom is core ludi culture.",
+      "category": "ludi"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "Amici, inquit, et servi homines sunt et aeque unum lactem biberunt, etiam si illos malus fatus oppresserit. Tamen me salvo cito aquam liberam gustabunt. Ad summam, omnes illos in testamento meo manu mitto.",
+      "question": "Quid Trimalchio de omnibus servis suis in testamento suo cavisse se publicavit?",
+      "answer": "Omnes manu mittere.",
+      "question_en": "What did Trimalchio announce he had provided for all his slaves in his will?",
+      "answer_en": "That he frees them all.",
+      "derivation": "Trimalchio's testamentary manumission of all his slaves, proclaimed at table with the famous dictum 'et servi homines sunt'. Anchored to Trimalchio; short answer supported verbatim. Testamentary manumission is a core Roman institution.",
+      "category": "ius"
+    },
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "Nam Fortunatam meam heredem facio, et commendo illam omnibus amicis meis.",
+      "question": "Quem heredem Trimalchio testamento suo, quod in cena recitavit, faciebat?",
+      "answer": "Fortunatam uxorem.",
+      "question_en": "Whom did Trimalchio make his heir in the will he read out at dinner?",
+      "answer_en": "His wife Fortunata.",
+      "derivation": "Trimalchio names Fortunata his heir and reads the whole will aloud at his own dinner. Anchored to Trimalchio + Fortunata; single-name answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "praeterea ut sint in fronte pedes centum, in agrum pedes ducenti.",
+      "question": "Quot pedes in fronte et quot in agrum monumentum Trimalchionis habere debebat?",
+      "answer": "In fronte centum, in agrum ducentos.",
+      "question_en": "How many feet of frontage and how many of depth was Trimalchio's tomb-plot to have?",
+      "answer_en": "A hundred feet of frontage, two hundred of depth.",
+      "derivation": "Trimalchio's tomb order to Habinnas uses the standard epigraphic plot formula (IN FRONTE P. C, IN AGRO P. CC), at absurd scale. Anchored to Trimalchio's monument; two-number answer supported verbatim. The formula itself is shared epigraphic culture.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "Et ideo ante omnia adici volo: HOC MONUMENTUM HEREDEM NON SEQUATUR.",
+      "question": "Quae formula sepulcralis ante omnia in monumento Trimalchionis adici debebat, ne sepulcrum ad heredem transiret?",
+      "answer": "HOC MONUMENTUM HEREDEM NON SEQUATUR.",
+      "question_en": "What funerary formula did Trimalchio want added to his monument above all, so the tomb would not pass to his heir?",
+      "answer_en": "'This monument does not pass to the heir' (H.M.H.N.S.).",
+      "derivation": "The standard Roman epitaph clause HMHNS ordered by Trimalchio for his tomb. Anchored to Trimalchio; the formula (a real, ubiquitous epigraphic clause) is quoted verbatim. Exactly the epitaph-formula culture of criterion 8.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "Horologium in medio, ut quisquis horas inspiciet, velit nolit, nomen meum legat.",
+      "question": "Quid in medio monumento suo poni Trimalchio iussit, ut quisquis horas inspiceret nomen eius legeret?",
+      "answer": "Horologium.",
+      "question_en": "What did Trimalchio order to be placed in the middle of his monument, so that whoever checked the time would read his name?",
+      "answer_en": "A sundial (clock).",
+      "derivation": "The sundial at the center of the tomb, forcing every passer-by to read Trimalchio's name — one of the most quoted touches of the Cena. Anchored to Trimalchio's monument; single-object answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "C. POMPEIVS TRIMALCHIO MAECENATIANVS HIC REQVIESCIT HVIC SEVIRATVS ABSENTI DECRETVS EST CVM POSSET IN OMNIBVS DECVRIIS ROMAE ESSE TAMEN NOLVIT PIVS FORTIS FIDELIS EX PARVO CREVIT SESTERTIVM RELIQVIT TRECENTIES NEC VNQVAM PHILOSOPHVM AVDIVIT VALE ET TV",
+      "question": "Quot sestertium Trimalchio in epitaphio suo se reliquisse gloriatur?",
+      "answer": "Trecenties (sestertium trecenties, id est triginta miliones sestertiorum).",
+      "question_en": "How large a fortune does Trimalchio boast in his epitaph that he left?",
+      "answer_en": "Thirty million sesterces (sestertium trecenties).",
+      "derivation": "The famous self-composed epitaph: 'EX PARVO CREVIT, SESTERTIVM RELIQVIT TRECENTIES'. Anchored to Trimalchio's epitaph; single sum answer supported verbatim. The epitaph is among the most quoted texts in the Satyricon.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "NEC VNQVAM PHILOSOPHVM AVDIVIT VALE ET TV",
+      "question": "Quid Trimalchio in epitaphio suo se nunquam audivisse gloriatur?",
+      "answer": "Philosophum.",
+      "question_en": "What does Trimalchio boast in his epitaph that he never listened to?",
+      "answer_en": "A philosopher.",
+      "derivation": "The epitaph's crowning boast: 'and he never listened to a philosopher.' Anchored to Trimalchio's epitaph; one-word answer supported verbatim. A celebrated satiric line every reader of the Cena carries.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 71",
+      "source_text": "C. POMPEIVS TRIMALCHIO MAECENATIANVS HIC REQVIESCIT",
+      "question": "Quo agnomine Trimalchio in epitaphio suo praeter nomina C. Pompei ornatur?",
+      "answer": "Maecenatiano.",
+      "question_en": "What surname adorns Trimalchio in his epitaph besides the names C. Pompeius?",
+      "answer_en": "Maecenatianus.",
+      "derivation": "The epitaph's full name C. Pompeius Trimalchio Maecenatianus — the agnomen advertising a former master or patron Maecenas. Anchored to the famous epitaph; single-name answer quoted verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 72",
+      "source_text": "ducente per porticum Gitone ad ianuam venimus, ubi canis catenarius tanto nos tumultu excepit, ut Ascyltos etiam in piscinam ceciderit. Nec non ego quoque ebrius, qui etiam pictum timueram canem, dum natanti opem fero, in eundem gurgitem tractus sum.",
+      "question": "Nonne verus canis erat, quem Encolpius in aditu domus Trimalchionis primo timuerat?",
+      "answer": "Non; pictus erat in pariete.",
+      "question_en": "Was the dog that Encolpius first feared at the entrance of Trimalchio's house a real one?",
+      "answer_en": "No; it was painted on the wall.",
+      "derivation": "The paired joke of the Cena: the terrifying entrance dog is a painting (CAVE CANEM), while a real chain-dog later knocks Ascyltos into the fishpond. Anchored to Encolpius + Trimalchio's house; short answer supported verbatim ('qui etiam pictum timueram canem'). The painted-dog gag is canonical.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 72",
+      "source_text": "Erras, inquit, si putas te exire hac posse, qua venisti. Nemo unquam convivarum per eandem ianuam emissus est; alia intrant, alia exeunt.",
+      "question": "Qua consuetudine convivae e domo Trimalchionis emittebantur, ut atriensis exponit?",
+      "answer": "Alia ianua intrabant, alia exibant.",
+      "question_en": "By what house rule were guests let out of Trimalchio's home, as the porter explains?",
+      "answer_en": "They entered by one door and left by another.",
+      "derivation": "The labyrinth rule of Trimalchio's house: no guest ever leaves by the door he entered. Anchored to Trimalchio's house; short answer supported verbatim.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 74",
+      "source_text": "Haec dicente eo gallus gallinaceus cantavit. Qua voce confusus Trimalchio vinum sub mensa iussit effundi lucernamque etiam mero spargi. Immo anulum traiecit in dexteram manum et: 'Non sine causa, inquit, hic bucinus signum dedit; nam aut incendium oportet fiat, aut aliquis in vicinia animam abiciat.'",
+      "question": "Quid portendere Trimalchio credidit gallum gallinaceum, qui inter cenam intempestive cantavit?",
+      "answer": "Aut incendium aut mortem alicuius in vicinia.",
+      "question_en": "What did Trimalchio believe the rooster that crowed untimely during dinner portended?",
+      "answer_en": "Either a fire or a death in the neighborhood.",
+      "derivation": "The rooster-crow omen: Trimalchio spills wine under the table, sprinkles the lamp, shifts his ring to the right hand, and has the offending cock cooked. Anchored to Trimalchio; two-item answer supported verbatim. Roman omen-lore of the Cena.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 75-76",
+      "source_text": "coheredem me Caesari fecit, et accepi patrimonium laticlavium. Nemini tamen nihil satis est. Concupivi negotiari. Ne multis vos morer, quinque naves aedificavi, oneravi vinum — et tunc erat contra aurum — misi Romam. ... omnes naves naufragarunt. Factum, non fabula. Vno die Neptunus trecenties sestertium devoravit.",
+      "question": "Quot naves Trimalchio, ut ipse de vita sua narrat, primum aedificavit et vino oneratas Romam misit?",
+      "answer": "Quinque.",
+      "question_en": "How many ships, as Trimalchio tells his own life story, did he first build and send to Rome laden with wine?",
+      "answer_en": "Five.",
+      "derivation": "Trimalchio's rags-to-riches autobiography: five wine-ships built, all wrecked, thirty million lost in a day ('Neptunus trecenties sestertium devoravit'), then the greater second fleet. Anchored to Trimalchio; single number supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 76",
+      "source_text": "Hoc loco Fortunata rem piam fecit: omne enim aurum suum, omnia vestimenta vendidit et mi centum aureos in manu posuit. Hoc fuit peculii mei fermentum.",
+      "question": "Quot aureos Fortunata, venditis auro suo et vestimentis, Trimalchioni post naufragium in manu posuit?",
+      "answer": "Centum.",
+      "question_en": "How many gold pieces did Fortunata, having sold her gold and clothes, put in Trimalchio's hand after the shipwreck?",
+      "answer_en": "A hundred.",
+      "derivation": "Fortunata's pious act, the 'yeast' of Trimalchio's fortune: she sold all her gold and clothing and gave him 100 aurei. Anchored to Fortunata + Trimalchio; single number supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 76",
+      "source_text": "exhortavit mathematicus, qui venerat forte in coloniam nostram, Graeculio, Serapa nomine, consiliator deorum.",
+      "question": "Quo nomine mathematicus ille Graeculus vocabatur, qui Trimalchioni fata eius exposuit?",
+      "answer": "Serapa.",
+      "question_en": "What was the name of the little Greek astrologer who expounded Trimalchio's destiny to him?",
+      "answer_en": "Serapa.",
+      "derivation": "The astrologer Serapa, 'counselor of the gods', who told Trimalchio his past and future. Anchored to Trimalchio; single-name answer supported verbatim. Astrologer-consulting is shared Roman practice.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 77",
+      "source_text": "etiam nunc mi restare vitae annos triginta et menses quattuor et dies duos.",
+      "question": "Quot annos, menses, dies vitae sibi restare Trimalchio ex responso mathematici Serapae credidit?",
+      "answer": "Annos triginta, menses quattuor, dies duos.",
+      "question_en": "How many years, months, and days of life did Trimalchio believe remained to him according to the astrologer Serapa's reckoning?",
+      "answer_en": "Thirty years, four months, and two days.",
+      "derivation": "The absurdly precise horoscope: 30 years, 4 months, 2 days left to live. Anchored to Trimalchio + Serapa; three-number answer supported verbatim. A famous satiric detail of astrological credulity.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 77",
+      "source_text": "Credite, mihi: assem habeas, assem valeas; habes, habeberis. Sic amicus vester, qui fuit rana, nunc est rex.",
+      "question": "Quam sententiam de asse et pretio hominis Trimalchio in fine cenae suae profert?",
+      "answer": "Assem habeas, assem valeas.",
+      "question_en": "What maxim about the penny and a man's worth does Trimalchio pronounce at the end of his dinner?",
+      "answer_en": "'Have a penny, and you are worth a penny' (assem habeas, assem valeas).",
+      "derivation": "Trimalchio's money-creed 'assem habeas, assem valeas; habes, habeberis', capped by 'qui fuit rana, nunc est rex' — sayings this text made famous. Anchored to Trimalchio; the proverb is quoted verbatim and its point survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 78",
+      "source_text": "Consonuere cornicines funebri strepitu. Vnus praecipue servus libitinarii illius ... tam valde intonuit, ut totam concitaret viciniam. Itaque vigiles, qui custodiebant vicinam regionem, rati ardere Trimalchionis domum, effregerunt ianuam subito et cum aqua securibusque tumultuari suo iure coeperunt.",
+      "question": "Qui, cornicinum funebri strepitu exciti, domum Trimalchionis ardere rati ianuam effregerunt?",
+      "answer": "Vigiles.",
+      "question_en": "Who, roused by the funereal blast of the horn-players, broke down Trimalchio's door thinking the house was on fire?",
+      "answer_en": "The watchmen (vigiles).",
+      "derivation": "The finale of the Cena: Trimalchio stages his own funeral, the horns blare, and the vigiles — the fire brigade/night watch — burst in with water and axes. Anchored to Trimalchio's mock funeral; single answer supported verbatim. The vigiles are a real Roman institution, and this scene is canonical.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 78",
+      "source_text": "Trimalchio ... extendit se super torum extremum et: 'Fingite me, inquit, mortuum esse. Dicite aliquid belli.' Consonuere cornicines funebri strepitu.",
+      "question": "Quid Trimalchio in fine cenae convivas facere iussit, cum super torum tanquam mortuus extenderetur?",
+      "answer": "Vt fingerent eum mortuum esse et aliquid belli dicerent.",
+      "question_en": "What did Trimalchio order his guests to do at the end of the dinner, when he stretched out on the couch as if dead?",
+      "answer_en": "To pretend he was dead and say something nice about him.",
+      "derivation": "Trimalchio's mock funeral: 'Fingite me mortuum esse' — he rehearses his own laudatio with horns playing. Anchored to Trimalchio; the command is quoted verbatim. The mock-funeral is one of the most celebrated scenes in Latin literature.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 95",
+      "source_text": "Iam enim faxo sciatis non viduae hanc insulam esse sed Marci Mannicii.",
+      "question": "Cuius esse insulam deversitor apud Petronium iactat, cum Eumolpum ceterosque rixantes obiurgat?",
+      "answer": "Marci Mannicii.",
+      "question_en": "Whose apartment block does the innkeeper in Petronius declare it to be when he scolds Eumolpus and the other brawlers?",
+      "answer_en": "Marcus Mannicius'.",
+      "derivation": "The innkeeper invokes the name of the insula's owner, M. Mannicius — urban lodging under a named proprietor, the tenement (insula) system in action. Anchored to the named owner; single-name answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 97",
+      "source_text": "Imperavi Gitoni ut raptim grabatum subiret annecteretque pedes et manus institis, quibus sponda culcitam ferebat, ac sic ut olim Vlixes pro arieti adhaesisset, extentus infra grabatum scrutantium eluderet manus.",
+      "question": "Cuius herois astum Giton imitatus est, cum sub grabato pendens quaerentium manus eluderet?",
+      "answer": "Vlixis (qui sub ariete Cyclopem elusit).",
+      "question_en": "Which hero's trick did Giton imitate when, clinging under the bed, he eluded the hands of his searchers?",
+      "answer_en": "Ulysses' (who escaped the Cyclops under the ram).",
+      "derivation": "Giton hides under the bed 'as Ulysses once clung beneath the ram' — the Odyssey's Cyclops escape used as shared story. Anchored to Giton + Ulysses; single-name answer supported verbatim. Myth as ambient knowledge.",
+      "category": "mythos"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 104",
+      "source_text": "Audio enim non licere cuiquam mortalium in nave neque ungues neque capillos deponere, nisi cum pelago ventus irascitur.",
+      "question": "Quando solum, secundum religionem nautarum apud Petronium, licet in nave ungues capillosque deponere?",
+      "answer": "Cum pelago ventus irascitur (in tempestate).",
+      "question_en": "When alone, according to the sailors' superstition in Petronius, is it permitted to cut nails or hair aboard ship?",
+      "answer_en": "When the wind is raging against the sea (in a storm).",
+      "derivation": "The sailors' taboo: no one may cut hair or nails at sea except in a storm — hence the fury when Encolpius and Giton are shaved on board. Anchored to the ship-custom stated as a general rule; short answer supported verbatim. A named nautical superstition, shared maritime culture.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 105",
+      "source_text": "Itaque ut Tutela navis expiaretur, placuit quadragenas utrique plagas imponi.",
+      "question": "Quot plagas Encolpio et Gitoni in nave Lichae imponi placuit, ut Tutela navis expiaretur?",
+      "answer": "Quadragenas.",
+      "question_en": "How many lashes each were to be laid on Encolpius and Giton aboard Lichas' ship, to expiate the ship's guardian deity?",
+      "answer_en": "Forty apiece.",
+      "derivation": "Forty lashes each to appease the ship's Tutela after the hair-cutting sacrilege. Anchored to the named ship of Lichas; single number supported verbatim; the Tutela (guardian deity of a ship) is real nautical religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 108",
+      "source_text": "aegre expugnavit gubernator ut caduceatoris more Tryphaena indutias faceret. Data ergo acceptaque ex more patrio fide, protendit ramum oleae a Tutela navigii raptum.",
+      "question": "Cuius arboris ramum Tryphaena protendit, cum in nave indutias caduceatoris more faceret?",
+      "answer": "Oleae.",
+      "question_en": "The branch of what tree did Tryphaena hold out when she made a truce, herald-fashion, on the ship?",
+      "answer_en": "Of the olive.",
+      "derivation": "The olive branch, snatched from the ship's Tutela, extended as the sign of truce 'in the manner of a herald'. Anchored to the named Tryphaena; single-tree answer supported verbatim. The olive as peace-token is shared ancient culture attested here.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 111",
+      "source_text": "Matrona quaedam Ephesi tam notae erat pudicitiae, ut vicinarum quoque gentium feminas ad spectaculum sui evocaret.",
+      "question": "Qua virtute matrona illa Ephesi, de qua Eumolpus fabulam celeberrimam narrat, imprimis nota erat?",
+      "answer": "Pudicitia.",
+      "question_en": "For what virtue was the matron of Ephesus, about whom Eumolpus tells his most famous tale, especially renowned?",
+      "answer_en": "For her chastity.",
+      "derivation": "The opening fact of the Widow of Ephesus tale: her chastity was so famous that women came from neighboring lands to see her. Anchored to the matron of Ephesus (a canonical story); single answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 111",
+      "source_text": "complorataque singularis exempli femina ab omnibus quintum iam diem sine alimento trahebat. ... cum interim imperator provinciae latrones iussit crucibus affigi secundum illam casulam, in qua recens cadaver matrona deflebat.",
+      "question": "Quos imperator provinciae iuxta conditorium matronae Ephesiae crucibus affigi iussit?",
+      "answer": "Latrones.",
+      "question_en": "Whom did the governor of the province order crucified next to the tomb-vault of the matron of Ephesus?",
+      "answer_en": "Robbers.",
+      "derivation": "The crucified robbers beside the widow's tomb — the plot hinge of the celebrated tale, and an attestation of crucifixion of latrones with a soldier posted to prevent removal of the bodies. Anchored to the matron of Ephesus; single answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 111-112",
+      "source_text": "Proxima ergo nocte, cum miles, qui cruces asservabat, ne quis ad sepulturam corpus detraheret, notasset sibi lumen inter monumenta clarius fulgens ... Quibus blanditiis impetraverat miles ut matrona vellet vivere, iisdem etiam pudicitiam eius aggressus est.",
+      "question": "Quis matronam Ephesiam in conditorio lugentem et cibum sumere et amori suo cedere persuasit?",
+      "answer": "Miles, qui cruces asservabat.",
+      "question_en": "Who persuaded the mourning matron of Ephesus in the tomb both to take food and to yield to his love?",
+      "answer_en": "The soldier who was guarding the crosses.",
+      "derivation": "The soldier of the Ephesus tale: posted to guard the crosses, he wins the widow first to food, then to love. Anchored to the matron of Ephesus; single answer supported verbatim. The story's celebrated core.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 112",
+      "source_text": "Itaque unius cruciarii parentes ut viderunt laxatam custodiam, detraxere nocte pendentem supremoque mandaverunt officio. ... iubet ex arca corpus mariti sui tolli atque illi, quae vacabat, cruci affigi.",
+      "question": "Quid matrona Ephesia de corpore mariti sui fieri iussit, cum corpus unius cruciarii a parentibus subductum esset?",
+      "answer": "Ex arca tolli et vacanti cruci affigi.",
+      "question_en": "What did the matron of Ephesus order done with her husband's body when the corpse of one of the crucified men had been stolen by his relatives?",
+      "answer_en": "To be taken from the coffin and fastened to the empty cross.",
+      "derivation": "The famous denouement: the widow gives her husband's corpse to replace the stolen one on the cross — 'malo mortuum impendere quam vivum occidere.' Anchored to the matron of Ephesus; short answer supported verbatim. The story's punchline is canonical ambient knowledge.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 112",
+      "source_text": "Usus est miles ingenio prudentissimae feminae, posteroque die populus miratus est qua ratione mortuus isset in crucem.",
+      "question": "Quid populus postero die miratus est, cum fabula matronae Ephesiae finitur?",
+      "answer": "Qua ratione mortuus in crucem isset.",
+      "question_en": "What did the people marvel at the next day, at the close of the tale of the matron of Ephesus?",
+      "answer_en": "How a dead man had climbed onto the cross.",
+      "derivation": "The closing line of the Widow of Ephesus: the town wonders how a dead man got up on the cross. Anchored to the famous tale; the short answer is its verbatim final point.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 116",
+      "source_text": "donec a vilico quodam Crotona esse cognovimus, urbem antiquissimam et aliquando Italiae primam.",
+      "question": "Quae urbs apud Petronium antiquissima et aliquando Italiae prima appellatur, in quam naufragi perveniunt?",
+      "answer": "Crotona.",
+      "question_en": "Which city is called in Petronius 'most ancient and once the first of Italy', where the shipwrecked party arrives?",
+      "answer_en": "Croton.",
+      "derivation": "Croton, 'urbs antiquissima et aliquando Italiae prima' — the historical Greek city of southern Italy, setting of the legacy-hunter episode. Anchored to the named city; single-name answer supported verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Petronius, Satyricon 116",
+      "source_text": "quoscunque homines in hac urbe videritis, scitote in duas partes esse divisos. Nam aut captantur aut captant. In hac urbe nemo liberos tollit, quia quisquis suos heredes habet, non ad cenas, non ad spectacula admittitur, sed omnibus prohibetur commodis, inter ignominiosos latitat.",
+      "question": "In quas duas partes homines Crotoniatae apud Petronium divisi esse dicuntur?",
+      "answer": "Aut captantur aut captant.",
+      "question_en": "Into what two classes are the people of Croton said in Petronius to be divided?",
+      "answer_en": "Those who are preyed upon (by legacy-hunters) and those who prey.",
+      "derivation": "The vilicus' famous description of Croton: everyone is either captator or prey, and no one rears children because heirs disqualify a man from dinners and favors. Anchored to Croton; two-part answer supported verbatim. Legacy-hunting (captatio) is a stock Roman social institution.",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 117",
+      "source_text": "Itaque ut duraret inter omnes tutum mendacium, in verba Eumolpi sacramentum iuravimus: uri, vinciri, verberari ferroque necari, et quicquid aliud Eumolpus iussisset. Tanquam legitimi gladiatores domino corpora animasque religiosissime addicimus.",
+      "question": "Quibus verbis gladiatorii sacramenti Encolpius sociique in verba Eumolpi apud Petronium iuraverunt?",
+      "answer": "Vri, vinciri, verberari ferroque necari.",
+      "question_en": "In what words of the gladiatorial oath did Encolpius and his companions swear allegiance to Eumolpus in Petronius?",
+      "answer_en": "'To be burned, bound, beaten, and slain by the sword.'",
+      "derivation": "The auctoramentum, the real gladiator's oath ('uri, vinciri, verberari ferroque necari'), sworn 'like true gladiators' to Eumolpus. Anchored to the named characters + the gladiatorial institution; the formula is quoted verbatim and is core spectacle-culture knowledge.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Petronius, Satyricon 118",
+      "source_text": "Homerus testis et lyrici, Romanusque Vergilius et Horatii curiosa felicitas.",
+      "question": "Cuius poetae 'curiosam felicitatem' Eumolpus apud Petronium laudat?",
+      "answer": "Horatii.",
+      "question_en": "Whose 'studied felicity' does Eumolpus praise in Petronius?",
+      "answer_en": "Horace's.",
+      "derivation": "The famous critical tag 'Horatii curiosa felicitas' — Petronius' phrase about Horace that became a standard judgment in literary history. Anchored to the named Horace; single-name answer supported verbatim. A crisp checkable fact from the poetics chapter (the rest of the theory is dropped).",
+      "category": "historia"
+    },
+    {
+      "locus": "Petronius, Satyricon 120",
+      "source_text": "Crassum Parthus habet, Libyco iacet aequore Magnus, Iulius ingratam perfudit sanguine Romam, et quasi non posset tot tellus ferre sepulcra, divisit cineres.",
+      "question": "Vbi, secundum carmen de bello civili apud Petronium, tres illi duces — Crassus, Magnus, Iulius — sepulti iacent?",
+      "answer": "Crassus apud Parthos, Pompeius in Libyco aequore, Caesar Romae.",
+      "question_en": "Where, according to the civil-war poem in Petronius, do the three great leaders — Crassus, Pompey, and Julius — lie buried?",
+      "answer_en": "Crassus among the Parthians, Pompey on the Libyan shore, Caesar at Rome.",
+      "derivation": "The poem's epigram on the triumvirs' scattered graves: Parthia holds Crassus, Magnus lies on the Libyan sea, Julius drenched Rome with his blood — the earth 'divided their ashes'. Anchored to three named principals; supported verbatim. Famous shared history in a quotable form (the one crisp fact kept from the Bellum civile inset).",
+      "category": "historia"
+    },
+    {
+      "locus": "Petronius, Satyricon 126",
+      "source_text": "Ex hac nota domina est mea; usque ab orchestra quattuordecim transilit, et in extrema plebe quaerit quod diligat.",
+      "question": "Quot ordines ab orchestra transilire dicitur Circe, cum in extrema plebe amatores quaereret?",
+      "answer": "Quattuordecim.",
+      "question_en": "How many rows from the orchestra is Circe said to leap over when seeking lovers among the lowest commons?",
+      "answer_en": "Fourteen.",
+      "derivation": "Chrysis on her mistress: she 'jumps the fourteen rows' — the fourteen rows of theater seats reserved for the equites by the lex Roscia. Anchored to the named Circe; single number supported verbatim. The XIV ordines are canonical Roman civic culture.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 127",
+      "source_text": "Ita, inquit, non dixit tibi ancilla mea Circen me vocari? Non sum quidem Solis progenies, nec mea mater, dum placet, labentis mundi cursum detinuit.",
+      "question": "Quo nomine matrona illa Crotoniensis vocabatur, quae Polyaenum (Encolpium) in platanona adamavit?",
+      "answer": "Circe.",
+      "question_en": "What was the name of the lady of Croton who fell in love with 'Polyaenus' (Encolpius) in the plane-tree grove?",
+      "answer_en": "Circe.",
+      "derivation": "The Croton episode's heroine Circe, paired with Encolpius' alias Polyaenus (both names from the Odyssey: 'Circe loves Polyaenus'). Anchored to the named characters; single-name answer supported verbatim. The Homeric name-play is part of the novel's celebrated design.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 131",
+      "source_text": "Hoc peracto carmine ter me iussit expuere terque lapillos conicere in sinum, quos ipsa praecantatos purpura involuerat.",
+      "question": "Quotiens anus illa apud Petronium Encolpium expuere et lapillos praecantatos in sinum conicere iussit?",
+      "answer": "Ter.",
+      "question_en": "How many times did the old woman in Petronius order Encolpius to spit and to cast the charmed pebbles into his breast?",
+      "answer_en": "Three times.",
+      "derivation": "The healing charm of Proselenos: threefold spitting and thrice-thrown enchanted pebbles wrapped in purple. Anchored to the named episode; single number supported verbatim. Triple ritual actions and spitting against harm are shared Roman magic-lore.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 137",
+      "source_text": "Scelerate, inquit, etiam loqueris? Nescis quam magnum flagitium admiseris: occidisti Priapi delicias, anserem omnibus matronis acceptissimum.",
+      "question": "Cuius dei delicias Encolpius occidisse dicitur, cum anserem sacrum ad casam Oenotheae elisit?",
+      "answer": "Priapi.",
+      "question_en": "Whose divine pet is Encolpius said to have killed when he struck down the sacred goose at Oenothea's cottage?",
+      "answer_en": "Priapus'.",
+      "derivation": "The slain sacred goose is 'Priapi delicias' — Priapus, whose wrath drives the whole novel, here in his cult at Oenothea's shrine. Anchored to the named god + episode; single-name answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 137",
+      "source_text": "Quisquis habet nummos, secura naviget aura fortunamque suo temperet arbitrio. ... Multa loquor: quod vis, nummis praesentibus opta, et veniet. Clausum possidet arca Iovem.",
+      "question": "Quis, secundum versus illos apud Petronium, secura aura navigat et fortunam suo arbitrio temperat?",
+      "answer": "Quisquis nummos habet.",
+      "question_en": "Who, according to the famous verses in Petronius, sails with a favoring breeze and orders fortune at his own pleasure?",
+      "answer_en": "Whoever has money.",
+      "derivation": "The money-epigram 'Quisquis habet nummos, secura naviget aura' ending 'Clausum possidet arca Iovem' — a proverbial statement of cash omnipotence. Anchored to Petronius' celebrated verses; the answer is their verbatim subject and the point survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 141",
+      "source_text": "Omnes, qui in testamento meo legata habent, praeter libertos meos hac condicione percipient quae dedi, si corpus meum in partes conciderint et astante populo comederint.",
+      "question": "Qua condicione legatarii testamenti Eumolpi apud Crotoniatas legata sua percepturi erant?",
+      "answer": "Si corpus eius concisum astante populo comedissent.",
+      "question_en": "On what condition were the legatees of Eumolpus' will at Croton to receive their legacies?",
+      "answer_en": "If they cut up his corpse and ate it before the assembled people.",
+      "derivation": "The novel's notorious ending: Eumolpus' will requires his legacy-hunters to eat his body in public to inherit. Anchored to Eumolpus + Croton's captatores; short answer supported verbatim. The cannibal-will is canonical ambient knowledge of the Satyricon.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 141",
+      "source_text": "Quod si exemplis vis quoque probari consilium, Saguntini oppressi ab Hannibale humanas edere carnes, nec hereditatem expectabant. ... Cum esset Numantia a Scipione capta, inventae sunt matres, quae liberorum suorum tenerent semesa in sinu corpora.",
+      "question": "Qui populus, ab Hannibale oppressus, humanas carnes edisse apud Petronium memoratur?",
+      "answer": "Saguntini.",
+      "question_en": "What people, besieged by Hannibal, are recalled in Petronius as having eaten human flesh?",
+      "answer_en": "The Saguntines.",
+      "derivation": "The historical exempla cited to justify the cannibal will: Saguntum under Hannibal, Petelia, and Numantia taken by Scipio. Anchored to the named Saguntines + Hannibal; single-name answer supported verbatim. Saguntum's famine is celebrated shared history.",
+      "category": "historia"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 9",
+      "source_text": "Cum ego proclamarem, gladium strinxit et 'Si Lucretia es, inquit, Tarquinium invenisti'.",
+      "question": "Quibus verbis Ascyltos, gladio stricto, Gitonem reluctantem apud Petronium compellavit?",
+      "answer": "Si Lucretia es, Tarquinium invenisti.",
+      "question_en": "With what words did Ascyltos, sword drawn, address the resisting Giton in Petronius?",
+      "answer_en": "'If you are Lucretia, you have found your Tarquin.'",
+      "derivation": "The famous quip turning the Lucretia-Tarquin story into a threat. Anchored to the named Ascyltos + Giton; the answer is the verbatim mot, and its point rests on the canonical shared story of Lucretia and Tarquin (mythos/historia every Roman carried).",
+      "category": "historia"
+    },
+    {
+      "locus": "Petronius, Satyricon 43",
+      "source_text": "Datum est cui datum est, non cui destinatum. Plane Fortunae filius. In manu illius plumbum aurum fiebat.",
+      "question": "Quo cognomine Phileros apud Petronium hominem appellat, in cuius manu plumbum aurum fiebat?",
+      "answer": "Fortunae filium.",
+      "question_en": "By what nickname does Phileros in Petronius call the man in whose hand lead turned to gold?",
+      "answer_en": "A 'son of Fortune'.",
+      "derivation": "The proverbial label Fortunae filius (cf. Horace) with its pendant image 'in manu illius plumbum aurum fiebat'. Anchored to the named speaker at the Cena; short answer supported verbatim; the expression is a shared Latin saying.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 44",
+      "source_text": "Nunc populus est domi leones, foras vulpes.",
+      "question": "Quo proverbio Ganymedes apud Petronium populum coloniae suae describit?",
+      "answer": "Domi leones, foras vulpes.",
+      "question_en": "With what proverb does Ganymedes in Petronius describe the people of his town?",
+      "answer_en": "'Lions at home, foxes abroad.'",
+      "derivation": "The preserved saying 'domi leones, foras vulpes' — bold at home, cowardly outside. Anchored to the named speaker; the proverb is the verbatim answer and its point survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 45",
+      "source_text": "Quid servus peccavit, qui coactus est facere? Magis illa matella digna fuit quam taurus iactaret. Sed qui asinum non potest, stratum caedit.",
+      "question": "Quod proverbium Echion profert de Glycone, qui servum pro uxore adultera punivit?",
+      "answer": "Qui asinum non potest, stratum caedit.",
+      "question_en": "What proverb does Echion quote about Glyco, who punished the slave instead of his adulterous wife?",
+      "answer_en": "'He who cannot beat the donkey beats the saddle.'",
+      "derivation": "The proverb of misdirected punishment, preserved verbatim in Echion's speech about Glyco's steward. Anchored to the named Glyco affair; the saying is the answer and survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 57",
+      "source_text": "Tu autem tam laboriosus es, ut post te non respicias! In alio peduclum vides, in te ricinum non vides.",
+      "question": "Quod proverbium de vitiis alienis et suis Hermeros in Ascylton ridentem torquet?",
+      "answer": "In alio peduclum vides, in te ricinum non vides.",
+      "question_en": "What proverb about other people's faults and one's own does Hermeros hurl at the laughing Ascyltos?",
+      "answer_en": "'You see the louse on another, but not the tick on yourself.'",
+      "derivation": "The mote-and-beam-type proverb in its Latin popular form, preserved verbatim in Hermeros' tirade. Anchored to the named speakers; the saying is the answer; the point survives translation.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Petronius, Satyricon 28",
+      "source_text": "Super limen autem cavea pendebat aurea in qua pica varia intrantes salutabat.",
+      "question": "Quae avis, in cavea aurea super limen pendens, intrantes in domum Trimalchionis salutabat?",
+      "answer": "Pica varia.",
+      "question_en": "What bird, hanging in a golden cage over the threshold, greeted those entering Trimalchio's house?",
+      "answer_en": "A spotted magpie.",
+      "derivation": "The talking magpie in a golden cage greeting guests at the door — part of the celebrated entrance sequence (with the CAVE CANEM dog). Anchored to Trimalchio's house; single-bird answer supported verbatim. Kept birds greeting visitors are Roman daily-life culture.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 31",
+      "source_text": "Tandem ergo discubuimus, pueris Alexandrinis aquam in manus nivatam infundentibus.",
+      "question": "Qualem aquam pueri Alexandrini in manus convivarum Trimalchionis discumbentium infuderunt?",
+      "answer": "Nivatam (nive refrigeratam).",
+      "question_en": "What kind of water did the Alexandrian boys pour over the hands of Trimalchio's reclining guests?",
+      "answer_en": "Snow-chilled water.",
+      "derivation": "Snow-cooled water (aqua nivata) for the hand-washing at table, poured by Alexandrian slave boys — Roman luxury dining practice. Anchored to Trimalchio's cena; single answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 35",
+      "source_text": "In medio autem caespes cum herbis excisus favum sustinebat.",
+      "question": "Quid in medio repositorio zodiaco Trimalchionis super caespitem positum erat?",
+      "answer": "Favus (mellis).",
+      "question_en": "What was placed on the cut turf in the middle of Trimalchio's zodiac dish?",
+      "answer_en": "A honeycomb.",
+      "derivation": "The center of the zodiac dish: a turf of grass bearing a honeycomb — glossed by Trimalchio himself (39: the earth like an egg in the middle, holding all good things 'tanquam favus'). Anchored to the famous zodiac repositorium; single answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Petronius, Satyricon 50",
+      "source_text": "Cum Ilium captum est, Hannibal, homo vafer et magnus stelio, omnes statuas aeneas et aureas et argenteas in unum rogum congessit et eas incendit; factae sunt in unum aera miscellanea.",
+      "question": "Quis, ut Trimalchio perperam docet, Ilio capto statuas aeneas aureas argenteasque in unum rogum congessit, unde Corinthea nata sint?",
+      "answer": "Hannibal.",
+      "question_en": "Who, as Trimalchio wrongly teaches, heaped the bronze, gold, and silver statues onto one pyre at the capture of Troy, whence Corinthian bronze was born?",
+      "answer_en": "Hannibal.",
+      "derivation": "Trimalchio's celebrated historical howler: Hannibal at the sack of Troy melting the statues into 'Corinthian' alloy. Anchored to Trimalchio + the named Hannibal; single-name answer supported verbatim; the question's 'perperam' frames it as his claim. The real aetiology (the sack of Corinth) makes the blunder the famous point.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 59",
+      "source_text": "Diomedes et Ganymedes duo fratres fuerunt. Horum soror erat Helena. Agamemnon illam rapuit et Dianae cervam subiecit.",
+      "question": "Quorum duorum fratrum sororem Helenam fuisse Trimalchio, fabulas perturbans, affirmat?",
+      "answer": "Diomedis et Ganymedis.",
+      "question_en": "Of which two 'brothers' does Trimalchio, garbling the myths, declare Helen to have been the sister?",
+      "answer_en": "Of Diomedes and Ganymedes.",
+      "derivation": "Trimalchio's famous mythological muddle introducing the Homeristae: Helen the sister of 'Diomedes and Ganymedes', seized by Agamemnon who palmed off a doe on Diana. Anchored to Trimalchio + named figures; two-name answer supported verbatim; the garbling itself is the celebrated point (the real brothers being Castor and Pollux).",
+      "category": "mores"
+    }
+,
+    {
+      "locus": "Petronius, Satyricon 76",
+      "source_text": "Ceterum, quemadmodum di volunt, dominus in domo factus sum, et ecce cepi ipsimi cerebellum. Quid multa? coheredem me Caesari fecit, et accepi patrimonium laticlavium.",
+      "question": "Cum quo Trimalchio a patrono suo coheres testamento factus est?",
+      "answer": "Cum Caesare.",
+      "question_en": "With whom was Trimalchio made co-heir in his patron's will?",
+      "answer_en": "With Caesar (the emperor).",
+      "derivation": "Trimalchio's master made him co-heir with the emperor — 'coheredem me Caesari fecit' — the origin of his 'senatorial' fortune (patrimonium laticlavium). Anchored to Trimalchio; single answer supported verbatim. Naming Caesar co-heir was real Roman testamentary prudence.",
+      "category": "ius"
+    },
+    {
+      "locus": "Petronius, Satyricon 102",
+      "source_text": "Quidni? inquit Giton, etiam circumcide nos, ut Iudaei videamur, et pertunde aures, ut imitemur Arabes, et increta facies, ut suos Gallia cives putet.",
+      "question": "Quo corporis signo Iudaei apud Petronium distingui dicuntur, cum Giton fugae consilia deridet?",
+      "answer": "Circumcisione.",
+      "question_en": "By what bodily mark are the Jews said to be distinguished in Petronius, when Giton mocks the escape plans?",
+      "answer_en": "By circumcision.",
+      "derivation": "Giton's mock-disguise catalogue attests the shared ethnographic markers: circumcision for Jews, pierced ears for Arabs, chalked faces for Gauls. Anchored to the named peoples; single answer supported verbatim. Ethnic-custom knowledge every Roman carried.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 133",
+      "source_text": "Ibit ad aras, Sancte, tuas hircus, pecoris pater; ibit ad aras corniger et querulae fetus suis, hostia lactens.",
+      "question": "Quam hostiam praecipuam Encolpius Priapo, si fortuna arrisisset, ad aras se daturum vovit?",
+      "answer": "Hircum, pecoris patrem.",
+      "question_en": "What chief victim did Encolpius vow to bring to Priapus' altars, should fortune smile on him?",
+      "answer_en": "A he-goat, father of the flock.",
+      "derivation": "Encolpius' votive prayer to Priapus promises the god's canonical victim, the goat (with a suckling pig). Anchored to Priapus + Encolpius; short answer supported verbatim. The goat as Priapus' sacrifice is shared cult knowledge.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 30",
+      "source_text": "duae tabulae in utroque poste defixae, quarum altera, si bene memini, hoc habebat inscriptum: III ET PRIDIE KALENDAS IANVARIAS C. NOSTER FORAS CENAT, altera lunae cursum stellarumque septem imagines pictas; et qui dies boni quique incommodi essent, distinguente bulla notabantur.",
+      "question": "Quid altera tabula in poste triclinii Trimalchionis defixa pictum habebat?",
+      "answer": "Lunae cursum stellarumque septem imagines, distinctis bulla diebus bonis et incommodis.",
+      "question_en": "What did the second tablet fixed on Trimalchio's dining-room doorpost display?",
+      "answer_en": "The course of the moon and images of the seven stars (planets), with lucky and unlucky days marked by studs.",
+      "derivation": "The household calendar-tablet: moon's course, the seven planets, and dies boni/incommodi marked with studs — Roman hemerology on display. Anchored to Trimalchio's triclinium; short answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 38",
+      "source_text": "Itaque proxime cum hoc titulo proscripsit: C. POMPEIVS DIOGENES EX KALENDIS IVLIIS CENACVLVM LOCAT; IPSE ENIM DOMVM EMIT.",
+      "question": "Cur C. Pompeius Diogenes, ut titulus apud Petronium testatur, cenaculum suum ex kalendis Iuliis locabat?",
+      "answer": "Quia ipse domum emerat.",
+      "question_en": "Why, as the posted notice in Petronius attests, was C. Pompeius Diogenes letting his garret from the first of July?",
+      "answer_en": "Because he had bought a house himself.",
+      "derivation": "The freedman's triumphant to-let notice: garret available from 1 July — 'for he has bought a house.' Anchored to the named C. Pompeius Diogenes; the reason is quoted verbatim. Rental culture (cenacula, July moving day) plus freedman social climbing.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 38",
+      "source_text": "Sed quomodo dicunt — ego nihil scio, sed audivi — quom Incuboni pilleum rapuisset, et thesaurum invenit.",
+      "question": "Quid, ut vulgo apud Petronium narratur, invenit qui Incuboni pilleum rapuit?",
+      "answer": "Thesaurum.",
+      "question_en": "What, as the popular story in Petronius has it, did the man find who snatched the cap of an Incubo?",
+      "answer_en": "A treasure.",
+      "derivation": "The folk-belief that seizing the cap of an Incubo (a treasure-guarding goblin) yields his treasure, told of a rich fellow freedman. Anchored to the named Incubo of Roman folklore; single answer supported verbatim. Shared superstition, criterion 8's core.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Petronius, Satyricon 53",
+      "source_text": "Eodem die: Mithridates servus in crucem actus est, quia Gai nostri genio male dixerat.",
+      "question": "Quam ob causam Mithridates servus, ut in actis Trimalchionis recitatum est, in crucem actus est?",
+      "answer": "Quia genio Gai (Trimalchionis) male dixerat.",
+      "question_en": "For what reason, as read out in Trimalchio's estate gazette, was the slave Mithridates crucified?",
+      "answer_en": "Because he had cursed the genius of Gaius (Trimalchio).",
+      "derivation": "From the estate acta: the slave Mithridates crucified for cursing his master's genius. Anchored to the named slave + Trimalchio; the reason is quoted verbatim. The cult of the master's genius (sworn by, not cursed) is central Roman household religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Petronius, Satyricon 64",
+      "source_text": "Puer autem lippus, sordidissimis dentibus, catellam nigram atque indecenter pinguem prasina involuebat fascia ... Scylax, canino scilicet usus ingenio, taeterrimo latratu triclinium implevit Margaritamque Croesi paene laceravit.",
+      "question": "Quo nomine catella nigra Croesi, deliciarum Trimalchionis, vocabatur?",
+      "answer": "Margarita.",
+      "question_en": "What was the name of the black lapdog belonging to Croesus, Trimalchio's pet boy?",
+      "answer_en": "Margarita ('Pearl').",
+      "derivation": "The lapdog Margarita, wrapped by Croesus in a green ribbon and nearly torn apart by Scylax. Anchored to the named Croesus + Trimalchio's household; single-name answer supported verbatim. Pet-keeping culture of the Cena.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 68",
+      "source_text": "Desperatum valde ingeniosus est: idem sutor est, idem cocus, idem pistor, omnis Musae mancipium. Duo tamen vitia habet, quae si non haberet, esset omnium numerum: recutitus est et stertit. ... Illum emi trecentis denariis.",
+      "question": "Quanti Habinnas servum illum omnis Musae mancipium, qui Vergilium tam acide cantaverat, emisse se dixit?",
+      "answer": "Trecentis denariis.",
+      "question_en": "For how much did Habinnas say he had bought that jack-of-all-trades slave who had recited Vergil so sourly?",
+      "answer_en": "For three hundred denarii.",
+      "derivation": "Habinnas' price for his multi-talented slave: 300 denarii. Anchored to the named Habinnas; single sum supported verbatim. Slave prices are hard cultural realia; the scene (a slave mangling Aeneid 5.1 with Atellane verses) is a famous set piece.",
+      "category": "mores"
+    },
+    {
+      "locus": "Petronius, Satyricon 111",
+      "source_text": "complorataque singularis exempli femina ab omnibus quintum iam diem sine alimento trahebat.",
+      "question": "Quotum iam diem sine alimento matrona Ephesia in conditorio mariti lugens trahebat, cum miles eam invenit?",
+      "answer": "Quintum.",
+      "question_en": "Which day without food was the matron of Ephesus dragging through, mourning in her husband's vault, when the soldier found her?",
+      "answer_en": "The fifth.",
+      "derivation": "The widow's five-day fast in the tomb — the number fact of the celebrated tale. Anchored to the matron of Ephesus; single ordinal answer supported verbatim.",
+      "category": "mythos"
+    }
+  ]}
