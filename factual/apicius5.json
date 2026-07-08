@@ -1,0 +1,197 @@
+{
+  "source": "text/apicius/apicius5.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber V (Ospreon)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 5.1.1",
+      "source_text": "PULTES IULIANAE SIC COQUUNTUR. Alicam purgatam infundis, coques, facies ut ferveat. cum ferbuerit, oleum mittis.",
+      "question": "Ex quo frumento pultes Iulianae apud Apicium coquuntur?",
+      "answer": "Ex alica.",
+      "question_en": "From what grain are the pultes Iulianae (Julian porridge) cooked in Apicius?",
+      "answer_en": "From alica (emmer grits).",
+      "derivation": "The pultes Iulianae - the name-bearing version of puls, the ancestral Roman porridge - are built on cleaned alica. Named dish plus staple grain; alicam purgatam infundis verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.1.1",
+      "source_text": "cum spissaverit, lias diligenter. adicies cerebella duo cocta et selibram pulpae quasi ad isicia liatae, cum cerebellis teres et in caccabum mittis.",
+      "question": "Quot cerebella cocta in pultes Iulianas apud Apicium adiciuntur?",
+      "answer": "Duo.",
+      "question_en": "How many cooked brains are added to the pultes Iulianae in Apicius?",
+      "answer_en": "Two.",
+      "derivation": "The Julian porridge is enriched with two cooked brains and half a pound of pounded meat. Clean number fact for a named dish; cerebella duo cocta verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.1.2",
+      "source_text": "PULTES CUM IURE OENOCOCTI. Pultes oenococti iure condies, copadia, similam sive alicam coctam hoc iure condies, et cum copadiis porcinis adponis oenococti iure conditis.",
+      "question": "Cum quibus copadiis pultes iure oenococti conditae apud Apicium adponuntur?",
+      "answer": "Cum copadiis porcinis.",
+      "question_en": "With what pieces of meat is the porridge dressed in wine-cooked sauce served in Apicius?",
+      "answer_en": "With pieces of pork.",
+      "derivation": "Pultes with oenococtum sauce come to table with pork copadia dressed in the same sauce. Named preparation; cum copadiis porcinis verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.1.3",
+      "source_text": "PULTES TRACTOGALATAE. Lactis sextarium et aquae modicum mittes in caccabo novo et lento igni ferveat. tres orbiculos tractae siccas et confringis et partibus in lac summittis.",
+      "question": "In quo liquore pultes tractogalatae apud Apicium coquuntur?",
+      "answer": "In lacte.",
+      "question_en": "In what liquid are the pultes tractogalatae cooked in Apicius?",
+      "answer_en": "In milk.",
+      "derivation": "The pultes tractogalatae - pastry-and-milk porridge, as the Greek name (tracta + gala) says - simmer broken tracta in a sextarius of milk, finished with honey. Named dish; lactis sextarium verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.1.3",
+      "source_text": "tres orbiculos tractae siccas et confringis et partibus in lac summittis. ne uratur, aquam miscendo agitabis.",
+      "question": "Quot orbiculi tractae in lac ad pultes tractogalatas apud Apicium summittuntur?",
+      "answer": "Tres.",
+      "question_en": "How many rounds of tracta pastry are dropped into the milk for the pultes tractogalatae in Apicius?",
+      "answer_en": "Three.",
+      "derivation": "The measure of the dish: three dried rounds of tracta, broken piecemeal into the milk. Number fact for a named dish; tres orbiculos tractae verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.2.2",
+      "source_text": "LENTICULAM DE CASTANEIS. Accipies caccabum novum, et castaneas purgatas diligenter mittis. Adicies aquam et nitrum modice, facies ut coquatur.",
+      "question": "Quod legumen castaneae apud Apicium imitantur?",
+      "answer": "Lenticulam.",
+      "question_en": "What legume do chestnuts stand in for in Apicius?",
+      "answer_en": "The lentil.",
+      "derivation": "The rubric lenticula de castaneis names a mock dish: chestnuts cooked and dressed as 'lentils'. A celebrated Apician substitution, closed-book from the dish's name and nature; castaneas purgatas verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.3.2",
+      "source_text": "Angularem accipies, qui versari potest, et omentis tegis.",
+      "question": "Quo vase pisa farsilis apud Apicium componitur?",
+      "answer": "Angulari, qui versari potest.",
+      "question_en": "In what vessel is the layered pea dish (pisa farsilis) assembled in Apicius?",
+      "answer_en": "In an angularis (square mold) that can be turned out.",
+      "derivation": "The pisa farsilis - the great layered pea timbale with thrushes, lucanicae, ham and brains - is built in an angularis lined with caul, then turned out. Named dish plus its named vessel; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.3.2",
+      "source_text": "ova dura facies, vitella eicies, in mortario mittis cum pipere albo, nucleis, melle, vino candido et liquamine modico. teres et mittis in vas ut ferveat. cum ferbuerit, pisam mittis in lancem, et hoc iure perfundis. hoc ius candidum appellatur.",
+      "question": "Quod nomen habet ius ex vitellis, pipere albo, nucleis, melle et vino candido, quo pisa farsilis apud Apicium perfunditur?",
+      "answer": "Ius candidum.",
+      "question_en": "What is the name of the sauce of egg yolks, white pepper, nuts, honey, and white wine poured over the pisa farsilis in Apicius?",
+      "answer_en": "Ius candidum (the white sauce).",
+      "derivation": "The text itself names the sauce: hoc ius candidum appellatur. A named sauce of the Roman repertoire, checkable by name; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.3.3",
+      "source_text": "PISUM INDICUM. Pisum coques. cum despumaverit, porrum et coriandrum concidis et mittis in caccabum ut ferveat. et accipies sepias minutas, sic quomodo sunt cum atramento suo, ut simul coquantur.",
+      "question": "Quae animalia marina cum atramento suo in pisum Indicum apud Apicium coquuntur?",
+      "answer": "Sepiae minutae.",
+      "question_en": "What sea creatures are cooked with their own ink into the 'Indian peas' of Apicius?",
+      "answer_en": "Small cuttlefish.",
+      "derivation": "Pisum Indicum, the place-named pea dish, gets its dark exotic look from little cuttlefish cooked whole with their ink (cum atramento suo). Named dish; sepias minutas verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.3.5",
+      "source_text": "PISAM VITELLIANAM SIVE FABAM. Pisam coques lias. teres piper, ligusticum, gingiber, et super condimenta mittis vitella ovorum, quae dura coxeris, mellis uncias III, liquamen, vinum et acetum.",
+      "question": "Quae pars ovorum durorum in pisam Vitellianam apud Apicium teritur?",
+      "answer": "Vitella.",
+      "question_en": "What part of the hard-boiled eggs is ground into the pisa Vitelliana in Apicius?",
+      "answer_en": "The yolks.",
+      "derivation": "Pisa Vitelliana - peas in the style of Vitellius - is dressed with the yolks of hard-boiled eggs, three ounces of honey and spices. An emperor-named dish, exactly the hunted insider fact; vitella ovorum verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.3.9",
+      "source_text": "PISAM SIVE FABAM VITELLIANAM. pisam sive fabam coques. cum despumaverit, mittis porrum, coriandrum et flores malvarum.",
+      "question": "Cuius herbae flores in pisam sive fabam Vitellianam apud Apicium mittuntur?",
+      "answer": "Malvarum.",
+      "question_en": "The flowers of what plant go into the Vitellian peas or beans in Apicius?",
+      "answer_en": "Of mallows.",
+      "derivation": "The second Vitellian recipe adds mallow flowers to the pot with leek and coriander - flowers as a checkable, distinctive ingredient of an emperor-named dish. Verbatim (flores malvarum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.4.2",
+      "source_text": "CONCHICLAM APICIANAM. Accipies cumanam mundam, ubi coques pisum, cui mittis lucanicas concisas, isiciola porcina, pulpas, petasonem.",
+      "question": "Quo vase conchicla Apiciana apud Apicium coquitur?",
+      "answer": "Cumana.",
+      "question_en": "In what vessel is the conchicla Apiciana cooked in Apicius?",
+      "answer_en": "In a cumana (Cumaean earthenware pot).",
+      "derivation": "The conchicla bearing Apicius' name - peas with sliced lucanicae, pork forcemeats and ham - is cooked in a cumana, the earthenware pot named for Cumae. Named dish plus place-named vessel; accipies cumanam verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.4.4",
+      "source_text": "CONCHICLA COMMODIANA. Pisam coques. Cum despumaverit, teres piper, ligusticum, anethum, cepam siccam, suffundis liquamen, vino et liquamine temperabis. mittis in caccabum ut combibat. Deinde ova IV solves, in sextarium pisae mittis, agitas, mittis in cumanam, ad ignem ponis, ut ducat, et inferes.",
+      "question": "Quot ova in sextarium pisae in conchicla Commodiana apud Apicium solvuntur?",
+      "answer": "Quattuor.",
+      "question_en": "How many eggs are beaten into a sextarius of peas in the conchicla Commodiana of Apicius?",
+      "answer_en": "Four.",
+      "derivation": "The conchicla Commodiana - named for the emperor Commodus - sets a sextarius of peas with four beaten eggs into a baked custard. Emperor-named dish plus clean number; ova IV verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.4.6",
+      "source_text": "Exossas pullum a pectore, femora eius iungis in porrectum, surculo alligas, et impensam conchicla farsilis paras. et farcies alternis pisam lotam, cerebella, lucanicas et cetera.",
+      "question": "Quibus rebus alternis pullus conchiclatus apud Apicium farcitur?",
+      "answer": "Pisa lota, cerebellis, lucanicis.",
+      "question_en": "With what alternating layers is the conchicla-stuffed chicken filled in Apicius?",
+      "answer_en": "With washed peas, brains, and lucanica sausages.",
+      "derivation": "The conchiclatus pullus: a chicken boned from the breast, tied straight, and stuffed with alternating layers of peas, brains and lucanicae (et cetera), wrapped in caul and baked. Named showpiece dish; the three named fillings verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.6.2",
+      "source_text": "ALITER. Fabaciae frictae ex liquamine inferuntur.",
+      "question": "Quo iure fabaciae frictae apud Apicium inferuntur?",
+      "answer": "Ex liquamine.",
+      "question_en": "With what sauce are fried green beans served in Apicius?",
+      "answer_en": "With liquamen.",
+      "derivation": "Fried fabaciae come to table with liquamen alone - the staple fish sauce as the whole dressing. One-sentence fact, wholly verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.6.4",
+      "source_text": "Baianas elixas minutatim concidis. ruta, apio viridi, porro, aceto, oleo, liquamine, caroeno vel passo modico inferes.",
+      "question": "Quibus herbis fabae Baianae elixae apud Apicium inferuntur?",
+      "answer": "Ruta, apio viridi et porro.",
+      "question_en": "With what herbs are boiled Baian beans served in Apicius?",
+      "answer_en": "With rue, green celery, and leek.",
+      "derivation": "The fabae Baianae - the beans named for Baiae, the luxury resort - are boiled, chopped fine, and dressed with rue, green celery and leek. Place-named foodstuff; the three herbs verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.7",
+      "source_text": "Faenum Graecum ex liquamine, oleo et vino.",
+      "question": "Quibus rebus faenum Graecum apud Apicium infertur?",
+      "answer": "Liquamine, oleo et vino.",
+      "question_en": "With what is fenugreek served in Apicius?",
+      "answer_en": "With liquamen, oil, and wine.",
+      "derivation": "Fenugreek's entire chapter is one clause: dressed with liquamen, oil and wine. Named legume of the Roman diet; the brief verbatim list is the complete answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.8.1",
+      "source_text": "Faseoli virides et cicer ex sale, cumino, oleo et mero modico inferuntur.",
+      "question": "Quibus rebus faseoli virides et cicer apud Apicium inferuntur?",
+      "answer": "Sale, cumino, oleo et mero modico.",
+      "question_en": "With what are green beans and chickpeas served in Apicius?",
+      "answer_en": "With salt, cumin, oil, and a little unmixed wine.",
+      "derivation": "The everyday dressing of the plebeian staples faseoli and cicer: salt, cumin, oil, a little merum. One-sentence fact, wholly verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 5.8.10",
+      "source_text": "et elixati, sumpto semine, cum ovis in patella, feniculo viridi, piper et liquamine et caroeno modico pro salso inferuntur, vel simpliciter, ut solet.",
+      "question": "Pro quo cibo faseoli sive cicer elixati cum ovis et feniculo viridi apud Apicium inferuntur?",
+      "answer": "Pro salso.",
+      "question_en": "In place of what food are boiled beans or chickpeas with eggs and green fennel served in Apicius?",
+      "answer_en": "In place of salt fish.",
+      "derivation": "A substitution fact of the Roman table: legumes dressed with eggs, fennel, pepper, liquamen and caroenum stand in for salsum, the salt-fish course. Verbatim (pro salso inferuntur).",
+      "category": "cibus"
+    }
+  ]
+}

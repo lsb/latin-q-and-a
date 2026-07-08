@@ -1,0 +1,177 @@
+{
+  "source": "text/apicius/apicius2.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber II (Sarcoptes)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 2.1.4",
+      "source_text": "Assas iecur porcinum et eum enervas. Ante tamen teres piper, rutam, liquamen, et sic superinmittis iecur et teres et misces, sicut pulpa omentata, et singula involvuntur folia lauri et ad fumum suspenduntur quamdiu voles.",
+      "question": "Ex cuius animalis iecore omentata apud Apicium fiunt?",
+      "answer": "Ex iecore porcino.",
+      "question_en": "From the liver of what animal are the omentata made in Apicius?",
+      "answer_en": "From pork liver.",
+      "derivation": "The omentata, caul-wrapped forcemeats, are built on roasted pork liver. Named preparation, single-ingredient answer, verbatim (assas iecur porcinum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.1.4",
+      "source_text": "Assas iecur porcinum et eum enervas. Ante tamen teres piper, rutam, liquamen, et sic superinmittis iecur et teres et misces, sicut pulpa omentata, et singula involvuntur folia lauri et ad fumum suspenduntur quamdiu voles.",
+      "question": "Quibus foliis involuta omentata ad fumum apud Apicium suspenduntur?",
+      "answer": "Foliis lauri.",
+      "question_en": "Wrapped in what leaves are the omentata hung in the smoke in Apicius?",
+      "answer_en": "In bay leaves.",
+      "derivation": "The omentata are wrapped one by one in bay leaves and hung in the smoke to cure. Distinctive named practice; folia lauri and ad fumum verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.1.7",
+      "source_text": "Pusilla esicia formabis, intus nucleis et pipere positis. Involuta omento subassabis cum careno.",
+      "question": "Quo involuta isicia omentata apud Apicium subassantur?",
+      "answer": "Omento.",
+      "question_en": "Wrapped in what are the isicia omentata browned in Apicius?",
+      "answer_en": "In caul fat (omentum).",
+      "derivation": "The name-defining fact of the isicia omentata: they are wrapped in omentum (caul fat) and browned with caroenum. Named dish; involuta omento verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.1",
+      "source_text": "Accipies adipes fasiani recentes, praeduras et facis ex eo tessellas, cum pipere, liquamine, careno in isicio includes, ex idrogaro coques et inferes.",
+      "question": "Cuius avis adipes recentes in isiciis plenis apud Apicium includuntur?",
+      "answer": "Fasiani.",
+      "question_en": "The fresh fat of what bird is enclosed inside the 'stuffed' isicia (isicia plena) in Apicius?",
+      "answer_en": "Of the pheasant.",
+      "derivation": "Isicia plena are forcemeats hiding cubes of fresh pheasant fat inside - a luxury-bird fact. Named dish; adipes fasiani recentes verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.2",
+      "source_text": "Teres piper, ligusticum, piretrum minimum, suffundes liquamen; temperas aquam cisterninam, dum inducet; exaninies in caccabo et cum isicia ad vaporem ignis pones et caleat, et sic sorbendum inferes.",
+      "question": "Qua aqua liquamen ad isicia hydrogarata apud Apicium temperatur?",
+      "answer": "Aqua cisternina.",
+      "question_en": "With what water is the liquamen diluted for the hydrogarum forcemeats in Apicius?",
+      "answer_en": "With cistern water.",
+      "derivation": "Hydrogarum - the water-thinned garum broth that gives these isicia their name - is made by tempering liquamen with cistern water. Named preparation; aquam cisterninam verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.5",
+      "source_text": "Ad unum liquaminis acetabulum aquae septem mittes, modicum apii viridis, triti piperis cocleare.",
+      "question": "Quot acetabula aquae ad unum liquaminis acetabulum in isicio simplici apud Apicium mittuntur?",
+      "answer": "Septem.",
+      "question_en": "How many measures of water go to one measure of liquamen in the isicium simplex of Apicius?",
+      "answer_en": "Seven.",
+      "derivation": "The dilution of the staple sauce for the plain isicium: one acetabulum of liquamen to seven of water. Clean number fact, verbatim (aquae septem).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.5",
+      "source_text": "Isiciola incoques et sic ad ventrem solvendum dabis. Idrogaro feces conditi addes.",
+      "question": "Ad quem usum isiciola in hydrogaro cocta apud Apicium dantur?",
+      "answer": "Ad ventrem solvendum.",
+      "question_en": "For what use are the little forcemeats boiled in hydrogarum given in Apicius?",
+      "answer_en": "To loosen the bowels.",
+      "derivation": "Food as medicine: the light isiciola in hydrogarum are prescribed as a laxative (ad ventrem solvendum). Purpose fact with a short verbatim answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.6",
+      "source_text": "Isicia de pavo primum locum habent ita si fricta fuerint ut callum vincant. Item secundum locum habent de fasianis, tem tertium locum habent de cunicuis, tiem quartum locum habent de pullis, item quintum locum habent de porcello tenero.",
+      "question": "Cuius avis isicia primum locum apud Apicium habent?",
+      "answer": "Pavonis.",
+      "question_en": "The forcemeats of which bird hold first place in Apicius?",
+      "answer_en": "The peacock's.",
+      "derivation": "The celebrated ranking of isicia: peacock first, then pheasant, rabbit, chicken, and tender suckling pig. Peacock as the prestige bird of the Roman table; primum locum de pavo verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.6",
+      "source_text": "Isicia de pavo primum locum habent ita si fricta fuerint ut callum vincant. Item secundum locum habent de fasianis, tem tertium locum habent de cunicuis, tiem quartum locum habent de pullis, item quintum locum habent de porcello tenero.",
+      "question": "Quae isicia post pavonina secundum locum apud Apicium habent?",
+      "answer": "Isicia de fasianis.",
+      "question_en": "Which forcemeats hold second place after the peacock's in Apicius?",
+      "answer_en": "Those of pheasant.",
+      "derivation": "Second rank in the same celebrated hierarchy of isicia: pheasant, ahead of rabbit, chicken, and suckling pig. Verifiable single answer, verbatim (secundum locum habent de fasianis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.8",
+      "source_text": "Quod si non fuerit, vel caricarum defritum mittes quod Romani colorem vocant, ac deineps amulum infusum adicies vel orizae sucum et lento igni fervere facias.",
+      "question": "Quo nomine Romani defritum caricarum vocant, ut Apicius tradit?",
+      "answer": "Colorem.",
+      "question_en": "By what name do the Romans call fig defrutum, as Apicius records?",
+      "answer_en": "'Color'.",
+      "derivation": "An insider naming fact of the Roman pantry: the syrup boiled from dried figs is what Romans call color. A checkable name answer that survives translation (it asks what a thing is called); verbatim (quod Romani colorem vocant).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.8",
+      "source_text": "Quod si non fuerit, vel caricarum defritum mittes quod Romani colorem vocant, ac deineps amulum infusum adicies vel orizae sucum et lento igni fervere facias.",
+      "question": "Cuius grani sucus pro amulo ad ius obligandum apud Apicium adhiberi potest?",
+      "answer": "Orizae.",
+      "question_en": "The juice of what grain can serve in place of starch for thickening a sauce in Apicius?",
+      "answer_en": "Of rice.",
+      "derivation": "Rice water as the substitute for amulum (starch) in binding sauces - rice as an exotic thickener in the Roman kitchen. Single-ingredient answer, verbatim (vel orizae sucum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.2.10",
+      "source_text": "Alicam elixa cum nucleis et amigdalis depilatis et in aqua infusis et lotis ex creta argentaria ut ad candorem pariter perducantur. Cui ammiscebis uvam passam, carenum vel passum. Desuper piper confractum asparges et in boletari inferes.",
+      "question": "Ex quo frumento apothermum apud Apicium elixatur?",
+      "answer": "Ex alica.",
+      "question_en": "From what grain preparation is the apothermum boiled in Apicius?",
+      "answer_en": "From alica (emmer grits).",
+      "derivation": "Apothermum, the sweet spoon-dish of grits with pine nuts, skinned almonds, raisins and caroenum or passum, is built on alica - the Roman staple emmer grits. Named dish, base grain verbatim (alicam elixa).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.3.2",
+      "source_text": "BOTELLUM SIC FACIES. Sex ovi vitellis coctis, nucleis pineis concisis caepam, porrum concisum, ius crudum misces, piper minutum, et sic intestinum farcies. Adicies liquamen et vinum, et sic coques.",
+      "question": "Quot vitellis ovorum coctis botellum apud Apicium farcitur?",
+      "answer": "Sex.",
+      "question_en": "With how many cooked egg yolks is the botellum sausage stuffed in Apicius?",
+      "answer_en": "Six.",
+      "derivation": "Botellum, the little stuffed sausage, takes six cooked egg yolks with pine nuts, onion and leek in the casing. Named sausage plus a clean number, verbatim (sex ovi vitellis coctis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.4",
+      "source_text": "Cum liquamine admixto, pipere integro et abundanti pinguedine et nucleis inicies in intestinum perquam tenuatim perductum, et sic ad fumum suspenditur.",
+      "question": "Quo lucanicae confectae apud Apicium suspenduntur?",
+      "answer": "Ad fumum.",
+      "question_en": "Where are the finished lucanicae (Lucanian sausages) hung in Apicius?",
+      "answer_en": "In the smoke.",
+      "derivation": "Lucanicae - the famous sausage named for Lucania - are stuffed into a casing drawn very thin and hung in the smoke to cure. The defining process fact of a celebrated regional food; ad fumum suspenditur verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.4",
+      "source_text": "Lucanicarum confectio teritur piper, cuminum, satureia, ruta, petroselinum, condimentum, bacae lauri, liquamen, et admiscetur pulpa bene tunsa ita ut denuo bene cum ipso subtrito fricetur.",
+      "question": "Quae bacae in confectionem lucanicarum apud Apicium teruntur?",
+      "answer": "Bacae lauri.",
+      "question_en": "What berries are ground into the mixture for the lucanicae in Apicius?",
+      "answer_en": "Bay berries.",
+      "derivation": "Bay berries are the distinctive aromatic pounded into the lucanica mix alongside the pantry staples. Component fact of a famous named sausage; bacae lauri verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.5.2",
+      "source_text": "Farcies intestinum et elixabis, deide cum sale assabis et cum senapi inferes, vel sic concisum in disco.",
+      "question": "Cum quo condimento farcimen ex alica et pulpa apud Apicium infertur?",
+      "answer": "Cum senapi.",
+      "question_en": "With what condiment is the sausage of grits and minced meat served in Apicius?",
+      "answer_en": "With mustard.",
+      "derivation": "The boiled-then-roasted farcimen is brought to table with mustard - sausage and mustard already paired on the Roman table. Single-condiment answer, verbatim (cum senapi inferes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 2.5.4",
+      "source_text": "Reples intestinum inpensam esicii et circellum facies rotundum; fumas. Cum miniaverit, subassas, exornas, oenogaruo fasiani profundas, sed cuminum addes.",
+      "question": "Quo iure circelli isiciati apud Apicium profunduntur?",
+      "answer": "Oenogaro fasiani.",
+      "question_en": "With what sauce are the ring sausages (circelli isiciati) doused in Apicius?",
+      "answer_en": "With pheasant oenogarum.",
+      "derivation": "The circelli - sausage bent into a round ring and smoked - are finished under pheasant oenogarum with added cumin. Named dish plus named sauce; oenogaro fasiani verbatim.",
+      "category": "cibus"
+    }
+  ]
+}

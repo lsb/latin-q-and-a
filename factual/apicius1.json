@@ -1,0 +1,257 @@
+{
+  "source": "text/apicius/apicius1.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber I (Epimeles)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 1.1.2",
+      "source_text": "CONDITUM MELIZOMUM PERPETUUM QUOD SUBMINISTRATUR PER VIAM PEREGRINANTI. Piper tritum cum melle despumto in cupellam mittis conditi loco, et ad momentum quantum sit bibendum, tantum aut mellis proferas aut vini misceas.",
+      "question": "Cui apud Apicium conditum melizomum perpetuum subministratur?",
+      "answer": "Peregrinanti per viam.",
+      "question_en": "For whom, according to Apicius, is the 'everlasting' honey conditum (conditum melizomum perpetuum) supplied?",
+      "answer_en": "For a traveler on the road.",
+      "derivation": "The rubric names the preparation and its purpose: a travel version of the standard Roman aperitif conditum, kept ready for one journeying (per viam peregrinanti). Anchored to Apicius and the named drink; single short answer stated verbatim in the heading.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.2",
+      "source_text": "ABSINTHIUM ROMANUM SIC FACIES. Conditi Camerini praeceptis, utique pro absinthio cessante; in cuius vicem absinthi Pontici purgati terendique unciam, Thebaicam dabis, masticis, folii scripulos III, vini eius modi sextarios XVIII.",
+      "question": "Quod absinthium in absinthium Romanum conficiendum apud Apicium mittitur?",
+      "answer": "Absinthium Ponticum.",
+      "question_en": "Which wormwood goes into the making of absinthium Romanum (Roman wormwood wine) in Apicius?",
+      "answer_en": "Pontic wormwood.",
+      "derivation": "Absinthium Romanum, the Roman wormwood aperitif, is made with an ounce of cleaned Pontic wormwood (absinthi Pontici purgati... unciam). Named drink plus named regional variety; one checkable answer, verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.3.1",
+      "source_text": "Folias rosarum, albo sublato, lino inseris ut sutilis facias, et vino quam plurimas infundes, ut septem diebus in vino sint. Post septem dies rosam de vino tollis et alias sutiles recentes similiter mittis, ut per dies septem in vino requiescant, et rosam eximis.",
+      "question": "Per quot dies folia rosarum singulis vicibus in vino manent, cum rosatum apud Apicium paratur?",
+      "answer": "Per septem dies.",
+      "question_en": "For how many days at each steeping do the rose petals stay in the wine when rosatum is prepared in Apicius?",
+      "answer_en": "For seven days.",
+      "derivation": "Rosatum, the Roman rose wine, is made by steeping stitched garlands of rose petals in wine seven days at a time, three times over. Number fact tied to a named wine; septem diebus verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.3.1",
+      "source_text": "Similiter et tertio facies et rosam eximis et vinum colas et, cum ad bibendum voles uti, addito melle rosatum conficies, sane custodito ut rosam a rore siccam et optimam mittas.",
+      "question": "Quid rosato, cum ad bibendum uti voles, additur apud Apicium?",
+      "answer": "Mel.",
+      "question_en": "What is added to rosatum in Apicius when you wish to use it for drinking?",
+      "answer_en": "Honey.",
+      "derivation": "The rose-steeped wine only becomes rosatum for drinking with the addition of honey (addito melle rosatum conficies). Named drink; single-ingredient answer, verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.3.2",
+      "source_text": "ROSATUM SINE ROSA SIC FACIES. Folia citri viridia in sportella palmea in dolium musti mittes antequam ferveat, et post quadraginta dies exime.",
+      "question": "Ex quibus foliis rosatum sine rosa apud Apicium fit?",
+      "answer": "Ex foliis citri viridibus.",
+      "question_en": "From what leaves is 'rosatum without roses' made in Apicius?",
+      "answer_en": "From green citron leaves.",
+      "derivation": "A celebrated kitchen substitution: rose wine counterfeited with green citron leaves steeped in must for forty days. Named preparation (rosatum sine rosa); answer verbatim (folia citri viridia).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.4",
+      "source_text": "In oleo Spano mittes hellenium et cyperi et folia lauri non vetusta, tunsa omnia et cribellata, ad levissimum pulverem redacta, et sales frictos et tritos, et per triduum vel plus promisce diligenter. Post haec aliquanto tempore patere requiescere, et Liburnicum omnes putabunt.",
+      "question": "Ex quo oleo Apicius oleum Liburnicum imitatur?",
+      "answer": "Ex oleo Spano.",
+      "question_en": "From what oil does Apicius counterfeit Liburnian oil?",
+      "answer_en": "From Spanish oil.",
+      "derivation": "Oleum Liburnium, a prized branded oil, is imitated by seasoning Spanish oil with elecampane, cyperus and fresh bay leaves until 'everyone will think it Liburnian' (Liburnicum omnes putabunt). Geographic-brand fact of Roman food commerce; base oil verbatim (in oleo Spano).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.5",
+      "source_text": "Lomentum ex faba factum vel ovorum trium alborem in lagonam mittis et diutissime agitas: alia die erit candidum.",
+      "question": "Ex quo legumine lomentum fit, quo vinum atrum apud Apicium candidum redditur?",
+      "answer": "Ex faba.",
+      "question_en": "From what legume is the meal made with which dark wine is turned white in Apicius?",
+      "answer_en": "From the bean.",
+      "derivation": "Wine-fining as household practice: bean meal (lomentum ex faba) shaken in the flask leaves dark wine white by the next day. Named technique with a single-ingredient answer, verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.6",
+      "source_text": "Liquamen si odorem malum fecerit, val inan inversum fumiga lauro et cupresso, et in hoc liquamen infunde ante ventilatum.",
+      "question": "Quibus lignis vas inversum fumigatur, si liquamen odorem malum fecerit, ut apud Apicium emendetur?",
+      "answer": "Lauro et cupresso.",
+      "question_en": "With what woods is the upturned vessel fumigated, according to Apicius, when liquamen has developed a bad smell?",
+      "answer_en": "With laurel and cypress.",
+      "derivation": "How to rescue spoiled liquamen, the universal Roman fish sauce: fumigate a vessel with laurel and cypress smoke and pour the aired sauce into it. Staple-sauce repair is insider kitchen knowledge; both woods verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.6",
+      "source_text": "Si salsum fuerit, mellis sextarium mittis et moves picas, et emendasti; sed et msutum recens idem praestat.",
+      "question": "Quid liquamini nimis salso apud Apicium mittitur, ut emendetur?",
+      "answer": "Mellis sextarium.",
+      "question_en": "What is put into over-salty liquamen in Apicius to correct it?",
+      "answer_en": "A sextarius of honey.",
+      "derivation": "The second liquamen fix: a sextarius of honey corrects an over-salted batch (fresh must does the same). Staple sauce plus a measured remedy; verbatim (mellis sextarium mittis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.7.1",
+      "source_text": "UT CARNES SINE SALE QUOVIS TEMPORE RECENTES SINT. Carnes recentes quales volueris melle tegantur, sed vas pendeat et, quando volueris, utere.",
+      "question": "Quo teguntur carnes, ut sine sale quovis tempore recentes sint, apud Apicium?",
+      "answer": "Melle.",
+      "question_en": "With what are meats covered, according to Apicius, so that they stay fresh at any time without salt?",
+      "answer_en": "With honey.",
+      "derivation": "Keeping meat fresh without salting: cover it in honey in a hanging vessel. Honey as the Roman kitchen's preservative constant; verbatim (melle tegantur), anchored by the rubric sine sale.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.8",
+      "source_text": "Carnem salsam dulcem facies, si prius in lacte coquas et postea in aquam.",
+      "question": "In quo liquore carnem salsam prius coqui oportet, ut apud Apicium dulcis fiat?",
+      "answer": "In lacte.",
+      "question_en": "In what liquid must salted meat first be boiled, according to Apicius, to make it sweet again?",
+      "answer_en": "In milk.",
+      "derivation": "Desalting carnes salsae, the standard preserved meat of the Roman larder: boil first in milk, then in water. Single-answer technique fact, verbatim (prius in lacte coquas).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.9.1",
+      "source_text": "UT PISCES FRICTI DIU DURENT. Eodem momento quo friguntur et levantur ab aceto calido perfunduntur.",
+      "question": "Quo perfunduntur pisces fricti statim ubi levantur, ut apud Apicium diu durent?",
+      "answer": "Aceto calido.",
+      "question_en": "With what are fried fish doused the moment they are taken up, according to Apicius, so that they keep long?",
+      "answer_en": "With hot vinegar.",
+      "derivation": "Preserving fried fish by dousing them with hot vinegar straight from the pan - vinegar as the Roman escabeche-style preservative. Verbatim (ab aceto calido perfunduntur).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.9.2",
+      "source_text": "OSTREA, UT DIU DURENT. Lavas ab aceto, aut ex aceto vasculum picitum lava, et ostrea compone.",
+      "question": "Quo liquore ostrea lavantur, ut apud Apicium diu durent?",
+      "answer": "Aceto.",
+      "question_en": "With what liquid are oysters washed in Apicius so that they keep long?",
+      "answer_en": "With vinegar.",
+      "derivation": "Keeping oysters - a Roman luxury shipped far inland - by washing them, or a pitched jar for them, with vinegar. Named delicacy; single-answer verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.10",
+      "source_text": "Laser in spatiosum doliolum vitreum mittis et nucleos pineos et puta viginti, cumque utendum fuerit lasere, nucleos contere, et in cibis miraberis sapores; et tantum numero nucleorum doliolo reserentur.",
+      "question": "Cum quibus nucleis uncia laseris apud Apicium conditur, ut toto tempore duret?",
+      "answer": "Cum nucleis pineis.",
+      "question_en": "With what nuts is an ounce of laser stored in Apicius so that it lasts indefinitely?",
+      "answer_en": "With pine nuts.",
+      "derivation": "Laser (silphium juice), famously scarce and costly, is stretched by keeping it with about twenty pine nuts in a glass jar; the nuts, crushed into dishes, carry its flavor. Iconic luxury-ingredient economy; nucleos pineos verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.11.2",
+      "source_text": "UT MEL MALUM BONUM FACIAS. Me malum bonum facies ad vendendum, unam partem mali et duas boni si simul miscueris.",
+      "question": "Qua portione mel malum cum bono misceri iubet Apicius, ut ad vendendum bonum fiat?",
+      "answer": "Una parte mali cum duabus boni.",
+      "question_en": "In what proportion does Apicius direct bad honey to be mixed with good, so that it becomes fit for sale?",
+      "answer_en": "One part bad to two parts good.",
+      "derivation": "Market sharp practice recorded as a recipe: bad honey made saleable by blending one part bad with two parts good. Ratio fact, verbatim (unam partem mali et duas boni).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.11.3",
+      "source_text": "MEL CORRUPTUM UT PROBES. Inlunium infundes in melle et incende. Si incorruptum est, lucet.",
+      "question": "Quid facit mel incorruptum apud Apicium, cum ellychnium eo infusum incenditur?",
+      "answer": "Lucet.",
+      "question_en": "What does unspoiled honey do in Apicius when a lamp-wick dipped in it is set alight?",
+      "answer_en": "It burns bright.",
+      "derivation": "The honey test: a wick dipped in honey and lit burns clear if the honey is unspoiled. Verifiable single-word answer, verbatim (si incorruptum est, lucet).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.12.1",
+      "source_text": "Accipies uvas de vite inlaesas, et aquam pluvialem ad tertias decoques, et mittis in vas in quo et uvas mittis. Vas picari et gipsari facies, et in locum frigidum ubi soli accesusum non habet reponi facies et, quando volueris, uvas virides invenies.",
+      "question": "In qua aqua uvae inlaesae apud Apicium conduntur, ut virides serventur?",
+      "answer": "In aqua pluviali ad tertias decocta.",
+      "question_en": "In what water are unblemished grapes stored in Apicius so that they keep green?",
+      "answer_en": "In rainwater boiled down to a third.",
+      "derivation": "Keeping grapes fresh through the year: sealed in rainwater reduced to a third, in a pitched and plastered jar in a cold place. Named preservation practice; aqua pluvialis ad tertias verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.12.3",
+      "source_text": "UT MALA CIDONIA DIU SERVENTUR. Eligis mala sine vitio cum ramulis et foliis et condes in vas et suffundes mel et defritum et diu servabis.",
+      "question": "Quibus liquoribus mala cydonia apud Apicium suffunduntur, ut diu serventur?",
+      "answer": "Melle et defrito.",
+      "question_en": "With what liquids are quinces covered in Apicius so that they keep long?",
+      "answer_en": "With honey and defrutum (boiled must).",
+      "derivation": "Quinces keep under honey and defrutum - two staples of the Roman larder in one practice. Two-item answer verbatim (suffundes mel et defritum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.12.4",
+      "source_text": "FICUM RECENTEM, MALA, PRUNA, PIRA, CERASIA UT DIU SERVES. Omnia cum peciolis diligenter legito et in melle ponito ne se contingant.",
+      "question": "In quo ficus recentes, pruna, pira, cerasia apud Apicium ponuntur, ut diu serventur?",
+      "answer": "In melle.",
+      "question_en": "In what are fresh figs, plums, pears, and cherries placed in Apicius so that they keep long?",
+      "answer_en": "In honey.",
+      "derivation": "Fresh fruit is kept by laying it, stalks on, in honey so that the pieces do not touch. Honey as the all-purpose Roman preservative; in melle ponito verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.15",
+      "source_text": "CUMINATUM IN OSTREA ET CONCHICLA. Piper, ligusticum, petroselinum, mentam siccam, folium, malabatrum, cuminum plusculum, mel, acetum et liquamen.",
+      "question": "In quae edulia cuminatum apud Apicium paratur?",
+      "answer": "In ostrea et conchicla.",
+      "question_en": "For what foods is the cumin sauce (cuminatum) prepared in Apicius?",
+      "answer_en": "For oysters and shellfish.",
+      "derivation": "The rubric ties the named sauce to its foods: cuminatum is the dressing for oysters and shellfish. Named preparation plus named foodstuffs, verbatim in the heading.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.16",
+      "source_text": "LASERATUM. Laser Cyrenaicum vel Parthicum tepida dissolvis cum aceto, liquamine temperatum, vel piper, petroselinum, mentam siccam, laseris radicem, mel, acetum, liquamen.",
+      "question": "Quale laser in laseratum apud Apicium dissolvitur?",
+      "answer": "Cyrenaicum vel Parthicum.",
+      "question_en": "What kind of laser is dissolved for the laseratum sauce in Apicius?",
+      "answer_en": "Cyrenaic or Parthian.",
+      "derivation": "Laseratum, the laser sauce, starts from Cyrenaic or Parthian laser - the two famous commercial origins of silphium/asafoetida. Named sauce; both origins verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.17",
+      "source_text": "OENOGARUM IN TUBERA. Piper, ligusticum, coriandrum, rutam, liquamen, mel, vinum et oleum modice.",
+      "question": "Quod condimentum apud Apicium in tubera paratur?",
+      "answer": "Oenogarum.",
+      "question_en": "What sauce is prepared for truffles in Apicius?",
+      "answer_en": "Oenogarum, the wine-and-garum sauce.",
+      "derivation": "Oenogarum - the ubiquitous wine plus fish-sauce blend - is the dressing Apicius assigns to truffles. Named sauce, named delicacy; rubric verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.19",
+      "source_text": "Piper, ligusticum, mentam aridam, nucleos pineos, uvam passam, cariotam, caseum dulcem, mel, acetum, liquamen, oleum, vinum, defritum aut carenum.",
+      "question": "Qui caseus in hypotrimma apud Apicium mittitur?",
+      "answer": "Caseus dulcis.",
+      "question_en": "What cheese goes into the hypotrimma relish in Apicius?",
+      "answer_en": "Sweet (fresh) cheese.",
+      "derivation": "Hypotrimma, the pounded herb-and-cheese relish, takes sweet cheese as its dairy base - its one distinctive component among the pantry staples. Named preparation; caseum dulcem verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.20",
+      "source_text": "Piperis semunciam, silis Gallici scripulos II, cardamomi scripulos VI, cumini scripulos VI, folii scripulum I, mentae siccae scripulos VI, tunsa cribrataque melle colligis. Cum opus fuerit, liquamen et acetum addis.",
+      "question": "Qui duo liquores oxygaro digestibili apud Apicium, cum opus fuerit, adduntur?",
+      "answer": "Liquamen et acetum.",
+      "question_en": "Which two liquids are added to the digestive oxygarum in Apicius when required?",
+      "answer_en": "Liquamen and vinegar.",
+      "derivation": "Oxygarum, the vinegar-sharpened garum digestive, is finished with liquamen and vinegar - the pair that gives it its name (oxy- plus garum). Verbatim (liquamen et acetum addis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 1.21",
+      "source_text": "Mentam, rutam, coriandrum, feniculum, omnia viridia, ligusticum, piper, mel, liquamen. Si opus fuerit, acetum addes.",
+      "question": "Utrum herbae virides an siccae in moretaria apud Apicium mittuntur?",
+      "answer": "Virides.",
+      "question_en": "Are the herbs put into the mortar sauces (moretaria) in Apicius green or dried?",
+      "answer_en": "Green (fresh) ones.",
+      "derivation": "Moretaria, the mortar-ground relishes akin to the rustic moretum, take their mint, rue, coriander and fennel green (omnia viridia) - the recipe's one distinguishing instruction. Single verbatim answer.",
+      "category": "cibus"
+    }
+  ]
+}

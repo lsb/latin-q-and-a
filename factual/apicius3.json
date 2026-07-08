@@ -1,0 +1,187 @@
+{
+  "source": "text/apicius/apicius3.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber III (Cepuros)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 3.1",
+      "source_text": "Omne holus smaragdinum fit, si cum nitro coquatur.",
+      "question": "Quo cum cocto omne holus apud Apicium smaragdinum fit?",
+      "answer": "Cum nitro.",
+      "question_en": "Cooked with what does every green vegetable turn emerald in Apicius?",
+      "answer_en": "With nitrum (soda).",
+      "derivation": "The famous opening trick of the vegetable book: any vegetable boiled with nitrum keeps an emerald color. Kitchen chemistry every Roman cook carried; the whole sentence is the fact, verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.2.1",
+      "source_text": "Betas minutas et porros requietos elixabis, in patina compones. Teres piper, cuminum, suffundes liquamen, passum, ut quaedam dulcedo sit. Facias ut ferveat. Cum ferbuerit, inferes.",
+      "question": "Ex quibus holeribus pulmentarium ad ventrem apud Apicium componitur?",
+      "answer": "Ex betis et porris.",
+      "question_en": "From what vegetables is the bowel-easing dish (pulmentarium ad ventrem) composed in Apicius?",
+      "answer_en": "From beets and leeks.",
+      "derivation": "The pulmentarium ad ventrem - the digestive vegetable dish opening the chapter - is small beets and rested leeks, boiled and sweetened with passum. Named preparation; both vegetables verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.2.4",
+      "source_text": "Varro: Betacios, sed nigros, quorum detersas radices et mulso decoctas cum sale modico et holeo vel sale, aqua et oleo in se coctas iusculum facere et potari, melius etiam si in eo pullus sit decoctus.",
+      "question": "Cuius coloris betacios Varro apud Apicium commendat?",
+      "answer": "Nigros.",
+      "question_en": "Beets of what color does Varro recommend, as quoted in Apicius?",
+      "answer_en": "Black ones.",
+      "derivation": "The one recipe in Apicius quoted under Varro's name - a dish carried on a famous author's authority. Varro specifies black beets (betacios, sed nigros); person-anchored, single-word verbatim answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.2.4",
+      "source_text": "Varro: Betacios, sed nigros, quorum detersas radices et mulso decoctas cum sale modico et holeo vel sale, aqua et oleo in se coctas iusculum facere et potari, melius etiam si in eo pullus sit decoctus.",
+      "question": "Quo liquore decoctae radices betaciorum iusculum faciunt secundum Varronem apud Apicium?",
+      "answer": "Mulso.",
+      "question_en": "Boiled down in what liquid do the beet roots make a broth, according to Varro as quoted in Apicius?",
+      "answer_en": "In mulsum (honeyed wine).",
+      "derivation": "Varro's beet broth is made by boiling the cleaned roots in mulsum, the honey-wine staple. Person-anchored named preparation; mulso decoctas verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.2.4",
+      "source_text": "Varro: Betacios, sed nigros, quorum detersas radices et mulso decoctas cum sale modico et holeo vel sale, aqua et oleo in se coctas iusculum facere et potari, melius etiam si in eo pullus sit decoctus.",
+      "question": "Quo addito iusculum betaciorum Varronis etiam melius fit apud Apicium?",
+      "answer": "Pullo in eo decocto.",
+      "question_en": "With what addition does Varro's beet broth become even better, according to Apicius?",
+      "answer_en": "With a chicken boiled in it.",
+      "derivation": "The closing touch of Varro's prescription: the beet broth is better still if a chicken has been boiled in it. Person-anchored, single short answer verbatim (si in eo pullus sit decoctus).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.3",
+      "source_text": "Asparagos siccabis, rursum in calidam summitas: callosiores reddes.",
+      "question": "Quales asparagi fiunt apud Apicium, si siccati rursum in aquam calidam summittuntur?",
+      "answer": "Callosiores.",
+      "question_en": "What do asparagus become in Apicius if, after drying, they are plunged again into hot water?",
+      "answer_en": "Firmer.",
+      "derivation": "The one asparagus precept of the garden book: dried and replunged in hot water, the spears come back callosiores. Asparagus was a prized Roman vegetable; single verbatim answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.4.3",
+      "source_text": "CUCURBITAS MORE ALEXANDRINO. Elixatas cucurbitas exprimis, sale asparges, in patina compones. Teres piper, cuminum, coriandri semen, mentam viridem, laseris radicem, suffundes acetum. Addicies cariotam, nucleum, teres melle, aceto, liquamine, defrito et oleo temperabis, et cucurbitas perfundes.",
+      "question": "Quod holus apud Apicium more Alexandrino paratur?",
+      "answer": "Cucurbitae.",
+      "question_en": "Which vegetable is prepared 'in the Alexandrian manner' in Apicius?",
+      "answer_en": "Gourds.",
+      "derivation": "A dish named for a place: cucurbitae more Alexandrino, boiled gourds under a sweet-sour dressing of dates, nuts, honey and defrutum. Place-styled dishes are exactly the insider food culture; rubric verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.6.1",
+      "source_text": "CUCUMERES RASOS. Sive ex liquamine, sive ex oenogaro; sine ructu et gravitudine teneriores senties.",
+      "question": "Sine quibus incommodis cucumeres rasi ex liquamine apud Apicium eduntur?",
+      "answer": "Sine ructu et gravitudine.",
+      "question_en": "Free of what discomforts are peeled cucumbers eaten with liquamen in Apicius?",
+      "answer_en": "Without belching and heaviness.",
+      "derivation": "Roman dietetics on the notoriously indigestible cucumber: peeled and dressed with liquamen or oenogarum it causes no belching or heaviness. Verbatim (sine ructu et gravitudine).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.7",
+      "source_text": "Pepones, melones. Piper, puleium, mel vel passum, liquamen, acetum. Interdum et silfi accedit.",
+      "question": "Quod condimentum interdum peponibus et melonibus apud Apicium accedit?",
+      "answer": "Silfi, id est laser.",
+      "question_en": "What seasoning is sometimes added to melons and gourds-melons in Apicius?",
+      "answer_en": "Silphium (laser).",
+      "derivation": "Melons at the Roman table take pepper, pennyroyal, honey and vinegar - and sometimes silphium, the celebrated luxury resin. Named foodstuff plus named seasoning; interdum et silfi accedit verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.10.2",
+      "source_text": "ALITER PORROS. Opertos foliis coliculorum et in prunis coques, ut supra, et inferes.",
+      "question": "Quibus foliis operti porri in prunis apud Apicium coquuntur?",
+      "answer": "Foliis coliculorum.",
+      "question_en": "Wrapped in what leaves are leeks cooked on the coals in Apicius?",
+      "answer_en": "In cabbage leaves.",
+      "derivation": "Leeks ember-roasted in a wrap of cabbage leaves - a distinctive named technique for a staple vegetable. Single verbatim answer (opertos foliis coliculorum, in prunis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.11.2",
+      "source_text": "ALITER BETAS ELIXAS. Ex sinapi, oleo modico et aceto bene inferuntur.",
+      "question": "Ex quo condimento betae elixae apud Apicium bene inferuntur?",
+      "answer": "Ex sinapi, oleo modico et aceto.",
+      "question_en": "With what dressing are boiled beets best served in Apicius?",
+      "answer_en": "With mustard, a little oil, and vinegar.",
+      "derivation": "Boiled beets under a mustard vinaigrette - a table constant stated in one clause. Brief verbatim dressing as the whole answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.14",
+      "source_text": "Rafanos cum piperato, ita ut piper cum liquamine teras.",
+      "question": "Cum quo condimento rafani apud Apicium eduntur?",
+      "answer": "Cum piperato.",
+      "question_en": "With what sauce are radishes eaten in Apicius?",
+      "answer_en": "With piperatum (pepper sauce).",
+      "derivation": "Radishes take piperatum - pepper ground up with liquamen. Named vegetable plus named sauce, both verbatim; the definition of the piperatum is given in the same clause.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.15.1",
+      "source_text": "HOLUS MOLLE EX HOLISATRO. Coctum ex aqua nitrata expressum concides minutum et teres piper, ligusticum, satureiam siccam cum cepa sicca, liquamen, oleum et vinum.",
+      "question": "In quali aqua holus molle ex holisatro apud Apicium coquitur?",
+      "answer": "In aqua nitrata.",
+      "question_en": "In what kind of water is the 'soft vegetable' of alexanders cooked in Apicius?",
+      "answer_en": "In nitrated (soda) water.",
+      "derivation": "Holus molle, the pureed vegetable dish, is boiled in aqua nitrata - the same nitrum trick that keeps greens green, applied to a named preparation. Verbatim (coctum ex aqua nitrata).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.17",
+      "source_text": "Urticam feminam, sole in ariete positio, adversus aedritudinem sumes, si voles.",
+      "question": "Quo in signo sole posito urtica femina adversus aegritudinem apud Apicium sumitur?",
+      "answer": "In ariete.",
+      "question_en": "With the sun standing in what sign is the female nettle taken against sickness in Apicius?",
+      "answer_en": "In Aries.",
+      "derivation": "Food-medicine with an astrological clock: the female nettle is taken against illness when the sun is in Aries. Roman dietetic lore; sole in ariete verbatim, single named answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.18.1",
+      "source_text": "intubae ex liquamine, oleo modico medere cepa concisa. Pro lactucis vero hieme intubae ex embammate vel melle et aceto acri.",
+      "question": "Quae holera hieme pro lactucis apud Apicium adhibentur?",
+      "answer": "Intubae.",
+      "question_en": "What vegetable stands in for lettuce in winter, according to Apicius?",
+      "answer_en": "Endives.",
+      "derivation": "The seasonal substitution of the Roman salad table: in winter endives take the place of lettuce, dressed with sauce or with honey and sharp vinegar. Verbatim (pro lactucis vero hieme intubae).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.18.2",
+      "source_text": "LACTUCAS. Cum oxyporio et aceto modico liquamine.",
+      "question": "Cum quo condimento digestorio lactucae apud Apicium dantur?",
+      "answer": "Cum oxyporio.",
+      "question_en": "With what digestive condiment are lettuces served in Apicius?",
+      "answer_en": "With oxyporium.",
+      "derivation": "Lettuce - reputed hard on the stomach - is served with oxyporium, the spiced digestive of cumin, ginger and honey, plus vinegar and a little liquamen. Named preparation, verbatim (cum oxyporio).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.19.1",
+      "source_text": "CARDUOS. Liquamine, oleo et ovis concisis.",
+      "question": "Quibus rebus cardui apud Apicium inferuntur?",
+      "answer": "Liquamine, oleo et ovis concisis.",
+      "question_en": "With what are cardoons served in Apicius?",
+      "answer_en": "With liquamen, oil, and chopped eggs.",
+      "derivation": "The whole dressing of the cardoon in one clause: liquamen, oil, chopped hard eggs. Named vegetable of the Roman garden; the brief verbatim list is the complete answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 3.21.1",
+      "source_text": "Carotae frictae oenogaro inferuntar.",
+      "question": "Quo iure carotae frictae apud Apicium inferuntur?",
+      "answer": "Oenogaro.",
+      "question_en": "With what sauce are fried carrots served in Apicius?",
+      "answer_en": "With oenogarum.",
+      "derivation": "Fried carrots under oenogarum, the wine-and-garum staple sauce. One-sentence fact, wholly verbatim; named vegetable plus named sauce.",
+      "category": "cibus"
+    }
+  ]
+}

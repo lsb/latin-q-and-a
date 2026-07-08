@@ -1,0 +1,277 @@
+{
+  "source": "text/apicius/apicius4.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber IV (Pandecter)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 4.1.1",
+      "source_text": "Panem ex posca maceratum exprimes, caseum bubulum, cucumeres in caccabulo compones, interpositis nucleis.",
+      "question": "Ex quo liquore panis in sala cattabia apud Apicium maceratur?",
+      "answer": "Ex posca.",
+      "question_en": "In what liquid is the bread soaked for the sala cattabia in Apicius?",
+      "answer_en": "In posca (vinegar-and-water).",
+      "derivation": "Sala cattabia, the cold bread salad, starts from bread soaked in posca - the everyday vinegar-water of soldiers and travelers. Named dish plus named drink; ex posca maceratum verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.1.2",
+      "source_text": "Adicies in caccabulo panis Picentini frusta, interpones pulpas pulli, glandulas haedinas, caseum Vestinum, nucleos pinos, cucumeres, cepas aridas minute concisas. Ius supra perfundes. Insuper nivem sub hora asparges et inferes.",
+      "question": "Quid salae cattabiae Apicianae sub hora inferendi apud Apicium aspergitur?",
+      "answer": "Nix.",
+      "question_en": "What is sprinkled over the Apician sala cattabia just before it is served?",
+      "answer_en": "Snow.",
+      "derivation": "The famous luxury touch of the sala cattabia Apiciana: snow scattered over the chilled dish at the last moment. Dish bearing Apicius' own name; insuper nivem sub hora asparges verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.1.2",
+      "source_text": "Adicies in caccabulo panis Picentini frusta, interpones pulpas pulli, glandulas haedinas, caseum Vestinum, nucleos pinos, cucumeres, cepas aridas minute concisas.",
+      "question": "Cuius panis frusta in salam cattabiam Apicianam apud Apicium adiciuntur?",
+      "answer": "Panis Picentini.",
+      "question_en": "Pieces of what bread go into the Apician sala cattabia in Apicius?",
+      "answer_en": "Of Picentine bread.",
+      "derivation": "The Apician sala cattabia is built on Picentine bread, the famous branded loaf of Picenum - a place-named product of Roman food commerce. Verbatim (panis Picentini frusta).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.1.2",
+      "source_text": "Adicies in caccabulo panis Picentini frusta, interpones pulpas pulli, glandulas haedinas, caseum Vestinum, nucleos pinos, cucumeres, cepas aridas minute concisas.",
+      "question": "Qui caseus in salam cattabiam Apicianam apud Apicium interponitur?",
+      "answer": "Caseus Vestinus.",
+      "question_en": "What cheese is layered into the Apician sala cattabia?",
+      "answer_en": "Vestine cheese.",
+      "derivation": "Vestine cheese - the celebrated cheese of the Vestini - is the cheese of the sala cattabia Apiciana. Second place-named product in the same dish; caseum Vestinum verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.1.3",
+      "source_text": "Panem Alexandrinum excavabis, in posca macerabas. Adicies in mortarium piper, mel, mentam, alium, coriandrum viridem, caseum bubulum, sale conditum, aquam, oleum. Insuper nivem et inferes.",
+      "question": "Qui panis excavatus et in posca maceratus salae cattabiae apud Apicium substernitur?",
+      "answer": "Panis Alexandrinus.",
+      "question_en": "What bread, hollowed out and soaked in posca, forms the base of a sala cattabia in Apicius?",
+      "answer_en": "Alexandrian bread.",
+      "derivation": "A third sala cattabia rests on hollowed Alexandrian bread, again chilled with snow. Place-named loaf; panem Alexandrinum excavabis verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.5",
+      "source_text": "Accipies asparagos purgatos, in moratrio fricabis, aqua suffundes, perfricabis, per colum colabis. Et mittes ficetulas curatas, teres in mortario piperis scripulos sex, adicies liquamen, fricabis, vini ciatum I, passi ciatum I, mittes in caccabus olei uncias III.",
+      "question": "Quae aviculae in patinam de asparagis frigidam apud Apicium mittuntur?",
+      "answer": "Ficetulae.",
+      "question_en": "What little birds go into the cold asparagus patina in Apicius?",
+      "answer_en": "Figpeckers (ficedulae).",
+      "derivation": "The cold asparagus patina hides figpeckers - the tiny songbirds that were a byword for Roman luxury dining. Named dish plus named delicacy; ficetulas curatas verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.9",
+      "source_text": "Accipies rosas et exfoliabis, album tolles, mittes in mortarium, suffundes liquamen, fricabis. Postea mittes liquaminis ciatum unum semis et sucum por colum colabis. Accipies cerebella IV, enervabis et teres piperis scripulos VIII, suffunes ex suco, fricabis.",
+      "question": "Quae membra animalium cum suco rosarum in patina de rosis apud Apicium coquuntur?",
+      "answer": "Cerebella.",
+      "question_en": "What animal parts are cooked with the rose juice in the rose patina of Apicius?",
+      "answer_en": "Brains.",
+      "derivation": "The patina de rosis, the rose-petal custard, is bound on four brains with eggs - flowers and offal in one celebrated composite. Named dish; cerebella IV verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.12",
+      "source_text": "Desuper leviter compones urticas marinas ut non cum ovis misceantur.",
+      "question": "Quae animalia marina patinae de apua sine apua desuper apud Apicium componuntur?",
+      "answer": "Urticae marinae.",
+      "question_en": "What sea creatures are laid on top of the 'anchovy patina without anchovy' in Apicius?",
+      "answer_en": "Sea nettles (sea anemones).",
+      "derivation": "The illusion dish patina de apua sine apua is finished with sea nettles laid lightly on top so they do not sink into the eggs. Named mock dish; urticas marinas verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.12",
+      "source_text": "Impones ad vaporem ut cum ovis ire non possint et, cum siccaverint, super aspargis piper tritum et inferes. Ad mensam nemo agnoscet quid manducet.",
+      "question": "Quid de patina de apua sine apua Apicius gloriatur?",
+      "answer": "Ad mensam neminem agnoscere quid manducet.",
+      "question_en": "What does Apicius boast of the 'anchovy patina without anchovy'?",
+      "answer_en": "That at table no one will know what he is eating.",
+      "derivation": "The famous punchline of Apician trompe-l'oeil cookery: nemo agnoscet quid manducet. The boast is the checkable, much-quoted fact of this named dish; kept as a brief indirect statement.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.14",
+      "source_text": "PATINAM APICIANAM SIC FACIES. Frustra suminis cocti, pulpas piscium, pulpas pulli, ficetulas vel pectora turdorum cocta et quaecumque optima fuerint, haec omnia concides diligenter praeter ficetulas.",
+      "question": "Cuius partis suillae frustra in patinam Apicianam apud Apicium mittuntur?",
+      "answer": "Suminis.",
+      "question_en": "Pieces of what part of the pig go into the patina Apiciana in Apicius?",
+      "answer_en": "Of the sow's udder (sumen).",
+      "derivation": "The patina bearing Apicius' own name opens with cooked sumen - sow's udder, the byword pork delicacy - alongside fish, chicken, figpeckers or thrush breasts 'and whatever is finest', layered with lagana. Named dish; frustra suminis cocti verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.35",
+      "source_text": "PATINA DE PIRIS. Pira elixa et purgata e medio teres cum pipere, cumino, melle, passo, liquamine, oleo modico. Ovis missis patinam facies, piper super aspargis et inferes.",
+      "question": "Quibus missis pira trita in patinam apud Apicium coguntur?",
+      "answer": "Ovis.",
+      "question_en": "With what added is the ground pear mixture set into a patina in Apicius?",
+      "answer_en": "With eggs.",
+      "derivation": "The pear patina - the celebrated Roman pear custard: boiled cored pears ground with honey, passum and spices, set with eggs. Named dish; ovis missis patinam facies verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.34",
+      "source_text": "Persica duriora purgabis, frustratim concides, elixas in patinia compones, olei modicum superstillabis et cum cuminato inferes.",
+      "question": "Cum quo condimento patina de persicis apud Apicium infertur?",
+      "answer": "Cum cuminato.",
+      "question_en": "With what sauce is the peach patina served in Apicius?",
+      "answer_en": "With cumin sauce (cuminatum).",
+      "derivation": "The peach patina goes to table with cuminatum, the named cumin sauce of book I - fruit under a savory dressing, a very Roman pairing. Verbatim (cum cuminato inferes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.37",
+      "source_text": "Mala cydonia cum porris, melle, liquamine, oleo, defricto coques et inferes, vel elixata ex melle.",
+      "question": "Cum quo holere mala cydonia in patina apud Apicium coquuntur?",
+      "answer": "Cum porris.",
+      "question_en": "With what vegetable are quinces cooked in their patina in Apicius?",
+      "answer_en": "With leeks.",
+      "derivation": "The quince patina pairs the fruit with leeks under honey, liquamen and defrutum - a checkable, surprising pairing of named foodstuffs. Verbatim (mala cydonia cum porris).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.25",
+      "source_text": "PATELLAM LUCRETINAM. Cepas pallachanas purgas (viridia earum proicies), in patinam concides et pisces super compones. Adicies liquaminis modicum, oleam et aquam. Dum coquitur, salsum crudum in medium ponis.",
+      "question": "Quibus cepis patella Lucretina apud Apicium instruitur?",
+      "answer": "Cepis pallachanis.",
+      "question_en": "With what onions is the patella Lucretina built in Apicius?",
+      "answer_en": "With pallacana (spring) onions.",
+      "derivation": "A person-named dish: the patella Lucretina rests on pallacana onions under fish, with raw salt-fish set in the middle. Named dish plus named onion variety; cepas pallachanas verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.13",
+      "source_text": "Cum cocta fuerit, addes echinos recentiores, piper asparges et inferes.",
+      "question": "Quae animalia marina patinae ex lacte postremo apud Apicium adduntur?",
+      "answer": "Echini recentes.",
+      "question_en": "What sea creatures are added last to the milk patina in Apicius?",
+      "answer_en": "Fresh sea urchins.",
+      "derivation": "The great patina ex lacte - the milk-and-egg composite of vegetables, chicken, sausages and shellfish - is crowned at the end with fresh sea urchins, a luxury of the Roman table. Verbatim (addes echinos recentiores).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.3.4",
+      "source_text": "Media coctura mala Matiana purgata intrinsecs concisa tessellatim mittes.",
+      "question": "Quae mala media coctura in minutal Matianum apud Apicium mittuntur?",
+      "answer": "Mala Matiana.",
+      "question_en": "What apples are added halfway through the cooking of the minutal Matianum in Apicius?",
+      "answer_en": "Matian apples.",
+      "derivation": "The minutal Matianum, the pork-and-apple stew, takes diced Matian apples - the famous variety named for C. Matius, Caesar's friend and author on cookery. A person-derived dish name, exactly the hunted insider fact; mala Matiana verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.3.3",
+      "source_text": "Oleum, liquamen, vinum, porrum capitatum, mentam, pisciculos, esiciola minuta, testiculos caponum, glandulas porcellinas, haecomnia in se coquantur.",
+      "question": "Cuius avis testiculi in minutal Apicianum apud Apicium coquuntur?",
+      "answer": "Caponum.",
+      "question_en": "The testicles of what bird are cooked into the minutal Apicianum?",
+      "answer_en": "Of capons.",
+      "derivation": "The minutal Apicianum - the fricassee under Apicius' own name - includes capon testicles and piglet sweetbreads among its meats. Named dish; testiculos caponum verbatim, single answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.3.6",
+      "source_text": "Adicies in caccabo oleum, liquamen, vinum, concides cepam Ascaloniam aridam, spatulam porcinam coctam tessellatim concides.",
+      "question": "Quae cepa arida in minutal ex praecoquis apud Apicium conciditur?",
+      "answer": "Cepa Ascalonia.",
+      "question_en": "What dried onion is chopped into the apricot minutal in Apicius?",
+      "answer_en": "The Ascalonian onion (shallot).",
+      "derivation": "The apricot stew (minutal ex praecoquis) starts from the Ascalonian onion - the shallot, named for Ascalon in Judaea; a place-named staple of the Roman kitchen. Verbatim (cepam Ascaloniam aridam).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.3.2",
+      "source_text": "MINUTAL TERENTINUM. Concides in caccabum albanem de porris minutatim, adicies oleum, liquamen, cocturam, isiciola valde minuta, et sic temperas ut tenerum sit.",
+      "question": "Cuius holeris albamen in minutal Terentinum apud Apicium minutatim conciditur?",
+      "answer": "Porri.",
+      "question_en": "The white of what vegetable is chopped fine into the minutal Terentinum?",
+      "answer_en": "Of the leek.",
+      "derivation": "The minutal Terentinum - another name-bearing stew - is built on the white of leeks with very fine forcemeat balls. Named dish; albamen de porris verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.3.1",
+      "source_text": "Cum ferbuerit, tractam confringes, obligas, agitas, piper aspargis et inferes.",
+      "question": "Qua re minutal marinum apud Apicium obligatur?",
+      "answer": "Tracta confracta.",
+      "question_en": "With what is the seafood minutal thickened in Apicius?",
+      "answer_en": "With crumbled tracta (pastry sheet).",
+      "derivation": "The signature binding of the minutal dishes: a sheet of tracta pastry crumbled in to thicken the pot - the same tracta that names the pultes tractogalatae. Anchored to the minutal marinum; tractam confringes, obligas verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.4.1",
+      "source_text": "Tisanam lavando fricas, quam ante diem infundes. Impones supra ignem calidum.",
+      "question": "Quando tisana apud Apicium aqua infunditur, antequam coquatur?",
+      "answer": "Ante diem.",
+      "question_en": "When is the barley for tisana put to soak in Apicius, before it is cooked?",
+      "answer_en": "The day before.",
+      "derivation": "Tisana, the barley gruel of ancient dietetics, is rubbed clean and soaked a day ahead. Named staple preparation; quam ante diem infundes verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.4.2",
+      "source_text": "TISANAM BARRICAM. Infundes cicer, lenticulam, pisam. Defricas tisanam cum leguminibus elixas.",
+      "question": "Quae legumina cum tisana barrica apud Apicium elixantur?",
+      "answer": "Cicer, lenticula, pisa.",
+      "question_en": "What legumes are boiled with the barley in the tisana barrica of Apicius?",
+      "answer_en": "Chickpea, lentil, and pea.",
+      "derivation": "The tisana barrica joins barley to the three staple legumes of the Roman diet - chickpea, lentil, pea - plus a garden of greens. Brief verbatim list as the whole answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.5.2",
+      "source_text": "GUSTUM DE HOLERIBUS. Condies bulbos liquamine, oleo et vino. Cum cocti fuerint, iecinera porcelli et gallinarum et ungellas et ascellas divisas, haec omnia cum bulbis ferveant.",
+      "question": "Quod holus in gusto de holeribus apud Apicium primum liquamine, oleo et vino conditur?",
+      "answer": "Bulbi.",
+      "question_en": "What vegetable is first seasoned with liquamen, oil, and wine in the vegetable starter (gustum de holeribus) of Apicius?",
+      "answer_en": "Bulbs (grape-hyacinth bulbs).",
+      "derivation": "The gustum de holeribus, the vegetable appetizer course, is built on bulbi - the edible bulbs prized by Romans - simmered with piglet and chicken livers. Named course; condies bulbos verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.5.3",
+      "source_text": "Impensam ad eas sic facies: teres piper, ligusticu, origanum, suffundis liquamen, cerebella cocta teres, ova cruda dissolves et mittes ut unum corpus efficiat; liquamine temperabis.",
+      "question": "Quibus rebus praecipuis cucurbitae farsiles apud Apicium implentur?",
+      "answer": "Cerebellis coctis et ovis crudis.",
+      "question_en": "With what main ingredients are the stuffed gourds filled in Apicius?",
+      "answer_en": "With cooked brains and raw eggs.",
+      "derivation": "The cucurbitae farsiles - gourds hollowed, stuffed, resealed with their own cut piece and fried - take a filling of cooked brains bound with raw eggs. Named dish; both components verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.11",
+      "source_text": "Alligas fasciculos rutae et origani, el subinde fasciculos apobaptidiabis. Cum cocta fuerit, proicies fasciculos, et piper asperges et inferes.",
+      "question": "Quarum herbarum fasciculi in patina de apua apud Apicium alligantur et post cocturam proiciuntur?",
+      "answer": "Rutae et origani.",
+      "question_en": "Bundles of what herbs are tied for the anchovy patina in Apicius and thrown away after cooking?",
+      "answer_en": "Of rue and oregano.",
+      "derivation": "The Roman bouquet garni: tied bundles of rue and oregano dipped into the anchovy patina and discarded once it is cooked. Named dish plus named technique; fasciculos rutae et origani verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.16",
+      "source_text": "PATINA VERSATILIS VICE DULCI. Nucleos pinos, nuces fractas et purgatas, attorebis eas, teres cum melle, pipere, liquamine, lacte, ovis, modico mero et oleo.",
+      "question": "Quo loco cenae patina versatilis ex nucleis et nucibus apud Apicium infertur?",
+      "answer": "Vice dulci.",
+      "question_en": "In what place in the meal is the turned-out nut patina served in Apicius?",
+      "answer_en": "In place of the sweet course.",
+      "derivation": "The patina versatilis of toasted pine nuts and walnuts in a honey-milk-egg custard is served vice dulci - as the dessert. A fact about the courses of the Roman meal; rubric verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 4.2.17",
+      "source_text": "PATELLAM TIROTARICAM EX QUOCUMQUE SALSO VOLVERIS. Coques ex oleo, exossabis, et cerebella cocta, pulpas piscium, ioscula pullorum, ova dura, caseum mollem, excaldatum, haec omnia calefacies in patella.",
+      "question": "Ex quo pisce patella tyrotarica apud Apicium fieri potest?",
+      "answer": "Ex quocumque salso volueris.",
+      "question_en": "From what fish can the cheese-and-saltfish pan (patella tyrotarica) be made in Apicius?",
+      "answer_en": "From any salt fish you like.",
+      "derivation": "The patella tyrotarica (Greek tyros + tarichos, cheese and salt fish) is expressly made ex quocumque salso volueris - the rubric's own point. Named dish; the permissive phrase is the verbatim answer.",
+      "category": "cibus"
+    }
+  ]
+}
