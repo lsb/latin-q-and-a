@@ -1,4 +1,5 @@
-{"source": "text/catullus.txt",
+{
+ "source": "text/catullus.txt",
  "author": "Catullus",
  "work": "Carmina",
  "pairs": [
@@ -226,10 +227,10 @@
    "locus": "Catullus, Carmina 13",
    "source_text": "CENABIS bene, mi Fabulle, apud me paucis, si tibi di fauent, diebus, si tecum attuleris bonam atque magnam cenam, non sine candida puella et uino et sale et omnibus cachinnis.",
    "question": "Qua condicione Fabullus apud Catullum bene cenabit?",
-   "answer": "Si secum cenam attulerit, cum candida puella et vino et sale.",
+   "answer": "Si secum cenam attulerit.",
    "question_en": "On what condition will Fabullus dine well at Catullus' house?",
-   "answer_en": "If he brings the dinner himself, along with a fair girl, wine, and wit.",
-   "derivation": "The famous joke-invitation: the guest must supply the whole dinner. The condition is stated verbatim and is the checkable point of the best-known dinner invitation in Latin. Anchored to Fabullus + Catullus.",
+   "answer_en": "If he brings the dinner with him himself.",
+   "derivation": "The famous joke-invitation: the guest must supply the whole dinner. The condition is stated verbatim and is the checkable point of the best-known dinner invitation in Latin. Anchored to Fabullus + Catullus. [Answer trimmed to the core condition during validation; the girl-wine-wit list is elaboration in the same sentence.]",
    "category": "mores"
   },
   {
@@ -1672,4 +1673,5 @@
    "derivation": "The oyster-beds of the Hellespont ('ostriosior') — a food-geography fact of the ancient table, fixed in the epithet. One-word answer verbatim.",
    "category": "cibus"
   }
- ]}
+ ]
+}
