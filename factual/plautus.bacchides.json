@@ -1,0 +1,436 @@
+{
+ "source": "text/plautus/bacchides.txt",
+ "author": "Plautus",
+ "work": "Bacchides",
+ "pairs": [
+  {
+   "locus": "Plautus, Bacchides fr. (Serv. Aen. 6.383)",
+   "source_text": "Bacchis illa mi cognominis fuit.",
+   "question": "Quo eodem nomine ambae sorores meretrices appellantur, a quibus Plauti fabula Bacchides nomen ducit?",
+   "answer": "Bacchis.",
+   "question_en": "By what single shared name are both sister-courtesans called, from whom Plautus' play Bacchides takes its name?",
+   "answer_en": "Bacchis.",
+   "derivation": "The title-fact of the play: the two courtesan sisters bear the identical name Bacchis (they are cognomines), the engine of the plot's confusion and the source of the title. One Bacchis remarks the other was 'cognominis' to her. Anchored to the named play; one-name answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 39-40 (I.i)",
+   "source_text": "quid agunt duae germanae meretrices cognomines?",
+   "question": "Quo quaestu vivunt duae germanae sorores cognomines in fabula Plauti quae Bacchides inscribitur?",
+   "answer": "Meretrices sunt.",
+   "question_en": "By what trade do the two full sisters of the same name live in Plautus' play called Bacchides?",
+   "answer_en": "They are courtesans.",
+   "derivation": "Canonical fact of the play: the two identically-named Bacchides are germanae sisters and both meretrices. Anchored to the named play; short answer supported verbatim (germanae meretrices cognomines).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 170-171 (II.i)",
+   "source_text": "Erilis patria, salve, quam ego biennio, postquam hinc in Ephesum abii, conspicio lubens.",
+   "question": "In quam urbem Chrysalus servus profectus biennium a patria erili afuerat, apud Plautum in Bacchidibus?",
+   "answer": "Ephesum.",
+   "question_en": "To which city had the slave Chrysalus gone, so that he was away from his master's homeland for two years, in Plautus' Bacchides?",
+   "answer_en": "Ephesus.",
+   "derivation": "Setting fact: Chrysalus returns from a two-year errand at Ephesus, where the play's gold was fetched. Anchored to Chrysalus + the play; one-place answer supported verbatim (in Ephesum abii).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Bacchides 230-231 (II.ii)",
+   "source_text": "mille et ducentos Philippos attulimus aureos Epheso, quos hospes debuit nostro seni.",
+   "question": "Quot Philippos aureos Chrysalus Epheso rettulit, quos hospes Nicobulo seni debuerat, apud Plautum in Bacchidibus?",
+   "answer": "Mille et ducentos.",
+   "question_en": "How many gold Philippics did Chrysalus bring back from Ephesus, which a host had owed to the old man Nicobulus, in Plautus' Bacchides?",
+   "answer_en": "One thousand two hundred.",
+   "derivation": "Clean number fact: 1200 gold Philippi, a debt owed by a foreign host to Chrysalus' master, brought home from Ephesus. Anchored to Chrysalus + the play; single-number answer supported verbatim (mille et ducentos Philippos aureos).",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Bacchides 214-215 (II.ii)",
+   "source_text": "etiam Epidicum, quam ego fabulam aeque ac me ipsum amo, nullam aeque invitus specto, si agit Pellio.",
+   "question": "Quam suam fabulam Plautus in Bacchidibus per Chrysalum nominat, quam ille aeque ac se ipsum amare se dicit?",
+   "answer": "Epidicum.",
+   "question_en": "Which of his own plays does Plautus name in the Bacchides through Chrysalus, one that Chrysalus says he loves as much as himself?",
+   "answer_en": "The Epidicus.",
+   "derivation": "Celebrated metatheatrical cross-reference: Plautus has Chrysalus name Plautus' own comedy Epidicus, loved 'as much as myself'. A famous literary fact; anchored to the named play; one-title answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 215 (II.ii)",
+   "source_text": "etiam Epidicum, quam ego fabulam aeque ac me ipsum amo, nullam aeque invitus specto, si agit Pellio.",
+   "question": "Quo actore agente Chrysalus in Bacchidibus se etiam fabulam Epidicum invitus spectare dicit?",
+   "answer": "Pellione.",
+   "question_en": "With which actor performing does Chrysalus in the Bacchides say he watches even the Epidicus unwillingly?",
+   "answer_en": "With Pellio.",
+   "derivation": "Theater realia: Pellio (T. Publilius Pellio, an actor-producer of Plautus' day) named as one whose acting spoils even a beloved play. Anchored to the named play; one-name answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 155 (I.ii)",
+   "source_text": "Fiam, ut ego opinor, Hercules, tu autem Linus.",
+   "question": "Quem musicae magistrum Hercules interfecit, quo mytho Pistoclerus paedagogo Lydo minatur apud Plautum in Bacchidibus?",
+   "answer": "Linum.",
+   "question_en": "Which music-teacher did Hercules kill, the myth by which Pistoclerus threatens his tutor Lydus in Plautus' Bacchides?",
+   "answer_en": "Linus.",
+   "derivation": "Myth as shared story: Hercules slew his lyre-teacher Linus; Pistoclerus warns Lydus he will play Hercules to Lydus' Linus. Anchored to the named characters + play; one-name answer supported by the source.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides fr. (Char. GL 1.201K)",
+   "source_text": "Vlixem audivi fuisse aerumnosissimum, qui annis viginti errans a patria afuit.",
+   "question": "Quot annos Vlixem errantem a patria afuisse Bacchidum versus memorat?",
+   "answer": "Viginti annos.",
+   "question_en": "For how many years does a verse of the Bacchides recall that Ulysses wandered away from his homeland?",
+   "answer_en": "Twenty years.",
+   "derivation": "Myth as shared story: Ulysses' twenty-year absence from Ithaca, invoked as the type of the toil-worn wanderer. Anchored via the named hero; single-number answer supported verbatim (annis viginti).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 241-242 (II.iii)",
+   "source_text": "adibo hunc, quem quidem ego hodie faciam hic arietem Phrixi, itaque tondebo auro usque ad vivam cutem.",
+   "question": "Cuius arietem auratum tondere se iocatur Chrysalus, Nicobulum senem auro spoliaturus, apud Plautum in Bacchidibus?",
+   "answer": "Phrixi.",
+   "question_en": "Whose golden-fleeced ram does Chrysalus joke he will shear, as he strips the old man Nicobulus of his gold, in Plautus' Bacchides?",
+   "answer_en": "Phrixus'.",
+   "derivation": "Myth as shared story: the golden-fleeced ram that bore Phrixus (source of the Golden Fleece); Chrysalus casts Nicobulus as that ram, to be sheared of gold to the quick. Anchored to Chrysalus + the play; one-name answer supported verbatim (arietem Phrixi).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 250 (II.iii)",
+   "source_text": "Quid hoc? qua causa eum in Ephesum miseram, accepitne aurum ab hospite Archidemide?",
+   "question": "Quo nomine vocabatur hospes Ephesius qui Nicobulo seni aurum debebat, apud Plautum in Bacchidibus?",
+   "answer": "Archidemides.",
+   "question_en": "What was the name of the Ephesian host who owed money to the old man Nicobulus in Plautus' Bacchides?",
+   "answer_en": "Archidemides.",
+   "derivation": "Name fact: Archidemides, the guest-friend at Ephesus from whom the 1200 Philippi were owed and (in the fiction) recovered. Anchored to Nicobulus + the play; one-name answer supported verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Bacchides 275 (II.iii)",
+   "source_text": "Deceptus sum, Autolyco hospiti aurum credidi.",
+   "question": "Cui fabularum furi callidissimo Nicobulus deceptus hospitem suum comparat apud Plautum in Bacchidibus?",
+   "answer": "Autolyco.",
+   "question_en": "To which most cunning thief of legend does the cheated Nicobulus compare his host in Plautus' Bacchides?",
+   "answer_en": "To Autolycus.",
+   "derivation": "Myth as shared story: Autolycus, the arch-thief and grandfather of Odysseus, proverbial for cunning theft; Nicobulus laments he entrusted his gold to an 'Autolycus'. Anchored to Nicobulus + the play; one-name answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 306-307 (II.iii)",
+   "source_text": "nos apud Theotimum omne aurum deposivimus, qui illic sacerdos est Dianae Ephesiae.",
+   "question": "Cuius deae Ephesiae sacerdos erat Theotimus, apud quem Chrysalus aurum depositum esse finxit in Bacchidibus?",
+   "answer": "Dianae.",
+   "question_en": "Of which Ephesian goddess was Theotimus the priest, with whom Chrysalus pretended the gold had been deposited in the Bacchides?",
+   "answer_en": "Diana's.",
+   "derivation": "Religio realia: Theotimus, priest of Diana of Ephesus, whose temple serves as a safe public deposit for the gold in Chrysalus' fiction (temples as banks). Anchored to the named priest + play; one-name answer supported verbatim (sacerdos Dianae Ephesiae).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Bacchides 472-473 (III.iii)",
+   "source_text": "Vbi ea mulier habitat? Hic. Vnde eam esse aiunt? Ex Samo. Quae vocatur? Bacchis.",
+   "question": "Ex qua insula oriundam esse Bacchidem meretricem Lydus apud Plautum in Bacchidibus dicit?",
+   "answer": "Ex Samo.",
+   "question_en": "From what island does Lydus in Plautus' Bacchides say the courtesan Bacchis comes?",
+   "answer_en": "From Samos.",
+   "derivation": "Geography/character fact: the courtesan Bacchis is a Samian (ex Samo), which also grounds the running 'Samian ware' joke. Anchored to the named courtesan + play; one-place answer supported verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Bacchides 244-246 (II.iii)",
+   "source_text": "Pro di immortales, Chrysale, ubi mist filius? Quin tu salutem primum reddis quam dedi? Salve. sed ubinamst Mnesilochus?",
+   "question": "Cuius adulescentis pater est Nicobulus senex apud Plautum in Bacchidibus?",
+   "answer": "Mnesilochi.",
+   "question_en": "Of which young man is the old Nicobulus the father in Plautus' Bacchides?",
+   "answer_en": "Of Mnesilochus.",
+   "derivation": "Dramatis-personae fact: Nicobulus is the father of the adulescens Mnesilochus, the youth in love with a Bacchis, and here asks for his son. Anchored to the named characters + play; one-name answer supported.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 494-495 (III.iii)",
+   "source_text": "Mnesiloche, hoc tecum oro, ut illius animum atque ingenium regas; serva tibi sodalem et mihi filium.",
+   "question": "Cuius adulescentis pater est Philoxenus senex apud Plautum in Bacchidibus?",
+   "answer": "Pistocleri.",
+   "question_en": "Of which young man is the old Philoxenus the father in Plautus' Bacchides?",
+   "answer_en": "Of Pistoclerus.",
+   "derivation": "Dramatis-personae fact: Philoxenus is the father of Pistoclerus (Mnesilochus' friend), here begging Mnesilochus to reform his son. Anchored to the named characters + play; one-name answer supported.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 424-425 (III.iii)",
+   "source_text": "ante solem exorientem nisi in palaestram veneras, gymnasi praefecto haud mediocris poenas penderes.",
+   "question": "Quo tempore diei adulescentes veteris disciplinae in palaestram venire debebant, ut Lydus apud Plautum in Bacchidibus praedicat?",
+   "answer": "Ante solem exorientem.",
+   "question_en": "At what time of day did young men of the old discipline have to arrive at the palaestra, as Lydus proclaims in Plautus' Bacchides?",
+   "answer_en": "Before sunrise.",
+   "derivation": "Mores: the decline-of-education topos; under the old training a youth had to be at the palaestra before sunrise or pay heavy penalties to the gymnasium-master. Anchored to Lydus + the play; short time-answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Bacchides 432-434 (III.iii)",
+   "source_text": "cincticulo praecinctus in sella apud magistrum adsideres cum libro: cum legeres, si unam peccavisses syllabam, fieret corium tam maculosum quam est nutricis pallium.",
+   "question": "Quid discipulo veteris disciplinae eveniebat, si vel unam syllabam legens peccavisset, ut Lydus apud Plautum in Bacchidibus narrat?",
+   "answer": "Verberabatur.",
+   "question_en": "What befell a pupil of the old discipline if he misread even a single syllable, as Lydus recounts in Plautus' Bacchides?",
+   "answer_en": "He was flogged (his hide made as spotted as a nurse's cloak).",
+   "derivation": "Mores: the decline-of-education topos; under the old schooling a single mispronounced syllable earned a beating that left the hide as blotched as a nurse's cloak. Anchored to Lydus + the play; short answer supported by the source (corium maculosum).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Bacchides 589-591 (IV.i)",
+   "source_text": "me misit miles ad eam Cleomachus, vel ut ducentos Philippos reddat aureos vel ut hinc in Elatiam hodie eat secum semul.",
+   "question": "Quo nomine appellatur miles qui Bacchidem meretricem sibi vindicat apud Plautum in Bacchidibus?",
+   "answer": "Cleomachus.",
+   "question_en": "What is the name of the soldier who lays claim to the courtesan Bacchis in Plautus' Bacchides?",
+   "answer_en": "Cleomachus.",
+   "derivation": "Dramatis-personae fact: the braggart-soldier figure of the play is Cleomachus, who demands either 200 Philippi or that Bacchis leave with him. Anchored to the named play; one-name answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 590 (IV.i)",
+   "source_text": "vel ut ducentos Philippos reddat aureos vel ut hinc in Elatiam hodie eat secum semul.",
+   "question": "Quot Philippos aureos miles Cleomachus pro Bacchide reposcit apud Plautum in Bacchidibus?",
+   "answer": "Ducentos.",
+   "question_en": "How many gold Philippics does the soldier Cleomachus demand back for Bacchis in Plautus' Bacchides?",
+   "answer_en": "Two hundred.",
+   "derivation": "Number fact: the soldier's ultimatum is 200 gold Philippi (the price paid for Bacchis) or she departs with him. Anchored to Cleomachus + the play; single-number answer supported verbatim (ducentos Philippos aureos).",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Bacchides 640 (IV.iv)",
+   "source_text": "nam duplex hodie facinus feci, duplicibus spoliis sum adfectus.",
+   "question": "Quotiens Chrysalus eodem die Nicobulum senem fefellisse gloriatur apud Plautum in Bacchidibus?",
+   "answer": "Bis, duplici dolo.",
+   "question_en": "How many times does Chrysalus boast of having deceived the old Nicobulus on the same day in Plautus' Bacchides?",
+   "answer_en": "Twice, by a double deception.",
+   "derivation": "The structural fact of the play, echoing its Greek model Dis Exapaton ('The Double Deceiver'): Chrysalus tricks Nicobulus twice in one day (duplex facinus, duplices spoliae). Anchored to Chrysalus + the play; short answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 649-650 (IV.iv)",
+   "source_text": "non mihi isti placent Parmenones, Syri, qui duas aut tris minas auferunt eris.",
+   "question": "Quorum servorum comicorum nomina Chrysalus fastidit, qui binas aut ternas minas tantum eris auferant, apud Plautum in Bacchidibus?",
+   "answer": "Parmenonum et Syrorum.",
+   "question_en": "Which comic slaves' names does Chrysalus disdain, those who only filch two or three minae from their masters, in Plautus' Bacchides?",
+   "answer_en": "The Parmenos and the Syruses.",
+   "derivation": "Metatheatrical fact: Parmeno and Syrus are the stock names of the wily slave in New Comedy; Chrysalus scorns such small-time cheats, exalting his own grand fraud. Anchored to Chrysalus + the play; two-name answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 665-666 (IV.iv)",
+   "source_text": "si frugi est, Herculem fecit ex patre: decimam partem ei dedit, sibi novem abstulit.",
+   "question": "Cui deo decimam partem lucri Romani dedicare solebant, quod Chrysalus iocatur Mnesilochum patri fecisse apud Plautum in Bacchidibus?",
+   "answer": "Herculi.",
+   "question_en": "To which god did Romans customarily dedicate a tenth of their gains, the joke Chrysalus makes about Mnesilochus and his father in Plautus' Bacchides?",
+   "answer_en": "To Hercules.",
+   "derivation": "Religio realia: the decima Herculis, the Roman custom of dedicating a tithe to Hercules at the Ara Maxima; Chrysalus jokes that Mnesilochus 'made a Hercules of his father' by giving him only a tenth. Anchored to the play; one-name answer supported verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Bacchides 720-721 (IV.iv)",
+   "source_text": "Vbist biclinium vobis stratum?",
+   "question": "Quo genere lecti convivalis, duobus accumbentibus apto, adulescentes cum amicis suis accubituri erant apud Plautum in Bacchidibus?",
+   "answer": "In biclinio.",
+   "question_en": "On what kind of dining-couch, one made for two reclining, were the young men to recline with their girlfriends in Plautus' Bacchides?",
+   "answer_en": "On a biclinium (a dining-couch for two).",
+   "derivation": "Dining realia: the biclinium, a banqueting couch spread for two diners. Anchored to the play; one-word answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Bacchides 719 (IV.iv)",
+   "source_text": "alteram ille amat sororem, ego alteram, ambas Bacchides.",
+   "question": "Quo modo Mnesilochus et Pistoclerus duas sorores Bacchides inter se partiuntur apud Plautum in Bacchidibus?",
+   "answer": "Uterque alteram amat.",
+   "question_en": "How do Mnesilochus and Pistoclerus divide the two sisters, both named Bacchis, between themselves in Plautus' Bacchides?",
+   "answer_en": "Each loves one of the two.",
+   "derivation": "The resolution of the identical-name confusion: Mnesilochus loves one Bacchis, Pistoclerus the other, both sisters. Canonical plot fact; anchored to the named characters + play; short answer supported verbatim (alteram... ego alteram).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Bacchides 810 (IV.vii)",
+   "source_text": "Aha, Bellorophontem tuos me fecit filius: egomet tabellas tetuli ut vincirer.",
+   "question": "Cui heroi Chrysalus se comparat, quod ipse tabellas de se ipso ad vincula tulerit, apud Plautum in Bacchidibus?",
+   "answer": "Bellerophonti.",
+   "question_en": "To which hero does Chrysalus compare himself, because he carried the tablets that would have him bound, in Plautus' Bacchides?",
+   "answer_en": "To Bellerophon.",
+   "derivation": "Myth as shared story: Bellerophon unwittingly bore Proetus' letter to Iobates demanding his own death (the 'Bellerophontic letter'); Chrysalus jokes he too carried the tablets for his own imprisonment. Anchored to Chrysalus + the play; one-name answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 940 (canticum Troianum)",
+   "source_text": "ego sum Vlixes, cuius consilio haec gerunt.",
+   "question": "Cui Graeco duci callidissimo Chrysalus se ipsum in cantico Troiano comparat apud Plautum in Bacchidibus?",
+   "answer": "Vlixi.",
+   "question_en": "To which most cunning Greek leader does Chrysalus liken himself in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "To Ulysses.",
+   "derivation": "The famous conceit of the play's Trojan canticum: Chrysalus casts himself as Ulysses, by whose stratagem the whole affair is carried through. Anchored to Chrysalus + the play; one-name answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 936 (canticum Troianum)",
+   "source_text": "nam ego has tabellas obsignatas consignatas quas fero non sunt tabellae, sed equos quem misere Achivi ligneum.",
+   "question": "Cui rei Troianae Chrysalus tabellas obsignatas comparat, quas ad Nicobulum fert, in cantico Troiano apud Plautum in Bacchidibus?",
+   "answer": "Equo ligneo.",
+   "question_en": "To what Trojan device does Chrysalus liken the sealed tablets he carries to Nicobulus, in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "To the wooden horse.",
+   "derivation": "The central equation of the canticum: the sealed letter is the wooden horse the Achaeans sent, its written words the armed soldiers hidden inside. Myth as shared story and the play's celebrated set-piece; anchored to Chrysalus + the play; short answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 937 (canticum Troianum)",
+   "source_text": "Epiust Pistoclerus: ab eo haec sumptae; Mnesilochus Sino est relictus.",
+   "question": "Quis equum ligneum Troianum fabricatus est, cui Chrysalus Pistoclerum in cantico comparat apud Plautum in Bacchidibus?",
+   "answer": "Epeus.",
+   "question_en": "Who built the Trojan wooden horse, the figure to whom Chrysalus likens Pistoclerus in the canticum of Plautus' Bacchides?",
+   "answer_en": "Epeus.",
+   "derivation": "Myth as shared story: Epeus was the craftsman who built the wooden horse; Chrysalus equates Pistoclerus (from whom the tablets came) with Epeus. Anchored to the play's canticum; one-name answer supported by the text (Epiust Pistoclerus).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 933 (canticum Troianum)",
+   "source_text": "o Troia, o patria, o Pergamum, o Priame periisti senex, qui misere male mulcabere quadringentis Philippis aureis.",
+   "question": "Cui regi Troiano Chrysalus Nicobulum senem in cantico Troiano comparat apud Plautum in Bacchidibus?",
+   "answer": "Priamo.",
+   "question_en": "To which Trojan king does Chrysalus liken the old Nicobulus in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "To Priam.",
+   "derivation": "The canticum's equation: the old man to be despoiled is Priam, his house Troy/Pergamum. Myth and the play's set-piece; anchored to the named characters + play; one-name answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 947-948 (canticum Troianum)",
+   "source_text": "Mnesilochust Alexander, qui erit exitio rei patriae suae; is Helenam avexit, cuia causa nunc facio obsidium Ilio.",
+   "question": "Quam mulierem Alexander avexisse dicitur, cuius causa obsidium Ilio fieri Chrysalus in cantico Troiano dicit, apud Plautum in Bacchidibus?",
+   "answer": "Helenam.",
+   "question_en": "Which woman did Alexander (Paris) carry off, for whose sake Chrysalus says the siege of Ilium is waged, in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "Helen.",
+   "derivation": "Myth as shared story: Paris (Alexander) abducted Helen, the cause of the Trojan war; Chrysalus casts Mnesilochus as Paris. Anchored to the play's canticum; one-name answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 925-928 (canticum Troianum)",
+   "source_text": "Atridae duo fratres cluent fecisse facinus maxumum, quom Priami patriam Pergamum divina moenitum manu armis, equis, exercitu atque eximiis bellatoribus mille cum numero navium decumo anno post subegerunt.",
+   "question": "Quoto anno Atridae Troiam (Pergamum) cepisse dicuntur, ut Chrysalus in cantico Troiano memorat apud Plautum in Bacchidibus?",
+   "answer": "Decimo anno.",
+   "question_en": "In which year are the sons of Atreus said to have taken Troy (Pergamum), as Chrysalus recalls in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "In the tenth year.",
+   "derivation": "Myth as shared story: Troy fell to the Atridae in the tenth year of the war. Anchored to the play's canticum; number-answer supported verbatim (decumo anno).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 925-928 (canticum Troianum)",
+   "source_text": "Atridae duo fratres cluent fecisse facinus maxumum, quom Priami patriam Pergamum divina moenitum manu armis, equis, exercitu atque eximiis bellatoribus mille cum numero navium decumo anno post subegerunt.",
+   "question": "Quot fere navium numero Atridae Troiam oppugnaverunt, ut Chrysalus in cantico Troiano memorat apud Plautum in Bacchidibus?",
+   "answer": "Mille navibus.",
+   "question_en": "With about how many ships did the sons of Atreus besiege Troy, as Chrysalus recalls in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "With a thousand ships.",
+   "derivation": "Myth as shared story: the thousand-ship Greek armada against Troy. Anchored to the play's canticum; number-answer supported verbatim (mille navium).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 973-974 (canticum Troianum)",
+   "source_text": "sed Priamus hic multo illi praestat: non quinquaginta modo, quadringentos filios habet atque equidem omnis lectos sine probro.",
+   "question": "Quot filios Priamum verum habuisse Chrysalus in cantico memorat, cum Nicobulum ei praestare iocatur, apud Plautum in Bacchidibus?",
+   "answer": "Quinquaginta.",
+   "question_en": "How many sons does Chrysalus recall that the real Priam had, when he jokes that Nicobulus surpasses him, in Plautus' Bacchides?",
+   "answer_en": "Fifty.",
+   "derivation": "Myth as shared story: Priam's fifty sons; Chrysalus jokes that his 'Priam' has four hundred (the 400 Philippi). Anchored to the play's canticum; number-answer supported verbatim (quinquaginta).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 953-955 (canticum Troianum)",
+   "source_text": "Ilio tria fuisse audivi fata quae illi forent exitio: signum ex arce si periisset; alterum etiamst Troili mors; tertium, cum portae Phrygiae limen superum scinderetur.",
+   "question": "Quae tria fata Ilio exitio futura Chrysalus in cantico Troiano enumerat apud Plautum in Bacchidibus?",
+   "answer": "Signum ex arce amissum, Troili mors, portae limen superum scissum.",
+   "question_en": "Which three dooms of Ilium does Chrysalus enumerate in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "The loss of the token (Palladium) from the citadel, the death of Troilus, and the breaking of the gate's upper lintel.",
+   "derivation": "Myth as shared story: the three fata of Troy - the Palladium (signum) leaving the citadel, the death of Troilus, and the breaking of the upper lintel of the Phrygian gate. A canonical closed set; anchored to the play's canticum; three-item answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 949-951 (canticum Troianum)",
+   "source_text": "nam illi itidem Vlixem audivi, ut ego sum, fuisse et audacem et malum: in dolis ego prensus sum, ille mendicans paene inventus interiit, dum ibi exquirit fata Iliorum.",
+   "question": "Quo habitu Vlixem Troiam intrasse, ut fata Iliorum exquireret, Chrysalus in cantico Troiano memorat apud Plautum in Bacchidibus?",
+   "answer": "Mendicantis, ut mendicus.",
+   "question_en": "In what guise does Chrysalus recall that Ulysses entered Troy to spy out its fates, in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "As a beggar.",
+   "derivation": "Myth as shared story: Ulysses infiltrated Troy disguised as a beggar to learn its fates, and was nearly caught. Anchored to the play's canticum; short answer supported verbatim (mendicans).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 1050-1052 (IV.ix)",
+   "source_text": "binos ducentos Philippos iam intus ecferam, et militi quos dudum promisi miser et istos.",
+   "question": "Quot Philippos aureos omnino Nicobulus senex, bis deceptus, expendit apud Plautum in Bacchidibus?",
+   "answer": "Quadringentos.",
+   "question_en": "How many gold Philippics in all does the old Nicobulus, twice deceived, pay out in Plautus' Bacchides?",
+   "answer_en": "Four hundred.",
+   "derivation": "Number fact: two lots of 200 Philippi (one for the soldier, one 'for his son') make 400 in all, wrung from Nicobulus by Chrysalus' double fraud. Anchored to the named characters + play; number-answer supported verbatim (binos ducentos).",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Bacchides 971-972 (canticum Troianum)",
+   "source_text": "nunc alteris etiam ducentis usus est, qui dispensentur Ilio capto, ut sit mulsum qui triumphent milites.",
+   "question": "Quo potu milites Ilio capto triumphaturos excipi Chrysalus in cantico Troiano dicit apud Plautum in Bacchidibus?",
+   "answer": "Mulso.",
+   "question_en": "With what drink does Chrysalus say the soldiers will be regaled on the capture of Ilium as they triumph, in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "With mulsum (honeyed wine).",
+   "derivation": "Cibus realia: mulsum, honey-sweetened wine, the festive drink; Chrysalus wants a second 200 so his 'soldiers' can toast the sack of Troy. Anchored to the play's canticum; one-word answer supported verbatim (mulsum).",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Bacchides 946 (canticum Troianum)",
+   "source_text": "miles Menelaust, ego Agamemno, idem Vlixes Lartius.",
+   "question": "Qui duo fratres Atridae Troiam ceperunt, quorum nomina Chrysalus militi et sibi in cantico attribuit, apud Plautum in Bacchidibus?",
+   "answer": "Agamemno et Menelaus.",
+   "question_en": "Which two brother sons of Atreus took Troy, whose names Chrysalus assigns to the soldier and to himself in the canticum of Plautus' Bacchides?",
+   "answer_en": "Agamemnon and Menelaus.",
+   "derivation": "Myth as shared story: Agamemnon and Menelaus, the two Atridae who led the Greeks against Troy. Anchored to the play's canticum; two-name answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 946 (canticum Troianum)",
+   "source_text": "miles Menelaust, ego Agamemno, idem Vlixes Lartius.",
+   "question": "Cuius filius erat Vlixes, quem Chrysalus 'Vlixem Lartium' in cantico Troiano appellat apud Plautum in Bacchidibus?",
+   "answer": "Laertae.",
+   "question_en": "Whose son was Ulysses, whom Chrysalus calls 'Ulysses son of Laertes' in the Trojan canticum of Plautus' Bacchides?",
+   "answer_en": "Of Laertes.",
+   "derivation": "Myth as shared story: Ulysses son of Laertes (the patronymic 'Lartius'). Anchored to the play's canticum; one-name answer supported by the text.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 937-938 (canticum Troianum)",
+   "source_text": "Mnesilochus Sino est relictus, ellum non in busto Achilli, sed in lecto accubat.",
+   "question": "Quem Graecum apud Troiam relictum, qui hostes falleret, Chrysalus Mnesilocho in cantico comparat apud Plautum in Bacchidibus?",
+   "answer": "Sinonem.",
+   "question_en": "Which Greek left behind at Troy to deceive the enemy does Chrysalus compare with Mnesilochus in the canticum of Plautus' Bacchides?",
+   "answer_en": "Sinon.",
+   "derivation": "Myth as shared story: Sinon, the Greek left behind to persuade the Trojans to take the wooden horse; Chrysalus casts Mnesilochus as Sinon. Anchored to the play's canticum; one-name answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Bacchides 563 (III.vi)",
+   "source_text": "Quid? tibi non erat meretricum aliarum Athenis copia quibuscum haberes rem, nisi cum illa quam ego mandassem tibi?",
+   "question": "In qua urbe fabula Plauti quae Bacchides inscribitur agitur?",
+   "answer": "Athenis.",
+   "question_en": "In what city is Plautus' play called Bacchides set?",
+   "answer_en": "At Athens.",
+   "derivation": "Setting fact: the action is at Athens (Mnesilochus speaks of the other courtesans 'at Athens', and Nicobulus sets off for the Piraeus). Anchored to the named play; one-place answer supported verbatim (Athenis).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Bacchides 1209-1210 (grex)",
+   "source_text": "neque adeo haec faceremus, ni antehac vidissemus fieri, ut apud lenones rivales filiis fierent patres.",
+   "question": "Quid patres filiis suis in fine fabulae Bacchidum fiunt, ut grex in epilogo pronuntiat, apud Plautum?",
+   "answer": "Rivales.",
+   "question_en": "What do the fathers become to their own sons at the end of Plautus' Bacchides, as the troupe declares in the epilogue?",
+   "answer_en": "Rivals (in love).",
+   "derivation": "The play's celebrated moral reversal, stated by the epilogue: at the courtesans' house the fathers become their sons' rivals. Anchored to the named play; one-word answer supported verbatim (rivales filiis... patres).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Bacchides 1206 (V.ii)",
+   "source_text": "Lepide ipsi hi sunt capti, suis qui filiis fecere insidias.",
+   "question": "Quos duos senes Bacchides sorores in aedes suas in fine fabulae illiciunt, patres qui filiis insidias fecerant, apud Plautum?",
+   "answer": "Nicobulum et Philoxenum.",
+   "question_en": "Which two old men do the Bacchis sisters entice into their house at the play's end, fathers who had laid snares for their sons, in Plautus' Bacchides?",
+   "answer_en": "Nicobulus and Philoxenus.",
+   "derivation": "The play's closing tableau: the two fathers, come to reclaim their sons, are themselves 'caught' and led inside by the courtesans (the biters bit). Anchored to the named characters + play; two-name answer supported.",
+   "category": "ludi"
+  }
+ ]}

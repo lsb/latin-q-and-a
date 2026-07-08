@@ -1,0 +1,276 @@
+{
+ "source": "text/plautus/cas.txt",
+ "author": "Plautus",
+ "work": "Casina",
+ "pairs": [
+  {
+   "locus": "Plautus, Casina prol. 32-34",
+   "source_text": "Clerumenoe uocatur haec comoedia Graece, latine Sortientes. Deiphilus Hanc graece scripsit, postid rursum denuo Latine Plautus cum latranti nomine.",
+   "question": "Quis poeta Graecus fabulam quam Plautus Casinam fecit primus Graece scripsit?",
+   "answer": "Diphilus.",
+   "question_en": "Which Greek poet first wrote in Greek the play that Plautus made into the Casina?",
+   "answer_en": "Diphilus.",
+   "derivation": "Literary fact stated by the prologue: the Greek original of the Casina was written by Diphilus (Deiphilus). Anchored to the named play; one-name answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina prol. 32",
+   "source_text": "Clerumenoe uocatur haec comoedia Graece, latine Sortientes.",
+   "question": "Quo nomine Graeco haec comoedia, quam Plautus Casinam inscripsit, appellabatur?",
+   "answer": "Clerumenoe.",
+   "question_en": "By what Greek title was this comedy, which Plautus entitled Casina, called?",
+   "answer_en": "Klerumenoi ('The Lot-drawers').",
+   "derivation": "Literary fact from the prologue: the Greek title is Klerumenoi ('The Lot-drawers'), naming the lot-drawing (sortitio) at the play's heart. Anchored to the named play; title answer supported verbatim (Clerumenoe).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina prol. 32",
+   "source_text": "Clerumenoe uocatur haec comoedia Graece, latine Sortientes.",
+   "question": "Quo nomine Latino Plautus fabulam Graece Clerumenoe dictam inscripsit?",
+   "answer": "Sortientes.",
+   "question_en": "By what Latin title did Plautus render the play called in Greek Klerumenoi?",
+   "answer_en": "Sortientes ('The Lot-drawers').",
+   "derivation": "Literary fact from the prologue: the Latin title is Sortientes, a calque of the Greek naming the sortition. Anchored to the named play; title answer supported verbatim (latine Sortientes).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina prol. 71-74",
+   "source_text": "At ego aio id fieri in Graecia et Carthagini Et hic in nostra terra, in Apulia: Maioreque opere ibi seruiles nuptiae Quam liberales etiam curari solent.",
+   "question": "In quibus terris seruiles nuptias fieri prologus Casinae Plauti affirmat?",
+   "answer": "In Graecia, Carthagine, Apulia.",
+   "question_en": "In which lands does the prologue of Plautus' Casina assert that slave-marriages take place?",
+   "answer_en": "In Greece, at Carthage, and in Apulia.",
+   "derivation": "Mores/realia: the prologue defends the plot's 'slave weddings' as genuine custom in Greece, Carthage, and Apulia (arranged there even more elaborately than free weddings). Anchored to the named play; three-place answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Casina prol. 65-68",
+   "source_text": "Hinc adulescentem peregre ablegauit pater. Sciens ei mater dat operam absenti tamen. Is—ne exspectetis—hodie in hac comoedia In urbem non redibit: Plautus noluit: Pontem interrupit, qui erat ei in itinere.",
+   "question": "Cur adulescens, Casinae amator, in hac comoedia in urbem non redit, ut prologus Casinae Plauti iocatur?",
+   "answer": "Plautus pontem in eius itinere interrupit.",
+   "question_en": "Why does the young man, Casina's lover, not return to the city in this comedy, as the prologue of Plautus' Casina jokes?",
+   "answer_en": "Plautus broke the bridge on his road.",
+   "derivation": "Celebrated metatheatrical joke of the prologue: the young lover never appears because 'Plautus did not wish it' and broke the bridge on his way home. Anchored to the named play; short answer supported verbatim (Pontem interrupit).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina prol. 81-84",
+   "source_text": "Reuortar ad illam puellam expositiciam, Quam serui summa ui sibi uxorem expetunt. Ea inuenietur et pudica et libera, Ingenua Atheniensis.",
+   "question": "Cuius ciuitatis ciuis ingenua Casina in fine reperietur, ut prologus Casinae Plauti praedicit?",
+   "answer": "Atheniensis.",
+   "question_en": "Of what city will Casina be found a freeborn citizen, as the prologue of Plautus' Casina foretells?",
+   "answer_en": "An Athenian.",
+   "derivation": "The recognition-plot fact announced by the prologue: the exposed girl Casina will prove chaste, free, and a freeborn Athenian citizen. Anchored to the named play; one-place answer supported verbatim (Ingenua Atheniensis).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina, argumentum 6",
+   "source_text": "Adulescens ducit ciuem Casinam cognitam.",
+   "question": "Quis Casinam, ciuem cognitam, uxorem ducit, ut argumentum Casinae Plauti summatim narrat?",
+   "answer": "Adulescens, Lysidami filius.",
+   "question_en": "Who marries Casina, once recognized as a citizen, as the argument of Plautus' Casina summarizes?",
+   "answer_en": "The young man, Lysidamus' son.",
+   "derivation": "The resolution given by the acrostic argument: the young man marries Casina after she is recognized as a citizen (she herself never appears on stage). Anchored to the named play; short answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina, argumentum 1-2",
+   "source_text": "Conseruam uxorem duo conserui expetunt. Alium senex allegat, alium filius.",
+   "question": "Per quos duos seruos pater Lysidamus et filius de Casina conserua inter se certant apud Plautum in Casina?",
+   "answer": "Per Olympionem et Chalinum.",
+   "question_en": "Through which two slaves do the father Lysidamus and his son contend for the slave-girl Casina in Plautus' Casina?",
+   "answer_en": "Through Olympio and Chalinus.",
+   "derivation": "The play's premise: two fellow-slaves seek Casina as wife, one (Olympio) put forward by the old master, the other (Chalinus) by the son, each a proxy for his champion's own desire. Anchored to the named play; two-name answer supported.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina prol. 53-54",
+   "source_text": "Pater adlegauit uilicum, qui posceret Sibi istanc uxorem: is sperat, si ei sit data, Sibi fore paratas clam uxorem excubias foris.",
+   "question": "Quod officium gerit Olympio, quem Lysidamus senex ad Casinam poscendam allegat, apud Plautum in Casina?",
+   "answer": "Vilicus est.",
+   "question_en": "What post does Olympio hold, whom the old Lysidamus puts forward to ask for Casina, in Plautus' Casina?",
+   "answer_en": "He is the farm-bailiff.",
+   "derivation": "Mores/realia: Olympio is the vilicus (farm-bailiff), the father's rural candidate for Casina's hand. Anchored to the named play; one-word role answer supported verbatim (uilicum... adlegauit pater).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Casina prol. 57-58",
+   "source_text": "Filius is autem armigerum adlegauit suom, Qui sibi eam uxorem poscat.",
+   "question": "Quod officium gerit Chalinus, quem filius ad Casinam poscendam allegat, apud Plautum in Casina?",
+   "answer": "Armiger est.",
+   "question_en": "What post does Chalinus hold, whom the son puts forward to ask for Casina, in Plautus' Casina?",
+   "answer_en": "He is the armor-bearer.",
+   "derivation": "Mores/realia: Chalinus is the armiger (armor-bearer), the son's urban candidate for Casina - the city armiger set against the rural vilicus. Anchored to the named play; one-word role answer supported verbatim (armigerum adlegauit).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Casina prol. 49-50",
+   "source_text": "eam puellam hic senex Amat efflictim et item contra filius.",
+   "question": "Quo nomine appellatur senex maritus qui ancillam Casinam efflictim amat apud Plautum in Casina?",
+   "answer": "Lysidamus.",
+   "question_en": "What is the name of the old husband who desperately loves the slave-girl Casina in Plautus' Casina?",
+   "answer_en": "Lysidamus.",
+   "derivation": "Dramatis-personae fact: the amorous old husband, who loves Casina 'efflictim' and vies with his own son for her, is Lysidamus. Anchored to the named play; one-name answer supported.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina 155-157 (II.i)",
+   "source_text": "Ego illum fame, ego illum siti, Maledictis malefactis amatorem ulciscar.",
+   "question": "Quo nomine appellatur uxor Lysidami, quae marito amatori aduersatur eumque ulcisci parat apud Plautum in Casina?",
+   "answer": "Cleostrata.",
+   "question_en": "What is the name of Lysidamus' wife, who opposes her amorous husband and sets out to punish him in Plautus' Casina?",
+   "answer_en": "Cleostrata.",
+   "derivation": "Dramatis-personae fact: Cleostrata, the wronged matrona, resolves to avenge herself on her lecherous husband (with hunger, thirst, and abuse) and counter-plots against him. Anchored to the named play; one-name answer supported.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina 182 (II.ii)",
+   "source_text": "Credo ecastor: nam uicinam neminem amo merito magis quam te.",
+   "question": "Per quem deum mulieres apud Plautum iurare solent, ut Cleostrata et Myrrhina in Casina 'ecastor' et 'mecastor' usurpant?",
+   "answer": "Per Castorem.",
+   "question_en": "By which god do women customarily swear in Plautus, as Cleostrata and Myrrhina use 'ecastor' and 'mecastor' in the Casina?",
+   "answer_en": "By Castor.",
+   "derivation": "Mores/sociolinguistic realia: in Roman usage women swore by Castor (ecastor/mecastor), a gendered oath; here the matrons Cleostrata and Myrrhina use it. Anchored to the named play + characters; one-name answer supported (ecastor).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Casina II.iv (sortitio)",
+   "source_text": "Et sitellam huc tecum efferto cum aqua et sortis.",
+   "question": "In quod uas sortes coniciebantur, cum Lysidamus et Cleostrata de Casina sortirentur apud Plautum in Casina?",
+   "answer": "In sitellam.",
+   "question_en": "Into what vessel were the lots cast when Lysidamus and Cleostrata drew lots over Casina in Plautus' Casina?",
+   "answer_en": "Into the lot-urn (sitella).",
+   "derivation": "Realia of the Roman sortitio: the lots (sortes) were cast into the sitella, the narrow-necked lot-urn, together with water. Anchored to the named play; one-word answer supported verbatim (sitellam).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Casina II.iv (sortitio)",
+   "source_text": "Et sitellam huc tecum efferto cum aqua et sortis.",
+   "question": "Quid praeter sortes in sitellam infundebatur in sortitione, quam Lysidamus de Casina facit apud Plautum in Casina?",
+   "answer": "Aqua.",
+   "question_en": "What besides the lots was poured into the urn in the sortition that Lysidamus conducts over Casina in Plautus' Casina?",
+   "answer_en": "Water.",
+   "derivation": "Realia of the Roman sortitio: water was put in the sitella so that the lots floated and one rose to be drawn out. Anchored to the named play; one-word answer supported verbatim (cum aqua et sortis).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Casina II.vi (sortitio)",
+   "source_text": "Sed mane dum: num ista aut populna sors aut abiegnast tua?",
+   "question": "Quo materia sortes in sortitione factae erant, quas Olympio in aqua natare timet, apud Plautum in Casina?",
+   "answer": "Ligno, populno uel abiegno.",
+   "question_en": "Of what material were the lots in the sortition made, which Olympio fears might float on the water, in Plautus' Casina?",
+   "answer_en": "Of wood - poplar or fir.",
+   "derivation": "Realia of the sortitio: the sortes were wooden (poplar or fir), light enough that Olympio fears a lot might cheat by floating on the surface. Anchored to the named play; short answer supported verbatim (populna... abiegnast).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Casina II.vii (sortitio)",
+   "source_text": "Sorti sum uictus: Casina nubet uilico.",
+   "question": "Cui seruo sors Casinae ducendae in sortitione obtigit apud Plautum in Casina?",
+   "answer": "Olympioni uilico.",
+   "question_en": "To which slave did the lot for marrying Casina fall in the sortition in Plautus' Casina?",
+   "answer_en": "To Olympio the bailiff.",
+   "derivation": "Outcome of the lot-scene: the sortition falls to Olympio (the father's man, the vilicus), so 'Casina will marry the bailiff' - though Cleostrata's counter-plot will undo it. Anchored to the named characters + play; one-name answer supported verbatim (Casina nubet uilico).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina IV.i",
+   "source_text": "Nec pol ego Nemeae credo neque ego Olympiae Neque usquam ludos tam festiuos fieri Quam hic intus fiunt ludi ludificabiles.",
+   "question": "Quos duos celebres ludos Graecos Pardalisca commemorat, cum ludos in senem factos praestare dicit, apud Plautum in Casina?",
+   "answer": "Nemeos et Olympios.",
+   "question_en": "Which two famous Greek games does Pardalisca mention, when she says the 'games' played on the old man surpass them, in Plautus' Casina?",
+   "answer_en": "The Nemean and Olympic games.",
+   "derivation": "Ludi realia: the Panhellenic games at Nemea and Olympia as the byword for grand festival games; Pardalisca jokes none are as merry as the trick played on Lysidamus. Anchored to the named play; two-item answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina IV.i",
+   "source_text": "Vilicus is autem cum corona candide Vestitus lautus exornatusque ambulat.",
+   "question": "Quo ornatu Olympio uilicus, quasi sponsus ad nuptias paratus, incedit apud Plautum in Casina?",
+   "answer": "Cum corona, candide uestitus.",
+   "question_en": "In what attire does Olympio the bailiff, got up like a bridegroom, walk about in Plautus' Casina?",
+   "answer_en": "Wearing a garland, dressed in white.",
+   "derivation": "Wedding-ritual realia: the bridegroom appears garlanded (cum corona) and dressed in white (candide uestitus), washed and adorned. Anchored to the named play; short answer supported verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Casina IV.i",
+   "source_text": "Illae autem in cubiculo armigerum exornant duae, Quem dent pro Casina nuptum nostro uilico.",
+   "question": "Quem seruum mulieres pro Casina ornatum nuptum Olympioni uilico dant apud Plautum in Casina?",
+   "answer": "Chalinum armigerum.",
+   "question_en": "Which slave do the women dress up and give in marriage to Olympio the bailiff in place of Casina in Plautus' Casina?",
+   "answer_en": "Chalinus the armor-bearer.",
+   "derivation": "The central deception of the play: Cleostrata and Myrrhina disguise the armiger Chalinus as the bride 'Casina' and hand him over to the bailiff - the mock wedding. Anchored to the named characters + play; one-name answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina IV.iii",
+   "source_text": "Age, tibicen, dum illam educunt huc nouam nuptam foras, Suaui cantu concelebra omnem hanc plateam hymenaeo. Io, Hymen hymenaee, o hymen.",
+   "question": "Quo carmine nuptiali Olympio, dum noua nupta deducitur, plateam celebrari iubet apud Plautum in Casina?",
+   "answer": "Hymenaeo, Io Hymen Hymenaee.",
+   "question_en": "With what wedding-song does Olympio bid the street be filled as the new bride is led out in Plautus' Casina?",
+   "answer_en": "With the wedding-hymn, Io Hymen Hymenaee.",
+   "derivation": "Wedding-ritual realia: the hymenaeus, the ritual wedding-cry 'Io Hymen Hymenaee', sung as the bride is led in procession (deductio). Anchored to the named play; short answer supported verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Casina IV.iii",
+   "source_text": "Age, tibicen, dum illam educunt huc nouam nuptam foras, Suaui cantu concelebra omnem hanc plateam hymenaeo.",
+   "question": "Quis musicus, ut noua nupta deducatur, cantu nuptias in fine Casinae Plauti celebrat?",
+   "answer": "Tibicen.",
+   "question_en": "Which musician celebrates the wedding with his playing as the bride is led out at the end of Plautus' Casina?",
+   "answer_en": "The flute-player.",
+   "derivation": "Wedding-ritual realia: the tibicen (flute-player) accompanies the deductio of the bride. Anchored to the named play; one-word answer supported verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Casina IV.iii",
+   "source_text": "Sed eccum progreditur cum corona et lampade Meus socius compar, commaritus, uilicus.",
+   "question": "Quod lumen Olympio, quasi sponsus, ad nuptias Casinae simulatas gestat apud Plautum in Casina?",
+   "answer": "Lampadem, facem nuptialem.",
+   "question_en": "What light does Olympio, playing the bridegroom, carry to the mock wedding of Casina in Plautus' Casina?",
+   "answer_en": "A torch (the wedding torch).",
+   "derivation": "Wedding-ritual realia: the wedding torch (lampas / fax nuptialis) carried in the marriage procession, here by the mock-groom Olympio (garlanded, with torch). Anchored to the named play; one-word answer supported verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Casina IV.iv",
+   "source_text": "Sensim supera tolle limen pedes, mea noua nupta.",
+   "question": "Quid nouae nuptae in ipso limine faciendum erat, ut Pardalisca 'Casinam' deducens monet apud Plautum in Casina?",
+   "answer": "Sensim pedes supra limen tollere.",
+   "question_en": "What was a new bride to do at the very threshold, as Pardalisca warns the 'bride' during the deductio in Plautus' Casina?",
+   "answer_en": "To lift her feet gently over the threshold (not to touch it).",
+   "derivation": "Wedding-ritual realia: the bride was to step carefully over the threshold without touching it (touching it was an ill omen); Pardalisca gives the mock-bride this admonition during the deductio. Anchored to the named play; short answer supported verbatim (supera tolle limen pedes).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Casina V.iv",
+   "source_text": "Bacchae hercle, uxor. Nugatur sciens. Nam ecastor nunc Bacchae nullae ludunt.",
+   "question": "Quas mulieres cultrices Lysidamus falso causatur, quas Myrrhina 'nunc nullas ludere' respondet, apud Plautum in Casina?",
+   "answer": "Bacchas.",
+   "question_en": "Which cult-women does Lysidamus falsely blame, whom Myrrhina answers 'now revel no more', in Plautus' Casina?",
+   "answer_en": "The Bacchants.",
+   "derivation": "Topical religious/historical allusion: Lysidamus blames the Bacchae, but Myrrhina retorts that no Bacchic revels take place now - a reference to the suppression of the Bacchanalia (186 BC). Anchored to the named play; one-word answer supported verbatim (Bacchae nullae ludunt).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Casina, epilogus",
+   "source_text": "Haec Casina huius reperietur filia esse ex proxumo Eaque nubet Euthynico nostro erili filio.",
+   "question": "Quo nomine appellatur Lysidami filius, cui Casina in fine nuptura est, ut epilogus Casinae Plauti praedicit?",
+   "answer": "Euthynicus.",
+   "question_en": "What is the name of Lysidamus' son, whom Casina is to marry in the end, as the epilogue of Plautus' Casina foretells?",
+   "answer_en": "Euthynicus.",
+   "derivation": "The son (the absent young lover, kept off-stage the whole play) is named Euthynicus in the epilogue; Casina, once recognized, will marry him. Anchored to the named play; one-name answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Casina, epilogus",
+   "source_text": "Haec Casina huius reperietur filia esse ex proxumo Eaque nubet Euthynico nostro erili filio.",
+   "question": "Cuius uicini filia Casina in fine reperietur, ut epilogus Casinae Plauti praedicit?",
+   "answer": "Vicini ex proxumo, Alcesimi.",
+   "question_en": "Whose daughter, the next-door neighbor's, will Casina be found to be, as the epilogue of Plautus' Casina foretells?",
+   "answer_en": "The next-door neighbor's (Alcesimus').",
+   "derivation": "The recognition resolution: Casina proves to be the daughter of the neighbor next door (Alcesimus), hence a citizen free to marry Euthynicus. Anchored to the named play; short answer supported verbatim (huius filia... ex proxumo).",
+   "category": "ludi"
+  }
+ ]}
