@@ -1,0 +1,575 @@
+{"source": "text/plautus/menaechmi.txt",
+ "author": "Plautus",
+ "work": "Menaechmi",
+ "pairs": [
+  {
+   "locus": "Plautus, Menaechmi prol. 7-10",
+   "source_text": "Atque hoc poetae faciunt in comoediis: omnis res gestas esse Athenis autumant, quo illud vobis graecum videatur magis; ego nusquam dicam nisi ubi factum dicitur.",
+   "question": "In qua urbe poetae comici omnes res gestas esse autumant, ut prologus Menaechmorum Plauti ait?",
+   "answer": "Athenis.",
+   "question_en": "In what city do comic poets claim all their plots take place, as the prologue of Plautus' Menaechmi says?",
+   "answer_en": "At Athens.",
+   "derivation": "The prologue states the standing convention of the fabula palliata: comic poets set everything at Athens to make the play seem more Greek. A theatrical-convention fact of Roman comedy; anchored to the Menaechmi prologue; one-place answer verbatim (Athenis).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 11-12",
+   "source_text": "atque adeo hoc argumentum graecissat, tamen non atticissat, verum sicilicissitat.",
+   "question": "Cuius terrae esse argumentum Menaechmorum prologus Plauti profitetur, cum id non atticissare sed sicilicissitare dicat?",
+   "answer": "Siciliae.",
+   "question_en": "Of what land does the prologue of Plautus' Menaechmi declare the plot to be, saying it does not 'Atticize' but 'Sicilicizes'?",
+   "answer_en": "Of Sicily.",
+   "derivation": "The prologue's famous coinage sicilicissitat marks the story as Sicilian (the twins are Syracusans), not Attic. The underlying fact — the plot is Sicilian — survives translation even though the coined verbs carry the joke. Anchored to the Menaechmi prologue.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 17-18",
+   "source_text": "Mercator quidam fuit Syracusis senex, ei sunt nati filii gemini duo",
+   "question": "In qua urbe habitabat mercator senex, pater geminorum Menaechmorum, apud Plautum?",
+   "answer": "Syracusis.",
+   "question_en": "In what city lived the old merchant, father of the twin Menaechmi, in Plautus?",
+   "answer_en": "At Syracuse.",
+   "derivation": "The canonical setup of the play: the twins are sons of a Syracusan merchant. Anchored to the father of the Menaechmi; one-place answer verbatim (Syracusis).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 19-21",
+   "source_text": "ita forma simili pueri, ut mater sua non internosse posset quae mammam dabat, neque adeo mater ipsa quae illos pepererat",
+   "question": "Quis, ut prologus Menaechmorum Plauti ait, geminos pueros prae nimia similitudine internoscere non poterat?",
+   "answer": "Ne mater quidem ipsa quae eos pepererat.",
+   "question_en": "Who, as the prologue of Plautus' Menaechmi says, could not tell the twin boys apart because of their extreme likeness?",
+   "answer_en": "Not even their own mother who bore them.",
+   "derivation": "The comic premise of perfect twin likeness, stated in the prologue: neither the nurse nor the very mother who bore them could tell them apart. Canonical play-fact; short answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 24-28",
+   "source_text": "postquam iam pueri septuennes sunt, pater oneravit navem magnam multis mercibus; imponit geminum alterum in navem pater, Tarentum avexit secum ad mercatum simul, illum reliquit alterum apud matrem domi.",
+   "question": "Quot annos nati erant gemini Menaechmi, cum pater alterum secum Tarentum ad mercatum avexit?",
+   "answer": "Septem annos.",
+   "question_en": "How old were the twin Menaechmi when their father carried one of them with him to Tarentum to market?",
+   "answer_en": "Seven years old.",
+   "derivation": "Number fact from the prologue: the boys were septuennes (seven years old) at the fateful voyage to the market at Tarentum. Anchored to the twins + Tarentum; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 29-31",
+   "source_text": "Tarenti ludi forte erant, cum illuc venit. mortales multi, ut ad ludos, convenerant: puer aberravit inter homines a patre.",
+   "question": "Qua occasione puer Menaechmus Tarenti a patre aberravit, ut prologus Plauti narrat?",
+   "answer": "Inter turbam hominum qui ad ludos convenerant.",
+   "question_en": "On what occasion did the boy Menaechmus stray from his father at Tarentum, as the prologue of Plautus tells?",
+   "answer_en": "In the crowd of people who had gathered for the games.",
+   "derivation": "The canonical loss of the twin: games (ludi) were being held at Tarentum, and the boy wandered from his father in the festival crowd. Roman spectacle realia (the games as mass gathering) carrying the plot; anchored to Tarentum + the boy Menaechmus.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 32-33",
+   "source_text": "Epidamniensis quidam ibi mercator fuit, is puerum tollit avehitque Epidamnium.",
+   "question": "In quam urbem mercator ille, qui puerum Menaechmum Tarenti sustulit, eum avexit?",
+   "answer": "Epidamnum.",
+   "question_en": "To what city did the merchant who picked up the boy Menaechmus at Tarentum carry him off?",
+   "answer_en": "To Epidamnus.",
+   "derivation": "Geography of the canonical plot: the stolen twin was carried from Tarentum to Epidamnus (on the Adriatic), where the play is set. Anchored to the boy Menaechmus + Tarentum; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 34-36",
+   "source_text": "pater eius autem postquam puerum perdidit, animum despondit, eaque is aegritudine paucis diebus post Tarenti emortuost.",
+   "question": "Quid patri geminorum Menaechmorum accidit, postquam alterum puerum Tarenti perdidit?",
+   "answer": "Prae aegritudine paucis post diebus Tarenti mortuus est.",
+   "question_en": "What happened to the father of the twin Menaechmi after he lost one of the boys at Tarentum?",
+   "answer_en": "He died of grief at Tarentum a few days later.",
+   "derivation": "Prologue fact: the father lost heart and died of grief within a few days at Tarentum. Anchored to the father of the twins + Tarentum; short verifiable answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi arg. 3-4",
+   "source_text": "Nomen surrepticii illi indit qui domist Avos paternus, facit Maenaechmum e Sosicle.",
+   "question": "Quod nomen puero Sosicli avus paternus apud Plautum indidit, postquam frater eius geminus surreptus est?",
+   "answer": "Menaechmum.",
+   "question_en": "What name did the paternal grandfather give the boy Sosicles in Plautus, after his twin brother was stolen?",
+   "answer_en": "Menaechmus.",
+   "derivation": "The renaming that gives both twins the same name Menaechmus — the engine of the whole comedy of errors (facit Maenaechmum e Sosicle). Anchored to Sosicles + the paternal grandfather; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 60-62",
+   "source_text": "adoptat illum puerum surrupticium sibi filium eique uxorem dotatam dedit, eumque heredem fecit, quom ipse obiit diem.",
+   "question": "Quid mercator Epidamniensis, qui liberos non habebat, de puero Menaechmo surrepto fecit?",
+   "answer": "Adoptavit eum sibi filium heredemque fecit.",
+   "question_en": "What did the childless merchant of Epidamnus do with the stolen boy Menaechmus?",
+   "answer_en": "He adopted him as his son and made him his heir.",
+   "derivation": "Roman legal-family color through the Greek plot: adoption, a dowered wife (uxorem dotatam), and inheritance. The childless kidnapper adopts the boy and leaves him heir. Anchored to the Epidamnian merchant + Menaechmus.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 72",
+   "source_text": "haec urbs Epidamnus est, dum haec agitur fabula: quando alia agetur, aliud fiet oppidum",
+   "question": "In qua urbe fabula Plauti quae Menaechmi inscribitur agitur?",
+   "answer": "Epidamni.",
+   "question_en": "In what city is Plautus' play called Menaechmi set?",
+   "answer_en": "At Epidamnus.",
+   "derivation": "The setting of the play, declared by the prologue. Anchored to the named play; one-place answer verbatim (haec urbs Epidamnus est).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Menaechmi prol. 72-74",
+   "source_text": "haec urbs Epidamnus est, dum haec agitur fabula: quando alia agetur, aliud fiet oppidum; sicut familiae quoque solent mutarier",
+   "question": "Quid de oppido scaenico prologus Menaechmorum Plauti futurum esse dicit, quando alia fabula agetur?",
+   "answer": "Aliud fiet oppidum.",
+   "question_en": "What does the prologue of Plautus' Menaechmi say will become of the stage town when another play is performed?",
+   "answer_en": "It will become another town.",
+   "derivation": "A theatrical-convention fact stated outright: the same stage set serves as a different city for each play, just as the troupe changes roles. Roman theater practice; anchored to the Menaechmi prologue; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 77-78",
+   "source_text": "Iuventus nomen fecit Peniculo mihi, ideo quia mensam, quando edo, detergeo.",
+   "question": "Quam ob rem iuventus parasito in Menaechmis Plauti nomen Peniculo fecit?",
+   "answer": "Quia mensam, quando edit, detergit.",
+   "question_en": "Why did the young men give the parasite in Plautus' Menaechmi the name Peniculus ('the little brush')?",
+   "answer_en": "Because he wipes the table clean when he eats.",
+   "derivation": "The parasite's name-joke is stated in the text itself: Peniculus, 'the little brush/sponge,' because he sweeps the table clean. A canonical character-fact of the play tied to the parasite stock figure; the reason translates. Anchored to Peniculus + Menaechmi.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 87-89",
+   "source_text": "quem tu adservare recte, ne aufugiat, voles, esca atque potione vinciri decet. apud mensam plenam homini rostrum deliges;",
+   "question": "Quibus vinculis, ut Peniculus parasitus apud Plautum censet, homo vinciendus est quem ne aufugiat adservare velis?",
+   "answer": "Esca atque potione.",
+   "question_en": "With what chains, in the view of the parasite Peniculus in Plautus, should a man be bound whom you wish to keep from running away?",
+   "answer_en": "With food and drink.",
+   "derivation": "The parasite's proverbial doctrine: food and drink are the surest chains — the softer they are, the tighter they bind (lenta vincla escaria). A quotable saying with a checkable point; anchored to Peniculus.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Menaechmi 130",
+   "source_text": "hanc modo uxori intus pallam surrupui, ad scortum fero.",
+   "question": "Quod vestimentum Menaechmus Epidamniensis uxori suae intus surripuit, ut amicae meretrici ferret?",
+   "answer": "Pallam.",
+   "question_en": "What garment did Menaechmus of Epidamnus steal from his wife indoors, to carry to his mistress?",
+   "answer_en": "A palla (a woman's mantle).",
+   "derivation": "The stolen palla — the woman's mantle that drives the entire plot of the Menaechmi (the mistress is Erotium, named shortly after at v. 173). Roman dress realia (the palla as the matron's outer garment) plus the canonical plot object; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 143-144",
+   "source_text": "Dic mi, enumquam tu vidisti tabulam pictam in pariete, ubi aquila Catameitum raperet aut ubi Venus Adoneum?",
+   "question": "Quem puerum aquila rapuisse in tabulis pictis in pariete dicitur, quas Menaechmus apud Plautum memorat?",
+   "answer": "Catamitum (Ganymedem).",
+   "question_en": "Which boy is shown being carried off by the eagle in the wall-paintings that Menaechmus mentions in Plautus?",
+   "answer_en": "Catamitus (Ganymede).",
+   "derivation": "Canonical myth as shared story: Jupiter's eagle carrying off Ganymede (Latin Catamitus), paired in the text with Venus and her beloved Adonis (Adoneus). Also evidence that such myth scenes were stock wall-painting subjects. Anchored to the eagle + the paintings Menaechmus cites; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Menaechmi 200-201",
+   "source_text": "meo quidem animo ab Hippolyta subcingulum Hercules haud aeque magno umquam abstulit periculo.",
+   "question": "A qua regina Hercules subcingulum magno periculo abstulit, ut Menaechmus apud Plautum memorat?",
+   "answer": "Ab Hippolyta.",
+   "question_en": "From which queen did Hercules carry off the girdle at great peril, as Menaechmus recalls in Plautus?",
+   "answer_en": "From Hippolyta.",
+   "derivation": "Canonical labor of Hercules — the girdle taken from Hippolyta the Amazon — invoked as a comic comparison for stealing the palla. Myth as shared story; anchored to Hercules + Hippolyta; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Menaechmi 205-206",
+   "source_text": "Quattuor minis ego emi istanc anno uxori meae. PEN. Quattuor minae perierunt plane, ut ratio redditur.",
+   "question": "Quanti Menaechmus Epidamniensis pallam, quam uxori emerat et Erotio dedit, se emisse dicit?",
+   "answer": "Quattuor minis.",
+   "question_en": "For how much does Menaechmus of Epidamnus say he bought the palla that he had bought for his wife and gave to Erotium?",
+   "answer_en": "For four minae.",
+   "derivation": "Price fact in Greek currency (minae): the plot-driving palla cost four minae. 'istanc' refers to the palla just handed over (salta sic cum palla, v. 197). Money realia through the Greek dress; anchored to Menaechmus + the palla; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 222-223",
+   "source_text": "Ego et Menaechmus et parasitus eius. CYL. Iam isti sunt decem; nam parasitus octo hominum munus facile fungitur.",
+   "question": "Quot hominum munus parasitum in edendo facile fungi Cylindrus coquos in Menaechmis Plauti dicit?",
+   "answer": "Octo hominum.",
+   "question_en": "The office of how many men does the cook Cylindrus in Plautus' Menaechmi say a parasite easily performs at table?",
+   "answer_en": "Of eight men.",
+   "derivation": "The cook's joke quantifies the parasite stock figure of Roman comedy: one parasite eats for eight. Anchored to Cylindrus the cook + the parasite; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 232-234",
+   "source_text": "MEN. Fratrem quaesitum geminum germanum meum. MESS. Nam quid modi futurum est illum quaerere? hic annus sextust postquam ei rei operam damus.",
+   "question": "Quotus annus agebatur quaerenti fratrem geminum Menaechmo Sosicli, cum Epidamnum venit, ut Messenio servus ait?",
+   "answer": "Sextus.",
+   "question_en": "What year of the search was running for Menaechmus Sosicles seeking his twin brother when he came to Epidamnus, as the slave Messenio says?",
+   "answer_en": "The sixth.",
+   "derivation": "The famous length of the search: it is the sixth year (hic annus sextust) of hunting the twin over every coast. Anchored to Menaechmus Sosicles + Messenio + Epidamnus; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 263-264",
+   "source_text": "propterea huic urbi nomen Epidamno inditumst, quia nemo ferme huc sine damno devortitur.",
+   "question": "Quam ob causam urbi Epidamno nomen inditum esse Messenio servus apud Plautum iocatur?",
+   "answer": "Quia nemo ferme eo sine damno devortitur.",
+   "question_en": "For what reason does the slave Messenio in Plautus joke that the city of Epidamnus received its name?",
+   "answer_en": "Because almost no one lodges there without loss (damnum).",
+   "derivation": "The famous name-omen joke of the play: Epidamnus explained from damnum, the city of 'loss,' full of pleasure-lovers, drinkers, swindlers, and the most seductive courtesans (vv. 258-262). The point — no one leaves without loss — survives translation with the name glossed. Anchored to Messenio + Epidamnus; stated verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Menaechmi 288-292",
+   "source_text": "Responde mihi, adulescens: quibus hic pretiis porci veneunt sacres sinceri? CYL. Nummis. MEN. Nummum a me accipe: iube te piari de mea pecunia. nam equidem insanum esse te certo scio",
+   "question": "Cuius animalis hostia insani expiari solebant, ut Menaechmus Sosicles apud Plautum, nummum ad piaculum dans, innuit?",
+   "answer": "Porci sacris sinceri.",
+   "question_en": "With the sacrifice of what animal were the mad customarily purified, as Menaechmus Sosicles hints in Plautus when he offers a coin for the expiation?",
+   "answer_en": "Of an unblemished sacrificial pig.",
+   "derivation": "Religious realia: purification (piari) of a madman required a porcus sacer sincerus, an unblemished sacrificial pig — Menaechmus asks the price of such pigs and pays a nummus for Cylindrus to 'get himself purified,' i.e. calls him insane. Ambient Roman expiation rite; anchored to Menaechmus Sosicles + Cylindrus.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Menaechmi 338-343",
+   "source_text": "morem hunc meretrices habent: ad portum mittunt servolos, ancillulas; si quae peregrina navis in portum advenit, rogitant cuiatis sit, quid ei nomen siet, postilla extemplo se applicant, agglutinant: si pellexerunt, perditum amittunt domum.",
+   "question": "Quo meretrices servolos ancillulasque mittere solent, ut advenientium peregrinorum nomina patriamque sciscitentur, ut Messenio apud Plautum docet?",
+   "answer": "Ad portum.",
+   "question_en": "Where do courtesans customarily send their slave-boys and little maids to find out the names and homeland of arriving strangers, as Messenio explains in Plautus?",
+   "answer_en": "To the harbor.",
+   "derivation": "A custom stated as such by the text (morem hunc meretrices habent): harbor scouts greet every foreign ship, learn the stranger's name and origin, then the courtesan fastens on and sends him home ruined. Mores of the demimonde, generalized by the speaker; anchored to Messenio; one-place answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 353-355",
+   "source_text": "sternite lectos, incendite odores; munditia inlecebra animost amantium.",
+   "question": "Quid, ut Erotium meretrix apud Plautum pronuntiat, inlecebra animi amantium est?",
+   "answer": "Munditia.",
+   "question_en": "What, as the courtesan Erotium declares in Plautus, is the lure of lovers' hearts?",
+   "answer_en": "Elegance (munditia).",
+   "derivation": "Erotium's sententia while ordering the couches spread and perfumes burned: munditia — refined elegance — is what lures lovers. Quotable saying with a one-word point; the line also evidences banquet preparation (couches, burning scents). Anchored to Erotium; answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Menaechmi 407-408",
+   "source_text": "Non ego te novi Menaechmum, Moscho prognatum patre, qui Syracusis perhibere natus esse in Sicilia",
+   "question": "Quo patre prognatus erat Menaechmus Syracusanus, ut Erotium apud Plautum refert?",
+   "answer": "Moscho.",
+   "question_en": "Of what father was Menaechmus of Syracuse born, as Erotium relates in Plautus?",
+   "answer_en": "Of Moschus.",
+   "derivation": "The twins' father — the Syracusan merchant of the prologue — is here named: Moschus. Genealogical play-fact; anchored to Menaechmus + Syracuse; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 408-412",
+   "source_text": "qui Syracusis perhibere natus esse in Sicilia, ubi rex Agathocles regnator fuit et iterum Phintia, tertium Liparo, qui in morte regnum Hieroni tradidit, nunc Hiero est?",
+   "question": "Quos quattuor Siciliae regnatores deinceps Erotium in Menaechmis Plauti enumerat?",
+   "answer": "Agathoclem, Phintiam, Liparonem, Hieronem.",
+   "question_en": "Which four rulers of Sicily in succession does Erotium list in Plautus' Menaechmi?",
+   "answer_en": "Agathocles, Phintias, Liparo, and Hiero.",
+   "derivation": "The famous Sicilian king-list of the Menaechmi: Agathocles, then Phintias, third Liparo, who dying handed the kingdom to Hiero (Hiero II), the reigning king. A historical enumeration embedded in the play, much discussed for its chronology; four-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Menaechmi 426-427",
+   "source_text": "Pallam illam, quam dudum dederas, ad phrygionem ut deferas, ut reconcinnetur atque ut opera addantur quae volo.",
+   "question": "Ad quem artificem Erotium pallam sibi datam deferri voluit, ut reconcinnaretur?",
+   "answer": "Ad phrygionem.",
+   "question_en": "To what craftsman did Erotium want the palla given to her taken, to be refurbished?",
+   "answer_en": "To the phrygio (the gold-embroiderer).",
+   "derivation": "Craft realia: the phrygio, the embroiderer (named from Phrygian gold-thread work), the tradesman to whom garments went for refashioning — a plot hinge for the palla. Anchored to Erotium + the palla; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 446-450",
+   "source_text": "numquam quicquam facinus feci peius neque scelestius, quam hodie, quom in contionem mediam me immersi miser. ubi ego dum hieto, Menaechmus se subterduxit mihi atque abiit ad amicam, credo, neque me voluit ducere.",
+   "question": "Quo in conventu civium Peniculus parasitus detentus est, dum Menaechmus ei se subducit atque ad amicam abit?",
+   "answer": "In contione.",
+   "question_en": "In what gathering of the citizens was the parasite Peniculus caught while Menaechmus slipped away from him and went off to his mistress?",
+   "answer_en": "In a public assembly (contio).",
+   "derivation": "Roman civic realia through the Greek dress: the contio — and Peniculus goes on to demand that only idle men be assigned to attend the contio and the comitia (v. 458). Anchored to Peniculus + Menaechmus; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Menaechmi 524-527",
+   "source_text": "Menaechme, amare ait te multum Erotium, ut hoc una opera sibi ad aurificem deferas, atque huc ut addas auri pondo unciam iubeasque spinter novom reconcinnarier.",
+   "question": "Quantum auri Erotium spinteri addi voluit, cum id ad aurificem reconcinnandum mitteret?",
+   "answer": "Pondo unciam.",
+   "question_en": "How much gold did Erotium want added to the bracelet when she sent it to the goldsmith to be refashioned?",
+   "answer_en": "An ounce by weight.",
+   "derivation": "Weight-and-craft realia: an uncia of gold to be added, and the aurifex as the jewelry craftsman. Anchored to Erotium + the spinter (armband); one-measure answer verbatim (auri pondo unciam).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 531-532",
+   "source_text": "Hoc est quod olim clanculum ex armario te surrupuisse aiebas uxori tuae.",
+   "question": "Unde Menaechmus Epidamniensis spinter, quod Erotio dedit, uxori clanculum surripuisse dicebatur?",
+   "answer": "Ex armario.",
+   "question_en": "From where was Menaechmus of Epidamnus said to have secretly stolen from his wife the bracelet he gave to Erotium?",
+   "answer_en": "From her chest (armarium).",
+   "derivation": "The second stolen ornament of the plot: the spinter, filched from the wife's armarium — household realia (the armarium as the cupboard for clothes and valuables), parallel to the stolen palla. Anchored to Menaechmus + Erotium + the spinter.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 120-124",
+   "source_text": "quando ego tibi ancillas, penum, lanam, aurum, vestem, purpuram bene praebeo nec quicquam eges, malo cavebis si sapis, virum observare desines.",
+   "question": "Quae uxori suae se bene praebere Menaechmus Epidamniensis apud Plautum enumerat, ne quicquam egeat?",
+   "answer": "Ancillas, penum, lanam, aurum, vestem, purpuram.",
+   "question_en": "What things does Menaechmus of Epidamnus in Plautus list as amply providing for his wife, so that she lacks nothing?",
+   "answer_en": "Maids, provisions, wool, gold, clothing, and purple.",
+   "derivation": "The canonical catalogue of a matron's maintenance — what a well-kept Roman wife could expect from her husband (maids, the larder, wool to work, gold, dress, purple). Mores of marriage stated verbatim as a six-item list; anchored to Menaechmus + his wife.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 544-546",
+   "source_text": "MEN. Fiat. cedo aurum, ego manupretium dabo. ANC. Da sodes abs te: ego post reddidero tibi.",
+   "question": "Quid Menaechmus se daturum dixit, cum aurum ad inaures faciendas sibi dari ab ancilla Erotii posceret?",
+   "answer": "Manupretium.",
+   "question_en": "What did Menaechmus say he would pay, while demanding that Erotium's maid supply the gold for having the earrings made?",
+   "answer_en": "The manupretium (the fee for the workmanship).",
+   "derivation": "Jewelry-trade realia: the material (gold) was furnished separately from the craftsman's making-fee, the manupretium. The maid has just asked for drop-earrings (stalagmia) of two nummi weight. Anchored to Menaechmus + Erotium's ancilla; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 574-577",
+   "source_text": "clientes sibi omnes volunt esse multos: bonine an mali sint, id haud quaeritant; res magis quaeritur quam clientum fides cuius modi clueat.",
+   "question": "Quid in clientibus magis quam fidem quaeri Menaechmus Epidamniensis apud Plautum queritur?",
+   "answer": "Rem (divitias).",
+   "question_en": "What, more than good faith, does Menaechmus of Epidamnus in Plautus complain is sought in clients?",
+   "answer_en": "Their property (wealth).",
+   "derivation": "The patronage canticum: all men want many clients and ask after the client's wealth, not whether he is good or honest. Roman patronus-cliens mores stated as a general custom; anchored to Menaechmus' complaint; short answer verbatim (res magis quaeritur quam fides).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 585-587",
+   "source_text": "eis ubi dicitur dies, simul patronis dicitur. quippe qui pro illis loquimur quae male fecerunt: aut ad populum aut in iure aut apud aedilem res est.",
+   "question": "Quibus, ubi clienti dies dicta est, eodem tempore dictam esse Menaechmus apud Plautum ait?",
+   "answer": "Patronis.",
+   "question_en": "For whom, when a court day is appointed for a client, is it appointed at the same time, as Menaechmus says in Plautus?",
+   "answer_en": "For the patrons.",
+   "derivation": "Patronus-cliens legal realia: when the client is summoned, the patron is in effect summoned too, since he must speak for his client's misdeeds — before the people, in iure, or before the aedile. Roman institution through the Greek dress; anchored to Menaechmus; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Menaechmi 590-591",
+   "source_text": "apud aediles pro eius factis plurumisque pessumisque dixi causam, condiciones tetuli tortas, confragosas",
+   "question": "Apud quos magistratus Menaechmus Epidamniensis pro cliente suo causam dixisse se ait?",
+   "answer": "Apud aediles.",
+   "question_en": "Before which magistrates does Menaechmus of Epidamnus say he pleaded the case for his client?",
+   "answer_en": "Before the aediles.",
+   "derivation": "Roman magistracy realia poking through the Greek setting: the aediles' court, where the patron pleads for his client. Anchored to Menaechmus + his cliens; one-office answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Menaechmi 632-633",
+   "source_text": "non ego te modo hic ante aedis cum corona florea vidi astare? quom negabas mi esse sanum sinciput",
+   "question": "Qua corona ornatum Peniculus parasitus Menaechmum, e prandio egressum, ante aedis Erotii vidisse ait?",
+   "answer": "Corona florea.",
+   "question_en": "Wearing what garland does the parasite Peniculus say he saw Menaechmus, come out from the lunch, standing before Erotium's house?",
+   "answer_en": "A garland of flowers.",
+   "derivation": "Banquet realia: the corona florea, the flower garland worn by banqueters over their wine — here the telltale sign that the lunch was eaten without Peniculus. Anchored to Peniculus + Menaechmus; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 658-660",
+   "source_text": "Equidem ecastor tuam nec chlamydem do foras nec pallium cuiquam utendum. mulierem aequom est vestimentum muliebre dare foras, virum virile.",
+   "question": "Quae duo vestimenta virilia matrona in Menaechmis Plauti nominat, quae se numquam cuiquam utenda dare dicat?",
+   "answer": "Chlamydem et pallium.",
+   "question_en": "Which two men's garments does the matron in Plautus' Menaechmi name, saying she never lends them out to anyone?",
+   "answer_en": "The chlamys and the pallium.",
+   "derivation": "Dress realia: chlamys and pallium as men's outer garments, opposed to the woman's palla — with the matron's maxim that a woman should lend only women's clothing, a man men's. Anchored to the matrona + the play; two-item answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 714-718",
+   "source_text": "Non tu scis, mulier, Hecubam quapropter canem Graii esse praedicabant? MAT. Non equidem scio. MEN. Quia idem faciebat Hecuba quod tu nunc facis: omnia mala ingerebat, quemquem aspexerat. itaque adeo iure coepta appellari est canes.",
+   "question": "Quam Troianam reginam Graii canem praedicabant, ut Menaechmus Sosicles apud Plautum memorat?",
+   "answer": "Hecubam.",
+   "question_en": "Which Trojan queen did the Greeks call 'the dog,' as Menaechmus Sosicles recalls in Plautus?",
+   "answer_en": "Hecuba.",
+   "derivation": "Canonical myth as shared story: Hecuba called canis by the Greeks (the tradition of her transformation into a dog after Troy's fall), with the aetiology given — she heaped abuse on everyone she saw. Anchored to Hecuba + the Greeks; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Menaechmi 766-767",
+   "source_text": "ita istaec solent, quae viros subservire sibi postulant, dote fretae, feroces.",
+   "question": "Qua re fretae uxores, ut senex in Menaechmis Plauti ait, feroces fiunt virosque sibi subservire postulant?",
+   "answer": "Dote.",
+   "question_en": "Relying on what, as the old man in Plautus' Menaechmi says, do wives become fierce and demand that their husbands serve them?",
+   "answer_en": "On their dowry.",
+   "derivation": "The uxor dotata — the dowered wife emboldened by her dowry — a central fact of Roman marriage economics and a stock theme of the palliata, stated as a general rule (ita istaec solent). Anchored to the senex's dictum; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 795-797",
+   "source_text": "serviren tibi postulas viros? dare una opera pensum postules, inter ancillas sedere iubeas, lanam carere.",
+   "question": "Quod opus inter ancillas sedens facere iuberetur vir, si uxori serviret, ut senex apud Plautum in Menaechmis iocatur?",
+   "answer": "Pensum facere et lanam carere.",
+   "question_en": "What work would a husband be ordered to do sitting among the slave-girls, if he served his wife, as the old man jokes in Plautus' Menaechmi?",
+   "answer_en": "To do the daily wool allotment and card wool.",
+   "derivation": "Household realia: the pensum, the weighed daily portion of wool assigned to the ancillae, and wool-carding as proverbial women's slave work — invoked as the absurd extreme of a husband's servitude. Anchored to the senex + the matrona; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 831-832",
+   "source_text": "Quid mihi meliust, quam quando illi me insanire praedicant, ego med adsimulem insanire, ut illos a me absterream?",
+   "question": "Quid consilii Menaechmus Sosicles apud Plautum cepit, cum matrona et senex eum insanire praedicarent?",
+   "answer": "Vt se insanire adsimularet, ut eos absterreret.",
+   "question_en": "What plan did Menaechmus Sosicles adopt in Plautus when the matron and the old man kept declaring him insane?",
+   "answer_en": "To pretend to be mad himself, in order to scare them away.",
+   "derivation": "The celebrated feigned-madness scene of the Menaechmi: the Syracusan twin, harassed as a madman, decides to play mad in earnest. A canonical scene-fact of the play; anchored to Menaechmus Sosicles + the matrona and senex; supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 835",
+   "source_text": "Euhoe Bacche, Bromie, quo me in silvam venatum vocas?",
+   "question": "Quem deum, et quo cognomine, Menaechmus Sosicles insaniam simulans primum invocat apud Plautum?",
+   "answer": "Bacchum, cognomine Bromium.",
+   "question_en": "Which god, and by what epithet, does Menaechmus Sosicles first invoke while feigning madness in Plautus?",
+   "answer_en": "Bacchus, by the epithet Bromius.",
+   "derivation": "The feigned madman opens with the Bacchic cry (Euhoe Bacche, Bromie): Bacchic possession as the very type of frenzy, and Bromius ('the Roarer') as the god's cult epithet. Religious realia through the mad scene; anchored to Menaechmus Sosicles; answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Menaechmi 840-841",
+   "source_text": "Ecce, Apollo mi ex oraclo imperat, ut ego illi oculos exuram lampadibus ardentibus.",
+   "question": "Cuius dei oraculum sibi imperare Menaechmus Sosicles, insaniam simulans, fingebat?",
+   "answer": "Apollinis.",
+   "question_en": "Which god's oracle did Menaechmus Sosicles, feigning madness, pretend was giving him commands?",
+   "answer_en": "Apollo's.",
+   "derivation": "In the feigned-madness scene the commands come from Apollo's oracle — Apollo as the oracular god whose voice the frenzied hear. Anchored to Menaechmus Sosicles; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Menaechmi 885-887",
+   "source_text": "ait se obligasse crus fractum Aesculapio, Apollini autem brachium. nunc cogito, utrum me dicam ducere medicum an fabrum.",
+   "question": "Quibus deis medicus in Menaechmis Plauti crus fractum et brachium obligavisse se iactabat?",
+   "answer": "Aesculapio crus, Apollini brachium.",
+   "question_en": "For which gods did the doctor in Plautus' Menaechmi boast he had bound up a broken leg and an arm?",
+   "answer_en": "A leg for Aesculapius, an arm for Apollo.",
+   "derivation": "The medicus' absurd boast, reported by the senex: he has treated Aesculapius — the god of healing himself — and Apollo, making the old man wonder whether he is fetching a doctor or a carpenter. Canonical satire of the braggart doctor; two-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 889-891",
+   "source_text": "num laruatust aut cerritus? fac sciam. num eum veternus aut aqua intercus tenet?",
+   "question": "Quos duos morbos medicus in Menaechmis quaerit num aegrotum teneant, cum primum de Menaechmo percontatur?",
+   "answer": "Veternus aut aqua intercus.",
+   "question_en": "Which two diseases does the doctor in the Menaechmi ask whether they grip the sick man, when he first inquires about Menaechmus?",
+   "answer_en": "Lethargy (veternus) or dropsy (aqua intercus).",
+   "derivation": "Medical realia: the doctor's stock diagnostic questions — is the man laruatus (ghost-possessed) or cerritus (frenzied), sunk in veternus (lethargy), or held by aqua intercus (dropsy, 'water under the skin')? Named ailments of ancient medicine; anchored to the medicus of the play.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 914-915",
+   "source_text": "Dic mihi hoc quod te rogo: album an atrum vinum potas?",
+   "question": "Quid de vino medicus in Menaechmis Plauti Menaechmum interrogavit?",
+   "answer": "Album an atrum vinum potaret.",
+   "question_en": "What did the doctor in Plautus' Menaechmi ask Menaechmus about wine?",
+   "answer_en": "Whether he drank white or dark wine.",
+   "derivation": "The famous diagnostic question — white wine or dark? — which provokes Menaechmus' retort about purple bread and feathered fish. Wine was classed album/atrum in daily speech; anchored to the medicus + Menaechmus; short answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Menaechmi 950",
+   "source_text": "MED. Elleborum potabis faxo aliquos viginti dies.",
+   "question": "Quod medicamentum medicus in Menaechmis Menaechmo, pro insano habito, per viginti fere dies potandum minatur?",
+   "answer": "Elleborum.",
+   "question_en": "What drug does the doctor in the Menaechmi threaten that Menaechmus, taken for a madman, will drink for some twenty days?",
+   "answer_en": "Hellebore.",
+   "derivation": "Hellebore, the proverbial cure for madness in antiquity, here prescribed for some twenty days. Ambient medical culture (elleborum as the madman's drink); anchored to the medicus + Menaechmus; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 941-942",
+   "source_text": "At ego te sacram coronam surrupuisse Iovi scio, et ob eam rem in carcerem ted esse compactum scio",
+   "question": "Quid senem surripuisse Iovi Menaechmus Sosicles, male dicta rependens, criminatur, ob quod in carcerem compactus sit?",
+   "answer": "Sacram coronam.",
+   "question_en": "What does Menaechmus Sosicles, paying back insult with insult, charge the old man with having stolen from Jupiter, for which he was thrown into prison?",
+   "answer_en": "The sacred crown.",
+   "derivation": "Roman penal color through the mock-charges: temple theft — the sacred crown of Jupiter — punished with the carcer. Anchored to Menaechmus Sosicles + the senex + Jupiter; short answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Menaechmi 943-944",
+   "source_text": "et postquam es emissus, caesum virgis sub furca scio; tum patrem occidisse et matrem vendidisse etiam scio.",
+   "question": "Quo supplicio senem, e carcere emissum, adfectum esse Menaechmus Sosicles per convicium ait?",
+   "answer": "Virgis caesum sub furca.",
+   "question_en": "With what punishment does Menaechmus Sosicles abusively claim the old man was visited after being let out of prison?",
+   "answer_en": "Beaten with rods under the furca (the yoke-fork).",
+   "derivation": "Roman punishment realia: flogging with rods while bound under the furca, the fork-shaped yoke of slaves and criminals — part of the celebrated mock-madness slanging match. Anchored to the senex; short answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Menaechmi 972-976",
+   "source_text": "recordetur id, qui nihili sunt, quid eis preti detur ab suis eris, ignavis, improbis viris: verbera compedes molae, magna lassitudo fames frigus durum, haec pretia sunt ignaviae.",
+   "question": "Quae pretia ignaviae servis improbis ab eris dari Messenio servus apud Plautum enumerat?",
+   "answer": "Verbera, compedes, molae, lassitudo, fames, frigus.",
+   "question_en": "What wages of laziness does the slave Messenio in Plautus list as given by masters to worthless slaves?",
+   "answer_en": "Beatings, fetters, the mill, weariness, hunger, and hard cold.",
+   "derivation": "The canonical catalogue of slave punishments — above all the mill (molae, the pistrinum dreaded by every comic slave) — recited by the model slave Messenio in his good-slave monologue. Slave-culture mores; anchored to Messenio; list answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 1088-1090",
+   "source_text": "nam ego hominem hominis similiorem numquam vidi alterum. neque aqua aquae nec lacte est lactis, crede mi, usquam similius, quam hic tui est, tuque huius autem",
+   "question": "Quibus rerum similitudinibus Messenio geminorum Menaechmorum similitudinem apud Plautum comparat?",
+   "answer": "Aquae ad aquam et lactis ad lac.",
+   "question_en": "To what likenesses does Messenio compare the resemblance of the twin Menaechmi in Plautus?",
+   "answer_en": "Of water to water and of milk to milk.",
+   "derivation": "The proverbial comparison for perfect likeness — 'not water to water nor milk to milk is more alike' — the ancestor of 'as like as two drops of water.' A quotable saying with a checkable point; anchored to Messenio + the twins; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Menaechmi 1115-1116",
+   "source_text": "quot eras annos gnatus, quom te pater a patria avehit? MEN. Septuennis: nam tunc dentes mihi cadebant primulum.",
+   "question": "Quo corporis signo Menaechmus se septuennem fuisse probat, cum pater eum a patria avexit?",
+   "answer": "Dentes ei tum primulum cadebant.",
+   "question_en": "By what bodily sign does Menaechmus establish that he was seven years old when his father carried him from his homeland?",
+   "answer_en": "His teeth were then just beginning to fall out.",
+   "derivation": "Childhood realia: the shedding of the milk teeth around age seven, used as the memory-proof in the recognition catechism. Ambient shared knowledge of the life course; anchored to Menaechmus + the recognition scene; verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 1131",
+   "source_text": "MEN. Quid erat nomen nostrae matri? SOS. Teuximarchae. MEN. Convenit.",
+   "question": "Quod nomen erat matri geminorum Menaechmorum, ut in agnitione fabulae Plautinae convenit?",
+   "answer": "Teuximarcha.",
+   "question_en": "What was the name of the mother of the twin Menaechmi, as agreed in the recognition scene of Plautus' play?",
+   "answer_en": "Teuximarcha.",
+   "derivation": "The clinching recognition token: the twins' mother was named Teuximarcha. One-name genealogical play-fact; anchored to the twin Menaechmi; answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 1146-1148",
+   "source_text": "MESS. Numquid me morare quin ego liber, ut iusti, siem? MEN. Optimum atque aequissimum orat, frater: fac causa mea. SOS. Liber esto.",
+   "question": "Quo praemio Messenio servus in fine Menaechmorum donatus est, quod erum e raptoribus servaverat?",
+   "answer": "Libertate (manumissus est).",
+   "question_en": "With what reward was the slave Messenio presented at the end of the Menaechmi, because he had saved his master from the kidnappers?",
+   "answer_en": "With freedom (he was manumitted).",
+   "derivation": "Manumission realia: the master's bare declaration 'liber esto' frees the slave on the spot — Messenio's reward for the rescue, first asked for with 'med emittas manu' (v. 1023). Roman institution through the Greek dress; anchored to Messenio + the twins.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Menaechmi 1152-1153",
+   "source_text": "in patriam redeamus ambo. MEN. Frater, faciam, ut tu voles. auctionem hic faciam et vendam quidquid est.",
+   "question": "Quid Menaechmus Epidamniensis in fine fabulae facere constituit, priusquam cum fratre Syracusas rediret?",
+   "answer": "Auctionem, ut venderet quidquid haberet.",
+   "question_en": "What did Menaechmus of Epidamnus decide to hold at the end of the play, before returning with his brother to Syracuse?",
+   "answer_en": "An auction, to sell everything he had.",
+   "derivation": "The famous auction ending: everything — slaves, furniture, farms, house — to be sold, on the seventh day, for ready cash (praesenti pecunia), so the brothers can go home to Syracuse. Canonical close of the play; anchored to Menaechmus + Syracuse; verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Menaechmi 1155-1157",
+   "source_text": "MES. Praeconium mi ut detis. M. Dabitur. MES. Ergo nunciam vis conclamari auctionem fore? MEN. Equidem die septimi.",
+   "question": "Quod munus Messenio sibi dari rogavit, cum auctio Menaechmi indiceretur?",
+   "answer": "Praeconium.",
+   "question_en": "What office did Messenio ask to be given when Menaechmus' auction was announced?",
+   "answer_en": "The crier's office (praeconium).",
+   "derivation": "Auction realia: the praeco cries the sale — the newly freed Messenio asks for the job and at once proclaims the auction, set for the seventh day. Anchored to Messenio + the auction; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Menaechmi 1158-1160",
+   "source_text": "venibunt servi, supellex, fundi, aedes, omnia. venibunt quiqui licebunt, praesenti pecunia. venibit uxor quoque etiam, si quis emptor venerit.",
+   "question": "Quis in auctione Menaechmi venibit, si quis emptor venerit, ut Messenio in extrema fabula Plauti proclamat?",
+   "answer": "Vxor quoque.",
+   "question_en": "Who too will be sold at Menaechmus' auction, if any buyer turns up, as Messenio proclaims at the very end of Plautus' play?",
+   "answer_en": "Even the wife.",
+   "derivation": "The play's closing joke: at the auction of slaves, furniture, farms, and house — all for ready cash — 'the wife too will be sold, if a buyer comes.' Canonical ending of the Menaechmi; anchored to Messenio's proclamation; verbatim.",
+   "category": "ludi"
+  }
+]}

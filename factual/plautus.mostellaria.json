@@ -1,0 +1,615 @@
+{"source": "text/plautus/mostellaria.txt",
+ "author": "Plautus",
+ "work": "Mostellaria",
+ "pairs": [
+  {
+   "locus": "Plautus, Mostellaria 15-17",
+   "source_text": "Tu urbanus vero scurra, deliciae popli, rus mihi tu obiectas? sane hoc, credo, Tranio, quod te in pistrinum scis actutum tradier.",
+   "question": "Quem servum urbanum Grumio bubulcus in prima scaena Mostellariae Plauti 'urbanum scurram, delicias populi' appellat?",
+   "answer": "Tranionem.",
+   "question_en": "Which city slave does the ox-herd Grumio in the first scene of Plautus' Mostellaria call 'a city buffoon, the people's darling'?",
+   "answer_en": "Tranio.",
+   "derivation": "The opening country-versus-city slave quarrel: Grumio the rusticus up from the farm confronts Tranio the urbanus — the mores contrast that frames the play, with the pistrinum (the mill) as the city slave's promised punishment. Anchored to Grumio + Tranio; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 20-24",
+   "source_text": "nunc, dum tibi lubet licetque, pota, perde rem, corrumpe erilem adulescentem optumum; dies noctesque bibite, pergraecamini, amicas emite liberate, pascite parasitos, obsonate pollucibiliter.",
+   "question": "Quo uno verbo Grumio in Mostellaria Plauti dies noctesque potare et luxuriose Graecorum more vivere complectitur?",
+   "answer": "Pergraecamini (pergraecari).",
+   "question_en": "With what single word does Grumio in Plautus' Mostellaria sum up drinking day and night and living luxuriously in the Greek manner?",
+   "answer_en": "Pergraecamini ('carouse Greek-style' — the verb pergraecari).",
+   "derivation": "The Roman cultural verb pergraecari — to carouse in Greek fashion — the Roman habit of labeling round-the-clock debauchery as 'living Greek,' hurled by the country slave at the city household. A named-custom fact that survives translation; anchored to Grumio + the Mostellaria; verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 55-57",
+   "source_text": "O carnuficium cribrum, quod credo fore, ita te forabunt patibulatum per vias stimulis carnufices, si huc reveniat senex.",
+   "question": "Quo supplicii instrumento oneratum Tranionem per vias agitatum iri Grumio minatur, si senex redierit?",
+   "answer": "Patibulo (patibulatum).",
+   "question_en": "Loaded with what instrument of punishment does Grumio threaten that Tranio will be driven through the streets, if the old man comes back?",
+   "answer_en": "With the patibulum (the cross-beam yoke).",
+   "derivation": "Roman penal realia through the Greek dress: the condemned slave paraded patibulatus — carrying the cross-beam — through the streets while the carnufices (executioners) prod him full of holes like 'a hangman's sieve.' Anchored to Grumio + Tranio; verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Mostellaria 66-67",
+   "source_text": "Tace atque abi rus. ego ire in Piraeum volo, in vesperum parare piscatum mihi.",
+   "question": "Quem in portum Tranio in Mostellaria piscatum ad vesperum paraturus se ire dicit?",
+   "answer": "In Piraeum.",
+   "question_en": "To what harbor does Tranio in the Mostellaria say he is going, to lay in fish for the evening?",
+   "answer_en": "To the Piraeus.",
+   "derivation": "Geography of the setting: the Piraeus, the harbor of Athens (the play's city), where Tranio goes to buy the evening's fish — fish as the delicacy of the carousing table. Anchored to Tranio + the Piraeus; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Mostellaria 77-80",
+   "source_text": "facite, huc ut redeat noster quam primum senex, triennium qui iam hinc abest, prius quam omnia periere, et aedis et ager",
+   "question": "Quot annos Theopropides senex peregre iam afuerat, cum Grumio deos precatur ut quam primum redeat?",
+   "answer": "Triennium.",
+   "question_en": "For how many years had the old man Theopropides already been away abroad, when Grumio prays the gods for his speedy return?",
+   "answer_en": "Three years.",
+   "derivation": "The canonical time-frame of the Mostellaria: the father three years abroad while the son devours house and land. Anchored to Theopropides (the absent senex) + Grumio's prayer; one-word number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 91-92",
+   "source_text": "novarum aedium esse arbitror similem ego hominem, quando natus est.",
+   "question": "Cui rei Philolaches in celebri cantico Mostellariae hominem, quando natus est, similem esse arbitratur?",
+   "answer": "Novis aedibus.",
+   "question_en": "To what does Philolaches, in the famous canticum of the Mostellaria, judge a man to be similar when he is born?",
+   "answer_en": "To a new house.",
+   "derivation": "The celebrated building-simile canticum of the play: a man is like a newly built house — the parents are the builders, and the storm of idleness and the rain of love rot the timbers. Canonical literary fact; anchored to Philolaches; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 126-128",
+   "source_text": "expoliunt: docent litteras, iura leges, sumptu suo et labore nituntur, ut alii sibi esse illorum similis expetant.",
+   "question": "Quas artes parentes liberos suo sumptu docere Philolaches in Mostellaria enumerat, dum eos quasi fabri expoliunt?",
+   "answer": "Litteras, iura, leges.",
+   "question_en": "What subjects does Philolaches in the Mostellaria list that parents have their children taught at their own expense, polishing them like builders?",
+   "answer_en": "Letters, rights, and laws.",
+   "derivation": "Education realia inside the building-simile: the freeborn son's curriculum — letters, rights, laws — paid for with the parents' own money and labor. Anchored to Philolaches' canticum; three-item answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 129-130",
+   "source_text": "ad legionem cum ita paratos mittunt, adminiclum eis danunt tum iam, aliquem cognatum suom.",
+   "question": "Quem adminiculi loco parentes filio ad legionem misso dare solent, ut Philolaches in Mostellaria ait?",
+   "answer": "Aliquem cognatum suum.",
+   "question_en": "Whom do parents customarily give as a support to a son sent off to the legion, as Philolaches says in the Mostellaria?",
+   "answer_en": "Some kinsman of theirs.",
+   "derivation": "Military-social realia: the young recruit sent to the legion under the wing of a kinsman; after one campaign served (emeritum stipendium, v. 131) the quality of the 'building' shows. Anchored to Philolaches; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 150-153",
+   "source_text": "quo neque industrior de iuventute erat quisquam nec clarior arte gymnastica: disco, hastis, pila, cursu, armis, equo victitabam volup",
+   "question": "Quibus exercitationibus gymnasticis Philolaches adulescens, priusquam amori se dedit, victitasse se dicit?",
+   "answer": "Disco, hastis, pila, cursu, armis, equo.",
+   "question_en": "In what gymnastic exercises does the young Philolaches say he used to pass his life, before he gave himself to love?",
+   "answer_en": "The discus, javelins, ball-play, running, arms, and horsemanship.",
+   "derivation": "The catalogue of a model youth's training — discus, javelin, ball, running, arms drill, riding — the shared ideal of gymnastic education for the young. Anchored to Philolaches; six-item list verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria arg. 1",
+   "source_text": "Manu misit emptos suos amores Philolaches Omnemque absente rem suo absumit patre.",
+   "question": "Quid Philolaches adulescens de Philematio meretrice, amoribus suis emptis, fecit apud Plautum in Mostellaria?",
+   "answer": "Manu misit (emptam liberavit).",
+   "question_en": "What did the young Philolaches do with the courtesan Philematium, his purchased love, in Plautus' Mostellaria?",
+   "answer_en": "He manumitted her (bought her and set her free).",
+   "derivation": "The premise of the play, stated in the argumentum: Philolaches bought his beloved and freed her — 'Solam ille me soli sibi suo sumptu liberavit' (v. 204) — the spending that drives the whole plot. Manumission realia; anchored to Philolaches + Philematium.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 169",
+   "source_text": "non vestem amatores amant mulieris, sed vestis fartim.",
+   "question": "Quid amatores re vera amare Scapha ancilla in Mostellaria dicit, non vestem mulieris?",
+   "answer": "Vestis fartim.",
+   "question_en": "What does the maid Scapha in the Mostellaria say lovers really love, not a woman's dress?",
+   "answer_en": "The 'stuffing' of the dress (what fills it).",
+   "derivation": "Scapha's quotable maxim from the dressing scene: lovers love not the dress but its filling. A saying with a checkable one-phrase point; anchored to Scapha + the Mostellaria; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 188-190",
+   "source_text": "Tu ecastor erras, quae quidem illum expectes unum atque illi morem praecipue sic geras atque alios asperneris. matronae, non meretricium est unum inservire amantem.",
+   "question": "Cuius mulieris esse Scapha in Mostellaria dicit uni amanti inservire — matronae an meretricis?",
+   "answer": "Matronae.",
+   "question_en": "Whose part does Scapha in the Mostellaria say it is to devote oneself to a single lover — the matron's or the courtesan's?",
+   "answer_en": "The matron's.",
+   "derivation": "The mores contrast stated as a rule: serving one lover alone befits the matrona, not the meretrix trade. Ambient social knowledge of the two roles; anchored to Scapha advising Philematium; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 227-228",
+   "source_text": "Vt fama est homini, exin solet pecuniam invenire. ego si bonam famam mihi servasso, sat ero dives.",
+   "question": "Qua re servata Philematium in Mostellaria satis divitem se fore dicit?",
+   "answer": "Bona fama.",
+   "question_en": "By keeping what does Philematium in the Mostellaria say she will be rich enough?",
+   "answer_en": "Her good reputation.",
+   "derivation": "Philematium's sententia: as a person's reputation is, so comes the money — keep good fame and you are rich enough. A quotable maxim with a one-phrase answer; anchored to Philematium; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 241-242",
+   "source_text": "Edepol si summo Iovi bovi eo argento sacruficassem, pro illius capite quod dedi, numquam aeque id bene locassem.",
+   "question": "Quod animal summo Iovi sacrificari solitum Philolaches in Mostellaria memorat, cum argentum pro Philematio datum bene locatum esse gaudet?",
+   "answer": "Bovem.",
+   "question_en": "What animal, customarily sacrificed to highest Jupiter, does Philolaches mention in the Mostellaria, rejoicing that the money paid for Philematium was well spent?",
+   "answer_en": "An ox.",
+   "derivation": "Religious realia: the ox as the victim for supreme Jupiter — Philolaches says even sacrificing an ox to Jove with that silver would not have placed it better. Anchored to Philolaches + Iuppiter; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mostellaria 248",
+   "source_text": "Cedo mi speculum et cum ornamentis arculam actutum, Scapha, ornata ut sim, quom huc adveniat Philolaches voluptas mea.",
+   "question": "Quae duo Philematium a Scapha sibi adferri iubet, ut ornata sit cum Philolaches adveniat?",
+   "answer": "Speculum et arculam cum ornamentis.",
+   "question_en": "What two things does Philematium order Scapha to bring her, so that she may be adorned when Philolaches arrives?",
+   "answer_en": "A mirror and the little casket with her ornaments.",
+   "derivation": "Toilette realia of the dressing scene: the speculum and the arcula ornamentorum (jewel-casket) — the standard kit of a woman's adornment; Scapha retorts that she who spurns her age needs the mirror. Anchored to Philematium + Scapha; two-item answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 258-261",
+   "source_text": "Cedo cerussam. SC. Quid cerussa opust nam? PHILEM. Qui malas oblinam. SC. Vna opera ebur atramento candefacere postules. PHILOL. Lepide dictum de atramento atque ebore. euge, plaudo Scaphae. PHILEM. Tum tu igitur cedo purpurissum.",
+   "question": "Quae duo pigmenta Philematium in ornatu a Scapha poscit, alterum quo malas oblinat, alterum quo eas rubricet?",
+   "answer": "Cerussam et purpurissum.",
+   "question_en": "What two cosmetics does Philematium demand from Scapha at her toilette, one to whiten her cheeks and one to redden them?",
+   "answer_en": "White lead (cerussa) and rouge (purpurissum).",
+   "derivation": "Cosmetics realia: cerussa (white lead) for whitening the cheeks and purpurissum (purple rouge) — with Scapha's retort that painting the young girl is like whitening ivory with ink. The two staple face-paints of the Roman toilette; anchored to Philematium + Scapha; verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 272-273",
+   "source_text": "Etiamne unguentis unguendam censes? SC. Minime feceris. PHILEM. Quapropter? SC. Quia ecastor mulier recte olet, ubi nihil olet.",
+   "question": "Quando mulier recte olet, ut Scapha ancilla in Mostellaria Plauti pronuntiat?",
+   "answer": "Vbi nihil olet.",
+   "question_en": "When does a woman smell right, as the maid Scapha declares in Plautus' Mostellaria?",
+   "answer_en": "When she smells of nothing.",
+   "derivation": "The famous maxim against perfumes — a woman smells best when she smells of nothing; old women who drench themselves in unguents smell, once the sweat mixes in, like a cook's confusion of sauces. A celebrated quotable saying (echoed by later authors); anchored to Scapha; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 289",
+   "source_text": "pulchra mulier nuda erit quam purpurata pulchrior",
+   "question": "Qualis pulchra mulier pulchrior erit quam purpurata, ut Scapha in Mostellaria ait?",
+   "answer": "Nuda.",
+   "question_en": "In what state will a beautiful woman be more beautiful than one robed in purple, as Scapha says in the Mostellaria?",
+   "answer_en": "Naked (unadorned).",
+   "derivation": "Scapha's dressing-scene maxim: real beauty needs no purple — 'if she is beautiful, she is adorned enough' (v. 292). Quotable saying with a one-word point; anchored to Scapha; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 299-300",
+   "source_text": "Etiam nunc decem minae apud te sunt; vel rationem puta. triginta minas pro capite tuo dedi.",
+   "question": "Quantum argenti Philolaches pro capite Philematii liberando dedisse se dicit?",
+   "answer": "Triginta minas.",
+   "question_en": "How much money does Philolaches say he paid for Philematium's freedom?",
+   "answer_en": "Thirty minae.",
+   "derivation": "The price of the beloved's head: thirty minae — the sum borrowed at interest from the danista, the debt that drives the play's second intrigue. Money realia in Greek currency; anchored to Philolaches + Philematium; number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 308",
+   "source_text": "Age accumbe igitur. cedo aquam manibus, puere, appone hic mensulam. vide, tali ubi sint. vin unguenta?",
+   "question": "Quos ad lusum Philematium, convivio cum Philolache parato, ubi sint videri iubet?",
+   "answer": "Talos.",
+   "question_en": "What gaming pieces does Philematium, as the little banquet with Philolaches is laid, order to be looked out?",
+   "answer_en": "The knucklebones (tali).",
+   "derivation": "Banquet realia in one line: water for the hands, the little serving table, and the tali — knucklebone dice, the standard game over wine. Anchored to Philematium + the banquet; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 317-318",
+   "source_text": "nunc comissatum ibo ad Philolachetem, ubi nos hilari ingenio et lepide accipient.",
+   "question": "Ad quem se comissatum ire Callidamates ebrius in Mostellaria dicit?",
+   "answer": "Ad Philolachetem.",
+   "question_en": "To whose house does the drunken Callidamates in the Mostellaria say he is going to carry the revel (comissatum)?",
+   "answer_en": "To Philolaches'.",
+   "derivation": "The comissatio custom: quitting one party to descend, drunk and merry, on a friend's house to keep drinking — Callidamates arrives propped up by his girl Delphium. Mores of the banquet; anchored to Callidamates + Philolaches; verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 359-361",
+   "source_text": "ego dabo ei talentum, primus qui in crucem excucurrerit; sed ea lege, ut offigantur bis pedes, bis bracchia.",
+   "question": "Quod praemium Tranio ei se daturum ait, qui primus pro se in crucem excucurrerit, ea lege ut bis pedes bisque bracchia offigantur?",
+   "answer": "Talentum.",
+   "question_en": "What reward does Tranio say he will give the man who first runs to the cross in his place, on condition that his feet and arms be nailed twice over?",
+   "answer_en": "A talent.",
+   "derivation": "Crucifixion realia — a rare explicit testimony to the nailing of feet and arms on the crux — in the comic slave's gallows humor, with a talent as the fee. Anchored to Tranio; verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Mostellaria 356-358",
+   "source_text": "ubi sunt isti plagipatidae, ferritribaces viri, vel isti qui hosticas trium nummum causa subeunt sub falas, ubi quinis aut denis hastis corpus transfigi solet?",
+   "question": "Quanti mercedis causa homines perditos sub falas hosticas subire Tranio in Mostellaria dicit?",
+   "answer": "Trium nummum.",
+   "question_en": "For how small a fee does Tranio in the Mostellaria say desperate men go in under the enemy's siege-towers?",
+   "answer_en": "For three coins.",
+   "derivation": "Military realia: hired men taking three nummi to serve beneath the falae (siege towers), where a body is commonly run through with five or ten spears — with the comic coinages plagipatidae ('sons of stripes') and ferritribaces ('iron-wearers'). Anchored to Tranio; price answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 404-405",
+   "source_text": "Clavem mi harunc aedium Laconicam iam iube efferri intus: hasce ego aedis occludam hinc foris.",
+   "question": "Cuius generis clavem Tranio sibi efferri iubet, ut aedes forinsecus occludat?",
+   "answer": "Laconicam.",
+   "question_en": "What kind of key does Tranio order brought out to him, so that he can lock the house from the outside?",
+   "answer_en": "A Laconian key.",
+   "derivation": "Household realia: the clavis Laconica, the key type that locked a door from the outside — the very instrument of the haunted-house trick, sealing the house as if long abandoned. Anchored to Tranio + the aedes; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 431-432",
+   "source_text": "Habeo, Neptune, gratiam magnam tibi, quom med amisisti abs te vix vivom domum.",
+   "question": "Cui deo Theopropides, domum advectus, gratias agit, quod se vix vivum e mari amiserit?",
+   "answer": "Neptuno.",
+   "question_en": "To which god does Theopropides, arrived home, give thanks for letting him back from the sea barely alive?",
+   "answer_en": "To Neptune.",
+   "derivation": "Neptune as lord of the sea, thanked with comic resentment by the merchant home from his voyage — he swears never to set foot on a wave again. Religious realia of seafaring; anchored to Theopropides + Neptune; verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mostellaria 440-441",
+   "source_text": "Triennio post Aegypto advenio domum; credo exspectatus veniam familiaribus.",
+   "question": "Vnde Theopropides senex post triennium domum advenit?",
+   "answer": "Ex Aegypto.",
+   "question_en": "From where does the old man Theopropides come home after three years?",
+   "answer_en": "From Egypt.",
+   "derivation": "Geography of the plot: the father's three-year trading absence was in Egypt — the great commercial destination of the age. Anchored to Theopropides; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Mostellaria 470-471",
+   "source_text": "Quia septem menses sunt, quom in hasce aedis pedem nemo intro tetulit, semel ut emigravimus.",
+   "question": "Quot menses iam neminem pedem in aedes intulisse Tranio Theopropidi mentitur, postquam semel emigraverint?",
+   "answer": "Septem menses.",
+   "question_en": "For how many months does Tranio lie to Theopropides that no one has set foot in the house, since they once moved out?",
+   "answer_en": "Seven months.",
+   "derivation": "A fixed number of the haunted-house fiction: seven months since anyone entered the 'accursed' house. Anchored to Tranio + Theopropides; number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 479-482",
+   "source_text": "Hospes necavit hospitem captum manu; iste, ut ego opinor, qui has tibi aedis vendidit. TH. Necavit? TR. Aurumque ei ademit hospiti eumque hic defodit hospitem ibidem in aedibus.",
+   "question": "Quod scelus in aedibus olim commissum esse Tranio Theopropidi fingit, ut eum ab aedibus absterreat?",
+   "answer": "Hospitem ab hospite auri causa necatum ibidemque defossum esse.",
+   "question_en": "What crime does Tranio invent for Theopropides as committed long ago in the house, to frighten him away from it?",
+   "answer_en": "That a guest was murdered by his host for his gold and buried on the spot in the house.",
+   "derivation": "The haunted-house tale that gives the play its name: the man who sold the house murdered his guest, took his gold, and buried him there — the violation of hospitium making the house scelestae aedes. Canonical plot-fact; anchored to Tranio + Theopropides; verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 493-494",
+   "source_text": "Mirum quin vigilanti diceret, qui abhinc sexaginta annos occisus foret.",
+   "question": "Quot abhinc annos hospitem illum in aedibus occisum esse Tranio in fabula ficta Mostellariae dicit?",
+   "answer": "Sexaginta.",
+   "question_en": "How many years before does Tranio, in the invented tale of the Mostellaria, say that the guest was killed in the house?",
+   "answer_en": "Sixty.",
+   "derivation": "Another fixed number of the ghost story: the murder happened sixty years ago — which is why, Tranio quips, the dead man appears in dreams rather than waking. Anchored to Tranio's tale; number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 497-498",
+   "source_text": "ego transmarinus hospes sum Diapontius. hic habito, haec mihi dedita est habitatio.",
+   "question": "Quod nomen sibi esse umbra hospitis transmarini in somnio ficto Mostellariae profitetur?",
+   "answer": "Diapontius.",
+   "question_en": "What name does the ghost of the overseas guest give itself in the invented dream of the Mostellaria?",
+   "answer_en": "Diapontius.",
+   "derivation": "The ghost's name in Tranio's tale: Diapontius, 'the man from over the sea' — the transmarine guest who claims the house as his dwelling. Canonical name-fact of the play (the name's meaning is glossed by transmarinus in the text itself); verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 499-500",
+   "source_text": "nam me Acheruntem recipere Orcus noluit, quia praemature vita careo.",
+   "question": "Quam ob causam Orcus umbram Diapontii Acheruntem recipere noluit, ut ipsa umbra in Mostellaria queritur?",
+   "answer": "Quia praemature vita caruit.",
+   "question_en": "For what reason did Orcus refuse to receive the shade of Diapontius into Acheron, as the ghost itself complains in the Mostellaria?",
+   "answer_en": "Because he lost his life before his time.",
+   "derivation": "The shared afterlife belief behind the ghost story: the untimely dead (and unburied — defodit insepultum, v. 502) are refused entry to Acheron by Orcus and must haunt the living. Myth as shared story; anchored to Orcus + Diapontius; verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Mostellaria 526-528",
+   "source_text": "tu, ut occepisti, tantum quantum quis fuge, atque Herculem invoca. TH. Hercules, ted invoco.",
+   "question": "Quem deum Tranio Theopropidem, ab aedibus sceleratis fugientem, invocare iubet?",
+   "answer": "Herculem.",
+   "question_en": "Which god does Tranio order the fleeing Theopropides to invoke against the accursed house?",
+   "answer_en": "Hercules.",
+   "derivation": "Religious custom: Hercules invoked in sudden terror as the averter of evils — the old man obeys on the spot (Hercules, ted invoco). Anchored to Tranio + Theopropides; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mostellaria 504-505",
+   "source_text": "scelestae hae sunt aedes, impia est habitatio. quae hic monstra fiunt, anno vix possum eloqui.",
+   "question": "A quibus rebus, quas in aedibus fieri Tranio finxit, fabula Plauti quae Mostellaria inscribitur nomen traxit?",
+   "answer": "A monstris (mostellis).",
+   "question_en": "From what things, which Tranio pretended were happening in the house, does Plautus' play entitled Mostellaria take its name?",
+   "answer_en": "From the monstra — the 'little ghosts' (mostella) of the haunting.",
+   "derivation": "The title-fact: Mostellaria, 'the ghost play,' from mostellum, diminutive of monstrum — the apparitions Tranio claims fill the house (quae hic monstra fiunt). Canonical literary fact anchored in the text's own word monstra; short answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 532-535",
+   "source_text": "Scelestiorem ego annum argento faenori numquam ullum vidi quam hic mihi annus optigit. a mani ad noctem usque in foro dego diem, locare argenti nemini nummum queo.",
+   "question": "Vbi danista in Mostellaria a mane ad noctem diem degere se dicit, dum argentum faenori locare conatur?",
+   "answer": "In foro.",
+   "question_en": "Where does the moneylender in the Mostellaria say he spends his day from morning to night, trying to place his silver at interest?",
+   "answer_en": "In the forum.",
+   "derivation": "Faenus culture realia: the moneylender's working day in the forum, the marketplace of credit — he complains he cannot place a single nummus at interest all year. Anchored to the danista of the play; one-place answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 350-351",
+   "source_text": "occidit Spes nostra, nusquam stabulum est Confidentiae, nec Salus nobis saluti iam esse, si cupiat, potest",
+   "question": "Quae dea ne cupiens quidem saluti esse posse dicitur perditis, ut Tranio in Mostellaria lamentatur?",
+   "answer": "Salus.",
+   "question_en": "Which goddess, even if she wished, is said to be unable to save the ruined, as Tranio laments in the Mostellaria?",
+   "answer_en": "Salus (the goddess Safety).",
+   "derivation": "Salus as a Roman cult goddess, named beside personified Spes — the proverbial turn 'not even Salus could save us now,' a joke Plautus uses more than once. Religious realia; anchored to Tranio; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mostellaria 568-569",
+   "source_text": "salvere iubeo te, Misargyrides, bene. DAN. Salve et tu. quid de argentost?",
+   "question": "Quod nomen erat danistae in Mostellaria Plauti, qui faenus sortemque a Philolachete flagitabat?",
+   "answer": "Misargyrides.",
+   "question_en": "What was the name of the moneylender in Plautus' Mostellaria, who kept demanding interest and principal from Philolaches?",
+   "answer_en": "Misargyrides.",
+   "derivation": "The moneylender's speaking name — Misargyrides — a canonical character-fact of the play (the danista of the argumentum, 'lucripeta faenerator'). Anchored to the Mostellaria + the loan plot; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 592",
+   "source_text": "TR. Sortem accipe. DAN. Immo faenus, id primum volo.",
+   "question": "Vtrum prius sibi reddi Misargyrides danista in Mostellaria postulat, sortem an faenus?",
+   "answer": "Faenus.",
+   "question_en": "Which does the moneylender Misargyrides in the Mostellaria demand be paid him first — the principal or the interest?",
+   "answer_en": "The interest (faenus).",
+   "derivation": "Faenus culture: sors (principal) versus faenus (interest) — offered the principal, the lender refuses and demands his interest first, chanting 'cedo faenus, redde faenus' through the scene. Anchored to Misargyrides + Tranio; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 630-631",
+   "source_text": "TR. Quattuor quadraginta illi debentur minae, et sors et faenus. DAN. Tantumst, nihilo plus peto.",
+   "question": "Quantum omnino Misargyridi danistae a Philolachete debebatur, et sorte et faenore computatis?",
+   "answer": "Quadraginta quattuor minae.",
+   "question_en": "How much in all was owed to the moneylender Misargyrides by Philolaches, principal and interest together?",
+   "answer_en": "Forty-four minae.",
+   "derivation": "The debt total of the plot: forty minae of principal plus four of interest — forty-four minae, confirmed by the lender himself. Money realia; anchored to Misargyrides + Philolaches; number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 644-645",
+   "source_text": "sed arraboni has dedit quadraginta minas; hinc sumpsit quas ei dedimus. satin intellegis?",
+   "question": "Cuius rei nomine Philolaches quadraginta minas pro aedibus dedisse dicebatur, ut Tranio Theopropidi finxit?",
+   "answer": "Arrabonis (arraboni datas).",
+   "question_en": "Under what name was Philolaches said to have paid the forty minae toward the 'purchased' house, in Tranio's fiction to Theopropides?",
+   "answer_en": "As arrabo — earnest-money, the binding deposit.",
+   "derivation": "Commercial-legal realia: the arrabo, the earnest-money that binds a purchase — Tranio converts the borrowed forty minae into a deposit on the neighbor's house. Anchored to Tranio's tale + Theopropides; term verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Mostellaria 657-658",
+   "source_text": "nullum edepol hodie genus est hominum taetrius nec minus bono cum iure, quam danisticum.",
+   "question": "Quod genus hominum nullo taetrius minusque bono cum iure esse Tranio in Mostellaria pronuntiat?",
+   "answer": "Danisticum (danistarum genus).",
+   "question_en": "What class of men does Tranio in the Mostellaria declare none is fouler or less within its rights than?",
+   "answer_en": "The moneylending class (the danistae).",
+   "derivation": "The verdict on the faenus trade — no breed fouler than the danisticum genus — voicing the shared Roman resentment of faeneratores. Anchored to Tranio + the moneylender scene; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 665-666",
+   "source_text": "calidum hercle esse audivi optimum mendacium. quidquid dei dicunt, id decretumst dicere.",
+   "question": "Quale mendacium optimum esse Tranio in Mostellaria audivisse se ait?",
+   "answer": "Calidum.",
+   "question_en": "What kind of lie does Tranio in the Mostellaria say he has heard is best?",
+   "answer_en": "A hot one (freshly made on the spot).",
+   "derivation": "Tranio's proverbial rule of improvisation: the best lie is a hot one, served fresh — so he will say whatever the gods put in his mouth. Quotable saying with a one-word point; anchored to Tranio; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 754-756",
+   "source_text": "sed senex gynaeceum aedificare volt hic in suis et balineas et ambulacrum et porticum.",
+   "question": "Quas quattuor aedium partes Theopropides in suis aedificare velle dicebatur, cum aedes Simonis exemplo inspicere cuperet?",
+   "answer": "Gynaeceum, balineas, ambulacrum, porticum.",
+   "question_en": "What four parts of a house was Theopropides said to want to build on his own property, when he wished to inspect Simo's house as a model?",
+   "answer_en": "A women's wing (gynaeceum), baths, a promenade, and a portico.",
+   "derivation": "Domestic architecture realia: the amenities of a fine house — the gynaeceum (women's quarters, meant for the son's intended bride, vv. 758-759), balineae, ambulacrum, porticus — the pretext for the house tour. Anchored to Theopropides + Simo; four-item answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 769-770",
+   "source_text": "nec mi umbra hic usquamst, nisi si in puteo quaepiamst. TR. Quid, Sarsinatis ecqua est, si Vmbram non habes?",
+   "question": "Ex qua Italiae regione oritur mulier Sarsinatis, quam Tranio, de umbra iocatus, in Mostellaria memorat?",
+   "answer": "Ex Vmbria.",
+   "question_en": "From what region of Italy does a woman of Sarsina come, whom Tranio, punning on 'shade' (umbra/Umbrian), mentions in the Mostellaria?",
+   "answer_en": "From Umbria.",
+   "derivation": "The geographic fact carried by the pun: Sarsina is an Umbrian town — treasured too as Plautus' own traditional birthplace, which makes the aside a signature in-joke. The town-in-region fact itself survives translation; anchored to Sarsina + Umbria.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Mostellaria 775-777",
+   "source_text": "Alexandrum magnum atque Agathoclem aiunt maximas duo res gessisse: quid mihi fiet tertio, qui solus facio facinora immortalia?",
+   "question": "Quos duos viros maximas res gessisse aiunt, quibus Tranio in Mostellaria se tertium gloriabundus adiungit?",
+   "answer": "Alexandrum magnum et Agathoclem.",
+   "question_en": "Which two men are said to have done the greatest deeds, to whom Tranio in the Mostellaria boastfully adds himself as a third?",
+   "answer_en": "Alexander the Great and Agathocles.",
+   "derivation": "The canonical pairing of the age's world-beaters — Alexander of Macedon and Agathocles of Syracuse — invoked by the triumphant slave. Shared historical knowledge; anchored to Tranio; two-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Plautus, Mostellaria 790-791",
+   "source_text": "Heus tu, si voles verbum hoc cogitare, simul flare sorbereque haud factu facilest.",
+   "question": "Quae duo simul facere haud facile esse Tranio proverbio in Mostellaria dicit?",
+   "answer": "Flare et sorbere.",
+   "question_en": "What two things does Tranio in the Mostellaria say, proverbially, it is not easy to do at once?",
+   "answer_en": "To blow and to swallow.",
+   "derivation": "The proverb simul flare sorbereque haud facile — you cannot blow and swallow at the same time, i.e., cannot be in two places or do two things at once (Tranio's excuse for his delay). Anchored to Tranio; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 799-801",
+   "source_text": "sibi quisque ruri metit. si male emptae forent, nobis istas redhibere haud liceret. lucri quidquid est, id domum trahere oportet.",
+   "question": "Vbi sibi quisque metit, ut Theopropides proverbio in Mostellaria utitur?",
+   "answer": "Ruri (sibi quisque ruri metit).",
+   "question_en": "Where does each man reap for himself, in the proverb Theopropides uses in the Mostellaria?",
+   "answer_en": "In his own field (each reaps for himself).",
+   "derivation": "The proverb sibi quisque ruri metit — every man harvests for himself, look to your own gain — capped by the maxim that whatever the profit, haul it home; with the legal color of redhibere (returning a defective purchase). Anchored to Theopropides; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 820-823",
+   "source_text": "Pol mihi eo pretio empti fuerant olim. TR. Audin 'fuerant' dicere? vix videtur continere lacrimas. TH. Quanti hosce emeras? SI. Tris minas pro istis duobus praeter vecturam dedi.",
+   "question": "Quanti Simo duos postes aedium suarum emisse se dicit, praeter vecturam?",
+   "answer": "Tribus minis.",
+   "question_en": "For how much does Simo say he bought the two doorposts of his house, not counting the haulage?",
+   "answer_en": "For three minae.",
+   "derivation": "Building-trade realia from the house tour: three minae for the pair of doorposts, with the vectura (cartage) extra — the postes admired for their strength and thickness. Anchored to Simo + the house tour; price answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 827-828",
+   "source_text": "atque etiam nunc satis boni sunt, si sunt inducti pice; non enim haec pultiphagus opifex opera fecit barbarus.",
+   "question": "A quo cibo Tranio in Mostellaria opificem 'barbarum' (Italicum) pultiphagum appellat?",
+   "answer": "A pulte.",
+   "question_en": "From what food does Tranio in the Mostellaria call the 'barbarian' (Italian) workman a 'pultiphagus'?",
+   "answer_en": "From puls (porridge, the Italian staple).",
+   "derivation": "Criterion-8 gold: puls, the grain porridge that was the proverbial staple of early Italy — Plautus, speaking from the Greek stage, calls the Italian workman pultiphagus barbarus, 'the porridge-eating foreigner.' Ambient food culture; anchored to Tranio's remark; the word is glossed by its food.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Mostellaria 832-834",
+   "source_text": "Viden pictum, ubi ludificat cornix una volturios duos? TH. Non edepol video. TR. At ego video. nam inter volturios duos cornix astat, ea volturios duo vicissim vellicat.",
+   "question": "Quae avis in pictura illa, quam Tranio Theopropidi frustra monstrat, duos volturios ludificatur?",
+   "answer": "Cornix.",
+   "question_en": "What bird, in the 'painting' that Tranio vainly points out to Theopropides, is making fools of two vultures?",
+   "answer_en": "A crow.",
+   "derivation": "The celebrated visual joke of the house tour: the (nonexistent) picture of one crow plucking two vultures in turn — Tranio's emblem of himself gulling the two old men. Canonical scene-fact of the Mostellaria; anchored to Tranio + Theopropides; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 858-859",
+   "source_text": "Servi qui, quom culpa carent, tamen malum metuont, ei solent esse eris utibiles.",
+   "question": "Quales servi eris utibiles esse solent, ut Phaniscus in Mostellaria pronuntiat?",
+   "answer": "Qui, quamquam culpa carent, tamen malum metuont.",
+   "question_en": "What sort of slaves are usually serviceable to their masters, as Phaniscus declares in the Mostellaria?",
+   "answer_en": "Those who, though free of fault, still fear punishment.",
+   "derivation": "The good-slave maxim of Phaniscus' monologue (a doublet of Messenio's in the Menaechmi): fear keeps even the blameless slave useful — the slave-culture doctrine of the palliata. Anchored to Phaniscus; verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 892",
+   "source_text": "Tace sis, faber, qui cudere soles plumbeos nummos.",
+   "question": "Ex quo metallo nummos cudere solere Pinacium Phaniscum per convicium in Mostellaria dicit?",
+   "answer": "Ex plumbo (plumbeos nummos).",
+   "question_en": "Out of what metal does Pinacium abusively say in the Mostellaria that Phaniscus is wont to strike coins?",
+   "answer_en": "Out of lead (counterfeit lead coins).",
+   "derivation": "Counterfeiting realia: plumbei nummi, lead coins as the proverbial false money — 'a smith who strikes lead coins' as an insult for a cheat. Currency culture; anchored to Pinacium + Phaniscus; verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 959-960",
+   "source_text": "Triduom unum est haud intermissum hic esse et bibi, scorta duci, pergraecari, fidicinas tibicinas ducere.",
+   "question": "Quae musicae mulieres ad convivia Philolachis duci solebant, ut Phaniscus in Mostellaria refert?",
+   "answer": "Fidicinae et tibicinae.",
+   "question_en": "What music-girls used to be brought in for Philolaches' parties, as Phaniscus reports in the Mostellaria?",
+   "answer_en": "Lyre-girls and flute-girls.",
+   "derivation": "Banquet-entertainment realia: fidicinae (string-players) and tibicinae (pipe-girls) hired for the revels — listed beside the drinking, the wenching, and pergraecari, never three days interrupted. Anchored to Phaniscus' report + Philolaches; verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 918-920",
+   "source_text": "TH. Servavisti omnem ratem. nempe octoginta debentur huic minae? TR. Hau nummo amplius. TH. Hodie accipiat.",
+   "question": "Quot minas Simoni vicino pro aedibus reliquas deberi Theopropides credebat, arrabone quadraginta minarum iam dato?",
+   "answer": "Octoginta.",
+   "question_en": "How many minae did Theopropides believe were still owed to his neighbor Simo for the house, the deposit of forty minae already paid?",
+   "answer_en": "Eighty.",
+   "derivation": "The arithmetic of Tranio's fiction: the 'house' cost two great talents (v. 644), forty minae paid as arrabo, eighty outstanding — which the duped father undertakes to pay that very day. Money realia; anchored to Theopropides + Simo; number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mostellaria 1041-1042",
+   "source_text": "Qui homo timidus erit in rebus dubiis, nauci non erit; atque equidem quid id esse dicam verbum nauci, nescio.",
+   "question": "Quanti erit homo timidus in rebus dubiis, ut Tranio in Mostellaria pronuntiat?",
+   "answer": "Nauci non erit (nihili).",
+   "question_en": "What will a timid man be worth in a tight spot, as Tranio declares in the Mostellaria?",
+   "answer_en": "Not a nutshell (worth nothing — nauci).",
+   "derivation": "The idiom non nauci esse — worth not a naucum, a husk, a trifle — in a quotable maxim on boldness, capped by Tranio's own joke that he has no idea what naucum means. Anchored to Tranio; verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Mostellaria 1094-1096",
+   "source_text": "ego interim hanc aram occupabo. TH. Quid ita? TR. Nullam rem sapis. ne enim illi huc confugere possint, quaestioni quos dabit. hic ego tibi praesidebo, ne interbitat quaestio.",
+   "question": "Quo Tranio, dolis iam patefactis, in extrema Mostellaria confugit, ne a Theopropide comprehenderetur?",
+   "answer": "In aram (aram occupavit).",
+   "question_en": "Where does Tranio take refuge at the end of the Mostellaria, his tricks now exposed, so that Theopropides cannot seize him?",
+   "answer_en": "At the altar (he took possession of the altar).",
+   "derivation": "The stage altar as sanctuary — the suppliant seated on the altar may not be dragged off — the canonical last refuge of the cornered comic slave, which Tranio 'occupies' with the cheeky excuse of guarding it; he adds that counsels are firmer from holy places (v. 1104). Cultural fact of religio and the theater; verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mostellaria 1086-1087",
+   "source_text": "TH. Dixi ego istuc idem illi. TR. Quid ait? TH. Servos pollicitust dare suos mihi omnes quaestioni.",
+   "question": "Cui rei Simo omnes servos suos se daturum pollicitus est, ut Theopropides in Mostellaria refert?",
+   "answer": "Quaestioni.",
+   "question_en": "For what did Simo promise to hand over all his slaves, as Theopropides reports in the Mostellaria?",
+   "answer_en": "For the quaestio — examination under torture.",
+   "derivation": "Legal realia: to clear himself of the false sale, the householder offers his slaves for the quaestio, the interrogation of slaves by torture that made their evidence admissible. Roman legal color through the Greek plot; anchored to Simo + Theopropides; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Mostellaria 1114-1115",
+   "source_text": "Iam iubebo ignem et sarmenta, carnifex, circumdari. TR. Ne faxis, nam elixus esse quam assus soleo suavior.",
+   "question": "Quid Theopropides Tranioni, in ara supplici sedenti, circumdari iubere minatur?",
+   "answer": "Ignem et sarmenta.",
+   "question_en": "What does Theopropides threaten to have piled around Tranio as he sits as a suppliant on the altar?",
+   "answer_en": "Fire and brushwood.",
+   "derivation": "The counter-move to altar asylum: the suppliant cannot be dragged off, so he is threatened with being burned off — met by Tranio's gallows joke that he is tastier boiled than roasted (elixus quam assus). Anchored to Theopropides + Tranio at the altar; verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mostellaria 1149-1151",
+   "source_text": "Si amicus Diphilo aut Philemoni es, dicito eis, quo pacto tuos te servos ludificaverit: optumas frustrationes dederis in comoediis.",
+   "question": "Quos duos poetas comicos Tranio in Mostellaria nominat, quibus Theopropides ludificationes suas pro argumento comoediarum narrare possit?",
+   "answer": "Diphilum et Philemonem.",
+   "question_en": "Which two comic poets does Tranio name in the Mostellaria, to whom Theopropides could tell his gullings as material for comedies?",
+   "answer_en": "Diphilus and Philemon.",
+   "derivation": "Canonical literary fact: the Greek New Comedy poets Diphilus and Philemon named on the Roman stage — the more pointed since Philemon's Phasma is held to be the Greek original of the Mostellaria itself. Anchored to Tranio; two-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 1160-1161",
+   "source_text": "faenus, sortem sumptumque omnem, qui amica empta est, omnia nos dabimus, nos conferemus, nostro sumptu, non tuo.",
+   "question": "Quis Theopropidi promisit sodales Philolachis faenus sortemque et omnem sumptum collaturos esse, ut filio ignosceretur?",
+   "answer": "Callidamates.",
+   "question_en": "Who promised Theopropides that Philolaches' companions would contribute the interest, the principal, and all the expense, so that the son might be forgiven?",
+   "answer_en": "Callidamates.",
+   "derivation": "The resolution of the play: Callidamates, the son's sodalis and chosen spokesman of the club (de sodalitate solus orator datus, v. 1152), pledges that the friends will repay principal, interest, and the cost of the amica — and wins the father's pardon. Anchored to Callidamates + Theopropides; verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mostellaria 972-973",
+   "source_text": "TH. Quanti? PHAN. Triginta. TH. Talentis? PHAN. Ma ton Apollo, sed minis.",
+   "question": "Quem deum Phaniscus, Graeca voce iurans, testatur, cum Philematium triginta minis, non talentis, liberatam esse affirmat?",
+   "answer": "Apollinem (ma ton Apollo).",
+   "question_en": "By which god does Phaniscus swear, in Greek, when he affirms that Philematium was freed for thirty minae, not talents?",
+   "answer_en": "By Apollo ('ma ton Apollo').",
+   "derivation": "The Greek oath ma ton Apollo dropped into the Latin line — the code-switching of comedy's Greek world, with Apollo as the oath-god; the exchange also reconfirms the thirty-minae price of Philematium's freedom. Anchored to Phaniscus + Philematium; verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mostellaria 1180-1181",
+   "source_text": "CALL. Sine te exorem. TH. Age abi, abi impune. em huic habeto gratiam. spectatores, fabula haec est acta, vos plausum date.",
+   "question": "Quo exitu Tranio servus in fine Mostellariae e poena evasit?",
+   "answer": "Impune dimissus est, Callidamate exorante.",
+   "question_en": "With what outcome did the slave Tranio escape punishment at the end of the Mostellaria?",
+   "answer_en": "He was let off scot-free, at Callidamates' intercession.",
+   "derivation": "The amnesty ending: the master, worn down by the intercessor, dismisses Tranio unpunished (abi impune) — Tranio having quipped that he will earn a fresh offense tomorrow to be punished for both at once. Canonical close of the play; anchored to Tranio + Callidamates; verbatim.",
+   "category": "ludi"
+  }
+]}
