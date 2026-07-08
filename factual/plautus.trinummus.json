@@ -1,0 +1,633 @@
+{
+ "source": "text/plautus/trinummus.txt",
+ "author": "Plautus",
+ "work": "Trinummus",
+ "pairs": [
+  {
+   "locus": "Plautus, Trinummus prol. 8-9",
+   "source_text": "primum mihi Plautus nomen Luxuriae indidit; tum hanc mihi gnatam esse voluit Inopiam.",
+   "question": "Quae dea prologum in Trinummo Plauti loquitur?",
+   "answer": "Luxuria.",
+   "question_en": "Which goddess speaks the prologue in Plautus' Trinummus?",
+   "answer_en": "Luxuria (Extravagance).",
+   "derivation": "The famous allegorical prologue of the Trinummus: the personified goddess Luxuria speaks it and says Plautus himself gave her the name. Canonical theatrical fact; anchored to the named play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus prol. 9",
+   "source_text": "tum hanc mihi gnatam esse voluit Inopiam.",
+   "question": "Quae dea filia Luxuriae est in prologo Trinummi Plauti?",
+   "answer": "Inopia.",
+   "question_en": "Which goddess is the daughter of Luxuria in the prologue of Plautus' Trinummus?",
+   "answer_en": "Inopia (Poverty/Want).",
+   "derivation": "The allegorical genealogy of the prologue: Want is the daughter of Extravagance. Canonical fact of the play's design; anchored to Luxuria + the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus prol. 12-15",
+   "source_text": "adulescens quidam est, qui in hisce habitat aedibus; is rem paternam me adiutrice perdidit. quoniam ei, qui me aleret, nil video esse relicui, dedi ei meam gnatam, quicum aetatem exigat.",
+   "question": "Quam gnatam Luxuria adulescenti, qui rem paternam perdidit, in Trinummo Plauti dedit quicum aetatem exigat?",
+   "answer": "Inopiam.",
+   "question_en": "Which daughter did Luxuria give to the young man who had squandered his patrimony, to live with him, in Plautus' Trinummus?",
+   "answer_en": "Inopia (Want).",
+   "derivation": "The moral allegory acted out in the prologue: once Extravagance has helped the spendthrift ruin his patrimony, she sends her daughter Want into his house to live with him. Anchored to the named goddesses + the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus prol. 18",
+   "source_text": "huic Graece nomen est Thensauro fabulae:",
+   "question": "Quod nomen Graecum est fabulae quam Plautus Trinummum vertit, ut prologus testatur?",
+   "answer": "Thensaurus.",
+   "question_en": "What is the Greek name of the play that Plautus adapted as the Trinummus, as the prologue attests?",
+   "answer_en": "Thesauros (The Treasure).",
+   "derivation": "The play's own statement of its Greek original's title: Thensaurus (Philemon's Thesauros). Canonical literary-history fact; anchored to the named play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus prol. 19",
+   "source_text": "Philemo scripsit, Plautus vertit barbare,",
+   "question": "Quis poeta Graecus fabulam scripsit quam Plautus in Trinummum vertit, ut prologus ipse profitetur?",
+   "answer": "Philemo.",
+   "question_en": "Which Greek poet wrote the play that Plautus turned into the Trinummus, as the prologue itself declares?",
+   "answer_en": "Philemon.",
+   "derivation": "The prologue names Philemon as author of the Greek original (the Thesauros). Canonical literary-history fact of the palliata; anchored to the named play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus prol. 19-21",
+   "source_text": "Philemo scripsit, Plautus vertit barbare, nomen Trinummo fecit, nunc hoc vos rogat ut liceat possidere hanc nomen fabulam.",
+   "question": "Quo adverbio prologus Trinummi Plautum fabulam Philemonis vertisse dicit?",
+   "answer": "Barbare.",
+   "question_en": "With what adverb does the prologue of the Trinummus say Plautus translated Philemon's play?",
+   "answer_en": "'Barbarously' (into the barbarian tongue, i.e. Latin).",
+   "derivation": "The famous self-description 'Plautus vertit barbare': from the Greek stage's viewpoint Latin is the barbarian tongue — Plautus' celebrated joke about his own translation. Anchored to the named play + poets; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 39-41",
+   "source_text": "Larem corona nostrum decorari volo. uxor, venerare ut nobis haec habitatio bona fausta felix fortunataque evenat—",
+   "question": "Quem deum domesticum corona decorari iubet Callicles, novam habitationem ingressus, in Trinummo Plauti?",
+   "answer": "Larem.",
+   "question_en": "Which household god does Callicles order to be decked with a garland on taking up his new dwelling, in Plautus' Trinummus?",
+   "answer_en": "The Lar.",
+   "derivation": "Household-cult realia: on moving into a new house one garlands the Lar and the wife prays that the dwelling turn out good, favorable, lucky, and fortunate. Anchored to Callicles + the play; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Trinummus 83-85",
+   "source_text": "nam nunc ego si te surrupuisse suspicer Iovi coronam de capite ex Capitolio, qui in columine astat summo:",
+   "question": "Ex quo loco coronam Iovi de capite surripere pro exemplo sceleris maximi Callicles in Trinummo Plauti ponit?",
+   "answer": "Ex Capitolio.",
+   "question_en": "From what place does Callicles in Plautus' Trinummus take as his example of an enormous crime the stealing of the crown from Jupiter's head?",
+   "answer_en": "From the Capitol.",
+   "derivation": "Roman realia in the Greek play: the statue of Jupiter standing on the summit of the Capitol, crown on head — robbing it is the type-case of monstrous theft. Anchored to the named god + place; one-place answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Trinummus 99-102",
+   "source_text": "male dictitatur tibi volgo in sermonibus: turpilucricupidum te vocant cives tui; tum autem sunt alii, qui te volturium vocant:",
+   "question": "Quo nomine composito cives Calliclem vulgo vocant, ut Megaronides in Trinummo Plauti refert?",
+   "answer": "Turpilucricupidum.",
+   "question_en": "By what compound name do the citizens commonly call Callicles, as Megaronides reports in Plautus' Trinummus?",
+   "answer_en": "Turpilucricupidus ('greedy-for-base-gain').",
+   "derivation": "A celebrated Plautine compound coinage: the town gossip brands Callicles 'turpilucricupidus' — and others call him a vulture. Anchored to the named characters + play; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 112-114",
+   "source_text": "quoniam hinc iturust ipsus in Seleuciam, mihi conmendavit virginem gnatam suam et rem suam omnem et illum corruptum filium.",
+   "question": "Quo peregre profectus est Charmides senex in Trinummo Plauti?",
+   "answer": "In Seleuciam.",
+   "question_en": "To what place did the old man Charmides go abroad in Plautus' Trinummus?",
+   "answer_en": "To Seleucia.",
+   "derivation": "The absent father's destination: Charmides sails for Seleucia, leaving daughter, property, and wastrel son in trust. Anchored to the named character + play; one-place answer verbatim.",
+   "category": "geographia"
+  }
+,
+  {
+   "locus": "Plautus, Trinummus 113-114",
+   "source_text": "mihi conmendavit virginem gnatam suam et rem suam omnem et illum corruptum filium.",
+   "question": "Cui amico Charmides, in Seleuciam iturus, filiam remque omnem suam commendavit in Trinummo Plauti?",
+   "answer": "Callicli.",
+   "question_en": "To which friend did Charmides, about to leave for Seleucia, entrust his daughter and all his property in Plautus' Trinummus?",
+   "answer_en": "To Callicles.",
+   "derivation": "The fides-relationship at the core of the play: Charmides commits daughter, estate, and even the corrupt son to his friend Callicles before going abroad. Anchored to both named characters + play; one-name answer supported by the speaker being Callicles (mihi conmendavit).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 125-126",
+   "source_text": "Emi atque argentum dedi, minas quadraginta, adulescenti ipsi in manum.",
+   "question": "Quot minis Callicles aedes Charmidis de Lesbonico adulescente emit in Trinummo Plauti?",
+   "answer": "Quadraginta minis.",
+   "question_en": "For how many minae did Callicles buy Charmides' house from the young Lesbonicus in Plautus' Trinummus?",
+   "answer_en": "For forty minae.",
+   "derivation": "The house price: forty minae, paid into the young man's own hand. Clean number fact at the center of the plot; anchored to the named characters + play; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 149-152",
+   "source_text": "quoniam hinc est profecturus peregre Charmides, thensaurum demonstravit mihi in hisce aedibus, hic in conclavi quodam — sed circumspice. MEG. Nemost. CAL. Nummorum Philippeum ad tria milia.",
+   "question": "Quot nummorum Philippeorum thensaurus in aedibus Charmidis absconditus erat, ut Callicles in Trinummo Plauti aperit?",
+   "answer": "Ad tria milia.",
+   "question_en": "Of about how many Philippic coins was the treasure hidden in Charmides' house, as Callicles reveals in Plautus' Trinummus?",
+   "answer_en": "About three thousand.",
+   "derivation": "The buried treasure that gives the Greek original its name: some three thousand gold Philippi hidden in a room of the house. Coin-hoard realia + the title-fact of the Thesauros; anchored to the named characters + play; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 179-180",
+   "source_text": "emi egomet potius aedis, argentum dedi thensauri causa, ut salvom amico traderem.",
+   "question": "Quam ob causam Callicles aedes Charmidis emit, ut ipse in Trinummo Plauti confitetur?",
+   "answer": "Thensauri causa, ut eum salvom amico traderet.",
+   "question_en": "For what reason did Callicles buy Charmides' house, as he himself confesses in Plautus' Trinummus?",
+   "answer_en": "For the sake of the treasure, to hand it over safe to his friend.",
+   "derivation": "The loyal-friend fact of the play: Callicles bought the house not for himself but to keep the hidden treasure safe for the absent Charmides. Canonical plot fact and the model of fides; anchored to the named characters; short answer verbatim (thensauri causa).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 194",
+   "source_text": "Posticulum hoc recepit, quom aedis vendidit.",
+   "question": "Quam partem aedium Lesbonicus sibi recepit, cum aedes paternas vendidit, in Trinummo Plauti?",
+   "answer": "Posticulum.",
+   "question_en": "What part of the house did Lesbonicus reserve for himself when he sold his father's house, in Plautus' Trinummus?",
+   "answer_en": "The little back apartment (posticulum).",
+   "derivation": "House-sale realia: the seller reserves the posticulum, the small rear quarters, for his own use — how the ruined Lesbonicus still lives on the premises. Anchored to the named character + play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 199-202",
+   "source_text": "nihil est profecto stultius neque stolidius neque mendaciloquius neque argutum magis, neque confidentiloquius neque peiurius, quam urbani assidui cives, quos scurras vocant.",
+   "question": "Quo nomine vocantur urbani assidui cives, quibus nihil stultius neque mendaciloquius esse Megaronides in Trinummo Plauti ait?",
+   "answer": "Scurrae.",
+   "question_en": "What are the idle city gentlemen called, than whom Megaronides in Plautus' Trinummus says nothing is more foolish or more lying?",
+   "answer_en": "Scurrae (town wits, loungers).",
+   "derivation": "Social-type realia: the scurrae, the ever-present city idlers and gossips who claim to know everything — even what Juno chatted with Jove. Anchored to Megaronides + the play; one-word answer verbatim (quos scurras vocant).",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Trinummus 310-312",
+   "source_text": "tu si animum vicisti potius quam animus te, est quod gaudeas. qui animum vincunt, quam quos animus, semper probiores cluent.",
+   "question": "Qui homines semper probiores cluent, ut Philto in Trinummo Plauti praecipit?",
+   "answer": "Qui animum vincunt.",
+   "question_en": "Which men are always accounted the more upright, as Philto teaches in Plautus' Trinummus?",
+   "answer_en": "Those who conquer their own spirit.",
+   "derivation": "Philto's celebrated maxim of self-mastery: those who conquer their animus, rather than being conquered by it, are ever reckoned the better men. Quotable proverb; anchored to Philto + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 317",
+   "source_text": "sarta tecta tua praecepta usque habui mea modestia.",
+   "question": "Quo verbo aedificiorum Lysiteles praecepta patris se semper integra servavisse dicit in Trinummo Plauti?",
+   "answer": "Sarta tecta.",
+   "question_en": "With what building-law phrase does Lysiteles say he has always kept his father's precepts intact in Plautus' Trinummus?",
+   "answer_en": "'Sarta tecta' (in good repair).",
+   "derivation": "The formula sarta tecta — the contract phrase for keeping public buildings wind- and water-tight — applied to filial obedience: Lysiteles has kept his father's precepts 'in good repair'. Institutional formula with a checkable wording; anchored to the named characters; verbatim phrase answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 320-323",
+   "source_text": "is probus est quem paenitet quam probus sit et frugi bonae; qui ipsus sibi satis placet, nec probus est nec frugi bonae: bene facta bene factis aliis pertegito, ne perpluant.",
+   "question": "Quid faciendum esse Philto in Trinummo Plauti praecipit, ne bene facta perpluant?",
+   "answer": "Bene factis aliis ea pertegere.",
+   "question_en": "What does Philto in Plautus' Trinummus teach must be done so that good deeds do not leak like a bad roof?",
+   "answer_en": "Roof them over with other good deeds.",
+   "derivation": "Philto's roofing metaphor for virtue: cover good deeds with further good deeds lest they 'rain through' (perpluant). Quotable maxim with a single image as the checkable point; anchored to Philto + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 345",
+   "source_text": "Pol pudere quam pigere praestat, totidem litteris.",
+   "question": "Vtrum praestat, pudere an pigere, ut Philto in Trinummo Plauti sententiose ait?",
+   "answer": "Pudere.",
+   "question_en": "Which is better, shame or regret, as Philto sententiously says in Plautus' Trinummus?",
+   "answer_en": "Shame.",
+   "derivation": "The proverb 'pudere quam pigere praestat' — better to feel shame than vexation-after-the-fact, 'with just as many letters'. The maxim itself survives translation; anchored to Philto + the play; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 350-352",
+   "source_text": "sed civi immuni scin quid cantari solet? 'quod habes ne habeas et illuc quod non habes habeas, malum, quandoquidem nec tibi bene esse pote pati neque alteri.'",
+   "question": "Cui homini cantari solet illud 'quod habes ne habeas', ut Lysiteles in Trinummo Plauti refert?",
+   "answer": "Civi immuni.",
+   "question_en": "To what sort of man is the jingle 'may you not have what you have' customarily sung, as Lysiteles reports in Plautus' Trinummus?",
+   "answer_en": "To the citizen who gives nothing (the civis immunis).",
+   "derivation": "A folk taunt-verse with a named target: the civis immunis, the shirker who contributes nothing, gets this curse sung at him. Custom-fact with one checkable referent; anchored to the play + speaker; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 363",
+   "source_text": "nam sapiens quidem pol ipsus fingit fortunam sibi;",
+   "question": "Quis sibi ipse fortunam fingit, ut Philto in Trinummo Plauti pronuntiat?",
+   "answer": "Sapiens.",
+   "question_en": "Who fashions his own fortune for himself, as Philto declares in Plautus' Trinummus?",
+   "answer_en": "The wise man.",
+   "derivation": "One of the most famous proverbs in Plautus: sapiens ipse fingit fortunam sibi — the wise man is the maker of his own fortune. Anchored to Philto + the play; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 367-368",
+   "source_text": "Non aetate, verum ingenio apiscitur sapientia; sapienti aetas condimentum, sapiens aetati cibust.",
+   "question": "Qua re, non aetate, apiscitur sapientia, ut Philto in Trinummo Plauti docet?",
+   "answer": "Ingenio.",
+   "question_en": "By what, not by age, is wisdom attained, as Philto teaches in Plautus' Trinummus?",
+   "answer_en": "By natural talent.",
+   "derivation": "Philto's aphorism: wisdom comes by ingenium, not years — age is wisdom's seasoning, the wise man is age's food. Quotable proverb with a single checkable contrast; anchored to Philto + the play; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 374-375",
+   "source_text": "Soror illi est adulta virgo grandis: eam cupio, pater, ducere uxorem sine dote.",
+   "question": "Cuius sororem Lysiteles sine dote uxorem ducere cupit in Trinummo Plauti?",
+   "answer": "Lesbonici.",
+   "question_en": "Whose sister does Lysiteles desire to marry without a dowry in Plautus' Trinummus?",
+   "answer_en": "Lesbonicus'.",
+   "derivation": "The marriage plot of the play: Lysiteles asks to wed the grown, unportioned sister of his ruined friend Lesbonicus, expressly sine dote. Anchored to both named young men + the play; one-name answer supported by the passage (Lesbonicus is the friend under discussion).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 409-410",
+   "source_text": "non hercle minus divorse distrahitur cito, quam si tu obicias formicis papaverem.",
+   "question": "Cui rei obiectae Stasimus argentum cito distractum comparat in Trinummo Plauti?",
+   "answer": "Papaveri formicis obiecto.",
+   "question_en": "To what does Stasimus compare money quickly torn apart in every direction, in Plautus' Trinummus?",
+   "answer_en": "To poppy-seed thrown to ants.",
+   "derivation": "Stasimus' proverbial image for how fast the house-money vanished among tradesmen: like poppy-seed tossed to ants. Quotable simile with one checkable image; anchored to Stasimus + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 425-428",
+   "source_text": "Trapezitae mille drachumarum Olympico, quas de ratione dehibuisti, redditae? LESB. Nempe quas spopondi. STAS. Immo 'quas dependi' inquito pro illo adulescente, quem tu esse aibas divitem.",
+   "question": "Quot drachumas Lesbonicus trapezitae Olympico reddidit, quas pro amico spoponderat, in Trinummo Plauti?",
+   "answer": "Mille drachumas.",
+   "question_en": "How many drachmas did Lesbonicus pay back to the banker Olympicus, which he had pledged as surety for a friend, in Plautus' Trinummus?",
+   "answer_en": "A thousand drachmas.",
+   "derivation": "Suretyship realia (sponsio: spopondi — dependi) with a clean number and a named banker: a thousand drachmas paid to the trapezita Olympicus for standing surety. Anchored to the named characters + play; single-number answer verbatim.",
+   "category": "ius"
+  }
+,
+  {
+   "locus": "Plautus, Trinummus 439",
+   "source_text": "Nequam illud verbumst 'bene volt', nisi qui bene facit.",
+   "question": "Quale verbum esse 'bene volt' Stasimus in Trinummo Plauti dicit, nisi qui bene facit?",
+   "answer": "Nequam.",
+   "question_en": "What kind of expression does Stasimus in Plautus' Trinummus say 'he wishes you well' is, unless the man also does well?",
+   "answer_en": "Worthless.",
+   "derivation": "Stasimus' famous proverb: 'bene volt' is a worthless word unless backed by 'bene facit' — good will without good deeds is nothing. Anchored to Stasimus + the play; one-word answer verbatim (nequam).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 468-471",
+   "source_text": "nunc si in aedem ad cenam veneris atque ibi opulentus tibi par forte obvenerit (adposita cena sit, popularem quam vocant), si illi congestae sint epulae a cluentibus:",
+   "question": "Quo nomine vocatur cena illa in aede adposita, quam Philto in Trinummo Plauti memorat?",
+   "answer": "Popularis.",
+   "question_en": "By what name is the banquet laid out in a temple called, which Philto mentions in Plautus' Trinummus?",
+   "answer_en": "The 'people's dinner' (cena popularis).",
+   "derivation": "Feast realia: the cena popularis, a public banquet laid in a temple, where a rich man might recline beside you with dainties heaped on him by his clients (patronage realia in the same breath). Anchored to Philto + the play; one-word answer verbatim (popularem quam vocant).",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Trinummus 478-479",
+   "source_text": "verecundari neminem apud mensam decet, nam ibi de divinis atque humanis cernitur.",
+   "question": "Vbi verecundari neminem decere Stasimus in Trinummo Plauti pronuntiat?",
+   "answer": "Apud mensam.",
+   "question_en": "Where does Stasimus in Plautus' Trinummus declare that no one ought to be bashful?",
+   "answer_en": "At table.",
+   "derivation": "The slave's table-proverb: no false modesty at the table, for there things divine and human are decided. Quotable maxim of convivial custom; anchored to Stasimus + the play; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 484",
+   "source_text": "cena hac annona est sine sacris hereditas.",
+   "question": "Cui rei Stasimus in Trinummo Plauti cenam, hac annona, comparat?",
+   "answer": "Hereditati sine sacris.",
+   "question_en": "To what does Stasimus in Plautus' Trinummus compare a dinner, at current food prices?",
+   "answer_en": "To an inheritance without the sacred rites attached.",
+   "derivation": "The proverb 'hereditas sine sacris' — a windfall with no burden, since inheritances normally carried the duty of the family sacra: with food so dear, a free dinner is exactly that. Legal-religious realia in proverb form; anchored to Stasimus + the play; verbatim phrase answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 485-487",
+   "source_text": "Semper tu hoc facito, Lesbonice, cogites, id optumum esse, tute uti sis optumus; si id nequeas, saltem ut optumis sis proxumus.",
+   "question": "Quid faciendum esse Philto Lesbonico praecipit, si optumus ipse esse nequeat, in Trinummo Plauti?",
+   "answer": "Vt optumis sit proxumus.",
+   "question_en": "What does Philto advise Lesbonicus to do if he cannot himself be the best, in Plautus' Trinummus?",
+   "answer_en": "To be next to the best.",
+   "derivation": "Philto's two-step maxim: best is to be best; failing that, keep closest to the best. Famous quotable precept; anchored to the named characters + play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 490-494",
+   "source_text": "di divites sunt, deos decent opulentiae et factiones, verum nos homunculi, satillum animai qui quom extemplo emisimus, aequo mendicus atque ille opulentissimus censetur censu ad Acheruntem mortuos.",
+   "question": "Quo censu mendicus atque opulentissimus mortui ad Acheruntem censentur, ut Philto in Trinummo Plauti dicit?",
+   "answer": "Aequo censu.",
+   "question_en": "At what assessment are the beggar and the richest man rated when dead at Acheron, as Philto says in Plautus' Trinummus?",
+   "answer_en": "At an equal assessment.",
+   "derivation": "Death the leveller, phrased in Roman census language: at Acheron beggar and millionaire are entered at the same census. Quotable maxim wedding underworld lore to the civic census; anchored to Philto + the play; one-word answer verbatim (aequo).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 508-510",
+   "source_text": "est ager sub urbe hic nobis: eum dabo dotem sorori; nam is de divitiis meis solus superfit praeter vitam relicuos.",
+   "question": "Quid Lesbonicus sorori dotem dare constituit, cum ex divitiis paternis id unum superesset, in Trinummo Plauti?",
+   "answer": "Agrum sub urbe.",
+   "question_en": "What did Lesbonicus decide to give his sister as dowry, it being the one thing left of the family fortune, in Plautus' Trinummus?",
+   "answer_en": "The farm near the city.",
+   "derivation": "The dowry-honor crux of the play: rather than let his sister marry undowered, Lesbonicus offers the suburban farm, his last remaining property. Anchored to the named characters + play; short answer verbatim (ager sub urbe).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 523-524",
+   "source_text": "Primum omnium olim terra cum proscinditur, in quinto quoque sulco moriuntur boves.",
+   "question": "In quoto quoque sulco boves in agro Lesbonici mori Stasimus mentitur, ut emptorem deterreat, in Trinummo Plauti?",
+   "answer": "In quinto quoque.",
+   "question_en": "In every how-manyeth furrow does Stasimus lyingly claim the oxen die on Lesbonicus' farm, to scare off the buyer, in Plautus' Trinummus?",
+   "answer_en": "In every fifth.",
+   "derivation": "The comic curse-catalogue of the farm begins: at first ploughing the oxen drop dead in every fifth furrow — whereupon Philto cries that the mouth of Acheron must be on that land. Clean number fact of a famous scene; anchored to the named characters; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 542-544",
+   "source_text": "tum autem Surorum, genus quod patientissumumst hominum, nemo extat qui ibi sex menses vixerit: ita cuncti solstitiali morbo decidunt.",
+   "question": "Quod genus hominum patientissimum esse Stasimus in Trinummo Plauti dicit?",
+   "answer": "Surorum genus.",
+   "question_en": "Which race of men does Stasimus in Plautus' Trinummus call the most enduring of all?",
+   "answer_en": "The Syrians.",
+   "derivation": "The ethnic stereotype of the slave-market: Syrians as the toughest, most enduring race of men — yet even they cannot survive six months on the cursed farm. Culturally shared characterization; anchored to Stasimus + the play; one-name answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Trinummus 545-546",
+   "source_text": "Credo ego istuc, Stasime, ita esse; sed Campans genus multo Surorum iam antidit patientia.",
+   "question": "Quod genus Surorum patientiam multo antire Philto in Trinummo Plauti dicit?",
+   "answer": "Campans genus.",
+   "question_en": "Which people does Philto in Plautus' Trinummus say has now far outstripped the Syrians in endurance?",
+   "answer_en": "The Campanian race.",
+   "derivation": "Philto's grim topical retort: the Campanians (enslaved and humbled after siding with Hannibal) now surpass even the proverbially enduring Syrians in patientia. Anchored to Philto + the play; two-word answer verbatim.",
+   "category": "geographia"
+  }
+,
+  {
+   "locus": "Plautus, Trinummus 549-551",
+   "source_text": "sicut fortunatorum memorant insulas, quo cuncti qui aetatem egerint caste suam conveniant;",
+   "question": "Quo convenire memorantur cuncti qui aetatem caste egerunt, ut Philto in Trinummo Plauti refert?",
+   "answer": "In fortunatorum insulas.",
+   "question_en": "Where are all those who have lived their lives chastely said to gather, as Philto relates in Plautus' Trinummus?",
+   "answer_en": "In the Isles of the Blest.",
+   "derivation": "Shared eschatological myth: the fortunatorum insulae, the Isles of the Blest, gathering-place of those who lived pure lives — cited as the counterpart of the cursed farm fit for evildoers. Anchored to Philto + the play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Trinummus 571-573",
+   "source_text": "nunc tuam sororem filio posco meo. quae res bene vortat. quid nunc? etiam consulis? LESB. Quid istic? quando ita vis: di bene vortant. spondeo.",
+   "question": "Quo verbo sollemni Lesbonicus sororem suam filio Philtonis despondit in Trinummo Plauti?",
+   "answer": "Spondeo.",
+   "question_en": "With what solemn word does Lesbonicus betroth his sister to Philto's son in Plautus' Trinummus?",
+   "answer_en": "'Spondeo' ('I pledge her').",
+   "derivation": "Betrothal realia: the sponsalia are concluded by the formal answer 'spondeo' to the suitor's request, with the blessing 'quae res bene vortat'. Institution-fact enacted verbatim on stage; anchored to the named characters + play; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Trinummus 597-599",
+   "source_text": "effugiet ex urbe, ubi erunt factae nuptiae, ibit istac, aliquo, in maximam malam crucem, latrocinatum, aut in Asiam aut in Ciliciam.",
+   "question": "In quas terras Lesbonicum latrocinatum iturum esse Stasimus timet, si ager dotem datus erit, in Trinummo Plauti?",
+   "answer": "In Asiam aut in Ciliciam.",
+   "question_en": "To what lands does Stasimus fear Lesbonicus will go off as a mercenary if the farm is given as dowry, in Plautus' Trinummus?",
+   "answer_en": "To Asia or Cilicia.",
+   "derivation": "Mercenary-service realia: the ruined young Greek's last resort is soldiering for pay (latrocinari) in Asia or Cilicia, the stock recruiting grounds. Anchored to the named characters + play; two-place answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 612",
+   "source_text": "Flagitium quidem hercle fiet, nisi dos dabitur virgini.",
+   "question": "Quid fore Callicles exclamat, nisi dos virgini dabitur, in Trinummo Plauti?",
+   "answer": "Flagitium.",
+   "question_en": "What does Callicles exclaim there will be, unless a dowry is given to the maiden, in Plautus' Trinummus?",
+   "answer_en": "A scandal (flagitium).",
+   "derivation": "The dowry-shame rule of the play: for a girl of good family to marry undowered is an outright disgrace — the social norm that drives Callicles to act. Anchored to Callicles + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 620-621",
+   "source_text": "nimium difficilest reperiri amicum ita ut nomen cluet, quoi tuam quom rem credideris, sine omni cura dormias.",
+   "question": "Quid facere possis, cum amico vere fideli rem tuam credideris, ut Stasimus in Trinummo Plauti ait?",
+   "answer": "Sine omni cura dormire.",
+   "question_en": "What can you do once you have entrusted your property to a truly faithful friend, as Stasimus says in Plautus' Trinummus?",
+   "answer_en": "Sleep without a care.",
+   "derivation": "Stasimus' maxim on true friendship: the friend worthy of the name is the one with whom your property lets you sleep carefree — the play's own gloss on Callicles' fides. Quotable proverb; anchored to Stasimus + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 689-691",
+   "source_text": "sed ut inops infamis ne sim, ne mi hanc famam differant, me germanam meam sororem in concubinatum tibi, si sine dote dem, dedisse magis quam in matrimonium.",
+   "question": "Quo Lesbonicus sororem suam, si sine dote detur, datam iri magis quam in matrimonium dicit in Trinummo Plauti?",
+   "answer": "In concubinatum.",
+   "question_en": "Into what does Lesbonicus say his sister would be given, rather than into marriage, if she were handed over without a dowry, in Plautus' Trinummus?",
+   "answer_en": "Into concubinage.",
+   "derivation": "The sharpest statement of the dowry norm: an undowered union looks like concubinatus, not matrimonium — the shame Lesbonicus refuses. Marriage-law realia; anchored to the named characters + play; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Trinummus 705-706",
+   "source_text": "Non enim possum quin exclamem euge, euge, Lysiteles, palin. facile palmam habes: hic victust, vicit tua comoedia.",
+   "question": "Quid Lysitelem in certamine orationis facile habere Stasimus exclamat, quasi in comoedia vicisset, in Trinummo Plauti?",
+   "answer": "Palmam.",
+   "question_en": "What does Stasimus exclaim that Lysiteles easily holds in the debate, as if he had won in a comedy, in Plautus' Trinummus?",
+   "answer_en": "The palm (of victory).",
+   "derivation": "Theater realia inside the play: the palma, the victory prize of dramatic contests, awarded by the eavesdropping slave to the better 'actor' — with the Greek cheers euge, palin. Anchored to the named characters + play; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 718-721",
+   "source_text": "quid ego nunc agam, nisi uti sarcinam constringam et clupeum ad dorsum accommodem, fulmentas iubeam suppingi soccis? non sisti potest. video caculam militarem me futurum haud longius:",
+   "question": "Quid se mox futurum esse Stasimus videt, si erus egens ad regem aliquem militatum ibit, in Trinummo Plauti?",
+   "answer": "Caculam militarem.",
+   "question_en": "What does Stasimus foresee he will soon become, if his penniless master goes off soldiering for some king, in Plautus' Trinummus?",
+   "answer_en": "A soldier's servant (cacula).",
+   "derivation": "Military realia: the cacula, the batman who carries pack and shield behind a mercenary — the slave's fate when the young master enlists, hobnails nailed under his socci. Anchored to Stasimus + the play; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 727-728",
+   "source_text": "ad forum ibo: nudius sextus quoi talentum mutuom dedi, reposcam, ut habeam, mecum quod feram, viaticum.",
+   "question": "Quid Stasimus, nudius sextus mutuom datum, ad forum reposcere it, ut viaticum habeat, in Trinummo Plauti?",
+   "answer": "Talentum.",
+   "question_en": "What loan, made five days before, does Stasimus go to the forum to demand back so as to have travel money, in Plautus' Trinummus?",
+   "answer_en": "A talent.",
+   "derivation": "The slave's nest-egg: a whole talent lent out six days since (nudius sextus), to be called in as viaticum for the coming campaign. Money-and-loan realia with a clean sum; anchored to Stasimus + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 759-761",
+   "source_text": "Potin est ab amico alicunde exorari? CALL. Potest. MEG. Gerrae. ne tu illud verbum actutum inveneris: 'mihi quidem hercle non est quod dem mutuom.'",
+   "question": "Quod verbum actutum inventurum esse Megaronides ait eum qui ab amico mutuom argentum roget, in Trinummo Plauti?",
+   "answer": "'Non est quod dem mutuom.'",
+   "question_en": "What answer does Megaronides say the man who asks a friend for a loan will instantly meet, in Plautus' Trinummus?",
+   "answer_en": "'I have nothing to lend.'",
+   "derivation": "The proverbial stock refusal of the loan-seeker, quoted as a set 'verbum': mihi non est quod dem mutuom. Social realia of borrowing among friends; anchored to Megaronides + the play; verbatim phrase answer.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Trinummus 815-817",
+   "source_text": "Ego sycophantam iam conduco de foro epistulasque iam consignabo duas, eumque huc ad adulescentem meditatum probe mittam.",
+   "question": "Quis sycophantam de foro conduxit, qui aurum a Charmide ferre se simularet, in Trinummo Plauti?",
+   "answer": "Megaronides.",
+   "question_en": "Who hired the impostor from the forum to pretend he was bringing gold from Charmides, in Plautus' Trinummus?",
+   "answer_en": "Megaronides.",
+   "derivation": "The intrigue's author: Megaronides devises the scheme and himself hires the sycophant from the forum, so the dowry can be paid from the treasure without betraying it. Anchored to the named characters + play; one-name answer (the speaker is Megaronides).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 774-777",
+   "source_text": "et eum rediturum actutum; ferat epistulas duas, eas nos consignemus, quasi sint a patre: det alteram illi, alteram dicat tibi dare sese velle.",
+   "question": "Quot epistulas falsas, quasi a Charmide patre consignatas, sycophanta ferre debebat in Trinummo Plauti?",
+   "answer": "Duas.",
+   "question_en": "How many forged letters, sealed as if from the father Charmides, was the impostor to carry in Plautus' Trinummus?",
+   "answer_en": "Two.",
+   "derivation": "The mechanics of the famous fake-letter intrigue: two letters sealed by the plotters as if from the absent father, one for the son, one for Callicles. Clean number fact; anchored to the named characters + play; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 792-795",
+   "source_text": "iam si opsignatas non feret, dici hoc potest, apud portitorem eas resignatas sibi inspectasque esse.",
+   "question": "Apud quem epistulas resignatas inspectasque esse dici posse Megaronides ait, si signum paternum desit, in Trinummo Plauti?",
+   "answer": "Apud portitorem.",
+   "question_en": "At whose office could the letters be said to have been unsealed and inspected, if the father's seal were missing, as Megaronides says in Plautus' Trinummus?",
+   "answer_en": "At the customs officer's (the portitor).",
+   "derivation": "Customs realia: the portitor at the harbor opened and inspected travellers' letters — a ready excuse for a broken seal. Anchored to Megaronides + the play; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Trinummus 800-801",
+   "source_text": "Vxorem quoque eampse hanc rem uti celes face, nam pol tacere numquam quicquamst quod queat.",
+   "question": "Quam ob causam Megaronides Calliclem iubet uxorem quoque de thensauro celare, in Trinummo Plauti?",
+   "answer": "Quia tacere nihil potest.",
+   "question_en": "For what reason does Megaronides tell Callicles to keep even his wife in the dark about the treasure, in Plautus' Trinummus?",
+   "answer_en": "Because she can keep nothing quiet.",
+   "derivation": "The comic maxim attached to the secret: hide it even from the wife, 'for there is nothing she could keep silent'. Quotable sententia with one checkable point; anchored to the named characters + play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 820-823",
+   "source_text": "Salsipotenti et mulsipotenti Iovis fratri et Nerei Neptuno laetus lubens laudes ago et grates gratiasque habeo et fluctibus salsis, quos penes mei fuit saepe potestas, bonis meis quid foret et meae vitae, quom suis med ex locis in patriam suavissumam reducem faciunt.",
+   "question": "Cui deo Charmides, ex Seleucia salvus reversus, ante alios laudes gratesque agit in Trinummo Plauti?",
+   "answer": "Neptuno.",
+   "question_en": "To which god does Charmides, returned safe from Seleucia, give praise and thanks above all others in Plautus' Trinummus?",
+   "answer_en": "To Neptune.",
+   "derivation": "The returning traveller's thanksgiving: Charmides hails Neptune, brother of Jove, ruler of the salt waves, for his safe homecoming. Religio realia (the sailor's debt to Neptune) + the god's canonical fraternity with Jupiter; anchored to Charmides + the play; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Trinummus 828-829",
+   "source_text": "atque hanc tuam gloriam iam ante auribus acceperam, et nobilest apud homines, pauperibus te parcere solitum, dites damnare atque domare.",
+   "question": "Quibus hominibus Neptunus parcere solitus esse apud homines nobile est, ut Charmides in Trinummo Plauti refert?",
+   "answer": "Pauperibus.",
+   "question_en": "Whom is Neptune famous among men for habitually sparing, as Charmides relates in Plautus' Trinummus?",
+   "answer_en": "The poor.",
+   "derivation": "The god's popular reputation, quoted as common fame (nobilest apud homines): Neptune spares the poor and crushes the rich. Shared religious lore; anchored to Neptune + Charmides + the play; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Trinummus 843-844",
+   "source_text": "Huic ego die nomen Trinummo faciam: nam ego operam meam tribus nummis hodie locavi ad artis nugatorias.",
+   "question": "Quot nummis sycophanta operam suam ad artes nugatorias locavit, unde fabula Plauti Trinummus nomen habet?",
+   "answer": "Tribus nummis.",
+   "question_en": "For how many coins did the impostor hire out his services for trickery — whence Plautus' play Trinummus takes its name?",
+   "answer_en": "For three coins (three nummi).",
+   "derivation": "The title-fact of the play: the hired sycophant's fee is three nummi, and he himself names the day 'Trinummus' — the con-man's wage gives the comedy its name. Canonical literary fact; anchored to the play + the sycophanta; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 845-846",
+   "source_text": "advenio ex Seleucia, Macedonia, Asia atque Arabia, quas ego neque oculis nec pedibus umquam usurpavi meis.",
+   "question": "Ex quibus terris advenire se sycophanta in Trinummo Plauti mentitur, quas numquam viderat?",
+   "answer": "Ex Seleucia, Macedonia, Asia atque Arabia.",
+   "question_en": "From what lands does the impostor in Plautus' Trinummus claim to arrive, though he had never seen them?",
+   "answer_en": "From Seleucia, Macedonia, Asia, and Arabia.",
+   "derivation": "The sycophant's bogus itinerary, recited in one famous line — four eastern lands he has 'never used his eyes or feet on'. Anchored to the sycophanta + the play; four-name answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Trinummus 934-935",
+   "source_text": "Eho an etiam Arabiast in Ponto? S. Est: non illa ubi tus gignitur, sed ubi apsinthium fit atque cunila gallinacea.",
+   "question": "In qua terra tus gigni notum esse ex sycophantae verbis apud Plautum in Trinummo apparet?",
+   "answer": "In Arabia.",
+   "question_en": "In which land is it known, from the impostor's words in Plautus' Trinummus, that frankincense is produced?",
+   "answer_en": "In Arabia.",
+   "derivation": "Even inside the con-man's nonsense geography sits a shared fact: Arabia is the land 'where frankincense is produced' (ubi tus gignitur). Culturally salient product-of-place knowledge; anchored to the play; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Trinummus 954-956",
+   "source_text": "an ille tam esset stultus, qui mihi mille nummum crederet Philippum, quod me aurum deferre iussit ad gnatum suom atque ad amicum Calliclem,",
+   "question": "Quot nummos aureos Philippos sycophanta a Charmide sibi creditos esse in Trinummo Plauti mentitur?",
+   "answer": "Mille nummos Philippos.",
+   "question_en": "How many gold Philippi does the impostor in Plautus' Trinummus falsely claim were entrusted to him by Charmides?",
+   "answer_en": "A thousand gold Philippi.",
+   "derivation": "The imaginary sum at the heart of the fake-letter con: a thousand gold Philippi supposedly sent as the daughter's dowry. Coinage realia (the Philippus) + clean number; anchored to the sycophanta scene + play; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Trinummus 1004-1005",
+   "source_text": "numquam edepol temere tinnit tintinnabulum: nisi qui illud tractat aut movet, mutumst, tacet.",
+   "question": "Quid numquam temere tinnire Charmides suspicans in Trinummo Plauti proverbii loco dicit?",
+   "answer": "Tintinnabulum.",
+   "question_en": "What does Charmides, growing suspicious, say never rings without cause, by way of proverb in Plautus' Trinummus?",
+   "answer_en": "A bell.",
+   "derivation": "Charmides' proverb of suspicion: a bell never rings by chance — someone must be handling it — applied to the impostor's strange business at his door. Quotable proverb with one checkable image; anchored to Charmides + the play; one-word answer verbatim.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Trinummus 1055-1056",
+   "source_text": "Nam ego talentum mutuom quoi dederam, talento inimicum mi emi, amicum vendidi.",
+   "question": "Quo pretio Stasimus in Trinummo Plauti se inimicum emisse amicumque vendidisse queritur, mutuo dato?",
+   "answer": "Talento.",
+   "question_en": "For what price does Stasimus in Plautus' Trinummus complain he bought an enemy and sold a friend, by lending money?",
+   "answer_en": "For a talent.",
+   "derivation": "Stasimus' proverb on lending among friends: with the talent I lent I bought myself an enemy and sold a friend. Quotable maxim of daily-life economics; anchored to Stasimus + the play; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 1100-1101",
+   "source_text": "thensaurum effodiebam intus, dotem, filiae tuae quae daretur.",
+   "question": "Quam ob rem Callicles thensaurum in aedibus effodiebat, ut Charmidi reverso in Trinummo Plauti explicat?",
+   "answer": "Vt dos filiae Charmidis inde daretur.",
+   "question_en": "Why was Callicles digging up the treasure in the house, as he explains to the returned Charmides in Plautus' Trinummus?",
+   "answer_en": "So that from it a dowry might be given to Charmides' daughter.",
+   "derivation": "The resolution of the treasure-plot: Callicles reveals he was unearthing the hidden hoard to provide the daughter's dowry — this being what he was caught 'in strange dress' doing. Anchored to the named characters + play; short answer verbatim (thensaurum effodiebam, dotem).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Trinummus 1103-1107",
+   "source_text": "Strenue curre in Piraeum, atque unum curriculum face. videbis iam illic navem qua advecti sumus. iubeto Sangarionem quae imperaverim curare ut efferantur, et tu ito simul. solutumst portitori iam portorium:",
+   "question": "In quem portum Charmides Stasimum currere iubet, ut navis onera efferantur, in Trinummo Plauti?",
+   "answer": "In Piraeum.",
+   "question_en": "To which harbor does Charmides tell Stasimus to run, to have the ship's cargo unloaded, in Plautus' Trinummus?",
+   "answer_en": "To the Piraeus.",
+   "derivation": "Setting realia: the ship on which Charmides returned lies in the Piraeus, Athens' port, its harbor-duty (portorium) already paid. Anchored to Charmides + the named port + the play; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Trinummus 1144",
+   "source_text": "hunc priorem aequomst me habere: tunica propior palliost.",
+   "question": "Quo proverbio Lysiteles in Trinummo Plauti se debere Calliclem priorem salutare quam socerum explicat?",
+   "answer": "Tunica propior pallio est.",
+   "question_en": "With what proverb does Lysiteles in Plautus' Trinummus explain that he must greet Callicles before his father-in-law?",
+   "answer_en": "The tunic is nearer than the cloak.",
+   "derivation": "The famous proverb of priorities: 'tunica propior pallio est' — what is closer comes first, as the undergarment lies nearer than the mantle. Quotable saying whose wording is the checkable point; anchored to Lysiteles + the play; verbatim phrase answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Trinummus 1157-1158",
+   "source_text": "L. Sponden ergo tuam gnatam uxorem mihi? CHARM. Spondeo, et mille auri Philippum dotis. LYS. Dotem nil moror.",
+   "question": "Quantam dotem Charmides filiae suae, Lysiteli desponsae, in Trinummo Plauti pollicetur?",
+   "answer": "Mille auri Philippum.",
+   "question_en": "What dowry does Charmides promise for his daughter, betrothed to Lysiteles, in Plautus' Trinummus?",
+   "answer_en": "A thousand gold Philippi.",
+   "derivation": "The play's happy-ending reversal: the once-undowered bride is now betrothed with a thousand gold Philippi (from the recovered treasure), though the suitor waives it. Dowry realia + clean number; anchored to the named characters + play; short answer verbatim.",
+   "category": "mores"
+  }
+ ]}

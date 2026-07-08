@@ -1,0 +1,663 @@
+{
+ "source": "text/plautus/captivi.txt",
+ "author": "Plautus",
+ "work": "Captivi",
+ "pairs": [
+  {
+   "locus": "Plautus, Captivi prol. 7-10",
+   "source_text": "seni huic fuerunt filii nati duo; alterum quadrimum puerum servos surpuit eumque hinc profugiens vendidit in Alide patri huius.",
+   "question": "Quot annos natus erat alter Hegionis filius, quem servus fugiens surripuit et in Alide vendidit, ut prologus Captivorum Plauti narrat?",
+   "answer": "Quattuor annos: quadrimus erat.",
+   "question_en": "How old was Hegio's second son, whom the runaway slave stole and sold in Elis, as the prologue of Plautus' Captivi recounts?",
+   "answer_en": "Four years old.",
+   "derivation": "The backstory fact of the Captivi: one of Hegio's two sons was kidnapped at age four (quadrimum) by a fleeing slave and sold in Elis. Anchored to Hegio + the named play; single-number answer verbatim (quadrimum).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 24-25",
+   "source_text": "postquam belligerant Aetoli cum Aleis, ut fit in bello, capitur alter filius: medicus Menarchus emit ibidem in Alide.",
+   "question": "Inter quos populos bellum geritur in fabula Plauti quae Captivi inscribitur?",
+   "answer": "Inter Aetolos et Aleos.",
+   "question_en": "Between which peoples is the war waged in Plautus' play called Captivi?",
+   "answer_en": "Between the Aetolians and the Eleans.",
+   "derivation": "The war that drives the whole plot: Aetolia against Elis, stated flatly by the prologue (belligerant Aetoli cum Aleis). Canonical fact of the play; anchored to the named play; two-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 25-26",
+   "source_text": "ut fit in bello, capitur alter filius: medicus Menarchus emit ibidem in Alide.",
+   "question": "Quis Hegionis filium bello captum in Alide emit, ut prologus Captivorum Plauti narrat?",
+   "answer": "Menarchus medicus.",
+   "question_en": "Who bought Hegio's war-captured son in Elis, as the prologue of Plautus' Captivi recounts?",
+   "answer_en": "The physician Menarchus.",
+   "derivation": "The buyer of the captured son: a doctor named Menarchus in Elis. Name-plus-profession fact; anchored to Hegio + the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 33-34",
+   "source_text": "reconciliare ut facilius posset domum, emit hosce e praeda ambos de quaestoribus.",
+   "question": "De quibus magistratibus Hegio duos captivos e praeda emit apud Plautum in Captivis?",
+   "answer": "De quaestoribus.",
+   "question_en": "From which magistrates did Hegio buy the two captives out of the war booty in Plautus' Captivi?",
+   "answer_en": "From the quaestors.",
+   "derivation": "Roman realia dropped into the Greek plot: war booty, prisoners included, was sold off by the quaestors. Anchored to Hegio + the play; one-word answer verbatim (de quaestoribus).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 37-39",
+   "source_text": "itaque inter se commutant vestem et nomina; illic vocatur Philocrates, hic Tyndarus: huius illic, hic illius hodie fert imaginem.",
+   "question": "Quas duas res Philocrates erus et Tyndarus servus inter se commutaverunt in Captivis Plauti?",
+   "answer": "Vestem et nomina.",
+   "question_en": "What two things did the master Philocrates and the slave Tyndarus exchange with each other in Plautus' Captivi?",
+   "answer_en": "Their clothing and their names.",
+   "derivation": "The famous identity swap at the heart of the Captivi: master and slave exchange dress and names in captivity so the master can be sent home. Canonical literature-fact; anchored to both named characters + the play; two-noun answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 19-21",
+   "source_text": "is postquam hunc emit, dedit eum huic gnato suo peculiarem, quia quasi una aetas erat. hic nunc domi servit suo patri, nec scit pater;",
+   "question": "Cui Tyndarus servus in Captivis Plauti ignorans servit?",
+   "answer": "Hegioni, patri suo.",
+   "question_en": "Whom does the slave Tyndarus unknowingly serve in Plautus' Captivi?",
+   "answer_en": "Hegio, his own father.",
+   "derivation": "The central irony of the play, announced by the prologue: the kidnapped son, sold abroad and bought back by chance, serves his own father as a slave, neither knowing it. Canonical literature-fact; anchored to Tyndarus + the play; short answer supported verbatim (servit suo patri, nec scit pater).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 22",
+   "source_text": "enim vero di nos quasi pilas homines habent.",
+   "question": "Quasi quas res deos homines habere prologus Captivorum Plauti dicit?",
+   "answer": "Quasi pilas.",
+   "question_en": "Like what objects does the prologue of Plautus' Captivi say the gods treat men?",
+   "answer_en": "Like balls (playthings).",
+   "derivation": "The celebrated maxim of the Captivi prologue: the gods toss men about like balls. A quotable proverb with a checkable point; anchored to the named play; one-word answer verbatim (quasi pilas).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 55-58",
+   "source_text": "non pertractate facta est neque item ut ceterae: neque spurcidici insunt versus, immemorabiles; hic neque periurus leno est nec meretrix mala neque miles gloriosus.",
+   "question": "Quae tres personae comoediarum solitae in Captivis Plauti desunt, ut prologus ipse gloriatur?",
+   "answer": "Leno periurus, meretrix mala, miles gloriosus.",
+   "question_en": "Which three stock characters of comedy are absent from Plautus' Captivi, as the prologue itself boasts?",
+   "answer_en": "The perjured pimp, the wicked courtesan, and the braggart soldier.",
+   "derivation": "The play's own famous boast of moral cleanliness: no leno, no meretrix, no miles gloriosus, and no dirty verses. Canonical literary fact about the Captivi's exceptional character among the palliatae; anchored to the play; three-item answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 58-60",
+   "source_text": "ne vereamini, quia bellum Aetolis esse dixi cum Aleis: foris illic extra scaenam fient proelia.",
+   "question": "Vbi proelia belli Aetolici fient, ut prologus Captivorum Plauti spectatores monet?",
+   "answer": "Foris, extra scaenam.",
+   "question_en": "Where will the battles of the Aetolian war take place, as the prologue of Plautus' Captivi assures the spectators?",
+   "answer_en": "Off-stage, outside the scene.",
+   "derivation": "A theater-convention fact stated by the play itself: though a war frames the plot, all fighting happens outside the stage (extra scaenam). Anchored to the named play + its war; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi prol. 61-62",
+   "source_text": "nam hoc paene iniquomst, comico choragio conari desubito agere nos tragoediam.",
+   "question": "Quo apparatu tragoediam desubito agere paene iniquom esse prologus Captivorum Plauti dicit?",
+   "answer": "Comico choragio.",
+   "question_en": "With what stage equipment does the prologue of Plautus' Captivi say it would be almost unfair to attempt a tragedy on the spur of the moment?",
+   "answer_en": "With comic stage-gear (the comic choragium).",
+   "derivation": "Theater realia: the choragium was the stock of costumes and properties furnished for a production; the prologue jokes that comedy's outfit cannot suddenly stage a tragedy. Anchored to the named play; two-word answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Captivi 69-70",
+   "source_text": "Iuventus nomen indidit Scorto mihi, eo quia invocatus soleo esse in convivio.",
+   "question": "Quod cognomen iuventus Ergasilo parasito indidit apud Plautum in Captivis?",
+   "answer": "Scortum.",
+   "question_en": "What nickname did the young men give the parasite Ergasilus in Plautus' Captivi?",
+   "answer_en": "Scortum ('the Harlot').",
+   "derivation": "The parasite's self-introduction: the town's youth nicknamed him 'Scortum'. A clean name-fact about a named character; the joking rationale is a pun, but the nickname itself survives translation; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 77",
+   "source_text": "quasi mures semper edimus alienum cibum;",
+   "question": "Quibus animalibus Ergasilus parasitus in Captivis Plauti parasitos similes esse dicit, quod semper alienum cibum edant?",
+   "answer": "Muribus.",
+   "question_en": "To which animals does the parasite Ergasilus in Plautus' Captivi liken parasites, because they always eat another's food?",
+   "answer_en": "To mice.",
+   "derivation": "The famous parasite self-description of the Captivi: 'like mice we always eat another's food.' The classic statement of the parasite-economy of Roman comedy; anchored to Ergasilus + the play; one-word answer verbatim (quasi mures).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 80-83",
+   "source_text": "quasi, cum caletur, cocleae in occulto latent, suo sibi suco vivont, ros si non cadit, item parasiti rebus prolatis latent in occulto miseri, victitant suco suo,",
+   "question": "Quibus animalibus parasiti rebus prolatis similes fiunt, suco suo viventes, ut Ergasilus apud Plautum in Captivis queritur?",
+   "answer": "Cocleis.",
+   "question_en": "Which animals do parasites resemble during the legal holidays, living on their own juice, as Ergasilus complains in Plautus' Captivi?",
+   "answer_en": "Snails.",
+   "derivation": "The second animal simile of the parasite's misery: in the dead season (rebus prolatis, when business is adjourned and men go to the country) parasites hide like snails in hot weather, living on their own juice. Anchored to Ergasilus + the play; one-word answer verbatim (cocleae).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 88-90",
+   "source_text": "et hic quidem hercle, nisi qui colaphos perpeti potest parasitus frangique aulas in caput, ire extra portam Trigeminam ad saccum licet.",
+   "question": "Extra quam portam parasito, qui colaphos perpeti non potest, cum sacco mendicatum eundum est, ut Ergasilus apud Plautum in Captivis ait?",
+   "answer": "Extra portam Trigeminam.",
+   "question_en": "Outside which gate must a parasite who cannot endure blows go begging with a sack, as Ergasilus says in Plautus' Captivi?",
+   "answer_en": "Outside the Porta Trigemina.",
+   "derivation": "Roman topographical realia in a Greek play: the Porta Trigemina by the Aventine was the haunt of porters and beggars — the parasite who cannot take punches may as well take up the beggar's sack there. Anchored to Ergasilus + the named gate; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 93-95",
+   "source_text": "ita nunc belligerant Aetoli cum Aleis; nam Aetolia haec est, illic est captus in Alide, Philopolemus, huius Hegionis filius senis, qui hic habitat,",
+   "question": "In qua terra fabula Plauti quae Captivi inscribitur agitur?",
+   "answer": "In Aetolia.",
+   "question_en": "In what land is Plautus' play called Captivi set?",
+   "answer_en": "In Aetolia.",
+   "derivation": "The setting of the play, stated flatly by Ergasilus (nam Aetolia haec est): the action takes place in Aetolia, while the captured son is held in Elis. Anchored to the named play; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Captivi 94-95",
+   "source_text": "illic est captus in Alide, Philopolemus, huius Hegionis filius senis, qui hic habitat,",
+   "question": "Quo nomine appellatur Hegionis filius qui bello captus in Alide tenetur apud Plautum in Captivis?",
+   "answer": "Philopolemus.",
+   "question_en": "What is the name of Hegio's son who, captured in war, is held in Elis in Plautus' Captivi?",
+   "answer_en": "Philopolemus.",
+   "derivation": "The name of the captured son whose ransom drives the plot: Philopolemus, taken prisoner in Elis. Anchored to Hegio + the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 116-118",
+   "source_text": "liber captivos avis ferae consimilis est: semel fugiendi si data est occasio, satis est, numquam postilla possis prendere.",
+   "question": "Cui rei liberum captivum consimilem esse Hegio apud Plautum in Captivis dicit?",
+   "answer": "Avi ferae.",
+   "question_en": "To what does Hegio in Plautus' Captivi say a freeborn captive is similar?",
+   "answer_en": "To a wild bird.",
+   "derivation": "Hegio's proverb-like maxim on guarding prisoners: a freeborn captive is like a wild bird — once he gets one chance to flee you never catch him again. Quotable saying with a checkable point; anchored to Hegio + the play; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 174-175",
+   "source_text": "Quia mi est natalis dies; propterea te vocari ad te ad cenam volo.",
+   "question": "Quo praetextu Ergasilus parasitus cenam a Hegione petivit apud Plautum in Captivis?",
+   "answer": "Quod natalis dies sibi esset.",
+   "question_en": "On what pretext did the parasite Ergasilus ask Hegio for a dinner in Plautus' Captivi?",
+   "answer_en": "That it was his birthday.",
+   "derivation": "The classic parasite gambit: Ergasilus announces his own birthday so as to be invited to dine — at Hegio's house and Hegio's expense. A crisp fact of the parasite-economy; anchored to both named characters; short answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 201-202",
+   "source_text": "Eiulatione haud opus est, oculis haud lacrimantibus: in re mala animo si bono utare, adiuvat.",
+   "question": "Quid in re mala adiuvare lorarius apud Plautum in Captivis dicit?",
+   "answer": "Animo bono uti.",
+   "question_en": "What does the slave-overseer in Plautus' Captivi say helps when things are bad?",
+   "answer_en": "Keeping a good spirit.",
+   "derivation": "The overseer's consolation to the chained captives, a quotable maxim: in trouble, a good spirit helps. Proverb with a checkable point; anchored to the play and speaker; short answer verbatim (animo si bono utare, adiuvat).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 255-256",
+   "source_text": "Qui cavet ne decipiatur, vix cavet, cum etiam cavet; etiam cum cavisse ratus est, saepe is cautor captus est.",
+   "question": "Quis saepe capitur, etiam cum cavisse ratus est, ut Hegio apud Plautum in Captivis sententiose ait?",
+   "answer": "Cautor ipse.",
+   "question_en": "Who is often caught, even when he thinks he has been on his guard, as Hegio sententiously says in Plautus' Captivi?",
+   "answer_en": "The wary man himself.",
+   "derivation": "Hegio's maxim on the limits of caution: even the careful man, sure he has taken care, is often caught (saepe is cautor captus est). Quotable proverb; anchored to Hegio + the play; short answer verbatim.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Captivi prol. 27-29",
+   "source_text": "coepit captivos commercari hic Aleos, si quem reperire possit qui mutet suom, illum captivom: hunc suom esse nescit, qui domist.",
+   "question": "Quam ob rem Hegio senex captivos Aleos commercari coepit apud Plautum in Captivis?",
+   "answer": "Vt filium suum captum mutaret.",
+   "question_en": "Why did the old man Hegio begin buying up Elean captives in Plautus' Captivi?",
+   "answer_en": "To exchange them for his captured son.",
+   "derivation": "The premise of the plot: Hegio trades in Elean prisoners solely to find one to exchange for his son held in Elis. Prisoner-exchange (mutatio) practice; anchored to Hegio + the play; short purpose answer verbatim (qui mutet suom).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 274",
+   "source_text": "Eugepae, Thalem talento non emam Milesium, nam ad sapientiam huius nimius nugator fuit.",
+   "question": "Quem sapientem Milesium Tyndarus in Captivis Plauti se ne talento quidem empturum ait, prae astutia Philocratis?",
+   "answer": "Thalem.",
+   "question_en": "Which Milesian sage does Tyndarus in Plautus' Captivi say he would not buy even for a talent, compared with Philocrates' cleverness?",
+   "answer_en": "Thales.",
+   "derivation": "Thales of Miletus as the proverbial wise man: Tyndarus jokes he would not pay a talent for Thales, so clever is his master. Cultural allusion with a checkable point; anchored to Tyndarus + the play; one-name answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 285-287",
+   "source_text": "Quid erat ei nomen? PHIL. Thensaurochrysonicochrysides. HEG. Videlicet propter divitias inditum id nomen quasi est. PHIL. Immo edepol propter avaritiam ipsius atque audaciam.",
+   "question": "Quod nomen ficticium Philocrates, servum se esse simulans, patri suo apud Hegionem indidit in Captivis Plauti?",
+   "answer": "Thensaurochrysonicochrysides.",
+   "question_en": "What made-up name did Philocrates, pretending to be the slave, give Hegio for his father in Plautus' Captivi?",
+   "answer_en": "Thensaurochrysonicochrysides.",
+   "derivation": "The celebrated Plautine mock-name: the disguised Philocrates invents the monstrous Greek compound 'Thensaurochrysonicochrysides' for his father, given, he jokes, for avarice. Famous comic coinage of the play; anchored to the named characters; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 290-292",
+   "source_text": "Genio suo ubi quando sacruficat, ad rem divinam quibus est opus, Samiis vasis utitur, ne ipse Genius surripiat: proinde aliis ut credat vide.",
+   "question": "Quibus vasis pater Philocratis avarus Genio suo sacrificans utitur, ut in Captivis Plauti ridetur?",
+   "answer": "Samiis vasis.",
+   "question_en": "What ware does Philocrates' miserly father use when sacrificing to his Genius, as the joke runs in Plautus' Captivi?",
+   "answer_en": "Samian (cheap earthenware) vessels.",
+   "derivation": "Double realia in one joke: the private cult of the Genius, and Samian pottery as proverbially cheap crockery — the miser uses it at sacrifice lest his own Genius steal the plate. Anchored to the named characters + play; two-word answer verbatim (Samiis vasis).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Captivi 364-367",
+   "source_text": "nam ego te aestumatum huic dedi viginti minis, hic autem te ait mittere hinc velle ad patrem, meum ut illic redimat filium, mutatio inter me atque illum ut nostris fiat filiis.",
+   "question": "Quot minis Philocrates aestumatus in Alidem missus est, ut Hegio in Captivis Plauti pactus est?",
+   "answer": "Viginti minis.",
+   "question_en": "At how many minae was Philocrates valued when he was sent to Elis, by Hegio's agreement in Plautus' Captivi?",
+   "answer_en": "At twenty minae.",
+   "derivation": "The parole valuation: the supposed slave is released on an assessed surety of twenty minae, forfeit if he fails to return. Clean number fact and ransom-practice realia; anchored to the named characters + play; single-number answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Captivi 358",
+   "source_text": "Quod bonis bene fit beneficium, gratia ea gravida est bonis.",
+   "question": "Quale beneficium gratia gravida bonis rependitur, ut Hegio apud Plautum in Captivis sententiose ait?",
+   "answer": "Quod bonis bene fit.",
+   "question_en": "What sort of kindness is repaid with a gratitude pregnant with blessings, as Hegio sententiously says in Plautus' Captivi?",
+   "answer_en": "One done well to good men.",
+   "derivation": "Hegio's quotable maxim on benefaction: a kindness done to good men breeds good returns. Proverb with a checkable point; anchored to Hegio + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 449-451",
+   "source_text": "Sequere me, viaticum ut dem a trapezita tibi, eadem opera a praetore sumam syngraphum. TYND. Quem syngraphum? HEG. Quem hic ferat secum ad legionem, hinc ire huic ut liceat domum.",
+   "question": "A quo magistratu Hegio syngraphum sumpsit, quo captivo per legionem domum ire liceret, apud Plautum in Captivis?",
+   "answer": "A praetore.",
+   "question_en": "From which magistrate did Hegio obtain the safe-conduct pass allowing the captive to go home through the army lines, in Plautus' Captivi?",
+   "answer_en": "From the praetor.",
+   "derivation": "Wartime realia: a syngraphus (written pass) issued by the praetor lets the paroled captive cross to the enemy through the lines. Anchored to Hegio + the play; one-title answer verbatim (a praetore).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Captivi 192-193",
+   "source_text": "Ibo intro atque intus subducam ratiunculam, quantillum argenti mi apud trapezitam siet.",
+   "question": "Apud quem Hegio argentum suum depositum habet, ut apud Plautum in Captivis dicit?",
+   "answer": "Apud trapezitam.",
+   "question_en": "With whom does Hegio keep his money on deposit, as he says in Plautus' Captivi?",
+   "answer_en": "With the banker (trapezita).",
+   "derivation": "Banking realia of the palliata: money kept on account with a trapezita (money-changer/banker), whose books one reckons up. Anchored to Hegio + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 461-463",
+   "source_text": "Miser homo est, qui ipse sibi quod edit quaerit et id aegre invenit, sed ille est miserior, qui et aegre quaerit et nihil invenit; ille miserrimust, qui cum esse cupit, tum quod edit non habet.",
+   "question": "Quis omnium miserrimus est homo, ut Ergasilus parasitus apud Plautum in Captivis pronuntiat?",
+   "answer": "Qui, cum esse cupit, quod edat non habet.",
+   "question_en": "Who is the most wretched man of all, as the parasite Ergasilus declares in Plautus' Captivi?",
+   "answer_en": "He who wants to eat and has nothing to eat.",
+   "derivation": "The parasite's graded maxim of misery (miser, miserior, miserrimus), capped by hunger without food. Quotable sententia with a single checkable climax; anchored to Ergasilus + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 473-474",
+   "source_text": "eos requirunt, qui libenter, quom ederint, reddant domi; ipsi obsonant, quae parasitorum ante erat provincia,",
+   "question": "Quorum antea provincia erat obsonare, ut Ergasilus apud Plautum in Captivis queritur?",
+   "answer": "Parasitorum.",
+   "question_en": "Whose special province was it formerly to do the dinner-marketing, as Ergasilus complains in Plautus' Captivi?",
+   "answer_en": "The parasites'.",
+   "derivation": "Parasite-economy realia: catering (obsonare) for the dinner-table was traditionally the parasite's job, now usurped by the young men themselves. Anchored to Ergasilus + the play; one-word answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Captivi 488-489",
+   "source_text": "omnes de compecto rem agunt, quasi in Velabro olearii.",
+   "question": "Qui negotiatores in Velabro de compecto rem agere dicuntur apud Plautum in Captivis?",
+   "answer": "Olearii.",
+   "question_en": "Which traders are said in Plautus' Captivi to act in collusion, like those in the Velabrum?",
+   "answer_en": "The oil-dealers.",
+   "derivation": "Roman market realia: the olearii (oil-sellers) of the Velabrum, the market district below the Palatine, were proverbial for price-fixing collusion (de compecto). Anchored to the named Roman place; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 493-495",
+   "source_text": "qui consilium iniere, quo nos victu et vita prohibeant, is diem dicam, irrogabo multam, ut mihi cenas decem meo arbitratu dent, cum cara annona sit.",
+   "question": "Quot cenas Ergasilus parasitus multae nomine sibi dari postulaturum se ait apud Plautum in Captivis?",
+   "answer": "Decem cenas.",
+   "question_en": "How many dinners does the parasite Ergasilus say he will demand as a fine in Plautus' Captivi?",
+   "answer_en": "Ten dinners.",
+   "derivation": "The parasite's mock-lawsuit in Roman legal dress (diem dicere, multam irrogare): the fine he will impose on the conspirators against his stomach is ten dinners, payable when food prices are high. Number fact + legal color; anchored to Ergasilus + the play; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 527-528",
+   "source_text": "perdidit me Aristophontes hic qui venit modo intro: is me novit, is sodalis Philocrati et cognatus est.",
+   "question": "Cuius captivi adventus fallaciam Tyndari perdidit, quod is verum Philocratem noverat, apud Plautum in Captivis?",
+   "answer": "Aristophontis.",
+   "question_en": "Which captive's arrival ruined Tyndarus' deception, because he knew the real Philocrates, in Plautus' Captivi?",
+   "answer_en": "Aristophontes'.",
+   "derivation": "The plot's unmasking agent: Aristophontes, comrade and kinsman of the real Philocrates, recognizes Tyndarus and so explodes the identity swap. Canonical turning figure of the play; anchored to the named characters; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 529",
+   "source_text": "neque iam Salus servare, si volt, me potest, nec copia est, nisi si aliquam corde machinor astutiam.",
+   "question": "Quae dea ne servare quidem Tyndarum iam potest, si velit, ut ipse desperans apud Plautum in Captivis ait?",
+   "answer": "Salus.",
+   "question_en": "Which goddess can no longer save Tyndarus even if she wishes, as he says in despair in Plautus' Captivi?",
+   "answer_en": "Salus (the goddess Safety).",
+   "derivation": "The proverbial Plautine hyperbole of ruin: not even the goddess Salus could save me now. Personified Salus is Roman cult realia and the phrase a stock saying; anchored to Tyndarus + the play; one-name answer verbatim.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Captivi 553-555",
+   "source_text": "Ne verere, multos iste morbus homines macerat, quibus insputari saluti fuit atque is profuit.",
+   "question": "Cum Tyndarus Aristophontem morbo insano corripi simularet, quod remedium multis eo morbo maceratis saluti fuisse Hegio apud Plautum in Captivis dixit?",
+   "answer": "Insputari.",
+   "question_en": "When Tyndarus pretended Aristophontes was seized by the madness-disease, what remedy did Hegio in Plautus' Captivi say had been the salvation of many so afflicted?",
+   "answer_en": "Being spat upon.",
+   "derivation": "Folk-medicine realia: spitting on (or at) the victim of the falling-sickness/madness was believed apotropaic and salutary — the morbus qui insputatur. Anchored to the named characters + play; one-word answer verbatim (insputari saluti fuit).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Captivi 562-563",
+   "source_text": "et quidem Alcumeus atque Orestes et Lycurgus postea una opera mihi sunt sodales qua iste.",
+   "question": "Quos tres fabularum viros furore agitatos Tyndarus in Captivis Plauti aeque sibi sodales esse atque Aristophontem ludibundus dicit?",
+   "answer": "Alcumeum, Orestem, Lycurgum.",
+   "question_en": "Which three madmen of legend does Tyndarus in Plautus' Captivi jokingly say are his comrades just as much as Aristophontes is?",
+   "answer_en": "Alcmaeus (Alcmaeon), Orestes, and Lycurgus.",
+   "derivation": "The canonical trio of mythic madmen — Alcmaeon and Orestes driven mad by the Furies, Lycurgus by Dionysus — invoked as the standard of insanity. Myth as shared story; anchored to Tyndarus + the play; three-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Captivi 615",
+   "source_text": "ornamenta absunt: Aiacem, hunc cum vides, ipsum vides.",
+   "question": "Quem heroem furentem, ornamentis tantum absentibus, Aristophontem ipsum esse Tyndarus apud Plautum in Captivis ait?",
+   "answer": "Aiacem.",
+   "question_en": "Which raving hero does Tyndarus in Plautus' Captivi say Aristophontes is in person, only the costume lacking?",
+   "answer_en": "Ajax.",
+   "derivation": "Ajax as the proverbial stage madman of tragedy: seeing this man, you see Ajax himself, minus the theatrical costume (ornamenta). Myth + theater convention in one line; anchored to the named characters; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Captivi 617",
+   "source_text": "nunc ego inter sacrum saxumque sto, nec quid faciam scio.",
+   "question": "Inter quae duo stare se dicit Tyndarus, summo in periculo versatus, apud Plautum in Captivis?",
+   "answer": "Inter sacrum saxumque.",
+   "question_en": "Between what two things does Tyndarus, caught in extreme danger, say he stands in Plautus' Captivi?",
+   "answer_en": "Between the victim and the flint-stone (inter sacrum saxumque).",
+   "derivation": "The proverbial expression for deadly straits, drawn from the rite in which the sacrificial victim was struck with the flint stone: to stand inter sacrum saxumque. Quotable proverb whose wording is the checkable point; anchored to Tyndarus + the play; verbatim phrase answer.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 635",
+   "source_text": "Philocrati Theodoromedes fuit pater.",
+   "question": "Quo nomine vero pater Philocratis vocabatur, ut Aristophontes apud Plautum in Captivis testatur?",
+   "answer": "Theodoromedes.",
+   "question_en": "What was the real name of Philocrates' father, as Aristophontes attests in Plautus' Captivi?",
+   "answer_en": "Theodoromedes.",
+   "derivation": "The true patronym behind the joke-name: Aristophontes reveals that Philocrates' father is Theodoromedes, exploding the invented Thensaurochrysonicochrysides. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 655",
+   "source_text": "nuculeum amisi, retinui pignori putamina.",
+   "question": "Quid sibi pignori retinuisse Hegio deceptus queritur, nuculeo amisso, apud Plautum in Captivis?",
+   "answer": "Putamina.",
+   "question_en": "What does the deceived Hegio complain he has kept as his pledge, the kernel being lost, in Plautus' Captivi?",
+   "answer_en": "The shells.",
+   "derivation": "Hegio's proverbial image for the swindle: the kernel (the free master) escaped, the worthless shells (the slave) stayed as security. Quotable proverb with one checkable word; anchored to Hegio + the play; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 690",
+   "source_text": "Qui per virtutem, periit, at non interit.",
+   "question": "Quid Tyndarus apud Plautum in Captivis ei negat accidere qui per virtutem periit?",
+   "answer": "Non interit.",
+   "question_en": "What does Tyndarus in Plautus' Captivi deny happens to the man who has died through valor?",
+   "answer_en": "He does not perish utterly.",
+   "derivation": "The celebrated sententia of the play: he who perishes through valor is not annihilated. A famous quotable maxim; anchored to Tyndarus + the play; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 721-723",
+   "source_text": "ducite, ubi ponderosas crassas capiat compedes. inde ibis porro in latomias lapidarias.",
+   "question": "Quo Hegio Tyndarum, fallacia detecta, ad laborandum misit apud Plautum in Captivis?",
+   "answer": "In latomias lapidarias.",
+   "question_en": "Where did Hegio send Tyndarus to labor, once the trick was detected, in Plautus' Captivi?",
+   "answer_en": "To the stone quarries.",
+   "derivation": "The famous punishment of the play: heavy shackles and the latomiae (lautumiae), the stone quarries — the canonical penal-labor fate of the loyal slave Tyndarus. Punishment realia + canonical plot fact; anchored to the named characters; one-place answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 723-726",
+   "source_text": "ibi quom alii octonos lapides effodiunt, nisi cotidiano sesquiopus confeceris, Sescentoplago nomen indetur tibi.",
+   "question": "Quot lapides cotidie singuli in latomiis effodiunt, ut Hegio Tyndaro minitans apud Plautum in Captivis dicit?",
+   "answer": "Octonos.",
+   "question_en": "How many stones apiece do the others dig out daily in the quarries, as Hegio says threateningly to Tyndarus in Plautus' Captivi?",
+   "answer_en": "Eight each.",
+   "derivation": "The quarry work-quota: eight stones a day is the norm, and Tyndarus must do half as much again (sesquiopus) or be renamed. Clean number fact of penal labor; anchored to Hegio + Tyndarus + the play; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 725-726",
+   "source_text": "nisi cotidiano sesquiopus confeceris, Sescentoplago nomen indetur tibi.",
+   "question": "Quod nomen Tyndaro in latomiis inditum iri Hegio minatur, nisi sesquiopus cotidie confecerit, apud Plautum in Captivis?",
+   "answer": "Sescentoplagus.",
+   "question_en": "What name does Hegio threaten will be given to Tyndarus in the quarries if he fails to finish his work and a half each day, in Plautus' Captivi?",
+   "answer_en": "Sescentoplagus ('Six-hundred-lashes').",
+   "derivation": "A second famous Plautine coinage in the play: the threatened quarry nickname Sescentoplagus, from the six hundred lashes awaiting the laggard. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Captivi 729-730",
+   "source_text": "nam noctu nervo vinctus custodibitur, interdius sub terra lapides eximet:",
+   "question": "Quo vinculo Tyndarus noctu in latomiis custodiendus erat, ut Hegio apud Plautum in Captivis iussit?",
+   "answer": "Nervo.",
+   "question_en": "In what restraint was Tyndarus to be kept at night in the quarries, by Hegio's order in Plautus' Captivi?",
+   "answer_en": "In the stocks (nervus).",
+   "derivation": "Punishment realia: the nervus, the wooden stocks of Roman penal custody, by night; quarrying underground by day. Anchored to the named characters + play; one-word answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Captivi 741",
+   "source_text": "post mortem in morte nihil est quod metuam mali.",
+   "question": "Quid mali post mortem in morte esse Tyndarus apud Plautum in Captivis negat?",
+   "answer": "Nihil.",
+   "question_en": "How much evil does Tyndarus in Plautus' Captivi say there is to fear in death after death?",
+   "answer_en": "None at all.",
+   "derivation": "Tyndarus' quotable maxim facing execution: after death there is in death no evil to fear. A famous sententia of the play with one checkable point; anchored to Tyndarus + the play; one-word answer verbatim (nihil).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 775",
+   "source_text": "sine sacris hereditatem sum aptus effertissimam.",
+   "question": "Qualem hereditatem se adeptum esse Ergasilus parasitus gaudet apud Plautum in Captivis?",
+   "answer": "Sine sacris.",
+   "question_en": "What kind of inheritance does the parasite Ergasilus rejoice at having got in Plautus' Captivi?",
+   "answer_en": "One without the sacred rites attached.",
+   "derivation": "Roman legal-religious realia behind a proverb: an inheritance normally carried the burden of keeping up the family sacra, so 'hereditas sine sacris' was proverbial for pure windfall. Anchored to Ergasilus + the play; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Captivi 778-779",
+   "source_text": "nunc certa res est, eodem pacto ut comici servi solent coniciam in collum pallium, primo ex med hanc rem ut audiat;",
+   "question": "Quorum exemplo Ergasilus pallium in collum conicere constituit, nuntium laetum ferens, apud Plautum in Captivis?",
+   "answer": "Servorum comicorum.",
+   "question_en": "Following whose example does Ergasilus decide to fling his cloak over his shoulder as he brings the glad news, in Plautus' Captivi?",
+   "answer_en": "That of the comic slaves.",
+   "derivation": "A theater-convention fact the play itself names: the servus currens of comedy runs with his pallium thrown up over the shoulder, and Ergasilus copies the stock routine. Anchored to Ergasilus + the play; short answer verbatim (ut comici servi solent).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 796-797",
+   "source_text": "nam meus est ballista pugnus, cubitus catapultast mihi, umerus aries, tum genu quemque icero ad terram dabo.",
+   "question": "Quibus tormentis bellicis Ergasilus pugnum, cubitum, umerum suum comparat apud Plautum in Captivis?",
+   "answer": "Ballistae, catapultae, arieti.",
+   "question_en": "To which siege engines does Ergasilus compare his fist, elbow, and shoulder in Plautus' Captivi?",
+   "answer_en": "To the ballista, the catapult, and the battering ram.",
+   "derivation": "The parasite's mock-heroic arsenal, built from real Roman siege machinery: fist as ballista, elbow as catapulta, shoulder as aries. Anchored to Ergasilus + the play; three-item answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 807-808",
+   "source_text": "Tum pistores scrofipasci, qui alunt furfuribus sues, quarum odore praeterire nemo pistrinum potest:",
+   "question": "Quo cibo pistores scrofipasci sues alunt, ut Ergasilus apud Plautum in Captivis edicit?",
+   "answer": "Furfuribus.",
+   "question_en": "On what feed do the sow-keeping millers fatten their pigs, as Ergasilus proclaims in Plautus' Captivi?",
+   "answer_en": "On bran.",
+   "derivation": "Daily-life realia of the mill-bakery: millers kept sows fattened on their bran, so that no one could pass the pistrinum for the stench. Anchored to Ergasilus' mock edict + the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 823-824",
+   "source_text": "Eugepae, edictiones aedilicias hic quidem habet, mirumque adeost ni hunc fecere sibi Aetoli agoranomum.",
+   "question": "Quorum magistratuum Romanorum edictiones Ergasilum habere Hegio iocatur, cum ille pistoribus piscatoribus laniis minaretur, apud Plautum in Captivis?",
+   "answer": "Aedilium.",
+   "question_en": "Which Roman magistrates' edicts does Hegio joke that Ergasilus is issuing when he threatens the millers, fishmongers, and butchers, in Plautus' Captivi?",
+   "answer_en": "The aediles'.",
+   "derivation": "Institutional realia: policing the food market with edicts was the aediles' business (Greek equivalent: the agoranomus, which Hegio also names). Anchored to the named characters + play; one-word answer verbatim (edictiones aedilicias).",
+   "category": "ius"
+  }
+,
+  {
+   "locus": "Plautus, Captivi 872-876",
+   "source_text": "nam filium tuom modo in portu Philopolemum vivom, salvom et sospitem vidi in publica celoce, ibidemque illum adulescentulum Aleum una et tuom Stalagmum servom, qui aufugit domo, qui tibi surripuit quadrimum puerum filiolum tuom.",
+   "question": "Quis servus fugitivus una cum Philopolemo in portum revectus est, ut Ergasilus Hegioni nuntiavit apud Plautum in Captivis?",
+   "answer": "Stalagmus.",
+   "question_en": "Which runaway slave was brought back to the harbor along with Philopolemus, as Ergasilus announced to Hegio in Plautus' Captivi?",
+   "answer_en": "Stalagmus.",
+   "derivation": "The good news that resolves the play: Philopolemus returns safe on a public cutter, bringing back Philocrates and the runaway Stalagmus, the very slave who stole the four-year-old. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 881-884",
+   "source_text": "H. Iam credo? E. Nai tan Prainesten. H. Venit? E. Nai tan Signian. H. Certon? E. Nai ton Phrousinona. H. Vide sis. E. Nai ton Alatrion. HEG. Quid tu per barbaricas urbes iuras?",
+   "question": "Quales urbes eas Hegio appellat, per quas Ergasilus Graeco more iuravit, Praenesten Signiam Frusinonem Aletrium, apud Plautum in Captivis?",
+   "answer": "Barbaricas urbes.",
+   "question_en": "What does Hegio call the towns by which Ergasilus swore in Greek fashion — Praeneste, Signia, Frusino, Aletrium — in Plautus' Captivi?",
+   "answer_en": "Barbarian cities.",
+   "derivation": "The famous Plautine self-irony: from the Greek stage's viewpoint the Italian towns Praeneste, Signia, Frusino, and Aletrium are 'barbaricae urbes' — the same joke as Plautus' 'vertit barbare'. Anchored to the named towns + characters; two-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 887-888",
+   "source_text": "sed Stalagmus quoius erat tunc nationis, cum hinc abit? HEG. Siculus.",
+   "question": "Cuius nationis erat Stalagmus, servus qui Hegionis filium surripuit, apud Plautum in Captivis?",
+   "answer": "Siculus.",
+   "question_en": "Of what nationality was Stalagmus, the slave who stole Hegio's son, in Plautus' Captivi?",
+   "answer_en": "Sicilian.",
+   "derivation": "The kidnapper's origin, stated flatly by Hegio: Stalagmus was a Sicilian. Anchored to the named slave + play; one-word answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Captivi 894-895",
+   "source_text": "Facere certumst. tu intus cura quod opus est. sume, posce, prome quid vis. te facio cellarium.",
+   "question": "Quo munere Hegio Ergasilum parasitum ob laetum nuntium donavit apud Plautum in Captivis?",
+   "answer": "Cellarium eum fecit.",
+   "question_en": "With what office did Hegio reward the parasite Ergasilus for his glad news in Plautus' Captivi?",
+   "answer_en": "He made him his pantry-keeper (cellarius).",
+   "derivation": "The parasite's dream reward: put in charge of the larder (te facio cellarium), free to take, demand, and broach whatever he likes — with everlasting keep promised besides. Anchored to the named characters + play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Captivi 907-908",
+   "source_text": "nunc ibo, ut pro praefectura mea ius dicam larido, et quae pendent indemnatae pernae, eis auxilium ut feram.",
+   "question": "Cui rei Ergasilus, quasi praefecturam adeptus, ius se dicturum esse ait apud Plautum in Captivis?",
+   "answer": "Larido.",
+   "question_en": "Over what does Ergasilus, as if he had obtained a prefecture, say he will hold court in Plautus' Captivi?",
+   "answer_en": "Over the bacon.",
+   "derivation": "The parasite's mock magistracy: armed with his new 'praefectura' of the larder he will pronounce judgment on the bacon and bring aid to the hams hanging 'uncondemned' — a parody of Roman jurisdiction and auxilium. Anchored to Ergasilus + the play; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 972-974",
+   "source_text": "quia et fugi et tibi surripui filium et eum vendidi. HEG. Cui homini? STAL. Theodoromedi in Alide Polyplusio, sex minis.",
+   "question": "Quot minis Stalagmus puerum quadrimum, Hegionis filium, Theodoromedi in Alide vendidit, ut apud Plautum in Captivis confitetur?",
+   "answer": "Sex minis.",
+   "question_en": "For how many minae did Stalagmus sell the four-year-old boy, Hegio's son, to Theodoromedes in Elis, as he confesses in Plautus' Captivi?",
+   "answer_en": "For six minae.",
+   "derivation": "The confession that completes the recognition: the stolen child was sold to Theodoromedes of the Polyplusian family in Elis for six minae. Clean number fact; anchored to the named characters + play; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 980",
+   "source_text": "Quam diu id factum est? STAL. Hic annus incipit vicensimus.",
+   "question": "Quotus annus incipiebat, ex quo Stalagmus Hegionis filium vendiderat, cum id apud Plautum in Captivis confessus est?",
+   "answer": "Vicensimus.",
+   "question_en": "The how-manyeth year was beginning since Stalagmus had sold Hegio's son, when he confessed it in Plautus' Captivi?",
+   "answer_en": "The twentieth.",
+   "derivation": "The chronology of the backstory: the sale of the stolen boy happened as the twentieth year was beginning — fixing Tyndarus' age near twenty-four. Clean number fact; anchored to the named characters + play; single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 984",
+   "source_text": "Paegnium vocitatust, post vos indidistis Tyndaro.",
+   "question": "Quo nomine puer, quem Stalagmus surripuit, antea vocitatus est, priusquam nomen Tyndaro ei inditum est, apud Plautum in Captivis?",
+   "answer": "Paegnium.",
+   "question_en": "By what name was the boy whom Stalagmus stole formerly called, before he was given the name Tyndarus, in Plautus' Captivi?",
+   "answer_en": "Paegnium.",
+   "derivation": "The recognition token: the kidnapped child's original pet-name was Paegnium; his buyers renamed him Tyndarus. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 998-1000",
+   "source_text": "Vidi ego multa saepe picta, quae Acherunti fierent cruciamenta, verum enim vero nulla adaeque est Acheruns atque ubi ego fui, in lapicidinis.",
+   "question": "Quem locum cruciamentorum lapicidinis ne comparandum quidem esse Tyndarus, e latomiis reversus, apud Plautum in Captivis ait?",
+   "answer": "Acheruntem.",
+   "question_en": "What place of torments does Tyndarus, back from the quarries, say cannot even compare with the stone-pits, in Plautus' Captivi?",
+   "answer_en": "Acheron (the underworld).",
+   "derivation": "Two cultural facts in one line: paintings of the torments of Acheron were a familiar sight (multa picta), and Tyndarus declares no Acheron equals the quarries. Underworld as shared story; anchored to Tyndarus + the play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Captivi 1002-1004",
+   "source_text": "nam ubi illo adveni, quasi patriciis pueris aut monerulae aut anites aut coturnices dantur, quicum lusitent, itidem mi haec advenienti upupa, qui me delectem, datast.",
+   "question": "Quae aves patriciis pueris dari solent quibuscum lusitent, ut Tyndarus apud Plautum in Captivis memorat?",
+   "answer": "Monerulae, anites, coturnices.",
+   "question_en": "What birds are customarily given to patrician boys to play with, as Tyndarus recalls in Plautus' Captivi?",
+   "answer_en": "Jackdaws, ducks, and quails.",
+   "derivation": "Daily-life realia: aristocratic children kept pet birds — jackdaws, ducks, quails — as playthings; Tyndarus jokes his quarry 'plaything' was a pickaxe (upupa). Anchored to the play + speaker; three-item answer verbatim.",
+   "category": "mores"
+  }
+,
+  {
+   "locus": "Plautus, Captivi 1025-1028",
+   "source_text": "eamus intro, ut arcessatur faber, ut istas compedes tibi adimam, huic dem. STAL. Quoi peculi nihil est, recte feceris.",
+   "question": "Cui compedes Tyndaro ademptae in fine Captivorum Plauti dantur?",
+   "answer": "Stalagmo.",
+   "question_en": "To whom are the shackles taken off Tyndarus given at the end of Plautus' Captivi?",
+   "answer_en": "To Stalagmus.",
+   "derivation": "The play's closing act of poetic justice: the smith is summoned to take the fetters off the recognized son and clap them on the kidnapper Stalagmus. Canonical ending fact; anchored to the named characters; one-name answer supported by the source.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 1029 (caterva)",
+   "source_text": "Spectatores, ad pudicos mores facta haec fabula est,",
+   "question": "Ad quos mores factam esse fabulam Captivos caterva in extremo pronuntiat?",
+   "answer": "Ad pudicos mores.",
+   "question_en": "For what kind of morals does the company at the end declare the play Captivi to have been made?",
+   "answer_en": "For chaste morals.",
+   "derivation": "The epilogue's celebrated declaration of the Captivi's moral character: 'spectatores, ad pudicos mores facta haec fabula est'. Canonical literary fact about the play; anchored to the named play; verbatim phrase answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 1033-1034 (caterva)",
+   "source_text": "huius modi paucas poetae reperiunt comoedias, ubi boni meliores fiant.",
+   "question": "Quid in paucis eius modi comoediis, quales sunt Captivi Plauti, fieri caterva dicit?",
+   "answer": "Boni meliores fiunt.",
+   "question_en": "What does the company say happens in the few comedies of this kind, such as Plautus' Captivi?",
+   "answer_en": "The good become better.",
+   "derivation": "The epilogue's claim of the play's rarity: poets find few comedies of this sort, 'where the good become better'. Famous self-description of the Captivi; anchored to the named play; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Captivi 1036 (caterva)",
+   "source_text": "qui pudicitiae esse voltis praemium, plausum date.",
+   "question": "Quid facere iubentur spectatores qui pudicitiae praemium esse volunt, in extremis Captivis Plauti?",
+   "answer": "Plausum dare.",
+   "question_en": "What are the spectators who wish chastity to have its reward told to do at the very end of Plautus' Captivi?",
+   "answer_en": "To give applause.",
+   "derivation": "The final plaudite of the play, tied to its moral boast: applause is asked as the 'reward of chastity'. Theater-convention fact (the closing appeal for applause) in its famous Captivi form; anchored to the play; two-word answer verbatim.",
+   "category": "ludi"
+  }
+ ]}
