@@ -1,0 +1,1675 @@
+{"source": "text/catullus.txt",
+ "author": "Catullus",
+ "work": "Carmina",
+ "pairs": [
+  {
+   "locus": "Catullus, Carmina 1",
+   "source_text": "CVI dono lepidum nouum libellum arida modo pumice expolitum? Corneli, tibi: namque tu solebas meas esse aliquid putare nugas iam tum, cum ausus es unus Italorum omne aeuum tribus explicare cartis doctis, Iuppiter, et laboriosis.",
+   "question": "Cui Catullus lepidum novum libellum suum dedicavit?",
+   "answer": "Cornelio (Nepoti).",
+   "question_en": "To whom did Catullus dedicate his charming new little book?",
+   "answer_en": "To Cornelius (Nepos).",
+   "derivation": "The dedication of the libellus, named in the poem ('Corneli, tibi') — one of the most famous dedications in Latin poetry; the addressee is canonically Cornelius Nepos. Entity-anchored to Catullus + his libellus; single named answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 1",
+   "source_text": "namque tu solebas meas esse aliquid putare nugas iam tum, cum ausus es unus Italorum omne aeuum tribus explicare cartis doctis, Iuppiter, et laboriosis.",
+   "question": "Quot cartis Cornelius, cui Catullus libellum dedicavit, omne aevum explicare ausus est?",
+   "answer": "Tribus.",
+   "question_en": "In how many volumes did Cornelius, to whom Catullus dedicated his book, dare to unfold all of time?",
+   "answer_en": "In three.",
+   "derivation": "Nepos' universal history (the Chronica) in three volumes — 'omne aevum tribus explicare cartis', a celebrated fact of Roman literary history. Number answer, verbatim in the source.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 2",
+   "source_text": "PASSER, deliciae meae puellae, quicum ludere, quem in sinu tenere, cui primum digitum dare appetenti et acris solet incitare morsus",
+   "question": "Quod animal in deliciis habuit puella Catulli?",
+   "answer": "Passerem.",
+   "question_en": "What animal did Catullus' girl keep as her darling pet?",
+   "answer_en": "A sparrow.",
+   "derivation": "Lesbia's pet sparrow — the most famous pet in Latin literature, and evidence of Roman pet-keeping. Anchored to Catullus' puella (Lesbia); one-word answer stated verbatim ('passer, deliciae meae puellae').",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 2b",
+   "source_text": "TAM gratum est mihi quam ferunt puellae pernici aureolum fuisse malum, quod zonam soluit diu ligatam.",
+   "question": "Quid zonam Atalantae, puellae pernicis, diu ligatam solvisse ferunt?",
+   "answer": "Aureolum malum.",
+   "question_en": "What is said to have loosed the long-tied girdle of Atalanta, the swift girl?",
+   "answer_en": "A little golden apple.",
+   "derivation": "The golden apple that ended Atalanta's race and virginity — myth as shared story; the text's 'puella pernix' is the canonical Atalanta. 'ferunt' keeps the traditional frame; the apple and girdle are verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 3",
+   "source_text": "LVGETE, o Veneres Cupidinesque, et quantum est hominum uenustiorum: passer mortuus est meae puellae, passer, deliciae meae puellae, quem plus illa oculis suis amabat.",
+   "question": "Quos deos Catullus lugere iubet, cum passer puellae suae mortuus est?",
+   "answer": "Veneres Cupidinesque.",
+   "question_en": "Which gods does Catullus command to mourn when his girl's sparrow has died?",
+   "answer_en": "The Venuses and Cupids.",
+   "derivation": "The mock-dirge for the sparrow opens by summoning the Veneres Cupidinesque — a proverbially famous invocation, parodying Roman mourning. Anchored to Catullus + the dead passer; short named answer, verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 3",
+   "source_text": "qui nunc it per iter tenebricosum illuc, unde negant redire quemquam. at uobis male sit, malae tenebrae Orci, quae omnia bella deuoratis: tam bellum mihi passerem abstulistis",
+   "question": "Quo passer Lesbiae mortuus per iter tenebricosum ire dicitur?",
+   "answer": "Ad tenebras Orci, unde negant redire quemquam.",
+   "question_en": "Where is Lesbia's dead sparrow said to go along the shadowy road?",
+   "answer_en": "To the darkness of Orcus, whence they say no one returns.",
+   "derivation": "The folk-underworld: the dead go down a dark road to Orcus and none return — ambient Roman belief about death, evidenced by the sparrow's journey. Anchored to Lesbia's sparrow; answer verbatim in substance.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 4",
+   "source_text": "ubi iste post phaselus antea fuit comata silua; nam Cytorio in iugo loquente saepe sibilum edidit coma. Amastri Pontica et Cytore buxifer, tibi haec fuisse et esse cognitissima ait phaselus",
+   "question": "In quo iugo phaselus ille Catulli, antequam navis fieret, comata silva stetit?",
+   "answer": "In Cytorio iugo, in Ponto.",
+   "question_en": "On what ridge did Catullus' famous yacht stand as a leafy forest before it became a ship?",
+   "answer_en": "On the ridge of Cytorus, in Pontus.",
+   "derivation": "The phaselus' Pontic origin: it grew as timber on Mt. Cytorus near Amastris. Anchored to the phaselus of Catullus; place-name answer stated verbatim ('Cytorio in iugo', 'Amastri Pontica').",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 4",
+   "source_text": "Amastri Pontica et Cytore buxifer, tibi haec fuisse et esse cognitissima ait phaselus",
+   "question": "Qua arbore mons Cytorus in Ponto abundat, ut Catullus testatur?",
+   "answer": "Buxo.",
+   "question_en": "In what tree does Mount Cytorus in Pontus abound, as Catullus attests?",
+   "answer_en": "In boxwood.",
+   "derivation": "Cytorus 'buxifer' — box-bearing Cytorus was proverbial for its boxwood, a standing geographic epithet. Anchored to the named mountain; one-word answer supported by the epithet.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 4",
+   "source_text": "sed haec prius fuere: nunc recondita senet quiete seque dedicat tibi, gemelle Castor et gemelle Castoris.",
+   "question": "Quibus dis phaselus Catulli, cum senuisset, se dedicavit?",
+   "answer": "Castori et Polluci, gemellis.",
+   "question_en": "To which gods did Catullus' yacht dedicate itself when it had grown old?",
+   "answer_en": "To the twins Castor and Pollux.",
+   "derivation": "The retired ship's votive dedication to the Dioscuri, patron gods of sailors ('gemelle Castor et gemelle Castoris' — the twin of Castor is Pollux). Roman votive custom; anchored to the phaselus; short answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 5",
+   "source_text": "soles occidere et redire possunt: nobis cum semel occidit breuis lux, nox est perpetua una dormienda.",
+   "question": "Quid nobis, secundum Catullum, dormiendum est, cum semel brevis lux occidit?",
+   "answer": "Nox perpetua una.",
+   "question_en": "According to Catullus, what must we sleep once our brief light has set?",
+   "answer_en": "One everlasting night.",
+   "derivation": "Proverb-famous lines from 'Vivamus mea Lesbia': suns can set and return, but for us one perpetual night. Anchored to Catullus' dictum; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 5",
+   "source_text": "da mi basia mille, deinde centum, dein mille altera, dein secunda centum, deinde usque altera mille, deinde centum.",
+   "question": "Quot basia primum a Lesbia poscit Catullus, cum eam ad vivendum amandumque vocat?",
+   "answer": "Mille, deinde centum.",
+   "question_en": "How many kisses does Catullus first demand of Lesbia when he calls her to live and love?",
+   "answer_en": "A thousand, then a hundred.",
+   "derivation": "The kiss-arithmetic of c.5 — 'da mi basia mille, deinde centum' — among the most quoted lines in Latin. Anchored to Catullus + Lesbia; number answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 5",
+   "source_text": "dein, cum milia multa fecerimus, conturbabimus illa, ne sciamus, aut ne quis malus inuidere possit, cum tantum sciat esse basiorum.",
+   "question": "Quam ob causam Catullus milia basiorum conturbare vult, ne numerus sciatur?",
+   "answer": "Ne quis malus invidere possit.",
+   "question_en": "For what reason does Catullus want to confuse the thousands of kisses, so that the number is not known?",
+   "answer_en": "So that no ill-wisher can cast the evil eye on them.",
+   "derivation": "The evil-eye (invidia/fascinatio) superstition: a known count invites malign envy, so the tally must be confused. A stated, checkable motive, not opinion — Roman folk belief at its plainest; answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 7",
+   "source_text": "quam magnus numerus Libyssae harenae lasarpiciferis iacet Cyrenis oraclum Iouis inter aestuosi et Batti ueteris sacrum sepulcrum; aut quam sidera multa, cum tacet nox, furtiuos hominum uident amores: tam te basia multa basiare uesano satis et super Catullo est",
+   "question": "Quibus duabus rebus innumerabilibus Catullus multitudinem basiationum Lesbiae comparat?",
+   "answer": "Harenae Libyssae et sideribus.",
+   "question_en": "To what two countless things does Catullus compare the number of Lesbia's kisses?",
+   "answer_en": "To the Libyan sand and to the stars.",
+   "derivation": "The two famous comparanda of c.7: the sands of Libya at Cyrene and the stars of the silent night. Anchored to Catullus + Lesbia; brief two-item answer supported verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 7",
+   "source_text": "quam magnus numerus Libyssae harenae lasarpiciferis iacet Cyrenis oraclum Iouis inter aestuosi et Batti ueteris sacrum sepulcrum",
+   "question": "Cuius plantae feraces sunt Cyrenae, quas Catullus 'lasarpiciferas' appellat?",
+   "answer": "Laserpicii.",
+   "question_en": "What plant is Cyrene rich in, which Catullus calls 'silphium-bearing'?",
+   "answer_en": "Laserpicium (silphium).",
+   "derivation": "Cyrene's famous export was silphium (laserpicium) — ambient economic-geographic knowledge, fixed in the epithet 'lasarpiciferis Cyrenis'. Anchored to the named city; one-word answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 7",
+   "source_text": "quam magnus numerus Libyssae harenae lasarpiciferis iacet Cyrenis oraclum Iouis inter aestuosi et Batti ueteris sacrum sepulcrum",
+   "question": "Cuius veteris regis sacrum sepulcrum apud Cyrenas iacet, ut Catullus scribit?",
+   "answer": "Batti.",
+   "question_en": "Whose ancient sacred tomb lies at Cyrene, as Catullus writes?",
+   "answer_en": "Battus'.",
+   "derivation": "Battus, founder of Cyrene, whose tomb was a landmark of the city — shared Greco-Roman knowledge, named verbatim ('Batti ueteris sacrum sepulcrum'). Anchored to Cyrene; single-name answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 10",
+   "source_text": "'non' inquam 'mihi tam fuit maligne ut, prouincia quod mala incidisset, non possem octo homines parare rectos.'",
+   "question": "Quot homines rectos ad lecticam ferendam se in Bithynia paravisse Catullus iactat?",
+   "answer": "Octo.",
+   "question_en": "How many straight-backed men to carry a litter does Catullus boast he acquired in Bithynia?",
+   "answer_en": "Eight.",
+   "derivation": "The standard team for a grand litter was eight bearers (the octophoros) — daily-life custom evidenced by Catullus' boast. Anchored to Catullus + Bithynia; number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 10",
+   "source_text": "'at certe tamen,' inquiunt 'quod illic natum dicitur esse, comparasti ad lecticam homines.'",
+   "question": "Quid in provincia Bithynia nasci dicebatur, quod inde advecti homines ad lecticam compararent?",
+   "answer": "Homines ad lecticam, lecticarii.",
+   "question_en": "What was Bithynia said to produce, so that men returning from there acquired them for the litter?",
+   "answer_en": "Litter-bearers.",
+   "derivation": "What a province was 'good for': Bithynia's reputed product was litter-bearers ('quod illic natum dicitur esse... ad lecticam homines'). Ambient provincial stereotype; anchored to Bithynia.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 10",
+   "source_text": "hic illa, ut decuit cinaediorem, 'quaeso' inquit 'mihi, mi Catulle, paulum istos commoda: nam uolo ad Serapim deferri.'",
+   "question": "Ad quem deum se lectica deferri cupivit amica Vari apud Catullum?",
+   "answer": "Ad Serapim.",
+   "question_en": "To which god's shrine did Varus' girlfriend want to be carried by litter, in Catullus?",
+   "answer_en": "To Serapis.",
+   "derivation": "Visiting the shrine of Serapis by litter — evidence of the Egyptian cult's fashionable presence at Rome. Anchored to Varus' amica in Catullus; single-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 11",
+   "source_text": "siue quae septemgeminus colorat aequora Nilus",
+   "question": "Quo numero ostiorum Nilus apud Catullum 'septemgeminus' vocatur?",
+   "answer": "Septem.",
+   "question_en": "For its how many mouths is the Nile called 'sevenfold' in Catullus?",
+   "answer_en": "Seven.",
+   "derivation": "The seven mouths of the Nile — a standing fact of ancient geography, fixed in the epithet 'septemgeminus'. Anchored to the Nile; number answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 12",
+   "source_text": "MARRVCINE Asini, manu sinistra non belle uteris: in ioco atque uino tollis lintea neglegentiorum. hoc salsum esse putas? fugit te, inepte: quamuis sordida res et inuenusta est.",
+   "question": "Quid Asinius Marrucinus inter iocum atque vinum manu sinistra tollere solebat?",
+   "answer": "Lintea convivarum.",
+   "question_en": "What did Asinius Marrucinus habitually lift with his left hand amid the jokes and wine?",
+   "answer_en": "The guests' napkins.",
+   "derivation": "Napkin-theft at dinner — guests brought their own lintea, and stealing them was 'sordida res', a breach of table manners. Anchored to the named thief; short answer verbatim ('tollis lintea neglegentiorum').",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 12",
+   "source_text": "nam sudaria Saetaba ex Hiberis miserunt mihi muneri Fabullus et Veranius: haec amem necesse est ut Veraniolum meum et Fabullum.",
+   "question": "Ex qua terra sudaria Saetaba Catullo muneri missa sunt?",
+   "answer": "Ex Hiberis, ex Hispania.",
+   "question_en": "From what land were the Saetaban napkins sent to Catullus as a gift?",
+   "answer_en": "From the Iberians, from Spain.",
+   "derivation": "Saetabis in Spain was famous for its linen — 'sudaria Saetaba ex Hiberis' fixes the celebrated provenance. Anchored to the named product; place answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 12",
+   "source_text": "nam sudaria Saetaba ex Hiberis miserunt mihi muneri Fabullus et Veranius",
+   "question": "Qui duo amici sudaria Saetaba Catullo ex Hiberis muneri miserunt?",
+   "answer": "Fabullus et Veranius.",
+   "question_en": "Which two friends sent Catullus the Saetaban napkins from Spain as a gift?",
+   "answer_en": "Fabullus and Veranius.",
+   "derivation": "The senders of the keepsake napkins ('mnemosynum mei sodalis') — a names-and-relations fact every reader of Catullus carries, stated verbatim. Two-name answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 13",
+   "source_text": "CENABIS bene, mi Fabulle, apud me paucis, si tibi di fauent, diebus, si tecum attuleris bonam atque magnam cenam, non sine candida puella et uino et sale et omnibus cachinnis.",
+   "question": "Qua condicione Fabullus apud Catullum bene cenabit?",
+   "answer": "Si secum cenam attulerit, cum candida puella et vino et sale.",
+   "question_en": "On what condition will Fabullus dine well at Catullus' house?",
+   "answer_en": "If he brings the dinner himself, along with a fair girl, wine, and wit.",
+   "derivation": "The famous joke-invitation: the guest must supply the whole dinner. The condition is stated verbatim and is the checkable point of the best-known dinner invitation in Latin. Anchored to Fabullus + Catullus.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 13",
+   "source_text": "sed contra accipies meros amores seu quid suauius elegantiusue est: nam unguentum dabo, quod meae puellae donarunt Veneres Cupidinesque",
+   "question": "Quid Catullus Fabullo, cenam suam adferenti, contra se daturum promittit?",
+   "answer": "Unguentum, quod puellae suae Veneres Cupidinesque donaverunt.",
+   "question_en": "What does Catullus promise to give Fabullus in return for bringing his own dinner?",
+   "answer_en": "A perfume, given to his girl by the Venuses and Cupids.",
+   "derivation": "Catullus' sole contribution to the dinner: the unguentum — perfume at table was a fixture of Roman dining. Anchored to Fabullus + Catullus; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 13",
+   "source_text": "nam tui Catulli plenus sacculus est aranearum.",
+   "question": "Quo plenus est sacculus Catulli, cum Fabullum ad cenam vocat?",
+   "answer": "Aranearum.",
+   "question_en": "What is Catullus' purse full of when he invites Fabullus to dinner?",
+   "answer_en": "Cobwebs.",
+   "derivation": "The purse full of cobwebs — the proverbial image of an empty wallet, quoted ever since. Anchored to Catullus + the invitation to Fabullus; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 14",
+   "source_text": "di magni, horribilem et sacrum libellum! quem tu scilicet ad tuum Catullum misti, continuo ut die periret, Saturnalibus, optimo dierum!",
+   "question": "Quo festo die Calvus poeta Catullo libellum pessimorum poetarum dono misit?",
+   "answer": "Saturnalibus.",
+   "question_en": "On what festival day did the poet Calvus send Catullus a booklet of dreadful poets as a present?",
+   "answer_en": "At the Saturnalia.",
+   "derivation": "Gift-exchange at the Saturnalia — Calvus' joke-gift of bad poetry arrives 'Saturnalibus'. Festival custom anchored to Calvus + Catullus; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 14",
+   "source_text": "quem tu scilicet ad tuum Catullum misti, continuo ut die periret, Saturnalibus, optimo dierum!",
+   "question": "Quem diem Catullus 'optimum dierum' appellat?",
+   "answer": "Saturnalia.",
+   "question_en": "Which day does Catullus call 'the best of days'?",
+   "answer_en": "The Saturnalia.",
+   "derivation": "'Saturnalibus, optimo dierum' — the classic tag for the Saturnalia as the Roman world's favorite holiday. Anchored to Catullus; single-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 22",
+   "source_text": "suus cuique attributus est error; sed non uidemus manticae quod in tergo est.",
+   "question": "Quid, ut est in proverbio apud Catullum, in tergo nostro positum non videmus?",
+   "answer": "Manticam.",
+   "question_en": "According to the proverb in Catullus, what do we not see, though it sits on our own back?",
+   "answer_en": "The knapsack (of our own faults).",
+   "derivation": "The fable of the two wallets (our own faults carried behind us, unseen) — a proverb Catullus quotes as common wisdom. Checkable point, one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 22",
+   "source_text": "puto esse ego illi milia aut decem aut plura perscripta, nec sic ut fit in palimpsesto relata: cartae regiae, noui libri, noui umbilici, lora rubra membranae, derecta plumbo et pumice omnia aequata.",
+   "question": "In quo, ut fieri solet, poetae versus nondum perpolitos referebant, id quod Suffenus dedignabatur?",
+   "answer": "In palimpsesto.",
+   "question_en": "On what, as was usual, did poets set down their unpolished verses — the thing Suffenus disdained?",
+   "answer_en": "On a palimpsest (reused papyrus).",
+   "derivation": "Roman book culture: drafts went 'ut fit' onto palimpsest (scraped, reused sheets), while Suffenus wasted royal paper, new bosses, red straps, parchment wrappers, lead ruling and pumice on his drivel. The normal practice is stated verbatim ('ut fit in palimpsesto'). Anchored to Suffenus in Catullus.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 27",
+   "source_text": "MINISTER uetuli puer Falerni inger mi calices amariores, ut lex Postumiae iubet magistrae ebrioso acino ebriosioris.",
+   "question": "Cuius vini calices puer minister apud Catullum ingerere iubetur?",
+   "answer": "Falerni vetuli.",
+   "question_en": "Cups of what wine is the serving-boy in Catullus ordered to pour?",
+   "answer_en": "Of old Falernian.",
+   "derivation": "Falernian, the most celebrated Roman wine, served old and unmixed ('uetuli Falerni') — named-wine food culture. Anchored to Catullus' drinking poem; one-name answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Catullus, Carmina 27",
+   "source_text": "inger mi calices amariores, ut lex Postumiae iubet magistrae ebrioso acino ebriosioris.",
+   "question": "Quae magistra bibendi apud Catullum lege sua calices amariores iubet?",
+   "answer": "Postumia.",
+   "question_en": "Which mistress of the drinking in Catullus orders stronger cups by her rule?",
+   "answer_en": "Postumia.",
+   "derivation": "The Roman symposiac custom of a magister (here magistra) bibendi whose 'lex' set how the party drank — evidenced by 'lex Postumiae magistrae'. Anchored by name; single-name answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 29",
+   "source_text": "paterna prima lancinata sunt bona, secunda praeda Pontica, inde tertia Hibera, quam scit amnis aurifer Tagus",
+   "question": "Qui amnis Hiberus apud Catullum 'aurifer' appellatur?",
+   "answer": "Tagus.",
+   "question_en": "Which Spanish river is called 'gold-bearing' in Catullus?",
+   "answer_en": "The Tagus.",
+   "derivation": "The gold-bearing Tagus — a standing fact of ancient geography (gold washed from its sands), fixed in the epithet 'amnis aurifer Tagus'. One-name answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 29",
+   "source_text": "eone nomine, imperator unice, fuisti in ultima occidentis insula, ut ista uestra diffututa mentula ducenties comesset aut trecenties?",
+   "question": "Quae terra apud Catullum 'ultima occidentis insula' dicitur, in qua imperator unicus fuit?",
+   "answer": "Britannia.",
+   "question_en": "What land is called in Catullus 'the farthest island of the West,' where the one and only commander campaigned?",
+   "answer_en": "Britain.",
+   "derivation": "Britain as the world's western edge — the poem names Britannia just above ('nunc Galliae timetur et Britanniae') and the 'imperator unicus' is Caesar on his British expedition; cf. 'ultimosque Britannos' in c.11. Geographic commonplace of the age.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 29",
+   "source_text": "eone nomine urbis opulentissime socer generque, perdidistis omnia?",
+   "question": "Qui duo viri, socer generque coniuncti, apud Catullum omnia perdidisse dicuntur?",
+   "answer": "Caesar et Pompeius.",
+   "question_en": "Which two men, joined as father-in-law and son-in-law, are said in Catullus to have ruined everything?",
+   "answer_en": "Caesar and Pompey.",
+   "derivation": "The famous tag 'socer generque, perdidistis omnia' — Caesar (whose daughter Julia married Pompey) and Pompey, the canonical socer-gener pair of the age; the identification is the shared historical knowledge the line assumes.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 31",
+   "source_text": "PAENE insularum, Sirmio, insularumque ocelle, quascumque in liquentibus stagnis marique uasto fert uterque Neptunus",
+   "question": "Quam paeninsulam Catullus 'ocellum insularum paeninsularumque' salutat?",
+   "answer": "Sirmionem.",
+   "question_en": "Which peninsula does Catullus greet as 'the eye of all islands and peninsulas'?",
+   "answer_en": "Sirmio.",
+   "derivation": "Sirmio, the promontory on Lake Benacus (Garda) where Catullus' home stood — the famous homecoming apostrophe. Named place, one-word answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 31",
+   "source_text": "quam te libenter quamque laetus inuiso, uix mi ipse credens Thuniam atque Bithunos liquisse campos et uidere te in tuto.",
+   "question": "Quibus campis relictis Catullus Sirmionem suam laetus revisit?",
+   "answer": "Thynia atque Bithynis campis relictis.",
+   "question_en": "Having left what plains did Catullus joyfully revisit his Sirmio?",
+   "answer_en": "The plains of Thynia and Bithynia.",
+   "derivation": "Catullus' return home from service on the staff in Bithynia — a fixture of his biography, stated verbatim ('Thuniam atque Bithunos liquisse campos'). Anchored to Catullus + Sirmio; short place answer.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 34",
+   "source_text": "tu Lucina dolentibus Iuno dicta puerperis, tu potens Triuia et notho es dicta lumine Luna.",
+   "question": "Quibus tribus nominibus, praeter Latoniae, Diana in hymno Catulli invocatur?",
+   "answer": "Lucina Iuno, Trivia, Luna.",
+   "question_en": "By what three names, besides Latonia, is Diana invoked in Catullus' hymn?",
+   "answer_en": "Juno Lucina, Trivia, and Luna.",
+   "derivation": "The triple identity of Diana in Roman cult — Lucina of childbirth, Trivia of the crossroads, Luna in the sky — all named verbatim in the hymn. Anchored to Diana + Catullus; short list answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 34",
+   "source_text": "o Latonia, maximi magna progenies Iouis, quam mater prope Deliam deposiuit oliuam",
+   "question": "Prope quam arborem Latona Dianam peperisse apud Catullum canitur?",
+   "answer": "Prope Deliam olivam.",
+   "question_en": "Near what tree is Latona sung in Catullus to have given birth to Diana?",
+   "answer_en": "Near the olive tree of Delos.",
+   "derivation": "The birth of Diana (and Apollo) on Delos beside the sacred tree — canonical myth; the hymn fixes the Delian olive verbatim. Anchored to Latona + Diana; short answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 34",
+   "source_text": "tu potens Triuia et notho es dicta lumine Luna.",
+   "question": "Quali lumine Luna lucere dicitur in hymno Catulli ad Dianam?",
+   "answer": "Notho, id est alieno.",
+   "question_en": "With what kind of light is Luna said to shine in Catullus' hymn to Diana?",
+   "answer_en": "With a bastard (borrowed) light.",
+   "derivation": "The ancient commonplace that the moon shines with borrowed, not her own, light ('notho lumine') — shared astronomical-religious knowledge. Anchored to Luna in Catullus' Diana hymn; one-word answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 35",
+   "source_text": "nam quo tempore legit incohatam Dindymi dominam, ex eo misellae ignes interiorem edunt medullam. ignosco tibi, Sapphica puella musa doctior; est enim uenuste Magna Caecilio incohata Mater.",
+   "question": "Quod carmen Caecilius, poeta tener et Catulli sodalis, incohaverat?",
+   "answer": "Magnam Matrem, Dindymi dominam.",
+   "question_en": "What poem had Caecilius, the tender poet and Catullus' companion, begun?",
+   "answer_en": "The Great Mother, the mistress of Dindymus.",
+   "derivation": "Literary culture: Caecilius' unfinished poem on Cybele, the Magna Mater ('Dindymi dominam... Magna... incohata Mater'). Anchored to the named poet; short titled answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 35",
+   "source_text": "nam quo tempore legit incohatam Dindymi dominam, ex eo misellae ignes interiorem edunt medullam.",
+   "question": "Cuius montis domina Magna Mater apud Catullum appellatur?",
+   "answer": "Dindymi.",
+   "question_en": "Of what mountain is the Great Mother called mistress in Catullus?",
+   "answer_en": "Of Dindymus.",
+   "derivation": "Cybele as 'Dindymi domina' — mistress of Mt. Dindymus in Phrygia, her canonical seat (so too 'Dindymenae dominae' in c.63). Cult-geography fact not covered by the Fasti 4 pairs; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 35",
+   "source_text": "POETAE tenero, meo sodali, uelim Caecilio, papyre, dicas Veronam ueniat, Noui relinquens Comi moenia Lariumque litus.",
+   "question": "Quibus moenibus quoque litore relictis Caecilius poeta Veronam venire iubetur?",
+   "answer": "Novi Comi moenibus Larioque litore.",
+   "question_en": "Leaving what city walls and what shore is the poet Caecilius bidden to come to Verona?",
+   "answer_en": "The walls of Novum Comum and the shore of Larius (Como).",
+   "derivation": "Transpadane geography: Novum Comum (Caesar's new foundation) on Lake Larius, and Verona as Catullus' town. Anchored to the named poet and places; short place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 36",
+   "source_text": "nam sanctae Veneri Cupidinique uouit, si sibi restitutus essem desissemque truces uibrare iambos, electissima pessimi poetae scripta tardipedi deo daturam infelicibus ustulanda lignis.",
+   "question": "Quis deus apud Catullum 'tardipes' vocatur, cui scripta pessimi poetae ustulanda dantur?",
+   "answer": "Volcanus.",
+   "question_en": "Which god is called 'slow-footed' in Catullus, to whom the worst poet's writings are given to burn?",
+   "answer_en": "Vulcan.",
+   "derivation": "The lame fire-god: 'tardipedi deo' is the canonical periphrasis for Vulcan, to whose flames the vowed writings go. The lameness of Vulcan is shared myth; one-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 36",
+   "source_text": "nunc o caeruleo creata ponto, quae sanctum Idalium Vriosque apertos quaeque Ancona Cnidumque harundinosam colis quaeque Amathunta quaeque Golgos quaeque Durrachium Hadriae tabernam",
+   "question": "Quae dea, caeruleo ponto creata, Idalium, Amathunta Golgosque colit apud Catullum?",
+   "answer": "Venus.",
+   "question_en": "Which goddess, born of the blue sea, dwells in Idalium, Amathus, and Golgi according to Catullus?",
+   "answer_en": "Venus.",
+   "derivation": "Venus' sea-birth and her canonical Cypriot cult seats (Idalium, Amathus, Golgi, plus Cnidus and Ancona) — ambient religious geography. Anchored by the named shrines; one-name answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 36",
+   "source_text": "quaeque Durrachium Hadriae tabernam, acceptum face redditumque uotum, si non illepidum neque inuenustum est.",
+   "question": "Quae urbs apud Catullum 'Hadriae taberna' nominatur?",
+   "answer": "Durrachium.",
+   "question_en": "Which city is styled 'the tavern of the Adriatic' in Catullus?",
+   "answer_en": "Dyrrachium.",
+   "derivation": "Dyrrachium, the great crossing-port between Italy and Greece, dubbed the Adriatic's roadhouse — a checkable geographic epithet, verbatim. One-name answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 37",
+   "source_text": "tu praeter omnes une de capillatis, cuniculosae Celtiberiae fili, Egnati. opaca quem bonum facit barba et dens Hibera defricatus urina.",
+   "question": "Quo animali abundat Celtiberia, quam Catullus 'cuniculosam' appellat?",
+   "answer": "Cuniculis.",
+   "question_en": "In what animal does Celtiberia abound, which Catullus calls 'rabbity'?",
+   "answer_en": "In rabbits.",
+   "derivation": "Spain's proverbial rabbits: 'cuniculosae Celtiberiae' fixes the land's famous fauna (the cuniculus was the Iberian animal par excellence). Anchored to Celtiberia; one-word answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 39",
+   "source_text": "nunc Celtiber es: Celtiberia in terra, quod quisque minxit, hoc sibi solet mane dentem atque russam defricare gingiuam, ut quo iste uester expolitior dens est, hoc te amplius bibisse praedicet loti.",
+   "question": "Quo liquore Celtiberi mane dentes gingivasque defricare solent, ut Catullus tradit?",
+   "answer": "Urina sua.",
+   "question_en": "With what liquid do the Celtiberians customarily scrub their teeth and gums each morning, as Catullus relates?",
+   "answer_en": "With their own urine.",
+   "derivation": "A genuine ethnographic datum (also in Strabo and Diodorus): Celtiberians whitened teeth with urine. Stated as the people's custom ('solet'), anchored to Celtiberia; short answer verbatim in substance.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 37",
+   "source_text": "SALAX taberna uosque contubernales, a pilleatis nona fratribus pila",
+   "question": "Qui fratres gemini apud Catullum 'pilleati' dicuntur?",
+   "answer": "Castor et Pollux.",
+   "question_en": "Which twin brothers are called 'felt-capped' in Catullus?",
+   "answer_en": "Castor and Pollux.",
+   "derivation": "The pilleus (the egg-half felt cap) is the canonical attribute of the Dioscuri; Catullus locates the tavern nine pillars from 'the felt-capped brothers' (their temple in the Forum). Shared iconographic knowledge; two-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 39",
+   "source_text": "si urbanus esses aut Sabinus aut Tiburs aut pinguis Vmber aut obesus Etruscus aut Lanuuinus ater atque dentatus aut Transpadanus, ut meos quoque attingam, aut quilubet, qui puriter lauit dentes, tamen renidere usque quaque te nollem",
+   "question": "Quibus popularibus se ipsum adnumerat Catullus, cum gentes Italiae recenset?",
+   "answer": "Transpadanis.",
+   "question_en": "Among which countrymen does Catullus count himself when he lists the peoples of Italy?",
+   "answer_en": "The Transpadanes.",
+   "derivation": "Catullus' own origin: 'Transpadanus, ut meos quoque attingam' — the Veronese poet claims the people beyond the Po as his own. A biographic fact every reader carries; one-word answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 38",
+   "source_text": "paulum quid lubet allocutionis, maestius lacrimis Simonideis.",
+   "question": "Cuius poetae Graeci lacrimae apud Catullum summae maestitiae exemplum sunt?",
+   "answer": "Simonidis.",
+   "question_en": "Which Greek poet's tears stand in Catullus as the byword for utmost sadness?",
+   "answer_en": "Simonides'.",
+   "derivation": "Simonides of Ceos was proverbial for his laments and dirges; Catullus asks for a consolation 'sadder than Simonidean tears'. Shared literary knowledge; one-name answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 36",
+   "source_text": "ANNALES Volusi, cacata carta, uotum soluite pro mea puella.",
+   "question": "Cuius poetae Annales Catullus 'cacatam cartam' vocat?",
+   "answer": "Volusi.",
+   "question_en": "Which poet's Annals does Catullus call 'crapped-on paper'?",
+   "answer_en": "Volusius'.",
+   "derivation": "A celebrated literary verdict (repeated in c.95): Volusius' Annales as waste paper. Anchored to the named poet and work; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 44",
+   "source_text": "O FVNDE noster seu Sabine seu Tiburs (nam te esse Tiburtem autumant, quibus non est cordi Catullum laedere; at quibus cordi est, quouis Sabinum pignore esse contendunt)",
+   "question": "Quo nomine fundum Catulli appellabant ii, quibus non erat cordi eum laedere?",
+   "answer": "Tiburtem.",
+   "question_en": "By what name did those who had no wish to wound Catullus call his farm?",
+   "answer_en": "Tiburtine.",
+   "derivation": "The social geography of villa addresses: fashionable Tibur versus rustic Sabine country — flatterers called the farm Tiburtine, mockers Sabine. The point is stated verbatim; anchored to Catullus' fundus.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 44",
+   "source_text": "hic me grauedo frigida et frequens tussis quassauit usque, dum in tuum sinum fugi, et me recuraui otioque et urtica.",
+   "question": "Quibus duobus remediis Catullus gravedinem et tussim in fundo suo recuravit?",
+   "answer": "Otio et urtica.",
+   "question_en": "With what two remedies did Catullus cure his cold and cough at his farm?",
+   "answer_en": "With rest and nettle.",
+   "derivation": "Roman folk medicine: the nettle (urtica) taken as a remedy for cough and chill, plus rest. Anchored to Catullus' illness; two-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 45",
+   "source_text": "hoc ut dixit, Amor sinistra ut ante dextra sternuit approbationem.",
+   "question": "Quo signo Amor amoribus Septimii et Acmes favit, ut Catullus narrat?",
+   "answer": "Sternumento: approbationem sternuit.",
+   "question_en": "By what sign did Love show favor to the love of Septimius and Acme, as Catullus tells?",
+   "answer_en": "By a sneeze: he sneezed his approval.",
+   "derivation": "The sneeze as an omen of divine approval — a widespread ancient belief, here performed by Amor himself ('sternuit approbationem'). Anchored to the named lovers; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 46",
+   "source_text": "linquantur Phrygii, Catulle, campi Nicaeaeque ager uber aestuosae: ad claras Asiae uolemus urbes.",
+   "question": "Cuius urbis aestuosae agrum uberem Catullus vere ineunte reliquit, ad claras Asiae urbes volaturus?",
+   "answer": "Nicaeae.",
+   "question_en": "The fertile land of what sweltering city did Catullus leave at the coming of spring, to fly to the famous cities of Asia?",
+   "answer_en": "Of Nicaea.",
+   "derivation": "Nicaea, chief city of Bithynia, with its fertile plain — the departure point of Catullus' spring journey home. Named city; one-word answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 49",
+   "source_text": "DISERTISSIME Romuli nepotum, quot sunt quotque fuere, Marce Tulli, quotque post aliis erunt in annis, gratias tibi maximas Catullus agit",
+   "question": "Quem oratorem Catullus 'disertissimum Romuli nepotum' salutat?",
+   "answer": "Marcum Tullium Ciceronem.",
+   "question_en": "Which orator does Catullus hail as 'most eloquent of the descendants of Romulus'?",
+   "answer_en": "Marcus Tullius Cicero.",
+   "derivation": "Catullus' famous (mock-)homage to Cicero, named in the vocative 'Marce Tulli'. Cicero as the age's paragon of eloquence is shared knowledge; one-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 50",
+   "source_text": "HESTERNO, Licini, die otiosi multum lusimus in meis tabellis, ut conuenerat esse delicatos: scribens uersiculos uterque nostrum ludebat numero modo hoc modo illoc, reddens mutua per iocum atque uinum.",
+   "question": "Quocum Catullus die otioso versiculos in tabellis suis per iocum atque vinum ludens scripsit?",
+   "answer": "Cum Licinio Calvo.",
+   "question_en": "With whom did Catullus, on a day of leisure, playfully write verses on his tablets amid jokes and wine?",
+   "answer_en": "With Licinius Calvus.",
+   "derivation": "The famous day of improvising versiculi on wax tablets with Licinius (Calvus, the orator-poet) — neoteric literary culture at play. Anchored by name; short answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 50",
+   "source_text": "caue despuas, ocelle, ne poenas Nemesis reposcat a te. est uehemens dea: laedere hanc caueto.",
+   "question": "Quae dea vehemens poenas a superbis reposcit, ut Catullus Licinium monet?",
+   "answer": "Nemesis.",
+   "question_en": "Which vehement goddess exacts penalties from the scornful, as Catullus warns Licinius?",
+   "answer_en": "Nemesis.",
+   "derivation": "Nemesis as the punisher of pride and scorn — 'est uehemens dea: laedere hanc caueto' — shared religious knowledge. One-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 51",
+   "source_text": "otium et reges prius et beatas perdidit urbes.",
+   "question": "Quid, ut Catullus scribit, et reges prius et beatas urbes perdidit?",
+   "answer": "Otium.",
+   "question_en": "What, as Catullus writes, has destroyed kings and prosperous cities before now?",
+   "answer_en": "Idleness (otium).",
+   "derivation": "The proverbial close of c.51: otium ruins kings and rich cities. A checkable sententia attached to Catullus; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 53",
+   "source_text": "RISI nescio quem modo e corona, qui, cum mirifice Vatiniana meus crimina Caluos explicasset admirans ait haec manusque tollens, 'di magni, salaputium disertum!'",
+   "question": "Cuius viri crimina Calvus orator, Catulli sodalis, mirifice in foro explicavit?",
+   "answer": "Vatinii.",
+   "question_en": "Whose crimes did the orator Calvus, Catullus' companion, marvelously set forth in court?",
+   "answer_en": "Vatinius'.",
+   "derivation": "Calvus' celebrated prosecution of Vatinius — his 'Vatinian' speeches were classics of Roman oratory ('Vatiniana crimina explicasset'). Anchored by both names; one-name answer.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 55",
+   "source_text": "in Magni simul ambulatione femellas omnes, amice, prendi, quas uultu uidi tamen sereno.",
+   "question": "Cuius imperatoris ambulatio Romae erat, in qua Catullus Camerium inter femellas quaesivit?",
+   "answer": "Pompei Magni.",
+   "question_en": "Whose promenade was it at Rome, in which Catullus hunted for Camerius among the girls?",
+   "answer_en": "Pompey the Great's.",
+   "derivation": "'Magni ambulatio' — the Porticus of Pompey, Rome's fashionable promenade and pickup spot ('Magnus' = Pompeius Magnus is the shared identification). Leisure topography of the city; short answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Catullus, Carmina 58b",
+   "source_text": "NON custos si fingar ille Cretum, non Ladas ego pinnipesue Perseus, non si Pegaseo ferar uolatu, non Rhesi niueae citaeque bigae",
+   "question": "Cuius regis Thracii bigae niveae citaeque inter exempla celeritatis apud Catullum numerantur?",
+   "answer": "Rhesi.",
+   "question_en": "Which Thracian king's snow-white, swift chariot team is counted among the exemplars of speed in Catullus?",
+   "answer_en": "Rhesus'.",
+   "derivation": "The white horses of Rhesus, famed from the Iliad's Doloneia — canonical myth of swiftness ('Rhesi niueae citaeque bigae'). One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 58b",
+   "source_text": "NON custos si fingar ille Cretum, non Ladas ego pinnipesue Perseus, non si Pegaseo ferar uolatu",
+   "question": "Quis heros apud Catullum 'pinnipes' vocatur?",
+   "answer": "Perseus.",
+   "question_en": "Which hero is called 'wing-footed' in Catullus?",
+   "answer_en": "Perseus.",
+   "derivation": "Perseus' winged sandals — his canonical attribute, fixed in the epithet 'pinnipes'. Listed with Ladas, Pegasus, and the guardian of Crete (Talos) as bywords for speed; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 59",
+   "source_text": "BONONIENSIS Rufa Rufulum fellat, uxor Meneni, saepe quam in sepulcretis uidistis ipso rapere de rogo cenam",
+   "question": "Unde Rufa Bononiensis in sepulcretis cenam rapere solebat, ut Catullus refert?",
+   "answer": "De ipso rogo.",
+   "question_en": "From where in the graveyards did Rufa of Bononia habitually snatch her dinner, as Catullus reports?",
+   "answer_en": "From the funeral pyre itself.",
+   "derivation": "Evidence of the funerary custom of burning a food offering (the cena) on the pyre — so destitute scavengers could steal it. Anchored to the named Rufa; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 60",
+   "source_text": "NVM te leaena montibus Libystinis aut Scylla latrans infima inguinum parte tam mente dura procreauit ac taetra",
+   "question": "Qua corporis parte Scylla apud Catullum latrare dicitur?",
+   "answer": "Infima inguinum parte.",
+   "question_en": "From what part of her body is Scylla said to bark in Catullus?",
+   "answer_en": "From the lowest part of her groin.",
+   "derivation": "Scylla's canonical monstrous form: a girl ringed with barking dogs at her loins. Shared myth-iconography, stated verbatim; anchored to Scylla by name.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "COLLIS o Heliconii cultor, Vraniae genus, qui rapis teneram ad uirum uirginem, o Hymenaee Hymen, o Hymen Hymenaee",
+   "question": "Cuius Musae genus Hymenaeus, collis Heliconii cultor, in epithalamio Catulli appellatur?",
+   "answer": "Uraniae.",
+   "question_en": "Of which Muse is Hymenaeus, dweller on the Heliconian hill, called the offspring in Catullus' wedding song?",
+   "answer_en": "Of Urania.",
+   "derivation": "The wedding god's genealogy: Hymen son of the Muse Urania, dwelling on Helicon — stated verbatim ('Vraniae genus'). Anchored to Hymenaeus; one-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "cinge tempora floribus suaue olentis amaraci, flammeum cape laetus, huc huc ueni, niueo gerens luteum pede soccum",
+   "question": "Cuius herbae suave olentis floribus Hymenaeus tempora cingere iubetur apud Catullum?",
+   "answer": "Amaraci.",
+   "question_en": "With the flowers of what sweet-smelling plant is Hymenaeus told to wreathe his temples in Catullus?",
+   "answer_en": "Of marjoram (amaracus).",
+   "derivation": "The wedding god's garland of marjoram — with the flammeum in hand and the yellow slipper on his foot, part of the fixed bridal iconography. One-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "tollite, o pueri, faces: flammeum uideo uenire. ite concinite in modum 'io Hymen Hymenaee io, io Hymen Hymenaee.'",
+   "question": "Quo velamine conspecto adventus novae nuptae in deductione cognoscitur, ut Catullus canit?",
+   "answer": "Flammeo.",
+   "question_en": "By the sight of what veil is the arrival of the new bride recognized in the procession, as Catullus sings?",
+   "answer_en": "By the flammeum (the flame-colored bridal veil).",
+   "derivation": "The flammeum, the bride's flame-yellow veil — the visual signal of her coming, at which the boys raise the torches. Central wedding costume of Roman mores; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "excitusque hilari die, nuptialia concinens uoce carmina tinnula, pelle humum pedibus, manu pineam quate taedam.",
+   "question": "Ex qua arbore taeda nuptialis, quam Hymenaeus manu quatit, facta erat?",
+   "answer": "E pinu.",
+   "question_en": "From what tree was the wedding torch made that Hymenaeus shakes in his hand?",
+   "answer_en": "From pine.",
+   "derivation": "The pine torch ('pineam taedam') of the wedding procession — the taeda was so identified with marriage that it stood for the rite itself. Anchored to Hymenaeus' torch; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "namque Iunia Manlio, qualis Idalium colens uenit ad Phrygium Venus iudicem, bona cum bona nubet alite uirgo",
+   "question": "Cui viro Iunia Aurunculeia in epithalamio Catulli nubit?",
+   "answer": "Manlio Torquato.",
+   "question_en": "To what man is Junia Aurunculeia wedded in Catullus' epithalamium?",
+   "answer_en": "To Manlius Torquatus.",
+   "derivation": "The named couple of c.61: Junia (Aurunculeia, as she is addressed later) marries Manlius, whose hoped-for son is 'Torquatus paruulus'. Anchored by both names; one-name answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "namque Iunia Manlio, qualis Idalium colens uenit ad Phrygium Venus iudicem, bona cum bona nubet alite uirgo",
+   "question": "Quis erat 'Phrygius iudex', ad quem Venus Idalium colens venisse dicitur apud Catullum?",
+   "answer": "Paris.",
+   "question_en": "Who was the 'Phrygian judge' to whom Venus of Idalium is said to have come in Catullus?",
+   "answer_en": "Paris.",
+   "derivation": "The Judgment of Paris — 'Phrygius iudex' is the canonical periphrasis for Paris judging the goddesses; the bride is as fair as Venus before him. Shared myth; one-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "ut libentius, audiens se citarier ad suum munus, huc aditum ferat dux bonae Veneris, boni coniugator amoris.",
+   "question": "Quis deus in nuptiis 'boni coniugator amoris' a Catullo vocatur?",
+   "answer": "Hymen Hymenaeus.",
+   "question_en": "Which god is called at weddings 'the joiner of good love' by Catullus?",
+   "answer_en": "Hymen Hymenaeus.",
+   "derivation": "Hymenaeus as the god without whom no honorable union stands ('nil potest sine te Venus') — the presiding deity of the Roman wedding, invoked with the cry 'io Hymen Hymenaee'. One-name answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "te suis tremulus parens inuocat, tibi uirgines zonula soluunt sinus, te timens cupida nouos captat aure maritus.",
+   "question": "Quid virgines nupturae Hymenaeo invocato solvunt, ut Catullus canit?",
+   "answer": "Zonulam.",
+   "question_en": "What do maidens about to wed loosen when Hymenaeus is invoked, as Catullus sings?",
+   "answer_en": "The girdle (zonula).",
+   "derivation": "The loosening of the bridal girdle — 'tibi uirgines zonula soluunt sinus' — a fixed rite of the wedding night. Anchored to Hymenaeus; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "ne diu taceat procax Fescennina iocatio, nec nuces pueris neget desertum domini audiens concubinus amorem.",
+   "question": "Quo nomine iocatio procax, quae in nuptiis Romanis cani solet, apud Catullum vocatur?",
+   "answer": "Fescennina.",
+   "question_en": "By what name is the ribald joking customarily sung at Roman weddings called in Catullus?",
+   "answer_en": "Fescennine.",
+   "derivation": "The fescennina iocatio — the licensed ribaldry of the wedding procession, a named Roman custom ('procax Fescennina iocatio'). Translatable as the name of a rite; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "da nuces pueris, iners concubine! satis diu lusisti nucibus: lubet iam seruire Talasio. concubine, nuces da.",
+   "question": "Quid concubinus pueris in nuptiis dare iubetur apud Catullum?",
+   "answer": "Nuces.",
+   "question_en": "What is the concubinus ordered to give to the boys at the wedding in Catullus?",
+   "answer_en": "Nuts.",
+   "derivation": "The scattering of nuts to the boys at a wedding ('da nuces pueris') — the classic Roman nuptial custom, the sign of putting away boyhood things. One-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "da nuces pueris, iners concubine! satis diu lusisti nucibus: lubet iam seruire Talasio. concubine, nuces da.",
+   "question": "Quod numen nuptiale Romanum apud Catullum nominatur, cui post lusum nucum serviendum est?",
+   "answer": "Talasius.",
+   "question_en": "What Roman wedding divinity is named in Catullus, whom one must now serve once the play with nuts is over?",
+   "answer_en": "Talasius.",
+   "derivation": "Talasius (Talassio), the native Roman marriage-cry and wedding numen invoked at the deductio — 'lubet iam seruire Talasio' marks the passage into married life. One-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "sordebant tibi uillicae, concubine, hodie atque heri: nunc tuum cinerarius tondet os.",
+   "question": "Quis servus os concubini iam adulti tondet, ut in epithalamio Catulli canitur?",
+   "answer": "Cinerarius.",
+   "question_en": "Which slave now shaves the face of the grown concubinus, as is sung in Catullus' wedding poem?",
+   "answer_en": "The cinerarius (the hairdresser slave).",
+   "derivation": "The cinerarius, the slave who dressed hair with irons heated in ash — a fixture of the Roman household; his shaving the concubinus marks the end of the boy's favor. One-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "transfer omine cum bono limen aureolos pedes, rasilemque subi forem.",
+   "question": "Quid nova nupta aureolis pedibus omine cum bono transferre iubetur apud Catullum?",
+   "answer": "Limen domus mariti.",
+   "question_en": "What is the new bride told to cross with her golden feet under a good omen in Catullus?",
+   "answer_en": "The threshold of her husband's house.",
+   "derivation": "The threshold rite of the Roman wedding: the bride must pass the limen 'omine cum bono' (touching it was ill-omened, hence she was lifted or stepped over). Anchored to the nova nupta; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "mitte brachiolum teres, praetextate, puellulae: iam cubile adeat uiri.",
+   "question": "Quis puer brachiolum puellulae nuptae dimittere iubetur, cum illa cubile viri adit?",
+   "answer": "Praetextatus.",
+   "question_en": "Which boy is told to let go of the little bride's arm as she goes to her husband's bed?",
+   "answer_en": "The boy in the toga praetexta.",
+   "derivation": "The deductio detail that a freeborn boy in the toga praetexta escorted the bride on his arm to the marriage chamber. Roman wedding protocol; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "uos bonae senibus uiris cognitae bene feminae, collocate puellulam.",
+   "question": "Quae feminae puellulam nuptam in cubili viri collocant apud Catullum?",
+   "answer": "Bonae feminae, senibus viris bene cognitae.",
+   "question_en": "Which women lay the little bride in her husband's bed in Catullus?",
+   "answer_en": "Good matrons, well known to their aged husbands (women of one husband).",
+   "derivation": "The pronubae: only matrons of proven single marriage ('senibus uiris cognitae bene') bedded the bride — a fixed requirement of the rite. Short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 61",
+   "source_text": "talis illius a bona matre laus genus approbet, qualis unica ab optima matre Telemacho manet fama Penelopeo.",
+   "question": "A qua matre optima Telemacho unica fama manet, ut Catullus canit?",
+   "answer": "A Penelope.",
+   "question_en": "From what best of mothers does Telemachus' unmatched good name endure, as Catullus sings?",
+   "answer_en": "From Penelope.",
+   "derivation": "Penelope as the canonical chaste mother whose virtue guarantees her son's fame ('Telemacho... Penelopeo'). Shared Homeric knowledge; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 62",
+   "source_text": "VESPER adest, iuuenes, consurgite: Vesper Olympo exspectata diu uix tandem lumina tollit. surgere iam tempus, iam pinguis linquere mensas, iam ueniet uirgo, iam dicetur hymenaeus.",
+   "question": "Quo sidere oriente virgo nuptum venit atque hymenaeus dicitur, ut apud Catullum canitur?",
+   "answer": "Vespere.",
+   "question_en": "At the rising of what star does the bride come to be married and the wedding hymn get sung, as in Catullus?",
+   "answer_en": "At the rising of Vesper (the evening star).",
+   "derivation": "The Roman wedding began at dusk: the rise of Vesper is the signal to leave the tables, for the bride's coming and the hymenaeus. Anchored to the named star; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 62",
+   "source_text": "namque tuo aduentu uigilat custodia semper, nocte latent fures, quos idem saepe reuertens, Hespere, mutato comprendis nomine Eous",
+   "question": "Quo nomine Hesperus, cum mane revertitur, mutato nomine appellatur apud Catullum?",
+   "answer": "Eous.",
+   "question_en": "By what changed name is Hesperus called when he returns at morning, according to Catullus?",
+   "answer_en": "Eous (the morning star).",
+   "derivation": "The evening star and the morning star are one body under two names — ancient astronomical knowledge stated verbatim ('mutato comprendis nomine Eous'). Anchored to Hesperus; one-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 62",
+   "source_text": "at si forte eadem est ulmo coniuncta marito, multi illam agricolae, multi coluere iuuenci",
+   "question": "Cui arbori 'marito' vitis coniungi solet, ut in carmine nuptiali Catulli canitur?",
+   "answer": "Ulmo.",
+   "question_en": "To what tree as its 'husband' is the vine customarily wedded, as sung in Catullus' wedding poem?",
+   "answer_en": "To the elm.",
+   "derivation": "The vine trained on the elm — the standard Italian husbandry practice, proverbially the 'marriage' of vine and elm, and the poem's simile for the bride. One-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 62",
+   "source_text": "uirginitas non tota tua est, ex parte parentum est, tertia pars patrest, pars est data tertia matri, tertia sola tua est: noli pugnare duobus, qui genero suo iura simul cum dote dederunt.",
+   "question": "Quota pars virginitatis ipsius puellae est, ut iuvenes in carmine nuptiali Catulli canunt?",
+   "answer": "Tertia sola; ceterae patris matrisque sunt.",
+   "question_en": "What share of her maidenhood belongs to the girl herself, as the youths sing in Catullus' wedding song?",
+   "answer_en": "Only a third; the other thirds are her father's and her mother's.",
+   "derivation": "The famous arithmetic of c.62: a girl's virginity is one-third her father's, one-third her mother's, one-third her own — the ideology of patria potestas over marriage, with the dowry clinching the parents' rights. Number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 63",
+   "source_text": "stimulatus ibi furenti rabie, uagus animis, deuolsit ili acuto sibi pondera silice",
+   "question": "Quo instrumento Attis, furenti rabie stimulatus, se ipse evirauit apud Catullum?",
+   "answer": "Acuto silice.",
+   "question_en": "With what implement did Attis, goaded by raving frenzy, unman himself in Catullus?",
+   "answer_en": "With a sharp flint.",
+   "derivation": "The flint knife of the self-gelding — the archaic ritual instrument ('acuto silice'), a cult detail of the Galli not among the Fasti 4 pairs. Anchored to Attis; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 63",
+   "source_text": "niueis citata cepit manibus leue typanum, typanum tuum, Cybebe, tua, mater initia, quatiensque terga tauri teneris caua digitis canere haec suis adorta est tremebunda comitibus.",
+   "question": "Quod instrumentum proprium initiorum Cybeles Attis manibus cepit et quassavit?",
+   "answer": "Tympanum, cava terga tauri.",
+   "question_en": "What instrument, proper to Cybele's initiations, did Attis take up in his hands and shake?",
+   "answer_en": "The tympanum, the hollow bull's-hide drum.",
+   "derivation": "The tympanum as Cybele's own instrument ('typanum tuum, Cybebe, tua, mater initia'), made of stretched bull's hide ('terga tauri caua') — the signature sound of the Phrygian cult, complementing (not duplicating) the Fasti Megalensia pairs.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 63",
+   "source_text": "ubi cymbalum sonat uox, ubi tympana reboant, tibicen ubi canit Phryx curuo graue calamo, ubi capita Maenades ui iaciunt hederigerae",
+   "question": "Quali calamo tibicen Phryx in sacris Cybeles gravem cantum canit apud Catullum?",
+   "answer": "Curvo.",
+   "question_en": "On what kind of reed does the Phrygian piper play his deep strain in Cybele's rites, according to Catullus?",
+   "answer_en": "On a curved one.",
+   "derivation": "The curved Phrygian pipe (the aulos with upturned horn bell) — a real feature of the Magna Mater's music, alongside cymbals and drums. Anchored to the Phrygian piper of Cybele; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 63",
+   "source_text": "ibi iuncta iuga resoluens Cybele leonibus laeuumque pecoris hostem stimulans ita loquitur.",
+   "question": "Quod animal Cybele iugo solvit et in Attin fugitivum immisit apud Catullum?",
+   "answer": "Leonem, laevum iugi.",
+   "question_en": "What animal did Cybele loose from the yoke and send against the runaway Attis in Catullus?",
+   "answer_en": "A lion, the left-hand one of her team.",
+   "derivation": "The episode of the loosed lion: Cybele unyokes the left beast of her lion-team to drive Attis back to the forests — a story-fact distinct from the Fasti pair on why lions draw her chariot. Short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 63",
+   "source_text": "facit impetum. illa demens fugit in nemora fera; ibi semper omne uitae spatium famula fuit.",
+   "question": "Quamdiu Attis in nemoribus Phrygiis famula Cybeles mansit, ut Catullus canit?",
+   "answer": "Omne vitae spatium.",
+   "question_en": "For how long did Attis remain Cybele's handmaid in the Phrygian forests, as Catullus sings?",
+   "answer_en": "For the whole span of life.",
+   "derivation": "The end of the Attis poem: lifelong servitude to the goddess ('semper omne uitae spatium famula fuit'). Anchored to Attis + Cybele; short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 63",
+   "source_text": "ibi Somnus excitam Attin fugiens citus abiit; trepidante eum recepit dea Pasithea sinu.",
+   "question": "Quae dea Somnum, ab Attide excita fugientem, sinu suo recepit?",
+   "answer": "Pasithea.",
+   "question_en": "Which goddess received Sleep in her bosom as he fled from the awakened Attis?",
+   "answer_en": "Pasithea.",
+   "derivation": "Pasithea, the Grace given to Hypnos/Somnus as his consort (Iliad 14) — the canonical pairing of Sleep and Pasithea, stated verbatim. One-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 63",
+   "source_text": "mihi ianuae frequentes, mihi limina tepida, mihi floridis corollis redimita domus erat, linquendum ubi esset orto mihi Sole cubiculum.",
+   "question": "Quo ornatu domus adulescentis dilecti, qualis Attis fuerat, ab amatoribus redimiri solebat?",
+   "answer": "Floridis corollis.",
+   "question_en": "With what adornment was the house of an admired youth, such as Attis had been, customarily wreathed by admirers?",
+   "answer_en": "With flowery garlands.",
+   "derivation": "The lover's custom of hanging garlands at the beloved's door — Attis recalls his house 'floridis corollis redimita' when he was the flower of the gymnasium. Greek-Roman courtship mores; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "PELIACO quondam prognatae uertice pinus dicuntur liquidas Neptuni nasse per undas Phasidos ad fluctus et fines Aeetaeos",
+   "question": "In cuius montis vertice natae sunt pinus, ex quibus navis Argonautarum facta est, ut Catullus canit?",
+   "answer": "Pelii.",
+   "question_en": "On the peak of what mountain grew the pines from which the Argonauts' ship was built, as Catullus sings?",
+   "answer_en": "Of Pelion.",
+   "derivation": "The Argo's timber from Mt. Pelion — the canonical opening fact of the Argonaut story ('Peliaco prognatae uertice pinus'). One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "dicuntur liquidas Neptuni nasse per undas Phasidos ad fluctus et fines Aeetaeos",
+   "question": "Ad cuius fluminis fluctus Argonautae navigaverunt, fines Aeetis regis petentes?",
+   "answer": "Phasidos.",
+   "question_en": "To the waters of what river did the Argonauts sail, making for the realm of King Aeetes?",
+   "answer_en": "Of the Phasis.",
+   "derivation": "The Phasis, the river of Colchis in Aeetes' kingdom, the goal of the voyage — mythic geography stated verbatim ('Phasidos ad fluctus et fines Aeetaeos'). One-name answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "cum lecti iuuenes, Argiuae robora pubis, auratam optantes Colchis auertere pellem ausi sunt uada salsa cita decurrere puppi",
+   "question": "Quam pellem lecti iuvenes Argivi Colchis avertere ausi sunt, ut Catullus canit?",
+   "answer": "Auratam pellem.",
+   "question_en": "What fleece did the chosen Argive youths dare to carry off from the Colchians, as Catullus sings?",
+   "answer_en": "The golden fleece.",
+   "derivation": "The Golden Fleece as the object of the Argonauts' voyage ('auratam... Colchis auertere pellem') — myth as shared story; short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "diua quibus retinens in summis urbibus arces ipsa leui fecit uolitantem flamine currum, pinea coniungens inflexae texta carinae.",
+   "question": "Quae dea navem Argonautis ipsa fecit, ut Catullus refert?",
+   "answer": "Minerva, quae arces urbium summas tenet.",
+   "question_en": "Which goddess herself built the ship for the Argonauts, as Catullus relates?",
+   "answer_en": "Minerva (Athena), who holds the citadels atop cities.",
+   "derivation": "Athena as builder of the Argo — the 'diua retinens in summis urbibus arces' is the canonical periphrasis for the citadel-goddess Minerva. Shared myth; the identification is the ambient knowledge the line assumes.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "illa rudem cursu prima imbuit Amphitriten; quae simul ac rostro uentosum proscidit aequor... emersere freti candenti e gurgite uultus aequoreae monstrum Nereides admirantes.",
+   "question": "Quae navis prima rudem Amphitriten cursu imbuisse a Catullo canitur?",
+   "answer": "Argo, navis Argonautarum.",
+   "question_en": "What ship is sung by Catullus to have been the first to initiate the untried sea with sailing?",
+   "answer_en": "The Argo, the Argonauts' ship.",
+   "derivation": "The Argo as the first ship ever to sail ('rudem cursu prima imbuit Amphitriten' — Amphitrite standing for the sea), at which the astonished Nereids surfaced. The poem leaves the ship unnamed; 'Argo' is the universal identification of the Argonauts' vessel.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "teque adeo eximie taedis felicibus aucte, Thessaliae columen Peleu, cui Iuppiter ipse, ipse suos diuum genitor concessit amores",
+   "question": "Quis deus suos ipse amores Peleo concessit, cum is Thetidem duceret?",
+   "answer": "Iuppiter.",
+   "question_en": "Which god himself yielded his own beloved to Peleus when he married Thetis?",
+   "answer_en": "Jupiter.",
+   "derivation": "Jupiter's renunciation of Thetis in favor of the mortal Peleus ('cui Iuppiter ipse... concessit amores') — the famous premise of the marriage. Anchored to Peleus + Thetis; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "tene suam Tethys concessit ducere neptem, Oceanusque, mari totum qui amplectitur orbem?",
+   "question": "Quorum numinum neptis erat Thetis, quam Peleus uxorem duxit?",
+   "answer": "Tethyos et Oceani.",
+   "question_en": "Of which divinities was Thetis the granddaughter, whom Peleus took to wife?",
+   "answer_en": "Of Tethys and Oceanus.",
+   "derivation": "Thetis' genealogy: granddaughter of Tethys and of Oceanus 'who embraces the whole world with sea' — stated verbatim. Two-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "deseritur Cieros, linquunt Pthiotica Tempe Crannonisque domos ac moenia Larisaea, Pharsalum coeunt, Pharsalia tecta frequentant.",
+   "question": "Quo in oppido Thessaliae nuptiae Pelei et Thetidis celebratae sunt apud Catullum?",
+   "answer": "Pharsali.",
+   "question_en": "In what town of Thessaly was the wedding of Peleus and Thetis celebrated according to Catullus?",
+   "answer_en": "At Pharsalus.",
+   "derivation": "All Thessaly abandons Cieros, Tempe, Crannon and Larisa to gather at Pharsalus for the royal wedding — the poem's own setting of the feast. One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "puluinar uero diuae geniale locatur sedibus in mediis, Indo quod dente politum tincta tegit roseo conchyli purpura fuco.",
+   "question": "Quo ex dente pulvinar geniale Thetidis politum erat, ut Catullus describit?",
+   "answer": "Indo dente, ebore.",
+   "question_en": "With what tusk was the bridal couch of Thetis polished, as Catullus describes?",
+   "answer_en": "With Indian tooth — ivory.",
+   "derivation": "Roman luxury realia: ivory as 'Indian tooth' ('Indo dente politum'), the couch draped in shellfish purple. Anchored to the goddess's marriage couch; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "namque fluentisono prospectans litore Diae, Thesea cedentem celeri cum classe tuetur indomitos in corde gerens Ariadna furores",
+   "question": "In qua insula Ariadna a Theseo deserta est, ut in veste nuptiali apud Catullum picta erat?",
+   "answer": "In Dia.",
+   "question_en": "On what island was Ariadne abandoned by Theseus, as was depicted on the wedding coverlet in Catullus?",
+   "answer_en": "On Dia.",
+   "derivation": "Ariadne watching Theseus' fleet recede from the shore of Dia (the island later identified with Naxos) — the central scene of the coverlet ecphrasis. Anchored to Ariadne + Theseus; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "nam perhibent olim crudeli peste coactam Androgeoneae poenas exsoluere caedis electos iuuenes simul et decus innuptarum Cecropiam solitam esse dapem dare Minotauro.",
+   "question": "Cuius caedis poenas Cecropia urbs Minotauro dapem dando exsolvebat?",
+   "answer": "Androgeonis.",
+   "question_en": "For whose murder did the city of Cecrops pay the penalty by giving a feast to the Minotaur?",
+   "answer_en": "For Androgeos'.",
+   "derivation": "Athens' tribute to Crete as blood-price for the killing of Androgeos, Minos' son ('Androgeoneae poenas... caedis') — canonical backstory of the Minotaur myth. One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "electos iuuenes simul et decus innuptarum Cecropiam solitam esse dapem dare Minotauro.",
+   "question": "Quam dapem Athenae Minotauro dare solitae erant, ut Catullus refert?",
+   "answer": "Electos iuvenes et decus innuptarum.",
+   "question_en": "What feast were the Athenians accustomed to give the Minotaur, as Catullus relates?",
+   "answer_en": "Chosen young men and the flower of their unwed girls.",
+   "derivation": "The human tribute of youths and maidens fed to the Minotaur — the shared story ('perhibent') stated verbatim. Anchored to Athens (Cecropia) + the Minotaur; short answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "inde pedem sospes multa cum laude reflexit errabunda regens tenui uestigia filo, ne labyrintheis e flexibus egredientem tecti frustraretur inobseruabilis error.",
+   "question": "Quo auxilio Theseus e labyrintheis flexibus sospes egressus est apud Catullum?",
+   "answer": "Tenui filo vestigia regens.",
+   "question_en": "By what aid did Theseus come safely out of the labyrinth's windings in Catullus?",
+   "answer_en": "By guiding his steps with a slender thread.",
+   "derivation": "Ariadne's thread — the guiding filum that defeats the 'inobseruabilis error' of the labyrinth. Canonical myth stated verbatim; anchored to Theseus; short answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "certe ego te in medio uersantem turbine leti eripui, et potius germanum amittere creui, quam tibi fallaci supremo in tempore dessem.",
+   "question": "Quem 'germanum' Ariadna amittere statuit, ut Thesea e turbine leti eriperet?",
+   "answer": "Minotaurum, fratrem suum.",
+   "question_en": "Which 'brother' did Ariadne resolve to lose in order to snatch Theseus from the whirlwind of death?",
+   "answer_en": "The Minotaur, her brother.",
+   "derivation": "Ariadne's own words: she chose to lose her germanus — the Minotaur, her half-brother by Pasiphae — rather than fail Theseus. The identification is the canonical genealogy the line assumes.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "quare facta uirum multantes uindice poena Eumenides, quibus anguino redimita capillo frons exspirantis praeportat pectoris iras, huc huc aduentate",
+   "question": "Quo capillo frons Eumenidum redimita est, ut Catullus describit?",
+   "answer": "Anguino.",
+   "question_en": "With what hair is the brow of the Eumenides wreathed, as Catullus describes?",
+   "answer_en": "With snaky hair.",
+   "derivation": "The canonical iconography of the Furies: snake-wreathed brows ('anguino redimita capillo frons'), avengers of men's deeds. Anchored to the Eumenides; one-word answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "quod tibi si sancti concesserit incola Itoni... annuit, ut tauri respergas sanguine dextram, tum uero facito ut memori tibi condita corde haec uigeant mandata... funestam antennae deponant undique uestem, candidaque intorti sustollant uela rudentes",
+   "question": "Qualia vela Theseus victor tollere debebat, ut patri Aegeo salutem suam significaret?",
+   "answer": "Candida.",
+   "question_en": "What kind of sails was the victorious Theseus to hoist to signal his safety to his father Aegeus?",
+   "answer_en": "White ones.",
+   "derivation": "Aegeus' charge: put off the mourning canvas and raise white sails if Theseus lives — the sail-signal he then forgot. Canonical myth stated verbatim ('candidaque... sustollant uela'); anchored to Theseus + Aegeus.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "at pater, ut summa prospectum ex arce petebat... cum primum infecti conspexit lintea ueli, praecipitem sese scopulorum e uertice iecit, amissum credens immiti Thesea fato.",
+   "question": "Quid fecit Aegeus, cum lintea infecti veli ex summa arce conspexit?",
+   "answer": "Praecipitem se e vertice scopulorum iecit.",
+   "question_en": "What did Aegeus do when he caught sight of the darkened sail from the top of the citadel?",
+   "answer_en": "He threw himself headlong from the cliff top.",
+   "derivation": "The death of Aegeus: seeing the dark sail, he leapt from the rocks believing Theseus lost — whence the Aegean's name in the shared story. Stated verbatim; anchored by name; short answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "at parte ex alia florens uolitabat Iacchus cum thiaso Satyrorum et Nysigenis Silenis, te quaerens, Ariadna, tuoque incensus amore.",
+   "question": "Quis deus, thiaso Satyrorum et Silenorum comitatus, Ariadnam desertam amore incensus quaesivit?",
+   "answer": "Iacchus, id est Bacchus.",
+   "question_en": "Which god, attended by his troop of Satyrs and Sileni, came seeking the abandoned Ariadne, aflame with love?",
+   "answer_en": "Iacchus — Bacchus.",
+   "derivation": "Bacchus' rescue of Ariadne on Dia — the sequel scene of the coverlet ('te quaerens, Ariadna, tuoque incensus amore'). Canonical myth; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "pars obscura cauis celebrabant orgia cistis, orgia quae frustra cupiunt audire profani",
+   "question": "Quibus in vasis Bacchae orgia obscura celebrabant, quae profanis audire non licet?",
+   "answer": "Cavis cistis.",
+   "question_en": "In what vessels did the Bacchants carry their secret rites, which the uninitiated long in vain to hear?",
+   "answer_en": "In hollow baskets (the mystic cistae).",
+   "derivation": "The cista mystica of Bacchic cult: the covered basket hiding the sacred objects from the profani — real mystery-cult realia stated verbatim. Anchored to the Bacchic thiasos; short answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "quorum post abitum princeps e uertice Pelei aduenit Chiron portans siluestria dona: nam quoscumque ferunt campi... hos indistinctis plexos tulit ipse corollis",
+   "question": "Quis primus e vertice Pelii ad nuptias Pelei advenit, silvestria dona portans?",
+   "answer": "Chiron.",
+   "question_en": "Who arrived first from the peak of Pelion at Peleus' wedding, bearing woodland gifts?",
+   "answer_en": "Chiron.",
+   "derivation": "Chiron the centaur of Pelion, first of the wedding guests, bringing garlands of wild flowers — the mountain is his canonical home. One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "non sine nutanti platano lentaque sorore flammati Phaethontis et aerea cupressu.",
+   "question": "Quae arbor 'soror flammati Phaethontis' apud Catullum appellatur?",
+   "answer": "Populus.",
+   "question_en": "What tree is called 'the sister of burnt Phaethon' in Catullus?",
+   "answer_en": "The poplar.",
+   "derivation": "The Heliades, Phaethon's sisters, transformed into poplars as they mourned him — the periphrasis 'lenta soror flammati Phaethontis' assumes this shared metamorphosis. One-word answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "inde pater diuum sancta cum coniuge natisque aduenit caelo, te solum, Phoebe, relinquens unigenamque simul cultricem montibus Idri: Pelea nam tecum pariter soror aspernata est, nec Thetidis taedas uoluit celebrare iugales.",
+   "question": "Qui dei gemini soli nuptias Pelei et Thetidis celebrare noluerunt, ut Catullus canit?",
+   "answer": "Phoebus et soror eius unigena, Diana.",
+   "question_en": "Which twin gods alone refused to attend the wedding of Peleus and Thetis, as Catullus sings?",
+   "answer_en": "Phoebus and his twin sister, Diana.",
+   "derivation": "A pointed detail of Catullus' version: Apollo and his sister scorned Peleus and stayed away from the wedding. Anchored to the named wedding; short answer verbatim in substance.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "cum interea infirmo quatientes corpora motu ueridicos Parcae coeperunt edere cantus... currite ducentes subtegmina, currite, fusi.",
+   "question": "Quae deae in nuptiis Pelei veridicum carmen cecinerunt, fila fusis ducentes?",
+   "answer": "Parcae.",
+   "question_en": "Which goddesses sang the truth-telling song at Peleus' wedding while drawing the threads on their spindles?",
+   "answer_en": "The Parcae (the Fates).",
+   "derivation": "The Parcae spinning as they prophesy — distaff, thread and spindle ('currite ducentes subtegmina, currite, fusi') are their canonical apparatus. Anchored to the wedding of Peleus; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "nascetur uobis expers terroris Achilles, hostibus haud tergo, sed forti pectore notus, qui persaepe uago uictor certamine cursus flammea praeuertet celeris uestigia ceruae.",
+   "question": "Quis filius Peleo et Thetidi nasciturus a Parcis canitur?",
+   "answer": "Achilles.",
+   "question_en": "What son do the Fates sing will be born to Peleus and Thetis?",
+   "answer_en": "Achilles.",
+   "derivation": "The prophecy of Achilles' birth, fearless and swifter than the deer ('flammea praeuertet celeris uestigia ceruae'). The central genealogical fact of the myth; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "non illi quisquam bello se conferet heros, cum Phrygii Teucro manabunt sanguine Troicaque obsidens longinquo moenia bello, periuri Pelopis uastabit tertius heres.",
+   "question": "Quis 'periuri Pelopis tertius heres' apud Catullum Troiae moenia longinquo bello vastabit?",
+   "answer": "Agamemnon.",
+   "question_en": "Who is the 'third heir of perjured Pelops' who in Catullus will lay waste the walls of Troy in a long war?",
+   "answer_en": "Agamemnon.",
+   "derivation": "The genealogical riddle assumes the shared line Pelops - Atreus - Agamemnon: the third heir who besieged Troy. Pelops 'periurus' for his betrayal of Myrtilus. Canonical; one-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "testis erit magnis uirtutibus unda Scamandri, quae passim rapido diffunditur Hellesponto",
+   "question": "In quod fretum Scamander amnis diffunditur, ut Catullus canit?",
+   "answer": "In Hellespontum.",
+   "question_en": "Into what strait does the river Scamander pour, as Catullus sings?",
+   "answer_en": "Into the Hellespont.",
+   "derivation": "Trojan geography: the Scamander empties into the Hellespont — stated verbatim, and choked with corpses by Achilles in the prophecy. One-name answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "denique testis erit morti quoque reddita praeda, cum teres excelso coaceruatum aggere bustum excipiet niueos perculsae uirginis artus... alta Polyxenia madefient caede sepulcra",
+   "question": "Cuius virginis caede sepulcrum Achillis madefactum est, ut Parcae apud Catullum cecinerunt?",
+   "answer": "Polyxenae.",
+   "question_en": "By the slaughter of what maiden was the tomb of Achilles drenched, as the Fates sang in Catullus?",
+   "answer_en": "Of Polyxena.",
+   "derivation": "Polyxena sacrificed at Achilles' burial mound ('alta Polyxenia madefient caede sepulcra') — the canonical grim close of the Achilles saga. One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "praesentes namque ante domos inuisere castas heroum, et sese mortali ostendere coetu, caelicolae nondum spreta pietate solebant.",
+   "question": "Quid caelicolae facere solebant aetate heroum, nondum spreta pietate, ut Catullus canit?",
+   "answer": "Praesentes domos castas heroum invisere.",
+   "question_en": "What did the gods customarily do in the age of heroes, before piety was scorned, as Catullus sings?",
+   "answer_en": "They visited the chaste homes of heroes in person.",
+   "derivation": "The famous epilogue of c.64: in the pious heroic age the gods showed themselves bodily among mortals — the moral hinge of the poem, stated verbatim. Short answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 64",
+   "source_text": "saepe uagus Liber Parnasi uertice summo Thyiadas effusis euantis crinibus egit, cum Delphi tota certatim ex urbe ruentes acciperent laeti diuum fumantibus aris.",
+   "question": "In cuius montis vertice Liber Thyiadas euantis crinibus effusis egit, ut Catullus canit?",
+   "answer": "Parnasi.",
+   "question_en": "On the peak of what mountain did Liber drive the crying Thyiads with streaming hair, as Catullus sings?",
+   "answer_en": "Of Parnassus.",
+   "derivation": "The Bacchic revels of the Thyiads on Parnassus above Delphi, the whole city pouring out to receive the god — canonical cult geography. One-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 65",
+   "source_text": "namque mei nuper Lethaeo in gurgite fratris pallidulum manans alluit unda pedem, Troia Rhoeteo quem subter litore tellus ereptum nostris obterit ex oculis.",
+   "question": "Quo in litore frater Catulli mortuus sepultus iacet?",
+   "answer": "Sub Rhoeteo litore, in Troade.",
+   "question_en": "On what shore does Catullus' dead brother lie buried?",
+   "answer_en": "Under the Rhoetean shore, in the Troad.",
+   "derivation": "The burial place of Catullus' brother — Trojan earth by the Rhoetean promontory — the biographic fact behind cc.65, 68 and 101. Anchored to Catullus' frater; short place answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 65",
+   "source_text": "qualia sub densis ramorum concinit umbris Daulias, absumpti fata gemens Ityli",
+   "question": "Cuius absumpti fata Daulias ales sub umbris ramorum gemit apud Catullum?",
+   "answer": "Ityli.",
+   "question_en": "Whose destruction does the Daulian bird lament beneath the shady branches in Catullus?",
+   "answer_en": "Itylus'.",
+   "derivation": "The nightingale ('Daulias', from Daulis) eternally mourning her slain son Itylus — the shared Greek myth of the mother turned songbird. One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 65",
+   "source_text": "sed tamen in tantis maeroribus, Ortale, mitto haec expressa tibi carmina Battiadae",
+   "question": "Quis poeta Graecus 'Battiades' apud Catullum vocatur, cuius carmina expressa Ortalo mittuntur?",
+   "answer": "Callimachus.",
+   "question_en": "Which Greek poet is called 'the Battiad' in Catullus, whose translated verses are sent to Hortalus?",
+   "answer_en": "Callimachus.",
+   "derivation": "'Battiades' — son/descendant of Battus of Cyrene — is the standing name for Callimachus, whose Lock of Berenice Catullus translates as c.66. Shared literary knowledge; one-name answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "idem me ille Conon caelesti in limine uidit e Beroniceo uertice caesariem fulgentem clare",
+   "question": "Quis astronomus comam de vertice Berenices sectam inter sidera vidit, ut Catullus canit?",
+   "answer": "Conon.",
+   "question_en": "Which astronomer saw the lock cut from Berenice's head shining among the stars, as Catullus sings?",
+   "answer_en": "Conon.",
+   "derivation": "Conon of Samos, the court astronomer who identified the Coma Berenices constellation — the historical fact behind Callimachus' and Catullus' poem. One-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "atque ibi me cunctis pro dulci coniuge diuis non sine taurino sanguine pollicita es, si reditum tetulisset.",
+   "question": "Qua condicione Berenice regina comam suam cunctis divis pollicita est?",
+   "answer": "Si coniunx rex ex bello reditum tulisset.",
+   "question_en": "On what condition did Queen Berenice promise her lock of hair to all the gods?",
+   "answer_en": "If her husband the king returned safe from the war.",
+   "derivation": "Berenice's vow: the lock promised, with bull's blood, for her royal husband's safe return from the Assyrian campaign — the aition of the Coma Berenices. Anchored to Berenice; short answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "ille quoque euersus mons est, quem maximum in oris progenies Thiae clara superuehitur, cum Medi peperere nouum mare, cumque iuuentus per medium classi barbara nauit Athon.",
+   "question": "Quem montem Medi perfoderunt, ut classis barbara per medium navigaret, ut apud Catullum legitur?",
+   "answer": "Athon.",
+   "question_en": "What mountain did the Medes cut through so that their barbarian fleet sailed through its middle, as we read in Catullus?",
+   "answer_en": "Athos.",
+   "derivation": "Xerxes' canal through Mount Athos — 'the Medes made a new sea' — celebrated Persian-War history used as proof that iron conquers even mountains. One-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "Iuppiter, ut Chalybon omne genus pereat, et qui principio sub terra quaerere uenas institit ac ferri stringere duritiem!",
+   "question": "Quis populus primus venas sub terra quaerere ferrique duritiem stringere institit, ut Catullus tradit?",
+   "answer": "Chalybes.",
+   "question_en": "What people first set about seeking veins of metal underground and forging the hardness of iron, as Catullus relates?",
+   "answer_en": "The Chalybes.",
+   "derivation": "The Chalybes of Pontus as the proverbial inventors of iron-working — shared ancient ethnography, cursed by the lock for the shears that cut it. One-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "ut Triuiam furtim sub Latmia saxa relegans dulcis amor gyro deuocet aereo",
+   "question": "Sub quae saxa Trivia, dulci amore devocata, furtim descendere solet apud Catullum?",
+   "answer": "Sub Latmia saxa.",
+   "question_en": "Beneath what rocks does Trivia, called down by sweet love, steal away in Catullus?",
+   "answer_en": "Beneath the rocks of Latmus.",
+   "derivation": "The Moon (Trivia/Selene) drawn from her course to Mt. Latmus by love — the Endymion myth, whose sleeping shepherd is the canonical beloved the line assumes. Short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "ne solum in lumine caeli ex Ariadnaeis aurea temporibus fixa corona foret, sed nos quoque fulgeremus deuotae flaui uerticis exuuiae",
+   "question": "Cuius heroinae corona aurea in lumine caeli fixa fulget, ut Catullus canit?",
+   "answer": "Ariadnae.",
+   "question_en": "Whose golden crown shines fixed in the light of heaven, as Catullus sings?",
+   "answer_en": "Ariadne's.",
+   "derivation": "The catasterism of Ariadne's crown (the Corona Borealis) — 'ex Ariadnaeis aurea temporibus fixa corona' — the precedent the deified lock cites. One-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "Virginis et saeui contingens namque Leonis lumina, Callisto iuncta Lycaoniae, uertor in occasum, tardum dux ante Booten, qui uix sero alto mergitur Oceano.",
+   "question": "Quae sidera coma Berenices in caelo posita contingit, ut ipsa apud Catullum narrat?",
+   "answer": "Virginis et Leonis lumina, iuncta Callisto, ante Booten.",
+   "question_en": "What constellations does the Lock of Berenice touch in its place in the sky, as it tells in Catullus?",
+   "answer_en": "The lights of Virgo and Leo, next to Callisto (the Great Bear), ahead of Bootes.",
+   "derivation": "The actual celestial position of the Coma Berenices — between Virgo and Leo, by the Bear (Callisto of Lycaon's line), preceding slow-setting Bootes — real astronomy stated verbatim. Short list answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "nunc uos, optato quas iunxit lumine taeda, non prius unanimis corpora coniugibus tradite nudantes reiecta ueste papillas, quam iucunda mihi munera libet onyx, uester onyx, casto colitis quae iura cubili.",
+   "question": "Quid nuptae castae comae Berenices, sideri novo, ante concubium libare iubentur?",
+   "answer": "Unguenta ex onyche.",
+   "question_en": "What are chaste brides bidden to pour in offering to the Lock of Berenice, the new star, before the wedding night?",
+   "answer_en": "Perfumes from the onyx jar.",
+   "derivation": "The cult the deified lock claims for itself: brides of chaste unions must first offer unguent from the onyx flask — Ptolemaic-Roman bridal rite stated verbatim. Short answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 66",
+   "source_text": "pace tua fari hic liceat, Ramnusia uirgo, namque ego non ullo uera timore tegam",
+   "question": "Quae dea 'Ramnusia virgo' apud Catullum appellatur?",
+   "answer": "Nemesis.",
+   "question_en": "Which goddess is called 'the Rhamnusian maiden' in Catullus?",
+   "answer_en": "Nemesis.",
+   "derivation": "Nemesis of Rhamnus in Attica, site of her famous cult statue — 'Ramnusia uirgo' (so too in c.68) is her standing periphrasis, invoked before bold speech. One-name answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 67",
+   "source_text": "Brixia Cycneae supposita speculae, flauus quam molli praecurrit flumine Mella, Brixia Veronae mater amata meae",
+   "question": "Quod flumen flavum Brixiam molli cursu praeterfluit apud Catullum?",
+   "answer": "Mella.",
+   "question_en": "What yellow river flows gently past Brixia in Catullus?",
+   "answer_en": "The Mella.",
+   "derivation": "Transpadane geography: the river Mella at Brixia (Brescia), below the 'Cycnean height'. Named city and river; one-name answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 67",
+   "source_text": "Brixia Veronae mater amata meae",
+   "question": "Quae urbs 'Veronae mater amata' a Catullo appellatur?",
+   "answer": "Brixia.",
+   "question_en": "Which city is called by Catullus 'the beloved mother of Verona'?",
+   "answer_en": "Brixia.",
+   "derivation": "Brixia as mother-city of Catullus' Verona — a civic-genealogy fact of the Transpadane towns, stated verbatim. One-name answer.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "tempore quo primum uestis mihi tradita pura est, iucundum cum aetas florida uer ageret, multa satis lusi",
+   "question": "Quae vestis adulescenti Romano, ut Catullo, primum tradebatur, cum aetas florida ver ageret?",
+   "answer": "Vestis pura, toga virilis.",
+   "question_en": "What garment was first handed to a Roman youth, as to Catullus, when his blossoming years kept their spring?",
+   "answer_en": "The plain white toga — the toga of manhood.",
+   "derivation": "The coming-of-age rite: receiving the uestis pura (toga uirilis) marked the start of a young man's freedom — Catullus dates his first loves by it. Roman custom; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "Troia (nefas!) commune sepulcrum Asiae Europaeque, Troia uirum et uirtutum omnium acerba cinis",
+   "question": "Quid Catullus Troiam appellat, quarum terrarum sepulcrum?",
+   "answer": "Commune sepulcrum Asiae Europaeque.",
+   "question_en": "What does Catullus call Troy — the grave of which lands?",
+   "answer_en": "The common grave of Asia and Europe.",
+   "derivation": "The famous apostrophe: Troy as 'commune sepulcrum Asiae Europaeque', the bitter ash of all men and virtues — a quotable, checkable dictum. Short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "coniugis ut quondam flagrans aduenit amore Protesilaeam Laodamia domum inceptam frustra, nondum cum sanguine sacro hostia caelestis pacificasset eros.",
+   "question": "Cuius herois domum Laodamia, flagrans amore, coniunx advenit apud Catullum?",
+   "answer": "Protesilai.",
+   "question_en": "To which hero's house did Laodamia come as a bride, aflame with love, in Catullus?",
+   "answer_en": "To Protesilaus'.",
+   "derivation": "The canonical pair Laodamia and Protesilaus — the bridegroom fated to fall first at Troy, as the Parcae knew. Anchored by both names; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "Protesilaeam Laodamia domum inceptam frustra, nondum cum sanguine sacro hostia caelestis pacificasset eros. nil mihi tam ualde placeat, Ramnusia uirgo, quod temere inuitis suscipiatur eris.",
+   "question": "Quo omisso domus Protesilai 'incepta frustra' apud Catullum dicitur?",
+   "answer": "Sanguine sacro hostiae, nondum caelestibus dato.",
+   "question_en": "For the omission of what is the house of Protesilaus called 'begun in vain' in Catullus?",
+   "answer_en": "The sacred blood of a victim, not yet offered to the gods.",
+   "derivation": "The religious rule the story teaches: nothing begun without sacrifice and the gods' consent prospers ('quam ieiuna pium desiderat ara cruorem'). A stated, checkable rite-fact; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "nam tum Helenae raptu primores Argiuorum coeperat ad sese Troia ciere uiros",
+   "question": "Cuius feminae raptu Troia primores Argivorum ad sese civit, ut Catullus scribit?",
+   "answer": "Helenae.",
+   "question_en": "By the abduction of what woman did Troy begin to summon the chiefs of the Argives against herself, as Catullus writes?",
+   "answer_en": "Of Helen.",
+   "derivation": "The rape of Helen as the cause of the Trojan War — the most shared of Greek myth-facts, stated verbatim ('Helenae raptu'). One-name answer.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "quale ferunt Grai Pheneum prope Cylleneum siccare emulsa pingue palude solum, quod quondam caesis montis fodisse medullis audit falsiparens Amphitryoniades",
+   "question": "Quis barathrum, quo palus prope Pheneum Cylleneum siccatur, fodisse dicitur apud Catullum?",
+   "answer": "Hercules, falsiparens Amphitryoniades.",
+   "question_en": "Who is said in Catullus to have dug the chasm that drains the marsh near Pheneus by Mount Cyllene?",
+   "answer_en": "Hercules, the falsely-fathered son of Amphitryon.",
+   "derivation": "The Greek local legend ('ferunt Grai') that Heracles cut the katavothra draining the Pheneus plain in Arcadia — 'falsiparens Amphitryoniades' names him by his putative father. Short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "tempore quo certa Stymphalia monstra sagitta perculit imperio deterioris eri, pluribus ut caeli tereretur ianua diuis, Hebe nec longa uirginitate foret.",
+   "question": "Quae monstra Hercules certa sagitta perculit, imperio deterioris eri, ut Catullus canit?",
+   "answer": "Stymphalia.",
+   "question_en": "What monsters did Hercules strike down with his sure arrow, at the command of a lesser master, as Catullus sings?",
+   "answer_en": "The Stymphalian ones (the birds of Stymphalus).",
+   "derivation": "The labor of the Stymphalian birds, shot with arrows at Eurystheus' bidding ('deterioris eri' — the canonical lesser master). Shared myth; one-word answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "pluribus ut caeli tereretur ianua diuis, Hebe nec longa uirginitate foret.",
+   "question": "Quam deam Hercules, in caelum receptus, virginitate solvit atque uxorem duxit?",
+   "answer": "Heben.",
+   "question_en": "Which goddess did Hercules, received into heaven, release from maidenhood and take to wife?",
+   "answer_en": "Hebe.",
+   "derivation": "Hercules' apotheosis and marriage to Hebe — the reward of the labors ('Hebe nec longa uirginitate foret'). Canonical myth; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "quare illud satis est, si nobis is datur unis quem lapide illa dies candidiore notat.",
+   "question": "Quo lapide dies felicior notari solet, ut apud Catullum legitur?",
+   "answer": "Candidiore.",
+   "question_en": "With what kind of stone is a luckier day customarily marked, as we read in Catullus?",
+   "answer_en": "With a whiter one.",
+   "derivation": "The Roman custom of marking lucky days with a white pebble ('lapide... candidiore notat') — a proverbial practice attested across Latin literature. One-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 68",
+   "source_text": "hic, uelut in nigro iactatis turbine nautis lenius aspirans aura secunda uenit iam prece Pollucis, iam Castoris implorata",
+   "question": "Quibus deis precibus imploratis nautis turbine iactatis aura secunda venit, ut Catullus scribit?",
+   "answer": "Polluci et Castori.",
+   "question_en": "To which gods do sailors tossed in the storm address the prayers that bring the favoring breeze, as Catullus writes?",
+   "answer_en": "To Pollux and Castor.",
+   "derivation": "The Dioscuri as rescuers of storm-tossed sailors, invoked by name at sea — the practice itself (distinct from the votive dedication in c.4). Two-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 70",
+   "source_text": "dicit: sed mulier cupido quod dicit amanti, in uento et rapida scribere oportet aqua.",
+   "question": "Ubi scribi oportet quod mulier cupido amanti dicit, ut est in illo Catulli dicto?",
+   "answer": "In vento et rapida aqua.",
+   "question_en": "Where ought one to write what a woman says to her eager lover, according to Catullus' famous saying?",
+   "answer_en": "On the wind and on running water.",
+   "derivation": "The proverb of c.70: lovers' promises written on wind and water — quoted ever since as the emblem of unreliable vows. Short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 74",
+   "source_text": "hoc ne ipsi accideret, patrui perdepsuit ipsam uxorem, et patruum reddidit Arpocratem.",
+   "question": "Cuius dei nomine Catullus hominem ad silentium redactum significat, cum 'reddidit Arpocratem' dicit?",
+   "answer": "Harpocratis, dei silentii.",
+   "question_en": "By the name of what god does Catullus signify a man reduced to silence when he says he 'made him a Harpocrates'?",
+   "answer_en": "Harpocrates, the god of silence.",
+   "derivation": "Harpocrates, the Egyptian child-god shown with finger to lips, proverbial for enforced silence — evidence of the cult's currency at Rome (so too in c.102). The point is checkable and translatable.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 84",
+   "source_text": "CHOMMODA dicebat, si quando commoda uellet dicere, et insidias Arrius hinsidias... Ionios fluctus, postquam illuc Arrius isset, iam non Ionios esse sed Hionios.",
+   "question": "Quid Arrius verbis perperam addebat, cum 'chommoda' pro 'commoda' et 'hinsidias' pro 'insidias' diceret?",
+   "answer": "Aspirationem.",
+   "question_en": "What did Arrius wrongly add to his words when he said 'chommoda' for 'commoda' and 'hinsidias' for 'insidias'?",
+   "answer_en": "The aspirate (an added h-sound).",
+   "derivation": "Misplaced aspiration as a social marker of speech: Arrius' hypercorrect h's turned even the Ionian sea 'Hionian'. The fact — that aspiration betrayed one's class and schooling — is cultural and survives translation; the quoted examples carry the point.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 85",
+   "source_text": "ODI et amo. quare id faciam, fortasse requiris. nescio, sed fieri sentio et excrucior.",
+   "question": "Quid Catullus simul se facere sentit, nescius quare, in celeberrimo suo disticho?",
+   "answer": "Odit et amat.",
+   "question_en": "What does Catullus feel himself doing at once, not knowing why, in his most famous couplet?",
+   "answer_en": "He hates and he loves.",
+   "derivation": "'Odi et amo' — the most famous distich in Latin, proverbial for the torment of contradictory passion. Anchored to Catullus; two-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 90",
+   "source_text": "nam magus ex matre et gnato gignatur oportet, si uera est Persarum impia religio",
+   "question": "Ex quo coniugio magus apud Persas gigni oportet, si vera est eorum religio, ut Catullus refert?",
+   "answer": "Ex matre et gnato.",
+   "question_en": "From what union must a magus be born among the Persians, if their religion is true, as Catullus reports?",
+   "answer_en": "From a mother and her son.",
+   "derivation": "The Greco-Roman ethnographic claim (also in Xanthus and Strabo) that Persian magi sprang from mother-son unions — 'Persarum impia religio'. Anchored to the Persians and their magi; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 90",
+   "source_text": "gratus ut accepto ueneretur carmine diuos omentum in flamma pingue liquefaciens.",
+   "question": "Quid magus Persarum in flamma liquefacit, dum divos carmine veneratur, ut Catullus scribit?",
+   "answer": "Omentum pingue.",
+   "question_en": "What does the Persian magus melt in the flame while venerating the gods with chant, as Catullus writes?",
+   "answer_en": "The rich caul-fat.",
+   "derivation": "Magian ritual as Romans understood it: the fatty omentum melted in the sacrificial flame while hymns are chanted. Ethnographic rite-fact stated verbatim; short answer.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 93",
+   "source_text": "NIL nimium studeo, Caesar, tibi uelle placere, nec scire utrum sis albus an ater homo.",
+   "question": "Quid Catullus de Caesare scire se non curare profitetur?",
+   "answer": "Utrum albus an ater homo sit.",
+   "question_en": "What does Catullus profess not to care to know about Caesar?",
+   "answer_en": "Whether he is a white man or a black one.",
+   "derivation": "The proverbial idiom 'albus an ater' — not to know whether a man is white or black = to care nothing for him — hurled at Caesar himself. Anchored to Caesar + Catullus; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Carmina 95",
+   "source_text": "ZMYRNA mei Cinnae nonam post denique messem quam coepta est nonamque edita post hiemem, milia cum interea quingenta Hortensius uno",
+   "question": "Post quot messes et hiemes Zmyrna Cinnae poetae denique edita est?",
+   "answer": "Post nonam messem nonamque hiemem.",
+   "question_en": "After how many harvests and winters was the Zmyrna of the poet Cinna finally published?",
+   "answer_en": "After the ninth harvest and the ninth winter (nine years).",
+   "derivation": "The nine-year gestation of Cinna's Zmyrna — the neoteric ideal of slow perfection, set against Hortensius' five hundred thousand verses in one span. Number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 95",
+   "source_text": "at Volusi annales Paduam morientur ad ipsam et laxas scombris saepe dabunt tunicas.",
+   "question": "Quibus piscibus annales Volusi laxas tunicas dabunt, ut Catullus praedicit?",
+   "answer": "Scombris.",
+   "question_en": "To what fish will the Annals of Volusius furnish loose wrappers, as Catullus predicts?",
+   "answer_en": "To mackerel.",
+   "derivation": "The fate of bad books: waste paper for wrapping fish ('laxas scombris... tunicas') — a judgment that became proverbial (cf. Martial). Anchored to Volusius' Annales; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 95",
+   "source_text": "Zmyrna cauas Satrachi penitus mittetur ad undas, Zmyrnam cana diu saecula peruoluent.",
+   "question": "Ad cuius fluminis cavas undas Zmyrna Cinnae penitus mittetur, ut Catullus vaticinatur?",
+   "answer": "Satrachi.",
+   "question_en": "To the deep waters of what river will Cinna's Zmyrna travel, as Catullus prophesies?",
+   "answer_en": "Of the Satrachus.",
+   "derivation": "The Satrachus in Cyprus — the river of the Zmyrna/Adonis story, where the learned poem will be read for grey centuries. Anchored to the named poem; one-name answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Catullus, Carmina 95b",
+   "source_text": "PARVA mei mihi sint cordi monimenta ..., at populus tumido gaudeat Antimacho.",
+   "question": "Quo epitheto Antimachus poeta apud Catullum notatur, quo populus gaudeat?",
+   "answer": "Tumido.",
+   "question_en": "With what epithet is the poet Antimachus branded in Catullus, in whom the crowd may take its pleasure?",
+   "answer_en": "Swollen (turgid).",
+   "derivation": "The Callimachean verdict on Antimachus of Colophon — 'tumidus', the byword for bloated epic against the small polished poem. Literary-culture judgment; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 96",
+   "source_text": "certe non tanto mors immatura dolori est Quintiliae, quantum gaudet amore tuo.",
+   "question": "Cuius feminae mortem immaturam Calvus, Catulli sodalis, luxit?",
+   "answer": "Quintiliae.",
+   "question_en": "The untimely death of what woman did Calvus, Catullus' companion, mourn?",
+   "answer_en": "Quintilia's.",
+   "derivation": "Quintilia, Calvus' beloved (his elegies on her were famous), consoled by Catullus in c.96. Anchored to Calvus; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 101",
+   "source_text": "MVLTAS per gentes et multa per aequora uectus aduenio has miseras, frater, ad inferias, ut te postremo donarem munere mortis et mutam nequiquam alloquerer cinerem.",
+   "question": "Quo modo vectus Catullus ad inferias fratris sui pervenit?",
+   "answer": "Multas per gentes et multa per aequora.",
+   "question_en": "By what journey did Catullus come to his brother's funeral rites?",
+   "answer_en": "Borne through many peoples and over many seas.",
+   "derivation": "The famous opening of c.101: the long journey over lands and seas to the brother's grave in the Troad — the most quoted funerary lines in Latin. Anchored to Catullus + frater; short answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 101",
+   "source_text": "nunc tamen interea haec, prisco quae more parentum tradita sunt tristi munere ad inferias, accipe fraterno multum manantia fletu",
+   "question": "Quo more inferiae ad sepulcrum fratris Catulli traditae sunt?",
+   "answer": "Prisco more parentum.",
+   "question_en": "By what custom were the funeral offerings presented at the grave of Catullus' brother?",
+   "answer_en": "By the ancient custom of the ancestors.",
+   "derivation": "The inferiae — the offerings owed to the dead — handed down 'prisco more parentum': Roman funerary religion at its most explicit. Anchored to the rite by name; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Carmina 101",
+   "source_text": "atque in perpetuum, frater, aue atque uale.",
+   "question": "Quibus verbis Catullus fratrem mortuum in perpetuum salutat?",
+   "answer": "'Ave atque vale.'",
+   "question_en": "With what words does Catullus salute his dead brother forever?",
+   "answer_en": "'Hail and farewell.'",
+   "derivation": "'Ave atque vale' — the canonical Roman farewell to the dead, closing c.101 'in perpetuum'; the phrase became the epitome of Latin funerary address. Short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 101",
+   "source_text": "aduenio has miseras, frater, ad inferias, ut te postremo donarem munere mortis et mutam nequiquam alloquerer cinerem.",
+   "question": "Quid Catullus ad sepulcrum fratris nequiquam alloquitur?",
+   "answer": "Mutam cinerem.",
+   "question_en": "What does Catullus address in vain at his brother's tomb?",
+   "answer_en": "The mute ash.",
+   "derivation": "The dead as 'muta cinis' — the cremated remains that cannot answer — evidencing Roman cremation and the pathos of address to the ash. Anchored to the brother's grave; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 105",
+   "source_text": "MENTVLA conatur Pipleium scandere montem: Musae furcillis praecipitem eiciunt.",
+   "question": "Quibus numinibus sacer est mons Pipleius, quem poetaster apud Catullum scandere frustra conatur?",
+   "answer": "Musis.",
+   "question_en": "To what divinities is the Piplean mount sacred, which the would-be poet in Catullus tries in vain to climb?",
+   "answer_en": "To the Muses.",
+   "derivation": "Pipla/Pimpleia in Pieria as the Muses' own mountain — climbing it stands for writing poetry, and the Muses pitchfork the intruder off. Shared literary geography; one-word answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Catullus, Carmina 111",
+   "source_text": "AVFILENA, uiro contentam uiuere solo, nuptarum laus ex laudibus eximiis",
+   "question": "Quae laus nuptarum ex laudibus eximia est, ut Catullus scribit?",
+   "answer": "Viro contentam vivere solo.",
+   "question_en": "What is the choicest praise of married women, as Catullus writes?",
+   "answer_en": "To live content with one husband alone.",
+   "derivation": "The univira ideal — the one-husband woman as the crown of wifely praise — a central Roman value (cf. epitaphs' 'uni nupta'). Stated verbatim; short answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Catullus, Carmina 113",
+   "source_text": "CONSVLE Pompeio primum duo, Cinna, solebant Maeciliam: facto consule nunc iterum manserunt duo, sed creuerunt milia in unum singula.",
+   "question": "Quotiens Pompeius consul factus erat, cum Catullus carmen de Maecilia ad Cinnam scripsit?",
+   "answer": "Iterum, bis.",
+   "question_en": "How many times had Pompey been made consul when Catullus wrote his poem about Maecilia to Cinna?",
+   "answer_en": "A second time — twice.",
+   "derivation": "Dating by consulship: the epigram spans from Pompey's first consulship to 'facto consule nunc iterum' (his second, 55 BC). Pompey's two consulships are the checkable fact; anchored by name.",
+   "category": "historia"
+  },
+  {
+   "locus": "Catullus, Carmina 115",
+   "source_text": "cur non diuitiis Croesum superare potis sit, uno qui in saltu tot bona possideat",
+   "question": "Quis rex apud Catullum, ut in proverbio, divitiarum summarum exemplum est?",
+   "answer": "Croesus.",
+   "question_en": "Which king stands in Catullus, proverbially, as the exemplar of supreme wealth?",
+   "answer_en": "Croesus.",
+   "derivation": "Croesus of Lydia as the byword for riches ('diuitiis Croesum superare') — the shared proverb of wealth. One-name answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Catullus, Fragmenta 1",
+   "source_text": "Hunc lucum tibi dedico consecroque, Priape, qua domus tua Lampsaci est quaque ... Priape. nam te praecipue in suis urbibus colit ora Hellespontia, ceteris ostriosior oris.",
+   "question": "In qua urbe Hellespontia domus Priapi esse dicitur apud Catullum?",
+   "answer": "Lampsaci.",
+   "question_en": "In what city on the Hellespont is the home of Priapus said to be, according to Catullus?",
+   "answer_en": "At Lampsacus.",
+   "derivation": "Lampsacus as the canonical cult-home of Priapus, whom the Hellespontine coast worships above all — shared religious geography. One-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Catullus, Fragmenta 1",
+   "source_text": "nam te praecipue in suis urbibus colit ora Hellespontia, ceteris ostriosior oris.",
+   "question": "Quae ora, Priapum praecipue colens, ceteris oris ostriosior est, ut Catullus canit?",
+   "answer": "Hellespontia.",
+   "question_en": "What coast, the chief worshipper of Priapus, is richer in oysters than all other shores, as Catullus sings?",
+   "answer_en": "The Hellespontine coast.",
+   "derivation": "The oyster-beds of the Hellespont ('ostriosior') — a food-geography fact of the ancient table, fixed in the epithet. One-word answer verbatim.",
+   "category": "cibus"
+  }
+ ]}
