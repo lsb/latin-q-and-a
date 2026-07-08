@@ -1,0 +1,407 @@
+{
+ "source": "text/plautus/poenulus.txt",
+ "author": "Plautus",
+ "work": "Poenulus",
+ "pairs": [
+  {
+   "locus": "Plautus, Poenulus prol. 64-67",
+   "source_text": "sed illi seni qui mortuost, ei filius, unicus qui fuerat, ab divitiis a patre puer septuennis surripitur Carthagine, sexennio prius quidem quam moritur pater.",
+   "question": "Quot annos natus erat Agorastocles cum Carthagine surriperetur, ut prologus Poenuli Plauti narrat?",
+   "answer": "Septem: puer septuennis erat.",
+   "question_en": "How old was Agorastocles when he was kidnapped at Carthage, as the prologue of Plautus' Poenulus recounts?",
+   "answer_en": "Seven: he was a seven-year-old boy.",
+   "derivation": "The backstory of the Poenulus: the only son of a rich Carthaginian is stolen at age seven (septuennis) at Carthage and grows up to be Agorastocles. Anchored to Agorastocles + the named play; single-number answer supported verbatim (puer septuennis).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 64-67",
+   "source_text": "puer septuennis surripitur Carthagine, sexennio prius quidem quam moritur pater.",
+   "question": "In qua urbe Agorastocles puer surreptus est apud Plautum in Poenulo?",
+   "answer": "Carthagine.",
+   "question_en": "In which city was the boy Agorastocles kidnapped in Plautus' Poenulus?",
+   "answer_en": "At Carthage.",
+   "derivation": "The Carthaginian theme that gives the play its name: the kidnapped boy is stolen from Carthage. Anchored to Agorastocles + the play; one-place answer supported verbatim (surripitur Carthagine).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 53",
+   "source_text": "Carchedonius vocatur haec comoedia,",
+   "question": "Quo nomine Graeco appellatur ea comoedia Plauti quam Poenulum dicimus, ut prologus ipse tradit?",
+   "answer": "Carchedonius.",
+   "question_en": "By what Greek name is the comedy of Plautus which we call Poenulus known, as the prologue itself states?",
+   "answer_en": "Carchedonius ('The Carthaginian').",
+   "derivation": "The prologue names the play's Greek original, Carchedonius ('the Carthaginian'), whence the Latin Poenulus ('the little Carthaginian'). A canonical literature-fact; anchored to the named play; one-word answer supported verbatim (Carchedonius vocatur haec comoedia).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 104-105",
+   "source_text": "Sed pater illarum Poenus, postquam eas perdidit, mari terraque usquequaque quaeritat.",
+   "question": "Cuius gentis est Hanno, pater puellarum, qui in Poenulo Plauti filias suas per terras et maria quaerit?",
+   "answer": "Poenus, id est Carthaginiensis.",
+   "question_en": "Of what people is Hanno, the father of the girls, who searches land and sea for his daughters in Plautus' Poenulus?",
+   "answer_en": "A Carthaginian (Poenus).",
+   "derivation": "The play's central figure and title is the Carthaginian (Poenus) Hanno, father searching for his lost daughters. Anchored to Hanno + the play; the ethnicity is stated verbatim (pater illarum Poenus). This is the cultural fact on which the play's fame rests.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 72-73",
+   "source_text": "ille qui surripuit puerum Calydonem avehit, vendit eum domino hic diviti quoidam seni, cupienti liberorum, osori mulierum.",
+   "question": "In qua urbe fabula Plauti Poenulus agitur, quo puer surreptus avehitur?",
+   "answer": "Calydone.",
+   "question_en": "In which city is Plautus' Poenulus set, to which the kidnapped boy is carried off?",
+   "answer_en": "In Calydon.",
+   "derivation": "The setting of the play: the kidnapper carries the boy to Calydon, where he is sold and the whole action unfolds. Anchored to the play; one-place answer supported verbatim (Calydonem avehit).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 90-92",
+   "source_text": "vosmet nunc facite coniecturam ceterum, quid id sit hominis, cui Lyco nomen siet.",
+   "question": "Quod nomen habet leno qui in Poenulo Plauti Hannonis filias emit et retinet?",
+   "answer": "Lycus.",
+   "question_en": "What is the name of the pimp who buys and keeps Hanno's daughters in Plautus' Poenulus?",
+   "answer_en": "Lycus.",
+   "derivation": "The antagonist leno is named Lycus. Anchored to the play + his role; one-name answer supported verbatim (cui Lyco nomen siet).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 83-86",
+   "source_text": "Sed illi patruo huius, qui vivit senex, Carthaginiensi duae fuere filiae, altera quinquennis, altera quadrimula: cum nutrice una periere a Magaribus.",
+   "question": "Quot filias suas Hanno Poenus per terras maria quaerit in Poenulo Plauti?",
+   "answer": "Duas.",
+   "question_en": "How many of his own daughters does the Carthaginian Hanno search for across land and sea in Plautus' Poenulus?",
+   "answer_en": "Two.",
+   "derivation": "The Carthaginian had two daughters (one five, one four) lost with their nurse; the search for the two is the play's engine. Anchored to Hanno + the play; single-number answer supported verbatim (duae fuere filiae).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 112-113",
+   "source_text": "et is omnis linguas scit, sed dissimulat sciens se scire: Poenus plane est.",
+   "question": "Quot linguas Hanno Poenus scire dicitur in prologo Poenuli Plauti?",
+   "answer": "Omnes.",
+   "question_en": "How many languages is the Carthaginian Hanno said to know in the prologue of Plautus' Poenulus?",
+   "answer_en": "All of them.",
+   "derivation": "The Carthaginian stereotype of the polyglot: Hanno knows every language but hides that he knows. Anchored to Hanno + the play; the point is stated verbatim (et is omnis linguas scit). Culturally salient ethnic characterization of the Poenus.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 114-115",
+   "source_text": "Is heri huc in portum navi venit vesperi, pater harunc; idem huic patruos adulescentulo est.",
+   "question": "Quo gradu cognationis Hanno Poenus adulescenti Agorastocli coniunctus est in Poenulo Plauti?",
+   "answer": "Patruus eius est.",
+   "question_en": "By what degree of kinship is the Carthaginian Hanno related to the young man Agorastocles in Plautus' Poenulus?",
+   "answer_en": "He is his paternal uncle.",
+   "derivation": "The recognition plot turns on Hanno being Agorastocles' paternal uncle (patruus): Agorastocles is Hanno's brother's son. Anchored to both named characters + the play; short answer supported verbatim (idem huic patruos adulescentulo est).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 190-191",
+   "source_text": "Ego in aedem Veneris eo, nisi quid vis, Milphio. Aphrodisia hodie sunt.",
+   "question": "Cuius deae festum, quod Aphrodisia vocatur, eo die quo Poenulus Plauti agitur celebratur?",
+   "answer": "Veneris.",
+   "question_en": "Of which goddess is the festival called the Aphrodisia, celebrated on the day on which Plautus' Poenulus is set?",
+   "answer_en": "Of Venus.",
+   "derivation": "The action falls on the day of the Aphrodisia, the festival of Venus (Aphrodite), when Agorastocles goes to her temple. Anchored to the named festival + the play; short answer supported verbatim (in aedem Veneris... Aphrodisia hodie sunt).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 1-2",
+   "source_text": "Achillem Aristarchi mihi commentari lubet: inde mihi principium capiam, ex ea tragoedia.",
+   "question": "Ex cuius poetae tragoedia, cui nomen Achilles, prologus Poenuli Plauti initium sumit?",
+   "answer": "Aristarchi.",
+   "question_en": "From which poet's tragedy, named Achilles, does the prologue of Plautus' Poenulus take its opening?",
+   "answer_en": "From Aristarchus'.",
+   "derivation": "The prologue opens by quoting the tragedy Achilles of Aristarchus (of Tegea). Anchored to the named tragedy + the play; one-name answer supported verbatim (Achillem Aristarchi). Culturally salient bit of Roman theatrical literacy.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 17-18",
+   "source_text": "scortum exoletum ne quis in proscaenio sedeat, neu lictor verbum aut virgae muttiant,",
+   "question": "Quod genus hominum prologus Poenuli Plauti vetat in proscaenio sedere dum fabula agitur?",
+   "answer": "Scortum exoletum (meretricem exoletam).",
+   "question_en": "What sort of person does the prologue of Plautus' Poenulus forbid to sit on the stage while the play is performed?",
+   "answer_en": "A worn-out harlot.",
+   "derivation": "From the famous audience-behavior edict of the Poenulus prologue, a key document of Roman theater-going: worn-out prostitutes must not sit on the proscaenium. Anchored to the play's prologue; short answer supported verbatim (scortum exoletum ne quis in proscaenio sedeat).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 18",
+   "source_text": "neu lictor verbum aut virgae muttiant,",
+   "question": "Quem apparitorem prologus Poenuli Plauti iubet neque verbo neque virgis strepere dum histrio agit?",
+   "answer": "Lictorem.",
+   "question_en": "Which attendant does the prologue of Plautus' Poenulus order to make no noise with word or rods while the actor performs?",
+   "answer_en": "The lictor.",
+   "derivation": "From the audience-behavior edict: the lictor must not clatter with word or rods. Anchored to the play's prologue; one-word answer supported verbatim (neu lictor verbum aut virgae muttiant). Roman theatrical realia.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 19-20",
+   "source_text": "neu dissignator praeter os obambulet neu sessum ducat, dum histrio in scaena siet.",
+   "question": "Quis theatri minister, secundum prologum Poenuli Plauti, non debet spectatoribus ante ora obambulare neque eos ad sedem ducere dum histrio in scaena est?",
+   "answer": "Dissignator.",
+   "question_en": "Which theater official, according to the prologue of Plautus' Poenulus, must not walk in front of the spectators' faces nor lead them to their seats while an actor is on stage?",
+   "answer_en": "The usher (dissignator).",
+   "derivation": "From the audience-behavior edict: the usher (dissignator) must not block views or seat people mid-scene. Anchored to the prologue; one-word answer supported verbatim (dissignator). Names a Roman theater office.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 23-24",
+   "source_text": "servi ne obsideant, liberis ut sit locus, vel aes pro capite dent;",
+   "question": "Quid dare iubentur servi qui in theatro loca occupare volunt, ne liberis locus desit, in prologo Poenuli Plauti?",
+   "answer": "Aes pro capite.",
+   "question_en": "What are slaves who wish to occupy seats in the theater ordered to pay, lest there be no room for the free, in the prologue of Plautus' Poenulus?",
+   "answer_en": "Money for their place (aes pro capite).",
+   "derivation": "From the audience-behavior edict: slaves must yield seats to free men or pay a fee for their place. Anchored to the prologue; short answer supported verbatim (vel aes pro capite dent). Roman theater social order.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 28-29",
+   "source_text": "nutrices pueros infantis minutulos domi ut procurent neu quae spectatum adferat,",
+   "question": "Quid facere iubentur nutrices cum infantibus, secundum prologum Poenuli Plauti?",
+   "answer": "Domi eos procurare, neque ad spectaculum adferre.",
+   "question_en": "What are nurses ordered to do with infants, according to the prologue of Plautus' Poenulus?",
+   "answer_en": "Keep them at home and not bring them to the show.",
+   "derivation": "From the audience-behavior edict: nurses must keep tiny infants at home and bring none to the theater. Anchored to the prologue; short answer supported verbatim (domi ut procurent neu quae spectatum adferat). A famous line of Roman theatergoing custom.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 32",
+   "source_text": "matronae tacitae spectent, tacitae rideant,",
+   "question": "Quomodo spectare et ridere iubentur matronae in prologo Poenuli Plauti?",
+   "answer": "Tacitae.",
+   "question_en": "In what manner are married women ordered to watch and to laugh in the prologue of Plautus' Poenulus?",
+   "answer_en": "Silently.",
+   "derivation": "From the audience-behavior edict: matrons should watch and laugh in silence. Anchored to the prologue; one-word answer supported verbatim (matronae tacitae spectent, tacitae rideant). Roman theater decorum.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus prol. 36-38",
+   "source_text": "Quodque ad ludorum curatores attinet, ne palma detur quoiquam artifici iniuria neve ambitionis causa extrudantur foras,",
+   "question": "Quod praemium ludorum curatores nulli artifici per iniuriam dare debent, ut prologus Poenuli Plauti monet?",
+   "answer": "Palmam.",
+   "question_en": "What prize must the overseers of the games give to no performer unjustly, as the prologue of Plautus' Poenulus warns?",
+   "answer_en": "The palm (the victor's prize).",
+   "derivation": "From the prologue's edict addressed to the ludorum curatores: the palma (prize for the winning company) must not be awarded unfairly. Anchored to the prologue + the named officials; one-word answer supported verbatim (ne palma detur quoiquam artifici iniuria). Realia of dramatic contests.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 165-166",
+   "source_text": "sunt tibi intus aurei trecenti nummi Philippi? AGOR. Sescenti quoque. MIL. Satis sunt trecenti.",
+   "question": "Quot nummos aureos Philippos Milphio ad lenonem Lycum decipiendum sufficere dicit in Poenulo Plauti?",
+   "answer": "Trecentos.",
+   "question_en": "How many Philippic gold coins does Milphio say suffice to deceive the pimp Lycus in Plautus' Poenulus?",
+   "answer_en": "Three hundred.",
+   "derivation": "Milphio's trick needs three hundred Philippic gold coins (nummi Philippi, the standard gold stater in Plautus). Anchored to Milphio + the play; single-number answer supported verbatim (Satis sunt trecenti). Currency realia.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Poenulus 183-185",
+   "source_text": "quid tu dubitas, quin extempulo dupli tibi auri et hominis fur leno siet?",
+   "question": "Cuius multae obnoxius fit fur secundum ius quod Milphio in Poenulo Plauti lenoni intendit?",
+   "answer": "Dupli.",
+   "question_en": "To what penalty does a thief become liable, under the law Milphio invokes against the pimp in Plautus' Poenulus?",
+   "answer_en": "Double (twofold restitution).",
+   "derivation": "The scheme makes Lycus a thief liable for double (dupli) the gold and the man. Anchored to the plot's legal mechanism; short answer supported verbatim (dupli tibi auri et hominis fur leno siet). Roman law of furtum nec manifestum (double damages).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Poenulus 185-186",
+   "source_text": "neque id unde efficiat habet: ubi in ius venerit, addicet praetor familiam totam tibi.",
+   "question": "Quis magistratus lenonem Lycum cum tota familia Agorastocli addicturus est, secundum consilium in Poenulo Plauti?",
+   "answer": "Praetor.",
+   "question_en": "Which magistrate will adjudge the pimp Lycus with his whole household to Agorastocles, according to the scheme in Plautus' Poenulus?",
+   "answer_en": "The praetor.",
+   "derivation": "Roman legal procedure dropped into the plot: unable to pay double, the leno will be handed over by the praetor's addictio to Agorastocles. Anchored to the play's scheme; one-word answer supported verbatim (addicet praetor familiam totam tibi). Realia of the praetor's court.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Poenulus 443-444",
+   "source_text": "nam isti quidem hercle orationi Oedipo opust coniectore, qui Sphingi interpres fuit.",
+   "question": "Cuius monstri aenigma Oedipus solvit, ut Milphio in Poenulo Plauti memorat?",
+   "answer": "Sphingis.",
+   "question_en": "Whose riddle did Oedipus solve, as Milphio recalls in Plautus' Poenulus?",
+   "answer_en": "The Sphinx's.",
+   "derivation": "A myth-as-shared-story reference: Oedipus was the interpreter of the Sphinx's riddle. Anchored to Oedipus + the play; one-name answer supported verbatim (Oedipo... qui Sphingi interpres fuit). Canonical Greek myth carried by any well-read reader.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Poenulus 415-416",
+   "source_text": "Trecentos Philippos Collybisco vilico dedi dudum, prius quam me evocavisti foras.",
+   "question": "Cui servo Agorastocles trecentos Philippos ad fallaciam gerendam tradidit in Poenulo Plauti?",
+   "answer": "Collybisco vilico.",
+   "question_en": "To which slave did Agorastocles give the three hundred Philippic coins to carry out the trick in Plautus' Poenulus?",
+   "answer_en": "To his farm-overseer Collybiscus.",
+   "derivation": "The gold for the trick is entrusted to the vilicus Collybiscus, who plays the foreigner. Anchored to Agorastocles + the play; name-plus-role answer supported verbatim (Trecentos Philippos Collybisco vilico dedi).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 471-473",
+   "source_text": "de illa pugna Pentetronica, quom sexaginta milia hominum uno die volaticorum manibus occidi meis.",
+   "question": "Quot milia hominum volaticorum uno die miles Antamonides in Poenulo Plauti se occidisse gloriatur?",
+   "answer": "Sexaginta milia.",
+   "question_en": "How many thousand flying men does the soldier Antamonides in Plautus' Poenulus boast of having killed in a single day?",
+   "answer_en": "Sixty thousand.",
+   "derivation": "The stock miles gloriosus boast: Antamonides claims to have slain sixty thousand winged men in one day. Anchored to Antamonides + the play; single-number answer supported verbatim (sexaginta milia hominum uno die volaticorum). The braggart soldier is a culturally salient comic type.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 699-701",
+   "source_text": "Vbi tu Leucadio, Lesbio, Thasio, Chio, vetustate vino edentulo aetatem inriges;",
+   "question": "Quae quattuor vina Lycus leno hospiti advenienti in Poenulo Plauti pollicetur?",
+   "answer": "Leucadium, Lesbium, Thasium, Chium.",
+   "question_en": "Which four wines does the pimp Lycus promise the newly arrived guest in Plautus' Poenulus?",
+   "answer_en": "Leucadian, Lesbian, Thasian, and Chian.",
+   "derivation": "Named luxury Greek wines offered as hospitality: Leucadian, Lesbian, Thasian, Chian, all aged (vino edentulo). Anchored to Lycus + the play; the four appellations are listed verbatim. Culturally salient realia of prized vintages.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Poenulus 896-898",
+   "source_text": "Quia illas emit in Anactorio parvolas de praedone Siculo. MIL. Quanti? SYNC. Duodeviginti minis, duas illas et Giddenenem nutricem earum tertiam.",
+   "question": "Quot minis leno Lycus duas sorores et nutricem earum in Anactorio emit, ut Syncerastus in Poenulo Plauti narrat?",
+   "answer": "Duodeviginti minis.",
+   "question_en": "For how many minae did the pimp Lycus buy the two sisters and their nurse at Anactorium, as Syncerastus recounts in Plautus' Poenulus?",
+   "answer_en": "For eighteen minae.",
+   "derivation": "The purchase price: eighteen minae for the two girls plus their nurse, bought as little children at Anactorium from a Sicilian kidnapper. Anchored to Lycus + the play; single-number answer supported verbatim (Duodeviginti minis). Currency realia.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Poenulus 898",
+   "source_text": "Duodeviginti minis, duas illas et Giddenenem nutricem earum tertiam.",
+   "question": "Quod nomen habet nutrix duarum sororum Carthaginiensium in Poenulo Plauti?",
+   "answer": "Giddenis.",
+   "question_en": "What is the name of the nurse of the two Carthaginian sisters in Plautus' Poenulus?",
+   "answer_en": "Giddenis.",
+   "derivation": "The nurse sold with the girls is named Giddenis; she too is recognized at the reunion. Anchored to the sisters + the play; one-name answer supported verbatim (Giddenenem nutricem earum).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 899-901",
+   "source_text": "et ille qui eas vendebat dixit se furtivas vendere: ingenuas Carthagine aibat esse.",
+   "question": "Cuius condicionis re vera sunt Adelphasium et Anterastilis, quas Lycus leno pro meretricibus habet in Poenulo Plauti?",
+   "answer": "Ingenuae, Carthagine natae.",
+   "question_en": "What is the true legal status of Adelphasium and Anterastilis, whom the pimp Lycus keeps as courtesans in Plautus' Poenulus?",
+   "answer_en": "Freeborn, born at Carthage.",
+   "derivation": "The legal crux of the play: the two sisters are freeborn (ingenuae) Carthaginians whom the leno holds illegally. Anchored to the named sisters + the play; status answer supported verbatim (ingenuas Carthagine aibat esse). The leno's holding of freeborn persons is a Roman ius offense.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Poenulus 905-906",
+   "source_text": "Omnia memoras quo id facilius fiat: manu eas adserat suas popularis liberali causa.",
+   "question": "Qua iuris actione Agorastocles suas populares Carthaginienses in libertatem vindicare debet, ut Milphio in Poenulo Plauti suadet?",
+   "answer": "Liberali causa, manu eas adserendo.",
+   "question_en": "By what legal action should Agorastocles claim his Carthaginian countrywomen into freedom, as Milphio urges in Plautus' Poenulus?",
+   "answer_en": "By a suit for freedom (causa liberalis), asserting them by the hand.",
+   "derivation": "The Roman remedy for a freeborn person held in slavery: the causa liberalis, the vindicatio in libertatem (manu adserere liberali causa). Anchored to Agorastocles + the play; the procedure is named verbatim (manu eas adserat... liberali causa). Legal realia.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Poenulus 982-984",
+   "source_text": "Adibo hosce atque appellabo Punice. si respondebunt, Punice pergam loqui; si non, tum ad horum mores linguam vertero.",
+   "question": "Qua lingua Hanno Poenus in Poenulo Plauti loqui incipit, cum in scaenam venit et homines alloquitur?",
+   "answer": "Punice.",
+   "question_en": "In what language does the Carthaginian Hanno begin to speak in Plautus' Poenulus, when he comes on stage and addresses the men?",
+   "answer_en": "In Punic.",
+   "derivation": "The famous fact that Plautus put real Punic on the Roman stage: Hanno enters and speaks Punic (the longest surviving Punic text in literature). Anchored to Hanno + the play; one-word answer supported verbatim (appellabo Punice... Punice pergam loqui). Translatable as a fact about which language, not about the Punic words themselves.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 955-957",
+   "source_text": "sed hic mihi antehac hospes Antidamas fuit; eum fecisse aiunt, sibi quod faciundum fuit. eius filium esse hic praedicant Agorastoclem.",
+   "question": "Quod nomen habet ille Calydonius hospes Hannonis qui Agorastoclem adoptavit, in Poenulo Plauti?",
+   "answer": "Antidamas.",
+   "question_en": "What is the name of the Calydonian guest-friend of Hanno who adopted Agorastocles, in Plautus' Poenulus?",
+   "answer_en": "Antidamas.",
+   "derivation": "The adoptive father of Agorastocles, and Hanno's guest-friend, is named Antidamas. Anchored to Hanno + Agorastocles + the play; one-name answer supported verbatim (hospes Antidamas fuit... eius filium... Agorastoclem).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 958",
+   "source_text": "ad eum hospitalem hanc tesseram mecum fero;",
+   "question": "Quod signum hospitii Hanno secum fert ut Agorastoclem in Poenulo Plauti cognoscat?",
+   "answer": "Tesseram hospitalem.",
+   "question_en": "What token of guest-friendship does Hanno carry with him to be recognized by Agorastocles in Plautus' Poenulus?",
+   "answer_en": "A guest-token (tessera hospitalis).",
+   "derivation": "The recognition turns on the tessera hospitalis, the token of hospitium matched between guest-friends. Anchored to Hanno + the play; short answer supported verbatim (hospitalem hanc tesseram mecum fero). Culturally salient custom of Roman hospitium.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Poenulus 981",
+   "source_text": "AGOR. Quid iam? MIL. Quia incedunt cum anulatis auribus.",
+   "question": "Quo ex indicio Milphio in Poenulo Plauti Hannonis famulos Poenos esse coniectat, quod in auribus gerunt?",
+   "answer": "Ex inauribus (anulatis auribus).",
+   "question_en": "By what sign, worn in the ears, does Milphio in Plautus' Poenulus guess that Hanno's servants are Carthaginians?",
+   "answer_en": "By their earrings.",
+   "derivation": "An ethnic stereotype of the Carthaginians: they wear earrings (anulatae aures). Anchored to Hanno's retinue + the play; short answer supported verbatim (incedunt cum anulatis auribus). Culturally salient marker of the Poenus.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Poenulus 994-997",
+   "source_text": "MIL. Hannonem se esse ait Carthagine, Carthaginiensis Mytthumbalis filium.",
+   "question": "Cuius filium se esse Hanno Poenus in Poenulo Plauti profitetur?",
+   "answer": "Mytthumbalis.",
+   "question_en": "Whose son does the Carthaginian Hanno declare himself to be in Plautus' Poenulus?",
+   "answer_en": "The son of Mytthumbal.",
+   "derivation": "Hanno's Punic self-introduction, glossed by Milphio: he is Hanno of Carthage, son of Mytthumbal. Anchored to Hanno + the play; one-name patronymic answer supported verbatim (Mytthumbalis filium).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 1011-1013",
+   "source_text": "MIL. Non audis? mures Africanos praedicat in pompam ludis dare se velle aedilibus.",
+   "question": "Quibus magistratibus, ut ex Poenulo Plauti apparet, cura ludorum et pompae mandata erat?",
+   "answer": "Aedilibus.",
+   "question_en": "To which magistrates, as appears from Plautus' Poenulus, was the charge of the games and the procession entrusted?",
+   "answer_en": "To the aediles.",
+   "derivation": "Roman realia assumed by the joke: it is the aediles who put on the games and the pompa. Anchored to the office + the play; one-word answer supported verbatim (in pompam ludis dare se velle aedilibus). Culturally salient magistracy.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 1065",
+   "source_text": "Ampsigura mater mihi fuit, Iahon pater.",
+   "question": "Quibus parentibus natus est Agorastocles, ut in Poenulo Plauti recognoscitur?",
+   "answer": "Patre Iahone, matre Ampsigura.",
+   "question_en": "Of what parents was Agorastocles born, as is recognized in Plautus' Poenulus?",
+   "answer_en": "Of his father Iahon and mother Ampsigura.",
+   "derivation": "At the recognition Agorastocles names his parents: father Iahon, mother Ampsigura (Hanno's cousin). Anchored to Agorastocles + the play; two-name answer supported verbatim (Ampsigura mater... Iahon pater).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 1073-1074",
+   "source_text": "signum esse oportet in manu laeva tibi, ludenti puero quod memordit simia.",
+   "question": "Quo corporis signo Hanno Agorastoclem, fratris sui filium, in Poenulo Plauti agnoscit?",
+   "answer": "Vestigio morsus simiae in manu laeva.",
+   "question_en": "By what bodily mark does Hanno recognize Agorastocles, his brother's son, in Plautus' Poenulus?",
+   "answer_en": "By the scar of a monkey's bite on his left hand.",
+   "derivation": "The recognition-token: a scar on the left hand where a monkey bit Agorastocles as a child at play. Anchored to Hanno + Agorastocles + the play; short answer supported verbatim (in manu laeva... quod memordit simia). The anagnorisis-by-bodily-mark trope.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 1156-1157",
+   "source_text": "tuam mihi maiorem filiam despondeas. HAN. Pactam rem habeto. AGOR. Spondesne igitur? HAN. Spondeo.",
+   "question": "Quam Hannonis filiam Agorastocles sibi desponderi curat in Poenulo Plauti?",
+   "answer": "Maiorem natu, Adelphasium.",
+   "question_en": "Which daughter of Hanno does Agorastocles have betrothed to himself in Plautus' Poenulus?",
+   "answer_en": "The elder, Adelphasium.",
+   "derivation": "The comedy ends with the betrothal of the elder sister Adelphasium (whom Agorastocles has loved throughout) to him. Anchored to Agorastocles + Hanno + the play; answer supported verbatim (tuam mihi maiorem filiam despondeas... Spondeo).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Poenulus 1271-1272",
+   "source_text": "O Apella, o Zeuxis pictor, cur numero estis mortui, hoc exemplo ut pingeretis?",
+   "question": "Quos duos celeberrimos pictores Agorastocles in Poenulo Plauti nominat, quos iam mortuos esse dolet?",
+   "answer": "Apellem et Zeuxin.",
+   "question_en": "Which two most famous painters does Agorastocles name in Plautus' Poenulus, lamenting that they are dead?",
+   "answer_en": "Apelles and Zeuxis.",
+   "derivation": "The two canonical great painters of antiquity, Apelles and Zeuxis, invoked as the only ones worthy to paint the scene. Anchored to the play; two-name answer supported verbatim (O Apella, o Zeuxis pictor). Culturally salient names of famous artists.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Poenulus 1298-1300",
+   "source_text": "satin ego oculis cerno? estne illaec mea amica Anterastilis? et ea est certo.",
+   "question": "Quam ex duabus Hannonis filiabus miles Antamonides in Poenulo Plauti amat et emere voluerat?",
+   "answer": "Anterastilem, minorem natu.",
+   "question_en": "Which of Hanno's two daughters does the soldier Antamonides love and had wished to buy in Plautus' Poenulus?",
+   "answer_en": "Anterastilis, the younger.",
+   "derivation": "The soldier's beloved is the younger sister Anterastilis, whom he had meant to buy for a concubine. Anchored to Antamonides + the play; one-name answer supported verbatim (estne illaec mea amica Anterastilis?).",
+   "category": "ludi"
+  }
+ ]
+}

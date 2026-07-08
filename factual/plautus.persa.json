@@ -1,0 +1,237 @@
+{
+ "source": "text/plautus/persa.txt",
+ "author": "Plautus",
+ "work": "Persa",
+ "pairs": [
+  {
+   "locus": "Plautus, Persa 1-5",
+   "source_text": "superavit aerumnis suis aerumnas Herculi. nam cum leone, cum excetra, cum cervo, cum apro Aetolico, cum avibus Stymphalicis, cum Antaeo deluctari mavelim, quam cum Amore.",
+   "question": "Cuius herois labores Toxilus in Persa Plauti suas amoris aerumnas superare gloriatur?",
+   "answer": "Herculis.",
+   "question_en": "Whose labors does Toxilus in Plautus' Persa boast that his own toils of love surpass?",
+   "answer_en": "Hercules'.",
+   "derivation": "Toxilus opens the play claiming his love-toils exceed the labors of Hercules (the lion, the Hydra, the boar, the Stymphalian birds, Antaeus). Anchored to Toxilus + the play; one-name answer supported verbatim (superavit aerumnis suis aerumnas Herculi). Culturally salient myth of Hercules' labors.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Persa 16-17",
+   "source_text": "Profecto domino suos amores Toxilus emit atque curat, leno ut emittat manu;",
+   "question": "Quo absente servus Toxilus in Persa Plauti amores suos redimit et totam fallaciam gerit?",
+   "answer": "Domino (ero) absente.",
+   "question_en": "In whose absence does the slave Toxilus in Plautus' Persa buy his beloved's freedom and run the whole intrigue?",
+   "answer_en": "While his master is away.",
+   "derivation": "The distinctive premise of the Persa: a slave (Toxilus) is himself the lover and the schemer, acting while his master is abroad. Anchored to Toxilus + the play; short answer supported verbatim (Profecto domino... Toxilus emit atque curat). A notable mores-fact of Roman comedy.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Persa 35-37",
+   "source_text": "Vt mihi des nummos sescentos, quos pro capite illius pendam, quos continuo tibi reponam in hoc triduo, aut quadriduo.",
+   "question": "Quot nummos Toxilus in Persa Plauti mutuos petit, ut amicam suam pro capite eius redimat?",
+   "answer": "Sescentos.",
+   "question_en": "How many coins does Toxilus in Plautus' Persa seek to borrow, to redeem his beloved by paying for her?",
+   "answer_en": "Six hundred.",
+   "derivation": "The sum needed to free Toxilus' beloved: six hundred nummi paid pro capite (for her person). Anchored to Toxilus + the play; single-number answer supported verbatim (nummos sescentos... pro capite illius pendam). Currency and manumission realia.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Persa 53-56",
+   "source_text": "Veterem atque antiquom quaestum maiorum meum servo atque obtineo et magna cum cura colo. nam numquam quisquam meorum maiorum fuit, quin parasitando paverint ventres suos.",
+   "question": "Quem quaestum a maioribus hereditarium Saturio in Persa Plauti se tenere gloriatur?",
+   "answer": "Parasiticum, parasitando victum quaerere.",
+   "question_en": "What ancestral, hereditary trade does Saturio in Plautus' Persa boast of keeping up?",
+   "answer_en": "That of a parasite, earning his keep by sponging.",
+   "derivation": "Saturio boasts the parasite's trade is his ancestral profession: none of his forebears ever fed his belly except by sponging. Anchored to Saturio + the play; answer supported verbatim (quaestum maiorum... parasitando paverint ventres suos). The parasite-economy is a culturally salient comic institution.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Persa 105-106",
+   "source_text": "SAT. Pernam quidem ius est adponi frigidam postridie.",
+   "question": "Quomodo pernam postridie apponi oportere Saturio parasitus in Persa Plauti dicit?",
+   "answer": "Frigidam.",
+   "question_en": "How does the parasite Saturio in Plautus' Persa say ham ought to be served the next day?",
+   "answer_en": "Cold.",
+   "derivation": "A point of table lore: ham (perna) is properly served cold the day after. Anchored to Saturio + the play; one-word answer supported verbatim (Pernam... adponi frigidam postridie). Culturally salient food custom.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Persa 110-111",
+   "source_text": "SAT. Memini: ut murena et conger ne calefierent; nam nimio melius oppectuntur frigida.",
+   "question": "Quos duos pisces melius frigidos quam calidos comedi Saturio in Persa Plauti affirmat?",
+   "answer": "Murenam et congrum.",
+   "question_en": "Which two fish does Saturio in Plautus' Persa say are far better eaten cold than warmed?",
+   "answer_en": "Moray eel and conger eel.",
+   "derivation": "Gastronomic lore: moray and conger eels are much better eaten cold than reheated. Anchored to Saturio + the play; two-name answer supported verbatim (murena et conger... melius oppectuntur frigida). Culturally salient Roman fish cookery.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Persa 159-160",
+   "source_text": "SAT. Pothen ornamenta? TOX. Abs chorago sumito; dare debet: praebenda aediles locaverunt.",
+   "question": "A quo scaenica ornamenta sumi solere Toxilus in Persa Plauti dicit?",
+   "answer": "A chorago.",
+   "question_en": "From whom does Toxilus in Plautus' Persa say stage costumes are usually got?",
+   "answer_en": "From the choragus (property-master).",
+   "derivation": "Metatheatrical realia: the choragus supplies the stage costumes, their provision let out by the aediles. Anchored to the play; one-word answer supported verbatim (Abs chorago sumito... praebenda aediles locaverunt). Culturally salient bit of Roman theater production.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Persa 151",
+   "source_text": "sed longe ab Athenis esse se gnatam autumet;",
+   "question": "In qua urbe fabula Plauti Persa agitur?",
+   "answer": "Athenis.",
+   "question_en": "In which city is Plautus' Persa set?",
+   "answer_en": "In Athens.",
+   "derivation": "The play is set in Athens: the girl is coached to claim she was born far from Athens, the local reference point. Anchored to the play; one-place answer supported by the text (longe ab Athenis esse se gnatam autumet). Canonical setting of the comedy.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Persa 259-260",
+   "source_text": "nam erus meus me Eretriam misit, domitos boves ut sibi mercarer, dedit argentum, nam ibi mercatum dixit esse die septumi.",
+   "question": "Quo Sagaristio a domino suo in Persa Plauti missus est, ut domitos boves emeret?",
+   "answer": "Eretriam.",
+   "question_en": "Where was Sagaristio sent by his master in Plautus' Persa to buy broken-in oxen?",
+   "answer_en": "To Eretria.",
+   "derivation": "Sagaristio's master sent him to Eretria with money to buy oxen at the market there; he diverts the money to help Toxilus. Anchored to Sagaristio + the play; one-place answer supported verbatim (erus meus me Eretriam misit, domitos boves ut sibi mercarer).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Persa 251-252",
+   "source_text": "Iovi opulento, incluto, Ope gnato, supremo, valido, viripotenti,",
+   "question": "Cuius deae filium Sagaristio Iovem in Persa Plauti appellat?",
+   "answer": "Opis.",
+   "question_en": "Of which goddess does Sagaristio in Plautus' Persa call Jupiter the son?",
+   "answer_en": "Of Ops.",
+   "derivation": "Roman theogony: Jupiter is styled Ope gnatus, son of the goddess Ops. Anchored to the play; one-name answer supported verbatim (Iovi... Ope gnato). Culturally salient divine genealogy.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Persa 392-395",
+   "source_text": "librorum eccillum habeo plenum soracum. si hoc adcurassis lepide, cui rei operam damus, dabuntur dotis tibi inde sescenti logi, atque Attici omnes; nullum Siculum acceperis.",
+   "question": "Quam dotem Saturio parasitus filiae suae in Persa Plauti pollicetur?",
+   "answer": "Sescentos logos (iocos) Atticos ex soraco librorum suorum.",
+   "question_en": "What dowry does the parasite Saturio promise his daughter in Plautus' Persa?",
+   "answer_en": "Six hundred jokes, all Attic, from his hamper full of books.",
+   "derivation": "The parasite's stock-in-trade: a hamper (soracus) full of joke-books, whence he offers six hundred jokes (logi) as dowry, all Attic and no Sicilian. Anchored to Saturio + the play; answer supported verbatim (dotis tibi inde sescenti logi, atque Attici omnes). The ridicularia are a culturally salient feature of the parasite's economy.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Persa 461-462",
+   "source_text": "et istas tabellas, quas consignavi tibi, quas tu attulisti mi ab ero meo usque e Persia.",
+   "question": "Vnde Sagaristio in Persa Plauti se epistulam attulisse simulat, ut Dordalum lenonem decipiat?",
+   "answer": "E Persia.",
+   "question_en": "From where does Sagaristio in Plautus' Persa pretend to have brought a letter, to deceive the pimp Dordalus?",
+   "answer_en": "From Persia.",
+   "derivation": "The title-trick: Sagaristio poses as a messenger bearing a letter all the way from Persia. Anchored to Sagaristio + the play; one-place answer supported verbatim (attulisti mi ab ero meo usque e Persia). The Persian sham gives the comedy its name.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Persa 462-463",
+   "source_text": "TOX. Euge, euge, exornatu's basilice; tiara ornatum lepida condecorat schema.",
+   "question": "Quo capitis ornamento Sagaristio ornatus est, ut Persam simulet in Persa Plauti?",
+   "answer": "Tiara.",
+   "question_en": "With what headdress is Sagaristio adorned to play the Persian in Plautus' Persa?",
+   "answer_en": "With a tiara.",
+   "derivation": "The Persian disguise is marked by the tiara, the oriental headdress. Anchored to Sagaristio + the play; one-word answer supported verbatim (tiara ornatum lepida condecorat schema). Culturally salient marker of the Persian.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Persa 501",
+   "source_text": "Salutem dicit Toxilo Timarchides et familiae omni.",
+   "question": "Quod nomen habet dominus Toxili, a quo epistula ficta in Persa Plauti mitti fingitur?",
+   "answer": "Timarchides.",
+   "question_en": "What is the name of Toxilus' master, from whom the forged letter is pretended to be sent in Plautus' Persa?",
+   "answer_en": "Timarchides.",
+   "derivation": "The sham letter is headed as from Toxilus' master, Timarchides. Anchored to Toxilus + the play; one-name answer supported verbatim (Salutem dicit Toxilo Timarchides).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Persa 506-507",
+   "source_text": "Chrysopolim Persae cepere urbem in Arabia, plenam bonarum rerum atque antiquom oppidum.",
+   "question": "Quam urbem, in Arabia sitam, Persae in epistula ficta Persae Plauti cepisse dicuntur?",
+   "answer": "Chrysopolim.",
+   "question_en": "What city, situated in Arabia, are the Persians said to have captured in the forged letter of Plautus' Persa?",
+   "answer_en": "Chrysopolis.",
+   "derivation": "The mock-Persian exotica of the sham letter: the Persians have taken Chrysopolis, a rich old city 'in Arabia,' whose booty is being auctioned. Anchored to the play; one-place answer supported verbatim (Chrysopolim Persae cepere urbem in Arabia). The fabricated geography that props up the trick.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Persa 520-522",
+   "source_text": "Iste qui tabellas adfert adduxit simul forma expetenda liberalem virginem, furtivam, abductam ex Arabia penitissuma.",
+   "question": "Vnde abducta esse fingitur virgo captiva quam Sagaristio Dordalo in Persa Plauti vendit?",
+   "answer": "Ex Arabia penitissuma.",
+   "question_en": "From where is the captive maiden, whom Sagaristio sells to Dordalus in Plautus' Persa, pretended to have been carried off?",
+   "answer_en": "From deepest Arabia.",
+   "derivation": "The disguised girl is passed off as a stolen freeborn maiden brought from the depths of Arabia. Anchored to the play; short answer supported verbatim (furtivam, abductam ex Arabia penitissuma). Part of the exotic sham.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Persa 523-525",
+   "source_text": "ac suo periclo is emat qui eam mercabitur: mancipio neque promittet neque quisquam dabit.",
+   "question": "Qua condicione virgo captiva Dordalo in Persa Plauti venditur, cum eam nemo mancipio daturus sit?",
+   "answer": "Suo periclo emptoris, sine mancipio.",
+   "question_en": "On what terms is the captive maiden sold to Dordalus in Plautus' Persa, since no one will give her by mancipation?",
+   "answer_en": "At the buyer's own risk, without mancipation (no warranty of title).",
+   "derivation": "The legal trap: a freeborn person cannot lawfully be conveyed by mancipatio, so she is sold sine mancipio at the buyer's risk, which snares Dordalus. Anchored to the play; the terms are supported verbatim (suo periclo is emat... mancipio neque... dabit). Roman law of sale (mancipatio, warranty).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Persa 623-624",
+   "source_text": "DOR. Quid nomen tibist? ... VIR. Lucridi nomen in patria fuit.",
+   "question": "Quod nomen sibi ficta virgo in Persa Plauti indit, cum a Dordalo lenone rogatur?",
+   "answer": "Lucris.",
+   "question_en": "What name does the disguised maiden give herself in Plautus' Persa when asked by the pimp Dordalus?",
+   "answer_en": "Lucris (Profit-girl).",
+   "derivation": "Coached for the trick, the girl calls herself Lucris ('Profit'), a name Toxilus hails as a good omen for a greedy leno. Anchored to the play; one-name answer supported verbatim (Lucridi nomen in patria fuit).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Persa 665-667",
+   "source_text": "SAG. Tuo periclo sexaginta haec dabitur argenti minis. DOR. Toxile, quid ago? ... D. Habeto.",
+   "question": "Quot argenti minis Dordalus leno virginem captivam in Persa Plauti emit?",
+   "answer": "Sexaginta minis.",
+   "question_en": "For how many silver minae does the pimp Dordalus buy the captive maiden in Plautus' Persa?",
+   "answer_en": "For sixty minae.",
+   "derivation": "After bargaining down from a hundred, Dordalus buys the girl for sixty silver minae, at his own risk. Anchored to Dordalus + the play; single-number answer supported verbatim (sexaginta... argenti minis... Habeto). Currency realia.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Persa 195-196",
+   "source_text": "sed has tabellas, Paegnium, ipsi Lemniseleni fac des et quae iussi nuntiato.",
+   "question": "Quod nomen habet meretrix quam servus Toxilus in Persa Plauti amat et manu mittendam curat?",
+   "answer": "Lemniselenis.",
+   "question_en": "What is the name of the courtesan whom the slave Toxilus loves and arranges to have freed in Plautus' Persa?",
+   "answer_en": "Lemniselenis.",
+   "derivation": "Toxilus' beloved, for whose freedom the whole intrigue is mounted, is named Lemniselenis. Anchored to Toxilus + the play; one-name answer supported verbatim (ipsi Lemniseleni fac des).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Persa 707-708",
+   "source_text": "SAG. Ita sunt Persarum mores, longa nomina, contortiplicata habemus.",
+   "question": "Qualia esse Persarum nomina Sagaristio, Persam simulans, in Persa Plauti affirmat?",
+   "answer": "Longa et contortiplicata.",
+   "question_en": "What sort of names does Sagaristio, playing the Persian, claim the Persians have in Plautus' Persa?",
+   "answer_en": "Long and convoluted ones.",
+   "derivation": "The mock-Persian stereotype: Persians have long, twisted-up names (Sagaristio invents an absurdly long one). Anchored to the play; short answer supported verbatim (Persarum mores, longa nomina, contortiplicata). Culturally salient ethnic caricature.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Persa 748-749",
+   "source_text": "cuiquam mortali libero auris atteram, qui hic commercaris civis homines liberos?",
+   "question": "Quod scelus Dordalo lenoni in Persa Plauti obicitur, cum eum Saturio in ius rapit?",
+   "answer": "Quod cives liberos mercatur.",
+   "question_en": "What crime is charged against the pimp Dordalus in Plautus' Persa, when Saturio hauls him to court?",
+   "answer_en": "That he traffics in free citizens.",
+   "derivation": "The leno's offense, the crux of the play's justice: he buys and sells freeborn citizens. Anchored to Dordalus + the play; answer supported verbatim (qui hic commercaris civis homines liberos). Roman ius against enslaving the freeborn.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Persa 747-748",
+   "source_text": "DOR. Nonne antestaris? SAT. Tuan ego causa, carnufex, cuiquam mortali libero auris atteram,",
+   "question": "Quam corporis partem tangebat qui alium ad testimonium antestabatur, ut ex Persa Plauti apparet?",
+   "answer": "Aurem.",
+   "question_en": "Which part of the body did one touch when calling someone to witness (antestari) a summons, as appears from Plautus' Persa?",
+   "answer_en": "The ear.",
+   "derivation": "Roman legal ritual: to make someone a witness to an in ius vocatio one touched his ear (antestari). Anchored to the play; one-word answer supported by the text (antestaris... auris atteram). Culturally salient bit of Roman procedure.",
+   "category": "ius"
+  }
+ ]
+}
