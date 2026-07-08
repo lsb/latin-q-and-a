@@ -1,0 +1,647 @@
+{
+  "source": "text/12tables.txt",
+  "author": "Decemviri",
+  "work": "Lex Duodecim Tabularum",
+  "pairs": [
+    {
+      "locus": "Lex XII Tabularum, tab. I 1",
+      "source_text": "Si in ius vocat, ito. Ni it, antestamino. Igitur em capito.",
+      "question": "Quid facere debet, ex lege duodecim tabularum, is quem quis in ius vocat?",
+      "answer": "Ire debet.",
+      "question_en": "Under the Law of the Twelve Tables, what must a man do whom someone summons to court?",
+      "answer_en": "He must go.",
+      "derivation": "The opening command of the whole code: si in ius vocat, ito. The Tables were memorized by schoolboys (Cicero, De legibus 2.59), and this incipit is the most-quoted line of archaic Roman law. Anchored to the named law; single supported answer (ito).",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 1",
+      "source_text": "Si in ius vocat, ito. Ni it, antestamino. Igitur em capito.",
+      "question": "Quid facere debet qui in ius vocat, antequam vocatum ire nolentem capiat, ex lege duodecim tabularum?",
+      "answer": "Antestari.",
+      "question_en": "Under the Law of the Twelve Tables, what must the summoner do before he seizes a man who, summoned to court, refuses to go?",
+      "answer_en": "Call bystanders to witness (the antestatio).",
+      "derivation": "Procedure of tab. I: ni it, antestamino; igitur em capito — first call witnesses, only then lay hold of him. The antestatio was ambient legal culture (cf. Horace, Sermones 1.9.76 'licet antestari?'). Anchored to the named law; single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 2",
+      "source_text": "Si calvitur pedemve struit, manum endo iacito.",
+      "question": "Quid ei licet qui in ius vocat, si vocatus calvitur pedemve struit, ex lege duodecim tabularum?",
+      "answer": "Manum inicere.",
+      "question_en": "What may the summoner do under the Law of the Twelve Tables if the man summoned shirks or takes to flight?",
+      "answer_en": "Lay hand on him (seize him).",
+      "derivation": "Tab. I on the evasive defendant: si calvitur pedemve struit, manum endo iacito — the archaic clause glossed by Festus. The permitted act (laying on of the hand) is the single supported answer; anchored to the named law and the defined situation.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 3",
+      "source_text": "Si morbus aevitasve vitium escit, iumentum dato.",
+      "question": "Quid dari lex duodecim tabularum iubet, si morbus aevitasve eum qui in ius vocatur impedit?",
+      "answer": "Iumentum.",
+      "question_en": "What does the Law of the Twelve Tables order to be provided if sickness or age hinders the man summoned to court?",
+      "answer_en": "A yoke-beast (draught animal, i.e. transport).",
+      "derivation": "The humane transport clause of tab. I, discussed at length by Gellius 20.1.25-29: if illness or age is the impediment, the summoner must supply a iumentum. Single named-object answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 3",
+      "source_text": "Si morbus aevitasve vitium escit, iumentum dato. Si nolet, arceram ne sternito.",
+      "question": "Quale vehiculum aegro vocato sternere non cogitur is qui in ius vocat, ex lege duodecim tabularum?",
+      "answer": "Arceram.",
+      "question_en": "What kind of vehicle is the summoner not obliged to furnish for a sick man he has summoned, under the Law of the Twelve Tables?",
+      "answer_en": "A covered wagon (arcera).",
+      "derivation": "Counterpart of the iumentum clause: si nolet, arceram ne sternito — he need not spread the cushioned covered cart. The arcera is glossed from this very clause by Gellius 20.1.29-30. Single named-object answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 4",
+      "source_text": "Assiduo vindex assiduus esto. Proletario iam civi quis volet vindex esto.",
+      "question": "Qualis vindex assiduo esse debet ex lege duodecim tabularum?",
+      "answer": "Assiduus.",
+      "question_en": "What sort of surety (vindex) must a landholder have under the Law of the Twelve Tables?",
+      "answer_en": "A landholder (an assiduus, one of his own class).",
+      "derivation": "The class rule on the vindex, quoted by Gellius 16.10.5: for an assiduus the surety must be an assiduus. Anchored to the named law and the named class; single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 4",
+      "source_text": "Assiduo vindex assiduus esto. Proletario iam civi quis volet vindex esto.",
+      "question": "Quis proletario civi vindex esse potest ex lege duodecim tabularum?",
+      "answer": "Quis volet.",
+      "question_en": "Who may act as surety (vindex) for a proletarian citizen under the Law of the Twelve Tables?",
+      "answer_en": "Whoever is willing (anyone at all).",
+      "derivation": "Second half of the vindex rule: for the proletarius, quis volet — any volunteer suffices. The assiduus/proletarius contrast made this clause a standard citation (Gellius 16.10). Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 7",
+      "source_text": "Ni pacunt, in comitio aut in foro ante meridiem caussam coiciunto.",
+      "question": "Quibus locis litigantes, ni pacunt, causam coicere debent ex lege duodecim tabularum?",
+      "answer": "In comitio aut in foro.",
+      "question_en": "In which places must the litigants, if they do not settle, state their case under the Law of the Twelve Tables?",
+      "answer_en": "In the comitium or in the forum.",
+      "derivation": "Venue rule of tab. I: failing a settlement, the case is pleaded in comitio aut in foro. Two named civic places form the complete supported answer; anchored to the named law.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 7",
+      "source_text": "Ni pacunt, in comitio aut in foro ante meridiem caussam coiciunto.",
+      "question": "Quo tempore diei litigantes causam coicere iubentur ex lege duodecim tabularum?",
+      "answer": "Ante meridiem.",
+      "question_en": "At what time of day are the litigants ordered to state their case under the Law of the Twelve Tables?",
+      "answer_en": "Before midday.",
+      "derivation": "Time rule of the same clause: the pleading happens ante meridiem. Single time answer supported verbatim; pairs with the post-meridiem default judgment that follows.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 8",
+      "source_text": "Com peroranto ambo praesentes. Post meridiem praesenti litem addicito.",
+      "question": "Cui litem post meridiem addici lex duodecim tabularum iubet, si alter litigantium abest?",
+      "answer": "Praesenti.",
+      "question_en": "To whom does the Law of the Twelve Tables order the suit to be awarded after midday, if one of the litigants is absent?",
+      "answer_en": "To the party present.",
+      "derivation": "The default-judgment rule: post meridiem praesenti litem addicito — after noon, judgment goes to whichever party showed up. Anchored to the named law; single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. I 9",
+      "source_text": "Si ambo praesentes, solis occasus suprema tempestas esto.",
+      "question": "Quae est, ex lege duodecim tabularum, suprema tempestas qua iudicium finiri debet?",
+      "answer": "Solis occasus.",
+      "question_en": "Under the Law of the Twelve Tables, what is the latest hour (suprema tempestas) by which court proceedings must end?",
+      "answer_en": "Sunset.",
+      "derivation": "The celebrated court deadline: solis occasus suprema tempestas esto — sunset closes the day's proceedings. Quoted by Gellius 17.2.10 and proverbial in legal culture. Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. II 1",
+      "source_text": "Actor dicito: ex sponsione te mihi . . . dare oportere aio. Quando tu negas, te praetor iudicem sive arbitrum postulo uti des.",
+      "question": "A quo actor, ex lege duodecim tabularum, iudicem sive arbitrum dari postulat, quando reus negat?",
+      "answer": "A praetore.",
+      "question_en": "From whom, under the Law of the Twelve Tables, does the plaintiff demand that a judge or arbiter be given, when the defendant denies the claim?",
+      "answer_en": "From the praetor.",
+      "derivation": "The formula of the legis actio per iudicis arbitrive postulationem (cf. Gaius, Inst. 4.17a): the plaintiff addresses the praetor — te praetor iudicem sive arbitrum postulo uti des. The named magistracy is the single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. II 2",
+      "source_text": ". . . morbus sonticus . . . aut status dies cum hoste . . . quid horum fuit unum iudici arbitrove reove, eo dies diffissus esto.",
+      "question": "Quid fit de die iudicii, si morbus sonticus aut status dies cum hoste iudici arbitrove reove fuit, ex lege duodecim tabularum?",
+      "answer": "Dies diffinditur.",
+      "question_en": "What happens to the trial day under the Law of the Twelve Tables if a grave illness, or a day appointed with a foreigner, has befallen the judge, the arbiter, or the defendant?",
+      "answer_en": "The day is broken off (the hearing is postponed).",
+      "derivation": "Adjournment clause of tab. II: morbus sonticus or a status dies cum hoste splits the trial day (dies diffissus esto). Cicero, De officiis 1.37 quotes status dies cum hoste to show hostis anciently meant the foreigner. Single supported outcome.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. II 3",
+      "source_text": "Cui testimonium defuerit, is tertiis diebus ob portum obvagulatum ito.",
+      "question": "Quibus diebus is, cui testimonium defuerit, ob portum testis obvagulatum ire iubetur ex lege duodecim tabularum?",
+      "answer": "Tertiis diebus.",
+      "question_en": "On which days is the man whose witness has failed him ordered to go wail before that witness's doorway, under the Law of the Twelve Tables?",
+      "answer_en": "Every third day.",
+      "derivation": "The obvagulatio: the party let down by his witness goes every third day to howl before the defaulter's door (portus = house door, Festus). The interval tertiis diebus is the single supported answer; the picturesque rite made the clause memorable.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 1",
+      "source_text": "Aeris confessi rebusque iure iudicatis XXX dies iusti sunto.",
+      "question": "Quot dies iusti debitori aeris confessi rebusque iure iudicatis lege duodecim tabularum dantur?",
+      "answer": "Triginta.",
+      "question_en": "How many days of grace does the Law of the Twelve Tables give a debtor after admission of the debt or lawful judgment?",
+      "answer_en": "Thirty.",
+      "derivation": "The famous thirty iusti dies of grace before execution on a confessed or adjudged debt (Gellius 20.1.42-43 explains them). Anchored to the named law; single number answer supported verbatim (XXX).",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 2",
+      "source_text": "Post deinde manus iniectio esto. In ius ducito.",
+      "question": "Quid debitori imminet ex lege duodecim tabularum, cum triginta dies iusti praeterierunt nec iudicatum fecit?",
+      "answer": "Manus iniectio.",
+      "question_en": "What awaits the debtor under the Law of the Twelve Tables once the thirty days of grace have passed and he has not satisfied the judgment?",
+      "answer_en": "The laying-on of hands (manus iniectio — personal seizure).",
+      "derivation": "Sequence of tab. III: after the thirty days, post deinde manus iniectio esto — the creditor seizes the debtor and hales him in ius. The named institution is the single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 3",
+      "source_text": "Ni iudicatum facit aut quis endo eo in iure vindicit, secum ducito, vincito aut nervo aut compedibus XV pondo, ne maiore aut si volet minore vincito.",
+      "question": "Quot pondo plurimum compedibus debitor addictus vinciri potest ex lege duodecim tabularum?",
+      "answer": "Quindecim pondo.",
+      "question_en": "With fetters of how many pounds at most may a bound-over debtor be shackled under the Law of the Twelve Tables?",
+      "answer_en": "Fifteen pounds (no heavier; lighter if the creditor wishes).",
+      "derivation": "The fetter-weight cap of tab. III: compedibus XV pondo, ne maiore. Gellius 20.1.45 quotes the clause. Single number answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 4",
+      "source_text": "Si volet suo vivito, ni suo vivit, qui eum vinctum habebit, libras faris endo dies dato.",
+      "question": "Quantum farris in dies debitori vincto, qui suo non vivit, dare debet qui eum vinctum habet?",
+      "answer": "Libram farris.",
+      "question_en": "How much spelt per day must the creditor who holds a debtor in bonds give him, if the debtor does not live at his own expense?",
+      "answer_en": "A pound of spelt (far) a day.",
+      "derivation": "The maintenance clause of tab. III: the creditor must give libras faris endo dies — a pound of far daily — to the imprisoned debtor who has no means of his own (Gellius 20.1.45). Single measure answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 5 (Gellius 20.1.46)",
+      "source_text": "Erat autem ius interea paciscendi ac nisi pacti forent habebantur in vinculis dies LX.",
+      "question": "Quot dies debitores addicti, nisi pacti erant, in vinculis habebantur, ut Gellius de lege duodecim tabularum tradit?",
+      "answer": "Sexaginta.",
+      "question_en": "For how many days were bound-over debtors kept in chains if no settlement was reached, as Gellius reports of the Law of the Twelve Tables?",
+      "answer_en": "Sixty.",
+      "derivation": "Gellius 20.1.46 (quoted in the text) on the debt procedure: sixty days in chains with the right to settle meanwhile. Attributed to Gellius since the number comes from his account of the law; single number answer supported verbatim (dies LX).",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 5 (Gellius 20.1.46)",
+      "source_text": "Inter eos dies trinis nundinis continuis ad praetorem in comitium producebantur, quantaeque pecuniae iudicati essent, praedicabatur.",
+      "question": "Quo debitores vincti trinis nundinis continuis producebantur, ut Gellius de lege duodecim tabularum tradit?",
+      "answer": "Ad praetorem in comitium.",
+      "question_en": "Where were the imprisoned debtors brought out on three successive market-days, as Gellius reports of the Law of the Twelve Tables?",
+      "answer_en": "Before the praetor, into the comitium.",
+      "derivation": "Gellius 20.1.46: during the sixty days the debtor was produced ad praetorem in comitium on three successive nundinae and the judgment debt proclaimed. Named magistrate and place form the supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 5 (Gellius 20.1.46-47)",
+      "source_text": "Tertiis autem nundinis capite poenas dabant,aut trans Tiberim peregre venum ibant.",
+      "question": "Quo debitores addicti, qui tertiis nundinis non soluti erant, venum ibant, ut Gellius de lege duodecim tabularum tradit?",
+      "answer": "Trans Tiberim peregre.",
+      "question_en": "Where were bound-over debtors who had not been released by the third market-day sold, as Gellius reports of the Law of the Twelve Tables?",
+      "answer_en": "Across the Tiber, abroad (into foreign slavery).",
+      "derivation": "Gellius 20.1.47: on the third nundinae the debtor paid with his life or went trans Tiberim peregre venum — sold beyond the Tiber, i.e. out of Roman territory. The phrase trans Tiberim became proverbial for that fate; single place answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 6",
+      "source_text": "Tertiis nundinis partis secanto.",
+      "question": "Quibus nundinis creditoribus partes debitoris secare licet ex lege duodecim tabularum?",
+      "answer": "Tertiis nundinis.",
+      "question_en": "On which market-day may the creditors cut their portions of the debtor, under the Law of the Twelve Tables?",
+      "answer_en": "On the third market-day.",
+      "derivation": "The most notorious clause of the Tables: tertiis nundinis partis secanto — on the third nundinae the creditors may cut their shares. Gellius 20.1.48-52 discusses it with horror and notes no case was recorded. Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III 6",
+      "source_text": "Si plus minusve secuerunt, se fraude esto",
+      "question": "Quid iuris est ex lege duodecim tabularum, si creditores partes debitoris secantes plus minusve secuerunt?",
+      "answer": "Sine fraude est.",
+      "question_en": "What is the legal position under the Law of the Twelve Tables if creditors, cutting their portions of the debtor, have cut more or less than their share?",
+      "answer_en": "It is without liability (se fraude esto — no penalty attaches).",
+      "derivation": "The chilling coda to partis secanto: si plus minusve secuerunt, se fraude esto — cutting too much or too little carries no liability. Quoted verbatim by Gellius 20.1.49 and by Quintilian 3.6.84; the answer normalizes archaic se fraude to sine fraude.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. III (al. tab. VI 4)",
+      "source_text": "adversus hostem aeterna auctoritas esto.",
+      "question": "Qualis est, ex lege duodecim tabularum, auctoritas adversus hostem, id est peregrinum?",
+      "answer": "Aeterna.",
+      "question_en": "Of what duration, under the Law of the Twelve Tables, is the warranty of ownership (auctoritas) against a hostis, that is, a foreigner?",
+      "answer_en": "Eternal (it never lapses — a foreigner can never usucapt).",
+      "derivation": "The maxim adversus hostem aeterna auctoritas, quoted by Cicero, De officiis 1.37, who explains that hostis in the Tables means the foreigner: against a stranger the owner's claim never expires by usucapion. Printed under tab. III in this edition (traditionally tab. VI 4). Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. IV 2",
+      "source_text": "Si pater filium ter venum duit, filius a patre liber esto.",
+      "question": "Quotiens pater filium venum dare debet, ut filius a patre liber sit, ex lege duodecim tabularum?",
+      "answer": "Ter.",
+      "question_en": "How many times must a father sell his son for the son to be free of the father, under the Law of the Twelve Tables?",
+      "answer_en": "Three times.",
+      "derivation": "The celebrated thrice-sold-son rule, the foundation of Roman emancipatio and adoption procedure (Gaius, Inst. 1.132 builds on it). Anchored to the named law; single number answer supported verbatim (ter).",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. V 3",
+      "source_text": "Uti legassit super pecunia tutelave suae rei, ita ius esto.",
+      "question": "Quae lex sanxit, uti quisque super pecunia tutelave suae rei legasset, ita ius esset?",
+      "answer": "Lex duodecim tabularum.",
+      "question_en": "Which law ordained that as a man had disposed by will concerning his property or the guardianship of his estate, so should it be law?",
+      "answer_en": "The Law of the Twelve Tables.",
+      "derivation": "The charter of Roman freedom of testation — uti legassit suae rei, ita ius esto — cited in these words by Cicero (De inventione 2.148) and the jurists ever after. The maxim itself is the famous fact, so the question asks which law carries it; single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. V 4",
+      "source_text": "Si intestato moritur, cui suus heres nec escit, adgnatus proximus familiam habeto.",
+      "question": "Quis familiam habet ex lege duodecim tabularum, si quis intestato moritur cui suus heres non est?",
+      "answer": "Adgnatus proximus.",
+      "question_en": "Who takes the estate under the Law of the Twelve Tables if a man dies intestate leaving no direct heir (suus heres)?",
+      "answer_en": "The nearest agnate.",
+      "derivation": "The intestate-succession rule: failing a suus heres, adgnatus proximus familiam habeto. The backbone of Roman inheritance law, endlessly cited by the jurists (Gaius, Inst. 3.9). Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. V 5",
+      "source_text": "Si adgnatus nec escit, gentiles familiam habento.",
+      "question": "Quis familiam habet ex lege duodecim tabularum, si intestato mortuo nec suus heres nec adgnatus est?",
+      "answer": "Gentiles.",
+      "question_en": "Who takes the estate under the Law of the Twelve Tables if an intestate leaves neither a direct heir nor an agnate?",
+      "answer_en": "The members of his gens (the gentiles).",
+      "derivation": "Third rung of the intestate ladder: si adgnatus nec escit, gentiles familiam habento. The succession of the gentiles is a standard cited feature of archaic law (Gaius, Inst. 3.17). Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. V 6 (Gaius, Inst. 1.155)",
+      "source_text": "Quibus testamento...tutor datus non sit, iis lege XII Tabularum agnati sunt tutores.",
+      "question": "Qui sunt ex lege duodecim tabularum tutores iis, quibus testamento tutor datus non est, ut Gaius tradit?",
+      "answer": "Agnati.",
+      "question_en": "Who, under the Law of the Twelve Tables, are the guardians of those to whom no guardian has been given by will, as Gaius reports?",
+      "answer_en": "The agnates.",
+      "derivation": "Gaius, Inst. 1.155 (quoted in the text): failing a testamentary tutor, the agnates are tutores legitimi by the Twelve Tables — the tutela rule governing women and children. Attributed to Gaius; single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. V 7",
+      "source_text": "Si furiosus escit, adgnatum gentiliumque in eo pecuniaque eius potestas esto.",
+      "question": "Penes quos est, ex lege duodecim tabularum, potestas in furiosum pecuniamque eius?",
+      "answer": "Penes adgnatos gentilesque.",
+      "question_en": "In whose hands, under the Law of the Twelve Tables, is the power over a madman and his property?",
+      "answer_en": "In the hands of his agnates and the members of his gens.",
+      "derivation": "The famous provision on the furiosus: power over him and his money belongs to the agnates and gentiles — the origin of the cura furiosi, cited by Cicero (De inventione 2.148) and the Rhetorica ad Herennium 1.23. Two-item supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VI 1",
+      "source_text": "Cum nexum faciet mancipiumque, uti lingua nuncupassit, ita ius esto.",
+      "question": "Quid in nexo mancipioque faciendo vim iuris habet ex lege duodecim tabularum?",
+      "answer": "Quod lingua nuncupatum est.",
+      "question_en": "In making a nexum or a mancipium, what has the force of law under the Law of the Twelve Tables?",
+      "answer_en": "What the tongue has solemnly declared (the spoken declaration).",
+      "derivation": "The maxim uti lingua nuncupassit, ita ius esto: the oral declaration in nexum and mancipium binds as law. Quoted by Festus (nuncupata pecunia) and echoed by Cicero, De officiis 3.65. Short supported answer stating the source of legal force.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VI 7",
+      "source_text": "tignum iunctum aedibus vineave sei concapit ne solvito",
+      "question": "Quid de tigno aedibus vineave iuncto lex duodecim tabularum iubet?",
+      "answer": "Ne solvatur.",
+      "question_en": "What does the Law of the Twelve Tables command concerning a beam built into a house or a vineyard?",
+      "answer_en": "That it not be detached (the built-in beam may not be removed).",
+      "derivation": "The tignum iunctum rule: a beam (or vine-prop) once built into another's structure may not be pried out — the basis of the actio de tigno iuncto (Ulpian, D. 47.3.1, citing the Tables). The command ne solvito is the single supported answer; the mutilated continuation (duplione) is not relied on.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VI (Gaius, Inst. 1.111)",
+      "source_text": "Lege XII tabularum cautum est, ut si qua nollet usu in manum mariti convenire, ea quotannis trinoctio abesset atque eo modo cuiusque anni usum interrumperet.",
+      "question": "Quamdiu quotannis abesse debebat uxor, quae usu in manum mariti convenire nollet, ex lege duodecim tabularum?",
+      "answer": "Trinoctio.",
+      "question_en": "For how long each year did a wife have to stay away, under the Law of the Twelve Tables, if she did not wish to pass into her husband's manus by usus?",
+      "answer_en": "For three nights (the trinoctium).",
+      "derivation": "Gaius, Inst. 1.111 (quoted in the text): a year's uninterrupted usus brought the wife into manus, and the Tables let her interrupt it by an annual absence of three nights — the famous trinoctium. Single duration answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VII 1",
+      "source_text": "ambitus . . . sestertius pes",
+      "question": "Quantus est ambitus, id est spatium circum aedificia relinquendum, ex lege duodecim tabularum?",
+      "answer": "Sestertius pes, id est duo pedes et semis.",
+      "question_en": "How wide is the ambitus, the strip to be left clear around buildings, under the Law of the Twelve Tables?",
+      "answer_en": "A sestertius pes, that is, two and a half feet.",
+      "derivation": "The boundary-strip rule of tab. VII: the ambitus around buildings measured sestertius pes — 'a half-third foot', i.e. 2 1/2 feet (so Varro, De lingua Latina 5.22 and Festus gloss both words from this clause). The fragment juxtaposes term and measure; single measure answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VII",
+      "source_text": "Si iurgant . . . tres arbitri . . .",
+      "question": "Quot arbitri dantur ex lege duodecim tabularum, si vicini de finibus iurgant?",
+      "answer": "Tres.",
+      "question_en": "How many arbiters are appointed under the Law of the Twelve Tables when neighbors quarrel over their boundaries?",
+      "answer_en": "Three.",
+      "derivation": "The boundary-dispute clause: si iurgant — Cicero, De legibus 1.55 attests that iurgium in the Tables is precisely the neighbors' quarrel over fines — three arbiters are given to settle it. Single number answer supported by the fragment.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VII 7",
+      "source_text": "Viam muniunto: ni sam delapidassint, qua volet iumento agito.",
+      "question": "Qua iumento agere licet ei qui via utitur, si qui viam munire debent eam lapidibus non straverunt, ex lege duodecim tabularum?",
+      "answer": "Qua volet.",
+      "question_en": "Where may a man drive his beast, under the Law of the Twelve Tables, if those obliged to maintain a road have not paved it with stones?",
+      "answer_en": "Wherever he wishes.",
+      "derivation": "The road-maintenance rule: viam muniunto — and if the owners have not laid it with stone (ni sam delapidassint), the traveler may drive his team qua volet, over the adjoining land. A celebrated servitude rule (cf. Festus on viae); the supported answer is the law's own phrase.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 1",
+      "source_text": "Qui malum carmen incantassit . . .",
+      "question": "Quae lex Romana de eo cavit, qui malum carmen incantasset?",
+      "answer": "Lex duodecim tabularum.",
+      "question_en": "Which Roman law made provision against one who had chanted an evil spell (malum carmen)?",
+      "answer_en": "The Law of the Twelve Tables.",
+      "derivation": "The malum carmen clause opens tab. VIII; only the protasis survives here, so the pair asks which law carried the famous provision. Its celebrity is attested by Pliny, NH 28.18 and Cicero (apud Augustinum, De civitate Dei 2.9), who debate whether it aimed at spells or lampoons. Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 2",
+      "source_text": "Si membrum rupsit, ni cum eo pacit, talio esto.",
+      "question": "Quae poena est ex lege duodecim tabularum, si quis membrum alteri rupit nec cum eo pacit?",
+      "answer": "Talio.",
+      "question_en": "What is the penalty under the Law of the Twelve Tables if a man has maimed another's limb and does not come to terms with him?",
+      "answer_en": "Retaliation in kind (talio).",
+      "derivation": "The talion clause — si membrum rupsit, ni cum eo pacit, talio esto — the most famous penal provision of the Tables, quoted by Festus and discussed by Gellius 20.1.14-38. Anchored to the named law; single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 2",
+      "source_text": "Si membrum rupsit, ni cum eo pacit, talio esto.",
+      "question": "Quo uno modo talionem effugit, qui membrum alteri rupit, ex lege duodecim tabularum?",
+      "answer": "Pactione, si cum eo pacit.",
+      "question_en": "By what single means does a man who has maimed another's limb escape retaliation, under the Law of the Twelve Tables?",
+      "answer_en": "By settlement — if he comes to terms with the victim.",
+      "derivation": "The escape clause inside the talion provision: ni cum eo pacit — talio applies only failing a compact with the injured party. The primacy of composition over vengeance is the standard point drawn from this clause (Gellius 20.1.38). Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 3",
+      "source_text": "Manu fustive si os fregit libero, CCC assium, si servo, CL assium poenam subito",
+      "question": "Quot assium poenam subit ex lege duodecim tabularum, qui manu fustive os libero fregit?",
+      "answer": "Trecentorum assium.",
+      "question_en": "What fine in asses does a man incur under the Law of the Twelve Tables for breaking a free man's bone with hand or club?",
+      "answer_en": "Three hundred asses.",
+      "derivation": "The os fractum tariff: 300 asses for a free man's broken bone. Quoted by Gellius 20.1.12 and Gaius (D. 47.10.7); the free/slave differential made it a textbook citation. Single number answer supported verbatim (CCC).",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 3",
+      "source_text": "Manu fustive si os fregit libero, CCC assium, si servo, CL assium poenam subito",
+      "question": "Quot assium poenam subit ex lege duodecim tabularum, qui manu fustive os servo fregit?",
+      "answer": "Centum quinquaginta assium.",
+      "question_en": "What fine in asses does a man incur under the Law of the Twelve Tables for breaking a slave's bone with hand or club?",
+      "answer_en": "One hundred and fifty asses.",
+      "derivation": "Second half of the os fractum tariff: 150 asses when the victim is a slave — exactly half the free man's rate, the celebrated status differential of archaic delict law. Single number answer supported verbatim (CL).",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 4",
+      "source_text": "si iniuriam faxsit, viginti quinque poenae asses sunto.",
+      "question": "Quot asses poenae sunt ex lege duodecim tabularum, si quis iniuriam alteri fecit?",
+      "answer": "Viginti quinque.",
+      "question_en": "How many asses is the penalty under the Law of the Twelve Tables if a man has committed a simple outrage (iniuria) against another?",
+      "answer_en": "Twenty-five.",
+      "derivation": "The 25-as fine for iniuria, made famous by Gellius 20.1.13: L. Veratius strolled about slapping free men while a slave paid out the twenty-five asses on the spot — the anecdote that showed the tariff obsolete. Single number answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 5",
+      "source_text": "rupsit . . . sarcito.",
+      "question": "Quid eum, qui rupit, id est damnum dedit, lex duodecim tabularum facere iubet?",
+      "answer": "Sarcire.",
+      "question_en": "What does the Law of the Twelve Tables order the man who has 'broken' — that is, done damage — to do?",
+      "answer_en": "To make it good (repair the loss).",
+      "derivation": "The damnum kernel rupsit... sarcito: whoever damages must make whole. Festus glosses rupitias = damnum dederit and sarcito = solvito, praestato from this clause, the ancestor of the law of damage later covered by the lex Aquilia. The two surviving words state protasis and remedy; single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 8",
+      "source_text": "Qui fruges excantassit . . . neve alienam segetem pellexeris . . . capite.",
+      "question": "Qua poena lex duodecim tabularum eum adficit, qui fruges excantavit alienamve segetem pellexit?",
+      "answer": "Poena capitis.",
+      "question_en": "With what penalty does the Law of the Twelve Tables strike the man who has charmed away the crops or lured off another's harvest by spells?",
+      "answer_en": "A capital penalty.",
+      "derivation": "The crop-magic clauses (fruges excantare, segetem pellicere), punished capitally — Pliny, NH 28.17-18 cites both, and the acquittal of C. Furius Cresimus on this very charge (NH 18.41-43) kept them famous. 'Capite' is the edition's supplement printed with the fragment (brackets stripped per guidelines). Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 12",
+      "source_text": "si nox furtum faxsit, si occisit, iure caesus esto.",
+      "question": "Quid iuris est ex lege duodecim tabularum, si quis furem nocturnum occidit?",
+      "answer": "Iure caesus est.",
+      "question_en": "What is the legal position under the Law of the Twelve Tables if a man has killed a thief in the night?",
+      "answer_en": "The thief is lawfully slain (the killing is lawful).",
+      "derivation": "The night-thief clause: si nox furtum faxsit, si occisit, iure caesus esto — the nocturnal thief may be killed with impunity. Quoted by Macrobius, Sat. 1.4.19 and Cicero, Pro Milone 9; the day/night contrast is the celebrated point. Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 13",
+      "source_text": "Luci . . . si se telo defendit, . . . endoque plorato.",
+      "question": "Quo solo casu furem luci deprehensum occidere licet ex lege duodecim tabularum?",
+      "answer": "Si se telo defendit.",
+      "question_en": "In what single case may a thief caught by daylight be killed under the Law of the Twelve Tables?",
+      "answer_en": "Only if he defends himself with a weapon.",
+      "derivation": "Counterpart of the night-thief rule: by day (luci) the thief may be killed only si se telo defendit, and the killer must raise the cry (endoque plorato). Attested by Gaius (D. 9.2.4.1) and Cicero, Pro Milone 9. The condition is the single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 15",
+      "source_text": "Lance et licio ito.",
+      "question": "Quibus rebus instructus furtum in aliena domo quaerere debet, qui ex lege duodecim tabularum quaerit?",
+      "answer": "Lance et licio.",
+      "question_en": "Equipped with what objects must a man search another's house for stolen goods, under the Law of the Twelve Tables?",
+      "answer_en": "With a dish and a loincloth (lanx et licium).",
+      "derivation": "The ritual search quaestio lance licioque: the searcher enters girt only with a licium, holding a lanx. Described — and mocked as absurd — by Gaius, Inst. 3.192-193, and discussed by Gellius 11.18.9 and Festus; one of the most famous curiosities of the Tables. Two-item supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 16",
+      "source_text": "Si adorat furto, quod nec manifestum erit . . ., duplione damnum decidito.",
+      "question": "Quanti damnum decidere debet fur ex lege duodecim tabularum, cuius furtum nec manifestum est?",
+      "answer": "Duplione.",
+      "question_en": "At what rate must a thief settle the loss under the Law of the Twelve Tables when his theft is not manifest?",
+      "answer_en": "At double the value (twofold damages).",
+      "derivation": "The furtum nec manifestum tariff: double damages (duplione damnum decidito), against the fourfold or capital consequences of manifest theft — the classic distinction reported by Gaius, Inst. 3.190-191 from the Tables. Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 21",
+      "source_text": "Patronus si clienti fraudem fecerit, sacer esto.",
+      "question": "Quid fit patronus ex lege duodecim tabularum, si clienti fraudem fecerit?",
+      "answer": "Sacer.",
+      "question_en": "What does a patron become under the Law of the Twelve Tables if he has wronged his client?",
+      "answer_en": "Accursed (sacer — forfeited to the gods, an outlaw).",
+      "derivation": "The patronage clause: patronus si clienti fraudem fecerit, sacer esto — the faithless patron becomes sacer, killable without penalty. Quoted by Servius (ad Aen. 6.609); the sanctity of the patron-client bond is core Roman social knowledge. Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 22",
+      "source_text": "Qui se sierit testarier libripensve fuerit, ni testimonium fatiatur, inprobus intestabilisque esto.",
+      "question": "Quid fit ex lege duodecim tabularum, qui testis libripensve fuit neque testimonium fatetur?",
+      "answer": "Improbus intestabilisque.",
+      "question_en": "What becomes of a man, under the Law of the Twelve Tables, who has acted as witness or scale-holder and then refuses to bear his testimony?",
+      "answer_en": "Dishonored and disqualified from witnessing (improbus intestabilisque).",
+      "derivation": "The perfidious-witness clause, quoted by Gellius 15.13.11: whoever served as testis or libripens in a formal act and will not vouch for it becomes inprobus intestabilisque — the origin of the proverbial word intestabilis. Two-word supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. VIII 24",
+      "source_text": "Si telum manu fugit magis quam iecit, arietem subicito.",
+      "question": "Quid subicere debet ex lege duodecim tabularum is, cuius telum manu fugit magis quam iecit?",
+      "answer": "Arietem.",
+      "question_en": "What must a man offer in substitution, under the Law of the Twelve Tables, if his weapon flew from his hand rather than being thrown?",
+      "answer_en": "A ram.",
+      "derivation": "The accidental-homicide clause: where the weapon escaped the hand (no intent), a ram is offered in the victim's place — expiation instead of punishment. Cicero cites the clause (Topica 64; Pro Tullio 51), and the ram-substitution is a famous relic of sacral law. Single named-animal answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. IX 1",
+      "source_text": "privilegia ne inroganto.",
+      "question": "Quid de privilegiis lex duodecim tabularum sanxit?",
+      "answer": "Ne inrogarentur.",
+      "question_en": "What did the Law of the Twelve Tables ordain concerning privilegia (laws aimed at single individuals)?",
+      "answer_en": "That they not be enacted (laws against individuals were forbidden).",
+      "derivation": "The ban on privilegia, cited with pride by Cicero, De legibus 3.11 and 3.44: no law may be proposed against a private individual. Anchored to the named law and the named institution; the prohibition itself is the short supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. IX 2",
+      "source_text": "de capite civis nisi per maximum comitiatum . . . ne ferunto.",
+      "question": "Per quem comitiatum solum de capite civis ferri licet ex lege duodecim tabularum?",
+      "answer": "Per maximum comitiatum.",
+      "question_en": "Through which assembly alone may a vote touching the caput (life and status) of a citizen be carried, under the Law of the Twelve Tables?",
+      "answer_en": "Only through the greatest assembly (the comitiatus maximus, i.e. the comitia centuriata).",
+      "derivation": "The capital-jurisdiction guarantee: de capite civis only per maximum comitiatum — which Cicero, De legibus 3.11 and 3.44 (cf. De re publica 2.61) identifies with the comitia centuriata. A pillar of the citizen's protections, endlessly invoked in the late Republic. Single supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. X 1",
+      "source_text": "Hominem mortuum in urbe ne sepelito neve urito.",
+      "question": "Ubi hominem mortuum sepeliri urive lex duodecim tabularum vetat?",
+      "answer": "In urbe.",
+      "question_en": "Where does the Law of the Twelve Tables forbid a dead man to be buried or burned?",
+      "answer_en": "In the city.",
+      "derivation": "The most famous funerary provision of Roman law: hominem mortuum in urbe ne sepelito neve urito (quoted by Cicero, De legibus 2.58) — the reason Roman tombs line the roads outside the gates. Anchored to the named law; single place answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. X 2",
+      "source_text": "hoc plus ne facito: rogum ascea ne polito.",
+      "question": "Qua re rogum poliri lex duodecim tabularum vetat?",
+      "answer": "Ascea.",
+      "question_en": "With what tool does the Law of the Twelve Tables forbid the funeral pyre to be smoothed?",
+      "answer_en": "With the adze (ascia) — the pyre wood was to be left rough.",
+      "derivation": "The funeral-expense limits of tab. X: rogum ascea ne polito — no dressed timber for the pyre, a curb on funerary display quoted by Cicero, De legibus 2.59. Single named-tool answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. X 4",
+      "source_text": "Mulieres genas ne radunto neve lessum funeris ergo habento.",
+      "question": "Quae duo facere mulieres in funere lex duodecim tabularum vetat?",
+      "answer": "Genas radere et lessum habere.",
+      "question_en": "What two things does the Law of the Twelve Tables forbid women to do at a funeral?",
+      "answer_en": "To tear their cheeks and to raise the ritual wailing (lessus).",
+      "derivation": "The mourning restraints on women: genas ne radunto (no lacerating the cheeks) neve lessum habento (no wailing-chant), quoted and discussed by Cicero, De legibus 2.59, who puzzles over the archaic word lessus. Complete two-item supported answer.",
+      "category": "mores"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. X 5",
+      "source_text": "Homine mortuo ne ossa legito, quo post funus faciat.",
+      "question": "Quid homine mortuo legi vetat lex duodecim tabularum, quo post funus alterum fiat?",
+      "answer": "Ossa.",
+      "question_en": "What does the Law of the Twelve Tables forbid to be gathered from the dead, for the purpose of holding a second funeral later?",
+      "answer_en": "The bones.",
+      "derivation": "The one-funeral rule: ne ossa legito, quo post funus faciat — the bones may not be collected to stage a later funeral (Cicero, De legibus 2.60 notes the exception for death in war or abroad). Single supported answer (ossa).",
+      "category": "mores"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. X 8",
+      "source_text": "Neve aurum addito.",
+      "question": "Quod metallum cum mortuo poni lex duodecim tabularum vetat?",
+      "answer": "Aurum.",
+      "question_en": "Which metal does the Law of the Twelve Tables forbid to be placed with the dead?",
+      "answer_en": "Gold.",
+      "derivation": "The grave-goods restriction: neve aurum addito — no gold in the burial, part of the sumptuary program of tab. X quoted by Cicero, De legibus 2.60. Single named-metal answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. X 8",
+      "source_text": "Neve aurum addito. At cui auro dentes iuncti escunt. Ast in cum illo sepeliet uretve, se fraude esto.",
+      "question": "Quod unum aurum cum mortuo sine fraude sepelire urereve licet ex lege duodecim tabularum?",
+      "answer": "Aurum quo dentes iuncti sunt.",
+      "question_en": "What is the one gold that may lawfully be buried or burned with the dead under the Law of the Twelve Tables?",
+      "answer_en": "The gold with which his teeth are bound (dental gold).",
+      "derivation": "The celebrated exception to the gold ban: teeth fastened with gold may be buried or burned with the body se fraude — without penalty. Cicero, De legibus 2.60 quotes the clause with amusement; earliest evidence for Roman dental prosthetics. Single supported answer.",
+      "category": "mores"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. XI 1 (Cicero, De re publica 2.36-37)",
+      "source_text": "qui duabus tabulis iniquarum legum additis...conubia haec illi ut ne plebei cum patribus essent, inhumanissima lege sanxerunt.",
+      "question": "Quorum inter se conubia duae postremae tabulae legum duodecim vetuerunt?",
+      "answer": "Plebis cum patribus.",
+      "question_en": "Marriages between which two orders did the last two of the Twelve Tables forbid?",
+      "answer_en": "Between plebeians and patricians.",
+      "derivation": "The notorious conubium ban of the eleventh table, branded inhumanissima lex by Cicero (De re publica 2.63, quoted in the text) and repealed by the lex Canuleia of 445 BC — a hinge of the Struggle of the Orders and standard Roman historical knowledge. Two-order supported answer.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. XI (Cicero, De re publica 2.36-37)",
+      "source_text": "Qui Xviri cum X tabulas summa legum aequitate prudentiaque conscripsissent, in annum posterum Xviros alios subrogaverunt",
+      "question": "Quot tabulas legum priores decemviri summa aequitate conscripserunt, ut Cicero tradit?",
+      "answer": "Decem.",
+      "question_en": "How many tables of laws did the first board of decemvirs draw up with the greatest fairness, as Cicero relates?",
+      "answer_en": "Ten.",
+      "derivation": "Cicero, De re publica (quoted in the text): the first decemvirate of 451 BC wrote ten tables summa aequitate; the second board added the rest. The 10 + 2 structure of the code is ambient knowledge (cf. Livy 3.34, 3.37). Single number answer supported verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. XI (Cicero, De re publica 2.36-37)",
+      "source_text": "qui duabus tabulis iniquarum legum additis...conubia haec illi ut ne plebei cum patribus essent, inhumanissima lege sanxerunt.",
+      "question": "Quot tabulas iniquarum legum posteriores decemviri decem prioribus addiderunt, ut Cicero tradit?",
+      "answer": "Duas.",
+      "question_en": "How many tables of unjust laws did the later decemvirs add to the first ten, as Cicero relates?",
+      "answer_en": "Two.",
+      "derivation": "Cicero, De re publica (quoted in the text): the second decemvirate added duabus tabulis iniquarum legum — the two 'unjust tables' completing the twelve. Complements the ten-tables pair; single number answer supported verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. XII 3",
+      "source_text": "Si vindiciam falsam tulit, si velit is . . . tor arbitros tris dato",
+      "question": "Quot arbitri dantur ex lege duodecim tabularum, si quis vindiciam falsam tulit?",
+      "answer": "Tres.",
+      "question_en": "How many arbiters are appointed under the Law of the Twelve Tables when a man has carried off a false claim of interim possession (vindicia)?",
+      "answer_en": "Three.",
+      "derivation": "The false-vindicia clause: the magistrate (the mutilated '...tor' = praetor) gives three arbiters to assess the wrongful possession. The number tris is clean in the fragment; single number answer supported verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Lex XII Tabularum, tab. XII 3",
+      "source_text": "Si vindiciam falsam tulit, si velit is . . . tor arbitros tris dato, eorum arbitrio . . . fructus duplione damnum decidito.",
+      "question": "Quanti damnum decidere debet ex lege duodecim tabularum, qui vindiciam falsam tulit?",
+      "answer": "Fructus duplione.",
+      "question_en": "At what rate must the man who carried off a false claim of possession settle the loss, under the Law of the Twelve Tables?",
+      "answer_en": "At double the fruits (twice the produce of the thing).",
+      "derivation": "Sanction of the false-vindicia clause: fructus duplione damnum decidito — restitution at double the fruits, by the arbiters' award (cf. Festus s.v. vindiciae). The doubled-fruits measure is the single supported answer.",
+      "category": "ius"
+    }
+  ]
+}
