@@ -1,0 +1,268 @@
+{
+  "source": "text/apicius/apicius7.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber VII (Polyteles)",
+  "provenance": "Bibliotheca Augustana (www.hs-augsburg.de/~harsch), text after the Teubner edition (M. E. Milham)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 7.1.3",
+      "source_text": "Vulvae et steriles: pipere, liquamine, lasere Parthico adponis.",
+      "question": "Quo lasere vulvae steriles apud Apicium adponuntur?",
+      "answer": "Lasere Parthico.",
+      "question_en": "With what laser are sterile sows' wombs (vulvae steriles) served in Apicius?",
+      "answer_en": "With Parthian laser.",
+      "derivation": "Vulva sterilis, the womb of a sow that has not farrowed, was among the most celebrated delicacies of the Roman table (cf. Martial and Pliny); Apicius serves it with pepper, liquamen and Parthian laser. Named delicacy plus named spice origin; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.1.6",
+      "source_text": "Vulvam ut tostam facias, in cantabro involve et postea in muriam mitte et sic coque.",
+      "question": "Quo involvitur vulva apud Apicium, ut tosta fiat?",
+      "answer": "Cantabro.",
+      "question_en": "In what is the sow's womb wrapped in Apicius, to make it come out 'toasted'?",
+      "answer_en": "In bran.",
+      "derivation": "The trick for vulva tosta: wrap the womb in bran (cantabrum), then cook it in brine. Single-word answer verbatim (in cantabro involve), tied to the famous delicacy.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.2.2",
+      "source_text": "Sumen plenum: teritur piper, careum, echinus salsus, consuitur et sic coquitur. manducatur cum allece, sinapi.",
+      "question": "Quod animal marinum salsum in sumen plenum apud Apicium teritur?",
+      "answer": "Echinus salsus.",
+      "question_en": "What salted sea creature is ground into the stuffed sow's udder (sumen plenum) in Apicius?",
+      "answer_en": "Salted sea urchin.",
+      "derivation": "Sumen, the sow's udder, was a proverbial Roman luxury; the stuffed version (sumen plenum) is filled with pepper, caraway and salted sea urchin and sewn up. Surprising surf-and-turf pairing; verbatim (echinus salsus).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.2.2",
+      "source_text": "Sumen plenum: teritur piper, careum, echinus salsus, consuitur et sic coquitur. manducatur cum allece, sinapi.",
+      "question": "Cum quibus sumen plenum apud Apicium manducatur?",
+      "answer": "Cum allece et sinapi.",
+      "question_en": "With what is the stuffed sow's udder eaten in Apicius?",
+      "answer_en": "With allec (fish-sauce dregs) and mustard.",
+      "derivation": "The serving rule for the luxury udder: it is eaten with allec — the thick residue of fish sauce — and mustard. Two-item answer verbatim (manducatur cum allece, sinapi).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.3.1",
+      "source_text": "In ficato oenogarum: piper, thymum, ligusticum, liquamen, vinum modice, oleum.",
+      "question": "Quod ius in ficato apud Apicium paratur?",
+      "answer": "Oenogarum.",
+      "question_en": "What sauce is prepared for ficatum (fig-fattened liver) in Apicius?",
+      "answer_en": "Oenogarum (wine and fish-sauce).",
+      "derivation": "Ficatum — liver of an animal fattened on figs — is the luxury whose name became the Romance word for liver itself (fegato, foie, higado); Apicius dresses it with oenogarum. Named delicacy plus named sauce, verbatim in the rubric.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.3.2",
+      "source_text": "Aliter: ficatum praecidis ad cannam, infundis in liquamine. teres piper, ligusticum, bacas lauri duas. involves in omento et in craticula assas et inferes.",
+      "question": "Quo involvitur ficatum apud Apicium, priusquam in craticula assatur?",
+      "answer": "Omento.",
+      "question_en": "In what is the ficatum wrapped in Apicius before it is roasted on the gridiron?",
+      "answer_en": "In caul fat (omentum).",
+      "derivation": "The grilled version of the fig-liver: soaked in liquamen, seasoned with two bay berries, wrapped in caul fat and grilled. Single-word answer verbatim (involves in omento).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.4.1",
+      "source_text": "Ofellas Ostienses: in ofillam designas ofellas in cute, ita ut cutis sic remaneat. teres piper, ligusticum, anethum, cuminum, silphium, bacam lauri unam, suffundis liquamen, fricas, in angularem refundis simul cum ofellis. ubi requieverint, in condimentis biduo vel triduo ponis, surclas decussatim, et in furnum mittis.",
+      "question": "Quamdiu ofellae Ostienses apud Apicium in condimentis ponuntur?",
+      "answer": "Biduo vel triduo.",
+      "question_en": "For how long are the Ostian ofellae (pork morsels) left in their marinade in Apicius?",
+      "answer_en": "For two or three days.",
+      "derivation": "Ofellae Ostienses, the pork morsels named for Ostia, Rome's port: scored in the skin, marinated two or three days, skewered crosswise and baked. Place-named dish with a duration answer, verbatim (in condimentis biduo vel triduo ponis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.4.2",
+      "source_text": "Ofellas Apicianas: ofellas exossas, in rotundum complicas, surclas, ad furnum admoves.",
+      "question": "In quam formam ofellae Apicianae exossatae apud Apicium complicantur?",
+      "answer": "In rotundum.",
+      "question_en": "Into what shape are the boned Apician ofellae folded in Apicius?",
+      "answer_en": "Into a round.",
+      "derivation": "Ofellae Apicianae — the morsels bearing Apicius' own name — are boned, folded into a round, skewered and oven-dried before finishing in their sauce. Author-named dish; verbatim (in rotundum complicas).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.5.1",
+      "source_text": "Assaturam: assam a furno simplicem salis plurimo conspersam cum melle inferes.",
+      "question": "Cum quo assatura simplex, sale plurimo conspersa, apud Apicium infertur?",
+      "answer": "Cum melle.",
+      "question_en": "With what is the plain roast, sprinkled with plenty of salt, served in Apicius?",
+      "answer_en": "With honey.",
+      "derivation": "The simplest roast of the luxury book: straight from the oven, heavily salted, served with honey. The Roman sweet-salt taste in one sentence; verbatim (cum melle inferes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.9.1",
+      "source_text": "Pernam, ubi eam cum caricis plurimis elixaveris et tribus lauri foliis, detracta cute tessellatim incidis et melle complebis.",
+      "question": "Cum quibus pomis perna apud Apicium elixatur?",
+      "answer": "Cum caricis plurimis.",
+      "question_en": "With what fruit is the ham boiled in Apicius?",
+      "answer_en": "With plenty of dried figs.",
+      "derivation": "The celebrated Apician ham: boiled with plenty of dried figs and three bay leaves, then skinned, scored in squares and filled with honey. Anchored to perna; answer verbatim (cum caricis plurimis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.9.1",
+      "source_text": "Pernam, ubi eam cum caricis plurimis elixaveris et tribus lauri foliis, detracta cute tessellatim incidis et melle complebis. deinde farinam oleo subactam contexes et ei corium reddis ut, cum farina cocta fuerit, eximas furno est et inferes.",
+      "question": "Qua re perna melle completa apud Apicium contegitur, priusquam in furnum mittitur?",
+      "answer": "Farina oleo subacta.",
+      "question_en": "With what is the honey-filled ham covered in Apicius before it goes into the oven?",
+      "answer_en": "With flour dough worked with oil.",
+      "derivation": "The second act of the fig-boiled ham: a dough of flour and oil is laid over it to 'give it back its skin,' and it bakes until the crust is done — ham baked in pastry. Answer verbatim (farinam oleo subactam contexes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.9.3",
+      "source_text": "Petasonem ex musteis: petasonem elixas cum bilibri hordei et caricis XXV.",
+      "question": "Cum quot caricis petaso apud Apicium elixatur?",
+      "answer": "Cum viginti quinque.",
+      "question_en": "With how many dried figs is the petaso (fore-ham) boiled in Apicius?",
+      "answer_en": "With twenty-five.",
+      "derivation": "The petaso (shoulder-ham) is boiled with two pounds of barley and exactly twenty-five dried figs. Named cut with a hard number, verbatim (caricis XXV).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.9.4",
+      "source_text": "Laridi coctura: tectum aqua cum multo anetho coques, oleum modicum distillabis et modicum salis.",
+      "question": "Cum quo condimento multo laridum apud Apicium coquitur?",
+      "answer": "Cum anetho.",
+      "question_en": "With plenty of what herb is bacon (laridum) boiled in Apicius?",
+      "answer_en": "With dill.",
+      "derivation": "The standard treatment of laridum, the cured pork fat of the Roman larder: boiled covered in water with much dill, a little oil and salt. Staple food, one-herb answer verbatim (cum multo anetho).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.11.1",
+      "source_text": "Dulcia domestica: palmulas vel dactilos excepto semine, nuce vel nucleis vel piper tritum infercies. sales foris contingis, frigis in melle cocto, et inferes.",
+      "question": "In quo dulcia domestica — dactili nucibus farti — apud Apicium friguntur?",
+      "answer": "In melle cocto.",
+      "question_en": "In what are the 'household sweets' — dates stuffed with nuts — fried in Apicius?",
+      "answer_en": "In cooked honey.",
+      "derivation": "Dulcia domestica: pitted dates stuffed with nuts, pine nuts or ground pepper, salted outside and fried in cooked honey. The classic Roman sweetmeat; verbatim (frigis in melle cocto).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.11.2",
+      "source_text": "Aliter dulcia: musteos Afros optimos rades et in lacte infundis. cum biberint, in furnum mittis, ne arescant, modice. eximes eos calidos, melle perfundis, compungis ut bibant. piper aspargis et inferes.",
+      "question": "Cuius terrae mustei optimi in dulcia apud Apicium in lacte infunduntur?",
+      "answer": "Africae.",
+      "question_en": "Must-cakes of what land, reckoned the best, are soaked in milk for a sweet in Apicius?",
+      "answer_en": "Of Africa.",
+      "derivation": "The dessert of African must-cakes (mustei Afri optimi) soaked in milk, warmed, drenched in honey and dusted with pepper. Geographic brand of Roman baking; verbatim (musteos Afros optimos).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.11.3",
+      "source_text": "Aliter dulcia: siligineos rasos frangis, et buccellas maiores facies. in lacte infundis, frigis et in oleo, mel superfundis et inferes.",
+      "question": "Quo buccellae siligineae, in lacte infusae et in oleo frictae, apud Apicium perfunduntur?",
+      "answer": "Melle.",
+      "question_en": "With what are pieces of fine wheat bread, soaked in milk and fried in oil, doused in Apicius?",
+      "answer_en": "With honey.",
+      "derivation": "The famous Apician fried-bread dessert — wheat bread soaked in milk, fried in oil, drowned in honey — the ancestor of French toast. Verbatim (in lacte infundis, frigis et in oleo, mel superfundis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.11.7",
+      "source_text": "Tyropatinam: accipies lac, adversus quod patinam aestimabis, temperabis lac cum melle quasi ad lactantia, ova quinque ad sextarium mittis, si ad heminam, ova tria.",
+      "question": "Quot ova ad sextarium lactis in tyropatinam apud Apicium mittuntur?",
+      "answer": "Quinque.",
+      "question_en": "How many eggs go to a sextarius of milk in the tyropatina (milk custard) in Apicius?",
+      "answer_en": "Five.",
+      "derivation": "Tyropatina, the Roman milk-and-honey custard: five eggs to a sextarius of milk (three to a hemina), cooked over a slow fire. Named dish with a hard ratio, verbatim (ova quinque ad sextarium).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.11.8",
+      "source_text": "Ova spongia ex lacte: ova quattuor, lactis heminam, olei unciam in se dissolvis, ita ut unum corpus facias. in patellam subtilem adicies olei modicum, facies ut bulliat, et adicies impensam quam parasti. una parte cum fuerit coctum, in disco vertes, melle perfundis, piper adspargis et inferes.",
+      "question": "Quot ova in ova spongia ex lacte apud Apicium mittuntur?",
+      "answer": "Quattuor.",
+      "question_en": "How many eggs go into the milk omelette (ova spongia ex lacte) in Apicius?",
+      "answer_en": "Four.",
+      "derivation": "Ova spongia, the 'sponge' omelette of four eggs, a hemina of milk and an ounce of oil, turned out, honeyed and peppered. Named dish with a count answer, verbatim (ova quattuor).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.12.3",
+      "source_text": "Varro: si quid de bulbis dixi, «in aquam qui Veneris ostium quaerunt», deinde ut legitimis nuptiis in cena ponuntur, sed et cum nucleis pineis aut cum erucae suco et pipere.",
+      "question": "Quis auctor de bulbis in libro septimo Apicii citatur?",
+      "answer": "Varro.",
+      "question_en": "Which author is quoted on bulbs in the seventh book of Apicius?",
+      "answer_en": "Varro.",
+      "derivation": "The bulb chapter cites Varro by name on the aphrodisiac repute of bulbs ('those who seek the door of Venus'). The one literary authority quoted in the book; single-name answer verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.12.3",
+      "source_text": "Varro: si quid de bulbis dixi, «in aquam qui Veneris ostium quaerunt», deinde ut legitimis nuptiis in cena ponuntur, sed et cum nucleis pineis aut cum erucae suco et pipere.",
+      "question": "In quibus cenis bulbi, ut apud Apicium ex Varrone refertur, ponuntur?",
+      "answer": "In cenis nuptiarum legitimarum.",
+      "question_en": "At what dinners are bulbs served, as reported from Varro in Apicius?",
+      "answer_en": "At the dinners of lawful weddings.",
+      "derivation": "Bulbs, credited with stirring Venus, were served at the wedding dinner of a lawful marriage — a custom of daily life preserved in a cookbook via Varro. Verbatim (legitimis nuptiis in cena ponuntur).",
+      "category": "mores"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.13.4",
+      "source_text": "Boletos fungos: caroenum, fasciculum coriandri viridis. ubi ferbuerint, exempto fasciculo inferes.",
+      "question": "In quo liquore boleti apud Apicium cum fasciculo coriandri viridis coquuntur?",
+      "answer": "In caroeno.",
+      "question_en": "In what liquid are boletus mushrooms cooked with a bundle of green coriander in Apicius?",
+      "answer_en": "In caroenum (boiled-down wine).",
+      "derivation": "Boleti, the most prized mushrooms of the Roman table (the mushroom of the Claudius story), are simmered in caroenum with a coriander bundle that is discarded at serving. Named luxury food; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.14.1",
+      "source_text": "Tubera radis, elixas, sale aspergis, et surculo infiges. subassas, et mittes in caccabum oleum, liquamen, caroenum, vinum, piper et mel.",
+      "question": "Quo tubera apud Apicium infiguntur, priusquam subassantur?",
+      "answer": "Surculo.",
+      "question_en": "On what are truffles stuck in Apicius before they are lightly roasted?",
+      "answer_en": "On a twig (skewer).",
+      "derivation": "The truffle chapter's master method: scraped, boiled, salted truffles are spitted on a twig and part-roasted before saucing. Truffles were a celebrated Roman luxury; verbatim (surculo infiges).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.14.2",
+      "source_text": "si volueris, eadem tubera omento porcino involves et assabis et sic inferes.",
+      "question": "Quo tubera, si assare volueris, apud Apicium involvuntur?",
+      "answer": "Omento porcino.",
+      "question_en": "In what are truffles wrapped in Apicius, if you wish to roast them?",
+      "answer_en": "In pig's caul fat.",
+      "derivation": "The roasted variant: truffles wrapped in pig's caul and roasted whole. Two-word answer verbatim (omento porcino involves).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.16.1",
+      "source_text": "Cochleas lacte pastas: accipies cochleas, spongizabis, membranam tolles, ut possint prodire. adicies in vas lac et salem uno die, ceteris diebus in lac per se, et omni hora mundabis stercus. cum pastae fuerint, ut non possint se retrahere . . . et ex oleo friges.",
+      "question": "Quo cibo cochleae apud Apicium pascuntur, donec se retrahere non possint?",
+      "answer": "Lacte.",
+      "question_en": "On what food are snails fattened in Apicius until they can no longer draw themselves back into their shells?",
+      "answer_en": "On milk.",
+      "derivation": "The famous milk-fed snails (cochleae lacte pastae): kept in milk until too fat to withdraw into the shell, then fried in oil. One of the best-known excesses of Roman gastronomy; verbatim in the rubric and recipe.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.17.1",
+      "source_text": "Ova frixa: oenogarata.",
+      "question": "Quo iure ova frixa apud Apicium apponuntur?",
+      "answer": "Oenogaro.",
+      "question_en": "With what sauce are fried eggs served in Apicius?",
+      "answer_en": "With oenogarum (wine and fish-sauce).",
+      "derivation": "The shortest recipe in Apicius: fried eggs are 'oenogarata' — dressed with oenogarum. Fried eggs under fish sauce is a hallmark of Roman taste; the whole recipe is the answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 7.17.3",
+      "source_text": "In ovis hapalis: piper, ligusticum, nucleos infusos. suffundes mel, acetum, liquamine temperabis.",
+      "question": "Quod dulce in ius ovorum hapalorum apud Apicium suffunditur?",
+      "answer": "Mel.",
+      "question_en": "What sweetener is poured into the sauce for soft-boiled eggs in Apicius?",
+      "answer_en": "Honey.",
+      "derivation": "The celebrated sauce for ova hapala (soft-boiled eggs): pepper, lovage and soaked pine nuts, with honey and vinegar tempered with liquamen — sweet-sour-salt on eggs. Verbatim (suffundes mel).",
+      "category": "cibus"
+    }
+  ]
+}

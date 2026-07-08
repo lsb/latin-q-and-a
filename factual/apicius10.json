@@ -1,0 +1,78 @@
+{
+  "source": "text/apicius/apicius10.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber X (Halieus)",
+  "provenance": "Bibliotheca Augustana (www.hs-augsburg.de/~harsch), text after the Teubner edition (M. E. Milham)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 10.1.1",
+      "source_text": "Ius diabotanon in pisce frixo: piscem quemlibet curas, lavas, friges. teres piper, cuminum, coriandri semen, laseris radicem, origanum, rutam, fricabis, suffundes acetum, adicies caryotam, mel, defritum, oleum, liquamen, temperabis, refundes in caccabum, facies ut ferveat. cum ferbuerit, piscem frictum perfundes, piper asperges et inferes.",
+      "question": "Cuiusmodi pisci ius diabotanon apud Apicium paratur?",
+      "answer": "Pisci frixo.",
+      "question_en": "For what kind of fish is the ius diabotanon (herb sauce) prepared in Apicius?",
+      "answer_en": "For fried fish.",
+      "derivation": "Book X (Halieus) opens with the Greek-named ius diabotanon, 'sauce of herbs,' assigned in its rubric to fried fish of any kind. Named sauce with a single serving rule; verbatim (ius diabotanon in pisce frixo... piscem frictum perfundes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 10.1.4",
+      "source_text": "piscem curabis diligenter, mittes in mortarium salem, coriandri semen, conteres bene, volves eum, adicies in patinam, cooperies, gypsabis, coques in furno. cum coctus fuerit, tolles, aceto acerrimo asperges et inferes.",
+      "question": "Qua re patina cooperta, in qua piscis sale et coriandro volutus in furno coquitur, apud Apicium clauditur?",
+      "answer": "Gypso.",
+      "question_en": "With what is the covered pan sealed in Apicius, in which the fish rolled in salt and coriander is baked?",
+      "answer_en": "With gypsum (plaster).",
+      "derivation": "The hermetically baked fish: rolled in pounded salt and coriander, covered in the pan, sealed with plaster, oven-baked and finished with the sharpest vinegar. The plaster seal is the memorable, checkable step; verbatim (cooperies, gypsabis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 10.1.6",
+      "source_text": "Ius Alexandrinum in pisce asso: piper, cepam siccam, ligusticum, cuminum, origanum, apii semen, pruna damascena enucleata, mulsum, acetum, liquamen, defritum, oleum, et coques.",
+      "question": "Cuiusmodi pisci ius Alexandrinum apud Apicium convenit?",
+      "answer": "Pisci asso.",
+      "question_en": "For what kind of fish is the Alexandrian sauce suited in Apicius?",
+      "answer_en": "For roasted fish.",
+      "derivation": "The ius Alexandrinum, the sauce named for Alexandria, given three times in book X and always for roast fish (in pisce asso). Place-named sauce with one serving rule; verbatim in all three rubrics.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 10.1.6",
+      "source_text": "Ius Alexandrinum in pisce asso: piper, cepam siccam, ligusticum, cuminum, origanum, apii semen, pruna damascena enucleata, mulsum, acetum, liquamen, defritum, oleum, et coques.",
+      "question": "Quae pruna in ius Alexandrinum in pisce asso apud Apicium mittuntur?",
+      "answer": "Damascena enucleata.",
+      "question_en": "What plums go into the Alexandrian sauce for roasted fish in Apicius?",
+      "answer_en": "Pitted damsons (Damascus plums).",
+      "derivation": "The Alexandrian sauce is built on pitted Damascus plums (pruna damascena) — two eastern place-names in one dish, and the fruit-in-fish-sauce signature of Roman cooking. Verbatim (pruna damascena enucleata).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 10.2.1",
+      "source_text": "Ius in murena assa: piper, ligusticum, satureiam, crocomagma, cepa, pruna damascena enucleata, vinum, mulsum, acetum, liquamen, defritum, oleum, et coques.",
+      "question": "Quod condimentum ex croco factum in ius in murenam assam apud Apicium mittitur?",
+      "answer": "Crocomagma.",
+      "question_en": "What saffron preparation goes into the sauce for roasted moray in Apicius?",
+      "answer_en": "Crocomagma (pressed saffron residue).",
+      "derivation": "The moray eel, the most storied fish of Roman luxury (kept in the piscinae of the rich), gets a sauce containing crocomagma, the pressed cake of saffron unguent — an exotic pharmacological luxury in the kitchen. Verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 10.3.1",
+      "source_text": "Ius in anguilla: piper, ligusticum, apii semen, anethum, rhus Syriacum, caryotam, mel, acetum, liquamen, oleum, sinape et defritum.",
+      "question": "Quod condimentum Syriacum in ius in anguillam apud Apicium mittitur?",
+      "answer": "Rhus Syriacum.",
+      "question_en": "What Syrian seasoning goes into the sauce for eel in Apicius?",
+      "answer_en": "Syrian sumac (rhus Syriacum).",
+      "derivation": "The eel chapter's sauce features rhus Syriacum, the imported sumac of Syria — a geographically branded spice on a named fish. Verbatim; the same spice recurs in the boiled moray sauce.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 10.2.12",
+      "source_text": "Ius in dentice asso: piper, ligusticum, coriandrum, mentam, rutam aridam, malum cydonium coctum, mel, vinum, liquamen, oleum. calefacies, amulo obligabis.",
+      "question": "Quod pomum coctum in ius in denticem assum apud Apicium mittitur?",
+      "answer": "Malum cydonium.",
+      "question_en": "What cooked fruit goes into the sauce for roasted dentex in Apicius?",
+      "answer_en": "A quince.",
+      "derivation": "The sauce for roast dentex is anchored by a cooked quince (malum cydonium) — the one whole fruit among the seasonings, the sweet-sour fish dressing of the Roman table. Verbatim (malum cydonium coctum).",
+      "category": "cibus"
+    }
+  ]
+}

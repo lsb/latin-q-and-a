@@ -1,0 +1,118 @@
+{
+  "source": "text/apicius/apicius9.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber IX (Thalassa)",
+  "provenance": "Bibliotheca Augustana (www.hs-augsburg.de/~harsch), text after the Teubner edition (M. E. Milham)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 9.1.2",
+      "source_text": "Locustas assas sic facies: aperiuntur locustae, ut assolet, cum testa sua et infunditur eis piperatum, coriandratum, et sic in craticula assantur.",
+      "question": "Cum qua re locustae apud Apicium in craticula assantur?",
+      "answer": "Cum testa sua.",
+      "question_en": "With what still on are lobsters roasted on the gridiron in Apicius?",
+      "answer_en": "With their shell.",
+      "derivation": "Grilled lobster (locusta), a showpiece of the Roman seafood table: split open in the usual way, doused with pepper-and-coriander sauce and grilled in the shell, basted whenever it dries. Verbatim (cum testa sua... in craticula assantur).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.1.4",
+      "source_text": "Aliter locusta: isicia de cauda eius sic facies: folium nocivum prius demes et elixas, deinde pulpam concides, cum liquamine, pipere et ovis isicia formabis.",
+      "question": "Ex qua parte locustae isicia apud Apicium formantur?",
+      "answer": "Ex cauda.",
+      "question_en": "From what part of the lobster are rissoles formed in Apicius?",
+      "answer_en": "From the tail.",
+      "derivation": "Lobster rissoles (isicia) are made from the tail meat, after the harmful gut-strip is removed, bound with liquamen, pepper and eggs. Named preparation from a named part; verbatim (isicia de cauda eius).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.2.2",
+      "source_text": "In torpedine elixa: piper, ligusticum, petroselinum, mentam, origanum, ovi medium, mel, liquamen, passum, vinum, oleum. si voles, addes sinape, acetum. si calidum volueris, uvam passam addes.",
+      "question": "Quid iuri in torpedinem elixam apud Apicium additur, si calidum volueris?",
+      "answer": "Uva passa.",
+      "question_en": "What is added to the sauce for boiled torpedo ray in Apicius, if you want it served hot?",
+      "answer_en": "Raisins.",
+      "derivation": "The torpedo (electric ray) was a delicacy of the Roman fish market; its boiled dressing takes raisins when the dish is to be served hot. The one marked variant of the recipe; verbatim (si calidum volueris, uvam passam addes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.4.2",
+      "source_text": "Sic farcies eam sepiam coctam: cerebella elixa enerviata teres cum piper, cui commisces ova cruda quod satis erit, piper integrum, isicia minuta, et sic consues et in bullientem ollam mittes ita ut coire impensa possit.",
+      "question": "Quibus praecipue sepia cocta apud Apicium farcitur?",
+      "answer": "Cerebellis elixis.",
+      "question_en": "With what, chiefly, is the cooked cuttlefish stuffed in Apicius?",
+      "answer_en": "With boiled brains.",
+      "derivation": "The stuffed cuttlefish (sepia farsilis): filled with pounded boiled brains, raw eggs, whole pepper and little rissoles, sewn shut and dropped into a boiling pot so the stuffing sets. Verbatim (cerebella elixa enerviata teres).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.5",
+      "source_text": "In polypo: pipere, liquamine, lasere. inferes.",
+      "question": "Quibus tribus rebus polypus apud Apicium infertur?",
+      "answer": "Pipere, liquamine, lasere.",
+      "question_en": "With what three things is the octopus served in Apicius?",
+      "answer_en": "With pepper, liquamen, and laser.",
+      "derivation": "The entire octopus chapter is one line: pepper, liquamen, laser, serve. The three-ingredient dressing is the whole recipe — the minimal Roman treatment of a celebrated sea creature; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.6",
+      "source_text": "In ostreis: piper, ligusticum, ovi vitellum, acetum, liquamen, oleum et vinum. si volueris, et mel addes.",
+      "question": "Quid iuri in ostreis apud Apicium, si volueris, additur?",
+      "answer": "Mel.",
+      "question_en": "What may be added to the sauce for oysters in Apicius, if you wish?",
+      "answer_en": "Honey.",
+      "derivation": "Oysters, the emblematic Roman luxury shellfish, take an egg-yolk and vinegar dressing to which honey may be added — the sweet option marked in the text itself. Verbatim (si volueris, et mel addes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.8.5",
+      "source_text": "Aliter: echinis salsis liquamen optimum admisces, et quasi recentes apparebunt, ita ut a balneo sumi possint.",
+      "question": "Quo admixto echini salsi apud Apicium quasi recentes apparebunt?",
+      "answer": "Liquamine optimo.",
+      "question_en": "With what mixed in will salted sea urchins appear as if fresh, according to Apicius?",
+      "answer_en": "With the best liquamen.",
+      "derivation": "A counterfeit in the Apician manner: preserved sea urchins revived with top-grade liquamen pass for fresh, 'fit to be taken after the bath' — the after-bath snack of Roman daily life. Verbatim (liquamen optimum admisces, et quasi recentes apparebunt).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.10.1",
+      "source_text": "sardam farsilem sic facere oportet: sarda exossatur, et teritur puleium, cuminum, piperis grana, menta, nuces, mel. impletur et consuitur. involvitur in charta et sic supra vaporem ignis in operculo componitur.",
+      "question": "Quo involuta sarda farsilis apud Apicium supra vaporem ignis componitur?",
+      "answer": "Charta.",
+      "question_en": "Wrapped in what is the stuffed sarda set over rising steam to cook in Apicius?",
+      "answer_en": "In papyrus paper.",
+      "derivation": "The stuffed sarda (young tuna), boned, filled with a pennyroyal-nut-honey pounding, sewn up, wrapped in papyrus and steamed — cooking en papillote in the Roman kitchen. Verbatim (involvitur in charta et sic supra vaporem ignis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.10.10",
+      "source_text": "Salsum sine salso: iecur coques, teres, et mittes piper aut liquamen aut salem. addes oleum. iecur leporis aut haedi aut agni aut pulli, et, si volueris, in formella piscem formabis. oleum viridem supra adicies.",
+      "question": "In cuius animalis figuram iecur tritum in salso sine salso apud Apicium formatur?",
+      "answer": "In piscis figuram.",
+      "question_en": "Into the shape of what animal is the ground liver molded in the 'salt fish without salt fish' of Apicius?",
+      "answer_en": "Into the shape of a fish.",
+      "derivation": "Salsum sine salso, the famous Apician counterfeit: seasoned liver of hare, kid, lamb or chicken is pressed in a little mold into the shape of a fish and glossed with green oil. Named trompe-l'oeil dish; verbatim (in formella piscem formabis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.10.12",
+      "source_text": "Aliter salsum sine salso: cuminum tantum quantum quinque digitis tollis, piperis ad dimidium eius et unam spicam alei purgatam teres, liquamen superfundes, oleum modice superstillabis. hoc aegrum stomachum valde reficit et digestionem facit.",
+      "question": "Quid salsum sine salso ex cumino, pipere et aleo apud Apicium valde reficit?",
+      "answer": "Aegrum stomachum.",
+      "question_en": "What does the 'salt fish without salt fish' of cumin, pepper, and garlic greatly restore, according to Apicius?",
+      "answer_en": "A sick stomach.",
+      "derivation": "The dietetic claim attached to the cumin-pepper-garlic salsum sine salso: it strongly restores a sick stomach and aids digestion — food as medicine, a fixture of Roman table culture. Verbatim (hoc aegrum stomachum valde reficit et digestionem facit).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 9.11",
+      "source_text": "Embractum Baianum: ostreas minutas, sphondylos, urticas in caccabum mittes, nucleos tostos concisos, rutam, apium, piper, coriandrum, cuminum, passum , liquamen, caryotam, oleum.",
+      "question": "Quae animalia marina in embractum Baianum apud Apicium mittuntur?",
+      "answer": "Ostreae minutae, sphondyli, urticae.",
+      "question_en": "What sea creatures go into the embractum Baianum (Baian seafood stew) in Apicius?",
+      "answer_en": "Small oysters, sphondyli (scallop-like shellfish), and sea anemones.",
+      "derivation": "Embractum Baianum, the stew named for Baiae, the oyster-famed pleasure resort on the Bay of Naples: little oysters, sphondyli and sea nettles simmered with toasted pine nuts and raisin wine. Place-named dish; the three creatures stated verbatim at its head.",
+      "category": "cibus"
+    }
+  ]
+}

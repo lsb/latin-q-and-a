@@ -1,0 +1,118 @@
+{
+  "source": "text/apicius/vinidarius.txt",
+  "author": "Vinidarius (ex Apicio)",
+  "work": "Apici excerpta a Vinidario",
+  "provenance": "Bibliotheca Augustana (www.hs-augsburg.de/~harsch), text after the Teubner edition (M. E. Milham)",
+  "pairs": [
+    {
+      "locus": "Apici excerpta a Vinidario, Brevis pimentorum",
+      "source_text": "BREVIS PIMENTORVM quae in domo esse debeant ut condimentis nihil desit: Crocum, piper, zingiber, lasar, folium, baca myrtae costum, cariofilum, spica Indica, addena, cardamomum, spica nardi.",
+      "question": "Quo consilio brevis pimentorum in excerptis Vinidarii conscriptus est?",
+      "answer": "Ut condimentis nihil desit.",
+      "question_en": "For what purpose was the 'short list of spices' drawn up in the excerpts of Vinidarius?",
+      "answer_en": "So that nothing be lacking for the seasonings.",
+      "derivation": "The Brevis pimentorum, the checklist of the Roman spice cupboard, states its own purpose in its rubric: these are the things that ought to be in the house 'so that nothing be lacking for the seasonings.' The existence and aim of the household spice list is a cultural fact in itself; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario, Brevis pimentorum",
+      "source_text": "BREVIS PIMENTORVM quae in domo esse debeant ut condimentis nihil desit: Crocum, piper, zingiber, lasar, folium, baca myrtae costum, cariofilum, spica Indica, addena, cardamomum, spica nardi.",
+      "question": "Quod aroma primum in brevi pimentorum Vinidarii nominatur?",
+      "answer": "Crocum.",
+      "question_en": "What aromatic is named first in Vinidarius' short list of spices?",
+      "answer_en": "Saffron (crocum).",
+      "derivation": "The spice-cupboard list opens with crocum — saffron heads the Roman seasoning inventory, before even pepper. Order fact of a famous list; verbatim (Crocum, piper, zingiber...).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario, Brevis pimentorum",
+      "source_text": "De pomis siccis hoc: damascena, dactilos, uvam passam, granata. Haec omnia in loco sicco pone, ne odorem et virtutem perdant.",
+      "question": "In quali loco pimenta secundum brevem Vinidarii ponenda sunt, ne odorem et virtutem perdant?",
+      "answer": "In loco sicco.",
+      "question_en": "In what kind of place must the spices be kept, according to Vinidarius' list, lest they lose their scent and potency?",
+      "answer_en": "In a dry place.",
+      "derivation": "The storage rule closing the Brevis pimentorum: everything in the spice cupboard goes in a dry place so it loses neither scent nor strength. Household doctrine with a two-word answer; verbatim (in loco sicco pone).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 6",
+      "source_text": "OFELLAS GARATON: Lasar, zingiber, cardamomum et uno acetabulo liquaminis misces cum his omnibus tritis et ibi ofellas coques.",
+      "question": "Quae duo aromata cum lasare in ofellas garaton in excerptis Vinidarii teruntur?",
+      "answer": "Zingiber et cardamomum.",
+      "question_en": "What two aromatics are ground with laser for the ofellae 'garaton' in the excerpts of Vinidarius?",
+      "answer_en": "Ginger and cardamom.",
+      "derivation": "The garum-sauced ofellae of the excerpts cook in a pounding of laser, ginger and cardamom in a measure of liquamen — the eastern spice trade in a pork dish. Two-name answer verbatim (zingiber, cardamomum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 7",
+      "source_text": "PISCES SCORPIONES RAPVLATOS: Coquis in liquamen et oleo et cum mediaverit coctura, tolles. rapas elixas madidas et minutissime concisas manibus depressabis, ut humorem non habeant, et cum pisce obligas, et bulliat cum oleo abunde. et, iam bullivit, teres cuminum, lauri bacam dimidiam, addes propter colorem crocum. amulabis de oryza propter spissitudinem. superfundes et tunc inferes. addes modicum acetum.",
+      "question": "Quid piscibus scorpionibus rapulatis propter colorem in excerptis Vinidarii additur?",
+      "answer": "Crocum.",
+      "question_en": "What is added for the sake of color to the scorpion fish with turnips in the excerpts of Vinidarius?",
+      "answer_en": "Saffron.",
+      "derivation": "The scorpion fish with turnips (pisces scorpiones rapulati) is colored with saffron, the text stating the reason itself (propter colorem). Named dish with a single-word answer; verbatim (addes propter colorem crocum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 7",
+      "source_text": "PISCES SCORPIONES RAPVLATOS: Coquis in liquamen et oleo et cum mediaverit coctura, tolles. rapas elixas madidas et minutissime concisas manibus depressabis, ut humorem non habeant, et cum pisce obligas, et bulliat cum oleo abunde. et, iam bullivit, teres cuminum, lauri bacam dimidiam, addes propter colorem crocum. amulabis de oryza propter spissitudinem. superfundes et tunc inferes. addes modicum acetum.",
+      "question": "Ex quo grano fit amulum, quo pisces scorpiones rapulati in excerptis Vinidarii propter spissitudinem obligantur?",
+      "answer": "Ex oryza.",
+      "question_en": "From what grain is the starch made with which the scorpion fish with turnips is thickened in the excerpts of Vinidarius?",
+      "answer_en": "From rice.",
+      "derivation": "The dish is thickened with rice starch (amulum de oryza) — rice, an exotic import, appearing in the late Roman kitchen as a thickener, with the purpose stated (propter spissitudinem). Verbatim (amulabis de oryza).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 19",
+      "source_text": "PATINA SOLEARVM EX OVIS: Rades, purgas, componis in patinam, adicies liquamen, oleum, vinum, fasciculum porri et coriandri semen, mittis ut coquatur. teres piper modicum, origanum, suffundis ius de suo sibi, adicies iuri decem cruda ova, dissolvis et in unum corpus facies.",
+      "question": "Quot ova cruda iuri patinae solearum in excerptis Vinidarii adiciuntur?",
+      "answer": "Decem.",
+      "question_en": "How many raw eggs are added to the sauce of the sole patina in the excerpts of Vinidarius?",
+      "answer_en": "Ten.",
+      "derivation": "The patina of soles with eggs: ten raw eggs are beaten into the pan juice to set over the fish on a slow fire. Named dish with a hard count; verbatim (decem cruda ova).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 23",
+      "source_text": "PORCELLVM THYMO SPARSVM: Porcellum lactentem pridie occisum elixas sale et anethum et in aqua frigida adsidue intingis, ut candorem habeat.",
+      "question": "Quo consilio porcellus thymo sparsus in aqua frigida adsidue in excerptis Vinidarii intingitur?",
+      "answer": "Ut candorem habeat.",
+      "question_en": "For what purpose is the thyme-sprinkled suckling pig repeatedly dipped in cold water in the excerpts of Vinidarius?",
+      "answer_en": "So that it may have whiteness.",
+      "derivation": "The thyme-strewn suckling pig, killed the day before, is boiled with salt and dill and plunged again and again into cold water to whiten the flesh — the aesthetic of the pale-boiled pig, purpose stated verbatim (ut candorem habeat).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 24",
+      "source_text": "PORCELLVM OXYZOMVM: Porcellum accuratum ornabis et mittis in iuscellum sic conditum: adicies in mortario piper grana L, mellis quantum competat, cepas siccas III, coriandri viridis sive sicci modicum, liquaminis heminam, olei sextarium I, aquae heminam I, simul temperas in caccabulo.",
+      "question": "Quot piperis grana in iuscellum porcelli oxyzomi in excerptis Vinidarii mittuntur?",
+      "answer": "Quinquaginta.",
+      "question_en": "How many peppercorns go into the broth for the porcellus oxyzomus in the excerpts of Vinidarius?",
+      "answer_en": "Fifty.",
+      "derivation": "The porcellus oxyzomus ('sharp-broth pig') is braised in a counted seasoning: fifty peppercorns, three dry onions, honey, a hemina of liquamen. Named dish with a hard number; verbatim (piper grana L).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 28",
+      "source_text": "HAEDVM LASARATVM: Haedi intestinas bene purgatas imples piper, liquamen, lasar, oleum et intra haedum mittes et bene consues et cum haedo simul coquuntur.",
+      "question": "Quae pars haedi lasarati impleta intra haedum in excerptis Vinidarii remittitur?",
+      "answer": "Intestina.",
+      "question_en": "What part of the laser-seasoned kid is stuffed and put back inside the kid in the excerpts of Vinidarius?",
+      "answer_en": "The intestines.",
+      "derivation": "The haedus lasaratus: the kid's cleaned intestines are filled with pepper, liquamen, laser and oil, returned inside the animal, sewn in and cooked with it. Named dish; verbatim (intestinas... imples... et intra haedum mittes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apici excerpta a Vinidario 29",
+      "source_text": "TVRDOS APONCOMENOS: Teres piper, lasar, bacam lauri, admisces cuminum, garum et sic turdum per guttur imples et filo ligabis.",
+      "question": "Per quam partem turdi aponcomeni in excerptis Vinidarii implentur?",
+      "answer": "Per guttur.",
+      "question_en": "Through what part are the thrushes 'aponcomenoi' filled in the excerpts of Vinidarius?",
+      "answer_en": "Through the throat.",
+      "derivation": "The turdi aponcomenoi, thrushes with a Greek dish-name: filled through the throat with a laser-bay-cumin-garum pounding and tied off with thread. Thrushes were the prized small bird of the Roman table; verbatim (turdum per guttur imples et filo ligabis).",
+      "category": "cibus"
+    }
+  ]
+}

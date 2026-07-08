@@ -1,0 +1,258 @@
+{
+  "source": "text/apicius/apicius8.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber VIII (Tetrapus)",
+  "provenance": "Bibliotheca Augustana (www.hs-augsburg.de/~harsch), text after the Teubner edition (M. E. Milham)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 8.1.1",
+      "source_text": "Aper ita conditur: spongiatur, et sic aspergitur ei sal, cuminum tritum, et sic manet. alia die mittitur in furnum.",
+      "question": "Quibus aper apud Apicium aspergitur, ut conditus alia die in furnum mittatur?",
+      "answer": "Sale et cumino trito.",
+      "question_en": "With what is the wild boar sprinkled in Apicius, so seasoned that the next day it goes into the oven?",
+      "answer_en": "With salt and ground cumin.",
+      "derivation": "The boar chapter's opening cure: the sponged boar is rubbed with salt and ground cumin and left overnight before roasting. Wild boar was the showpiece of the Roman banquet; answer verbatim (sal, cuminum tritum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.1.2",
+      "source_text": "Aliter in apro: aqua marina cum ramulis lauri aprum elixas quousque madescat. corium ei tolles. cum sale, sinape, aceto inferes.",
+      "question": "In qua aqua aper cum ramulis lauri apud Apicium elixatur?",
+      "answer": "In aqua marina.",
+      "question_en": "In what water is the wild boar boiled with laurel twigs in Apicius?",
+      "answer_en": "In sea water.",
+      "derivation": "The second boar recipe boils the beast in sea water with bay twigs until tender, then serves it with salt, mustard and vinegar. Striking, checkable method fact; verbatim (aqua marina cum ramulis lauri).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.1.10",
+      "source_text": "Perna apruna ita impletur Terentina: per articulum pernae palum mittes ita ut cutem a carne separes, ut possit condimentum accipere per cornulum et universa impleatur.",
+      "question": "Per quod instrumentum perna apruna Terentina apud Apicium condimento impletur?",
+      "answer": "Per cornulum.",
+      "question_en": "Through what implement is the Terentine boar ham filled with its seasoning in Apicius?",
+      "answer_en": "Through a little horn.",
+      "derivation": "Perna apruna Terentina, the boar ham with a proper name: a stake loosens the skin at the joint so the marinade can be poured in through a small horn; it is then boiled in sea water with bay shoots. Named dish plus a one-word implement, verbatim (per cornulum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.4.2",
+      "source_text": "Ius in venationibus omnibus elixis et assis: piperis scripulos VIII, rutam, ligusticum, apii semen, iuniperum, thymum, mentam aridam scripulos senos, pulei scripulos III. haec omnia ad levissimum pulverem rediges et in uno commisces et teres. adicies in vasculum melle quod satis erit, et his uteris cum oxygaro.",
+      "question": "Cum quo garo ius in venationibus omnibus apud Apicium adhibetur?",
+      "answer": "Cum oxygaro.",
+      "question_en": "With what garum preparation is the sauce for all game used in Apicius?",
+      "answer_en": "With oxygarum (vinegar and garum).",
+      "derivation": "The universal game seasoning: a spice powder ground fine, stored under honey in a little jar, and used with oxygarum for all venison, boiled or roast. A pantry staple of the hunt; verbatim (his uteris cum oxygaro).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.6.6",
+      "source_text": "Haedus sive agnus syringiatus id est mammotestis: exossatur diligenter a gula, sic ut uter fiat, et intestina eius integra exinaniantur, ita ut in caput intestina sufflentur, et per novissimam partem stercus exinanibitur.",
+      "question": "In cuius rei modum haedus syringiatus apud Apicium a gula exossatur?",
+      "answer": "In modum utris.",
+      "question_en": "Into the likeness of what is the 'piped' kid (haedus syringiatus) boned from the throat in Apicius?",
+      "answer_en": "Into the likeness of a wineskin.",
+      "derivation": "Haedus syringiatus, the showpiece boned kid: carefully deboned through the gullet so that the whole animal becomes a bag (uter) to be filled. Named preparation; verbatim (sic ut uter fiat).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.6.10",
+      "source_text": "Haedum sive agnum Parthicum: mittes in furnum. teres piper, rutam, cepam, satureiam, damascena enucleata, laseris modicum, vinum, liquamen, et oleum vinum. fervens colluitur in disco, ex aceto sumitur.",
+      "question": "Ex quo haedus Parthicus apud Apicium sumitur?",
+      "answer": "Ex aceto.",
+      "question_en": "With what is the Parthian kid eaten in Apicius?",
+      "answer_en": "With vinegar.",
+      "derivation": "Haedus Parthicus, the kid named for Parthia: oven-roasted, rinsed boiling with its sauce on the platter, and taken with vinegar. Place-named dish; two-word answer verbatim (ex aceto sumitur).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.6.11",
+      "source_text": "Haedum laureatum ex lacte: haedum curas, exossas, interanea eius cum coagulo tolles, lavas. adicies in mortarium piper, ligusticum, laseris radicem, bacas lauri duas, pyrethri modicum, cerebella duo vel tria. haec omnia teres, suffundes liquamen, temperabis ex sale. super trituram colas lactis sextarios duos, mellis ligulas duas.",
+      "question": "Quot sextarii lactis super trituram haedi laureati apud Apicium colantur?",
+      "answer": "Duo.",
+      "question_en": "How many sextarii of milk are strained over the ground seasoning for the laurelled kid in Apicius?",
+      "answer_en": "Two.",
+      "derivation": "Haedus laureatus ex lacte, the 'laurelled kid in milk': two sextarii of milk and two spoonfuls of honey are strained over the pounded seasoning (with two bay berries, matching the name). Named dish with a hard measure; verbatim (lactis sextarios duos).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.8.12",
+      "source_text": "Leporem pipere sicco sparsum: et hunc praecondies sicut haedum Tarpeianum.",
+      "question": "Ad cuius haedi exemplum lepus pipere sicco sparsus apud Apicium praeconditur?",
+      "answer": "Haedi Tarpeiani.",
+      "question_en": "On the model of which kid is the hare 'sprinkled with dry pepper' pre-seasoned in Apicius?",
+      "answer_en": "Of the Tarpeian kid.",
+      "derivation": "Apicius cross-references his own repertory: the dry-peppered hare is pre-seasoned exactly like the haedus Tarpeianus, the kid named for Rome's Tarpeian rock. Two named dishes in one sentence; verbatim (sicut haedum Tarpeianum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.1",
+      "source_text": "Porcellum farsilem duobus generis: curas, a gutture extenteras, a cervice ornas. antequam praedures, subaperies auriculam sub cutem, mittes impensam Terentinam in vesicam bubulam et fistulam aviarii rostro vesicae alligabis, per quam exprimes in aurem quantum ceperit.",
+      "question": "Per quam partem porcelli farsilis impensa Terentina apud Apicium exprimitur?",
+      "answer": "Per auriculam.",
+      "question_en": "Through what part of the stuffed suckling pig is the Terentine stuffing pressed in, in Apicius?",
+      "answer_en": "Through the ear.",
+      "derivation": "The double-stuffed suckling pig: the named Terentine stuffing is loaded into an ox bladder fitted with a bird-fancier's tube and squeezed in under the skin through the ear. Named stuffing plus an unforgettable method; verbatim (exprimes in aurem).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.5",
+      "source_text": "Porcellum assum tractomelinum: porcellum curatum a gutture extenteras, siccas. teres piperis unciam, mel, vinum, impones ut ferveat, tractam siccatam confringes et partibus caccabo permisces. agitabis surculo lauri viridis, tam diu coques, donec lenis fiat et impinguet.",
+      "question": "Quo surculo impensa porcelli tractomelini apud Apicium agitatur?",
+      "answer": "Surculo lauri viridis.",
+      "question_en": "With what twig is the stuffing of the tractomelinum suckling pig stirred in Apicius?",
+      "answer_en": "With a twig of green laurel.",
+      "derivation": "Porcellus tractomelinus, the pig stuffed with pastry-and-honey (tracta + mel): its filling is stirred with a green laurel twig until smooth and rich. Named dish; verbatim (agitabis surculo lauri viridis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.6",
+      "source_text": "Porcellum lacte pastum elixum calidum iure frigido crudo Apiciano: adicies in mortarium piper, ligusticum, coriandri semen, mentam, rutam, fricabis, suffundes liquamen, adicies mel, vinum, et liquamine temperabisporcellum elixum ferventem sabano mundo siccatum perfundes et inferes.",
+      "question": "Quo iure porcellus lacte pastus elixus calidus apud Apicium perfunditur?",
+      "answer": "Iure frigido crudo Apiciano.",
+      "question_en": "With what sauce is the milk-fed suckling pig, boiled and served hot, doused in Apicius?",
+      "answer_en": "With cold raw Apician sauce.",
+      "derivation": "The milk-fed suckling pig (porcellus lacte pastus), boiled and served steaming under an uncooked cold sauce that carries Apicius' own name. Author-named sauce on a luxury animal; verbatim in the rubric.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.7",
+      "source_text": "Porcellum Vitellianum: porcellum ornas quasi aprum, sale asparges, in furno assas.",
+      "question": "Quasi quod animal porcellus Vitellianus apud Apicium ornatur?",
+      "answer": "Quasi aper.",
+      "question_en": "Like what animal is the Vitellian suckling pig dressed in Apicius?",
+      "answer_en": "Like a wild boar.",
+      "derivation": "Porcellus Vitellianus, the suckling pig bearing the name of Vitellius, the glutton emperor: it is trussed up in the guise of a wild boar, salted and oven-roasted. Person-named dish; verbatim (ornas quasi aprum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.8",
+      "source_text": "Porcellum Flaccianum: porcellum ornas in modum apri, sale asperges et in furnum mittes. dum coquitur, adicies in mortarium piper, ligusticum, careum, apii semen, laseris radicem, rutam viridem, fricabis, suffundes liquamen, vino et passo temperabis. in caccabo cum olei modico ferveat. amulo obligas. porcellum coctum ab ossibus tanges, apii semen teres ita ut fiat pulvis, asperges et inferes.",
+      "question": "Cuius seminis pulvis porcello Flacciano cocto apud Apicium aspergitur?",
+      "answer": "Apii seminis.",
+      "question_en": "The powder of what seed is sprinkled over the cooked Flaccian suckling pig in Apicius?",
+      "answer_en": "Of celery seed.",
+      "derivation": "Porcellus Flaccianus, named for a Flaccus: boar-style roast pig finished with celery seed ground to powder. Person-named dish with a single-seed answer; verbatim (apii semen teres ita ut fiat pulvis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.9",
+      "source_text": "Porcellum laureatum: porcellum exossas, quasi oenogaratum ornas, praeduras. laurum viridem in medio franges satis, in furno assas, et mittes in mortarium piper, ligusticum, careum, apii semen, laseris radicem, bacas lauri.",
+      "question": "Quid in medio porcelli laureati apud Apicium frangitur?",
+      "answer": "Laurus viridis.",
+      "question_en": "What is broken into the middle of the 'laurelled' suckling pig in Apicius?",
+      "answer_en": "Green laurel.",
+      "derivation": "Porcellus laureatus earns its name: plenty of green laurel is broken into the boned pig's middle before roasting, and the pig is 'taken out of the laurel' at saucing. Named dish; verbatim (laurum viridem in medio franges satis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.10",
+      "source_text": "Frontinianum porcellum: exossas, praeduras, ornas. adicies in caccabum liquamen, vinum, obligas fasciculum porri, anethi, media coctura mittes defritum.",
+      "question": "Quid media coctura in porcellum Frontinianum apud Apicium mittitur?",
+      "answer": "Defritum.",
+      "question_en": "What is added at mid-cooking to the Frontinian suckling pig in Apicius?",
+      "answer_en": "Defrutum (boiled-down must).",
+      "derivation": "Porcellus Frontinianus, a pig bearing the name Frontinus/Fronto: braised with a leek-and-dill bundle, colored with defrutum added halfway through the cooking. Person-named dish; verbatim (media coctura mittes defritum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.12",
+      "source_text": "Porcellum Celsinianum: ornas, infundes pipere, ruta, cepa, satureia sub cute suo et ova infundes per auriculam, et ex pipere, liquamine, vino modico in acetabulum temperas, et sumes.",
+      "question": "Per quam partem ova in porcellum Celsinianum apud Apicium infunduntur?",
+      "answer": "Per auriculam.",
+      "question_en": "Through what part are eggs poured into the Celsinian suckling pig in Apicius?",
+      "answer_en": "Through the ear.",
+      "derivation": "Porcellus Celsinianus, named for a Celsinus: seasoned under the skin and filled with eggs poured in through the ear. Person-named dish with a one-word route; verbatim (ova infundes per auriculam).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.14",
+      "source_text": "Porcellum hortulanum: porcellus hortulanus exossatur per gulam in modum utris. mittitur in eo pullus isiciatus particulatim concisus, turdi, ficetulae, isicia de pulpa sua, lucanicae, dactili exossati, fabriles bulbi, cochleae exemptae, malvae, betae, porri, apium, cauliculi elixi, coriandrum, piper integrum, nuclei, ova XV superinfunduntur, liquamen piperatum ova mittantur tria.",
+      "question": "Quot ova impensae porcelli hortulani apud Apicium superinfunduntur?",
+      "answer": "Quindecim.",
+      "question_en": "How many eggs are poured over the stuffing of the 'gardener's' suckling pig in Apicius?",
+      "answer_en": "Fifteen.",
+      "derivation": "Porcellus hortulanus, the extravagant pig stuffed like a wineskin with birds, sausages, snails and vegetables: fifteen eggs are poured over the filling. Named showpiece dish with a hard number; verbatim (ova XV superinfunduntur).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.14",
+      "source_text": "Porcellum hortulanum: porcellus hortulanus exossatur per gulam in modum utris. mittitur in eo pullus isiciatus particulatim concisus, turdi, ficetulae, isicia de pulpa sua, lucanicae, dactili exossati, fabriles bulbi, cochleae exemptae, malvae, betae, porri, apium, cauliculi elixi, coriandrum, piper integrum, nuclei, ova XV superinfunduntur, liquamen piperatum ova mittantur tria.",
+      "question": "Quae aves parvae in porcellum hortulanum apud Apicium mittuntur?",
+      "answer": "Turdi et ficetulae.",
+      "question_en": "What small birds go into the 'gardener's' suckling pig in Apicius?",
+      "answer_en": "Thrushes and fig-peckers.",
+      "derivation": "Inside the porcellus hortulanus go whole thrushes and fig-peckers — the two prized small birds of the Roman table — along with chopped chicken forcemeat and Lucanian sausages. Two-name answer verbatim (turdi, ficetulae).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.16",
+      "source_text": "Porcellum Traianum sic facies: exossas porcellum et aptabis sicuti oenococtum et ad fumum suspendes, et adpendeas, et quantum adpendeas, tantum salis in ollam mittes. et elixas ut coquatur, et siccum in lance inferes pro salso recente.",
+      "question": "Quantum salis in ollam pro porcello Traiano apud Apicium mittitur?",
+      "answer": "Tantum quantum porcellus adpendet.",
+      "question_en": "How much salt goes into the pot for the Trajanic suckling pig in Apicius?",
+      "answer_en": "As much as the pig weighs.",
+      "derivation": "Porcellum Traianum, the pig named for Trajan: hung in the smoke, then weighed, and its own weight in salt goes into the pot for the boiling. Emperor-named dish with a measure rule; verbatim (quantum adpendeas, tantum salis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.7.16",
+      "source_text": "Porcellum Traianum sic facies: exossas porcellum et aptabis sicuti oenococtum et ad fumum suspendes, et adpendeas, et quantum adpendeas, tantum salis in ollam mittes. et elixas ut coquatur, et siccum in lance inferes pro salso recente.",
+      "question": "Pro quo cibo porcellus Traianus siccus in lance apud Apicium infertur?",
+      "answer": "Pro salso recente.",
+      "question_en": "In place of what food is the Trajanic suckling pig served dry on the platter in Apicius?",
+      "answer_en": "In place of fresh-salted meat.",
+      "derivation": "The point of the Trajanic pig: smoked, brine-boiled and served dry, it passes for salsum recens — fresh salt-cured meat. Named dish; verbatim (inferes pro salso recente).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.8.5",
+      "source_text": "Aliter in leporem: ex sanguine et iecinere et pulmonibus leporinis minutal: adicies in caccabum liquamen et oleum, cocturam, porrum et coriandrum minutatim concides, iecinera et pulmones in caccabum mittes.",
+      "question": "Ex quibus leporis partibus minutal apud Apicium fit?",
+      "answer": "Ex sanguine, iecinere et pulmonibus.",
+      "question_en": "From what parts of the hare is a minutal (stew) made in Apicius?",
+      "answer_en": "From the blood, the liver, and the lungs.",
+      "derivation": "The hare-giblet minutal, a named class of Roman stew, built on the hare's blood, liver and lungs. The rubric states the three parts in so many words; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.8.7",
+      "source_text": "Leporem Passenianum: leporem curas, exossas, extensum ornas, suspendes ad fumum. cum coloraverit, facies ut dimidia coctura coquatur.",
+      "question": "Quo lepus Passenianus exossatus apud Apicium suspenditur, ut coloretur?",
+      "answer": "Ad fumum.",
+      "question_en": "Where is the boned Passenian hare hung in Apicius, so that it takes color?",
+      "answer_en": "In the smoke.",
+      "derivation": "Lepus Passenianus, the hare named for a Passenus/Passienus: boned, stretched, and hung in the smoke until colored, then half-cooked and roasted. Person-named dish; verbatim (suspendes ad fumum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.8.11",
+      "source_text": "Leporis conditura: teritur piper, ruta, cepula et iecur leporis, liquamen, caroenum, passum, olei modicum. amulum, cum bullit.",
+      "question": "Quod viscus leporis in leporis condituram apud Apicium teritur?",
+      "answer": "Iecur.",
+      "question_en": "What organ of the hare is ground into the hare's own sauce in Apicius?",
+      "answer_en": "The liver.",
+      "derivation": "The leporis conditura thickens and flavors the hare with its own pounded liver — the liver-bound game sauce that outlived antiquity (cf. civet). One-word answer verbatim (iecur leporis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.9",
+      "source_text": "Glires: isicio porcino, item pulpis ex omni membro glirium trito, cum pipere, nucleis, lasere, liquamine farcies glires, et sutos in tegula positos mittesin furnum aut farsos in clibano coques.",
+      "question": "Quo isicio glires apud Apicium farciuntur?",
+      "answer": "Isicio porcino.",
+      "question_en": "With what forcemeat are dormice stuffed in Apicius?",
+      "answer_en": "With pork forcemeat.",
+      "derivation": "The stuffed dormouse — the most famous dish of Roman gastronomy (cf. Petronius' glires at Trimalchio's table, and the republican sumptuary bans): filled with pork forcemeat and minced dormouse meat, pepper, pine nuts, laser and liquamen. Verbatim (isicio porcino... farcies glires).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 8.9",
+      "source_text": "Glires: isicio porcino, item pulpis ex omni membro glirium trito, cum pipere, nucleis, lasere, liquamine farcies glires, et sutos in tegula positos mittesin furnum aut farsos in clibano coques.",
+      "question": "Quo impositi glires suti apud Apicium in furnum mittuntur?",
+      "answer": "In tegula.",
+      "question_en": "Placed on what are the sewn-up dormice sent into the oven in Apicius?",
+      "answer_en": "On a tile.",
+      "derivation": "The baking of the celebrated dormice: sewn shut, set on a tile, and sent to the oven (or cooked in a clibanus). One-word answer verbatim (in tegula positos).",
+      "category": "cibus"
+    }
+  ]
+}

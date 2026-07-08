@@ -1,0 +1,168 @@
+{
+  "source": "text/apicius/apicius6.txt",
+  "author": "Apicius",
+  "work": "De Re Coquinaria, liber VI (Aeropetes)",
+  "provenance": "Bibliotheca Augustana (www.hs-augsburg.de/~harsch), text after the Teubner edition (M. E. Milham)",
+  "pairs": [
+    {
+      "locus": "Apicius, De Re Coquinaria 6.1.1",
+      "source_text": "In struthione elixo: piper, mentam, cuminum assum, apii semen, dactilos vel caryotas, mel, acetum, passum, liquamen et oleum modice. et in caccabo facies ut bulliat. amulo obligas, et sic partes struthionis in lance perfundis, et desuper piper aspargis. si autem in condituram coquere volueris, alicam addis.",
+      "question": "Quid apud Apicium struthioni additur, si eum in condituram coquere velis?",
+      "answer": "Alica.",
+      "question_en": "What is added in Apicius for the ostrich, if you wish to cook it in its sauce?",
+      "answer_en": "Emmer grits (alica).",
+      "derivation": "Book VI (Aeropetes) opens with boiled ostrich (in struthione elixo), the most spectacular bird of the Roman table; the recipe's one marked variant is that alica goes in when the bird is cooked in the sauce itself. Anchored to Apicius + the ostrich; one-word answer verbatim (alicam addis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.2.2",
+      "source_text": "gruem cum coquis, caput eius aqua quam non contingat, sed sit foris ab aqua.",
+      "question": "Quae pars gruis, dum apud Apicium coquitur, aquam contingere non debet?",
+      "answer": "Caput.",
+      "question_en": "Which part of the crane, while it cooks in Apicius, must not touch the water?",
+      "answer_en": "The head.",
+      "derivation": "The famous crane-cooking trick: the bird is boiled with its head held out of the water. Anchored to the crane in Apicius; single named part, verbatim (caput eius aqua quam non contingat).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.2.2",
+      "source_text": "cum cocta fuerit, de sabano calido involves gruem et caput eius trahe. cum nervis sequetur, ut pulpae vel ossa remaneant, cum nervis enim manducare non potest.",
+      "question": "Quid e grue cocta, cum caput eius tractum est, una sequitur?",
+      "answer": "Nervi.",
+      "question_en": "What comes out of the cooked crane along with the head when the head is pulled?",
+      "answer_en": "The sinews.",
+      "derivation": "The second half of the crane trick: wrap the cooked bird in a warm cloth and pull the head, and the inedible sinews follow it out, leaving meat and bones — 'for with the sinews it cannot be eaten.' Verbatim (cum nervis sequetur).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.3.2",
+      "source_text": "perdices coctura: occisa perdix potest ex iure coqui, ne indurescat. si III dierum fuerit, elixa coqui debet.",
+      "question": "Quot dierum perdix apud Apicium elixa coqui debet?",
+      "answer": "Trium dierum.",
+      "question_en": "A partridge of how many days must be boiled, according to Apicius?",
+      "answer_en": "Three days old.",
+      "derivation": "Kitchen rule for the partridge: freshly killed it may be cooked in its sauce so it does not toughen, but a three-day-old bird must be boiled. Number fact tied to a named game bird; verbatim (si III dierum fuerit, elixa coqui debet).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.5.6",
+      "source_text": "avem sapidiorem et altiliorem facies et ei pinguedinem servabis, si eam farina oleo subacta contextam in furnum miseris.",
+      "question": "Qua re contecta avis in furnum mittitur, ut apud Apicium sapidior et altilior fiat?",
+      "answer": "Farina oleo subacta.",
+      "question_en": "Covered in what is a bird sent into the oven so that, in Apicius, it comes out tastier and plumper?",
+      "answer_en": "In flour dough worked with oil.",
+      "derivation": "Baking a bird in a dough crust to keep its fat and flavor — an ancestor of cooking en croute, offered as the way to make any bird sapidior et altilior. Answer verbatim (farina oleo subacta contextam).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.5.7",
+      "source_text": "Aliter avem: in ventrem eius fractas olivas novas mittis et consutam sic elixabis. deinde coctas olivas eximes.",
+      "question": "Quid in ventrem avis missum et post cocturam exemptum avem apud Apicium condit?",
+      "answer": "Olivae novae fractae.",
+      "question_en": "What is put into a bird's belly and taken out again after cooking, to season the bird in Apicius?",
+      "answer_en": "Fresh cracked olives.",
+      "derivation": "A whole recipe in two sentences: the bird is sewn up around cracked fresh olives, boiled, and the olives are removed — flavoring by insertion. Verbatim (fractas olivas novas... coctas olivas eximes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.6.1",
+      "source_text": "Phoenicopterum eliberas, lavas, ornas, includis in caccabum, adicies aquam, salem, anethum et aceti modicum. dimidia coctura alligas fasciculum porri et coriandri, ut coquatur. prope cocturam defritum mittis, coloras. adicies in mortarium piper, cuminum, coriandrum, laseris radicem, mentam, rutam, fricabis, suffundis acetum, adicies caryotam, ius de suo sibi perfundis. reexinanies in eundem caccabum, amulo obligas, ius perfundis et inferes. idem facies et in psittaco.",
+      "question": "Cui alii avi idem ius quod phoenicoptero Apicius parari iubet?",
+      "answer": "Psittaco.",
+      "question_en": "For what other bird does Apicius direct the same sauce to be made as for the flamingo?",
+      "answer_en": "For the parrot.",
+      "derivation": "The most celebrated line of book VI: the flamingo recipe closes 'idem facies et in psittaco' — the same preparation serves for parrot. Two exotic table birds in one sentence; single-word answer verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.6.3",
+      "source_text": "Aves omnes ne liquescant: cum plumis elixare omnibus melius erit.",
+      "question": "Quomodo aves apud Apicium elixantur, ne liquescant?",
+      "answer": "Cum plumis.",
+      "question_en": "How are birds boiled in Apicius so that they do not fall apart?",
+      "answer_en": "With their feathers on.",
+      "derivation": "General rule of the bird book: boiling any bird in its plumage keeps it from disintegrating. Counterintuitive, memorable kitchen doctrine; verbatim (cum plumis elixare omnibus melius erit).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.7",
+      "source_text": "Anserem elixum calidum ex iure frigido Apiciano: teres piper, ligusticum, coriandri semen, mentam, rutam, refundis liquamen et oleum modice, temperas. anserem elixum ferventem sabano mundo exsiccabis, ius perfundis et inferes.",
+      "question": "Quo iure anser elixus calidus apud Apicium infertur?",
+      "answer": "Iure frigido Apiciano.",
+      "question_en": "With what sauce is hot boiled goose served in Apicius?",
+      "answer_en": "With cold Apician sauce.",
+      "derivation": "The goose chapter is a single dish: hot boiled goose under a cold sauce bearing Apicius' own name (ius frigidum Apicianum). Dish named for the author himself; verbatim in the rubric.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.8.2",
+      "source_text": "Pullum Parthicum: pullum aperies a navi et in quadrato ornas. teres piper, ligusticum, carei modicum. suffunde liquamen. vino temperas. componis in cumana pullum et condituram super pullum facies. laser et vivum in tepida dissolvis, et in pullum mittis simul, et coques.",
+      "question": "Quod condimentum, in aqua tepida dissolutum, in pullum Parthicum apud Apicium mittitur?",
+      "answer": "Laser vivum.",
+      "question_en": "What seasoning, dissolved in warm water, is poured onto the Parthian chicken in Apicius?",
+      "answer_en": "Fresh laser (silphium).",
+      "derivation": "Pullus Parthicus, the chicken named for Parthia, is defined by its dose of laser vivum dissolved in warm water. Place-named dish plus the celebrated Eastern resin; verbatim (laser et vivum in tepida dissolvis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.8.4",
+      "source_text": "Pullum Numidicum: pullum curas, elixas, levas, laser ac piper aspergis et assas.",
+      "question": "Quibus pullus Numidicus apud Apicium aspergitur, priusquam assatur?",
+      "answer": "Lasere ac pipere.",
+      "question_en": "With what is the Numidian chicken sprinkled in Apicius before it is roasted?",
+      "answer_en": "With laser and pepper.",
+      "derivation": "Pullus Numidicus, chicken named for Numidia: parboiled, then dusted with laser and pepper and roasted. Place-named dish; answer verbatim (laser ac piper aspergis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.8.11",
+      "source_text": "Pullus Vardanus: pullum coques iure hoc: liquamine, oleo, vino, cui mittis fasciculum porri, coriandri, satureiae. cum coctus fuerit, teres piper, nucleos cyathos duos et ius de suo sibi suffundis et fasciculos proicies. lac temperas, et reexinanies in mortarium supra pullum, ut ferveat. obligas eundem albamentis ovorum tritis, ponis in lance et iure supra scripto perfundis. hoc ius candidum appellatur.",
+      "question": "Quo nomine ius pulli Vardani, lacte et albamentis ovorum confectum, apud Apicium appellatur?",
+      "answer": "Ius candidum.",
+      "question_en": "By what name is the sauce of the pullus Vardanus, made with milk and egg whites, called in Apicius?",
+      "answer_en": "White sauce (ius candidum).",
+      "derivation": "Pullus Vardanus ends with a naming sentence: its milk-and-egg-white sauce 'is called ius candidum.' A named dish plus a named sauce; verbatim (hoc ius candidum appellatur).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.8.12",
+      "source_text": "Pullum Frontonianum: pullum praedura, condies liquamine, oleo mixto, cui mittis fasciculum anethi, porri, satureiae et coriandri viridis, et coques. ubi coctus fuerit, levabis eum, in lance defrito perungues, piper aspargis et inferes.",
+      "question": "Quo pullus Frontonianus coctus in lance apud Apicium perungitur?",
+      "answer": "Defrito.",
+      "question_en": "With what is the cooked pullus Frontonianus (Fronto's chicken) glazed on the platter in Apicius?",
+      "answer_en": "With defrutum (boiled-down must).",
+      "derivation": "Pullus Frontonianus, the chicken bearing the name of Fronto, is finished by anointing with defrutum on the serving dish. Person-named dish; verbatim (in lance defrito perungues).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.8.13",
+      "source_text": "Pullus tractogalatus: pullum coques liquamine, oleo, vino, cui mittis fasciculum coriandri, cepam. deinde, cum coctus fuerit, levabis eum de iure suo et mittis in caccabum novum lac et salem modicum, mel et aquae minimum id est tertiam partem. ponis ad ignem lentum ut tepescat, tractum confringis et mittis paulatim, assidue agitas, ne uratur.",
+      "question": "Quid in lac confractum paulatim mittitur, cum pullus tractogalatus apud Apicium paratur?",
+      "answer": "Tractum.",
+      "question_en": "What is crumbled and added little by little to the milk when the pullus tractogalatus is prepared in Apicius?",
+      "answer_en": "Tracta pastry.",
+      "derivation": "Pullus tractogalatus — 'pastry-and-milk chicken' — is finished in sweetened milk thickened with crumbled tracta. Named dish; verbatim (tractum confringis et mittis paulatim).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.8.15",
+      "source_text": "pullus leucozomus accipiat aquam et oleum Spanum abundans.",
+      "question": "Quod oleum pullus leucozomus apud Apicium abundans accipit?",
+      "answer": "Oleum Spanum.",
+      "question_en": "What oil does the pullus leucozomus ('white-broth chicken') receive in abundance in Apicius?",
+      "answer_en": "Spanish oil.",
+      "derivation": "Pullus leucozomus cooks in nothing but water and abundant Spanish oil, agitated so the bird makes its own thickening. Named dish plus a named provincial product (oleum Spanum); verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Apicius, De Re Coquinaria 6.8.1",
+      "source_text": "Pullum anethatum: mellis modice, liquamine temperabis. levas pullum coctum et sabano mundo siccas, caraxas et ius scissuris infundis, ut combibat, et cum combiberit, assabis et suo sibi iure pinnis tangis.",
+      "question": "Quibus pullus anethatus, dum assatur, suo iure apud Apicium tangitur?",
+      "answer": "Pinnis.",
+      "question_en": "With what is the dill chicken (pullus anethatus) basted with its own juice while it roasts, in Apicius?",
+      "answer_en": "With feathers.",
+      "derivation": "The Roman basting brush: the scored, honey-glazed dill chicken is touched with its own juice using feathers as it roasts. Vivid, characteristic kitchen practice; verbatim (suo sibi iure pinnis tangis).",
+      "category": "cibus"
+    }
+  ]
+}
