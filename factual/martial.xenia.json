@@ -1,0 +1,987 @@
+{
+  "source": "text/martial/mart13.txt",
+  "author": "Martial",
+  "work": "Xenia (Epigrammaton liber XIII)",
+  "pairs": [
+    {
+      "locus": "Martial, Xenia 13.1",
+      "source_text": "Ne toga cordylis et paenula desit olivis aut inopem metuat sordida blatta famem, perdite Niliacas, Musae, mea damna, papyros: postulat ecce novos ebria bruma sales.",
+      "question": "Quibus rebus involvendis chartae poetarum inutiles servire solent, ut iocatur Martialis in Xeniis?",
+      "answer": "Cordylis et olivis.",
+      "question_en": "For wrapping what things do poets' useless papers usually serve, as Martial jokes in the Xenia?",
+      "answer_en": "Young tunny-fish and olives.",
+      "derivation": "The stock Roman joke that bad poetry ends as wrapping paper in the food market (cf. Catullus 95, Persius 1.43): Martial opens the Xenia offering his papyri as a 'toga for tunny, a cloak for olives.' Anchored to Martial's Xenia; two-noun answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Xenia 13.3",
+      "source_text": "Omnis in hoc gracili XENIORVM turba libello constabit nummis quattuor empta tibi.",
+      "question": "Quot nummis totus Xeniorum libellus emi potest, ut ipse Martialis testatur?",
+      "answer": "Quattuor nummis.",
+      "question_en": "For how many coins can the whole little book of the Xenia be bought, as Martial himself attests?",
+      "answer_en": "For four coins (sesterces).",
+      "derivation": "The book states its own retail price — famous evidence for the Roman book trade. Anchored to the Xenia by name; single-number answer supported verbatim (constabit nummis quattuor).",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Xenia 13.3",
+      "source_text": "Quattuor est nimium? Poterit constare duobus, et faciat lucrum bybliopola Tryphon.",
+      "question": "Quis bybliopola Xenia Martialis Romae vendebat?",
+      "answer": "Tryphon.",
+      "question_en": "Which bookseller sold Martial's Xenia at Rome?",
+      "answer_en": "Tryphon.",
+      "derivation": "Tryphon, the named bookseller-publisher of the Xenia (the same Tryphon appears in Quintilian's preface) — a real figure of the Roman book trade. Single-name answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Xenia 13.3",
+      "source_text": "Haec licet hospitibus pro munere disticha mittas, si tibi tam rarus quam mihi nummus erit.",
+      "question": "Quibus disticha Xeniorum pro munere mitti posse Martialis ait?",
+      "answer": "Hospitibus.",
+      "question_en": "To whom does Martial say the couplets of the Xenia may be sent in place of a gift?",
+      "answer_en": "To one's guests.",
+      "derivation": "The gift-frame of the whole book: each distich can stand in for the Saturnalian food-gift (xenium) itself when money is short. Anchored to the Xenia; one-word answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Xenia 13.5",
+      "source_text": "Cerea quae patulo lucet ficedula lumbo, cum tibi sorte datur, si sapis, adde piper.",
+      "question": "Quod condimentum ficedulae addere iubet Martialis in Xeniis?",
+      "answer": "Piper.",
+      "question_en": "What seasoning does Martial in the Xenia bid one add to the fig-pecker?",
+      "answer_en": "Pepper.",
+      "derivation": "The ficedula (beccafico) was a prized table delicacy, and pepper its canonical seasoning ('si sapis, adde piper'). Anchored to Martial + the named bird; one-word answer verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.9",
+      "source_text": "Accipe Niliacam, Pelusia munera, lentem: vilior est alica, carior illa faba.",
+      "question": "Ex qua terra lentem Romam mitti dicit Martialis?",
+      "answer": "Ex Aegypto (a Nilo, Pelusio).",
+      "question_en": "From what land does Martial say the lentil is sent to Rome?",
+      "answer_en": "From Egypt (the Nile, Pelusium).",
+      "derivation": "Egypt (Pelusium at the Nile mouth) as the proverbial source of lentils — 'Niliacam, Pelusia munera, lentem.' Ambient trade-geography of the Roman table; place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.14",
+      "source_text": "Cludere quae cenas lactuca solebat avorum, dic mihi, cur nostras inchoat illa dapes?",
+      "question": "Quo loco cenae apud avos Romanorum lactuca apponi solebat, ut Martialis testatur?",
+      "answer": "Extremo loco: cenas cludebat.",
+      "question_en": "At what point of the dinner was lettuce customarily served in the time of the Romans' ancestors, as Martial attests?",
+      "answer_en": "At the end — it closed the dinner.",
+      "derivation": "A famous fact of Roman food history: lettuce moved from closing the ancestors' dinner to opening the meal in Martial's day (the same shift noted by Pliny). Anchored to lettuce + the ancestral custom; short answer supported verbatim (cludere cenas solebat).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.16",
+      "source_text": "Haec tibi brumali gaudentia frigore rapa quae damus, in caelo Romulus esse solet.",
+      "question": "Quis in caelo rapis vesci solet, ut iocatur Martialis in Xeniis?",
+      "answer": "Romulus.",
+      "question_en": "Who is wont to eat turnips even in heaven, as Martial jokes in the Xenia?",
+      "answer_en": "Romulus.",
+      "derivation": "The deified Romulus keeps his old-Roman frugal diet of turnips — a shared joke about archaic Roman simplicity (turnips as the archetypal early-Roman food). Named-entity answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.17",
+      "source_text": "Ne tibi pallentes moveant fastidia caules, nitrata viridis brassica fiat aqua.",
+      "question": "Qua aqua brassica coquenda est, ut viridis maneat, teste Martiale?",
+      "answer": "Aqua nitrata.",
+      "question_en": "In what water should cabbage be cooked so that it stays green, on Martial's testimony?",
+      "answer_en": "In water treated with soda (nitrum).",
+      "derivation": "Insider kitchen technique: nitrum (soda) in the cooking water keeps greens green — the same trick prescribed by Apicius. Anchored to cabbage + Martial; brief-phrase answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.19",
+      "source_text": "Mittit praecipuos nemoralis Aricia porros: in niveo virides stipite cerne comas.",
+      "question": "Quod oppidum praecipuos porros capitatos mittit apud Martialem?",
+      "answer": "Aricia.",
+      "question_en": "Which town sends the choicest headed leeks, according to Martial?",
+      "answer_en": "Aricia.",
+      "derivation": "Aricia (nemoralis, by Diana's grove) as the famed source of leeks — also praised by Columella. Named-place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.8",
+      "source_text": "Inbue plebeias Clusinis pultibus ollas, ut satur in vacuis dulcia musta bibas.",
+      "question": "Cuius oppidi pultes ollas plebeias implent apud Martialem?",
+      "answer": "Clusii (pultes Clusinae).",
+      "question_en": "Porridge from which town fills the plebeian pots, in Martial?",
+      "answer_en": "Clusium (Clusine porridge).",
+      "derivation": "Clusium in Etruria as the proverbial home of far-porridge (puls), the archetypal plebeian staple. Named-place answer supported verbatim (Clusinis pultibus).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.13",
+      "source_text": "Vt sapiant fatuae, fabrorum prandia, betae, o quam saepe petet vina piperque cocus!",
+      "question": "Quibus condimentis betae fatuae saporem accipiunt, ut ait Martialis?",
+      "answer": "Vino et pipere.",
+      "question_en": "With what seasonings do insipid beets get their flavor, as Martial says?",
+      "answer_en": "With wine and pepper.",
+      "derivation": "Beets — 'fabrorum prandia', the workmen's lunch — were proverbially bland (fatuae) and needed wine and pepper from the cook. Two-item answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.18",
+      "source_text": "Fila Tarentini graviter redolentia porri edisti quotiens, oscula clusa dato.",
+      "question": "Quid faciendum est ei qui fila porri Tarentini ederit, ut monet Martialis?",
+      "answer": "Oscula clusa det.",
+      "question_en": "What must one do after eating the strands of Tarentine leek, as Martial warns?",
+      "answer_en": "Give kisses with closed mouth.",
+      "derivation": "Cut leeks (porrum sectivum) came from Tarentum and notoriously fouled the breath; the joke-advice 'oscula clusa dato' is the epigram's checkable point. Anchored to the Tarentine leek; short answer verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.20",
+      "source_text": "Hos Amiternus ager felicibus educat hortis: Nursinas poteris parcius esse pilas.",
+      "question": "Qui ager napos felicibus hortis educat apud Martialem?",
+      "answer": "Amiternus.",
+      "question_en": "Which district rears navews in its fertile gardens, according to Martial?",
+      "answer_en": "The territory of Amiternum (in the Sabine country).",
+      "derivation": "Amiternum's gardens as the source of napi (navews), set above the famous 'pilae' of Nursia. Named-place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.21",
+      "source_text": "Mollis in aequorea quae crevit spina Ravenna non erit incultis gratior asparagis.",
+      "question": "Quae urbs aequorea asparagos cultos gignebat, teste Martiale?",
+      "answer": "Ravenna.",
+      "question_en": "Which seaside city grew cultivated asparagus, on Martial's testimony?",
+      "answer_en": "Ravenna.",
+      "derivation": "Ravenna's asparagus was the famous cultivated kind (so too Pliny); Martial's point is that even it beats wild asparagus no better than equal. Named-place answer supported verbatim (in aequorea Ravenna).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.23",
+      "source_text": "Chia seni similis Baccho, quem Setia misit, ipsa merum secum portat et ipsa salem.",
+      "question": "Cui vino ficus Chia similis esse dicitur apud Martialem?",
+      "answer": "Setino veteri.",
+      "question_en": "To what wine is the Chian fig said to be similar, in Martial?",
+      "answer_en": "To old Setine wine.",
+      "derivation": "Two shared items of connoisseurship in one couplet: Chios as the famous fig-island, Setia as a top wine town; the Chian fig 'carries its own wine and salt.' Named-entity answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.24",
+      "source_text": "Si tibi Cecropio saturata Cydonea melle ponentur, dicas: \"Haec melimela placent\".",
+      "question": "Quo melle saturata Cydonea 'melimela' fiunt apud Martialem?",
+      "answer": "Melle Cecropio (Attico).",
+      "question_en": "Steeped in what honey do quinces become 'honey-apples' (melimela), in Martial?",
+      "answer_en": "In Cecropian (Attic) honey.",
+      "derivation": "Attic (Cecropian, i.e. Hymettan) honey as the canonical fine honey, and quinces preserved in honey passing for melimela — insider table knowledge. Answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.25",
+      "source_text": "Poma sumus Cybeles: procul hinc discede, viator, ne cadat in miserum nostra ruina caput.",
+      "question": "Cuius deae poma nuces pineae vocantur apud Martialem?",
+      "answer": "Cybeles.",
+      "question_en": "Of which goddess are pine nuts called the fruit, in Martial?",
+      "answer_en": "Of Cybele.",
+      "derivation": "The pine was sacred to Cybele (through the Attis story), so pine nuts are 'poma Cybeles' — a shared religious-mythical association attached to a food. Single-name answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Xenia 13.26",
+      "source_text": "Sorba sumus, molles nimium tendentia ventres: aptius haec puero quam tibi poma dabis.",
+      "question": "Quid sorba ventribus nimium mollibus praestant, secundum Martialem?",
+      "answer": "Eos adstringunt (tendunt).",
+      "question_en": "What do service-berries do for overly loose bowels, according to Martial?",
+      "answer_en": "They bind (firm) them.",
+      "derivation": "Standard Roman dietetic lore: sorbs are astringent and check diarrhea — hence fitter for a boy. Short verifiable effect supported verbatim (molles tendentia ventres).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.27",
+      "source_text": "Aurea porrigitur Iani caryota Kalendis; sed tamen hoc munus pauperis esse solet.",
+      "question": "Quibus Kalendis caryota dono porrigi solet, teste Martiale?",
+      "answer": "Kalendis Ianuariis (Iani).",
+      "question_en": "On which Kalends is the date customarily offered as a gift, on Martial's testimony?",
+      "answer_en": "On the Kalends of January (of Janus).",
+      "derivation": "The New Year strena: gilded dates given on 1 January, typically the poor man's gift. A calendar-custom fact anchored to the named day; answer supported verbatim (Iani Kalendis).",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Xenia 13.28",
+      "source_text": "Haec tibi quae torta venerunt condita meta, si maiora forent cottana, ficus erat.",
+      "question": "Quid essent cottana, si maiora forent, ut iocatur Martialis?",
+      "answer": "Ficus.",
+      "question_en": "What would cottana be, if they were bigger, as Martial jokes?",
+      "answer_en": "Figs.",
+      "derivation": "Cottana were the tiny Syrian figs of the gift-basket; Martial's joke states the checkable fact that they are simply miniature figs. One-word answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.29",
+      "source_text": "Pruna peregrinae carie rugosa senectae sume: solent duri solvere ventris onus.",
+      "question": "Quem usum ventri praestant pruna Damascena, secundum Martialem?",
+      "answer": "Durum ventrem solvunt.",
+      "question_en": "What service do Damascus plums (prunes) render the belly, according to Martial?",
+      "answer_en": "They loosen a costive bowel.",
+      "derivation": "The wrinkled imported prune (the lemma names them Damascena, plums of Damascus) as the standard laxative — dietetic lore every Roman diner carried. Effect supported verbatim (duri solvere ventris onus).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.30",
+      "source_text": "Caseus Etruscae signatus imagine Lunae praestabit pueris prandia mille tuis.",
+      "question": "Cuius oppidi caseus mille prandia praestare dicitur apud Martialem?",
+      "answer": "Lunae (caseus Lunensis).",
+      "question_en": "Cheese of which town is said to furnish a thousand lunches, in Martial?",
+      "answer_en": "Of Luna (Lunensian cheese).",
+      "derivation": "The giant cheeses of Etruscan Luna, stamped with the town's moon device — famous for their size (Pliny says the same). Named-place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.31",
+      "source_text": "Si sine carne voles ientacula sumere frugi, haec tibi Vestino de grege massa venit.",
+      "question": "De cuius gentis grege caseus ientaculo frugi aptus venit apud Martialem?",
+      "answer": "De grege Vestino.",
+      "question_en": "From the flock of which people does the cheese fit for a frugal breakfast come, in Martial?",
+      "answer_en": "From a Vestine flock.",
+      "derivation": "Vestine cheese (from the Sabellian Vestini) as the frugal meatless ientaculum — named regional product plus its meal-slot. Answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.32",
+      "source_text": "Non quemcumque focum nec fumum caseus omnem, sed Velabrensem qui bibit, ille sapit.",
+      "question": "Cuius loci fumo caseus fumosus condiri debet, ut bene sapiat, teste Martiale?",
+      "answer": "Velabri (fumo Velabrensi).",
+      "question_en": "With the smoke of which place must smoked cheese be cured to taste right, on Martial's testimony?",
+      "answer_en": "Of the Velabrum (Velabran smoke).",
+      "derivation": "The Velabrum quarter at Rome was the famous home of smoked cheese — 'not every hearth's smoke' will do. Named-place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.33",
+      "source_text": "Trebula nos genuit; commendat gratia duplex, sive levi flamma sive domamur aqua.",
+      "question": "Quod oppidum caseos gignit, qui vel levi flamma vel aqua domari possunt, apud Martialem?",
+      "answer": "Trebula.",
+      "question_en": "Which town produces the cheeses that can be treated either with a light flame or with water, in Martial?",
+      "answer_en": "Trebula.",
+      "derivation": "Trebulan cheese and its 'double grace' — good toasted or soaked. Named-town answer supported verbatim (Trebula nos genuit).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.34",
+      "source_text": "Cum sit anus coniunx et sint tibi mortua membra, nil aliud bulbis quam satur esse potes.",
+      "question": "Cui rei bulbi cibo sumpti prodesse vulgo credebantur, ut ex ioco Martialis in Xeniis apparet?",
+      "answer": "Veneri (membris excitandis).",
+      "question_en": "For what were bulbs, taken as food, popularly believed to be good, as Martial's joke in the Xenia shows?",
+      "answer_en": "For love-making (rousing the members).",
+      "derivation": "Bulbi (grape-hyacinth bulbs) were the proverbial Roman aphrodisiac (cf. Martial 3.75, Ovid); the joke — with an old wife and dead members, bulbs can only fill you up — presupposes exactly that shared belief. Insider dietetic lore; short answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.35",
+      "source_text": "Filia Picenae venio Lucanica porcae: pultibus hinc niveis grata corona datur.",
+      "question": "Cuius terrae porca Lucanicam gignere dicitur apud Martialem?",
+      "answer": "Picenae (agri Piceni).",
+      "question_en": "The sow of which land is said to beget the Lucanian sausage, in Martial?",
+      "answer_en": "Of Picenum.",
+      "derivation": "The lucanica sausage (named from Lucania) made of Picene pork and served as a 'welcome crown' on snow-white puls — two named regions of pork-and-porridge culture. Answer supported verbatim (filia Picenae porcae).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.36",
+      "source_text": "Haec quae Picenis venit subducta trapetis inchoat atque eadem finit oliva dapes.",
+      "question": "Quo loco cenae oliva Picena apponitur apud Martialem?",
+      "answer": "Primo et extremo: dapes inchoat et finit.",
+      "question_en": "At what point of the dinner is the Picene olive served, in Martial?",
+      "answer_en": "First and last — it both opens and closes the meal.",
+      "derivation": "Two table facts in one: Picenum as the famous olive country (subducta trapetis, snatched from its presses), and the olive's place at both ends of the Roman dinner. Supported verbatim (inchoat atque eadem finit dapes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.37",
+      "source_text": "Aut Corcyraei sunt haec de frondibus horti, aut haec Massyli poma draconis erant.",
+      "question": "Cuius draconis poma mala citrea fuisse fingit Martialis in Xeniis?",
+      "answer": "Massyli draconis (Hesperidum custodis).",
+      "question_en": "Of what dragon does Martial in the Xenia fancy the citrons to have been the fruit?",
+      "answer_en": "Of the Massylian dragon (the guardian of the Hesperides).",
+      "derivation": "Citrons evoke the two proverbial wonder-gardens: Alcinous' orchard on Corcyra and the golden apples guarded by the Hesperides' dragon in Massylian Africa — myth as shared story attached to a luxury fruit. Answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Xenia 13.47",
+      "source_text": "Picentina Ceres niveo sic nectare crescit ut levis accepta spongea turget aqua.",
+      "question": "Cuius regionis panes, qui umore accepto ut spongea turgent, laudat Martialis in Xeniis?",
+      "answer": "Piceni (panes Picentini).",
+      "question_en": "The loaves of which region, swelling like a sponge when they take up liquid, does Martial praise in the Xenia?",
+      "answer_en": "Of Picenum (Picentine bread).",
+      "derivation": "Picene bread, the famous soaked loaf (Pliny too: made of alica, drunk with milk — Martial's 'niveo nectare'), swelling like a sponge in water. Named-region answer supported verbatim (Picentina Ceres).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.48",
+      "source_text": "Argentum atque aurum facilest laenamque togamque mittere; boletos mittere difficilest.",
+      "question": "Quod munus mittere difficile est, cum argentum, aurum, laenam togamque mittere facile sit, ut iocatur Martialis?",
+      "answer": "Boletos.",
+      "question_en": "What gift is it hard to send, though silver, gold, a mantle and a toga are easy to send, as Martial jokes?",
+      "answer_en": "Boletus mushrooms.",
+      "derivation": "The famous boletus couplet: the prized mushrooms were the one delicacy hosts could not bring themselves to give away. Anchored to Martial's celebrated joke; one-word answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.49",
+      "source_text": "Cum me ficus alat, cum pascar dulcibus uvis, cur potius nomen non dedit uva mihi?",
+      "question": "A quo cibo avis ficedula nomen traxit, ut ex Martiale apparet?",
+      "answer": "A fico.",
+      "question_en": "From what food did the fig-pecker bird take its name, as appears from Martial?",
+      "answer_en": "From the fig.",
+      "derivation": "The ficedula feeds on figs (and on grapes — the bird itself complains the grape gave it no name). The fig-diet naming survives translation ('fig-pecker', beccafico). Supported verbatim (cum me ficus alat).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.50",
+      "source_text": "Rumpimus altricem tenero quae vertice terram tubera, boletis poma secunda sumus.",
+      "question": "Quibus fungis terrae tubera secunda esse dicuntur apud Martialem?",
+      "answer": "Boletis.",
+      "question_en": "To which mushrooms are truffles said to rank second, in Martial?",
+      "answer_en": "To boletus mushrooms.",
+      "derivation": "The insider ranking of the two earth-delicacies: truffles (which burst through their nursing earth with tender crown) come second after boleti. Answer supported verbatim (boletis poma secunda).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.51",
+      "source_text": "Texta rosis fortasse tibi vel divite nardo, at mihi de turdis facta corona placet.",
+      "question": "Ex quibus avibus facta corona Martiali magis quam rosea placet?",
+      "answer": "E turdis.",
+      "question_en": "A garland made of which birds pleases Martial more than one woven of roses?",
+      "answer_en": "Of thrushes.",
+      "derivation": "Thrushes — the prize table-bird — were sold and gifted strung together in a ring (the lemma is a 'decuria of thrushes'), so Martial prefers a thrush-garland to roses or nard. Answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.52",
+      "source_text": "Tota quidem ponatur anas, sed pectore tantum et cervice sapit: cetera redde coco.",
+      "question": "Quibus partibus solis anas sapit, ut praecipit Martialis?",
+      "answer": "Pectore et cervice.",
+      "question_en": "In which parts alone is the duck tasty, as Martial instructs?",
+      "answer_en": "In the breast and the neck.",
+      "derivation": "A gourmet's table-rule: serve the duck whole, eat only breast and neck, 'give the rest back to the cook.' Two-part answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.54",
+      "source_text": "Cerretana mihi fiat vel missa licebit de Menapis: lauti de petasone vorent.",
+      "question": "A quibus gentibus pernae laudatissimae mittebantur, teste Martiale?",
+      "answer": "A Cerretanis et Menapis.",
+      "question_en": "From which peoples were the most esteemed hams sent, on Martial's testimony?",
+      "answer_en": "From the Cerretani (in Spain) and the Menapii (in Gaul).",
+      "derivation": "The two famous ham countries of the empire: the Cerretani of the Spanish Pyrenees and the Menapii of Belgic Gaul. Named-peoples answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.56",
+      "source_text": "Te fortasse magis capiat de virgine porca; me materna gravi de sue volva capit.",
+      "question": "Ex quali sue volva Martialem maxime capit?",
+      "answer": "E materna, gravi sue.",
+      "question_en": "From what kind of sow does the sow's-womb delicacy most take Martial's fancy?",
+      "answer_en": "From a mother sow, heavy with young.",
+      "derivation": "Volva (sow's womb) was a canonical Roman delicacy, and 'virgin sow or farrowing sow?' the insider's debate; Martial votes for the pregnant mother's. Attribution to Martial makes the preference verifiable; supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.57",
+      "source_text": "Niliacum ridebis holus lanasque sequaces, inproba cum morsu fila manuque trahes.",
+      "question": "Vnde colocasia, holus filis lanosis notum, venit apud Martialem?",
+      "answer": "A Nilo (ex Aegypto).",
+      "question_en": "From where does the colocasia come, the vegetable known for its woolly clinging threads, in Martial?",
+      "answer_en": "From the Nile (from Egypt).",
+      "derivation": "Colocasia, the Egyptian Nile-vegetable whose stringy fibers you tug with tooth and hand — exotic produce of the Roman table. Place answer supported verbatim (Niliacum holus).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.58",
+      "source_text": "Aspice quam tumeat magno iecur ansere maius! Miratus dices: \"Hoc, rogo, crevit ubi\"?",
+      "question": "Quam magnum fieri potest iecur anserinum, ut miratur Martialis in Xeniis?",
+      "answer": "Ipso ansere maius.",
+      "question_en": "How big can a goose's liver become, as Martial marvels in the Xenia?",
+      "answer_en": "Bigger than the goose itself.",
+      "derivation": "The force-fattened goose liver (the ficatum, ancestor of foie gras) swelling larger than the bird — a celebrated gourmet paradox ('where, pray, did this grow?'). Supported verbatim (magno iecur ansere maius).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.59",
+      "source_text": "Tota mihi dormitur hiems et pinguior illo tempore sum quo me nil nisi somnus alit.",
+      "question": "Quid glirem per hiemem alit, ut ait Martialis in Xeniis?",
+      "answer": "Nihil nisi somnus.",
+      "question_en": "What nourishes the dormouse through the winter, as Martial says in the Xenia?",
+      "answer_en": "Nothing but sleep.",
+      "derivation": "The dormouse (glis), fattened for the table in gliraria, sleeps the whole winter and grows fatter on sleep alone — the famous paradox of the Roman delicacy. Supported verbatim (nil nisi somnus alit).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.60",
+      "source_text": "Gaudet in effossis habitare cuniculus antris. Monstravit tacitas hostibus ille vias.",
+      "question": "Quod animal tacitas vias hostibus monstravisse dicitur apud Martialem?",
+      "answer": "Cuniculus.",
+      "question_en": "Which animal is said to have shown enemies their hidden ways, according to Martial?",
+      "answer_en": "The rabbit.",
+      "derivation": "The rabbit's burrow as the model (and the name) of the military mine: siege tunnels were called cuniculi. The etiological lore survives translation as a fact about the burrowing animal teaching men to tunnel. Supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Xenia 13.61",
+      "source_text": "Inter sapores fertur alitum primus Ionicarum gustus attagenarum.",
+      "question": "Cuius avis gustus inter sapores alitum primus fertur apud Martialem?",
+      "answer": "Attagenae Ionicae.",
+      "question_en": "The taste of which bird is reckoned first among the flavors of fowl, in Martial?",
+      "answer_en": "Of the Ionian attagen (francolin).",
+      "derivation": "The attagen of Ionia at the top of the bird-flavor ranking (Horace praises the same bird) — connoisseur's knowledge of the luxury table. Named-bird answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.62",
+      "source_text": "Pascitur et dulci facilis gallina farina, pascitur et tenebris. Ingeniosa gula est.",
+      "question": "Quibus duabus rebus gallinae altiles saginantur apud Martialem?",
+      "answer": "Dulci farina et tenebris.",
+      "question_en": "By what two means are table hens fattened, in Martial?",
+      "answer_en": "With sweet flour-meal and with darkness.",
+      "derivation": "The poultry-fattener's technique: sweetened meal plus confinement in the dark — 'gluttony is ingenious.' Two-item answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.63",
+      "source_text": "Ne nimis exhausto macresceret inguine gallus, amisit testes. Nunc mihi gallus erit.",
+      "question": "Quo facto gallus capo fit, ne macrescat, teste Martiale?",
+      "answer": "Testibus amissis (castratus).",
+      "question_en": "By what operation does a cock become a capon, so as not to grow lean, on Martial's testimony?",
+      "answer_en": "By losing its testicles (castration).",
+      "derivation": "The capon: a cock castrated so that it fattens instead of wearing itself lean — standard knowledge of the Roman poultry yard. Supported verbatim (amisit testes).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.65",
+      "source_text": "Ponitur Ausoniis avis haec rarissima mensis: hanc in piscina ludere saepe soles.",
+      "question": "Quae avis rarissima mensis Ausoniis ponitur apud Martialem?",
+      "answer": "Perdix.",
+      "question_en": "Which bird is served as the rarest on Italian tables, in Martial?",
+      "answer_en": "The partridge.",
+      "derivation": "The partridge (the epigram's lemma) as the rarest bird of the Italian (Ausonian) table. Named-bird answer; 'rarissima Ausoniis mensis' supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.66",
+      "source_text": "Ne violes teneras periuro dente columbas, tradita si Gnidiae sunt tibi sacra deae.",
+      "question": "Cuius deae sacrae aves sunt columbae, ut monet Martialis?",
+      "answer": "Veneris (deae Gnidiae).",
+      "question_en": "To which goddess are doves sacred, as Martial advises?",
+      "answer_en": "To Venus (the goddess of Cnidus).",
+      "derivation": "Doves as the sacred birds of Venus — her initiates must not touch them with 'perjured tooth'; 'the Cnidian goddess' is Venus of Praxiteles' Cnidus. Shared religious knowledge; answer supported by the verse.",
+      "category": "religio"
+    },
+    {
+      "locus": "Martial, Xenia 13.67",
+      "source_text": "Inguina torquati tardant hebetantque palumbi: non edat hanc volucrem qui cupit esse salax.",
+      "question": "Quid palumbi torquati inguinibus edentium facere feruntur apud Martialem?",
+      "answer": "Tardant hebetantque (Venerem retundunt).",
+      "question_en": "What are ring-necked wood-pigeons said to do to the loins of those who eat them, in Martial?",
+      "answer_en": "They slow and dull them (blunt desire).",
+      "derivation": "Dietetic lore: the wood-pigeon as anti-aphrodisiac — 'let no one eat this bird who wants to be lusty' — the counterpart of the aphrodisiac bulbs. Supported verbatim (tardant hebetantque).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.70",
+      "source_text": "Miraris, quotiens gemmantis explicat alas, et potes hunc saevo tradere, dure, coco?",
+      "question": "Quae avis, quamquam gemmantes alas mirantibus explicat, tamen saevo coco tradi solet, ut queritur Martialis?",
+      "answer": "Pavo.",
+      "question_en": "Which bird, though it spreads its jeweled wings for admirers, is nonetheless handed over to the cruel cook, as Martial protests?",
+      "answer_en": "The peacock.",
+      "derivation": "The peacock (the epigram's lemma), admired for its 'jeweled' train yet served at luxury tables — Martial's reproach presupposes the shared custom of eating peafowl. Named-bird answer.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.71",
+      "source_text": "Dat mihi pinna rubens nomen, sed lingua gulosis nostra sapit. Quid si garrula lingua foret?",
+      "question": "Quae pars phoenicopteri gulosis maxime sapit, teste Martiale?",
+      "answer": "Lingua.",
+      "question_en": "Which part of the flamingo is the special treat for gourmands, on Martial's testimony?",
+      "answer_en": "The tongue.",
+      "derivation": "Flamingo tongue as the proverbial luxury morsel (cf. Vitellius' dish in Suetonius); the same couplet notes the bird is named from its red feather. One-word answer supported verbatim (lingua gulosis nostra sapit).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.72",
+      "source_text": "Argoa primum sum transportata carina. Ante mihi notum nil nisi Phasis erat.",
+      "question": "Qua nave phasianae aves primum a Phaside transportatae esse dicuntur apud Martialem?",
+      "answer": "Argoa carina (nave Argo).",
+      "question_en": "By what ship are pheasants said first to have been carried away from the Phasis, in Martial?",
+      "answer_en": "By the Argo (the Argonauts' ship).",
+      "derivation": "The pheasant (phasiana) is named from the Colchian river Phasis and, in the shared origin-story, was first brought west aboard the Argo. Named-ship answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.73",
+      "source_text": "Ansere Romano quamvis satur Hannibal esset, ipse suas numquam barbarus edit aves.",
+      "question": "Quis dux Poenus, quamvis ansere Romano satur, suas tamen aves Numidicas numquam edit, ut iocatur Martialis?",
+      "answer": "Hannibal.",
+      "question_en": "Which Carthaginian general, though sated with Roman goose, never ate his own Numidian birds, as Martial jokes?",
+      "answer_en": "Hannibal.",
+      "derivation": "The guinea-fowl (Numidicae) came from Hannibal's own Africa; the joke — he gorged on Roman goose yet never touched his own birds — hangs on the named general. Single-name answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.74",
+      "source_text": "Haec servavit avis Tarpei templa Tonantis. Miraris? Nondum fecerat illa deus.",
+      "question": "Quae avis templa Tarpeia Tonantis servavisse dicitur apud Martialem?",
+      "answer": "Anser.",
+      "question_en": "Which bird is said to have saved the Tarpeian temple of the Thunderer (the Capitol), in Martial?",
+      "answer_en": "The goose.",
+      "derivation": "The sacred geese that warned of the Gauls' night attack on the Capitol (390 BC) — celebrated Roman history attached to the table-goose. Named-bird answer supported verbatim (haec servavit avis Tarpei templa Tonantis).",
+      "category": "historia"
+    },
+    {
+      "locus": "Martial, Xenia 13.75",
+      "source_text": "Turbabis versus nec littera tota volabit, unam perdideris si Palamedis avem.",
+      "question": "Cuius herois aves grues appellantur apud Martialem?",
+      "answer": "Palamedis.",
+      "question_en": "As whose birds — which hero's — are cranes styled in Martial?",
+      "answer_en": "Palamedes'.",
+      "derivation": "Cranes fly in letter-formation, and Palamedes was said to have devised letters from watching them — lose one crane and 'the letter will not fly whole.' Shared story anchored to the named hero; supported verbatim (Palamedis avem).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Xenia 13.76",
+      "source_text": "Rustica sim an perdix quid refert, si sapor idem est? Carior est perdix. Sic sapit illa magis.",
+      "question": "Qua tandem re perdix a rusticula differt, cum sapor idem sit, ut iocatur Martialis?",
+      "answer": "Pretio: carior est perdix.",
+      "question_en": "In what, after all, does the partridge differ from the woodcock, since the taste is the same, as Martial jokes?",
+      "answer_en": "In price — the partridge costs more (and so 'tastes better').",
+      "derivation": "A checkable point of market lore: woodcock and partridge taste alike, but the partridge is dearer — Martial's gibe at price-snobbery. Supported verbatim (carior est perdix).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.77",
+      "source_text": "Dulcia defecta modulatur carmina lingua cantator cycnus funeris ipse sui.",
+      "question": "Quae avis sui ipsa funeris cantator dicitur apud Martialem?",
+      "answer": "Cycnus.",
+      "question_en": "Which bird is called the singer of its own funeral, in Martial?",
+      "answer_en": "The swan.",
+      "derivation": "The proverbial swan-song: the dying swan modulates sweet songs with failing tongue — ambient lore every ancient reader carried. Named-bird answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Martial, Xenia 13.78",
+      "source_text": "Nomen habet magni volucris tam parva gigantis? Et nomen prasini Porphyrionis habet.",
+      "question": "Cuius factionis circensis agitator erat Porphyrion ille, cuius nomen avis porphyrio quoque habet?",
+      "answer": "Prasinae (factionis viridis).",
+      "question_en": "Of which circus faction was that Porphyrion a driver, whose name the porphyrio bird also bears?",
+      "answer_en": "Of the Green faction (the prasina).",
+      "derivation": "The little bird carries two famous names: the giant Porphyrion of the Gigantomachy and Porphyrion the charioteer of the Greens — evidence for the prasina factio of the circus. Supported verbatim (prasini Porphyrionis).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Xenia 13.80",
+      "source_text": "Quae natat in Siculo grandis murena profundo, non valet exustam mergere sole cutem.",
+      "question": "In quo mari murena grandis natare dicitur apud Martialem?",
+      "answer": "In Siculo profundo (freto Siculo).",
+      "question_en": "In what sea is the great murena said to swim, in Martial?",
+      "answer_en": "In the Sicilian deep (the strait of Sicily).",
+      "derivation": "The famous murena-fishery of the Sicilian strait; the great lamprey swims at the surface, unable to sink its sun-scorched skin. Named-sea answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.81",
+      "source_text": "Quamvis lata gerat patella rhombum, rhombus latior est tamen patella.",
+      "question": "Qua re latior semper est rhombus, ut iocatur Martialis?",
+      "answer": "Patella sua, quamvis lata.",
+      "question_en": "Than what is the turbot always broader, as Martial jokes?",
+      "answer_en": "Than its serving-dish, however broad.",
+      "derivation": "The proverbial too-big turbot — no platter is wide enough (the same joke behind Juvenal's council on Domitian's turbot). Short comparative answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.82",
+      "source_text": "Ebria Baiano veni modo concha Lucrino: nobile nunc sitio luxuriosa garum.",
+      "question": "E quo lacu ostrea nobilissima Romanorum veniunt apud Martialem?",
+      "answer": "E Lucrino (apud Baias).",
+      "question_en": "From what lagoon do the Romans' most celebrated oysters come, in Martial?",
+      "answer_en": "From the Lucrine lake (at Baiae).",
+      "derivation": "Lucrine oysters at Baiae — THE Roman oyster; fresh ('drunk') from its lake the luxurious shell 'thirsts for noble garum,' attesting too that oysters were dressed with garum. Named-place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.84",
+      "source_text": "Hic scarus, aequoreis qui venit adesus ab undis, visceribus bonus est, cetera vile sapit.",
+      "question": "Qua parte sola scarus piscis bonus est apud Martialem?",
+      "answer": "Visceribus.",
+      "question_en": "In which part alone is the parrot-wrasse (scarus) good, in Martial?",
+      "answer_en": "In its entrails.",
+      "derivation": "The scarus, prized delicacy of the imperial table, was eaten for its viscera — the rest 'tastes cheap.' Gourmet's rule supported verbatim (visceribus bonus est).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.85",
+      "source_text": "Princeps Niliaci raperis, coracine, macelli: Pellaeae prior est gloria nulla gulae.",
+      "question": "Cuius macelli princeps coracinus piscis habetur apud Martialem?",
+      "answer": "Niliaci (Alexandrini).",
+      "question_en": "Of which market is the coracinus fish reckoned the prince, in Martial?",
+      "answer_en": "Of the Nile market (of Alexandria).",
+      "derivation": "The coracinus as the top fish of Egypt — 'no glory of the Pellaean (Alexandrian) palate stands higher.' Named-place answer supported verbatim (princeps Niliaci macelli).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.87",
+      "source_text": "Sanguine de nostro tinctas, ingrate, lacernas induis, et non est hoc satis, esca sumus.",
+      "question": "Cuius animalis sanguine lacernae purpureae tinguntur, ut queritur ipsa concha apud Martialem?",
+      "answer": "Muricis.",
+      "question_en": "With the blood of which creature are purple cloaks dyed, as the shellfish itself complains in Martial?",
+      "answer_en": "Of the murex.",
+      "derivation": "The murex furnished both the purple dye of Roman dress and a dish — 'you wear cloaks dyed in our blood, and, not content with that, we are food.' The double use is the checkable cultural fact.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Xenia 13.88",
+      "source_text": "In Venetis sint lauta licet convivia terris, principium cenae gobius esse solet.",
+      "question": "Quo pisce cena in Venetis terris incipere solet, teste Martiale?",
+      "answer": "Gobio.",
+      "question_en": "With which fish does dinner customarily begin in the Venetic lands, on Martial's testimony?",
+      "answer_en": "With the goby.",
+      "derivation": "Regional table-custom: in Venetia even lavish banquets open with the humble goby. Named-fish answer supported verbatim (principium cenae gobius).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.90",
+      "source_text": "Non omnis laudes pretiumque aurata meretur, sed cui solus erit concha Lucrina cibus.",
+      "question": "Quo cibo pasta aurata sola laudes pretiumque meretur apud Martialem?",
+      "answer": "Concha Lucrina.",
+      "question_en": "Fed on what food alone does the gilthead deserve praise and its price, in Martial?",
+      "answer_en": "On Lucrine shellfish.",
+      "derivation": "Connoisseurship of the fish-market: only the gilthead fattened on Lucrine shellfish counts. Short answer supported verbatim (concha Lucrina cibus).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.91",
+      "source_text": "Ad Palatinas acipensem mittite mensas: ambrosias ornent munera rara dapes.",
+      "question": "Ad cuius mensas acipensis mitti debet, ut praecipit Martialis?",
+      "answer": "Ad Palatinas (Caesaris).",
+      "question_en": "To whose tables should the sturgeon be sent, as Martial directs?",
+      "answer_en": "To the Palatine tables (the emperor's).",
+      "derivation": "The sturgeon (acipensis) as a rarity fit for the imperial table on the Palatine — 'let rare gifts adorn ambrosial feasts.' Answer supported verbatim (ad Palatinas mensas).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.92",
+      "source_text": "Inter aves turdus, si quid me iudice certum est inter quadripedes mattea prima lepus.",
+      "question": "Quae mattea inter aves et quae inter quadripedes prima est, iudice Martiale?",
+      "answer": "Inter aves turdus, inter quadripedes lepus.",
+      "question_en": "What is the first delicacy among birds and what among four-footed creatures, in Martial's judgment?",
+      "answer_en": "Among birds the thrush, among quadrupeds the hare.",
+      "derivation": "The book's most famous ranking: thrush first among birds, hare first among quadrupeds as mattea (tidbit). Anchored to Martial's explicit judgment (me iudice); two-part answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.95",
+      "source_text": "Matutinarum non ultima praeda ferarum saevos oryx constat quot mihi morte canum!",
+      "question": "Quo diei tempore venationes ferarum in harena dari solebant, ut ex Martiale de oryge apparet?",
+      "answer": "Matutino tempore (mane).",
+      "question_en": "At what time of day were the beast-hunts of the arena customarily given, as appears from Martial's epigram on the oryx?",
+      "answer_en": "In the morning.",
+      "derivation": "The venationes were the morning show of the amphitheater — the oryx is 'not the least prey of the morning beasts,' costing the deaths of many hounds. Arena-custom fact supported verbatim (matutinarum ferarum).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Martial, Xenia 13.96",
+      "source_text": "Hic erat ille tuo domitus, Cyparisse, capistro. An magis iste tuus, Silvia, cervus erat?",
+      "question": "Quibus duobus in fabulis cervi mansueti fuisse dicuntur, ut allusit Martialis in Xeniis?",
+      "answer": "Cyparisso et Silviae.",
+      "question_en": "Which two figures of story are said to have had tame stags, as Martial alludes in the Xenia?",
+      "answer_en": "Cyparissus and Silvia.",
+      "derivation": "The two proverbial pet stags of shared story: Cyparissus' beloved stag (Ovid) and Silvia's stag whose wounding kindled war in Aeneid 7. Two-name answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Martial, Xenia 13.97",
+      "source_text": "Dum tener est onager solaque lalisio matre pascitur, hoc infans sed breve nomen habet.",
+      "question": "Quod nomen pullus onagri habet, dum sola matre pascitur, apud Martialem?",
+      "answer": "Lalisio.",
+      "question_en": "What name does the wild ass's foal bear while it still feeds only on its mother's milk, in Martial?",
+      "answer_en": "Lalisio.",
+      "derivation": "The lalisio — the suckling onager foal, a named delicacy (Pliny lists lalisiones among dainties); the name lasts only while it nurses. Single-name answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.83",
+      "source_text": "Caeruleus nos Liris amat, quem silva Maricae protegit: hinc squillae maxima turba sumus.",
+      "question": "Quo flumine maxima squillarum turba gignitur apud Martialem?",
+      "answer": "Liri (quem silva Maricae protegit).",
+      "question_en": "In which river is the greatest crowd of prawns bred, in Martial?",
+      "answer_en": "In the Liris (sheltered by Marica's grove).",
+      "derivation": "The Liris at Minturnae, screened by the sacred grove of the nymph Marica, as the famous home of squillae. Named-river answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.89",
+      "source_text": "Laneus Euganei lupus excipit ora Timavi, aequoreo dulces cum sale pastus aquas.",
+      "question": "Cuius fluminis ora lupus ille laneus excipit apud Martialem?",
+      "answer": "Timavi (Euganei).",
+      "question_en": "The mouth of which river does the prized 'woolly' bass haunt, in Martial?",
+      "answer_en": "Of the (Euganean) Timavus.",
+      "derivation": "The laneus lupus — the bass 'soft as wool' — taken at the mouth of the Timavus, fattened where fresh water meets sea salt. Named-river answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.101",
+      "source_text": "Hoc tibi Campani sudavit baca Venafri: unguentum quotiens sumis, et istud olet.",
+      "question": "Cuius oppidi Campani baca oleum nobilissimum sudat apud Martialem?",
+      "answer": "Venafri.",
+      "question_en": "The olive of which Campanian town sweats out the noblest oil, in Martial?",
+      "answer_en": "Of Venafrum.",
+      "derivation": "Venafran oil, the premier olive oil of Italy (so too Horace and Pliny), fine enough to scent unguents. Named-town answer supported verbatim (Campani baca Venafri).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.102",
+      "source_text": "Exspirantis adhuc scombri de sanguine primo accipe fastosum, munera cara, garum.",
+      "question": "De cuius piscis sanguine garum illud sociorum pretiosum conficitur, teste Martiale?",
+      "answer": "De scombri, exspirantis adhuc, sanguine primo.",
+      "question_en": "From the blood of which fish is the costly 'garum of the allies' made, on Martial's testimony?",
+      "answer_en": "From the first blood of a mackerel still breathing its last.",
+      "derivation": "Garum sociorum (the lemma), the luxury fish-sauce — 'haughty garum, a costly gift' — made from the first blood of a still-expiring scomber. The defining fact of Rome's most famous condiment; supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.103",
+      "source_text": "Antipolitani, fateor, sum filia thynni: essem si scombri, non tibi missa forem.",
+      "question": "Ex quo pisce muria fit, ut ipsa amphora apud Martialem fatetur?",
+      "answer": "E thynno Antipolitano.",
+      "question_en": "From which fish is muria (brine-sauce) made, as the jar itself confesses in Martial?",
+      "answer_en": "From the tunny of Antipolis.",
+      "derivation": "Muria, the cheaper brine, is 'daughter of the Antipolitan tunny' — had it been mackerel it would have been garum and too dear to send. Encodes the sauce hierarchy scomber over thynnus; supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.104",
+      "source_text": "Hoc tibi Thesei populatrix misit Hymetti Pallados a silvis nobile nectar apis.",
+      "question": "De quo monte mel Atticum nobile venit apud Martialem?",
+      "answer": "De Hymetto.",
+      "question_en": "From which mountain does the noble Attic honey come, in Martial?",
+      "answer_en": "From Hymettus.",
+      "derivation": "Hymettan honey — the bee 'plunderer of Theseus' Hymettus' sends noble nectar from the woods of Pallas — the canonical fine honey of antiquity. Named-mountain answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.105",
+      "source_text": "Cum dederis Siculos mediae de collibus Hyblae, Cecropios dicas tu licet esse favos.",
+      "question": "De cuius montis collibus favi Siculi veniunt apud Martialem?",
+      "answer": "De Hybla.",
+      "question_en": "From the hills of which mountain do the Sicilian honeycombs come, in Martial?",
+      "answer_en": "From Hybla.",
+      "derivation": "Hyblaean honey, Sicily's rival to Attic: give combs from mid-Hybla and you may call them Cecropian. The Hybla/Hymettus pairing was proverbial; answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.106",
+      "source_text": "Gnosia Minoae genuit vindemia Cretae hoc tibi, quod mulsum pauperis esse solet.",
+      "question": "Quod vinum 'mulsum pauperis' esse solet apud Martialem?",
+      "answer": "Passum (Creticum).",
+      "question_en": "Which wine is proverbially 'the poor man's mulsum,' in Martial?",
+      "answer_en": "Passum (raisin wine, from Crete).",
+      "derivation": "Passum, the raisin wine born of the Gnosian vintage of Minoan Crete, so sweet it stands in for honeyed mulsum among the poor. Both the epithet and the Cretan origin supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.107",
+      "source_text": "Haec de vitifera venisse picata Vienna ne dubites, misit Romulus ipse mihi.",
+      "question": "E qua urbe vina picata veniunt apud Martialem?",
+      "answer": "E Vienna vitifera (in Gallia).",
+      "question_en": "From which city do the pitched wines (picata) come, in Martial?",
+      "answer_en": "From vine-bearing Vienna (on the Rhone, in Gaul).",
+      "derivation": "Picatum, the pitch-flavored specialty wine of Vienna of the Allobroges (Pliny describes the same picatum). Named-city answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.108",
+      "source_text": "Attica nectareum turbatis mella Falernum. Misceri decet hoc a Ganymede merum.",
+      "question": "Ex quibus duabus rebus mulsum lautissimum miscetur apud Martialem?",
+      "answer": "Ex melle Attico et Falerno.",
+      "question_en": "From which two ingredients is the finest mulsum mixed, in Martial?",
+      "answer_en": "From Attic honey and Falernian wine.",
+      "derivation": "The canonical recipe of mulsum, the Roman aperitif: Attic honey stirred into nectar-like Falernian — 'a wine fit to be mixed by Ganymede.' Two-item answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.110",
+      "source_text": "Surrentina bibis? Nec murrina picta nec aurum sume: dabunt calices haec tibi vina suos.",
+      "question": "Quibus calicibus vina Surrentina bibenda sunt apud Martialem?",
+      "answer": "Suis (calicibus Surrentinis fictilibus).",
+      "question_en": "From what cups should Surrentine wine be drunk, in Martial?",
+      "answer_en": "From its own (Surrentine clay cups).",
+      "derivation": "The connoisseur's rule: Surrentine wine needs neither murrine nor gold — Surrentum's own famous pottery cups suit it ('these wines will give you their own cups'). Supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.111",
+      "source_text": "De Sinuessanis venerunt Massica prelis: condita quo quaeris consule? Nullus erat.",
+      "question": "Quo consule condita esse dicuntur Massica illa vetustissima, ut iocatur Martialis?",
+      "answer": "Nullo: nondum consules erant.",
+      "question_en": "Under which consul is that most ancient Massic (Falernian) said to have been laid down, as Martial jokes?",
+      "answer_en": "Under none — there were as yet no consuls.",
+      "derivation": "The Falernian lemma: Massic from the Sinuessan presses so old that it antedates the consulship itself — wine-dating by consular year turned into the ultimate boast. Supported verbatim (quo consule? Nullus erat).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.112",
+      "source_text": "Pendula Pomptinos quae spectat Setia campos, exigua vetulos misit ab urbe cados.",
+      "question": "Quos campos Setia pendula despectat, quae vetulos cados vini mittit apud Martialem?",
+      "answer": "Pomptinos.",
+      "question_en": "Which plains does hill-hung Setia overlook, the little town that sends its well-aged jars in Martial?",
+      "answer_en": "The Pomptine plains.",
+      "derivation": "Setine — a top imperial-era wine — from tiny Setia perched above the Pomptine marshes, sent already aged (vetulos cados). Named-place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.113",
+      "source_text": "Haec Fundana tulit felix autumnus Opimi. Expressit mustum consul et ipse bibit.",
+      "question": "Cuius consulis felix autumnus vina Fundana tulit, ut ait Martialis?",
+      "answer": "Opimi.",
+      "question_en": "The fortunate autumn of which consul produced the Fundan wine, as Martial says?",
+      "answer_en": "Of Opimius.",
+      "derivation": "The Opimian vintage (Opimius consul, 121 BC) — the most celebrated wine-year of antiquity: 'the consul pressed the must and drank it himself.' Single-name answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.114",
+      "source_text": "Non sum de primo, fateor, trifolina Lyaeo, inter vina tamen septima vitis ero.",
+      "question": "Quotum locum inter vina vitis trifolina sibi vindicat apud Martialem?",
+      "answer": "Septimum.",
+      "question_en": "What rank among wines does the Trifoline vine claim for itself, in Martial?",
+      "answer_en": "Seventh.",
+      "derivation": "The wine-league ranking: Trifoline (from Campania) admits it is not of the first growth but stands seventh among wines. Number answer supported verbatim (septima vitis).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.115",
+      "source_text": "Caecuba Fundanis generosa cocuntur Amyclis, vitis et in media nata palude viret.",
+      "question": "Quo loco Caecuba generosa cocuntur, teste Martiale?",
+      "answer": "Fundanis Amyclis (vite in media palude nata).",
+      "question_en": "Where does the noble Caecuban ripen, on Martial's testimony?",
+      "answer_en": "At Amyclae near Fundi (from a vine growing in the middle of the marsh).",
+      "derivation": "Caecuban, the grandest old-Roman cru: grown at Fundan Amyclae, its vine green in mid-marsh — the famous marsh-grown vineyard (so too Pliny). Place answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.116",
+      "source_text": "Potabis liquidum Signina morantia ventrem? Ne nimium sistas, sit tibi parca sitis.",
+      "question": "Quid vina Signina ventri praestant apud Martialem?",
+      "answer": "Liquidum ventrem morantur (sistunt).",
+      "question_en": "What effect does Signine wine have on the belly, in Martial?",
+      "answer_en": "It checks a loose bowel (binds it).",
+      "derivation": "Signine as the medicinal, astringent wine — drink it sparingly lest it bind too much. Dietetic wine-lore supported verbatim (liquidum morantia ventrem).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.117",
+      "source_text": "Amphora Nestorea tibi Mamertina senecta si detur, quodvis nomen habere potest.",
+      "question": "Quod vinum, si Nestorea senectute detur, quodvis nomen habere potest, ut iocatur Martialis?",
+      "answer": "Mamertinum.",
+      "question_en": "Which wine, if served at a Nestor-like old age, can pass under any name it pleases, as Martial jokes?",
+      "answer_en": "Mamertine (from Messana in Sicily).",
+      "derivation": "Mamertine, the Sicilian wine of Messana: aged long enough ('Nestorean old age') it can pose as any grand cru — insider wine-market lore. Named-wine answer supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.118",
+      "source_text": "Tarraco, Campano tantum cessura Lyaeo haec genuit Tuscis aemula vina cadis.",
+      "question": "Cui vino soli vina Tarraconensia cedunt apud Martialem?",
+      "answer": "Campano Lyaeo (vino Campano).",
+      "question_en": "To which wine alone do the wines of Tarraco yield, in Martial?",
+      "answer_en": "To Campanian wine (Falernian and its kin).",
+      "derivation": "The ranking of Spain's Tarraconese wine: second only to Campania's, and a rival of Tuscan jars — provincial wine placed on the connoisseur's ladder. Supported verbatim (Campano tantum cessura Lyaeo).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.122",
+      "source_text": "Amphora Niliaci non sit tibi vilis aceti: esset cum vinum, vilior ilia fuit.",
+      "question": "Cuius terrae acetum vino suo pretiosius est, ut iocatur Martialis?",
+      "answer": "Aegypti (acetum Niliacum).",
+      "question_en": "Which land's vinegar is worth more than its own wine, as Martial jokes?",
+      "answer_en": "Egypt's (Nile vinegar).",
+      "derivation": "The joke encodes a shared judgment: Egyptian wine was so poor that as vinegar the jar was dearer than when it held wine. Named-place answer supported verbatim (Niliaci aceti).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.109",
+      "source_text": "Hoc de Caesareis mitis vindemia cellis misit, Iuleo quae sibi monte placet.",
+      "question": "De cuius cellis vinum Albanum missum esse dicit Martialis?",
+      "answer": "De Caesareis (Caesaris).",
+      "question_en": "From whose cellars does Martial say the Alban wine has been sent?",
+      "answer_en": "From Caesar's (the imperial cellars).",
+      "derivation": "Albanum as the emperor's own wine, from the Caesarean cellars of the Alban estate — the vintage 'that delights in the Julian mount' (Alba Longa, seat of Iulus' line). Supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.119",
+      "source_text": "Nomentana meum tibi dat vindemia Bacchum: si te Quintus amat, commodia bibes.",
+      "question": "Cuius agri vindemia Martiali ipsi vinum suum dabat, ut in Xeniis ait?",
+      "answer": "Nomentani.",
+      "question_en": "The vintage of which district gave Martial his own wine, as he says in the Xenia?",
+      "answer_en": "Of Nomentum.",
+      "derivation": "Martial's own wine came from his little Nomentan farm — a biographical fact his readers carried (the Nomentanum recurs across his books). Named-place answer supported verbatim (Nomentana meum ... vindemia Bacchum).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.120",
+      "source_text": "De Spoletinis quae sunt cariosa lagonis malueris quam si musta Falerna bibas.",
+      "question": "Vtrum praeferendum est, iudice Martiale: Spoletinum vetus an mustum Falernum?",
+      "answer": "Spoletinum vetus (cariosum).",
+      "question_en": "Which is to be preferred, in Martial's judgment: aged Spoletine or new Falernian must?",
+      "answer_en": "Aged ('mellowed') Spoletine.",
+      "derivation": "A point of cellar-lore: age beats appellation — old Spoletine outdoes even Falernian drunk as must. The explicit preference (malueris) makes it verifiable; supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.121",
+      "source_text": "Marsica Paeligni mittunt turbata coloni: non tu, libertus sed bibat illa tuus.",
+      "question": "Cui bibenda sunt vina Marsica turbata, quae Paeligni coloni mittunt, ut ait Martialis?",
+      "answer": "Liberto, non domino.",
+      "question_en": "Who should drink the cloudy Marsic wine that the Paelignian farmers send, as Martial says?",
+      "answer_en": "One's freedman, not the master.",
+      "derivation": "The bottom of the wine ladder: turbid Marsic from the Paeligni, fit only for the freedman's cup — a shared quality-judgment on a named regional wine. Supported verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.123",
+      "source_text": "Cum tua centenos expunget sportula civis, fumea Massiliae ponere vina potes.",
+      "question": "Cuius urbis vina fumea vocantur apud Martialem?",
+      "answer": "Massiliae.",
+      "question_en": "The wines of which city are called 'smoky' in Martial?",
+      "answer_en": "Of Massilia (Marseilles).",
+      "derivation": "Massilia's smoke-aged wine (matured in the fumarium) as the cheap pour for mass hospitality — when your sportula must feed a hundred clients. Named-city answer supported verbatim (fumea Massiliae vina).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Martial, Xenia 13.125",
+      "source_text": "Nobilis et lanis et felix vitibus Aulon det pretiosa tibi vellera, vina mihi.",
+      "question": "Quibus duabus rebus Aulon ille Tarentinus nobilis est apud Martialem?",
+      "answer": "Lanis et vitibus (vinis).",
+      "question_en": "For which two products is the Tarentine valley of Aulon famous, in Martial?",
+      "answer_en": "For wool and for vines (wine).",
+      "derivation": "Aulon near Tarentum — Horace's beloved valley — famed alike for precious fleeces and for wine; the Tarentine wool-and-wine pairing was shared knowledge. Two-item answer supported verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Martial, Xenia 13.126",
+      "source_text": "Vnguentum heredi numquam nec vina relinquas. Ille habeat nummos, haec tibi tota dato.",
+      "question": "Quae duo heredi numquam relinquenda esse monet Martialis?",
+      "answer": "Vnguentum et vina.",
+      "question_en": "Which two things does Martial warn one never to leave to an heir?",
+      "answer_en": "Perfume and wine.",
+      "derivation": "The quotable table-maxim closing the gift list: let the heir have the cash, but use up the unguent and the wine yourself — the banqueter's carpe-diem pairing of perfume and wine. Two-item answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Martial, Xenia 13.127",
+      "source_text": "Dat festinatas, Caesar, tibi bruma coronas: quondam veris erat, nunc tua facta rosa est.",
+      "question": "Quo anni tempore rosae Caesari iam coronas praebent, ut ait Martialis in extremo Xeniorum?",
+      "answer": "Bruma (media hieme).",
+      "question_en": "At what season do roses now furnish Caesar with crowns, as Martial says at the close of the Xenia?",
+      "answer_en": "In midwinter.",
+      "derivation": "Winter roses for the emperor: forced ('hurried') rose-crowns in December — 'once the rose belonged to spring, now it is yours' — the proverbial emblem of imperial luxury at the Saturnalia. Supported verbatim.",
+      "category": "mores"
+    }
+  ]
+}
