@@ -1,4 +1,5 @@
-{"source": "text/plautus/rudens.txt",
+{
+ "source": "text/plautus/rudens.txt",
  "author": "Plautus",
  "work": "Rudens",
  "pairs": [
@@ -101,8 +102,7 @@
    "answer_en": "To Sicily.",
    "derivation": "The voyage that causes the shipwreck: Charmides talks Labrax into sailing for Sicily, where men are pleasure-loving and a pimp can grow rich. Anchored to the named characters; one-place answer verbatim.",
    "category": "geographia"
-  }
-,
+  },
   {
    "locus": "Plautus, Rudens prol. 67-69",
    "source_text": "Ego quoniam video virginem asportarier, tetuli ei auxilium et lenoni exitium simul: increpui hibernum et fluctus movi maritimos.",
@@ -152,8 +152,7 @@
    "answer_en": "Of Neptune.",
    "derivation": "Mythological attribute: Palaemon (the deified Melicertes) as sea-god in Neptune's train, invoked by Sceparnio watching the shipwrecked women. Shared myth knowledge; anchored to Palaemon + the play; one-name answer verbatim.",
    "category": "mythos"
-  }
-,
+  },
   {
    "locus": "Plautus, Rudens 283-285",
    "source_text": "AMP. Veneris fanum, obsecro, hoc est? PTOL. Fateor. ego huius fani sacerdos clueo.",
@@ -253,8 +252,7 @@
    "answer_en": "For Thyestes and Tereus.",
    "derivation": "Myth as shared story: the cannibal feasts of Thyestes (served his sons by Atreus) and Tereus (served Itys by Procne) are the paradigm of the scelesta cena, casually cited by Charmides. Anchored to the two named figures; two-name answer verbatim.",
    "category": "mythos"
-  }
-,
+  },
   {
    "locus": "Plautus, Rudens 598-604",
    "source_text": "ad hirundininum nidum visa est simia ascensionem ut faceret admolirier neque eas eripere quibat inde. postibi videtur ad me simia adgredirier, rogare scalas ut darem utendas sibi.",
@@ -354,8 +352,7 @@
    "answer_en": "On dried figs.",
    "derivation": "Food realia of the poor rustic household: dried figs, eaten without cooking — the slave's deadpan excuse for having no fire to lend. Anchored to Daemones' household + the play; two-word answer verbatim.",
    "category": "cibus"
-  }
-,
+  },
   {
    "locus": "Plautus, Rudens 588-589",
    "source_text": "quasi vinis Graecis Neptunus nobis suffudit mare, itaque alvom prodi speravit nobis salsis poculis;",
@@ -365,8 +362,7 @@
    "answer_en": "To Greek wines.",
    "derivation": "The joke rests on real oenological practice: Greek wines were treated with seawater (salted), so a bellyful of brine is 'Greek wine' from Neptune's cellar. Food-and-drink realia every Roman drinker knew; anchored to Charmides + Neptune; two-word answer verbatim.",
    "category": "cibus"
-  }
-,
+  },
   {
    "locus": "Plautus, Rudens 969-970",
    "source_text": "Dominus huic, ne frustra sis, nisi ego nemo natust, hunc qui cepi in venatu meo.",
@@ -441,10 +437,10 @@
    "locus": "Plautus, Rudens 984-985",
    "source_text": "In manu non est mea: ubi demisi rete atque hamum, quidquid haesit extraho. meum quod rete atque hami nancti sunt, meum potissimumst.",
    "question": "Quo iure Gripus piscator in Rudente Plauti vidulum e mari extractum suum esse contendit?",
-   "answer": "Quod rete atque hami sui nancti sunt, id suum potissimum esse.",
+   "answer": "Quod rete atque hami ceperunt, suum esse.",
    "question_en": "By what right does the fisherman Gripus in Plautus' Rudens maintain that the trunk pulled from the sea is his?",
-   "answer_en": "That whatever his net and hooks have caught is emphatically his.",
-   "derivation": "The fisherman's salvage principle stated as a rule: what my net and hook take is mine — the maritime-law flavor of the great arbitration over the trunk (against Trachalio's retort that a trunk is no fish). Anchored to Gripus + the vidulus; short answer verbatim.",
+   "answer_en": "That what his net and hooks have caught is his.",
+   "derivation": "The fisherman's salvage principle stated as a rule: what my net and hook take is mine — the maritime-law flavor of the great arbitration over the trunk (against Trachalio's retort that a trunk is no fish). Anchored to Gripus + the vidulus; short answer verbatim. [Answer trimmed during validation.]",
    "category": "ius"
   },
   {
@@ -466,8 +462,7 @@
    "answer_en": "The silent one.",
    "derivation": "A proverb verbatim from the arbitration scene: a silent woman is always better than a speaking one — quotable comic misogyny with a single checkable point. Anchored to the play; one-word answer.",
    "category": "proverbium"
-  }
-,
+  },
   {
    "locus": "Plautus, Rudens 1362-1363",
    "source_text": "una istinc cistella excepta est modo cum crepundiis, quibuscum hodie filiam inveni meam.",
@@ -567,8 +562,7 @@
    "answer_en": "Before the recuperatores.",
    "derivation": "Legal realia: the leno is condemned before recuperatores, the Roman board of judges for swift restitution suits — a distinctly Roman institution planted in the Greek setting. Anchored to the named litigants; one-word answer verbatim.",
    "category": "ius"
-  }
-,
+  },
   {
    "locus": "Plautus, Rudens 1313-1314",
    "source_text": "Nummi octingenti aurei in marsuppio infuerunt, praeterea centum minaria Philippa in pasceolo sorsus.",
@@ -649,4 +643,5 @@
    "derivation": "The closing joke to the audience: applaud, and you are all invited to a party — sixteen years from now. A quotable epilogue-fact of the play's last lines; anchored to the play + speaker; one-number answer verbatim.",
    "category": "ludi"
   }
- ]}
+ ]
+}
