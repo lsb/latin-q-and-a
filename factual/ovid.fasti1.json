@@ -1,0 +1,807 @@
+{
+  "source": "text/ovid/ovid.fasti1.txt",
+  "author": "Ovid",
+  "work": "Fasti, liber I",
+  "pairs": [
+    {
+      "locus": "Ovid, Fasti 1.27-28",
+      "source_text": "Tempora digereret cum conditor Urbis, in anno constituit menses quinque bis esse suo.",
+      "question": "Quot menses Romulus, conditor Urbis, in anno suo esse constituit, ut Ovidius in Fastis narrat?",
+      "answer": "Decem.",
+      "question_en": "How many months did Romulus, the founder of the City, establish in his year, as Ovid relates in the Fasti?",
+      "answer_en": "Ten.",
+      "derivation": "The famous calendar fact that the original Romulean year had ten months (quinque bis). Anchored to Romulus and the Roman calendar; single number answer supported verbatim. Ambient Roman calendar lore, the starting point of the whole poem.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.39-40",
+      "source_text": "Martis erat primus mensis, Venerisque secundus; haec generis princeps, ipsius ille pater:",
+      "question": "Cuius dei primus mensis in anno Romuli fuit?",
+      "answer": "Martis.",
+      "question_en": "To which god did the first month of Romulus' year belong?",
+      "answer_en": "To Mars.",
+      "derivation": "In Romulus' ten-month year the first month was March, named for Mars his father (the second for Venus, ancestress of the race). Anchored to Romulus' year; single divine name, stated verbatim. Core calendar lore.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.43-44",
+      "source_text": "at Numa nec Ianum nec avitas praeterit umbras, mensibus antiquis praeposuitque duos.",
+      "question": "Quis rex duos menses, Iano et umbris avitis sacros, mensibus antiquis Romanorum praeposuit?",
+      "answer": "Numa.",
+      "question_en": "Which king placed two months, sacred to Janus and to the ancestral shades, before the old Roman months?",
+      "answer_en": "Numa.",
+      "derivation": "Numa added January (for Janus) and February (for the dead) at the head of the ten old months. Anchored by the named months' gods; one royal name, supported verbatim. Standard Roman calendar history.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.47-48",
+      "source_text": "ille nefastus erit, per quem tria verba silentur: fastus erit, per quem lege licebit agi.",
+      "question": "Quo die apud Romanos lege agi licebat, fasto an nefasto?",
+      "answer": "Fasto.",
+      "question_en": "On which kind of day at Rome was legal action permitted, a dies fastus or a dies nefastus?",
+      "answer_en": "On a dies fastus.",
+      "derivation": "The defining distinction of the Roman civil calendar: on a dies fastus the praetor may speak his three words and suits may proceed; on a nefastus they are silenced. Verbatim support; a fact every Roman litigant carried.",
+      "category": "ius"
+    },
+    {
+      "locus": "Ovid, Fasti 1.53-54",
+      "source_text": "est quoque, quo populum ius est includere saeptis; est quoque, qui nono semper ab orbe redit.",
+      "question": "Quoto quoque die nundinae, quibus rustici in Urbem conveniebant, apud Romanos redibant?",
+      "answer": "Nono.",
+      "question_en": "Every how many days did the Roman market-day (nundinae) come round?",
+      "answer_en": "Every ninth day.",
+      "derivation": "Ovid's day 'qui nono semper ab orbe redit' is the recurring market-day, the nundinae of the eight-day Roman week. Number answer supported verbatim; the nine-day cycle is ambient Roman timekeeping knowledge (Ovid names the interval, the institution is the standard referent).",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.55",
+      "source_text": "vindicat Ausonias Iunonis cura Kalendas;",
+      "question": "Cuius deae curae Kalendae omnium mensium apud Romanos vindicantur?",
+      "answer": "Iunonis.",
+      "question_en": "To the care of which goddess are the Kalends of every month claimed at Rome?",
+      "answer_en": "Juno's.",
+      "derivation": "The Kalends of each month were sacred to Juno. Anchored to the Roman Kalends; one divine name, verbatim. Fundamental sacred-calendar lore.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.56",
+      "source_text": "Idibus alba Iovi grandior agna cadit;",
+      "question": "Cui deo Idibus omnium mensium alba agna cadit?",
+      "answer": "Iovi.",
+      "question_en": "To which god does a white ewe-lamb fall on the Ides of every month?",
+      "answer_en": "To Jupiter.",
+      "derivation": "The Ides belonged to Jupiter, marked by the sacrifice of a white lamb. Anchored to the Ides; single divine name with the victim stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.57",
+      "source_text": "Nonarum tutela deo caret.",
+      "question": "Quis deus Nonas in fastis Romanis tutela sua tenet?",
+      "answer": "Nullus: Nonarum tutela deo caret.",
+      "question_en": "Which god holds the Nones under his protection in the Roman calendar?",
+      "answer_en": "None: the Nones lack a tutelary god.",
+      "derivation": "Unlike the Kalends (Juno) and Ides (Jupiter), the Nones have no tutelary deity. A crisp, verifiable negative stated verbatim; part of the same shared calendar doctrine.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.57-58",
+      "source_text": "omnibus istis (ne fallare cave) proximus ater erit.",
+      "question": "Quo nomine dies qui Kalendas, Nonas, Idusque proxime sequitur apud Romanos notatur?",
+      "answer": "Ater.",
+      "question_en": "By what name is the day immediately following the Kalends, Nones, and Ides marked at Rome?",
+      "answer_en": "Ater ('black', ill-omened).",
+      "derivation": "The dies ater: the day after each of the three named marker-days was unlucky, because on such days Rome suffered defeats (omen ab eventu). Anchored to the three named days; one-word answer, verbatim. Ambient superstition every Roman knew.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.71-72",
+      "source_text": "prospera lux oritur: linguis animisque favete; nunc dicenda bona sunt bona verba die.",
+      "question": "Qualia verba Kalendis Ianuariis, die bono, dicenda esse Ovidius monet?",
+      "answer": "Bona.",
+      "question_en": "What kind of words does Ovid say must be spoken on the Kalends of January, the good day?",
+      "answer_en": "Good words.",
+      "derivation": "The New Year custom of bona verba: only auspicious speech on 1 January, since omens attach to beginnings. Anchored to the Kalends of January; short answer verbatim. Classic Roman New Year etiquette.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.83-84",
+      "source_text": "colla rudes operum praebent ferienda iuvenci, quos aluit campis herba Falisca suis.",
+      "question": "Qua herba aliti erant iuvenci qui Kalendis Ianuariis Romae immolabantur, ut Ovidius refert?",
+      "answer": "Herba Falisca.",
+      "question_en": "On what grass had the bullocks been fed that were sacrificed at Rome on the Kalends of January, as Ovid reports?",
+      "answer_en": "Faliscan grass (from the fields of Falerii).",
+      "derivation": "The white bullocks slain by the new consuls on 1 January were raised in the Faliscan fields, famous for sacrificial cattle. Anchored to the New Year sacrifice at Rome; short answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.65-66",
+      "source_text": "Iane biceps, anni tacite labentis origo, solus de superis qui tua terga vides,",
+      "question": "Quis deus solus de superis sua terga videre dicitur?",
+      "answer": "Ianus.",
+      "question_en": "Which god alone of the gods above is said to see his own back?",
+      "answer_en": "Janus.",
+      "derivation": "Janus' two faces mean he alone of the gods sees his own back. Anchored by the god's canonical iconography; single name answer, verbatim. Shared image of Roman religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.89-90",
+      "source_text": "Quem tamen esse deum te dicam, Iane biformis? nam tibi par nullum Graecia numen habet.",
+      "question": "Cui deo Romano nullum par numen Graecia habet, ut Ovidius ait?",
+      "answer": "Iano.",
+      "question_en": "Which Roman god has no counterpart divinity in Greece, as Ovid says?",
+      "answer_en": "Janus.",
+      "derivation": "Janus is the distinctively Roman god without a Greek equivalent — Ovid states it expressly. Anchored to Janus with attribution; single name answer. A celebrated fact about the Roman pantheon.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.103-104",
+      "source_text": "me Chaos antiqui (nam sum res prisca) vocabant: aspice quam longi temporis acta canam.",
+      "question": "Quo nomine antiqui Ianum vocabant, ut deus ipse apud Ovidium narrat?",
+      "answer": "Chaos.",
+      "question_en": "By what name did the ancients call Janus, as the god himself relates in Ovid?",
+      "answer_en": "Chaos.",
+      "derivation": "Janus tells Ovid the ancients called him Chaos, because he existed when the elements were one mass. Anchored to Janus with 'apud Ovidium' attribution for this particular claim; one-word answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.99-100",
+      "source_text": "ille tenens baculum dextra clavemque sinistra edidit hos nobis ore priore sonos:",
+      "question": "Quae Ianus manibus tenet, ut apud Ovidium describitur?",
+      "answer": "Baculum dextra, clavem sinistra.",
+      "question_en": "What does Janus hold in his hands, as described in Ovid?",
+      "answer_en": "A staff in his right hand, a key in his left.",
+      "derivation": "Janus' canonical attributes as doorkeeper god: staff and key. Anchored to Janus; brief paired answer supported verbatim. The key especially is his shared emblem (he later calls it his 'arma').",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.127-128",
+      "source_text": "inde vocor Ianus; cui cum Ceriale sacerdos imponit libum farraque mixta sale,",
+      "question": "Quae dona sacerdos Iano imponit, ut deus ipse apud Ovidium refert?",
+      "answer": "Libum farraque mixta sale.",
+      "question_en": "What offerings does the priest set before Janus, as the god himself reports in Ovid?",
+      "answer_en": "A sacrificial cake and spelt mixed with salt.",
+      "derivation": "The bloodless offerings of Janus' cult: the libum and salted spelt. Anchored to Janus' rite; short list answer verbatim. Everyday sacral practice of the shared calendar religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.129-130",
+      "source_text": "nomina ridebis: modo namque Patulcius idem et modo sacrifico Clusius ore vocor.",
+      "question": "Quibus duobus nominibus Ianus ore sacrifico vocatur?",
+      "answer": "Patulcius et Clusius.",
+      "question_en": "By which two names is Janus invoked in the language of sacrifice?",
+      "answer_en": "Patulcius and Clusius.",
+      "derivation": "Janus' cult titles Patulcius ('Opener') and Clusius ('Closer'), marking his double office over doors. Anchored to Janus; two-name answer verbatim. Liturgical knowledge of the Roman insider.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.163-164",
+      "source_text": "bruma novi prima est veterisque novissima solis: principium capiunt Phoebus et annus idem.",
+      "question": "Quo anni tempore Phoebus et annus idem principium capiunt, ut Ianus apud Ovidium docet?",
+      "answer": "Bruma.",
+      "question_en": "At what point of the year do the sun and the year take the same beginning, as Janus teaches in Ovid?",
+      "answer_en": "At the winter solstice (bruma).",
+      "derivation": "Janus' answer to why the year begins in winter: the solstice is the first day of the new sun, so sun and year begin together. Anchored with attribution; one-word answer verbatim. Calendar aetiology Ovid presents as the god's own doctrine.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.167-170",
+      "source_text": "tempora commisi nascentia rebus agendis, totus ab auspicio ne foret annus iners. quisque suas artes ob idem delibat agendo, nec plus quam solitum testificatur opus.",
+      "question": "Quam ob rem quisque Romanus Kalendis Ianuariis artem suam paulum agendo delibat, ut Ianus apud Ovidium explicat?",
+      "answer": "Ne totus annus ab auspicio iners sit.",
+      "question_en": "Why does each Roman do a token bit of his own trade on the Kalends of January, as Janus explains in Ovid?",
+      "answer_en": "So that the whole year not be idle from its omen.",
+      "derivation": "The New Year custom of symbolically 'tasting' one's work on 1 January so the year begin active. The stated single aition, given verbatim by the god; anchored to the Kalends of January. A shared civic custom, not opinion.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.171-174",
+      "source_text": "mox ego, 'cur, quamvis aliorum numina placem, Iane, tibi primum tura merumque fero?' 'ut possis aditum per me, qui limina servo, ad quoscumque voles' inquit 'habere deos.'",
+      "question": "Cui deo Romani primum tura merumque ferebant, quamvis aliorum numina placarent?",
+      "answer": "Iano.",
+      "question_en": "To which god did the Romans offer incense and wine first, even when propitiating other divinities?",
+      "answer_en": "To Janus.",
+      "derivation": "Janus is invoked first in Roman prayer and sacrifice, because as keeper of thresholds he grants access to all the other gods. Anchored to Janus; single name answer supported verbatim by the exchange.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.185-186",
+      "source_text": "'quid volt palma sibi rugosaque carica' dixi 'et data sub niveo candida mella cado?'",
+      "question": "Quae dona dulcia Romani Kalendis Ianuariis inter se dare solebant, ut Ovidius in Fastis refert?",
+      "answer": "Palmas, caricas, mella cado data.",
+      "question_en": "What sweet gifts did the Romans customarily exchange on the Kalends of January, as Ovid reports in the Fasti?",
+      "answer_en": "Dates, dried figs, and honey given in a jar.",
+      "derivation": "The New Year gifts (strenae): dates, dried figs, and white honey in a snowy jar. Anchored to the Kalends of January; the three items are listed verbatim. Quintessential shared festival custom.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.187-188",
+      "source_text": "'omen' ait 'causa est, ut res sapor ille sequatur et peragat coeptum dulcis ut annus iter.'",
+      "question": "Quam ob causam dulcia Kalendis Ianuariis dantur, ut Ianus apud Ovidium docet?",
+      "answer": "Ominis causa, ut annus dulcis sequatur.",
+      "question_en": "For what reason are sweet things given on the Kalends of January, as Janus teaches in Ovid?",
+      "answer_en": "As an omen, so that the year may follow sweet.",
+      "derivation": "The stated single aition of the sweet New Year gifts: an omen that the taste of things — a sweet year — may follow. Anchored to the named day with attribution; answer supported verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.221-222",
+      "source_text": "aera dabant olim: melius nunc omen in auro est, victaque concessit prisca moneta novae.",
+      "question": "Quid prisci Romani stipis nomine Kalendis Ianuariis dabant, priusquam aurum praevaluit?",
+      "answer": "Aera.",
+      "question_en": "What did the early Romans give as the New Year cash-gift before gold prevailed?",
+      "answer_en": "Bronze coins.",
+      "derivation": "The stips, the New Year coin gift: of old bronze was given; in Ovid's day the better omen is in gold. Anchored to the Kalends custom; one-word answer verbatim. Living monetary custom of the festival.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.229-230",
+      "source_text": "'multa quidem didici: sed cur navalis in aere altera signata est, altera forma biceps?'",
+      "question": "Quae duae formae in asse antiquo Romano signatae erant?",
+      "answer": "Forma biceps Iani et navis.",
+      "question_en": "Which two devices were stamped on the old Roman as?",
+      "answer_en": "The two-headed figure of Janus and a ship.",
+      "derivation": "The old bronze as bore Janus' double head on one side and a ship's prow on the other — everyday knowledge of Roman coinage, the very coin of the capita aut navia game. Both devices named verbatim in Ovid's question to the god.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.233-234, 239-240",
+      "source_text": "causa ratis superest: Tuscum rate venit ad amnem ante pererrato falcifer orbe deus. ... at bona posteritas puppem formavit in aere, hospitis adventum testificata dei.",
+      "question": "Cuius dei adventum navis in aere Romano signata testatur, ut Ovidius in Fastis docet?",
+      "answer": "Saturni.",
+      "question_en": "Whose arrival does the ship stamped on Roman bronze commemorate, as Ovid teaches in the Fasti?",
+      "answer_en": "Saturn's.",
+      "derivation": "The ship on the as commemorates Saturn, the sickle-bearing god, who came by ship to the Tuscan river (Tiber). Anchored to the named coin device with attribution; single name answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.235-236",
+      "source_text": "hac ego Saturnum memini tellure receptum (caelitibus regnis a Iove pulsus erat).",
+      "question": "A quo deo Saturnus caelitibus regnis pulsus est, priusquam in Latio reciperetur?",
+      "answer": "A Iove.",
+      "question_en": "By which god was Saturn driven from the celestial realms before he was received in Latium?",
+      "answer_en": "By Jupiter.",
+      "derivation": "Saturn, expelled from heaven by Jupiter, found refuge in Latium where Janus received him. Anchored to Saturn and Latium; one-name answer verbatim. Foundational myth of the region.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.237-238",
+      "source_text": "inde diu genti mansit Saturnia nomen; dicta quoque est Latium terra latente deo.",
+      "question": "Unde terra Latium nomen traxit, ut Ovidius in Fastis narrat?",
+      "answer": "A Saturno deo in ea latente.",
+      "question_en": "From what did the land of Latium draw its name, as Ovid relates in the Fasti?",
+      "answer_en": "From the god Saturn lying hidden (latente) there.",
+      "derivation": "The celebrated etymology (shared with Vergil): Latium from latere, because Saturn hid there. Ovid gives this single aition; attribution keeps the closed-book frame. The mythic fact survives translation (the hiding, not the wordplay, is the answer).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.245-246",
+      "source_text": "arx mea collis erat, quem volgo nomine nostro nuncupat haec aetas Ianiculumque vocat.",
+      "question": "Qui collis Romanus a Iano deo nomen accepit?",
+      "answer": "Ianiculum.",
+      "question_en": "Which Roman hill took its name from the god Janus?",
+      "answer_en": "The Janiculum.",
+      "derivation": "The Janiculum was Janus' citadel and bears his name — the god says so himself. Anchored to Janus and Roman topography; one-name answer verbatim. Shared knowledge of the city's hills.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.259-262",
+      "source_text": "ille, manu mulcens propexam ad pectora barbam, protinus Oebalii rettulit arma Tati, utque levis custos, armillis capta, Sabinos ad summae tacitos duxerit arcis iter.",
+      "question": "Qua mercede capta custos arcis Romanae Sabinos Tatio duce ad summam arcem duxit?",
+      "answer": "Armillis.",
+      "question_en": "Captured by what reward did the guardian of the Roman citadel lead the Sabines under Tatius to the summit of the citadel?",
+      "answer_en": "By bracelets.",
+      "derivation": "The Tarpeia story: the faithless guardian, bought with the Sabines' golden armlets, let Tatius' men up to the citadel. Anchored to the Sabine war of Tatius; one-word answer verbatim. Among the most shared of Roman legends.",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.269-272",
+      "source_text": "oraque, qua pollens ope sum, fontana reclusi, sumque repentinas eiaculatus aquas. ante tamen madidis subieci sulpura venis, clauderet ut Tatio fervidus umor iter.",
+      "question": "Quis deus, sulpure venis subiecto aquisque calidis subito effusis, iter Tatio Sabinisque clausit?",
+      "answer": "Ianus.",
+      "question_en": "Which god, by putting sulphur beneath the springs and shooting forth sudden hot waters, blocked the way against Tatius and the Sabines?",
+      "answer_en": "Janus.",
+      "derivation": "Janus' own exploit: he burst open hot sulphurous springs to stop the Sabine attack — the aition for his cult at the gate. Anchored to Tatius' attack; single name answer (the speaker of the quoted lines is Janus, as the derivational frame of the interview makes explicit).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.279-282",
+      "source_text": "'ut populo reditus pateant ad bella profecto, tota patet dempta ianua nostra sera. pace fores obdo, ne qua discedere possit; Caesareoque diu numine clausus ero.'",
+      "question": "Quo tempore ianua templi Iani Romae patet, quo tempore clauditur?",
+      "answer": "Bello patet, pace clauditur.",
+      "question_en": "At what time does the door of Janus' shrine at Rome stand open, and when is it closed?",
+      "answer_en": "In war it stands open; in peace it is closed.",
+      "derivation": "The famous rule of the gates of Janus: open in wartime (so the people may return from war), barred in peace (so peace may not depart) — closed under Augustus. Anchored to the temple of Janus; brief paired answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.291-292",
+      "source_text": "accepit Phoebo nymphaque Coronide natum insula, dividua quam premit amnis aqua.",
+      "question": "Quibus parentibus natus est Aesculapius, ut Ovidius in Fastis significat?",
+      "answer": "Phoebo et nympha Coronide.",
+      "question_en": "Of which parents was Aesculapius born, as Ovid indicates in the Fasti?",
+      "answer_en": "Of Phoebus and the nymph Coronis.",
+      "derivation": "Aesculapius is 'Phoebo nymphaque Coronide natus' — his canonical parentage, stated verbatim. Anchored by the god's standard periphrasis (the healing god received on the island); two-name answer. Shared myth.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.289-292",
+      "source_text": "Quod tamen ex ipsis licuit mihi discere fastis, sacravere patres hac duo templa die. accepit Phoebo nymphaque Coronide natum insula, dividua quam premit amnis aqua.",
+      "question": "Quo loco Romae templum Aesculapii, Kalendis Ianuariis dedicatum, stabat?",
+      "answer": "In insula quam amnis dividua aqua premit (insula Tiberina).",
+      "question_en": "Where at Rome stood the temple of Aesculapius dedicated on the Kalends of January?",
+      "answer_en": "On the island that the river's divided water presses — the Tiber island.",
+      "derivation": "The temple of Aesculapius stood on the island in the Tiber, dedicated (per the fasti themselves) on 1 January. Anchored to the named god and city; place answer supported verbatim. Famous Roman sacred topography.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.317-318",
+      "source_text": "Quattuor adde dies ductos ex ordine Nonis, Ianus Agonali luce piandus erit.",
+      "question": "Quis deus Agonali luce mense Ianuario piandus est?",
+      "answer": "Ianus.",
+      "question_en": "Which god must be propitiated on the day of the Agonalia in January?",
+      "answer_en": "Janus.",
+      "derivation": "The Agonalia of 9 January (four days after the Nones) belongs to Janus. Anchored to the named festival and month; single name answer verbatim. Prime sacred-calendar fact.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.333-334",
+      "source_text": "utque ea non certa est, ita rex placare sacrorum numina lanigerae coniuge debet ovis.",
+      "question": "Quis sacerdos die Agonali victimam numinibus caedere debet?",
+      "answer": "Rex sacrorum.",
+      "question_en": "Which priest must slay the victim for the gods on the day of the Agonalia?",
+      "answer_en": "The rex sacrorum.",
+      "derivation": "Whatever the name's origin (Ovid canvasses several — dropped as no single answer), the rite is certain: the rex sacrorum officiates at the Agonalia. Anchored to the named festival; office answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.333-334",
+      "source_text": "utque ea non certa est, ita rex placare sacrorum numina lanigerae coniuge debet ovis.",
+      "question": "Qua victima rex sacrorum die Agonali numina placat?",
+      "answer": "Ariete, lanigerae ovis coniuge.",
+      "question_en": "With what victim does the rex sacrorum appease the gods on the day of the Agonalia?",
+      "answer_en": "With a ram, the mate of the wool-bearing ewe.",
+      "derivation": "The victim of the Agonalia is the ram, named by Ovid's kenning 'the wool-bearing ewe's mate'. Anchored to the festival and officiant; short answer supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.337-338",
+      "source_text": "ante, deos homini quod conciliare valeret, far erat et puri lucida mica salis.",
+      "question": "Quibus rebus prisci Romani, priusquam tura peregrina nossent, deos sibi conciliabant?",
+      "answer": "Farre et mica salis.",
+      "question_en": "With what did the early Romans win the gods' favor before they knew foreign incense?",
+      "answer_en": "With spelt and a grain of pure salt.",
+      "derivation": "Old Roman offerings were spelt and glittering salt (the mola salsa complex), before incense, myrrh, and saffron were imported. Anchored to early Roman rite; two-item answer verbatim. Ambient sacral knowledge.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.349-352",
+      "source_text": "prima Ceres avidae gavisa est sanguine porcae, ulta suas merita caede nocentis opes: nam sata vere novo teneris lactentia sucis eruta saetigerae comperit ore suis.",
+      "question": "Cur porca Cereri immolatur, ut Ovidius in Fastis docet?",
+      "answer": "Quod sus sata eruerat.",
+      "question_en": "Why is a sow sacrificed to Ceres, as Ovid teaches in the Fasti?",
+      "answer_en": "Because the pig had rooted up the sown crops.",
+      "derivation": "The first blood sacrifice: the sow to Ceres, in just revenge for uprooting the young crops. The stated single aition, verbatim; anchored to Ceres and her canonical victim. Shared sacrificial doctrine.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.353-358",
+      "source_text": "sus dederat poenas: exemplo territus huius palmite debueras abstinuisse, caper. quem spectans aliquis dentes in vite prementem, talia non tacito dicta dolore dedit: 'rode, caper, vitem: tamen hinc, cum stabis ad aram, in tua quod spargi cornua possit erit.'",
+      "question": "Cur caper Baccho victima caeditur, ut Ovidius narrat?",
+      "answer": "Quod vitem rodit.",
+      "question_en": "Why is the he-goat slain as a victim to Bacchus, as Ovid relates?",
+      "answer_en": "Because it gnaws the vine.",
+      "derivation": "The goat pays for biting Bacchus' vine — the canonical aition of his victim. Anchored to Bacchus and the goat; short answer supported verbatim by the vine-dresser's curse.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.359-360",
+      "source_text": "verba fides sequitur: noxae tibi deditus hostis spargitur adfuso cornua, Bacche, mero.",
+      "question": "Quo liquore cornua capri ad aram Bacchi sparguntur?",
+      "answer": "Mero.",
+      "question_en": "With what liquid are the goat's horns sprinkled at Bacchus' altar?",
+      "answer_en": "With unmixed wine.",
+      "derivation": "The rite fulfils the curse: wine is poured over the goat's horns at Bacchus' altar. Anchored to the same named sacrifice; one-word answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.377-380",
+      "source_text": "obrue mactati corpus tellure iuvenci: quod petis a nobis, obrutus ille dabit.' iussa facit pastor; fervent examina putri de bove: mille animas una necata dedit.",
+      "question": "Ex quo animali obruto Aristaeus apes amissas reparavit, ut Ovidius narrat?",
+      "answer": "Ex iuvenco mactato.",
+      "question_en": "From what buried animal did Aristaeus restore his lost bees, as Ovid relates?",
+      "answer_en": "From a slaughtered bullock.",
+      "derivation": "The bugonia: on Proteus' instruction Aristaeus buried a slain bullock, and swarms of bees boiled from the rotting ox — 'one killed gave a thousand lives'. Anchored to Aristaeus; short answer verbatim. Shared myth (cf. Georgics 4).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.369-374",
+      "source_text": "decipiat ne te versis tamen ille figuris, impediant geminas vincula firma manus.' pervenit ad vatem iuvenis, resolutaque somno alligat aequorei bracchia capta senis. ille sua faciem transformis adulterat arte; mox domitus vinclis in sua membra redit,",
+      "question": "Quo modo Proteus, vates marinus figuras vertens, cogitur in sua membra redire et vera dare?",
+      "answer": "Vinculis domitus.",
+      "question_en": "How is Proteus, the shape-shifting sea-prophet, forced to return to his own form and give true answers?",
+      "answer_en": "By being overpowered with bonds.",
+      "derivation": "The canonical rule for consulting Proteus: bind him fast (in his sleep) so his shape-changing cannot save him. Anchored to Proteus; short answer supported verbatim. Panhellenic-Roman shared myth.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.385-386",
+      "source_text": "placat equo Persis radiis Hyperiona cinctum, ne detur celeri victima tarda deo.",
+      "question": "Quo animali Persae Solem, radiis cinctum Hyperiona, placant?",
+      "answer": "Equo.",
+      "question_en": "With what animal do the Persians appease the Sun, Hyperion girt with rays?",
+      "answer_en": "With a horse.",
+      "derivation": "A named people's named rite: the Persians sacrifice a horse to the Sun, so the swift god get no slow victim. Anchored to the Persians and Sol; one-word answer verbatim. Shared ethnographic-religious lore of the classical world.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.387-388",
+      "source_text": "quod semel est geminae pro virgine caesa Dianae, nunc quoque pro nulla virgine cerva cadit.",
+      "question": "Quod animal pro virgine Dianae semel caesum est, ut Ovidius commemorat?",
+      "answer": "Cerva.",
+      "question_en": "What animal was once slain for Diana in place of a maiden, as Ovid recalls?",
+      "answer_en": "A hind.",
+      "derivation": "The Iphigenia substitution: a hind fell to Diana in the maiden's stead, and the hind remains her victim. Anchored to Diana and the famous exchange; one-word answer verbatim. Shared myth.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.389-390",
+      "source_text": "exta canum vidi Triviae libare Sapaeos et quicumque tuas accolit, Haeme, nives.",
+      "question": "Cuius animalis exta Sapaei Triviae libant, ut Ovidius se vidisse ait?",
+      "answer": "Canum.",
+      "question_en": "The entrails of what animal do the Sapaeans offer to Trivia, as Ovid says he himself has seen?",
+      "answer_en": "Of dogs.",
+      "derivation": "A named Thracian people's rite: the Sapaei (dwellers by Haemus) offer dog entrails to Trivia/Hecate — dogs being Hecate's canonical victims. Anchored to the named people and goddess, with Ovid's eyewitness claim; short answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.391-392, 439-440",
+      "source_text": "caeditur et rigido custodi ruris asellus; causa pudenda quidem, sed tamen apta deo. ... morte dedit poenas auctor clamoris; et haec est Hellespontiaco victima grata deo.",
+      "question": "Quod animal Priapo, deo Hellespontiaco, victima grata caeditur?",
+      "answer": "Asellus.",
+      "question_en": "What animal is slain as the welcome victim of Priapus, the Hellespontine god?",
+      "answer_en": "The ass.",
+      "derivation": "The ass is Priapus' proper victim. Anchored to Priapus (custos ruris, deus Hellespontiacus); one-word answer verbatim. Shared sacrificial lore, with its famous scurrilous aition told at length.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.433-436",
+      "source_text": "ecce rudens rauco Sileni vector asellus intempestivos edidit ore sonos. territa consurgit nymphe, manibusque Priapum reicit, et fugiens concitat omne nemus.",
+      "question": "Cur asellus Priapo immolatur, ut fabula apud Ovidium narrat?",
+      "answer": "Quod rudens nympham Lotida excitavit Priapumque prodidit.",
+      "question_en": "Why is the ass sacrificed to Priapus, as the tale in Ovid relates?",
+      "answer_en": "Because by braying it woke the nymph Lotis and betrayed Priapus.",
+      "derivation": "The aition: Silenus' ass brayed at the wrong moment, waking Lotis as Priapus crept upon her; the 'author of the noise' paid with death. Anchored to Priapus and Lotis; the single stated aition, supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.415-416",
+      "source_text": "at ruber, hortorum decus et tutela, Priapus omnibus ex illis Lotide captus erat:",
+      "question": "Cuius rei decus et tutela Priapus deus habetur?",
+      "answer": "Hortorum.",
+      "question_en": "Of what is the god Priapus held to be the ornament and guardian?",
+      "answer_en": "Of gardens.",
+      "derivation": "Priapus' canonical office: guardian of gardens (his red statues stood in every Roman garden). Anchored to Priapus; one-word answer verbatim. Ambient daily-life religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.453-454",
+      "source_text": "nec defensa iuvant Capitolia, quo minus anser det iecur in lances, Inachioti, tuas.",
+      "question": "Quae avis Capitolia defendisse dicitur, ut Ovidius commemorat?",
+      "answer": "Anser.",
+      "question_en": "Which bird is said to have defended the Capitol, as Ovid recalls?",
+      "answer_en": "The goose.",
+      "derivation": "The celebrated legend of the geese that saved the Capitol from the Gauls, alluded to as common knowledge ('defensa Capitolia'). Anchored to the Capitol; one-word answer supported verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.453-454",
+      "source_text": "nec defensa iuvant Capitolia, quo minus anser det iecur in lances, Inachioti, tuas.",
+      "question": "Cui deae anser iecur in lances dat, ut Ovidius ait?",
+      "answer": "Inachioti (Isidi, Inachi filiae).",
+      "question_en": "To which goddess does the goose give its liver on the sacrificial dishes, as Ovid says?",
+      "answer_en": "To the Inachian goddess — Isis, daughter of Inachus (Io).",
+      "derivation": "Despite its Capitoline merit the goose is sacrificed to the Inachian goddess (Io-Isis). Anchored to the named bird and goddess; single answer verbatim. Cult knowledge of the imperial city where Isis worship was ambient.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.455-456",
+      "source_text": "nocte deae Nocti cristatus caeditur ales, quod tepidum vigili provocet ore diem.",
+      "question": "Cui deae cristatus ales, id est gallus, caeditur, ut Ovidius docet?",
+      "answer": "Nocti.",
+      "question_en": "To which goddess is the crested bird — the cock — slain, as Ovid teaches?",
+      "answer_en": "To Night.",
+      "derivation": "The cock is sacrificed to the goddess Night because its wakeful crowing summons the day, Night's enemy. Anchored to the named bird and goddess with the stated reason; one-word answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.451-452",
+      "source_text": "ergo saepe suo coniunx abducta marito uritur Idaliis alba columba focis.",
+      "question": "Quae avis Idaliis focis, id est Veneris aris, uritur?",
+      "answer": "Alba columba.",
+      "question_en": "Which bird is burned on the Idalian hearths, that is, on the altars of Venus?",
+      "answer_en": "The white dove.",
+      "derivation": "The dove, Venus' own bird, burns on her Idalian altars. Anchored to Venus (Idalium is her cult site); short answer verbatim. Shared cult-and-bird lore.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.461-462",
+      "source_text": "Proxima prospiciet Tithono nupta relicto Arcadiae sacrum pontificale deae.",
+      "question": "Cuius deae Arcadiae sacrum pontificale mense Ianuario Romae fiebat, unde dies Carmentalia dicta sunt?",
+      "answer": "Carmentis.",
+      "question_en": "To which Arcadian goddess was a pontifical rite performed at Rome in January, whence the day is called the Carmentalia?",
+      "answer_en": "To Carmentis.",
+      "derivation": "The Carmentalia (11 January) is the pontifical rite of the Arcadian goddess — Carmentis, the prophetic mother of Evander, whom the whole following section names and celebrates. Anchored to the named festival; one-name answer.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.497-500",
+      "source_text": "vocibus Euander firmata mente parentis nave secat fluctus Hesperiamque tenet. iamque ratem doctae monitu Carmentis in amnem egerat et Tuscis obvius ibat aquis:",
+      "question": "Quae vates parens Euandri fuit, cuius monitu ille ratem in Tiberim egit?",
+      "answer": "Carmentis.",
+      "question_en": "Which prophetess was Evander's parent, by whose counsel he steered his ship into the Tiber?",
+      "answer_en": "Carmentis.",
+      "derivation": "Carmentis was Evander's mother ('parentis') and prophetic guide; at her bidding he turned into the Tuscan river. Anchored to Evander; one-name answer supported verbatim by the juxtaposed 'parentis ... Carmentis'.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.477-478",
+      "source_text": "nam iuvenis nimium vera cum matre fugatus deserit Arcadiam Parrhasiumque larem.",
+      "question": "Ex qua terra Euander cum matre fugatus in Latium venit?",
+      "answer": "Ex Arcadia.",
+      "question_en": "From what land did Evander, driven out with his mother, come to Latium?",
+      "answer_en": "From Arcadia.",
+      "derivation": "Evander was an Arcadian exile who left his Parrhasian home and settled where Rome would rise. Anchored to Evander; place answer verbatim. Foundational pre-Roman legend.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.493-494",
+      "source_text": "omne solum forti patria est, ut piscibus aequor, ut volucri vacuo quicquid in orbe patet.",
+      "question": "Cui, secundum celebre dictum Carmentis apud Ovidium, omne solum patria est?",
+      "answer": "Forti.",
+      "question_en": "For whom, according to Carmentis' famous saying in Ovid, is every soil a fatherland?",
+      "answer_en": "For the brave man.",
+      "derivation": "The proverbial line 'omne solum forti patria est', spoken by Carmentis to console the exiled Evander. The saying's checkable point (who it applies to) is the fact; anchored by quoting-context and attribution; verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Ovid, Fasti 1.543-544",
+      "source_text": "ecce boves illuc Erytheidas adplicat heros emensus longi claviger orbis iter,",
+      "question": "Unde boves erant quas Hercules claviger ad Tiberim adplicavit?",
+      "answer": "Ex Erythea.",
+      "question_en": "From where were the cattle that the club-bearing Hercules drove to the Tiber?",
+      "answer_en": "From Erythea.",
+      "derivation": "Hercules arrives at the future Rome with the Erythean cattle — Geryon's herd from the island of Erythea, his tenth labor. Anchored to Hercules; place answer verbatim ('boves Erytheidas').",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.547-548",
+      "source_text": "mane erat: excussus somno Tirynthius actor de numero tauros sentit abesse duos.",
+      "question": "Quot tauros Cacus de armento Herculis subduxit, ut Ovidius in Fastis narrat?",
+      "answer": "Duos.",
+      "question_en": "How many bulls did Cacus steal from Hercules' herd, as Ovid relates in the Fasti?",
+      "answer_en": "Two.",
+      "derivation": "Waking, Hercules finds two bulls missing — Cacus' theft. Anchored to Hercules and Cacus; number answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.549-550",
+      "source_text": "nulla videt quaerens taciti vestigia furti: traxerat aversos Cacus in antra ferox,",
+      "question": "Quo dolo Cacus vestigia furti sui celavit, cum boves Herculis in antrum traheret?",
+      "answer": "Aversos boves traxit.",
+      "question_en": "By what trick did Cacus hide the tracks of his theft when he dragged Hercules' cattle into his cave?",
+      "answer_en": "He dragged the cattle in backwards.",
+      "derivation": "The famous detail: Cacus dragged the beasts tail-first ('aversos') so their tracks pointed away from the cave. Anchored to Cacus and Hercules' cattle; short answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.551-554",
+      "source_text": "Cacus, Aventinae timor atque infamia silvae, non leve finitimis hospitibusque malum. dira viro facies, vires pro corpore, corpus grande (pater monstri Mulciber huius erat),",
+      "question": "Quis pater monstri Caci fuit?",
+      "answer": "Mulciber (Vulcanus).",
+      "question_en": "Who was the father of the monster Cacus?",
+      "answer_en": "Mulciber (Vulcan).",
+      "derivation": "Cacus, terror of the Aventine wood, was Vulcan's son — whence his fire-breathing. Anchored to Cacus; one-name answer verbatim (Mulciber is Vulcan's standard epithet).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.551-552",
+      "source_text": "Cacus, Aventinae timor atque infamia silvae, non leve finitimis hospitibusque malum.",
+      "question": "Cuius silvae Romanae timor atque infamia Cacus fuit?",
+      "answer": "Aventinae.",
+      "question_en": "Of which Roman hill's wood was Cacus the terror and disgrace?",
+      "answer_en": "Of the Aventine.",
+      "derivation": "Cacus' cave lay on the Aventine — fixed topography of the legend. Anchored to Cacus and Rome's hills; one-word answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.575-576",
+      "source_text": "occupat Alcides, adductaque clava trinodis ter quater adverso sedit in ore viri.",
+      "question": "Quo telo Hercules Cacum monstrum occidit?",
+      "answer": "Clava.",
+      "question_en": "With what weapon did Hercules slay the monster Cacus?",
+      "answer_en": "With his club.",
+      "derivation": "Hercules beat down the fire-breathing Cacus with his three-knotted club. Anchored to the named pair; one-word answer verbatim. Canonical detail of the shared story.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 1.581-582",
+      "source_text": "constituitque sibi, quae Maxima dicitur, aram, hic ubi pars Urbis de bove nomen habet.",
+      "question": "Quam aram Hercules victor Romae sibi constituit, ut Ovidius narrat?",
+      "answer": "Aram Maximam.",
+      "question_en": "What altar did the victorious Hercules establish for himself at Rome, as Ovid relates?",
+      "answer_en": "The Ara Maxima.",
+      "derivation": "After slaying Cacus, Hercules founded the Ara Maxima, his great altar in the cattle-market quarter. Anchored to Hercules and Rome; name answer verbatim. Famous cult foundation.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.581-582",
+      "source_text": "constituitque sibi, quae Maxima dicitur, aram, hic ubi pars Urbis de bove nomen habet.",
+      "question": "Quae pars Urbis Romae de bove nomen habet, ubi Herculis ara Maxima stat?",
+      "answer": "Forum Boarium.",
+      "question_en": "Which quarter of the city of Rome takes its name from the ox, where Hercules' Ara Maxima stands?",
+      "answer_en": "The Forum Boarium (Cattle Market).",
+      "derivation": "Ovid pins the Ara Maxima 'where a part of the City has its name from the ox' — the Forum Boarium, its standard referent. Anchored to Rome and the named altar; place-name answer supported in substance verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.587-588",
+      "source_text": "Idibus in magni castus Iovis aede sacerdos semimaris flammis viscera libat ovis;",
+      "question": "Cuius victimae viscera sacerdos Idibus in aede magni Iovis flammis libat?",
+      "answer": "Ovis semimaris (vervecis).",
+      "question_en": "The inner parts of what victim does the priest offer to the flames on the Ides in the temple of great Jupiter?",
+      "answer_en": "Of a half-male sheep — a wether.",
+      "derivation": "On the Ides the chaste priest offers the entrails of a wether (castrated ram) in Jupiter's temple. Anchored to the Ides and Jupiter; short answer verbatim ('semimaris ovis').",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.589-590",
+      "source_text": "redditaque est omnis populo provincia nostro et tuus Augusto nomine dictus avus.",
+      "question": "Quo die Caesar Octavianus Augusti nomine dictus est, ut Ovidius in Fastis tradit?",
+      "answer": "Idibus Ianuariis.",
+      "question_en": "On what day was Caesar Octavian given the name Augustus, as Ovid records in the Fasti?",
+      "answer_en": "On the Ides of January.",
+      "derivation": "Ovid pins to the Ides of January the restoration of the provinces to the people and the conferral of the name Augustus on Germanicus' grandfather (Octavian). Anchored to the named honorand with attribution ('ut Ovidius tradit', since the date is his claim); date answer supported verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.613-614",
+      "source_text": "augeat imperium nostri ducis, augeat annos, protegat et vestras querna corona fores:",
+      "question": "Qualis corona fores domus Augusti protegebat?",
+      "answer": "Querna.",
+      "question_en": "What kind of wreath protected the doors of Augustus' house?",
+      "answer_en": "An oaken one (the civic crown of oak leaves).",
+      "derivation": "The corona civica of oak hung over Augustus' door — the celebrated honor (also in the Res Gestae). Anchored to Augustus' house; one-word answer verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.605-606",
+      "source_text": "nec gradus est supra Fabios cognominis ullus: illa domus meritis Maxima dicta suis.",
+      "question": "Quo cognomine domus Fabia ob merita sua dicta est?",
+      "answer": "Maxima.",
+      "question_en": "By what cognomen was the Fabian house called for its merits?",
+      "answer_en": "Maxima ('Greatest').",
+      "derivation": "The Fabii bore the cognomen Maximus, earned by their merits — no rank of surname stands above it, says Ovid. Anchored to the gens Fabia; one-word answer verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.617-618, 627-628",
+      "source_text": "Respiciet Titan actas ubi tertius Idus, fient Parrhasiae sacra relata deae. ... binaque nunc pariter Tegeaeae sacra parenti pro pueris fieri virginibusque iubent.",
+      "question": "Quotiens mense Ianuario sacra Carmentalia Romae fiebant?",
+      "answer": "Bis.",
+      "question_en": "How many times in January were the rites of the Carmentalia performed at Rome?",
+      "answer_en": "Twice.",
+      "derivation": "The Carmentalia had two days (11 and 15 January): the rites are 'renewed' on the third day after the Ides, and twin rites are decreed to the Tegean mother for boys and girls. Anchored to the named festival; number answer supported verbatim ('bina sacra', 'sacra relata').",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.619-620",
+      "source_text": "nam prius Ausonias matres carpenta vehebant (haec quoque ab Euandri dicta parente reor);",
+      "question": "A qua dea carpenta, quibus matres Romanae vehebantur, nomen ducere Ovidius putat?",
+      "answer": "A Carmente, Euandri parente.",
+      "question_en": "From which goddess does Ovid think the carpenta, the carriages in which Roman matrons rode, took their name?",
+      "answer_en": "From Carmentis, Evander's mother.",
+      "derivation": "Ovid's own etymology ('reor'): the matrons' carriages (carpenta) named after Evander's mother Carmentis. Attributed as his claim; single answer verbatim. The custom of matrons riding in carpenta is the underlying shared fact.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.621-624",
+      "source_text": "mox honor eripitur, matronaque destinat omnis ingratos nulla prole novare viros, neve daret partus, ictu temeraria caeco visceribus crescens excutiebat onus.",
+      "question": "Quid matronae Romanae fecerunt, cum honor carpentis vehendi iis ereptus esset, ut Ovidius narrat?",
+      "answer": "Partus dare noluerunt onusque crescens excutiebant.",
+      "question_en": "What did the Roman matrons do when the honor of riding in carriages was taken from them, as Ovid relates?",
+      "answer_en": "They refused to bear children and cast out the growing burden of their wombs.",
+      "derivation": "The famous matrons' strike behind the Carmentalia's second day: robbed of the carpentum, the matrons refused to renew their ungrateful husbands with offspring. Anchored to the named episode; short answer supported verbatim. The senate's restoration of the right and the twin rites follow.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 1.629-630",
+      "source_text": "scortea non illi fas est inferre sacello, ne violent puros exanimata focos.",
+      "question": "Quid in sacellum Carmentis inferre fas non est?",
+      "answer": "Scortea (pelles rerum exanimatarum).",
+      "question_en": "What is it forbidden to bring into the shrine of Carmentis?",
+      "answer_en": "Leather — the hides of dead things.",
+      "derivation": "The taboo of Carmentis' shrine: nothing of leather may enter, lest dead matter pollute the pure hearths. Anchored to the named shrine; one-word answer verbatim. A named cult rule of the shared calendar.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.633-634",
+      "source_text": "Porrima placatur Postvertaque, sive sorores, sive fugae comites, Maenali diva, tuae;",
+      "question": "Quae duae deae, sorores sive fugae comites Carmentis, cum ea placantur?",
+      "answer": "Porrima et Postverta.",
+      "question_en": "Which two goddesses, sisters or companions of Carmentis' flight, are propitiated along with her?",
+      "answer_en": "Porrima and Postverta.",
+      "derivation": "The Carmentalia's minor goddesses Porrima and Postverta, who sang respectively of what was long past and what was to come. Anchored to Carmentis (the Maenalian goddess); two-name answer verbatim. Cult knowledge Ovid expressly flags as insider lore ('nomina ... non tibi nota prius').",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.641-644",
+      "source_text": "Furius antiquam, populi superator Etrusci, voverat et voti solverat ille fidem. causa, quod a patribus sumptis secesserat armis volgus, et ipsa suas Roma timebat opes.",
+      "question": "Quis templum Concordiae antiquum Romae vovit, ut Ovidius refert?",
+      "answer": "Furius (Camillus), populi Etrusci superator.",
+      "question_en": "Who vowed the old temple of Concord at Rome, as Ovid reports?",
+      "answer_en": "Furius (Camillus), the conqueror of the Etruscan people.",
+      "derivation": "Camillus vowed the original temple of Concord when the plebs seceded in arms from the fathers. Anchored to the named temple and man; name answer verbatim. Celebrated civic history behind the 16 January anniversary.",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 1.657-662",
+      "source_text": "Ter quater evolvi signantes tempora fastos, nec Sementiva est ulla reperta dies; cum mihi (sensit enim) 'lux haec indicitur' inquit Musa, 'quid a fastis non stata sacra petis? utque dies incerta sacri, sic tempora certa, seminibus iactis est ubi fetus ager.'",
+      "question": "Statone die feriae Sementivae in fastis Romanis aguntur?",
+      "answer": "Non: dies incerta est et indicitur.",
+      "question_en": "Are the Sementive holidays held on a fixed day in the Roman calendar?",
+      "answer_en": "No: the day is not fixed but is proclaimed.",
+      "derivation": "The Sementivae are feriae conceptivae — Ovid searched the fasti in vain because the sowing festival has no fixed day; it is announced ('indicitur') when the sowing is done. Anchored to the named festival; the negative is the checkable fact, stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.671-672",
+      "source_text": "placentur frugum matres, Tellusque Ceresque, farre suo gravidae visceribusque suis:",
+      "question": "Quae duae deae, frugum matres, feriis Sementivis placantur?",
+      "answer": "Tellus et Ceres.",
+      "question_en": "Which two goddesses, mothers of the crops, are propitiated at the Sementive festival?",
+      "answer_en": "Tellus and Ceres.",
+      "derivation": "The sowing festival honors the two 'mothers of the crops', Earth and Ceres, with spelt and the entrails of a pregnant sow. Anchored to the named festival; two-name answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.671-672",
+      "source_text": "placentur frugum matres, Tellusque Ceresque, farre suo gravidae visceribusque suis:",
+      "question": "Quibus rebus Tellus et Ceres feriis Sementivis placantur?",
+      "answer": "Farre et visceribus gravidae suis.",
+      "question_en": "With what offerings are Tellus and Ceres propitiated at the Sementive festival?",
+      "answer_en": "With spelt and the entrails of a pregnant sow.",
+      "derivation": "The Sementiva offering: their own spelt and a pregnant sow's inner parts — the standard victim for earth-goddesses of fertility. Anchored to the named festival and goddesses; short answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.673-674",
+      "source_text": "officium commune Ceres et Terra tuentur; haec praebet causam frugibus, illa locum.",
+      "question": "Quid Ceres frugibus praebet, quid Terra, ut Ovidius distinguit?",
+      "answer": "Ceres causam, Terra locum.",
+      "question_en": "What does Ceres furnish to the crops, and what does Earth, as Ovid distinguishes?",
+      "answer_en": "Ceres their origin, Earth their place.",
+      "derivation": "Ovid's crisp doctrinal division of the two goddesses' shared office: Ceres gives the crops their cause, Earth their place. Anchored to the named pair; paired short answer verbatim. Stated theology of the shared cult, not opinion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.705-708",
+      "source_text": "At quae venturas praecedit sexta Kalendas, hac sunt Ledaeis templa dicata deis: fratribus illa deis fratres de gente deorum circa Iuturnae composuere lacus.",
+      "question": "Quo loco Romae templa Ledaeis deis, Castori et Polluci, dicata sunt?",
+      "answer": "Circa lacum Iuturnae.",
+      "question_en": "Where at Rome was the temple dedicated to the Ledaean gods, Castor and Pollux?",
+      "answer_en": "By the pool of Juturna.",
+      "derivation": "The temple of the Dioscuri ('Ledaean gods') stands by the lacus Iuturnae — famous Forum topography; dedicated by the 'brothers of the race of gods' (Tiberius and Drusus) on 27 January. Anchored to the named gods and city; place answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 1.709-710",
+      "source_text": "Ipsum nos carmen deduxit Pacis ad aram: haec erit a mensis fine secunda dies.",
+      "question": "Quota a fine mensis Ianuarii dies aram Pacis celebrat, ut Ovidius tradit?",
+      "answer": "Secunda (a mensis fine).",
+      "question_en": "How many days from the end of January falls the celebration at the Altar of Peace, as Ovid records?",
+      "answer_en": "The second day from the month's end (30 January).",
+      "derivation": "The anniversary of the Ara Pacis Augustae falls on the second day from January's end, i.e. 30 January. Anchored to the named Augustan altar with attribution; date answer verbatim. Prime imperial calendar fact.",
+      "category": "religio"
+    }
+  ]
+}

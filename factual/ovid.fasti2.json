@@ -1,0 +1,987 @@
+{
+ "source": "text/ovid/ovid.fasti2.txt",
+ "author": "Ovid",
+ "work": "Fasti, liber II",
+ "pairs": [
+  {
+   "locus": "Ovid, Fasti 2.19-20",
+   "source_text": "Februa Romani dixere piamina patres: nunc quoque dant verbo plurima signa fidem.",
+   "question": "Quo nomine patres Romani piamina, quibus corpora purgantur, dixere?",
+   "answer": "Februa.",
+   "question_en": "By what name did the Roman fathers call the instruments of purification with which bodies are cleansed?",
+   "answer_en": "Februa.",
+   "derivation": "The name-fact of the month: februa = piamina, the means of purification. Anchored to Roman religious vocabulary; one-word answer verbatim. The month February's own defining cultural fact.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.27-28",
+   "source_text": "ipse ego flaminicam poscentem februa vidi; februa poscenti pinea virga data est.",
+   "question": "Quid flaminicae februa poscenti datum est, ut Ovidius se ipsum vidisse ait?",
+   "answer": "Pinea virga.",
+   "question_en": "What was given to the flaminica when she asked for februa, as Ovid says he himself saw?",
+   "answer_en": "A pine twig.",
+   "derivation": "Ovid's eyewitness cult detail: the flaminica (the flamen's wife) receives a pine branch as her februa. Anchored to the named priestess with Ovid's attribution; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.31-32",
+   "source_text": "mensis ab his dictus, secta quia pelle Luperci omne solum lustrant, idque piamen habent;",
+   "question": "Unde mensis Februarius nomen ducit, ut Ovidius in Fastis docet?",
+   "answer": "A februis, id est piaminibus.",
+   "question_en": "From what does the month of February take its name, as Ovid teaches in the Fasti?",
+   "answer_en": "From the februa, that is, the instruments of purification.",
+   "derivation": "February is named from the februa: the Luperci purify the ground with the cut hide, and purification is the month's business. Anchored to the named month with attribution; short answer supported verbatim ('mensis ab his dictus').",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.49-52",
+   "source_text": "Sed tamen, antiqui ne nescius ordinis erres, primus, ut est, Iani mensis et ante fuit; qui sequitur Ianum, veteris fuit ultimus anni: tu quoque sacrorum, Termine, finis eras.",
+   "question": "Quem locum mensis Februarius in vetere anno Romano tenebat, ut Ovidius tradit?",
+   "answer": "Ultimum: veteris anni ultimus erat.",
+   "question_en": "What place did February hold in the old Roman year, as Ovid records?",
+   "answer_en": "The last: it was the final month of the old year.",
+   "derivation": "In the ancient order January stood first and February last — which is why Terminus, god of ends, closed its rites. Anchored to the named month; short answer verbatim. Core calendar history.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.53-54",
+   "source_text": "postmodo creduntur spatio distantia longo tempora bis quini continuasse viri.",
+   "question": "Qui viri Ianuarium et Februarium, spatio antea distantes, continuasse creduntur?",
+   "answer": "Bis quini viri (decemviri).",
+   "question_en": "Which men are believed to have made January and February consecutive, though formerly far apart?",
+   "answer_en": "The 'twice five men' — the decemvirs.",
+   "derivation": "The decemviri are credited with joining the two months into their present sequence. Anchored to the named months; answer verbatim ('bis quini viri'), with the 'creduntur' hedge preserved in the question's frame.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.39-40",
+   "source_text": "Actoriden Peleus, ipsum quoque Pelea Phoci caede per Haemonias solvit Acastus aquas;",
+   "question": "Quis Pelea caede Phoci lustratum solvit?",
+   "answer": "Acastus.",
+   "question_en": "Who absolved Peleus, purified of the killing of Phocus?",
+   "answer_en": "Acastus.",
+   "derivation": "Among Ovid's Greek exempla of lustration: Acastus purified Peleus of Phocus' murder (as Peleus had purified Patroclus' killer). Anchored to the named heroes; one-name answer verbatim. Shared Greek-Roman myth.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.55-56",
+   "source_text": "Principio mensis Phrygiae contermina Matri Sospita delubris dicitur aucta novis.",
+   "question": "Cuius deae delubro contermina Iuno Sospita Romae delubris novis aucta dicitur?",
+   "answer": "Matris Phrygiae (Magnae Matris).",
+   "question_en": "Bordering on whose shrine is Juno Sospita said to have been honored with new shrines at Rome?",
+   "answer_en": "The Phrygian Mother's (the Magna Mater).",
+   "derivation": "On 1 February Sospita's new shrine stood next to the Phrygian Mother's (on the Palatine). Anchored to the two named goddesses; one-name answer verbatim. Sacred topography of the calendar.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.69-70",
+   "source_text": "ad penetrale Numae Capitolinumque Tonantem inque Iovis summa caeditur arce bidens.",
+   "question": "Cui deo Kalendis Februariis in summa arce Capitolina bidens caeditur?",
+   "answer": "Iovi (Tonanti).",
+   "question_en": "To which god is a sheep slain on the Kalends of February on the summit of the Capitoline citadel?",
+   "answer_en": "To Jupiter (the Thunderer).",
+   "derivation": "The Kalends-of-February sacrifice: a bidens (two-toothed sheep) to Capitoline Jupiter Tonans and at Numa's shrine. Anchored to the named day and god; single answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.113-114",
+   "source_text": "inde (fide maius) tergo delphina recurvo se memorant oneri subposuisse novo.",
+   "question": "Quod animal Ariona citharoedum, cum in medias undas desiluisset, tergo excepit?",
+   "answer": "Delphin.",
+   "question_en": "What animal took the lyre-player Arion on its back when he leapt into the waves?",
+   "answer_en": "A dolphin.",
+   "derivation": "The famous Arion story: a dolphin put its curved back beneath the singer and carried him. Anchored to Arion; one-word answer verbatim. Panhellenic tale Ovid himself calls universally known ('quae nescit Ariona tellus?').",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.103-104",
+   "source_text": "ille, metu pavidus, 'mortem non deprecor' inquit, 'sed liceat sumpta pauca referre lyra.'",
+   "question": "Quid Arion a nautis gladiis minantibus ultimum petivit?",
+   "answer": "Ut sumpta lyra pauca caneret.",
+   "question_en": "What last request did Arion make of the sailors threatening him with swords?",
+   "answer_en": "That he might take up his lyre and perform a little.",
+   "derivation": "The canonical detail: Arion does not beg for life but asks to sing once more with his lyre before leaping overboard. Anchored to Arion and the treacherous crew; short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.117-118",
+   "source_text": "di pia facta vident: astris delphina recepit Iuppiter et stellas iussit habere novem.",
+   "question": "Quot stellas delphin, qui Ariona vexit, in caelo habere iussus est?",
+   "answer": "Novem.",
+   "question_en": "How many stars was the dolphin that carried Arion ordered to have in the sky?",
+   "answer_en": "Nine.",
+   "derivation": "Jupiter set the pious dolphin among the constellations with nine stars. Anchored to the Arion dolphin; number answer verbatim. The catasterism, not the technical star-rising, is the fact.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.127-128",
+   "source_text": "sancte pater patriae, tibi plebs, tibi curia nomen hoc dedit, hoc dedimus nos tibi nomen, eques.",
+   "question": "Quod nomen Nonis Februariis plebs, curia, equites Augusto dederunt, ut Ovidius in Fastis canit?",
+   "answer": "Pater patriae.",
+   "question_en": "What title did the plebs, the senate, and the knights confer on Augustus on the Nones of February, as Ovid sings in the Fasti?",
+   "answer_en": "Father of the fatherland (pater patriae).",
+   "derivation": "Ovid celebrates the Nones of February (5 Feb.) as the day Augustus received the title pater patriae from all three orders. Anchored to Augustus and the named day; title answer verbatim. Prime imperial-calendar fact.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.155-156",
+   "source_text": "inter hamadryadas iaculatricemque Dianam Callisto sacri pars fuit una chori.",
+   "question": "Cuius deae sacri chori pars fuit Callisto?",
+   "answer": "Dianae.",
+   "question_en": "Of which goddess's sacred band was Callisto a member?",
+   "answer_en": "Diana's.",
+   "derivation": "Callisto was one of Diana's virgin company, sworn on the goddess's bow. Anchored to Callisto; one-name answer verbatim. Opening fact of the shared Callisto myth.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.173-174",
+   "source_text": "cui dea 'virgineos, periura Lycaoni, coetus desere, nec castas pollue' dixit 'aquas.'",
+   "question": "Cuius filia fuit Callisto, quam Diana periuram appellavit?",
+   "answer": "Lycaonis.",
+   "question_en": "Whose daughter was Callisto, whom Diana called forsworn?",
+   "answer_en": "Lycaon's.",
+   "derivation": "Diana addresses Callisto by her patronymic 'Lycaoni' — daughter of Lycaon, her canonical parentage. Anchored to Callisto; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.177-182",
+   "source_text": "laesa furit Iuno, formam mutatque puellae: quid facis? invito est pectore passa Iovem. utque ferae vidit turpes in paelice voltus, 'huius in amplexus, Iuppiter,' inquit 'eas.' ursa per incultos errabat squalida montes quae fuerat summo nuper amata Iovi.",
+   "question": "In quam feram Iuno laesa Callisto, a Iove amatam, mutavit?",
+   "answer": "In ursam.",
+   "question_en": "Into what beast did the injured Juno change Callisto, whom Jupiter had loved?",
+   "answer_en": "Into a bear.",
+   "derivation": "Juno's revenge: Callisto becomes a squalid she-bear wandering the mountains. Anchored to the named goddesses and Jupiter; short answer verbatim. Central fact of the shared myth.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.187-190",
+   "source_text": "hanc puer ignarus iaculo fixisset acuto ni foret in superas raptus uterque domos. signa propinqua micant: prior est, quam dicimus Arcton, Arctophylax formam terga sequentis habet.",
+   "question": "Quae duo signa caelestia propinqua Callisto et filius eius facti sunt?",
+   "answer": "Arctos et Arctophylax.",
+   "question_en": "Which two neighboring constellations did Callisto and her son become?",
+   "answer_en": "The Bear (Arctos) and the Bear-keeper (Arctophylax).",
+   "derivation": "Mother and son, snatched to heaven at the moment of near-matricide, shine as the adjacent signs Arctos and Arctophylax. Anchored to the Callisto story; two-name answer verbatim. The catasterism is the cultural fact.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.191-192",
+   "source_text": "saevit adhuc canamque rogat Saturnia Tethyn Maenaliam tactis ne lavet Arcton aquis.",
+   "question": "Quid Iuno a cana Tethye de Arcto, sidere Callistus, impetravit?",
+   "answer": "Ne Arcton aquis suis lavaret.",
+   "question_en": "What did Juno obtain from hoary Tethys concerning the Bear, Callisto's constellation?",
+   "answer_en": "That she never bathe the Bear in her waters.",
+   "derivation": "The famous aition for why the Great Bear never sets into the ocean: Juno, still raging, begged Tethys never to wash the Maenalian Bear. Anchored to the named goddesses and constellation; short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.193-194",
+   "source_text": "Idibus agrestis fumant altaria Fauni hic ubi discretas insula rumpit aquas.",
+   "question": "Cuius dei altaria Idibus Februariis in insula Tiberina fumant?",
+   "answer": "Fauni.",
+   "question_en": "Whose altars smoke on the Ides of February on the Tiber island?",
+   "answer_en": "Faunus'.",
+   "derivation": "The Ides of February belong to rustic Faunus, whose altar stood on the island where the river splits. Anchored to the named day and place; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.195-196",
+   "source_text": "haec fuit illa dies in qua Veientibus armis ter centum Fabii ter cecidere duo.",
+   "question": "Quot Fabii Veientibus armis uno die ceciderunt, ut Ovidius in Fastis computat?",
+   "answer": "Trecenti sex (ter centum ter duo).",
+   "question_en": "How many Fabii fell in one day to the arms of Veii, as Ovid reckons in the Fasti?",
+   "answer_en": "Three hundred and six ('thrice a hundred and thrice two').",
+   "derivation": "The Cremera disaster: 306 Fabii fell to the Veientines, pinned by Ovid to the Ides of February. Anchored to the gens Fabia and Veii; the famous number given verbatim in Ovid's riddling arithmetic.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.197-198",
+   "source_text": "una domus vires et onus susceperat urbis: sumunt gentiles arma professa manus.",
+   "question": "Quae una domus bellum Veiens totius urbis Romae onus susceperat?",
+   "answer": "Fabia.",
+   "question_en": "Which single house had taken upon itself the burden of Rome's war with Veii?",
+   "answer_en": "The Fabian house.",
+   "derivation": "One family, the Fabii, professed the whole war against Veii as its private burden — the celebrated gens-war. Anchored to the named war; one-name answer (the domus of the Fabii named throughout the passage).",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.201-204",
+   "source_text": "Carmentis portae dextro est via proxima iano: ire per hanc noli, quisquis es; omen habet. illa fama refert Fabios exisse trecentos: porta vacat culpa, sed tamen omen habet.",
+   "question": "Per quam portam Fabii ad Cremeram profecturi exisse feruntur, unde ea via omen habet?",
+   "answer": "Per dextrum ianum portae Carmentis.",
+   "question_en": "Through which gateway are the Fabii said to have marched out for the Cremera, whence that way bears an ill omen?",
+   "answer_en": "Through the right arch of the Porta Carmentalis.",
+   "derivation": "The Fabii left by the right-hand arch of the Porta Carmentalis; ever after that passage was unlucky and not to be used. Anchored to the named gate and gens; place answer verbatim. Living Roman street-superstition tied to celebrated history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.205-206",
+   "source_text": "ut celeri passu Cremeram tetigere rapacem (turbidus hibernis ille fluebat aquis),",
+   "question": "Ad quod flumen Fabii castra posuerunt, ubi omnes ceciderunt?",
+   "answer": "Ad Cremeram.",
+   "question_en": "At what river did the Fabii pitch camp, where they all fell?",
+   "answer_en": "At the Cremera.",
+   "derivation": "The Fabii's fatal post was on the Cremera, swollen with winter waters. Anchored to the gens Fabia; river-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.235-236",
+   "source_text": "una dies Fabios ad bellum miserat omnes, ad bellum missos perdidit una dies.",
+   "question": "Quantum temporis inter profectionem et interitum omnium Fabiorum interfuisse Ovidius canit?",
+   "answer": "Una dies utrumque tulit: una dies omnes misit, una perdidit.",
+   "question_en": "How does Ovid measure the time between the setting out and the destruction of all the Fabii?",
+   "answer_en": "A single day each: one day sent them all to war, one day destroyed them.",
+   "derivation": "Ovid's pointed epigram on the clan's fate: one day sent all the Fabii to war, one day destroyed them. Anchored to the named gens; the paradox is the checkable fact, verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.239-240",
+   "source_text": "nam puer impubes et adhuc non utilis armis unus de Fabia gente relictus erat;",
+   "question": "Quot de gente Fabia post cladem Cremerensem superstites relicti erant?",
+   "answer": "Unus, puer impubes.",
+   "question_en": "How many of the Fabian gens were left surviving after the disaster of the Cremera?",
+   "answer_en": "One — a boy below fighting age.",
+   "derivation": "The famous single survivor: one underage boy of the Fabii remained, seed of the future house. Anchored to the named gens and disaster; number answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.241-242",
+   "source_text": "scilicet ut posses olim tu, Maxime, nasci, cui res cunctando restituenda foret.",
+   "question": "Quis ex uno illo Fabio superstite olim nasciturus erat, qui rem Romanam cunctando restitueret?",
+   "answer": "Fabius Maximus (Cunctator).",
+   "question_en": "Who was one day to be born from that single surviving Fabius, the man who would restore the Roman state by delaying?",
+   "answer_en": "Fabius Maximus, the Delayer (Cunctator).",
+   "derivation": "The boy was spared so that Maximus might be born, 'cui res cunctando restituenda foret' — Ovid echoing Ennius' famous line on the Cunctator. Anchored to the gens and the celebrated cognomen; one-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.243-244",
+   "source_text": "Continuata loco tria sidera, Corvus et Anguis et medius Crater inter utrumque, iacent.",
+   "question": "Quae tria sidera continuata iacent, antiqui facti Phoebi et corvi monimenta?",
+   "answer": "Corvus, Anguis, Crater.",
+   "question_en": "Which three constellations lie joined together, memorials of the old story of Phoebus and the raven?",
+   "answer_en": "The Raven, the Snake, and the Bowl.",
+   "derivation": "The linked constellations Corvus, Anguis (Hydra), and Crater commemorate the raven's fig-and-lie episode. Anchored by the named star-groups; three-name answer verbatim. Kept for the myth, not the astronomy.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.261-264",
+   "source_text": "'addis' ait 'culpae mendacia' Phoebus 'et audes fatidicum verbis fallere velle deum? at tibi, dum lactens haerebit in arbore ficus, de nullo gelidae fonte bibentur aquae.'",
+   "question": "Quamdiu corvus, quod Phoebo mentitus est, aqua fontana prohibetur?",
+   "answer": "Dum ficus lactens in arbore haeret.",
+   "question_en": "For how long is the raven barred from spring water because it lied to Phoebus?",
+   "answer_en": "As long as the unripe fig clings to the tree.",
+   "derivation": "Phoebus' punishment of his bird: the raven, who dawdled for ripening figs and lied about a water-snake, may drink no cool water while the fig is unripe. Anchored to Phoebus and the raven; short answer verbatim. Famous aition (the thirsty raven).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.267-268",
+   "source_text": "Tertia post Idus nudos aurora Lupercos aspicit, et Fauni sacra bicornis eunt.",
+   "question": "Quo habitu Luperci die Lupercalium per urbem currunt?",
+   "answer": "Nudi.",
+   "question_en": "In what attire do the Luperci run through the city on the day of the Lupercalia?",
+   "answer_en": "Naked.",
+   "derivation": "The defining image of the Lupercalia (15 Feb., third dawn after the Ides): the naked Luperci. Anchored to the named festival and priesthood; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.267-268",
+   "source_text": "Tertia post Idus nudos aurora Lupercos aspicit, et Fauni sacra bicornis eunt.",
+   "question": "Cuius dei sacra Lupercalibus aguntur, ut Ovidius docet?",
+   "answer": "Fauni bicornis.",
+   "question_en": "Whose rites are performed at the Lupercalia, as Ovid teaches?",
+   "answer_en": "Those of two-horned Faunus.",
+   "derivation": "The Lupercalia are the rites of Faunus (the Roman Pan). Anchored to the named festival; one-name answer verbatim. Foundational fact of the February calendar.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.271-272",
+   "source_text": "Pana deum pecoris veteres coluisse feruntur Arcades; Arcadiis plurimus ille iugis.",
+   "question": "Cuius rei deus Pan a veteribus Arcadibus colebatur?",
+   "answer": "Pecoris.",
+   "question_en": "As god of what was Pan worshipped by the ancient Arcadians?",
+   "answer_en": "Of the flock.",
+   "derivation": "Pan, 'deus pecoris', the herd-god of Arcadia, is the origin of the Lupercalia's Faunus. Anchored to Pan and the Arcadians; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.279-282",
+   "source_text": "transtulit Euander silvestria numina secum: hic, ubi nunc urbs est, tum locus urbis erat. inde deum colimus devectaque sacra Pelasgis: flamen ad haec prisco more Dialis erat.",
+   "question": "Quis sacra Fauni silvestria ex Arcadia in locum urbis Romae transtulit?",
+   "answer": "Euander.",
+   "question_en": "Who brought the woodland rites of Faunus from Arcadia to the site of Rome?",
+   "answer_en": "Evander.",
+   "derivation": "Evander carried the Arcadian cult of Pan/Faunus to the future site of Rome — the pedigree of the Lupercalia. Anchored to Evander and the named cult; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.281-282",
+   "source_text": "inde deum colimus devectaque sacra Pelasgis: flamen ad haec prisco more Dialis erat.",
+   "question": "Qui flamen prisco more sacris Lupercalibus intererat, ut Ovidius refert?",
+   "answer": "Dialis.",
+   "question_en": "Which flamen took part in the rites of the Lupercalia by ancient custom, as Ovid reports?",
+   "answer_en": "The flamen Dialis (Jupiter's priest).",
+   "derivation": "By old custom the flamen Dialis attended the Lupercalia — a specific, checkable cult detail. Anchored to the named festival and priesthood; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.287-288",
+   "source_text": "ipse deus nudus nudos iubet ire ministros; nec satis ad cursus commoda vestis erit.",
+   "question": "Cur Luperci nudi currunt, ut Ovidius primam causam reddit?",
+   "answer": "Quod ipse deus nudus nudos ministros ire iubet.",
+   "question_en": "Why do the Luperci run naked, in the first explanation Ovid gives?",
+   "answer_en": "Because the god himself is naked and bids his ministers go naked.",
+   "derivation": "The god's own nudity commands his runners' nudity (clothing besides hinders running) — the explanation Ovid states as the god's rule. Anchored to Faunus' festival; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.317-320",
+   "source_text": "dumque parant epulas potandaque vina ministri, cultibus Alciden instruit illa suis: dat tenues tunicas Gaetulo murice tinctas, dat teretem zonam, qua modo cincta fuit.",
+   "question": "Cuius vestibus Hercules in antro Lydio indutus est, cum Faunus eos nocte adoriretur?",
+   "answer": "Omphales dominae (vestibus muliebribus eius).",
+   "question_en": "In whose clothes was Hercules dressed in the Lydian cave when Faunus crept upon them by night?",
+   "answer_en": "In those of his mistress Omphale — her women's garments.",
+   "derivation": "The famous exchange of dress: the Lydian mistress (Omphale, 'Maeonis') puts her fine tunics and girdle on Hercules while she takes his club and lion-skin. Anchored to Hercules and the Faunus tale; answer supported verbatim ('cultibus Alciden instruit illa suis').",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.345-350",
+   "source_text": "ascendit spondaque sibi propiore recumbit, et tumidum cornu durius inguen erat. interea tunicas ora subducit ab ima: horrebant densis aspera crura pilis. cetera temptantem subito Tirynthius heros reppulit: e summo decidit ille toro.",
+   "question": "Quem Faunus, vestibus muliebribus deceptus, pro Omphale in lecto attigit?",
+   "answer": "Herculem.",
+   "question_en": "Whom did Faunus, deceived by the women's clothes, touch in the bed instead of Omphale?",
+   "answer_en": "Hercules.",
+   "derivation": "The comic core of Ovid's Lupercalia tale: Faunus climbs into the wrong bed and finds bristly-legged Hercules in the woman's tunic, who hurls him off. Anchored to Faunus, Hercules, Omphale; one-name answer verbatim ('Tirynthius heros').",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.357-358",
+   "source_text": "veste deus lusus fallentes lumina vestes non amat, et nudos ad sua sacra vocat.",
+   "question": "Cur Faunus nudos ad sua sacra vocat, ut fabula de Hercule et Omphale apud Ovidium explicat?",
+   "answer": "Quod veste lusus est vestesque fallentes odit.",
+   "question_en": "Why does Faunus call worshippers naked to his rites, as the tale of Hercules and Omphale in Ovid explains?",
+   "answer_en": "Because he was fooled by clothing and hates garments that deceive the eye.",
+   "derivation": "The aition Ovid attaches to the tale: cheated by clothes, Faunus abhors them and summons his ministers naked. Anchored to the named story with attribution; short answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.361-362",
+   "source_text": "cornipedi Fauno caesa de more capella venit ad exiguas turba vocata dapes.",
+   "question": "Quae victima cornipedi Fauno Lupercalibus de more caeditur?",
+   "answer": "Capella.",
+   "question_en": "What victim is customarily slain for horn-footed Faunus at the Lupercalia?",
+   "answer_en": "A she-goat.",
+   "derivation": "The goat is Faunus' customary Lupercalia victim — whose hide furnishes the thongs. Anchored to the named god and festival; one-word answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.373-378",
+   "source_text": "ut rediit, veribus stridentia detrahit exta atque ait 'haec certe non nisi victor edet.' dicta facit, Fabiique simul. venit inritus illuc Romulus et mensas ossaque nuda videt. risit, et indoluit Fabios potuisse Remumque vincere, Quintilios non potuisse suos.",
+   "question": "Quis exta capellae Fauno caesae cum Fabiis consumpsit, priusquam Romulus rediret?",
+   "answer": "Remus.",
+   "question_en": "Who, with the Fabii, ate up the entrails of the goat slain for Faunus before Romulus returned?",
+   "answer_en": "Remus.",
+   "derivation": "Ovid's Roman aition for the Lupercalia's two companies: Remus and the Fabii, returning victorious over the cattle-thieves, ate the sacrificial exta, leaving Romulus and his Quintilii the bare bones. Anchored to the named brothers and gentes; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.375-378",
+   "source_text": "dicta facit, Fabiique simul. venit inritus illuc Romulus et mensas ossaque nuda videt. risit, et indoluit Fabios potuisse Remumque vincere, Quintilios non potuisse suos.",
+   "question": "Qui iuvenes Remum, qui Romulum in certamine Lupercali secuti sunt, ut Ovidius narrat?",
+   "answer": "Fabii Remum, Quintilii Romulum.",
+   "question_en": "Which young men followed Remus, and which Romulus, in the Lupercal contest, as Ovid relates?",
+   "answer_en": "The Fabii followed Remus, the Quintilii Romulus.",
+   "derivation": "The two bands of the story — Fabii with Remus, Quintilii with Romulus — mirror the two colleges of Luperci (Fabiani and Quinctiales). Anchored to the named gentes and twins; paired answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.383-385",
+   "source_text": "Silvia Vestalis caelestia semina partu ediderat, patruo regna tenente suo; is iubet auferri parvos et in amne necari:",
+   "question": "Quae Vestalis geminos Romulum et Remum, caelestia semina, peperit?",
+   "answer": "Silvia.",
+   "question_en": "Which Vestal bore the twins Romulus and Remus, seed of heaven?",
+   "answer_en": "Silvia.",
+   "derivation": "Silvia the Vestal bore the divine twins while her uncle held the throne — the opening of the foundation legend as Ovid tells it at the Lupercal. Anchored to the twins; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.385-386",
+   "source_text": "is iubet auferri parvos et in amne necari: quid facis? ex istis Romulus alter erit.",
+   "question": "Quis parvos Romulum et Remum in amne necari iussit?",
+   "answer": "Patruus Silviae, rex (Amulius).",
+   "question_en": "Who ordered the infants Romulus and Remus to be drowned in the river?",
+   "answer_en": "Silvia's uncle, the reigning king (Amulius).",
+   "derivation": "The wicked great-uncle — the king, Silvia's patruus (Amulius in the standard tradition) — ordered the twins drowned. Anchored to the twins; answer supported verbatim ('patruo regna tenente suo; is iubet').",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.389-390",
+   "source_text": "Albula, quem Tiberim mersus Tiberinus in undis reddidit, hibernis forte tumebat aquis:",
+   "question": "Quod nomen antiquum fluvio Tiberi fuit, priusquam Tiberinus in eo mersus est?",
+   "answer": "Albula.",
+   "question_en": "What was the ancient name of the river Tiber before Tiberinus drowned in it?",
+   "answer_en": "Albula.",
+   "derivation": "The river was of old the Albula and became the Tiber when Tiberinus drowned in its waters. Anchored to the named river; one-name answer verbatim. Shared antiquarian lore (cf. Vergil).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.411-412",
+   "source_text": "arbor erat: remanent vestigia, quaeque vocatur Rumina nunc ficus Romula ficus erat.",
+   "question": "Quo nomine ficus Rumina, ad quam gemini expositi sunt, antea vocabatur, ut Ovidius tradit?",
+   "answer": "Romula ficus.",
+   "question_en": "By what name was the ficus Ruminalis, where the twins were stranded, formerly called, as Ovid records?",
+   "answer_en": "The Romulan fig-tree (ficus Romula).",
+   "derivation": "The sacred fig where the twins' basket grounded: now called Rumina, formerly Romula. Anchored to the famous tree of the foundation legend; name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.413-418",
+   "source_text": "venit ad expositos, mirum, lupa feta gemellos: quis credat pueris non nocuisse feram? non nocuisse parum est, prodest quoque. quos lupa nutrit, perdere cognatae sustinuere manus. constitit et cauda teneris blanditur alumnis, et fingit lingua corpora bina sua.",
+   "question": "Quod animal geminos Romulum et Remum expositos nutrivit?",
+   "answer": "Lupa.",
+   "question_en": "What animal nursed the exposed twins Romulus and Remus?",
+   "answer_en": "A she-wolf.",
+   "derivation": "The she-wolf, newly whelped, suckled and licked the exposed twins — the most shared of all Roman images. Anchored to the twins; one-word answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.421-422",
+   "source_text": "illa loco nomen fecit, locus ipse Lupercis; magna dati nutrix praemia lactis habet.",
+   "question": "Unde locus Lupercal nomen accepit, ut Ovidius censet?",
+   "answer": "A lupa nutrice geminorum.",
+   "question_en": "From what did the place called the Lupercal take its name, in Ovid's judgment?",
+   "answer_en": "From the she-wolf that nursed the twins.",
+   "derivation": "The wolf 'made the name for the place, and the place for the Luperci': the Lupercal cave is named from the nursing lupa. Anchored to the named place; short answer verbatim. (Ovid adds the Arcadian mons Lycaeus as an alternative; the she-wolf claim is the one he asserts.)",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.425-428",
+   "source_text": "Nupta, quid exspectas? non tu pollentibus herbis nec prece nec magico carmine mater eris; excipe fecundae patienter verbera dextrae, iam socer optatum nomen habebit avi.",
+   "question": "Quid nupta Romana Lupercalibus patienter excipere debet, ut mater fiat?",
+   "answer": "Verbera fecundae dextrae.",
+   "question_en": "What must a Roman bride patiently receive at the Lupercalia in order to become a mother?",
+   "answer_en": "The blows of the fertile right hand (the Luperci's thongs).",
+   "derivation": "The famous fertility rite: barren wives are struck by the Luperci's goat-hide thongs and so conceive. Anchored to the named festival; short answer verbatim ('excipe fecundae patienter verbera dextrae').",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.435-436, 441",
+   "source_text": "monte sub Esquilio multis incaeduus annis Iunonis magnae nomine lucus erat. ... 'Italidas matres' inquit 'sacer hircus inito.'",
+   "question": "Quo in luco nuptae Romanae steriles oraculum de fecunditate acceperunt, cum raptae Sabinae non parerent?",
+   "answer": "In luco Iunonis sub monte Esquilio.",
+   "question_en": "In what grove did the barren Roman wives receive the oracle about fertility, when the ravished Sabine women bore no children?",
+   "answer_en": "In Juno's grove below the Esquiline hill.",
+   "derivation": "The aition of the thongs: in Juno's uncut grove under the Esquiline the goddess spoke — 'let the sacred goat enter the Italian mothers'. Anchored to Juno and the named hill; place answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.445-446",
+   "source_text": "ille caprum mactat: iussae sua terga puellae pellibus exsectis percutienda dabant.",
+   "question": "Qua re terga nuptarum in luco Iunonis percussa sunt, ut iussum 'sacer hircus inito' expleretur?",
+   "answer": "Pellibus capri exsectis.",
+   "question_en": "With what were the wives' backs struck in Juno's grove, to fulfil the command 'let the sacred goat enter'?",
+   "answer_en": "With strips cut from the hide of the sacrificed goat.",
+   "derivation": "The Etruscan augur's solution: he slew a goat and the women gave their backs to be struck with the cut hides — within ten months they were mothers. The origin of the Lupercalia thongs; anchored to the named oracle; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.459-462",
+   "source_text": "terribilem quondam fugiens Typhona Dione, tum, cum pro caelo Iuppiter arma tulit, venit ad Euphraten comitata Cupidine parvo, inque Palaestinae margine sedit aquae.",
+   "question": "Quem fugiens Venus cum Cupidine parvo ad Euphraten venit, ut Ovidius de signo Piscium narrat?",
+   "answer": "Typhona.",
+   "question_en": "Fleeing whom did Venus come with little Cupid to the Euphrates, as Ovid relates about the sign of Pisces?",
+   "answer_en": "Typhon.",
+   "derivation": "The Pisces aition: Venus (Dione) with Cupid fled the monster Typhon to the Euphrates' bank. Anchored to the named gods; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.471-472",
+   "source_text": "nec mora, prosiluit. pisces subiere gemelli: pro quo nunc, cernis, sidera nomen habent.",
+   "question": "Quae animalia Venerem et Cupidinem, in aquas prosilientes, subierunt et servaverunt?",
+   "answer": "Pisces gemelli.",
+   "question_en": "What creatures came beneath Venus and Cupid as they leapt into the water and saved them?",
+   "answer_en": "Twin fishes.",
+   "derivation": "Twin fishes bore up the goddess and her son — whence the constellation Pisces has its name. Anchored to Venus and Cupid; short answer verbatim. The catasterism as shared myth.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.473-474",
+   "source_text": "inde nefas ducunt genus hoc imponere mensis nec violant timidi piscibus ora Syri.",
+   "question": "Qui homines piscibus vesci nefas ducunt, ut Ovidius refert?",
+   "answer": "Syri.",
+   "question_en": "Which people hold it impious to eat fish, as Ovid reports?",
+   "answer_en": "The Syrians.",
+   "derivation": "The named people's food taboo: because fishes saved Venus, the Syrians will not set fish on their tables. Anchored to the Syrians with the stated aition; one-name answer verbatim. Ethnographic-religious lore of the shared Mediterranean world.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Ovid, Fasti 2.475-476",
+   "source_text": "Proxima lux vacua est; at tertia dicta Quirino, qui tenet hoc nomen (Romulus ante fuit),",
+   "question": "Quis Quirinus, cui dies Quirinalia dicta est, antea fuit?",
+   "answer": "Romulus.",
+   "question_en": "Who was Quirinus, to whom the day of the Quirinalia is dedicated, before his deification?",
+   "answer_en": "Romulus.",
+   "derivation": "The Quirinalia's god Quirinus is the deified Romulus — Ovid states the identity flatly (his three etymologies of the name are canvassed and dropped as no single answer). Anchored to the named festival; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.491-496",
+   "source_text": "est locus, antiqui Caprae dixere paludem: forte tuis illic, Romule, iura dabas. sol fugit, et removent subeuntia nubila caelum, et gravis effusis decidit imber aquis. hinc tonat, hinc missis abrumpitur ignibus aether: fit fuga, rex patriis astra petebat equis.",
+   "question": "Quo loco Romulus, dum populo iura dat, inter tonitrua ad astra sublatus est?",
+   "answer": "Ad Caprae paludem.",
+   "question_en": "At what place was Romulus, while giving laws to his people, carried up to the stars amid thunder?",
+   "answer_en": "At the Goat's Marsh (palus Caprae).",
+   "derivation": "Romulus' disappearance at the Caprae palus in the storm, borne heavenward by his father's horses. Anchored to Romulus; place answer verbatim. Celebrated apotheosis legend behind the Quirinalia.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.499-506",
+   "source_text": "sed Proculus Longa veniebat Iulius Alba, lunaque fulgebat, nec facis usus erat, cum subito motu saepes tremuere sinistrae: rettulit ille gradus, horrueruntque comae. pulcher et humano maior trabeaque decorus Romulus in media visus adesse via",
+   "question": "Cui Romulus post mortem pulcher et humano maior in via visus est?",
+   "answer": "Iulio Proculo.",
+   "question_en": "To whom did Romulus appear after his death, beautiful and larger than human, on the road?",
+   "answer_en": "To Julius Proculus.",
+   "derivation": "Julius Proculus, coming from Alba Longa by moonlight, saw the deified Romulus, who bade the Quirites cease mourning and worship him as Quirinus. Anchored to both named men; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.511-512",
+   "source_text": "templa deo fiunt: collis quoque dictus ab illo est, et referunt certi sacra paterna dies.",
+   "question": "Qui collis Romanus a Quirino deo nomen accepit?",
+   "answer": "Quirinalis.",
+   "question_en": "Which Roman hill took its name from the god Quirinus?",
+   "answer_en": "The Quirinal.",
+   "derivation": "A temple rose to the new god and the hill was named after him — the Quirinal, its standard referent. Anchored to Quirinus and Rome's hills; one-name answer supported in substance verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.513-514",
+   "source_text": "Lux quoque cur eadem Stultorum festa vocetur accipe: parva quidem causa, sed apta, subest.",
+   "question": "Quae festa Romana eadem luce atque Quirinalia Stultorum festa vocantur?",
+   "answer": "Fornacalia (extrema eorum dies).",
+   "question_en": "Which Roman festival, falling on the same day as the Quirinalia, is called the feast of Fools?",
+   "answer_en": "The Fornacalia — its final day.",
+   "derivation": "The Quirinalia doubles as the 'feast of Fools', the catch-all last day of the movable Fornacalia. Anchored to the named day; the identification is the fact, with Ovid's stated reason following. Answer supported by the passage as a whole (the Fornacalia explanation).",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.525-526",
+   "source_text": "facta dea est Fornax: laeti Fornace coloni orant ut fruges temperet illa suas.",
+   "question": "Quae dea a colonis oratur ut fruges torrendas temperet?",
+   "answer": "Fornax.",
+   "question_en": "Which goddess do the farmers beseech to regulate the parching of their grain?",
+   "answer_en": "Fornax (the oven-goddess).",
+   "derivation": "The goddess Fornax was 'made' so the spelt be parched at the right heat after early mishaps burned grain and huts alike. Anchored by the named goddess and the farmers' rite; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.527-528",
+   "source_text": "curio legitimis nunc Fornacalia verbis maximus indicit nec stata sacra facit:",
+   "question": "Quis magistratus sacrorum Fornacalia verbis legitimis indicit?",
+   "answer": "Curio maximus.",
+   "question_en": "Which religious officer proclaims the Fornacalia with the lawful formula?",
+   "answer_en": "The curio maximus.",
+   "derivation": "The Fornacalia is a movable feast ('nec stata sacra'), proclaimed each year by the curio maximus, with each curia's place posted on tablets in the forum. Anchored to the named festival; office answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.531-532",
+   "source_text": "stultaque pars populi quae sit sua curia nescit, sed facit extrema sacra relata die.",
+   "question": "Quod nomen extremae Fornacalium diei, quo sua sacra faciunt qui curiam suam nesciunt, vulgo inditum est?",
+   "answer": "Stultorum feriae.",
+   "question_en": "What name is popularly given to the last day of the Fornacalia, on which those who do not know their own curia perform their rites?",
+   "answer_en": "The feast of fools (Stultorum feriae).",
+   "derivation": "The stated single aition of the feriae stultorum: the 'foolish part of the people' who cannot name their curia sacrifice on the deferred last day (the Quirinalia). Anchored to the named festival; short answer verbatim. [Recast from a cur-question to the short name-fact during validation: the explanatory answer failed the short-answer criterion.]",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.533-534",
+   "source_text": "Est honor et tumulis, animas placare paternas, parvaque in exstructas munera ferre pyras.",
+   "question": "Quorum animae diebus Parentalibus a Romanis placantur?",
+   "answer": "Paternae (maiorum mortuorum).",
+   "question_en": "Whose souls are appeased by the Romans during the Parentalia?",
+   "answer_en": "Their fathers' — the souls of the dead ancestors.",
+   "derivation": "The Parentalia's defining office: honoring the tombs and appeasing the ancestral souls with small gifts. Anchored to the named season of the dead; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.535-540",
+   "source_text": "parva petunt manes: pietas pro divite grata est munere; non avidos Styx habet ima deos. tegula porrectis satis est velata coronis et sparsae fruges parcaque mica salis, inque mero mollita Ceres violaeque solutae: haec habeat media testa relicta via.",
+   "question": "Quae parva munera manibus Feralibus sufficiunt, ut Ovidius docet?",
+   "answer": "Fruges sparsae, mica salis, Ceres mero mollita, violae solutae.",
+   "question_en": "What small gifts suffice for the dead at the Feralia, as Ovid teaches?",
+   "answer_en": "Scattered grain, a grain of salt, bread softened in wine, and loose violets.",
+   "derivation": "The manes ask little: a garlanded tile with grain, salt, wine-soaked bread, and violets, left on a potsherd in mid-road. Anchored to the named rite; the list answer is verbatim. Core funerary custom of the shared culture.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.543-546",
+   "source_text": "hunc morem Aeneas, pietatis idoneus auctor, attulit in terras, iuste Latine, tuas. ille patris Genio sollemnia dona ferebat: hinc populi ritus edidicere pios.",
+   "question": "Quis morem manes parentandi in terras Latinas attulit, ut Ovidius tradit?",
+   "answer": "Aeneas.",
+   "question_en": "Who brought the custom of making offerings to dead ancestors into the Latin lands, as Ovid records?",
+   "answer_en": "Aeneas.",
+   "derivation": "Aeneas, 'fit author of piety', founded the Parentalia by bringing his father's Genius solemn gifts — whence the people learned the rite. Anchored to Aeneas and Latium; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.547-554",
+   "source_text": "at quondam, dum longa gerunt pugnacibus armis bella, Parentales deseruere dies. non impune fuit; nam dicitur omine ab isto Roma suburbanis incaluisse rogis. vix equidem credo: bustis exisse feruntur et tacitae questi tempore noctis avi, perque vias Urbis latosque ululasse per agros deformes animas, volgus inane, ferunt.",
+   "question": "Quid accidisse fertur, cum Romani bellis occupati dies Parentales deseruissent?",
+   "answer": "Animae maiorum bustis egressae per vias Urbis ululasse feruntur.",
+   "question_en": "What is said to have happened when the Romans, busy with wars, neglected the days of the Parentalia?",
+   "answer_en": "The souls of the ancestors are said to have come out of their tombs and howled through the streets of the City.",
+   "derivation": "The famous prodigy enforcing the cult of the dead: the neglected ancestors left their tombs and shrieked through city and fields until the honors were restored. Anchored to Rome and the named festival; short answer supported verbatim (with Ovid's own 'feruntur' hedge kept).",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.557-560",
+   "source_text": "dum tamen haec fiunt, viduae cessate puellae: exspectet puros pinea taeda dies, nec tibi, quae cupidae matura videbere matri, comat virgineas hasta recurva comas.",
+   "question": "Licetne diebus Parentalibus nuptias Romae celebrare, ut Ovidius monet?",
+   "answer": "Non licet: taeda nuptialis puros dies exspectare debet.",
+   "question_en": "Is it permitted to celebrate weddings at Rome during the days of the Parentalia, as Ovid advises?",
+   "answer_en": "No: the wedding torch must wait for pure days.",
+   "derivation": "The marriage taboo of the dies parentales: no wedding torches while the dead are abroad — Hymenaeus must hide his brands. Anchored to the named season; the prohibition is stated verbatim. Major shared rule of the Roman marriage calendar.",
+   "category": "mores"
+  },
+  {
+   "locus": "Ovid, Fasti 2.563-564",
+   "source_text": "di quoque templorum foribus celentur opertis, ture vacent arae stentque sine igne foci.",
+   "question": "Quo statu templa deorum diebus Parentalibus sunt?",
+   "answer": "Clausa: foribus opertis di celantur, arae ture vacant.",
+   "question_en": "In what state are the temples of the gods during the days of the Parentalia?",
+   "answer_en": "Closed: the gods are hidden behind shut doors, and the altars go without incense.",
+   "derivation": "During the season of the dead the gods themselves are veiled: temple doors shut, altars without incense, hearths without fire. Anchored to the named season; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.569-570",
+   "source_text": "hanc, quia iusta ferunt, dixere Feralia lucem; ultima placandis manibus illa dies.",
+   "question": "Quae dies ultima placandis manibus in fastis Romanis est?",
+   "answer": "Feralia.",
+   "question_en": "Which day is the last for appeasing the spirits of the dead in the Roman calendar?",
+   "answer_en": "The Feralia.",
+   "derivation": "The Feralia (21 Feb.) closes the Parentalia: the last day for placating the manes, named — Ovid says — because they 'bear' (ferunt) the dues to the dead. Anchored to the named day; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.571-572",
+   "source_text": "Ecce anus in mediis residens annosa puellis sacra facit Tacitae (vix tamen ipsa tacet),",
+   "question": "Cui deae anus annosa Feralibus sacra facit, ut linguas hostiles vinciat?",
+   "answer": "Tacitae (Mutae).",
+   "question_en": "To which goddess does the aged crone perform rites at the Feralia, to bind hostile tongues?",
+   "answer_en": "To Tacita (the Silent goddess, Muta).",
+   "derivation": "The Feralia witch-rite: the old woman sacrifices to Tacita/Muta and departs declaring 'hostiles linguas inimicaque vinximus ora'. Anchored to the named goddess and day; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.575-576",
+   "source_text": "tum cantata ligat cum fusco licia plumbo, et septem nigras versat in ore fabas,",
+   "question": "Quot fabas nigras anus in ore versat inter sacra Tacitae, ut Ovidius describit?",
+   "answer": "Septem.",
+   "question_en": "How many black beans does the old woman turn in her mouth during the rites of Tacita, as Ovid describes?",
+   "answer_en": "Seven.",
+   "derivation": "The magic particulars of the Tacita rite: enchanted threads with dark lead, and seven black beans in the mouth — beans being the standard offering to the dead. Anchored to the named rite; number answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.605-608",
+   "source_text": "illa etiam Iunonem adiit, miserataque nuptas 'Naida Iuturnam vir tuus' inquit 'amat.' Iuppiter intumuit, quaque est non usa modeste eripit huic linguam, Mercuriumque vocat:",
+   "question": "Cur Iuppiter nymphae Larae linguam eripuit, ut Ovidius de dea Muta narrat?",
+   "answer": "Quod amorem eius Iuturnae prodiderat et Iunoni indicaverat.",
+   "question_en": "Why did Jupiter tear out the tongue of the nymph Lara, as Ovid relates about the goddess Muta?",
+   "answer_en": "Because she had betrayed his love for Juturna and reported it to Juno.",
+   "derivation": "The aition of the Silent goddess: the tattling naiad Lara warned Juturna and told Juno, so Jupiter tore out her immodest tongue. Anchored to the named divinities; short answer supported verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.615-616",
+   "source_text": "fitque gravis geminosque parit, qui compita servant et vigilant nostra semper in urbe Lares.",
+   "question": "Quos geminos Lara nympha Mercurio peperit?",
+   "answer": "Lares, qui compita servant.",
+   "question_en": "What twins did the nymph Lara bear to Mercury?",
+   "answer_en": "The Lares, who guard the crossroads.",
+   "derivation": "The birth of the Lares compitales: Lara, led to the underworld by Mercury, bore him the twin Lares who keep watch over the city's crossroads. Anchored to the named parents; short answer verbatim. Everyday street-religion given its myth.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Ovid, Fasti 2.617-618",
+   "source_text": "Proxima cognati dixere Karistia kari, et venit ad socios turba propinqua deos.",
+   "question": "Qui homines die Karistiorum ad epulas communes conveniunt?",
+   "answer": "Cognati (turba propinqua).",
+   "question_en": "Who gather for the common feast on the day of the Caristia?",
+   "answer_en": "Kinsfolk — the throng of relatives.",
+   "derivation": "The Caristia (22 Feb., 'dear kindred' day): after honoring the dead, the living family gathers to feast with its household gods, the impious excluded. Anchored to the named day; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Ovid, Fasti 2.635-638",
+   "source_text": "iamque, ubi suadebit placidos nox umida somnos, larga precaturi sumite vina manu, et 'bene vos, bene te, patriae pater, optime Caesar' dicite; suffuso sint bona verba mero.",
+   "question": "Quem Romani Karistiis, mero suffuso, verbis 'bene te, patriae pater' salutant?",
+   "answer": "Caesarem (Augustum).",
+   "question_en": "Whom do the Romans toast at the Caristia, with wine poured, in the words 'health to you, father of the fatherland'?",
+   "answer_en": "Caesar (Augustus).",
+   "derivation": "The Caristia's closing libation: wine taken in generous hand with the formula 'bene vos, bene te, patriae pater, optime Caesar'. Anchored to the named day and honorand; one-name answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Ovid, Fasti 2.639-642",
+   "source_text": "Nox ubi transierit, solito celebretur honore separat indicio qui deus arva suo. Termine, sive lapis sive es defossus in agro stipes, ab antiquis tu quoque numen habes.",
+   "question": "Qua forma deus Terminus in agris colitur?",
+   "answer": "Lapidis aut stipitis defossi.",
+   "question_en": "In what form is the god Terminus worshipped in the fields?",
+   "answer_en": "As a stone or a stake sunk in the ground.",
+   "derivation": "Terminus, the boundary god, is a buried stone or stake — divine since the ancients. Anchored to the named god; short answer verbatim. Defining fact of the Terminalia (23 Feb.).",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.643-644",
+   "source_text": "te duo diversa domini de parte coronant, binaque serta tibi binaque liba ferunt.",
+   "question": "Qui Terminum die Terminaliorum coronant et ei liba ferunt?",
+   "answer": "Duo domini, de diversa parte (vicini confines).",
+   "question_en": "Who crown Terminus on the day of the Terminalia and bring him cakes?",
+   "answer_en": "The two owners, from opposite sides — the adjoining neighbors.",
+   "derivation": "The shared boundary-stone rite: the two neighboring landowners crown Terminus from either side, each bringing garland and cake. Anchored to the named festival; short answer verbatim. The essence of the boundary cult.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.655-656",
+   "source_text": "spargitur et caeso communis Terminus agno, nec queritur lactans cum sibi porca datur.",
+   "question": "Quibus victimis Terminus communis in confinio spargitur?",
+   "answer": "Agno caeso et lactante porca.",
+   "question_en": "With what victims is the shared Terminus sprinkled at the boundary?",
+   "answer_en": "With a slain lamb and a suckling pig.",
+   "derivation": "The Terminalia victims: lamb and suckling sow, their blood sprinkled on the common boundary-stone. Anchored to the named god and rite; two-item answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.667-670",
+   "source_text": "quid, nova cum fierent Capitolia? nempe deorum cuncta Iovi cessit turba locumque dedit; Terminus, ut veteres memorant, inventus in aede restitit et magno cum Iove templa tenet.",
+   "question": "Quis deus, cum nova Capitolia fierent, solus Iovi cedere noluit et in templo restitit?",
+   "answer": "Terminus.",
+   "question_en": "Which god, when the new Capitol was being built, alone refused to yield to Jupiter and remained in the temple?",
+   "answer_en": "Terminus.",
+   "derivation": "The celebrated legend: all the gods gave place to Jupiter on the Capitol except Terminus, who stayed and shares the great temple. Anchored to the Capitol; one-name answer verbatim. The emblem of Rome's immovable boundaries.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.671-672",
+   "source_text": "nunc quoque, se supra ne quid nisi sidera cernat, exiguum templi tecta foramen habent.",
+   "question": "Cur tectum templi Capitolini supra Terminum exiguum foramen habet?",
+   "answer": "Ne quid nisi sidera supra se cernat.",
+   "question_en": "Why does the roof of the Capitoline temple have a small opening above Terminus?",
+   "answer_en": "So that he may see nothing above himself but the stars.",
+   "derivation": "The famous architectural detail: the aperture in the Capitol's roof over Terminus, who must sit beneath open sky. The stated single aition, verbatim; anchored to the named god and temple.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.663-666",
+   "source_text": "si tu signasses olim Thyreatida terram, corpora non leto missa trecenta forent, nec foret Othryades congestis lectus in armis. o quantum patriae sanguinis ille dedit!",
+   "question": "Quot corpora certamine de Thyreatide terra leto missa sunt, ut Ovidius in laudibus Termini commemorat?",
+   "answer": "Trecenta.",
+   "question_en": "How many bodies were sent to death in the contest over the Thyreatid land, as Ovid recalls in the praises of Terminus?",
+   "answer_en": "Three hundred.",
+   "derivation": "The battle of the champions over Thyrea (Sparta vs. Argos): three hundred dead, with Othryades left lying on the heaped arms — cited in the Terminalia hymn as the cost of unmarked boundaries. Anchored to the named land and hero; number answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.679-682",
+   "source_text": "est via quae populum Laurentes ducit in agros, quondam Dardanio regna petita duci: illa lanigeri pecoris tibi, Termine, fibris sacra videt fieri sextus ab Urbe lapis.",
+   "question": "Quoto ab Urbe lapide in via Laurentina sacra publica Termino fiunt?",
+   "answer": "Sexto.",
+   "question_en": "At which milestone from the City on the Laurentine road are the public rites of Terminus performed?",
+   "answer_en": "At the sixth.",
+   "derivation": "The state Terminalia: sheep's entrails offered to Terminus at the sixth milestone on the road to the Laurentine fields (the old boundary of the ager Romanus). Anchored to the named god and road; number answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.683-684",
+   "source_text": "gentibus est aliis tellus data limite certo: Romanae spatium est Urbis et orbis idem.",
+   "question": "Cuius urbis spatium idem esse atque orbis Ovidius in Terminalibus canit?",
+   "answer": "Romae.",
+   "question_en": "Of which city does Ovid sing at the Terminalia that its space is the same as the world's?",
+   "answer_en": "Rome's.",
+   "derivation": "The famous urbis-et-orbis point closing the Terminalia: other nations have fixed borders; the space of Rome's city and of the world is one. A checkable celebrated dictum, verbatim; anchored to Rome.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Ovid, Fasti 2.685-686",
+   "source_text": "Nunc mihi dicenda est regis fuga. traxit ab illa sextus ab extremo nomina mense dies.",
+   "question": "Unde dies Regifugium dictus nomen traxit?",
+   "answer": "A fuga regis (Tarquinii).",
+   "question_en": "From what did the day called the Regifugium take its name?",
+   "answer_en": "From the flight of the king (Tarquin).",
+   "derivation": "The Regifugium (the sixth day from the month's end, 24 Feb.) is named from the king's flight — the expulsion of Tarquin, whose story Ovid then tells. Anchored to the named day; short answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Ovid, Fasti 2.687-688",
+   "source_text": "ultima Tarquinius Romanae gentis habebat regna, vir iniustus, fortis ad arma tamen.",
+   "question": "Quis ultimus regum Romanorum fuit?",
+   "answer": "Tarquinius (Superbus).",
+   "question_en": "Who was the last of the Roman kings?",
+   "answer_en": "Tarquin (the Proud).",
+   "derivation": "Tarquinius held the last kingship of the Roman race — unjust, though strong in war. Anchored to Rome's kings; one-name answer verbatim. Bedrock shared history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.689-690",
+   "source_text": "ceperat hic alias, alias everterat urbes, et Gabios turpi fecerat arte suos.",
+   "question": "Quam urbem Tarquinius Superbus turpi arte suam fecit?",
+   "answer": "Gabios.",
+   "question_en": "Which city did Tarquin the Proud make his own by a shameful trick?",
+   "answer_en": "Gabii.",
+   "derivation": "Gabii fell to Tarquin by fraud, not arms — the celebrated stratagem worked through his youngest son. Anchored to the named king and city; one-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.691-696",
+   "source_text": "namque trium minimus, proles manifesta Superbi, in medios hostes nocte silente venit. nudarant gladios: 'occidite' dixit 'inermem: hoc cupiant fratres Tarquiniusque pater, qui mea crudeli laceravit verbere terga' (dicere ut hoc posset, verbera passus erat).",
+   "question": "Quo dolo filius minimus Tarquinii Superbi Gabinis fidem fecit?",
+   "answer": "Terga sponte verberata ostendens transfugam se simulavit.",
+   "question_en": "By what trick did Tarquin the Proud's youngest son win the trust of the Gabines?",
+   "answer_en": "Showing a back deliberately scourged, he posed as a deserter from his cruel father.",
+   "derivation": "The Gabii stratagem: the youngest son had himself whipped so he could display his scars and pass as his father's victim. Anchored to the named episode; short answer supported verbatim ('dicere ut hoc posset, verbera passus erat').",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.705-708",
+   "source_text": "illic Tarquinius mandata latentia nati accipit, et virga lilia summa metit. nuntius ut rediit decussaque lilia dixit, filius 'agnosco iussa parentis' ait.",
+   "question": "Quo tacito signo Tarquinius Superbus filio, quid Gabiis faciendum esset, significavit, ut Ovidius narrat?",
+   "answer": "Virga lilia summa decussit.",
+   "question_en": "By what wordless sign did Tarquin the Proud show his son what was to be done at Gabii, as Ovid relates?",
+   "answer_en": "With his stick he struck off the tallest lilies.",
+   "derivation": "The silent message in the garden: the king mowed the heads of the tallest flowers — kill the leading men. In Ovid they are lilies (Livy's version has poppies), hence the attribution; anchored to the named king and city; short answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.713-714",
+   "source_text": "consulitur Phoebus. sors est ita reddita: 'matri qui dederit princeps oscula, victor erit.'",
+   "question": "Quid oraculum Phoebi Tarquiniis de victoria reddidit?",
+   "answer": "Eum victorem fore qui matri princeps oscula dedisset.",
+   "question_en": "What answer did Phoebus' oracle give the Tarquins about victory?",
+   "answer_en": "That he would be victor who first gave his mother a kiss.",
+   "derivation": "The Delphic response behind Brutus' famous ruse: the first to kiss his mother would hold power. Anchored to the named consultation; the oracle's words quoted verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.717-718",
+   "source_text": "Brutus erat stulti sapiens imitator, ut esset tutus ab insidiis, dire Superbe, tuis.",
+   "question": "Cur Brutus stultum se sapiens simulabat?",
+   "answer": "Ut tutus ab insidiis Tarquinii Superbi esset.",
+   "question_en": "Why did the wise Brutus pretend to be a fool?",
+   "answer_en": "To be safe from the plots of Tarquin the Proud.",
+   "derivation": "Brutus the 'wise imitator of a fool' — the feigned stupidity that gave him his name and his safety under Superbus. Anchored to the named men; short answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.719-720",
+   "source_text": "ille iacens pronus matri dedit oscula Terrae, creditus offenso procubuisse pede.",
+   "question": "Cui 'matri' Brutus, oraculo sapienter intellecto, oscula dedit?",
+   "answer": "Terrae.",
+   "question_en": "To what 'mother' did Brutus, wisely understanding the oracle, give his kiss?",
+   "answer_en": "To the Earth.",
+   "derivation": "Brutus alone read the riddle: falling as if by chance, he kissed mother Earth. Anchored to Brutus and the oracle; one-word answer verbatim. One of the most shared anecdotes of Roman legend.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.721-722",
+   "source_text": "cingitur interea Romanis Ardea signis, et patitur longas obsidione moras.",
+   "question": "Quam urbem Romani obsidebant, cum Lucretiae iniuria facta est?",
+   "answer": "Ardeam.",
+   "question_en": "Which city were the Romans besieging when the outrage was done to Lucretia?",
+   "answer_en": "Ardea.",
+   "derivation": "The Lucretia story unfolds during the long siege of Ardea, where the idle young officers held their wager about their wives. Anchored to the named city and episode; one-name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.741-743",
+   "source_text": "inde cito passu petitur Lucretia, cuius ante torum calathi lanaque mollis erat. lumen ad exiguum famulae data pensa trahebant;",
+   "question": "Quo in opere Lucretia nocte inventa est, cum viri ab Ardea Romam advolassent?",
+   "answer": "Lanam faciens inter famulas.",
+   "question_en": "At what work was Lucretia found by night when the men rode from Ardea to Rome?",
+   "answer_en": "Working wool among her maidservants.",
+   "derivation": "The contest's verdict: while the king's daughters-in-law banqueted, Lucretia sat spinning wool by lamplight — the canonical proof of the matron's virtue (lanam fecit). Anchored to Lucretia; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Ovid, Fasti 2.795-796",
+   "source_text": "utque torum pressit, 'ferrum, Lucretia, mecum est' natus ait regis, 'Tarquiniusque loquor.'",
+   "question": "Quis Lucretiae nocte cum ferro institit et vim attulit?",
+   "answer": "Tarquinius, natus regis (Sextus Tarquinius).",
+   "question_en": "Who assailed Lucretia by night with a sword and did her violence?",
+   "answer_en": "Tarquin, the king's son (Sextus Tarquinius).",
+   "derivation": "The assailant announces himself: 'the sword is with me, Lucretia; I who speak am Tarquin' — the king's son (the youngest, Sextus in the tradition). Anchored to Lucretia; name answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.815-816",
+   "source_text": "grandaevumque patrem fido cum coniuge castris evocat: et posita venit uterque mora.",
+   "question": "Quos Lucretia postero die a castris evocavit, ut dedecus suum indicaret?",
+   "answer": "Patrem grandaevum et coniugem.",
+   "question_en": "Whom did Lucretia summon from the camp the next day, to reveal her disgrace?",
+   "answer_en": "Her aged father and her husband.",
+   "derivation": "Lucretia's summons: father and faithful husband come without delay, hear her story, and grant the pardon she refuses. Anchored to Lucretia; two-item answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.831-832",
+   "source_text": "nec mora, celato fixit sua pectora ferro, et cadit in patrios sanguinulenta pedes.",
+   "question": "Quo modo Lucretia, narrato dedecore, mortem sibi conscivit?",
+   "answer": "Ferro celato pectora sua fixit.",
+   "question_en": "How did Lucretia take her own life after telling of her disgrace?",
+   "answer_en": "She stabbed her breast with a hidden blade.",
+   "derivation": "The famous suicide: refusing the pardon her father and husband gave, she drove the concealed knife into her breast and fell bleeding at her father's feet. Anchored to Lucretia; short answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.833-834",
+   "source_text": "tum quoque iam moriens ne non procumbat honeste respicit: haec etiam cura cadentis erat.",
+   "question": "Quae cura Lucretiae etiam morienti fuit, ut Ovidius refert?",
+   "answer": "Ut honeste procumberet.",
+   "question_en": "What care did Lucretia have even as she died, as Ovid reports?",
+   "answer_en": "To fall decently.",
+   "derivation": "The celebrated detail of her modesty: even in falling she took thought to sink down honorably. Anchored to Lucretia; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Ovid, Fasti 2.837-843",
+   "source_text": "Brutus adest, tandemque animo sua nomina fallit, fixaque semanimi corpore tela rapit, stillantemque tenens generoso sanguine cultrum edidit impavidos ore minante sonos: 'per tibi ego hunc iuro fortem castumque cruorem, perque tuos manes, qui mihi numen erunt, Tarquinium profuga poenas cum stirpe daturum. iam satis est virtus dissimulata diu.'",
+   "question": "Per quae Brutus, cultro e pectore Lucretiae rapto, Tarquinios poenas daturos iuravit?",
+   "answer": "Per fortem castumque cruorem Lucretiae perque manes eius.",
+   "question_en": "By what did Brutus swear, snatching the knife from Lucretia's breast, that the Tarquins would pay the penalty?",
+   "answer_en": "By Lucretia's brave and chaste blood, and by her shade.",
+   "derivation": "The oath on the knife: Brutus, belying his name at last, holds the dripping blade and swears by her blood and manes that Tarquin and his stock shall pay with exile. Anchored to the named actors; answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.851-852",
+   "source_text": "Tarquinius cum prole fugit: capit annua consul iura: dies regnis illa suprema fuit.",
+   "question": "Quis magistratus, Tarquinio cum prole fugato, annua iura Romae cepit?",
+   "answer": "Consul.",
+   "question_en": "Which magistrate, once Tarquin and his offspring had fled, took up annual power at Rome?",
+   "answer_en": "The consul.",
+   "derivation": "The end of the monarchy: Tarquin flees with his brood, the consul takes annual office, and that day is the last of the kings — the fact the Regifugium commemorates. Anchored to the named king; office answer verbatim.",
+   "category": "historia"
+  },
+  {
+   "locus": "Ovid, Fasti 2.857-860",
+   "source_text": "Iamque duae restant noctes de mense secundo, Marsque citos iunctis curribus urget equos; ex vero positum permansit Equirria nomen, quae deus in campo prospicit ipse suo.",
+   "question": "Cui deo Equirria, certamina equorum in campo eius acta, sacra sunt?",
+   "answer": "Marti.",
+   "question_en": "To which god are the Equirria sacred, the horse-races held on his own field?",
+   "answer_en": "To Mars.",
+   "derivation": "The Equirria (27 Feb.): chariot-horse races that Mars himself beholds on his own field, the Campus Martius — the name 'truly given' from the races. Anchored to the named festival; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Ovid, Fasti 2.861-862",
+   "source_text": "iure venis, Gradive: locum tua tempora poscunt, signatusque tuo nomine mensis adest.",
+   "question": "Cuius dei nomine mensis qui Februarium sequitur signatus est?",
+   "answer": "Martis (Gradivi).",
+   "question_en": "With whose name is the month that follows February marked?",
+   "answer_en": "With Mars' (Gradivus').",
+   "derivation": "Book II closes announcing March, the month stamped with the name of Mars Gradivus. Anchored to the calendar sequence; one-name answer verbatim. Elementary but genuinely cultural calendar fact.",
+   "category": "religio"
+  }
+ ]
+}
