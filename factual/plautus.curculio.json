@@ -1,0 +1,611 @@
+{"source": "text/plautus/curculio.txt",
+ "author": "Plautus",
+ "work": "Curculio",
+ "pairs": [
+  {
+   "locus": "Plautus, Curculio 61-62",
+   "source_text": "id eo fit, quia hic leno, aegrotus incubat in Aesculapi fano, is me excruciat.",
+   "question": "In cuius dei fano leno Cappadox aegrotus incubabat, ut sanaretur?",
+   "answer": "In fano Aesculapi.",
+   "question_en": "In whose god's shrine was the sick pimp Cappadox sleeping in hope of a cure?",
+   "answer_en": "In the shrine of Aesculapius.",
+   "derivation": "The play's celebrated religio-frame: the sick leno practices incubation — sleeping in the temple of Aesculapius, the healing god, to obtain a cure. Anchored to the named leno; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Curculio 232-233",
+   "source_text": "de forma novi, de colore non queo novisse. iam iam novi: leno est Cappadox.",
+   "question": "Quod nomen erat lenoni in Curculione Plauti, apud quem Planesium serviebat?",
+   "answer": "Cappadox.",
+   "question_en": "What was the name of the pimp in Plautus' Curculio, in whose house Planesium was kept?",
+   "answer_en": "Cappadox.",
+   "derivation": "The naming of the play's leno: Palinurus recognizes the pot-bellied, green-eyed invalid as the pimp Cappadox. A fixed cast-name of the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 63-64",
+   "source_text": "Alias me poscit pro illa triginta minas, alias talentum magnum; neque quicquam queo aequi bonique ab eo impetrare.",
+   "question": "Quot minas leno Cappadox pro Planesio a Phaedromo alias poscebat?",
+   "answer": "Triginta minas.",
+   "question_en": "How many minae did the pimp Cappadox at one moment demand of Phaedromus for Planesium?",
+   "answer_en": "Thirty minae.",
+   "derivation": "Slave-trade money realia: the leno's shifting price — now thirty minae, now a full talent — for the girl. Thirty minae is the play's canonical price for Planesium; anchored to the named parties; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 67-68",
+   "source_text": "Nunc hinc parasitum in Cariam misi meum petitum argentum a meo sodali mutuom.",
+   "question": "In quam terram Phaedromus parasitum suum Curculionem misit, ut argentum mutuum a sodali peteret?",
+   "answer": "In Cariam.",
+   "question_en": "To what land did Phaedromus send his parasite Curculio to seek a loan of money from a friend?",
+   "answer_en": "To Caria.",
+   "derivation": "The errand that sets the plot moving: the parasite dispatched to Caria to borrow money for the girl's purchase. Anchored to Phaedromus + the title parasite; one-place answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 76-77",
+   "source_text": "anus hic solet cubitare custos ianitrix, nomen Leaenae est, multibiba atque merobiba.",
+   "question": "Quod nomen erat aniculae ianitrici lenonis in Curculione, quae multibiba atque merobiba erat?",
+   "answer": "Leaena.",
+   "question_en": "What was the name of the pimp's old door-keeper woman in the Curculio, a deep drinker of unmixed wine?",
+   "answer_en": "Leaena.",
+   "derivation": "The famous wine-loving anus who opens the play's serenade scene: Leaena, the door-keeper, 'much-drinking and unmixed-wine-drinking' (multibiba atque merobiba). Anchored to the leno's house; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 80-81",
+   "source_text": "eaque extemplo ubi vino has conspersi fores, de odore adesse me scit, aperit ilico.",
+   "question": "Qua re Phaedromus fores lenonis conspergere solebat, ut Leaena anus odore adesse eum sciret et aperiret?",
+   "answer": "Vino.",
+   "question_en": "With what did Phaedromus sprinkle the pimp's door, so that the old woman Leaena would smell that he was there and open it?",
+   "answer_en": "With wine.",
+   "derivation": "The celebrated device of the opening: the door sprinkled with wine as bait for the wine-sniffing old ianitrix. Wine realia carrying the serenade scene; anchored to both names; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 78-79",
+   "source_text": "Quasi tu lagoenam dicas, ubi vinum Chium solet esse.",
+   "question": "Quod vinum in lagoena esse solere Palinurus dicit, cum Leaenam anum lagoenae comparat?",
+   "answer": "Chium.",
+   "question_en": "What wine does Palinurus say is usually kept in a flagon, when he compares the old woman Leaena to one?",
+   "answer_en": "Chian.",
+   "derivation": "A named luxury wine: Chium, the celebrated Greek wine of Chios, as the flagon's typical content. Wine realia of the Roman table; anchored to the named characters; one-word answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Curculio 110",
+   "source_text": "Sitit haec anus. Pal. Quantillum sitit? Phaed. Modica est, capit quadrantal.",
+   "question": "Quantum vini Leaenam anum capere Phaedromus iocatur?",
+   "answer": "Quadrantal.",
+   "question_en": "How much wine does Phaedromus joke that the old woman Leaena can hold?",
+   "answer_en": "A quadrantal (a full amphora, some 26 liters).",
+   "derivation": "The joke turns on the Roman liquid measure: the quadrantal, the amphora-measure of about 26 liters — the 'moderate' old woman holds one. Measure realia; anchored to Leaena; one-word answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Curculio 53-54",
+   "source_text": "Semper tu scito, flamma fumo est proxima; fumo comburi nil potest, flamma potest.",
+   "question": "Cui rei flammam proximam esse Palinurus in Curculione Plauti proverbialiter dicit?",
+   "answer": "Fumo.",
+   "question_en": "To what does Palinurus in Plautus' Curculio proverbially say flame is next?",
+   "answer_en": "To smoke.",
+   "derivation": "The proverb 'flame is next to smoke' — smoke burns nothing, flame does — the Latin ancestor of 'where there's smoke, there's fire', said of kisses leading further. Checkable proverbial point; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Curculio 55",
+   "source_text": "qui e nuce nuculeum esse volt, frangit nucem.",
+   "question": "Quid frangit, ut in Curculione Plauti proverbialiter dicitur, qui e nuce nuculeum esse volt?",
+   "answer": "Nucem.",
+   "question_en": "What does he crack, as the proverb in Plautus' Curculio has it, who wants to eat the kernel from the nut?",
+   "answer_en": "The nut.",
+   "derivation": "The nut proverb: who wants the kernel must crack the nut — effort before enjoyment. A quotable Latin proverb with a checkable point; one-word answer verbatim.",
+   "category": "proverbium"
+  }
+,
+  {
+   "locus": "Plautus, Curculio 35-36",
+   "source_text": "nemo ire quemquam publica prohibet via; dum ne per fundum saeptum facias semitam.",
+   "question": "Qua via ire neminem prohiberi Palinurus in Curculione proverbialiter ait, dum ne per fundum saeptum semita fiat?",
+   "answer": "Publica via.",
+   "question_en": "On what road does Palinurus in the Curculio proverbially say no one is forbidden to travel, so long as one cuts no path through fenced land?",
+   "answer_en": "The public road.",
+   "derivation": "The public-road maxim applied to love: the common way (venal love) is open to all; only trespass on enclosed property (respectable women) is barred. Proverbial image with legal color (via publica vs fundus saeptus); short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Curculio 37-38",
+   "source_text": "dum ted abstineas nupta, vidua, virgine, iuventute et pueris liberis, ama quid lubet.",
+   "question": "Quibus personis abstinere debet amator, ut Palinurus in Curculione praecipit, si vult amare quod lubet?",
+   "answer": "Nupta, vidua, virgine, iuventute et pueris liberis.",
+   "question_en": "From what persons must a lover keep away, as Palinurus lays down in the Curculio, if he would love whatever he pleases?",
+   "answer_en": "A married woman, a widow, a maiden, freeborn youths and boys.",
+   "derivation": "The classic Roman statement of licensed love: everything is permitted except the protected classes — married women, widows, virgins, and the freeborn young. A celebrated mores rule of the palliata; the enumerated answer is verbatim and brief.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 3-6",
+   "source_text": "Quo Venus Cupidoque imperat, suadet Amor: si media nox est sive est prima vespera, si status condictus cum hoste intercedit dies, tamen est eundum quo imperant ingratiis.",
+   "question": "Quo eundum esse Phaedromus ait, etiamsi status condictus cum hoste intercedat dies?",
+   "answer": "Quo Venus Cupidoque imperant.",
+   "question_en": "Where does Phaedromus say one must go, even if a court-day formally appointed with a foreigner intervenes?",
+   "answer_en": "Wherever Venus and Cupid command.",
+   "derivation": "Love outranks even the archaic legal duty: the status condictus cum hoste dies — the appointed court-day with a foreigner, in the old XII-Tables sense of hostis — must yield to Venus and Cupid. Legal-formula realia carried by a short verbatim answer.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 125-127",
+   "source_text": "Venus, de paulo paululum hoc tibi dabo haud lubenter. nam tibi amantes propitiantes vinum potantes danunt omnes, mihi haud saepe evenunt tales hereditates.",
+   "question": "Cui deae amantes, cum vinum potant, propitiantes de eo dare solent, ut Leaena anus apud Plautum ait?",
+   "answer": "Veneri.",
+   "question_en": "To which goddess do lovers, when they drink wine, customarily give a propitiating share, as the old woman Leaena says in Plautus?",
+   "answer_en": "To Venus.",
+   "derivation": "Cult custom of lovers: a libation-share of the wine to Venus to win her favor — Leaena grudges the goddess even a drop. Religio of everyday love-cult, with the altar of Venus standing before the leno's door; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Curculio 260-263",
+   "source_text": "Hac nocte in somnis visus sum viderier procul sedere longe a me Aesculapium, neque eum ad me adire neque me magni pendere visumst.",
+   "question": "Quem deum Cappadox leno in somnis procul a se sedere neque ad se adire vidit, cum in fano incubaret?",
+   "answer": "Aesculapium.",
+   "question_en": "What god did the pimp Cappadox see in his dream sitting far off and refusing to approach him, while he slept in the shrine?",
+   "answer_en": "Aesculapius.",
+   "derivation": "The mechanics of incubation: the healing god appears (or pointedly does not) in the incubant's dream — Aesculapius sits aloof, showing the leno is past cure. Religio realia of the healing cult; anchored to Cappadox; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Curculio 96-101",
+   "source_text": "Flos veteris vini meis naribus obiectust, eius amor cupidam me huc prolicit per tenebras. ubi ubi est, prope me est. euax, habeo. salve, anime mi, Liberi lepos. ut veteris vetus tui cupida sum. nam omnium unguentum odor prae tuo nautea est.",
+   "question": "Quid esse odorem omnium unguentorum prae vino vetere Leaena anus exclamat?",
+   "answer": "Nauteam.",
+   "question_en": "What does the old woman Leaena exclaim the scent of every perfume is, compared with old wine?",
+   "answer_en": "Bilge-water.",
+   "derivation": "The bibulous hymn to old wine ('the charm of Liber'): beside its bouquet every unguent — stacte, cinnamon, rose, saffron, casia, telinum — is mere bilge-water (nautea). Wine-and-perfume realia in a famous monologue; one-word answer verbatim.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Plautus, Curculio 236-238",
+   "source_text": "Lien enecat, renes dolent, pulmones distrahuntur, cruciatur iecur, radices cordis pereunt, hirae omnes dolent.",
+   "question": "Quae pars corporis Cappadocem lenonem enecare in primis dicitur, cum in fano Aesculapi medicinam quaereret?",
+   "answer": "Lien.",
+   "question_en": "What organ is said first and foremost to be killing the pimp Cappadox, when he sought healing in the shrine of Aesculapius?",
+   "answer_en": "The spleen.",
+   "derivation": "The leno's canonical ailment: the monstrous spleen — he walks 'girdled with his spleen like a belt' and seems to carry twins in his belly. The disease that motivates the incubation plot; anchored to Cappadox; one-word answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Curculio 268-269",
+   "source_text": "Siquidem incubare velint qui periuraverint, locus non praeberi potis est in Capitolio.",
+   "question": "Quo in loco locum non praeberi posse Cappadox iocatur, si omnes qui periuraverint incubare velint?",
+   "answer": "In Capitolio.",
+   "question_en": "In what place does Cappadox joke there could be no room, if all who have perjured themselves wished to sleep there for a cure?",
+   "answer_en": "On the Capitol.",
+   "derivation": "Perjurers swear by Jupiter, so they would have to incubate at his temple — and the Capitol could not hold them all. A Roman-frame joke naming the Capitolium inside the Greek play; anchored to Cappadox; one-place answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Curculio 288-292",
+   "source_text": "tum isti Graeci palliati, capite operto qui ambulant, qui incedunt suffarcinati cum libris, cum sportulis, constant, conferunt sermones inter se drapetae, obstant, obsistunt, incedunt cum suis sententiis, quos semper videas bibentes esse in thermipolio.",
+   "question": "Quo in loco Graecos palliatos, libris suffarcinatos, bibentes semper videri Curculio queritur?",
+   "answer": "In thermipolio.",
+   "question_en": "In what establishment does Curculio complain the cloaked Greeks, stuffed with their books, are always to be seen drinking?",
+   "answer_en": "In the thermopolium (the hot-drink shop).",
+   "derivation": "The running-parasite's tirade satirizes Greek philosopher-types drinking calidum (the hot spiced drink) in the thermopolium — Roman street-and-tavern realia. Anchored to the named speech; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 340-342",
+   "source_text": "ibi me interrogat, ecquem in Epidauro Lyconem tarpezitam noverim. dico me novisse. 'quid? lenonem Cappadocem?'",
+   "question": "In qua urbe Graeca fabula Plauti quae Curculio inscribitur agitur, ubi Lyco trapezita et Cappadox leno habitabant?",
+   "answer": "Epidauri.",
+   "question_en": "In what Greek city is Plautus' play called Curculio set, where the banker Lyco and the pimp Cappadox lived?",
+   "answer_en": "At Epidaurus.",
+   "derivation": "The setting of the play: Epidaurus, seat of the great sanctuary of Aesculapius where the leno incubates. Anchored to the named play and characters; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 429-431",
+   "source_text": "'Miles Lyconi in Epidauro hospiti suo Therapontigonus Platagidorus plurimam salutem dicit.'",
+   "question": "Quod nomen erat militi qui Planesium virginem a Cappadoce lenone emerat?",
+   "answer": "Therapontigonus Platagidorus.",
+   "question_en": "What was the name of the soldier who had bought the maiden Planesium from the pimp Cappadox?",
+   "answer_en": "Therapontigonus Platagidorus.",
+   "derivation": "The braggart soldier of the play, named in full in the letter's salutation. A fixed cast-name; anchored to the purchase plot; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 344-348",
+   "source_text": "'immo apud trapezitam situm est illum quem dixi Lyconem, atque ei mandavi, qui anulo meo tabellas obsignatas attulisset, ut daret operam, ut mulierem a lenone cum auro et veste abduceret.'",
+   "question": "Apud quem miles Therapontigonus argentum pro virgine empta depositum reliquit?",
+   "answer": "Apud Lyconem trapezitam.",
+   "question_en": "With whom did the soldier Therapontigonus leave on deposit the money for the girl he had bought?",
+   "answer_en": "With the banker Lyco.",
+   "derivation": "Banking realia of the trapezita/argentarius: money on deposit, to be released to whoever brings tablets sealed with the depositor's ring — the very mechanism Curculio's stolen ring and forged letter exploit. Anchored to both names; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 423-424",
+   "source_text": "cape, signum nosce. nostin? Lyc. Quidni noverim? clupeatus elephantum ubi machaera dissicit.",
+   "question": "Quid in signo anuli Therapontigoni militis insculptum erat?",
+   "answer": "Clupeatus elephantum machaera dissiciens.",
+   "question_en": "What was engraved on the seal of the soldier Therapontigonus' ring?",
+   "answer_en": "A shield-bearing warrior cleaving an elephant with his sword.",
+   "derivation": "Signet culture: the seal-device authenticates the letter, and the banker knows it at sight — a braggart's blazon of elephant-slaying. Anchored to the named soldier's ring; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 359-361",
+   "source_text": "propino magnum poclum: ille ebibit, caput deponit, condormiscit. ego ei subduco anulum, deduco pedes de lecto clam, ne miles sentiat.",
+   "question": "Quid Curculio militi Therapontigono, vino sopito, clam subduxit?",
+   "answer": "Anulum.",
+   "question_en": "What did Curculio secretly slip off the soldier Therapontigonus as he lay sunk in wine?",
+   "answer_en": "His ring.",
+   "derivation": "The theft that drives the plot: after dinner and dice Curculio pledges the soldier a great cup, and when he passes out steals the signet ring used to seal the forged letter. Anchored to both names; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 357-359",
+   "source_text": "iacit volturios quattuor. talos arripio, invoco almam meam nutricem Herculem, iacto basilicum.",
+   "question": "Quem iactum talorum Curculio iecit, cum miles volturios quattuor iecisset?",
+   "answer": "Basilicum.",
+   "question_en": "What throw of the knucklebones did Curculio cast, after the soldier had thrown four 'vultures'?",
+   "answer_en": "The 'royal' throw (basilicus).",
+   "derivation": "Named dice-throws of Roman gaming: the volturii ('vultures'), a losing cast, against the basilicus ('king'), a winning one — realia of play at tali over the wine. Anchored to the dice scene in Caria; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 358",
+   "source_text": "talos arripio, invoco almam meam nutricem Herculem, iacto basilicum.",
+   "question": "Quem deum Curculio, talos arripiens, almam nutricem suam invocavit?",
+   "answer": "Herculem.",
+   "question_en": "What god did Curculio invoke as his 'kindly nurse' as he snatched up the knucklebones?",
+   "answer_en": "Hercules.",
+   "derivation": "Gamblers' religio: Hercules invoked at the dice-throw for luck — the parasite comically calls the hero his foster-nurse. Anchored to Curculio + the dice scene; one-name answer verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Curculio 392-394",
+   "source_text": "Vnocule, salve. Cvrc. Quaeso, deridesne me? Lyc. De Coclitum prosapia te esse arbitror, nam ei sunt unoculi.",
+   "question": "De cuius prosapia esse Lyco trapezita Curculionem, unoculum simulantem, iocatur?",
+   "answer": "De Coclitum prosapia.",
+   "question_en": "From what clan does the banker Lyco joke that Curculio, posing as a one-eyed man, must come?",
+   "answer_en": "From the clan of the Coclites (the 'one-eyed').",
+   "derivation": "The joke presumes shared Roman knowledge that Cocles means one-eyed — the family of Horatius Cocles, 'for the Coclites are one-eyed'. Roman allusion inside the Greek frame; anchored to both names; short answer verbatim.",
+   "category": "ludi"
+  }
+,
+  {
+   "locus": "Plautus, Curculio 412-416",
+   "source_text": "Quis tu homo es? Cvrc. Libertus illius, quem omnes Summanum vocant. Lyc. Summane, salve. qui Summanu's? fac sciam. Cvrc. Quia vestimenta, ubi obdormivi ebrius, summano, ob eam rem me omnes Summanum vocant.",
+   "question": "Quo nomine ficto Curculio se libertum militis Therapontigoni esse apud Lyconem simulavit?",
+   "answer": "Summano.",
+   "question_en": "Under what false name did Curculio pass himself off to Lyco as the freedman of the soldier Therapontigonus?",
+   "answer_en": "Summanus.",
+   "derivation": "The alias of the disguised parasite: Summanus — the name of the Roman god of night thunder, comically derived here from wetting (summanare) his clothes when drunk. Anchored to Curculio + Lyco; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 394-395",
+   "source_text": "Catapulta hoc ictum est mihi apud Sicyonem.",
+   "question": "Vbi oculum suum catapulta ictum esse Curculio, unoculum simulans, mentitus est?",
+   "answer": "Apud Sicyonem.",
+   "question_en": "Where did Curculio, feigning to be one-eyed, claim his eye had been struck by a catapult?",
+   "answer_en": "At Sicyon.",
+   "derivation": "The cover-story of the eye-patch disguise: a catapult wound at Sicyon, worn 'for the republic's sake'. Anchored to Curculio's disguise; one-place answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 442-448",
+   "source_text": "quia enim Persas, Paphlagones, Sinopes, Arabes, Cares, Cretanos, Syros, Rhodiam atque Lyciam, Perediam et Perbibesiam, Centauromachiam et Classiam Vnomammiam, Libyamque oram omnem Conterebromniam, dimidiam partem nationum usque omnium subegit solus intra viginti dies.",
+   "question": "Intra quot dies dimidiam partem nationum omnium Therapontigonum solum subegisse Curculio mentitur?",
+   "answer": "Intra viginti dies.",
+   "question_en": "Within how many days does Curculio pretend that Therapontigonus single-handedly subdued half of all the nations?",
+   "answer_en": "Within twenty days.",
+   "derivation": "The braggart-soldier boast catalogue, complete with joke-nations (Peredia 'Gluttonland', Perbibesia 'Drinkland', Unomammia 'One-breast-land' of Amazons): half of all peoples conquered alone in twenty days. Single-number answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 439-441",
+   "source_text": "ibi nunc statuam volt dare auream solidam faciundam ex auro Philippo, quae siet septempedalis, factis monumentum suis.",
+   "question": "Quantam statuam auream ex auro Philippo sibi faciundam Therapontigonus miles volebat, ut Curculio narrat?",
+   "answer": "Septempedalem.",
+   "question_en": "How large a golden statue of Philippic gold did the soldier Therapontigonus want made of himself, as Curculio tells it?",
+   "answer_en": "Seven feet high.",
+   "derivation": "The vanity monument: a solid gold statue, seven feet tall, of Philippic gold, 'a memorial of his deeds'. Number-and-coinage realia in the boast; anchored to the named soldier; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 377-379",
+   "source_text": "habent hunc morem plerique argentarii, ut alius alium poscant, reddant nemini, pugnis rem solvant, si quis poscat clarius.",
+   "question": "Quem morem plerosque argentarios habere Lyco trapezita ipse fatetur?",
+   "answer": "Vt alius alium poscant, reddant nemini.",
+   "question_en": "What habit does the banker Lyco himself confess most bankers have?",
+   "answer_en": "They dun one another but repay nobody.",
+   "derivation": "Banker satire from a banker's own mouth: the argentarii demand payment of each other, pay no one back, and settle with fists if dunned too loudly. Roman financial mores; anchored to Lyco; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 499-500",
+   "source_text": "item genus est lenonium inter homines meo quidem animo ut muscae, culices, cimices pedesque pulicesque.",
+   "question": "Quibus bestiolis genus lenonium inter homines simile esse Curculio pronuntiat?",
+   "answer": "Muscis, culicibus, cimicibus, pedibus pulicibusque.",
+   "question_en": "To what vermin does Curculio declare the tribe of pimps among mankind is like?",
+   "answer_en": "To flies, gnats, bedbugs, lice, and fleas.",
+   "derivation": "The canonical anti-leno invective: pimps are the vermin of humanity — a pest, of use to no one, with whom no honest man dares stand in the forum. Quotable simile with a checkable list, verbatim and brief.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 462-464",
+   "source_text": "Edepol nugatorem lepidum lepide hunc nactust Phaedromus. halapantam an sycophantam magis esse dicam nescio. ornamenta quae locavi metuo ut possim recipere.",
+   "question": "Quis in Curculione Plauti, sua persona loquens, ornamenta se Phaedromo locavisse ait?",
+   "answer": "Choragus.",
+   "question_en": "Who in Plautus' Curculio, speaking in his own person, says he has rented out the costumes to Phaedromus?",
+   "answer_en": "The choragus (the costume-supplier).",
+   "derivation": "A celebrated rupture of the dramatic frame: the choragus, the man who rents the production its costumes and properties, steps forward worrying about his ornamenta — theater-business realia of the Roman stage. One-word answer from the speaker heading and his own words.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 470",
+   "source_text": "qui periurum convenire volt hominem ito in comitium.",
+   "question": "Quo ire debet, ut Choragus in Curculione Plauti docet, qui hominem periurum convenire volt?",
+   "answer": "In comitium.",
+   "question_en": "Where should one go, as the Choragus in Plautus' Curculio instructs, to meet a perjurer?",
+   "answer_en": "To the Comitium.",
+   "derivation": "First stop of the Choragus' famous tour of the Roman Forum — a topography of low life dropped into the Greek play: perjurers at the Comitium, the old assembly-place where courts met. One-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 471",
+   "source_text": "qui mendacem et gloriosum, apud Cloacinae sacrum.",
+   "question": "Apud cuius deae sacrum mendaces et gloriosi inveniuntur, ut Choragus in Curculione docet?",
+   "answer": "Apud Cloacinae sacrum.",
+   "question_en": "At whose goddess's shrine are liars and braggarts to be found, as the Choragus instructs in the Curculio?",
+   "answer_en": "At the shrine of Cloacina.",
+   "derivation": "Second stop of the Forum tour: liars and boasters at the sacrum Cloacinae, the little shrine of Venus Cloacina in the Forum. Real Roman topography; one-name answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 472-473",
+   "source_text": "ditis damnosos maritos sub basilica quaerito. ibidem erunt scorta exoleta quique stipulari solent.",
+   "question": "Vbi divites damnososque maritos quaerendos esse Choragus in Curculione praecipit?",
+   "answer": "Sub basilica.",
+   "question_en": "Where does the Choragus in the Curculio direct one to look for rich, spendthrift husbands?",
+   "answer_en": "By the basilica.",
+   "derivation": "The Forum tour continues: rich wastrel husbands (with worn-out prostitutes and professional deal-makers) under the basilica — among the earliest literary mentions of a basilica at Rome. One-place answer verbatim.",
+   "category": "geographia"
+  }
+,
+  {
+   "locus": "Plautus, Curculio 474",
+   "source_text": "symbolarum collatores apud forum piscarium.",
+   "question": "Vbi symbolarum collatores inveniri Choragus in Curculione dicit?",
+   "answer": "Apud forum piscarium.",
+   "question_en": "Where does the Choragus in the Curculio say the contributors to dinner-clubs are to be found?",
+   "answer_en": "At the fish-market.",
+   "derivation": "The Forum tour: the symbolarum collatores — men who club together paying shares (symbolae) for common dinners — haunt the fish-market. Dining-club mores mapped onto real Roman topography; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 475",
+   "source_text": "in foro infimo boni homines atque dites ambulant.",
+   "question": "Qua in parte fori boni homines atque dites ambulare dicuntur apud Choragum Plauti?",
+   "answer": "In foro infimo.",
+   "question_en": "In what part of the Forum are good and wealthy men said to stroll, according to Plautus' Choragus?",
+   "answer_en": "In the lower Forum.",
+   "derivation": "The tour's one respectable address: solid, rich citizens walk the lower end of the Forum. Topography of social sorting in the Roman Forum; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 476",
+   "source_text": "in medio propter canalem, ibi ostentatores meri.",
+   "question": "Qui homines in medio foro propter canalem stare dicuntur, ut Choragus in Curculione docet?",
+   "answer": "Ostentatores meri.",
+   "question_en": "What sort of men are said to stand in the middle of the Forum by the drainage channel, as the Choragus explains in the Curculio?",
+   "answer_en": "Pure show-offs.",
+   "derivation": "The Forum tour: by the canalis, the open drain crossing the middle Forum, stand the sheer self-advertisers. A checkable place-to-type mapping; short answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 477-478",
+   "source_text": "confidentes garrulique et malevoli supera lacum, qui alteri de nihilo audacter dicunt contumeliam.",
+   "question": "Vbi confidentes garrulique et malevoli versari dicuntur in Choragi de foro Romano oratione?",
+   "answer": "Supera lacum.",
+   "question_en": "Where are the brazen, the chatterers, and the malicious said to hang about in the Choragus' speech on the Roman Forum?",
+   "answer_en": "Above the pool (the Lacus Curtius).",
+   "derivation": "The Forum tour: slanderers who insult others without cause loiter 'above the lake' — the Lacus Curtius in the middle of the Forum. Real topography; short answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 480",
+   "source_text": "sub veteribus, ibi sunt qui dant quique accipiunt faenore.",
+   "question": "Vbi sunt, ut Choragus in Curculione docet, qui faenore dant quique accipiunt?",
+   "answer": "Sub veteribus.",
+   "question_en": "Where, as the Choragus instructs in the Curculio, are those who lend and borrow at interest?",
+   "answer_en": "Under the Old Shops (the tabernae veteres).",
+   "derivation": "The Forum tour: moneylending under the tabernae veteres, the Old Shops on the south side of the Forum where the bankers did business. Financial topography of Rome; short answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 481",
+   "source_text": "pone aedem Castoris, ibi sunt subito quibus credas male.",
+   "question": "Pone cuius dei aedem sunt ii quibus male credas, ut Choragus in Curculione monet?",
+   "answer": "Pone aedem Castoris.",
+   "question_en": "Behind whose temple are the men you would be ill-advised to trust, as the Choragus warns in the Curculio?",
+   "answer_en": "Behind the temple of Castor.",
+   "derivation": "The Forum tour: behind the aedes Castoris — the temple of Castor at the Forum's south-east corner — lurk the quick men not to be trusted. Real Roman monument in the low-life map; one-name answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Curculio 482-484",
+   "source_text": "in Tusco vico, ibi sunt homines qui ipsi sese venditant, vel qui ipsi vorsant vel qui aliis ubi vorsentur praebeant.",
+   "question": "Quo in vico homines qui ipsi sese venditant esse Choragus in Curculione dicit?",
+   "answer": "In Tusco vico.",
+   "question_en": "In what street does the Choragus in the Curculio say the people are who sell their own bodies?",
+   "answer_en": "In the Vicus Tuscus (the Etruscan quarter).",
+   "derivation": "The tour's last stop: the Vicus Tuscus, the street running from the Forum past the temple of Castor, notorious for prostitution — 'men who sell themselves'. Real street of Rome; one-place answer verbatim.",
+   "category": "geographia"
+  }
+,
+  {
+   "locus": "Plautus, Curculio 528-529",
+   "source_text": "nam illam minis olim decem puellam parvolam emi, sed eum qui mi illam vendidit numquam postilla vidi.",
+   "question": "Quot minis Cappadox leno Planesium puellam parvolam olim emerat?",
+   "answer": "Decem minis.",
+   "question_en": "For how many minae had the pimp Cappadox once bought Planesium as a little girl?",
+   "answer_en": "For ten minae.",
+   "derivation": "The leno's own account of the purchase: ten minae for the stolen child, whose seller he never saw again — against the thirty minae he later charged the soldier. Slave-trade money realia; anchored to both names; single-number answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 490-492",
+   "source_text": "Memento promisisse te, si quisquam hanc liberali causa manu assereret, mihi omne argentum redditum iri, minas triginta.",
+   "question": "Quid Cappadox leno repromisit facturum, si quisquam Planesium liberali causa manu assereret?",
+   "answer": "Omne argentum, minas triginta, redditurum.",
+   "question_en": "What did the pimp Cappadox guarantee to do if anyone should formally claim Planesium as freeborn?",
+   "answer_en": "To repay all the money, the thirty minae.",
+   "derivation": "Roman legal procedure inside the sale: the manus assertio liberali causa — the formal claim of a person's free status — triggers the leno's warranty to refund the price. Ius realia that resolves the plot; anchored to the named parties; short answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Curculio 591-592",
+   "source_text": "Antiquom poetam audivi scripsisse in tragoedia, mulieres duas peiores esse quam unam. res itast.",
+   "question": "Quid antiquum poetam in tragoedia scripsisse Curculio audivisse ait?",
+   "answer": "Mulieres duas peiores esse quam unam.",
+   "question_en": "What does Curculio say he has heard an old poet wrote in a tragedy?",
+   "answer_en": "That two women are worse than one.",
+   "derivation": "A quoted sententia with a literary pedigree: the 'old poet's' tragic line that two women are worse than one, endorsed by the parasite. Checkable proverbial point; short answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Curculio 636-638",
+   "source_text": "pater meus habuit Periplanes Planesium is prius quam moritur mihi dedit tamquam suo, ut aequom fuerat, filio.",
+   "question": "Quod nomen erat patri Therapontigoni militis, qui ei moriens anulum reliquit?",
+   "answer": "Periplanes.",
+   "question_en": "What was the name of the soldier Therapontigonus' father, who left him the ring at his death?",
+   "answer_en": "Periplanes.",
+   "derivation": "The recognition genealogy: the ring descends from the father Periplanes to his son — and so identifies Planesium, who is revealed as the same father's daughter. Anchored to Therapontigonus; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 641-643",
+   "source_text": "cedo, si vera memoras, quae fuit mater tua? Plan. Cleobula. Ther. Nutrix quae fuit? Plan. Archestrata.",
+   "question": "Quod nomen fuisse matri suae Planesium respondit, cum frater eam recognoscens interrogaret?",
+   "answer": "Cleobula.",
+   "question_en": "What did Planesium answer was her mother's name, when her brother questioned her in the recognition scene?",
+   "answer_en": "Cleobula.",
+   "derivation": "The recognition quiz: the brother tests the claimed sister on family names, and she answers her mother was Cleobula. A fixed name of the play's anagnorisis; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 642-643",
+   "source_text": "Nutrix quae fuit? Plan. Archestrata. ea me spectatum tulerat per Dionysia.",
+   "question": "Quae nutrix Planesium parvolam spectatum per Dionysia tulerat?",
+   "answer": "Archestrata.",
+   "question_en": "Which nurse had taken little Planesium to watch the shows at the Dionysia?",
+   "answer_en": "Archestrata.",
+   "derivation": "The second answer of the recognition quiz: the nurse Archestrata, who carried the child to the Dionysia where she was lost. Anchored to Planesium; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 644-649",
+   "source_text": "ea me spectatum tulerat per Dionysia. postquam illo ventum est, iam, ut me collocaverat, exoritur ventus turbo, spectacla ibi ruont, ego pertimesco: tum ibi me nescio quis arripit timidam atque pavidam.",
+   "question": "Quo festo Planesium parvola, cum spectatum ducta esset, in tumultu surrepta est?",
+   "answer": "Per Dionysia.",
+   "question_en": "At what festival was little Planesium stolen in the panic, when she had been taken to watch the shows?",
+   "answer_en": "At the Dionysia.",
+   "derivation": "The canonical loss story: at the Dionysia a whirlwind rose, the spectators' stands collapsed, and in the terror an unknown man snatched the child. Festival-and-theater realia (temporary spectacula that could fall); anchored to Planesium; short answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 653-657",
+   "source_text": "Cedo, ut inspiciam. Cvrc. Sanan es, quae isti committas? Plan. Sine modo. Ther. Pro Iuppiter, hic est quem ego tibi misi natali die. tam facile novi quam me. salve, mea soror.",
+   "question": "Quo die Therapontigonus anulum, quo postea soror agnita est, parvolae Planesio miserat?",
+   "answer": "Natali die.",
+   "question_en": "On what day had Therapontigonus sent little Planesium the ring by which the sister was later recognized?",
+   "answer_en": "On her birthday.",
+   "derivation": "The recognition token: the ring she kept through her captivity was her brother's birthday gift — natalicium gift-custom realia sealing the anagnorisis. Anchored to both names; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 655-658",
+   "source_text": "Pro Iuppiter, hic est quem ego tibi misi natali die. tam facile novi quam me. salve, mea soror. Plan. Frater mi, salve.",
+   "question": "Cuius militis soror esse Planesium anulo inspecto cognita est?",
+   "answer": "Therapontigoni.",
+   "question_en": "Of which soldier was Planesium, once the ring was examined, recognized to be the sister?",
+   "answer_en": "Of Therapontigonus.",
+   "derivation": "The play's anagnorisis: the very soldier who bought the girl proves to be her brother, the ring giving the proof — she is freeborn and the sale is void. The canonical resolution of the Curculio; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 670-674",
+   "source_text": "Vt mihi hanc despondeas. Cvrc. Quid cessas, miles, hanc huic uxorem dare? T. Si haec volt. Pl. Mi frater, cupio. T. Fiat. C. Bene facis. Phaed. Spondesne, miles, mi hanc uxorem? Ther. Spondeo.",
+   "question": "Quis Planesium Phaedromo uxorem sollemni verbo spopondit?",
+   "answer": "Therapontigonus frater.",
+   "question_en": "Who formally betrothed Planesium as wife to Phaedromus with the solemn word of pledge?",
+   "answer_en": "Her brother Therapontigonus.",
+   "derivation": "Betrothal realia: the Roman sponsalia formula — Spondesne? Spondeo — spoken by the woman's nearest male kin, here the newfound brother (with her consent asked: si haec volt). Anchored to all three names; short answer supported verbatim.",
+   "category": "ius"
+  }
+,
+  {
+   "locus": "Plautus, Curculio 663-664",
+   "source_text": "tu istanc desponde huic, miles. ego dotem dabo. Ther. Quid dotis? Cvrc. Egone? ut semper, dum vivat, me alat.",
+   "question": "Quam dotem Curculio parasitus se daturum dixit, cum Planesium Phaedromo desponderetur?",
+   "answer": "Vt Phaedromus semper, dum vivat, se alat.",
+   "question_en": "What dowry did the parasite Curculio say he would give when Planesium was betrothed to Phaedromus?",
+   "answer_en": "That Phaedromus feed him for as long as he lives.",
+   "derivation": "The parasite's economy crowned as the play closes: his 'dowry' is a lifetime place at Phaedromus' table. The flattery-for-food contract stated openly; anchored to the named betrothal; short answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 660-661",
+   "source_text": "tu ut hodie adveniens cenam des sororiam, hic nuptialem cras dabit. promittimus.",
+   "question": "Quam cenam Therapontigonus, sorore reperta, hodie dare iussus est, cum Phaedromus cras nuptialem daturus esset?",
+   "answer": "Sororiam.",
+   "question_en": "What dinner was Therapontigonus, his sister found, told to give that day, while Phaedromus would give the wedding dinner on the morrow?",
+   "answer_en": "The sister-feast (cena sororia).",
+   "derivation": "Named feast realia: the cena sororia to celebrate the recovered sister, paired with the cena nuptialis of the wedding — two named dinner-occasions demanded, of course, by the parasite. Anchored to both hosts; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Curculio 620-623",
+   "source_text": "Qui scis mercari furtivas atque ingenuas virgines, ambula in ius. Ther. Non eo. Phaed. Licet te antestari? Ther. Non licet.",
+   "question": "Quo Phaedromus Therapontigonum ambulare iussit, quod furtivas atque ingenuas virgines mercari sciret?",
+   "answer": "In ius.",
+   "question_en": "Where did Phaedromus order Therapontigonus to march, for knowingly buying stolen freeborn girls?",
+   "answer_en": "To court (in ius).",
+   "derivation": "Roman civil procedure verbatim in the Greek play: the in ius vocatio ('ambula in ius') followed by the antestatio ('licet te antestari?'), the formal calling of a witness to the summons from the Twelve Tables' procedure. Anchored to both names; short answer verbatim.",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Curculio 531",
+   "source_text": "quoi homini di sunt propitii, lucrum ei profecto obiciunt.",
+   "question": "Quid dei ei homini cui propitii sunt obicere dicuntur, ut Cappadox in Curculione sententiose ait?",
+   "answer": "Lucrum.",
+   "question_en": "What are the gods said to throw in the way of a man they favor, as Cappadox says sententiously in the Curculio?",
+   "answer_en": "Profit.",
+   "derivation": "A proverb-shaped sententia of Roman commercial piety: whom the gods favor, they toss profit to — the leno's creed as he goes to sacrifice. Checkable point; one-word answer verbatim.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Plautus, Curculio 586-587",
+   "source_text": "Vbi nunc Curculionem inveniam? Capp. In tritico facillume, vel quingentos curculiones pro uno faxo reperias.",
+   "question": "Vbi Curculionem facillime inveniri posse Cappadox iocatur, quod eo nomine bestiolae frumentariae vocentur?",
+   "answer": "In tritico.",
+   "question_en": "Where does Cappadox joke that Curculio can most easily be found, since the little grain-pests bear that name?",
+   "answer_en": "In the wheat.",
+   "derivation": "The play's own gloss on its title: curculio is the grain-weevil — look in the wheat and you will find five hundred weevils for one. The name-fact of the title parasite, delivered verbatim; one-place answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Curculio 577-578",
+   "source_text": "At ita me volsellae, pecten, speculum, calamistrum meum bene me amassint meaque axitia linteumque extersui.",
+   "question": "Per quae cultus sui instrumenta Cappadox leno iuravit, cum miles per machaeram et clupeum iurasset?",
+   "answer": "Per volsellas, pectinem, speculum calamistrumque.",
+   "question_en": "By what implements of his toilette did the pimp Cappadox swear, after the soldier had sworn by his sword and shield?",
+   "answer_en": "By his tweezers, comb, mirror, and curling-iron.",
+   "derivation": "A parody oath that maps each man's world: the soldier swears by machaera and clupeus, the primped leno by tweezers, comb, mirror, and curling-iron. Grooming realia in a checkable list, verbatim and brief.",
+   "category": "mores"
+  }
+]}
