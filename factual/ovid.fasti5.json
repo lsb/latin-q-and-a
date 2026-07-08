@@ -1,0 +1,697 @@
+{
+  "source": "text/ovid/ovid.fasti5.txt",
+  "author": "Ovid",
+  "work": "Fasti, liber V",
+  "pairs": [
+    {
+      "locus": "Ovid, Fasti 5.23-25",
+      "source_text": "donec Honor placidoque decens Reverentia voltu corpora legitimis imposuere toris. hinc sata Maiestas, hos est dea censa parentes",
+      "question": "Quibus parentibus dea Maiestas nata esse apud Ovidium in Fastis dicitur?",
+      "answer": "Honore et Reverentia.",
+      "question_en": "Of which parents is the goddess Maiestas said to have been born in Ovid's Fasti?",
+      "answer_en": "Of Honor and Reverentia.",
+      "derivation": "Polyhymnia's genealogy of Maiestas: sprung from Honor and Reverentia lawfully wedded. Anchored to the named goddess; single two-name answer stated verbatim (hos est dea censa parentes). Attributed to Ovid since the allegory is his.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.81-84",
+      "source_text": "duxerat Oceanus quondam Titanida Tethyn, qui terram liquidis, qua patet, ambit aquis; hinc sata Pleione cum caelifero Atlante iungitur, ut fama est, Pleiadasque parit.",
+      "question": "Quibus parentibus Pleiades genitae esse feruntur?",
+      "answer": "Atlante et Pleione.",
+      "question_en": "Of which parents are the Pleiades said to have been born?",
+      "answer_en": "Of Atlas and Pleione.",
+      "derivation": "Canonical myth genealogy: Pleione, daughter of Oceanus and Tethys, joined to sky-bearing Atlas, bears the Pleiades. Entity-anchored to the Pleiades; two-name answer verbatim (Pleione cum Atlante... Pleiadasque parit).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.85-88",
+      "source_text": "quarum Maia suas forma superasse sorores traditur et summo concubuisse Iovi. haec enixa iugo cupressiferae Cyllenes aetherium volucri qui pede carpit iter",
+      "question": "Quae Pleiadum, forma sorores superans, Mercurium Iovi peperit?",
+      "answer": "Maia.",
+      "question_en": "Which of the Pleiades, surpassing her sisters in beauty, bore Mercury to Jupiter?",
+      "answer_en": "Maia.",
+      "derivation": "Maia, loveliest of the Pleiades, lay with Jupiter and bore the wing-footed god (Mercury). Canonical shared myth; single-name answer. The periphrasis 'he who takes his airy way on winged foot' is Mercury, the god of the passage.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.87-88",
+      "source_text": "haec enixa iugo cupressiferae Cyllenes aetherium volucri qui pede carpit iter",
+      "question": "Quo in monte Maia deum alipedem Mercurium enixa est?",
+      "answer": "In Cyllene.",
+      "question_en": "On which mountain did Maia give birth to the wing-footed god Mercury?",
+      "answer_en": "On Cyllene.",
+      "derivation": "Mercury born on the ridge of cypress-bearing Cyllene (in Arcadia) - his canonical epithet Cyllenius rests on this. Place-name answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.103-106",
+      "source_text": "at tu materno donasti nomine mensem, inventor curvae, furibus apte, fidis. nec pietas haec prima tua est: septena putaris, Pleiadum numerum, fila dedisse lyrae.",
+      "question": "Quot fila Mercurius, lyrae inventor, fidibus dedisse putatur?",
+      "answer": "Septena, Pleiadum numerum.",
+      "question_en": "How many strings is Mercury, the inventor of the lyre, thought to have given to it?",
+      "answer_en": "Seven, the number of the Pleiades.",
+      "derivation": "Mercury, inventor of the curved lyre, gave it seven strings after the number of his mother's sisters, the Pleiades. Number answer verbatim (septena... fila). Closed-book lyre lore.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.115-116",
+      "source_text": "Nais Amalthea, Cretaea nobilis Ida, dicitur in silvis occuluisse Iovem.",
+      "question": "Quae nais in silvis Idae Cretaeae infantem Iovem occuluisse dicitur?",
+      "answer": "Amalthea.",
+      "question_en": "Which naiad is said to have hidden the infant Jupiter in the woods of Cretan Ida?",
+      "answer_en": "Amalthea.",
+      "derivation": "Amalthea the naiad, famed on Cretan Ida, hid the infant Jupiter. Single-name answer verbatim; the she-goat's milk was taken in the liber III file, the nurse's name is new here.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.125-128",
+      "source_text": "ille ubi res caeli tenuit solioque paterno sedit, et invicto nil Iove maius erat, sidera nutricem, nutricis fertile cornu fecit, quod dominae nunc quoque nomen habet.",
+      "question": "Quid Iuppiter, caelo potitus, de capra nutrice sua eiusque cornu fecit?",
+      "answer": "Sidera ea fecit.",
+      "question_en": "What did Jupiter, once master of heaven, make of the she-goat his nurse and of her horn?",
+      "answer_en": "He made them stars (the nurse a constellation, her fertile horn the horn of plenty).",
+      "derivation": "Aetiology of the constellation Capella and of the cornu copiae: Jupiter turned his nurse and her fruit-filled broken horn into stars; the horn still bears its mistress's (Amalthea's) name. Short verbatim answer (sidera... fecit).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.129-130",
+      "source_text": "Praestitibus Maiae Laribus videre Kalendae aram constitui parvaque signa deum:",
+      "question": "Quibus Laribus Kalendae Maiae aram parvaque signa constitui viderunt?",
+      "answer": "Laribus Praestitibus.",
+      "question_en": "For which Lares did the Kalends of May see an altar and small images set up?",
+      "answer_en": "For the Lares Praestites.",
+      "derivation": "Calendar fact: the altar and statuettes of the Lares Praestites belong to the Kalends of May. Named cult title, fixed day; verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.131-132",
+      "source_text": "voverat illa quidem Curius, sed multa vetustas destruit; et saxo longa senecta nocet.",
+      "question": "Quis aram signaque Larum Praestitum voverat, ut Ovidius tradit?",
+      "answer": "Curius.",
+      "question_en": "Who had vowed the altar and images of the Lares Praestites, as Ovid records?",
+      "answer_en": "Curius.",
+      "derivation": "The founder's name: Curius (Manius Curius Dentatus) vowed the monument of the Lares Praestites. Single-name answer verbatim; 'ut Ovidius tradit' flags the author's claim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.137-140",
+      "source_text": "at canis ante pedes saxo fabricatus eodem stabat: quae standi cum Lare causa fuit? servat uterque domum, domino quoque fidus uterque: compita grata deo, compita grata cani.",
+      "question": "Quod animal, eodem saxo factum, ante pedes Larum Praestitum stabat?",
+      "answer": "Canis.",
+      "question_en": "What animal, carved from the same stone, stood before the feet of the Lares Praestites?",
+      "answer_en": "A dog.",
+      "derivation": "The dog at the feet of the Lares Praestites, because both guard the house and both love the crossroads. Cult-image fact, one-word answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.145-146",
+      "source_text": "mille Lares Geniumque ducis, qui tradidit illos, Urbs habet, et vici numina terna colunt.",
+      "question": "Quot numina singuli vici Urbis colunt, ex quo dux Lares tradidit?",
+      "answer": "Terna.",
+      "question_en": "How many divinities does each neighborhood (vicus) of Rome worship, since the leader handed over the Lares?",
+      "answer_en": "Three each (the two Lares and the Genius of the leader).",
+      "derivation": "The Augustan reform of the compital cult: the city holds a thousand Lares plus the Genius of the leader, and each vicus worships three divinities. Number answer verbatim (numina terna).",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.149-154",
+      "source_text": "est moles nativa, loco res nomina fecit: appellant Saxum; pars bona montis ea est. huic Remus institerat frustra, quo tempore fratri prima Palatinae signa dedistis aves; templa patres illic oculos exosa viriles leniter adclivi constituere iugo.",
+      "question": "Quo in loco patres templum Bonae Deae constituerunt?",
+      "answer": "In loco quem Saxum appellant.",
+      "question_en": "In what place did the senators establish the temple of the Bona Dea?",
+      "answer_en": "In the place called the Saxum (the Rock).",
+      "derivation": "The Bona Dea temple stands on the natural outcrop called the Saxum, where Remus once took the auspices in vain. Named-place answer verbatim (appellant Saxum).",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.153-154",
+      "source_text": "templa patres illic oculos exosa viriles leniter adclivi constituere iugo.",
+      "question": "Quorum oculos templum Bonae Deae exosum esse Ovidius dicit?",
+      "answer": "Viriles (virorum).",
+      "question_en": "Whose eyes does Ovid say the temple of the Bona Dea abhors?",
+      "answer_en": "Men's (male eyes).",
+      "derivation": "The famous exclusion of men from the cult of the Bona Dea, stated as the temple 'hating male eyes.' Culturally salient rite-rule (the Clodius scandal turned on it); short answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.155-156",
+      "source_text": "dedicat haec veteris Crassorum nominis heres, virgineo nullum corpore passa virum:",
+      "question": "Cuius nominis heres, virgo, templum Bonae Deae dedicavit?",
+      "answer": "Veteris Crassorum nominis.",
+      "question_en": "An heiress of what old family name, herself a virgin, dedicated the temple of the Bona Dea?",
+      "answer_en": "Of the old name of the Crassi.",
+      "derivation": "The dedicator was a virgin heiress of the Crassi (the Vestal Licinia). Family-name answer verbatim; anchored to the named temple.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.157-158",
+      "source_text": "Livia restituit, ne non imitata maritum esset et ex omni parte secuta virum.",
+      "question": "Quae femina templum Bonae Deae restituit, maritum imitata?",
+      "answer": "Livia.",
+      "question_en": "Which woman restored the temple of the Bona Dea, imitating her husband?",
+      "answer_en": "Livia.",
+      "derivation": "Livia (Augustus' wife) restored the Bona Dea temple, following her husband's example as a restorer of shrines. Single-name answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.165-166",
+      "source_text": "ora micant Tauri septem radiantia flammis, navita quas Hyadas Graius ab imbre vocat;",
+      "question": "Unde navita Graius Hyadas vocat?",
+      "answer": "Ab imbre.",
+      "question_en": "From what does the Greek sailor name the Hyades?",
+      "answer_en": "From rain.",
+      "derivation": "The Hyades as the rain-stars: the Greek sailor calls them from 'rain' (hyein). Famous star lore; survives translation because the fact is the rain association, not the word-form. Verbatim ab imbre.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.165-166",
+      "source_text": "ora micant Tauri septem radiantia flammis, navita quas Hyadas Graius ab imbre vocat;",
+      "question": "Quot flammis radiantia micant ora Tauri, ubi Hyades fulgent?",
+      "answer": "Septem.",
+      "question_en": "With how many gleaming flames does the face of the Bull shine, where the Hyades glitter?",
+      "answer_en": "Seven.",
+      "derivation": "The canonical count of the Hyades on the face of Taurus: seven flames. Number answer verbatim; distinct from the Pleiades seven/six pair already taken from liber IV.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.177-178",
+      "source_text": "dumque petit latebras fetae catulosque leaenae, ipse fuit Libycae praeda cruenta ferae.",
+      "question": "A qua fera Hyas, Hyadum frater, interemptus est?",
+      "answer": "A leaena Libyca.",
+      "question_en": "By what wild beast was Hyas, the brother of the Hyades, killed?",
+      "answer_en": "By a Libyan lioness.",
+      "derivation": "Hyas, hunting the lair of a whelped lioness, became the bloody prey of the Libyan beast; his mourning sisters were named Hyades after him (nomina fecit Hyas). Named hero, single-beast answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.195-196",
+      "source_text": "Chloris eram quae Flora vocor: corrupta Latino nominis est nostri littera Graeca sono.",
+      "question": "Quo nomine Graeco dea Flora antea vocabatur, ut ipsa apud Ovidium narrat?",
+      "answer": "Chloris.",
+      "question_en": "By what Greek name was the goddess Flora formerly called, as she herself tells in Ovid?",
+      "answer_en": "Chloris.",
+      "derivation": "Flora's self-identification: 'Chloris eram quae Flora vocor.' The Greek identity of the Latin flower-goddess is a shared mythological fact; the name (not the letter-change mechanics) is what is asked, so it translates.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.201-206",
+      "source_text": "ver erat, errabam; Zephyrus conspexit, abibam; insequitur, fugio: fortior ille fuit. et dederat fratri Boreas ius omne rapinae, ausus Erecthea praemia ferre domo. vim tamen emendat dando mihi nomina nuptae, inque meo non est ulla querella toro.",
+      "question": "Cuius venti coniunx facta est Chloris, quae Flora vocatur?",
+      "answer": "Zephyri.",
+      "question_en": "Of which wind did Chloris, who is called Flora, become the wife?",
+      "answer_en": "Of Zephyrus.",
+      "derivation": "Zephyrus seized Chloris and made amends by making her his bride. Canonical pairing (Zephyrus and Flora); single-name answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.209-212",
+      "source_text": "est mihi fecundus dotalibus hortus in agris; aura fovet, liquidae fonte rigatur aquae: hunc meus implevit generoso flore maritus, atque ait \"arbitrium tu, dea, floris habe.\"",
+      "question": "Cuius rei arbitrium Zephyrus maritus Florae dedit?",
+      "answer": "Floris.",
+      "question_en": "Dominion over what did her husband Zephyrus give to Flora?",
+      "answer_en": "Over flowers.",
+      "derivation": "Zephyrus filled Flora's dowry-garden with noble flowers and granted her 'arbitrium floris' - her divine province. One-word answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.231-232",
+      "source_text": "sancta Iovem Iuno nata sine matre Minerva officio doluit non eguisse suo.",
+      "question": "Quae dea sine matre ex Iove nata est, ut Ovidius in Fastis commemorat?",
+      "answer": "Minerva.",
+      "question_en": "Which goddess was born of Jupiter without a mother, as Ovid recalls in the Fasti?",
+      "answer_en": "Minerva.",
+      "derivation": "Minerva 'nata sine matre' - the motherless birth from Jupiter that grieved Juno. Canonical shared myth; single-name answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.255-258",
+      "source_text": "protinus haerentem decerpsi pollice florem; tangitur, et tacto concipit illa sinu. iamque gravis Thracen et laeva Propontidos intrat, fitque potens voti, Marsque creatus erat.",
+      "question": "Quo modo Iuno, ut Flora apud Ovidium narrat, Martem sine coniuge concepit?",
+      "answer": "Tactu floris a Flora dati.",
+      "question_en": "How, as Flora tells it in Ovid, did Juno conceive Mars without a husband?",
+      "answer_en": "By the touch of a flower given by Flora.",
+      "derivation": "Flora's flower made Juno conceive Mars fatherless (tangitur, et tacto concipit illa sinu... Marsque creatus erat) - the counterpart to Minerva's motherless birth. Brief-phrase answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.259-260",
+      "source_text": "qui memor accepti per me natalis \"habeto tu quoque Romulea\" dixit \"in urbe locum.\"",
+      "question": "Quis deus Florae locum in urbe Romulea dedit, natalis per eam accepti memor?",
+      "answer": "Mars.",
+      "question_en": "Which god gave Flora a place in the city of Romulus, mindful of the birth he owed to her?",
+      "answer_en": "Mars.",
+      "derivation": "Mars, remembering that Flora's flower gave him birth, granted her cult a place in Rome. Anchors Flora's Roman cult to a named god; the speaker of the quote is Mars ('qui' = Mars, subject of the preceding couplet, Marsque creatus erat).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.271-272",
+      "source_text": "mella meum munus: volucres ego mella daturas ad violam et cytisos et thyma cana voco.",
+      "question": "Quid Flora suum munus esse apud Ovidium profitetur, volucres ad thyma vocans?",
+      "answer": "Mella.",
+      "question_en": "What does Flora declare to be her own gift in Ovid, as she calls the honey-making winged creatures to the thyme?",
+      "answer_en": "Honey.",
+      "derivation": "Flora claims honey as her gift, since she summons the bees to violet, clover, and white thyme. One-word answer verbatim (mella meum munus).",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.287-292",
+      "source_text": "plebis ad aediles perducta licentia talis Publicios; animus defuit ante viris. rem populus recipit, multam subiere nocentes: vindicibus laudi publica cura fuit. multa data est ex parte mihi, magnoque favore victores ludos instituere novos;",
+      "question": "Qui aediles plebis, multa nocentibus imposita, ludos novos Florae instituerunt?",
+      "answer": "Publicii.",
+      "question_en": "Which plebeian aediles, after fining the offenders, instituted the new games of Flora?",
+      "answer_en": "The Publicii.",
+      "derivation": "The ludi Florales were founded by the plebeian aediles Publicii from fines on encroachers of public land. Named founders; single-name answer verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Ovid, Fasti 5.293-294",
+      "source_text": "parte locant clivum, qui tunc erat ardua rupes, utile nunc iter est, Publiciumque vocant.",
+      "question": "Qui clivus Romae ex parte multae ab aedilibus stratus est et de eorum nomine vocatur?",
+      "answer": "Clivus Publicius.",
+      "question_en": "Which slope at Rome was built from part of the fine-money by the aediles and is called after their name?",
+      "answer_en": "The Clivus Publicius.",
+      "derivation": "From part of the same fines the aediles contracted the road up the once-steep rock, the Clivus Publicius (up the Aventine). Named Roman landmark; answer verbatim (Publiciumque vocant).",
+      "category": "geographia"
+    },
+    {
+      "locus": "Ovid, Fasti 5.327-330",
+      "source_text": "convenere patres, et, si bene floreat annus, numinibus nostris annua festa vovent. adnuimus voto: consul cum consule ludos Postumio Laenas persoluere mihi.",
+      "question": "Quibus consulibus ludi annui Florae primum persoluti sunt?",
+      "answer": "Laenate et Postumio consulibus.",
+      "question_en": "Under which consuls were the annual games of Flora first paid in full?",
+      "answer_en": "Under the consuls Laenas and Postumius.",
+      "derivation": "After the senate vowed annual festivals to Flora if the year flowered well, the consuls Laenas and Postumius discharged the vow (173 BC). Two-name answer verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Ovid, Fasti 5.347-348",
+      "source_text": "scaena levis decet hanc: non est, mihi credite, non est illa cothurnatas inter habenda deas.",
+      "question": "Qualis scaena Floram decet, quae inter deas cothurnatas non habenda est?",
+      "answer": "Scaena levis.",
+      "question_en": "What kind of stage befits Flora, who is not to be counted among the buskined (tragic) goddesses?",
+      "answer_en": "The light stage (mime, not tragedy).",
+      "derivation": "The mimes of the Floralia: the light stage suits Flora, not the tragic buskin. Famous theatrical character of her games; answer verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Ovid, Fasti 5.349-352",
+      "source_text": "turba quidem cur hos celebret meretricia ludos non ex difficili causa petita subest. non est de tetricis, non est de magna professis: volt sua plebeio sacra patere choro,",
+      "question": "Quae turba ludos Florales praecipue celebrat, ut Ovidius refert?",
+      "answer": "Turba meretricia.",
+      "question_en": "What crowd especially celebrates the games of Flora, as Ovid reports?",
+      "answer_en": "The crowd of courtesans.",
+      "derivation": "The turba meretricia celebrates the Floralia - the festival's famous license. Anchored to the named games; short answer verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Ovid, Fasti 5.355-356",
+      "source_text": "Cur tamen, ut dantur vestes Cerialibus albae, sic haec est cultu versicolore decens?",
+      "question": "Quali cultu dies Florae decens est, cum Cerialibus vestes albae dentur?",
+      "answer": "Cultu versicolore.",
+      "question_en": "In what kind of dress is Flora's festival becomingly kept, whereas white clothes are given at the Cerialia?",
+      "answer_en": "In many-colored dress.",
+      "derivation": "The bright multicolored dress of the Floralia, contrasted with the white of the Cerialia (the white-at-Cerialia fact was taken in the liber IV file; the versicolor dress is the new fact). Answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.361-368",
+      "source_text": "lumina restabant, quorum me causa latebat, cum sic errores abstulit illa meos: 'vel quia purpureis conlucent floribus agri, lumina sunt nostros visa decere dies; vel quia nec flos est hebeti nec flamma colore, atque oculos in se splendor uterque trahit; vel quia deliciis nocturna licentia nostris convenit: a vero tertia causa venit.'",
+      "question": "Quae licentia deliciis Florae convenit, quam dea veram luminum suorum causam esse dicit?",
+      "answer": "Nocturna licentia.",
+      "question_en": "What license suits Flora's delights - the cause the goddess calls the true reason for the lights at her festival?",
+      "answer_en": "Nocturnal license.",
+      "derivation": "Lights (lumina) mark Flora's days; of the three causes the goddess gives, she names the true one: nocturnal license suits her delights. The question targets that single flagged answer (a vero tertia causa venit), so it is verifiable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Ovid, Fasti 5.371-374",
+      "source_text": "'cur tibi pro Libycis clauduntur rete leaenis inbelles capreae sollicitusque lepus?' non sibi respondit silvas cessisse, sed hortos arvaque pugnaci non adeunda ferae.",
+      "question": "Quae animalia ludis Florae pro Libycis leaenis rete clauduntur?",
+      "answer": "Inbelles capreae et lepores.",
+      "question_en": "What animals are enclosed with nets at Flora's games instead of Libyan lionesses?",
+      "answer_en": "Unwarlike roe-deer and hares.",
+      "derivation": "In Flora's circus hunts, harmless roe-deer and the timid hare replace wild beasts, because her domain is gardens and fields, not forests. Famous mild venatio of the Floralia; answer verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Ovid, Fasti 5.381-383",
+      "source_text": "Pelion Haemoniae mons est obversus in Austros: summa virent pinu, cetera quercus habet. Phillyrides tenuit;",
+      "question": "Quem montem Haemoniae Chiron Phillyrides tenuit?",
+      "answer": "Pelion.",
+      "question_en": "Which mountain of Thessaly did Chiron, Philyra's son, inhabit?",
+      "answer_en": "Pelion.",
+      "derivation": "Chiron's home on Mount Pelion in Thessaly (Haemonia) - canonical myth geography. Place-name answer verbatim; Chiron anchored by the patronymic Phillyrides.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.397-400",
+      "source_text": "dumque senex tractat squalentia tela venenis, excidit et laevo fixa sagitta pede est. ingemuit Chiron, traxitque e corpore ferrum: adgemit Alcides Haemoniusque puer.",
+      "question": "Quo telo Chiron centaurus volnus letale accepit?",
+      "answer": "Sagitta Herculis, in pedem laevum lapsa.",
+      "question_en": "By what weapon did the centaur Chiron receive his fatal wound?",
+      "answer_en": "By Hercules' arrow, which fell on his left foot.",
+      "derivation": "While handling Hercules' poison-crusted shafts, Chiron let one fall and it fixed in his left foot; the hydra's venom proved past cure. Canonical death of Chiron; supported verbatim (tela venenis... laevo fixa sagitta pede).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.407-412",
+      "source_text": "stabat, ut ante patrem, lacrimis perfusus Achilles: sic flendus Peleus, si moreretur, erat. saepe manus aegras manibus fingebat amicis: morum, quos fecit, praemia doctor habet. oscula saepe dedit, dixit quoque saepe iacenti 'vive, precor, nec me, care, relinque, pater.'",
+      "question": "Quis puer Chironem morientem tamquam patrem flevit, ab eo doctus?",
+      "answer": "Achilles.",
+      "question_en": "Which boy wept for the dying Chiron as for a father, having been taught by him?",
+      "answer_en": "Achilles.",
+      "derivation": "Achilles at Chiron's deathbed, calling his teacher 'father' - Chiron as the tutor of Achilles is shared myth (morum... doctor). Single-name answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.413-414",
+      "source_text": "nona dies aderat, cum tu, iustissime Chiron, bis septem stellis corpora cinctus eras.",
+      "question": "Quot stellis Chiron, inter sidera receptus, corpora cinctus est?",
+      "answer": "Bis septem.",
+      "question_en": "With how many stars was Chiron girt when he was received among the constellations?",
+      "answer_en": "Twice seven (fourteen).",
+      "derivation": "On the ninth day Chiron became a constellation girt with twice seven stars. Number answer verbatim; parallel to the liber III pair on Ariadne's nine-star crown.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.419-422",
+      "source_text": "ritus erit veteris, nocturna Lemuria, sacri: inferias tacitis manibus illa dabunt.",
+      "question": "Quibus inferiae nocturnis Lemuribus dantur, ut Ovidius canit?",
+      "answer": "Tacitis manibus.",
+      "question_en": "To whom are offerings made at the nocturnal Lemuria, as Ovid sings?",
+      "answer_en": "To the silent shades of the dead (the Manes).",
+      "derivation": "The Lemuria are night rites of the old order giving inferiae to the silent Manes. Festival-purpose fact, named rite; answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.429-432",
+      "source_text": "nox ubi iam media est somnoque silentia praebet, et canis et variae conticuistis aves, ille memor veteris ritus timidusque deorum surgit (habent gemini vincula nulla pedes),",
+      "question": "Quo pedum habitu et qua noctis hora surgit qui Lemuria rite facit?",
+      "answer": "Nudis pedibus, media nocte.",
+      "question_en": "In what state of foot and at what hour of the night does the performer of the Lemuria rise?",
+      "answer_en": "Barefoot, at midnight.",
+      "derivation": "The householder rises at midnight with no bindings on his feet (habent gemini vincula nulla pedes) to perform the Lemuria. Rite detail carried by every reader of the famous passage; supported verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.433-434",
+      "source_text": "signaque dat digitis medio cum pollice iunctis, occurrat tacito ne levis umbra sibi.",
+      "question": "Quod signum digitis dat, ne umbra sibi occurrat, qui Lemuria nocte facit?",
+      "answer": "Digitos medio cum pollice iungit.",
+      "question_en": "What sign does the celebrant of the Lemuria make with his fingers, lest a shade meet him?",
+      "answer_en": "He joins his fingers with the thumb in their midst (the 'fig' sign).",
+      "derivation": "The apotropaic finger-sign of the Lemuria: thumb thrust between the closed fingers. Gesture-fact verbatim; the gesture, not any Latin wordplay, is the content, so it translates.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.435-438",
+      "source_text": "cumque manus puras fontana perluit unda, vertitur et nigras accipit ante fabas, aversusque iacit; sed dum iacit, 'haec ego mitto, his' inquit 'redimo meque meosque fabis.'",
+      "question": "Cuius coloris fabas aversus iacit qui Lemuria facit?",
+      "answer": "Nigras.",
+      "question_en": "Beans of what color does the performer of the Lemuria throw with face averted?",
+      "answer_en": "Black.",
+      "derivation": "The black beans of the Lemuria, thrown behind the back after washing in spring water. The bean-and-ghost complex is criterion 8's home turf; one-word answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.437-440",
+      "source_text": "aversusque iacit; sed dum iacit, 'haec ego mitto, his' inquit 'redimo meque meosque fabis.' hoc novies dicit nec respicit: umbra putatur colligere et nullo terga vidente sequi.",
+      "question": "Quotiens inter Lemuria dicuntur verba 'haec ego mitto, his redimo meque meosque fabis'?",
+      "answer": "Novies, nec respicit.",
+      "question_en": "How many times during the Lemuria are the words 'these I send; with these beans I redeem me and mine' spoken?",
+      "answer_en": "Nine times, without looking back.",
+      "derivation": "The redemption formula spoken nine times without looking back, while the shade is thought to gather the beans unseen. Number answer verbatim (hoc novies dicit nec respicit).",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.441-442",
+      "source_text": "rursus aquam tangit, Temesaeaque concrepat aera, et rogat ut tectis exeat umbra suis.",
+      "question": "Quid concrepat qui, Lemuribus sacra faciens, umbram tectis suis exire rogat?",
+      "answer": "Aera Temesaea.",
+      "question_en": "What does the celebrant clash when, performing the Lemuria, he asks the shade to leave his house?",
+      "answer_en": "Temesan bronze.",
+      "derivation": "The clashing of bronze (from Temesa, famed for copper) to drive the ghost out. Rite-implement fact; answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.443-444",
+      "source_text": "cum dixit novies 'manes exite paterni' respicit, et pure sacra peracta putat.",
+      "question": "Quibus verbis novies dictis sacra Lemurum pure peracta putantur?",
+      "answer": "'Manes exite paterni.'",
+      "question_en": "With what words, spoken nine times, are the rites of the Lemuria thought to be purely completed?",
+      "answer_en": "'Ancestral ghosts, go out!' (Manes exite paterni.)",
+      "derivation": "The ghost-banishing formula of the Lemuria, said nine times before the celebrant looks back. The formula itself is the famous fact; quoted verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.451-458",
+      "source_text": "Romulus ut tumulo fraternas condidit umbras, et male veloci iusta soluta Remo, Faustulus infelix et passis Acca capillis spargebant lacrimis ossa perusta suis; inde domum redeunt sub prima crepuscula maesti, utque erat, in duro procubuere toro. umbra cruenta Remi visa est adsistere lecto, atque haec exiguo murmure verba loqui:",
+      "question": "Quibus umbra cruenta Remi noctu adstitisse dicitur?",
+      "answer": "Faustulo et Accae.",
+      "question_en": "To whom is the bloody ghost of Remus said to have appeared by night?",
+      "answer_en": "To Faustulus and Acca.",
+      "derivation": "The aetiology of the Lemuria: Remus' bloody shade stood by the bed of Faustulus and Acca and asked for a day of honor. Two-name answer supported verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.479-484",
+      "source_text": "Romulus obsequitur, lucemque Remuria dicit illam, qua positis iusta feruntur avis. aspera mutata est in lenem tempore longo littera, quae toto nomine prima fuit; mox etiam lemures animas dixere silentum: hic sensus verbi, vis ea vocis erat.",
+      "question": "Quo nomine Romulus diem manibus Remi sacrum appellavit, unde postea Lemuria dicta sunt?",
+      "answer": "Remuria.",
+      "question_en": "What name did Romulus give the day sacred to Remus' shade, from which the Lemuria were later so called?",
+      "answer_en": "Remuria.",
+      "derivation": "Ovid's aetiology: Romulus named the day Remuria for Remus, and in time the name became Lemuria. The fact asked is the original name, a translatable name-fact; the letter-change is background, not the answer.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.485-486",
+      "source_text": "fana tamen veteres illis clausere diebus, ut nunc ferali tempore operta vides;",
+      "question": "Quo statu fana deorum per dies Lemurum apud veteres erant?",
+      "answer": "Clausa.",
+      "question_en": "In what state were the temples of the gods during the days of the Lemuria among the ancients?",
+      "answer_en": "Closed.",
+      "derivation": "The ancients closed the temples on the days of the Lemuria, as they are shut in the season of the dead. Distinct festival from the Parentalia closure taken in the liber II file; one-word answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.487-490",
+      "source_text": "nec viduae taedis eadem nec virginis apta tempora: quae nupsit, non diuturna fuit. hac quoque de causa, si te proverbia tangunt, mense malas Maio nubere volgus ait.",
+      "question": "Quo mense malas nubere volgus ait, ut proverbium apud Ovidium fert?",
+      "answer": "Mense Maio.",
+      "question_en": "In what month does the common saying, as Ovid reports the proverb, declare that bad women marry?",
+      "answer_en": "In May.",
+      "derivation": "The famous proverb against May weddings - 'mense malas Maio nubere volgus ait' - grounded in the Lemuria's ill-omened days. Proverb with a checkable point; month answer verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Ovid, Fasti 5.491-492",
+      "source_text": "sed tamen haec tria sunt sub eodem tempore festa inter se nulla continuata die.",
+      "question": "Quot diebus, nullo inter se continuato, Lemuria aguntur?",
+      "answer": "Tribus.",
+      "question_en": "On how many days, none of them consecutive, are the Lemuria held?",
+      "answer_en": "On three.",
+      "derivation": "The Lemuria fall on three days at the same season, none adjoining another (May 9, 11, 13). Number answer verbatim (haec tria... festa inter se nulla continuata die).",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.495-502",
+      "source_text": "Iuppiter et lato qui regnat in aequore frater carpebant socias Mercuriusque vias; tempus erat quo versa iugo referuntur aratra, et pronus saturae lac bibit agnus ovis. forte senex Hyrieus, angusti cultor agelli, hos videt, exiguam stabat ut ante casam, atque ita 'longa via est, nec tempora longa supersunt', dixit 'et hospitibus ianua nostra patet.'",
+      "question": "Quos tres deos senex Hyrieus hospitio accepit, antequam Orion ei nasceretur?",
+      "answer": "Iovem, Neptunum, Mercurium.",
+      "question_en": "Which three gods did old Hyrieus receive as guests before Orion was born to him?",
+      "answer_en": "Jupiter, Neptune, and Mercury.",
+      "derivation": "The birth-tale of Orion: Hyrieus hosted Jupiter, his brother who rules the wide sea (Neptune), and Mercury. Three-name answer; Neptune identified by the standard periphrasis in the quote.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.531-535",
+      "source_text": "adnuerant omnes. omnes ad terga iuvenci constiterant—pudor est ulteriora loqui. tum superiniecta texere madentia terra: iamque decem menses, et puer ortus erat. hunc Hyrieus, quia sic genitus, vocat Uriona:",
+      "question": "Quot post menses, corio iuvenci terra obruto, puer Orion ortus est?",
+      "answer": "Decem.",
+      "question_en": "After how many months, once the ox-hide had been buried in the earth, was the boy Orion born?",
+      "answer_en": "Ten.",
+      "derivation": "Orion born from the ox-hide the gods had used, buried and covered with earth, after ten months - granting Hyrieus a son without a wife. Number answer verbatim; the name-pun (Urion) is left aside as untranslatable.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.541-544",
+      "source_text": "scorpion immisit Tellus: fuit impetus illi curva gemelliparae spicula ferre deae; obstitit Orion. Latona nitentibus astris addidit et 'meriti praemia' dixit 'habe.'",
+      "question": "Cui bestiae, a Tellure immissae, Orion pro Latona obstitit?",
+      "answer": "Scorpioni.",
+      "question_en": "What creature, sent by Tellus, did Orion block to protect Latona?",
+      "answer_en": "The scorpion.",
+      "derivation": "Orion's catasterism: he blocked the scorpion Tellus sent against Latona, and she set him among the stars as his reward. Single-beast answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.551-552",
+      "source_text": "Ultor ad ipse suos caelo descendit honores templaque in Augusto conspicienda foro.",
+      "question": "Quo in foro templum Martis Ultoris conspicitur?",
+      "answer": "In foro Augusto.",
+      "question_en": "In which forum is the temple of Mars Ultor to be seen?",
+      "answer_en": "In the Forum of Augustus.",
+      "derivation": "Mars Ultor's temple stands conspicuous in the Forum Augustum - the centerpiece of Augustan Rome. Named god with cult title, named place; verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.573-578",
+      "source_text": "'si mihi bellandi pater est Vestaeque sacerdos auctor, et ulcisci numen utrumque paro, Mars, ades et satia scelerato sanguine ferrum, stetque favor causa pro meliore tuus. templa feres et, me victore, vocaberis Ultor.' voverat, et fuso laetus ab hoste redit.",
+      "question": "Quod cognomen Marti iuvenis Caesar vovit, cum patrem Vestaeque sacerdotem ulcisci pararet?",
+      "answer": "Ultor.",
+      "question_en": "What cult title did the young Caesar vow to Mars when he prepared to avenge his father, the priest of Vesta?",
+      "answer_en": "Ultor (the Avenger).",
+      "derivation": "The vow at Philippi: young Augustus promised Mars a temple and the name Ultor if victorious over his father's murderers. Single-title answer verbatim (vocaberis Ultor).",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 5.585-590",
+      "source_text": "signa, decus belli, Parthus Romana tenebat, Romanaeque aquilae signifer hostis erat; isque pudor mansisset adhuc, nisi fortibus armis Caesaris Ausoniae protegerentur opes. ille notas veteres et longi dedecus aevi sustulit: agnorunt signa recepta suos.",
+      "question": "A quo populo Caesar Augustus signa Romana cum Crassis amissa recepit?",
+      "answer": "A Parthis.",
+      "question_en": "From what people did Caesar Augustus recover the Roman standards lost with the Crassi?",
+      "answer_en": "From the Parthians.",
+      "derivation": "The Parthian who held the Roman standards and eagles was made to give them back by Caesar (20 BC) - Mars earned the name Ultor a second time. People-name answer verbatim (Parthus... signa recepta).",
+      "category": "historia"
+    },
+    {
+      "locus": "Ovid, Fasti 5.597-598",
+      "source_text": "sollemnes ludos Circo celebrate, Quirites: non visa est fortem scaena decere deum.",
+      "question": "Quo loco ludi sollemnes Marti Ultori celebrantur, cum scaena fortem deum non deceat?",
+      "answer": "In Circo.",
+      "question_en": "Where are the solemn games for Mars Ultor celebrated, since the stage was not thought to befit the strong god?",
+      "answer_en": "In the Circus.",
+      "derivation": "The games of Mars Ultor are circus games, not stage plays - the stage does not suit the warrior god. Venue answer verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Ovid, Fasti 5.599-602",
+      "source_text": "Pliadas aspicies omnes totumque sororum agmen, ubi ante Idus nox erit una super: tum mihi non dubiis auctoribus incipit aestas, et tepidi finem tempora veris habent.",
+      "question": "Quibus stellis omnibus conspectis incipit aestas, ut Ovidius non dubiis auctoribus tradit?",
+      "answer": "Pliadibus.",
+      "question_en": "With the full appearance of which stars does summer begin, as Ovid records on sure authorities?",
+      "answer_en": "The Pleiades.",
+      "derivation": "The famous calendar rule: when the whole troop of the Pleiades is seen, summer begins and warm spring ends. Shared Greco-Roman seasonal lore (the one star-rising that is proverbial); answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.617-618",
+      "source_text": "taurus init caelum: te, Sidoni, Iuppiter implet, parsque tuum terrae tertia nomen habet.",
+      "question": "Quae puella Sidonia, a Iove in tauri forma per mare vecta, nomen parti terrae tertiae dedit?",
+      "answer": "Europa.",
+      "question_en": "Which Sidonian girl, carried over the sea by Jupiter in the form of a bull, gave her name to a third part of the earth?",
+      "answer_en": "Europa.",
+      "derivation": "The catasterism of Taurus: Jupiter as bull bore the Sidonian girl whose name a third of the earth bears - Europa, identified beyond doubt by the continent-fact in the verse itself (parsque tuum terrae tertia nomen habet). Canonical name-answer, like the 'Trojan judge = Paris' precedent.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.621-622",
+      "source_text": "Tum quoque priscorum Virgo simulacra virorum mittere roboreo scirpea ponte solet.",
+      "question": "Qualia simulacra Virgo Vestalis de ponte roboreo in Tiberim mittere solet?",
+      "answer": "Scirpea simulacra priscorum virorum.",
+      "question_en": "What kind of effigies does the Vestal Virgin customarily throw from the oaken bridge into the Tiber?",
+      "answer_en": "Rush effigies of men of old (the Argei).",
+      "derivation": "The rite of the Argei: the Vestal casts rush-woven images of ancient men from the wooden (Sublician) bridge in mid-May. Famous rite; answer verbatim (priscorum simulacra virorum... scirpea).",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.669-670",
+      "source_text": "templa tibi posuere patres spectantia Circum Idibus; ex illo est haec tibi festa dies.",
+      "question": "Quo die mensis Maii patres Mercurio templum, Circum spectans, posuerunt?",
+      "answer": "Idibus.",
+      "question_en": "On what day of May did the fathers found the temple of Mercury that looks toward the Circus?",
+      "answer_en": "On the Ides.",
+      "derivation": "Mercury's temple facing the Circus (Maximus) was dedicated on the Ides of May, whence that is his festival day. Date fact anchored to the named god and landmark; verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.673-674",
+      "source_text": "est aqua Mercurii portae vicina Capenae; si iuvat expertis credere, numen habet.",
+      "question": "Cui portae vicina est aqua Mercurii, quam mercatores petunt?",
+      "answer": "Portae Capenae.",
+      "question_en": "Near which gate is the water of Mercury, which the merchants seek out?",
+      "answer_en": "Near the Porta Capena.",
+      "derivation": "The spring called aqua Mercurii lies near the Porta Capena and is held to have divine power. Named landmark, place answer verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Ovid, Fasti 5.675-678",
+      "source_text": "huc venit incinctus tunica mercator et urna purus suffita, quam ferat, haurit aquam. uda fit hinc laurus, lauro sparguntur ab uda omnia quae dominos sunt habitura novos.",
+      "question": "Qua re mercator merces suas, dominos novos habituras, aqua Mercurii spargit?",
+      "answer": "Lauro uda.",
+      "question_en": "With what does the merchant sprinkle his wares, destined for new owners, using Mercury's water?",
+      "answer_en": "With a wet laurel branch.",
+      "derivation": "The merchant's purification on Mercury's day: laurel dipped in the aqua Mercurii is sprinkled over all goods that will change owners. Rite-implement answer verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 5.681-682",
+      "source_text": "'ablue praeteriti periuria temporis', inquit 'ablue praeteritae perfida verba die.",
+      "question": "Quid mercator aqua Mercurii ablui sibi precatur?",
+      "answer": "Periuria praeteriti temporis.",
+      "question_en": "What does the merchant pray to have washed away by Mercury's water?",
+      "answer_en": "The perjuries of time past.",
+      "derivation": "The merchant's notorious prayer: wash away my past perjuries and treacherous words. Short-phrase answer verbatim; culturally salient satire of trade morals.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 5.689-690",
+      "source_text": "da modo lucra mihi, da facto gaudia lucro, et fac ut emptori verba dedisse iuvet.'",
+      "question": "Quid mercator, periuriis ablutis, sibi dari a Mercurio poscit?",
+      "answer": "Lucra.",
+      "question_en": "What does the merchant, his perjuries washed away, demand that Mercury give him?",
+      "answer_en": "Profits (and joy in cheating the buyer).",
+      "derivation": "The climax of the prayer: 'da modo lucra mihi' - and let it be a pleasure to have duped the buyer. One-word answer verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Ovid, Fasti 5.691-692",
+      "source_text": "talia Mercurius poscenti ridet ab alto, se memor Ortygias subripuisse boves.",
+      "question": "Quas boves Mercurius se subripuisse meminit, cum precanti mercatori ridet?",
+      "answer": "Ortygias.",
+      "question_en": "What cattle does Mercury remember having stolen, as he laughs at the praying merchant?",
+      "answer_en": "The Ortygian cattle (Apollo's herd).",
+      "derivation": "Mercury laughs at perjured merchants because he himself stole the Ortygian (Delian, i.e. Apollo's) cattle - the canonical cattle-theft of the infant god. Answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.699-702",
+      "source_text": "abstulerant raptas Phoeben Phoebesque sororem Tyndaridae fratres, hic eques, ille pugil. bella parant repetuntque suas et frater et Idas, Leucippo fieri pactus uterque gener.",
+      "question": "Quas puellas Tyndaridae fratres rapuerunt, Idae fratrique eius pactas?",
+      "answer": "Phoeben eiusque sororem, Leucippi filias.",
+      "question_en": "Which girls did the Tyndarid brothers carry off, though pledged to Idas and his brother?",
+      "answer_en": "Phoebe and her sister, the daughters of Leucippus.",
+      "derivation": "The rape of the Leucippides by Castor and Pollux, which brought on the fight with Idas and Lynceus. Named parties on all sides; answer supported verbatim (Phoeben Phoebesque sororem... Leucippo... gener).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.709-710",
+      "source_text": "pectora traiectus Lynceo Castor ab ense non exspectato volnere pressit humum;",
+      "question": "Cuius ense Castor, pectora traiectus, occubuit?",
+      "answer": "Lyncei.",
+      "question_en": "By whose sword did Castor fall, pierced through the breast?",
+      "answer_en": "By Lynceus' sword.",
+      "derivation": "Castor slain by Lynceus' sword in the battle at Aphidna. Single-name answer verbatim (Lynceo... ab ense).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.715-719",
+      "source_text": "iamque tibi, Pollux, caelum sublime patebat, cum \"mea\" dixisti \"percipe verba, pater: quod mihi das uni caelum, partire duobus; dimidium toto munere maius erit.\" dixit et alterna fratrem statione redemit:",
+      "question": "Quo pacto Pollux fratrem Castorem a morte redemit?",
+      "answer": "Caelo suo diviso, alterna statione.",
+      "question_en": "By what arrangement did Pollux redeem his brother Castor from death?",
+      "answer_en": "By dividing his own heaven with him, in alternating turns.",
+      "derivation": "Pollux asked Jupiter to split his sole immortality between the two, and redeemed his brother 'alterna statione' - the shared alternating divinity of the Dioscuri. Brief-phrase answer verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Ovid, Fasti 5.725-726",
+      "source_text": "Proxima Volcani lux est, Tubilustria dicunt: lustrantur purae, quas facit ille, tubae.",
+      "question": "Cuius dei est lux Tubilustriorum mense Maio, qua tubae lustrantur?",
+      "answer": "Volcani.",
+      "question_en": "To which god belongs the day of the Tubilustria in May, on which the trumpets are purified?",
+      "answer_en": "To Vulcan.",
+      "derivation": "The May Tubilustrium is Vulcan's day: the pure trumpets, which he makes, are purified. Distinct from the March Tubilustrium taken in the liber III file (there tied to Minerva's Quinquatrus); god-name answer verbatim.",
+      "category": "religio"
+    }
+  ]
+}
