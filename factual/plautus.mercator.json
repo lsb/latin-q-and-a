@@ -1,0 +1,296 @@
+{
+ "source": "text/plautus/mercator.txt",
+ "author": "Plautus",
+ "work": "Mercator",
+ "pairs": [
+  {
+   "locus": "Plautus, Mercator prol. 9-10",
+   "source_text": "graece haec vocatur Emporos Philemonis, eadem Latine Mercator Macci Titi.",
+   "question": "Cuius poetae Graeci fabulam, Emporon inscriptam, Plautus Latine Mercatorem fecit?",
+   "answer": "Philemonis.",
+   "question_en": "Which Greek poet's play, titled Emporos, did Plautus render into Latin as the Mercator?",
+   "answer_en": "Philemon's.",
+   "derivation": "The prologue names its Greek model: the Emporos of Philemon, which Plautus calls in Latin Mercator. Canonical literary fact (Greek original + author); anchored to the named play; one-name answer verbatim (Philemonis).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 9-10",
+   "source_text": "graece haec vocatur Emporos Philemonis, eadem Latine Mercator Macci Titi.",
+   "question": "Quo titulo Graeco ea fabula inscribitur quam Plautus Latine Mercatorem appellat?",
+   "answer": "Emporos.",
+   "question_en": "By what Greek title is the play called that Plautus names in Latin Mercator?",
+   "answer_en": "Emporos ('The Merchant').",
+   "derivation": "The Greek title of Plautus' source play, given in the prologue: Emporos ('The Merchant'), rendered Mercator. Canonical literary fact; anchored to the named play; one-word answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 11",
+   "source_text": "pater ad mercatum hinc me meus misit Rhodum; biennium iam factum est, postquam abii domo.",
+   "question": "Quam ad insulam Charinum pater mercatum misit apud Plautum in Mercatore?",
+   "answer": "Rhodum.",
+   "question_en": "To which island did the father send Charinus to trade in Plautus' Mercator?",
+   "answer_en": "To Rhodes.",
+   "derivation": "The premise of the play: Charinus is sent overseas to Rhodes to trade. Canonical plot/geography fact; anchored to Charinus + play; one-place answer verbatim (Rhodum).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 11-12",
+   "source_text": "pater ad mercatum hinc me meus misit Rhodum; biennium iam factum est, postquam abii domo.",
+   "question": "Quam diu Charinus domo afuit, mercatum Rhodum missus, apud Plautum in Mercatore?",
+   "answer": "Biennium.",
+   "question_en": "How long was Charinus away from home, sent to trade at Rhodes, in Plautus' Mercator?",
+   "answer_en": "Two years.",
+   "derivation": "Duration of the merchant-voyage: two years (biennium) since Charinus left home. Clean number/time fact; anchored to Charinus + play; answer verbatim (biennium).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 18-19",
+   "source_text": "nam amorem haec cuncta vitia sectari solent, cura aegritudo nimiaque elegantia.",
+   "question": "Quae tria vitia amorem semper sectari Charinus in prologo Mercatoris Plauti dicit?",
+   "answer": "Cura, aegritudo, nimia elegantia.",
+   "question_en": "Which three vices does Charinus in the prologue of Plautus' Mercator say always attend love?",
+   "answer_en": "Care, sickness, and excessive fastidiousness.",
+   "derivation": "The famous catalogue of a lover's evils that opens the Mercator: love is dogged by cura, aegritudo, and nimia elegantia. Quotable literary set with a checkable answer; anchored to Charinus + play; three-item answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 74-76",
+   "source_text": "agrum se vendidisse atque ea pecunia navem, metretas quae trecentas tolleret, parasse atque ea se mercis mercatum undique.",
+   "question": "Quot metretas capere poterat navis quam Demipho iuvenis, agro vendito, sibi ad mercaturam paravit apud Plautum in Mercatore?",
+   "answer": "Trecentas.",
+   "question_en": "How many metretae could the ship hold that the young Demipho, having sold his farm, got for himself to trade with in Plautus' Mercator?",
+   "answer_en": "Three hundred.",
+   "derivation": "Mercantile realia plus number: a ship's capacity reckoned in metretae (a Greek liquid measure) — Demipho's youthful trading ship held 300. Anchored to Demipho + play; single-number answer verbatim (trecentas).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 87",
+   "source_text": "aedificat navem cercurum et mercis emit, parata navi imponit.",
+   "question": "Cuius generis navem Demipho filio Charino ad mercaturam aedificavit apud Plautum in Mercatore?",
+   "answer": "Cercurum.",
+   "question_en": "What kind of ship did Demipho build for his son Charinus for the trading voyage in Plautus' Mercator?",
+   "answer_en": "A cercurus (a swift merchant vessel).",
+   "derivation": "Nautical realia of overseas trade: the ship built for the voyage is a cercurus, a light fast merchantman. Anchored to Demipho + Charinus + play; one-word ship-type answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 89",
+   "source_text": "praeterea mihi talentum argenti ipsus sua adnumerat manu.",
+   "question": "Quantum argenti Demipho filio Charino mercatum eunti sua manu adnumeravit apud Plautum in Mercatore?",
+   "answer": "Talentum argenti.",
+   "question_en": "How much silver did Demipho count out with his own hand to his son Charinus as he set off to trade in Plautus' Mercator?",
+   "answer_en": "A talent of silver.",
+   "derivation": "The trading capital the father provides: a full talent of silver, counted out by hand. Currency realia plus clean amount; anchored to Demipho + Charinus + play; answer verbatim (talentum argenti).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator prol. 90-92",
+   "source_text": "servom una mittit, qui olim puero parvolo mihi paedagogus fuerat, quasi uti mihi foret custos.",
+   "question": "Quo munere olim functus erat ille servus quem Demipho custodem una cum Charino mercatum misit apud Plautum in Mercatore?",
+   "answer": "Paedagogi.",
+   "question_en": "What role had that slave formerly filled whom Demipho sent along with Charinus as his guardian in Plautus' Mercator?",
+   "answer_en": "That of his paedagogus (tutor-attendant).",
+   "derivation": "Household realia: the boy's former paedagogus is sent as his custos on the voyage. Anchored to Demipho + Charinus + play; one-word role answer verbatim (paedagogus).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 260-265",
+   "source_text": "atque ego illi aspicio forma eximia mulierem, filius quam advexit meus matri ancillam suae. quam ego postquam aspexi, non ita amo ut sani solent homines, sed eodem pacto ut insani solent.",
+   "question": "In quam mulierem senex Demipho apud Plautum in Mercatore misere amore capitur?",
+   "answer": "In eam quam filius eius advexerat.",
+   "question_en": "With which woman does the old man Demipho fall desperately in love in Plautus' Mercator?",
+   "answer_en": "With the one his own son had brought home.",
+   "derivation": "The senex amator premise of the Mercator: the old father Demipho falls madly in love with the very woman his son brought back from Rhodes, setting up the father-son rivalry. Canonical plot fact; anchored to Demipho + play; short answer supported by source.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator 466-467",
+   "source_text": "ne hic resciscat, cauto opust: non ipse emam, sed Lysimacho amico mandabo.",
+   "question": "Cui amico Demipho negotium ancillae emendae mandare constituit, ne filius resciscat, apud Plautum in Mercatore?",
+   "answer": "Lysimacho.",
+   "question_en": "To which friend does Demipho decide to entrust the purchase of the slave-girl, so that his son will not find out, in Plautus' Mercator?",
+   "answer_en": "To Lysimachus.",
+   "derivation": "The neighbor Lysimachus is drawn into the plot: rather than buy the girl himself, Demipho entrusts the purchase to his friend Lysimachus. Anchored to Demipho + Lysimachus + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator 414-415",
+   "source_text": "ego emero matri tuae ancillam viraginem aliquam non malam, forma mala, ut matrem addecet familias, aut Syram aut Aegyptiam.",
+   "question": "Cuius nationis ancillam viraginem, forma mala, Demipho matri familias emere se velle dicit apud Plautum in Mercatore?",
+   "answer": "Syram aut Aegyptiam.",
+   "question_en": "Of what nationality is the sturdy, plain-featured slave-woman that Demipho says he will buy for the matron in Plautus' Mercator?",
+   "answer_en": "Syrian or Egyptian.",
+   "derivation": "Household realia: the standard drudge slave-woman for a respectable matron was a Syrian or Egyptian, plain and fit for grinding and spinning. Anchored to Demipho + play; two-nation answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 408-409",
+   "source_text": "occentent ostium: impleantur elegeorum meae fores carbonibus.",
+   "question": "Quibus scriptis amatores fores mulieris formosae carbonibus complere solebant, ut Demipho apud Plautum in Mercatore veretur?",
+   "answer": "Elegeis.",
+   "question_en": "With what writings would lovers fill the doors of a beautiful woman in charcoal, as Demipho fears in Plautus' Mercator?",
+   "answer_en": "With elegiac love-verses.",
+   "derivation": "Realia of the lover's serenade (the komos): suitors would scrawl elegiac verses in charcoal on the beloved's door. Anchored to Demipho + play; one-word answer verbatim (elegeorum).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 474-475",
+   "source_text": "Mane, mane obsecro, Charine. Quis me revocat? Eutychus, tuos amicus et sodalis, simul vicinus proxumus.",
+   "question": "Quo nomine vocatur amicus et vicinus Charini qui eum a morte sibi consciscenda revocat apud Plautum in Mercatore?",
+   "answer": "Eutychus.",
+   "question_en": "What is the name of Charinus' friend and neighbor who calls him back from suicide in Plautus' Mercator?",
+   "answer_en": "Eutychus.",
+   "derivation": "The sodalis who rescues the hero: Eutychus, Charinus' friend, comrade, and next-door neighbor, stops his suicide and later brings back his beloved. Anchored to Charinus + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator 469",
+   "source_text": "Pentheum diripuisse aiunt Bacchas.",
+   "question": "Quem regem Bacchae diripuisse dicuntur, ut Charinus apud Plautum in Mercatore commemorat?",
+   "answer": "Pentheum.",
+   "question_en": "Which king are the Bacchae said to have torn apart, as Charinus recalls in Plautus' Mercator?",
+   "answer_en": "Pentheus.",
+   "derivation": "Myth as shared story: Pentheus torn to pieces by the Bacchantes, invoked by Charinus as the measure of his own being torn apart. Anchored to the named myth + play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Mercator 488",
+   "source_text": "Achillem orabo, aurum ut mihi det, Hector qui expensus fuit.",
+   "question": "Cuius Troiani corpus auro expensum (id est redemptum) esse Charinus apud Plautum in Mercatore memorat?",
+   "answer": "Hectoris.",
+   "question_en": "Whose Trojan body does Charinus in Plautus' Mercator recall as having been ransomed for gold?",
+   "answer_en": "Hector's.",
+   "derivation": "Myth as shared story: Hector's corpse was ransomed from Achilles for its weight in gold (Hector qui expensus fuit). Anchored to the named heroes + play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Mercator 516-517",
+   "source_text": "quid nomen tibi dicam esse? Pasicompsae. Ex forma nomen inditumst.",
+   "question": "Quo nomine appellatur meretrix formosa quam Charinus e Rhodo advexit et quam senex Demipho concupivit apud Plautum in Mercatore?",
+   "answer": "Pasicompsa.",
+   "question_en": "What is the name of the beautiful courtesan whom Charinus brought back from Rhodes and whom the old man Demipho lusted after in Plautus' Mercator?",
+   "answer_en": "Pasicompsa.",
+   "derivation": "The name of the disputed slave-girl at the center of the play, given (the text notes) from her beauty: Pasicompsa. Canonical character fact; anchored to the play + her origin at Rhodes; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator 677-680",
+   "source_text": "da sane hanc virgam lauri. Apollo, quaeso te, ut des pacem propitius, salutem et sanitatem nostrae familiae.",
+   "question": "Cui deo Dorippa, lauri virga aram augens, pro salute familiae suae supplicat apud Plautum in Mercatore?",
+   "answer": "Apollini.",
+   "question_en": "To which god does Dorippa, decking the altar with a laurel branch, pray for the safety of her household in Plautus' Mercator?",
+   "answer_en": "To Apollo.",
+   "derivation": "Domestic-cult realia: the doorway altar of Apollo Agyieus, decked with laurel, before which the matron prays for the household's safety. Anchored to Dorippa + play; one-name answer verbatim (Apollo).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mercator 689-690",
+   "source_text": "Ei hac mecum, ut videas semul tuam Alcumenam paelicem, Iuno mea.",
+   "question": "Cui deae paelex in fabulis habebatur Alcumena, quam Syra apud Plautum in Mercatore commemorat cum dominam suam Iunoni comparat?",
+   "answer": "Iunoni.",
+   "question_en": "Whose rival (paelex) was Alcmena held to be in the myths, whom Syra recalls in Plautus' Mercator when she likens her mistress to Juno?",
+   "answer_en": "Juno's.",
+   "derivation": "Myth as shared story: Alcmena, Jupiter's mortal beloved and mother of Hercules, was the paelex resented by Juno. Syra casts Dorippa as Juno and the intruder as her Alcmena. Anchored to the named myth + play; one-name answer supported by source.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Mercator 703",
+   "source_text": "em quoi decem talenta dotis detuli, haec ut viderem, ut ferrem has contumelias.",
+   "question": "Quot talenta dotis Dorippa marito Lysimacho attulit apud Plautum in Mercatore?",
+   "answer": "Decem.",
+   "question_en": "How many talents of dowry did Dorippa bring to her husband Lysimachus in Plautus' Mercator?",
+   "answer_en": "Ten.",
+   "derivation": "Marriage realia plus number: the wife's dowry (dos), here ten talents, thrown up by Dorippa as she reproaches her husband. Anchored to Dorippa + Lysimachus + play; single-number answer verbatim (decem talenta).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 819-822",
+   "source_text": "nam si vir scortum duxit clam uxorem suam, id si rescivit uxor, impunest viro; uxor virum si clam domo egressa est foras, viro fit causa, exigitur matrimonio.",
+   "question": "Ob quam culpam uxor matrimonio exigitur, quae eadem res viro impune est, ut Syra apud Plautum in Mercatore de iniquo iure queritur?",
+   "answer": "Si clam viro domo egressa est.",
+   "question_en": "For what fault is a wife put out of the marriage, though the same thing goes unpunished for a husband, as Syra complains of the unequal law in Plautus' Mercator?",
+   "answer_en": "If she has gone out of the house without her husband's knowledge.",
+   "derivation": "The celebrated speech on the marital double standard: a husband's secret affair is unpunished, but a wife who leaves home secretly can be divorced. Custom/law realia; anchored to Syra + play; short answer supported verbatim (exigitur matrimonio).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 834-835",
+   "source_text": "di penates meum parentum, familiai Lar pater, vobis mando, meum parentum rem bene ut tutemini.",
+   "question": "Quibus dis domesticis Charinus, patria excedere parans, rem parentum suorum tutandam mandat apud Plautum in Mercatore?",
+   "answer": "Penatibus et Lari familiari.",
+   "question_en": "To which household gods does Charinus, about to leave his homeland, entrust the safekeeping of his parents' estate in Plautus' Mercator?",
+   "answer_en": "To the Penates and the household Lar.",
+   "derivation": "Domestic-cult realia: the Penates and the Lar familiaris as the guardians of the household and its property. Anchored to Charinus + play; answer supported verbatim (di penates... Lar).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mercator 864-865",
+   "source_text": "Invoco vos, Lares viales, ut me bene tutetis.",
+   "question": "Quos Lares Charinus, longum iter ingressurus, ut se bene tutentur invocat apud Plautum in Mercatore?",
+   "answer": "Lares viales.",
+   "question_en": "Which Lares does Charinus invoke to protect him well as he sets out on a long journey in Plautus' Mercator?",
+   "answer_en": "The Lares of the roads (Lares viales).",
+   "derivation": "Cult realia: the Lares viales, protectors of travelers on the road, invoked by one setting out. Anchored to Charinus + play; answer verbatim (Lares viales).",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Mercator 876-877",
+   "source_text": "hic favonius serenust, istic auster imbricus; hic facit tranquillitatem, iste omnis fluctus conciet.",
+   "question": "Quem ventum Eutychus apud Plautum in Mercatore serenum, quem imbricum esse dicit?",
+   "answer": "Favonium serenum, Austrum imbricum.",
+   "question_en": "Which wind does Eutychus in Plautus' Mercator call fair-weather, and which rain-bringing?",
+   "answer_en": "Favonius (the west wind) fair, Auster (the south wind) rainy.",
+   "derivation": "Seafarers' wind-lore: the west wind Favonius brings calm and fair weather, the south wind Auster brings rain and rough seas. Anchored to the named winds + play; two-part answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 961",
+   "source_text": "LYS. Sequere me. sed exeuntem filium video meum.",
+   "question": "Cuius senis filius est Eutychus, Charini sodalis, apud Plautum in Mercatore?",
+   "answer": "Lysimachi.",
+   "question_en": "Of which old man is Eutychus, Charinus' comrade, the son in Plautus' Mercator?",
+   "answer_en": "Of Lysimachus.",
+   "derivation": "The two-household structure of the play: Eutychus is the son of the neighbor Lysimachus (and Dorippa), just as Charinus is the son of Demipho. Lysimachus names him 'my son.' Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator 1017-1019",
+   "source_text": "annos gnatus sexaginta qui erit, si quem scibimus si maritum sive hercle adeo caelibem scortarier, cum eo nos hac lege agemus: inscitum arbitrabimur.",
+   "question": "Quot annos natos senes, sive maritos sive caelibes, lex illa ludicra in fine Mercatoris Plauti scortari vetat?",
+   "answer": "Sexaginta.",
+   "question_en": "Old men of what age does that mock-law at the end of Plautus' Mercator forbid to go wenching, married or bachelor alike?",
+   "answer_en": "Sixty years old.",
+   "derivation": "The play's celebrated closing 'lex': a man of sixty caught wenching is judged a fool. Canonical epilogue fact plus number; anchored to the play; single-number answer verbatim (sexaginta).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 1021-1022",
+   "source_text": "neu quisquam posthac prohibeto adulescentem filium quin amet et scortum ducat, quod bono fiat modo.",
+   "question": "Quid facere patribus lex illa in extremo Mercatore Plauti vetat, dummodo id bono fiat modo?",
+   "answer": "Ne filium adulescentem amare prohibeant.",
+   "question_en": "What does that law at the end of Plautus' Mercator forbid fathers to do, provided it be done in moderation?",
+   "answer_en": "To keep a young son from loving.",
+   "derivation": "The second clause of the epilogue's mock-law, the young-versus-old moral of the play: no father may prevent his adolescent son from loving. Canonical epilogue fact; anchored to the play; short answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Mercator 988-989",
+   "source_text": "Redde illi. Sibi habeat, iam ut volt per me sibi habeat licet.",
+   "question": "Cui Demipho senex Pasicompsam meretricem, quam ipse concupiverat, in fine Mercatoris Plauti tandem cedit?",
+   "answer": "Filio suo Charino.",
+   "question_en": "To whom does the old man Demipho at last yield the courtesan Pasicompsa, whom he had lusted after, at the end of Plautus' Mercator?",
+   "answer_en": "To his own son Charinus.",
+   "derivation": "The resolution of the father-son rivalry: browbeaten by Eutychus and Lysimachus, Demipho gives up the girl to his son ('sibi habeat... per me licet'). Canonical ending; anchored to the named characters + play; short answer supported by source.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Mercator 1025-1026",
+   "source_text": "atque, adulescentes, haec si vobis lex placet, ob senum hercle industriam vos aequom est clare plaudere.",
+   "question": "Quos spectatores caterva in fine Mercatoris Plauti, si lex de senibus lata eis placeat, clare plaudere aequom esse dicit?",
+   "answer": "Adulescentes.",
+   "question_en": "Which spectators does the company at the end of Plautus' Mercator say ought to applaud loudly, if the law passed about the old men pleases them?",
+   "answer_en": "The young men.",
+   "derivation": "The closing appeal for applause, aimed at the young men whom the epilogue's law favors. Theater-convention fact in its Mercator form; anchored to the play; one-word answer verbatim (adulescentes).",
+   "category": "ludi"
+  }
+ ]}

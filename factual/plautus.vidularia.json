@@ -1,0 +1,96 @@
+{
+ "source": "text/plautus/vidularia.txt",
+ "author": "Plautus",
+ "work": "Vidularia",
+ "pairs": [
+  {
+   "locus": "Plautus, Vidularia prol. 7",
+   "source_text": "poeta hanc noster fecit Vidulariam.",
+   "question": "Quo titulo, a vidulo ducto, Plautus fabulam suam quae hodie fragmentis tantum superest inscripsit?",
+   "answer": "Vidularia.",
+   "question_en": "By what title, taken from a vidulus (trunk), did Plautus name his play that survives today only in fragments?",
+   "answer_en": "Vidularia.",
+   "derivation": "The prologue names the play ('poeta hanc noster fecit Vidulariam'); the title derives from the vidulus (traveling-trunk) central to the surviving fragments. Anchored to Plautus + the play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Vidularia 92 (Nonius 123M)",
+   "source_text": "Ibi ut piscabar, fuscina ici vidulum.",
+   "question": "Quo instrumento piscator, dum piscatur, vidulum in mari repperit apud Plautum in Vidularia?",
+   "answer": "Fuscina.",
+   "question_en": "With what implement did the fisherman, while fishing, come upon the trunk in the sea in Plautus' Vidularia?",
+   "answer_en": "With a fish-spear (fuscina).",
+   "derivation": "A surviving fragment: while fishing, the fisherman struck the vidulus (trunk) with his fuscina (trident/fish-spear). Fishing realia; anchored to the play; one-word answer verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Vidularia 55a-c (Prisc. GL 2.224K)",
+   "source_text": "vidulum hic apponite; ego servabo, quasi sequestro detis; neutri reddibo, donicum res iudicata erit haec.",
+   "question": "Quo iure Gorgines vidulum de quo lis erat apud se servat, neutri redditurus donec res iudicetur, apud Plautum in Vidularia?",
+   "answer": "Tamquam sequester.",
+   "question_en": "In what capacity does Gorgines keep the disputed trunk, to be given back to neither party until the case is decided, in Plautus' Vidularia?",
+   "answer_en": "As a stakeholder (sequester).",
+   "derivation": "Legal realia: disputed property is deposited with a sequester, a neutral holder who returns it to neither party until judgment. Anchored to Gorgines + the play; short answer supported verbatim (quasi sequestro).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Vidularia 43",
+   "source_text": "si tibi pudico homine est opus et non malo, qui fidei plenior sit quam servi tui, minime mendace, em me licet conducere.",
+   "question": "Quid Nicodemus adulescens, inopia coactus, seni Diniae apud Plautum in Vidularia se facere offert?",
+   "answer": "Se mercennarium conducendum.",
+   "question_en": "What does the young Nicodemus, driven by poverty, offer to the old man Dinia in Plautus' Vidularia?",
+   "answer_en": "To hire himself out as a laborer.",
+   "derivation": "A clear scene: the impoverished freeborn youth Nicodemus offers to hire himself out to Dinia as a laborer (mercennarius). Realia of free poverty and hired labor; anchored to Nicodemus + Dinia + play; short answer supported by source (em me licet conducere).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Vidularia 51-53",
+   "source_text": "nec mihi nisi unum prandium quicquam duis, praeter mercedem. Quid merendam? Ne duis, neque cenam.",
+   "question": "Praeter mercedem et unum prandium, quas cibi vices Nicodemus operarius sibi dari opus esse negat apud Plautum in Vidularia?",
+   "answer": "Merendam et cenam.",
+   "question_en": "Besides his wage and a single lunch, which meals does the laborer Nicodemus say he need not be given in Plautus' Vidularia?",
+   "answer_en": "The afternoon snack (merenda) and dinner (cena).",
+   "derivation": "Realia of the Roman meal-day: prandium (midday meal), merenda (afternoon snack), cena (dinner). Nicodemus asks only for one prandium, refusing merenda and cena. Anchored to the play; two-item answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Vidularia 54",
+   "source_text": "Vbi habitas? Hic apud piscatorem Gorginem.",
+   "question": "Apud quem piscatorem Nicodemus adulescens habitat apud Plautum in Vidularia?",
+   "answer": "Apud Gorginem.",
+   "question_en": "With which fisherman does the young Nicodemus lodge in Plautus' Vidularia?",
+   "answer_en": "With Gorgines.",
+   "derivation": "A clear fragment: Nicodemus lodges with the fisherman Gorgines, who proves to be Dinia's neighbor. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Vidularia 83-85",
+   "source_text": "immo etiam argenti minam, quam med oravisti ut darem tibi faenore, iam ego adferam ad te. faenus mihi nullum duis.",
+   "question": "Quantam pecuniam Dinia senex Nicodemo egenti sine ullo faenore mutuam dare pollicetur apud Plautum in Vidularia?",
+   "answer": "Minam argenti.",
+   "question_en": "How much money does the old man Dinia promise to lend the needy Nicodemus without any interest in Plautus' Vidularia?",
+   "answer_en": "A mina of silver.",
+   "derivation": "Money-lending realia: Dinia lends a mina of silver, waiving the interest (faenus) Nicodemus had offered. Anchored to Dinia + Nicodemus + play; short answer supported verbatim (argenti minam... faenus nullum).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Vidularia 17b (Prisc. GL 2.300K)",
+   "source_text": "Eiusdem Bacchae fecerunt nostram navem Pentheum.",
+   "question": "Cuius regis exitui, a Bacchis discerpti, navem suam tempestate laceratam quidam apud Plautum in Vidularia comparat?",
+   "answer": "Penthei.",
+   "question_en": "To the fate of which king, torn apart by the Bacchae, does a character in Plautus' Vidularia compare his storm-shattered ship?",
+   "answer_en": "Pentheus'.",
+   "derivation": "Myth as shared story: Pentheus torn to pieces by the Bacchae; a surviving fragment says the same Bacchae 'made our ship a Pentheus.' Anchored to the play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Vidularia 17e (Porph. Hor. Carm. 1.38.7)",
+   "source_text": "haec myrtus Veneris est.",
+   "question": "Cuius deae sacra est myrtus, ut apud Plautum in Vidularia dicitur?",
+   "answer": "Veneris.",
+   "question_en": "To which goddess is the myrtle sacred, as stated in Plautus' Vidularia?",
+   "answer_en": "Venus'.",
+   "derivation": "Cult and plant lore: the myrtle is the plant sacred to Venus. A surviving fragment states 'haec myrtus Veneris est.' Anchored to the play; one-name answer verbatim.",
+   "category": "religio"
+  }
+ ]}

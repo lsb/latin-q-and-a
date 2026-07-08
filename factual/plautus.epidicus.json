@@ -1,0 +1,256 @@
+{
+ "source": "text/plautus/epidicus.txt",
+ "author": "Plautus",
+ "work": "Epidicus",
+ "pairs": [
+  {
+   "locus": "Plautus, Epidicus 87-90",
+   "source_text": "ego miser perpuli meis dolis senem, ut censeret suam sese emere filiam: is suo filio fidicinam emit, quam ipse amat, quam abiens mandavit mihi.",
+   "question": "Quis servus callidus, cuius nomine fabula inscribitur, senem Periphanem dolis perpulit ut fidicinam emeret apud Plautum in Epidico?",
+   "answer": "Epidicus.",
+   "question_en": "Which cunning slave, for whom the play is named, drove the old man Periphanes by his tricks to buy a music-girl in Plautus' Epidicus?",
+   "answer_en": "Epidicus.",
+   "derivation": "The title-character, the arch clever slave: Epidicus, whose double deception of the old men drives the play. His own soliloquy states the trick. Anchored to the named play + Periphanes; one-name answer.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 26",
+   "source_text": "Quem dices digniorem esse hominem hodie Athenis alterum?",
+   "question": "In qua urbe agitur fabula Plauti quae Epidicus inscribitur?",
+   "answer": "Athenis.",
+   "question_en": "In what city is Plautus' play called Epidicus set?",
+   "answer_en": "At Athens.",
+   "derivation": "The setting of the play, named in passing (Athenis): the action takes place at Athens. Anchored to the named play; one-place answer verbatim.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Epidicus 78-80",
+   "source_text": "quia forma lepida et liberali captivam adulescentulam de praeda mercatust. Cur eam emit? Animi causa.",
+   "question": "Vnde Stratippocles adulescens captivam adulescentulam, quam adamavit, mercatus est apud Plautum in Epidico?",
+   "answer": "De praeda.",
+   "question_en": "From what did the young Stratippocles buy the captive girl he fell in love with in Plautus' Epidicus?",
+   "answer_en": "From the war-spoils.",
+   "derivation": "Slave-trade realia: captives were sold off from the war booty (de praeda); Stratippocles bought a well-born captive girl for love. Anchored to Stratippocles + play; short answer verbatim (de praeda).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Epidicus 86-87",
+   "source_text": "Quid istanc quam emit, quanti eam emit? Vili. Quot minis? Tot — quadraginta minis.",
+   "question": "Quot minis Stratippocles captivam adulescentulam de praeda emit apud Plautum in Epidico?",
+   "answer": "Quadraginta minis.",
+   "question_en": "For how many minae did Stratippocles buy the captive girl from the spoils in Plautus' Epidicus?",
+   "answer_en": "For forty minae.",
+   "derivation": "The price of the captive girl: forty minae. Clean number fact; anchored to Stratippocles + play; single-number answer verbatim (quadraginta minis).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Epidicus 88-89",
+   "source_text": "id adeo argentum ab danista apud Thebas sumpsit faenore, in dies minasque argenti singulas nummis.",
+   "question": "A quo genere hominum Stratippocles Thebis quadraginta minas faenore ad captivam emendam sumpsit apud Plautum in Epidico?",
+   "answer": "A danista.",
+   "question_en": "From what sort of man did Stratippocles borrow forty minae at interest at Thebes to buy the captive girl in Plautus' Epidicus?",
+   "answer_en": "From a moneylender (danista).",
+   "derivation": "Money-lending realia: the danista (professional usurer) advances the purchase money at interest (faenore). Anchored to Stratippocles + play; one-word answer verbatim (danista).",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Epidicus 82-83",
+   "source_text": "ipsus mandavit mi, ab lenone ut fidicina, quam amabat, emeretur sibi. id ei impetratum reddidi.",
+   "question": "Quid Stratippocles Epidico servo, prius quam ad legionem abiret, mandaverat apud Plautum in Epidico?",
+   "answer": "Vt fidicinam, quam amabat, ab lenone emeret.",
+   "question_en": "What had Stratippocles charged the slave Epidicus to do before he went off to the army in Plautus' Epidicus?",
+   "answer_en": "To buy from the pimp the music-girl he loved.",
+   "derivation": "The initial commission that sets the plot going: buy the beloved fidicina from the leno (pimp) who owned her. Slave-girl-as-property realia; anchored to Stratippocles + Epidicus + play; short answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 19-21 (argumentum)",
+   "source_text": "Emit fidicinam, filiam credens, senex persuasu servi, atque conductam iterum pro amica ei subiecit filii.",
+   "question": "Quam mulierem Periphanes senex emit, filiam suam esse credens, persuasu Epidici servi, apud Plautum in Epidico?",
+   "answer": "Fidicinam.",
+   "question_en": "What woman did the old man Periphanes buy, believing her to be his daughter, at the slave Epidicus' persuasion, in Plautus' Epidicus?",
+   "answer_en": "A music-girl (fidicina).",
+   "derivation": "The first of Epidicus' two deceptions: he persuades Periphanes to buy a music-girl by convincing him she is his long-lost daughter. Canonical plot fact; anchored to Periphanes + Epidicus + play; one-word answer verbatim (fidicinam).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 34-36",
+   "source_text": "Mulciber, credo, arma fecit quae habuit Stratippocles: travolaverunt ad hostis. Tum ille prognatus Theti sine perdat: alia apportabunt ei Nerei filiae.",
+   "question": "Cuius deae marinae filius erat Achilles, cui, armis amissis, Nereides nova apportare poterant, ut Epidicus apud Plautum in Epidico iocatur?",
+   "answer": "Thetidis.",
+   "question_en": "Of which sea-goddess was Achilles the son, to whom the Nereids could bring new arms when his were lost, as Epidicus jokes in Plautus' Epidicus?",
+   "answer_en": "Thetis'.",
+   "derivation": "Myth as shared story: Achilles, son of the Nereid Thetis, had his arms forged by Mulciber (Vulcan); the Nereids his kin could resupply him. Epidicus applies the joke to Stratippocles. Anchored to the named myth + play; one-name answer supported by source (prognatus Theti).",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Epidicus 245-246",
+   "source_text": "ibi illa nominat Stratippoclem Periphanai filium.",
+   "question": "Cuius senis filius est Stratippocles adulescens, propter cuius amores Epidicus dolos struit, apud Plautum in Epidico?",
+   "answer": "Periphanis.",
+   "question_en": "Of which old man is the young Stratippocles the son, on account of whose love-affairs Epidicus weaves his tricks in Plautus' Epidicus?",
+   "answer_en": "Of Periphanes.",
+   "derivation": "The central father-son pair: Stratippocles is the son of the deceived old man Periphanes. Anchored to the named characters + play; one-name answer verbatim (Periphanai filium).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 255",
+   "source_text": "Quid ego nunc faciam? consilium a te expetesso, Apoecides.",
+   "question": "Quo nomine vocatur senex, Periphanis amicus et consiliarius, quem Epidicus una cum illo decipit apud Plautum in Epidico?",
+   "answer": "Apoecides.",
+   "question_en": "What is the name of the old man, Periphanes' friend and adviser, whom Epidicus dupes along with him in Plautus' Epidicus?",
+   "answer_en": "Apoecides.",
+   "derivation": "The second old man of the play: Apoecides, Periphanes' friend, called in as counselor and taken in by Epidicus' scheme. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 178-179",
+   "source_text": "Hercules ego fui, dum illa mecum fuit; neque sexta aerumna acerbior Herculi, quam illa mihi obiectast.",
+   "question": "Cuius herois aerumnis (laboribus) Periphanes senex molestias uxoris defunctae apud Plautum in Epidico comparat?",
+   "answer": "Herculis.",
+   "question_en": "To which hero's toils does the old man Periphanes compare the troubles of his late wife in Plautus' Epidicus?",
+   "answer_en": "Hercules'.",
+   "derivation": "Myth as proverbial toil: the aerumnae (labors) of Hercules as the byword for hardship; Periphanes calls his marriage worse than a labor of Hercules. Anchored to the named myth + play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Epidicus 275-278",
+   "source_text": "quasi tu cupias liberare fidicinam animi gratia quasique ames vehementer tu illam. ut enim praestines argento, prius quam veniat filius, atque ut eam te in libertatem dicas emere.",
+   "question": "Quo praetextu Epidicus Periphani suadet ut fidicinam ipse argento praestinet, prius quam filius adveniat, apud Plautum in Epidico?",
+   "answer": "Quasi eam ipse in libertatem emere cupiat.",
+   "question_en": "On what pretext does Epidicus advise Periphanes to buy up the music-girl himself before his son arrives, in Plautus' Epidicus?",
+   "answer_en": "As though he wished to buy her into freedom for himself.",
+   "derivation": "The second deception, by which Periphanes is made to pay a second time: Epidicus tells him to buy the music-girl himself on the pretext of freeing her for his own pleasure, to remove her before the son returns. Canonical plot fact; anchored to Epidicus + Periphanes + play; short answer supported verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 372-373",
+   "source_text": "iam ego parabo aliquam dolosam fidicinam, nummo conducta quae sit, quae se emptam simulet, quae senes duo docte ludificetur.",
+   "question": "Quanti Epidicus fidicinam dolosam conducit, quae se emptam simulet et duos senes ludificetur, apud Plautum in Epidico?",
+   "answer": "Nummo.",
+   "question_en": "For how much does Epidicus hire a wily music-girl to pretend she has been bought and to hoodwink the two old men in Plautus' Epidicus?",
+   "answer_en": "For a single coin (a nummus).",
+   "derivation": "The mechanism of the second deception: a music-girl hired for a single nummus, coached to pass herself off as the purchased girl. Anchored to Epidicus + play; one-word price answer verbatim (nummo).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 314-316",
+   "source_text": "mane me iussit senex conducere aliquam fidicinam sibi huc domum, quae, dum rem divinam faceret, cantaret sibi.",
+   "question": "Ad quam rem senex Periphanes Epidico fidicinam domum conducere iusserat apud Plautum in Epidico?",
+   "answer": "Vt, dum rem divinam faceret, sibi caneret.",
+   "question_en": "For what purpose had the old man Periphanes ordered Epidicus to hire a music-girl to his house in Plautus' Epidicus?",
+   "answer_en": "To play for him while he performed a sacrifice.",
+   "derivation": "Religious realia: a fidicina (lyre-girl) was hired to provide music during a domestic sacrifice (rem divinam). Anchored to Periphanes + play; short answer supported verbatim.",
+   "category": "religio"
+  },
+  {
+   "locus": "Plautus, Epidicus 479",
+   "source_text": "quin tu huc producis fidicinam Acropolistidem?",
+   "question": "Quo nomine appellatur fidicina quam Stratippocles amabat et quam miles sibi emere voluit apud Plautum in Epidico?",
+   "answer": "Acropolistis.",
+   "question_en": "What is the name of the music-girl whom Stratippocles loved and whom the soldier wanted to buy for himself in Plautus' Epidicus?",
+   "answer_en": "Acropolistis.",
+   "derivation": "The music-girl at the center of the plot: Acropolistis, loved by Stratippocles, bought via the first deception, and sought by the soldier. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 465-466",
+   "source_text": "ego illam volo hodie facere libertam meam, mihi concubina quae sit.",
+   "question": "Quid miles de fidicina Acropolistide, si eam emisset, facere volebat apud Plautum in Epidico?",
+   "answer": "Eam libertam ac concubinam suam facere.",
+   "question_en": "What did the soldier want to do with the music-girl Acropolistis, had he bought her, in Plautus' Epidicus?",
+   "answer_en": "To make her his freedwoman and concubine.",
+   "derivation": "Realia of the music-girl as property: the soldier means to buy her, free her, and keep her as his concubine. Anchored to the soldier + Acropolistis + play; short answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Epidicus 23-24 (argumentum)",
+   "source_text": "compressae ac militis cognoscit opera sibi senex os sublitum.",
+   "question": "Quorum duorum opera Periphanes senex tandem cognoscit sibi os sublitum esse apud Plautum in Epidico?",
+   "answer": "Compressae et militis.",
+   "question_en": "By whose two agencies does the old man Periphanes at last learn he has been tricked in Plautus' Epidicus?",
+   "answer_en": "The seduced woman's and the soldier's.",
+   "derivation": "How the deception unravels: through the soldier (who exposes the false music-girl) and the woman Periphanes once seduced (who exposes the false daughter), the old man learns his face has been wiped (os sublitum). Anchored to the play; two-part answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 542",
+   "source_text": "Plane hicine est, qui mihi in Epidauro primus pudicitiam pepulit.",
+   "question": "Quo in loco Periphanes olim Philippae pauperculae pudicitiam abstulerat apud Plautum in Epidico?",
+   "answer": "Epidauri.",
+   "question_en": "In what place had Periphanes long ago taken the virginity of the poor girl Philippa in Plautus' Epidicus?",
+   "answer_en": "At Epidaurus.",
+   "derivation": "The backstory of the recognition: Periphanes as a young man seduced Philippa at Epidaurus, begetting the daughter now found. Anchored to Periphanes + Philippa + play; one-place answer verbatim (in Epidauro).",
+   "category": "geographia"
+  },
+  {
+   "locus": "Plautus, Epidicus 709",
+   "source_text": "ex Philippa matre natam Thebis, Epidauri satam?",
+   "question": "Quo nomine vocatur mater Telestidis, filiae Periphanis, apud Plautum in Epidico?",
+   "answer": "Philippa.",
+   "question_en": "What is the name of the mother of Telestis, Periphanes' daughter, in Plautus' Epidicus?",
+   "answer_en": "Philippa.",
+   "derivation": "The mother in the recognition plot: Philippa, whom Periphanes seduced at Epidaurus and who bore his daughter Telestis at Thebes. Anchored to the named characters + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 568",
+   "source_text": "iube Telestidem huc prodire filiam ante aedis meam, ut suam videat matrem.",
+   "question": "Quo nomine vocatur filia Periphanis quae in fine cum matre Philippa recognoscitur apud Plautum in Epidico?",
+   "answer": "Telestis.",
+   "question_en": "What is the name of Periphanes' daughter who is reunited with her mother Philippa at the end of Plautus' Epidicus?",
+   "answer_en": "Telestis.",
+   "derivation": "The freeborn daughter at the heart of the recognition: Telestis, the captive whom Stratippocles had bought. Anchored to Periphanes + Philippa + play; one-name answer verbatim.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 22-23 (argumentum)",
+   "source_text": "Dat erili argentum. eo sororem destinat imprudens iuvenis.",
+   "question": "Quae necessitudo inter Stratippoclem iuvenem et captivam quam adamaverat tandem reperta est apud Plautum in Epidico?",
+   "answer": "Soror eius erat.",
+   "question_en": "What relationship between the young Stratippocles and the captive girl he had fallen in love with is discovered at the end of Plautus' Epidicus?",
+   "answer_en": "She was his sister.",
+   "derivation": "The incest-averted recognition, the play's central twist: the captive Telestis whom Stratippocles bought and loved turns out to be his own half-sister. Anchored to Stratippocles + play; short answer supported verbatim (sororem).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Plautus, Epidicus 604",
+   "source_text": "abi modo intro atque hanc asserva Circam Solis filiam.",
+   "question": "Cuius dei filia erat Circa, cui Periphanes fidicinam dolosam apud Plautum in Epidico comparat?",
+   "answer": "Solis.",
+   "question_en": "Of which god was Circe the daughter, to whom Periphanes likens the wily music-girl in Plautus' Epidicus?",
+   "answer_en": "The Sun's (Sol).",
+   "derivation": "Myth as shared story: Circe the enchantress was the daughter of the Sun (Sol/Helios). Periphanes brands the deceitful girl a 'Circe, daughter of the Sun.' Anchored to the named myth + play; one-name answer verbatim.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Plautus, Epidicus 638-640",
+   "source_text": "Non meministi me auream ad te afferre natali die lunulam atque anellum aureolum in digitum?",
+   "question": "Quae aurea dona Epidicus Telestidi olim natali die attulisse se meminit apud Plautum in Epidico?",
+   "answer": "Lunulam et anellum aureum.",
+   "question_en": "What golden gifts does Epidicus recall having once brought to Telestis on her birthday in Plautus' Epidicus?",
+   "answer_en": "A little golden crescent (lunula) and a gold ring.",
+   "derivation": "Recognition-tokens and birthday-gift realia: the golden lunula (crescent amulet) and a gold ring given to the child on her birthday, by which Epidicus proves he knows Telestis. Anchored to Epidicus + Telestis + play; short answer supported verbatim.",
+   "category": "mores"
+  },
+  {
+   "locus": "Plautus, Epidicus 726-730",
+   "source_text": "soccos, tunicam, pallium tibi dabo. Quid deinde porro? Libertatem. at ob eam rem liber esto.",
+   "question": "Quod praemium Epidicus servus, filia domino inventa, a Periphane in fine fabulae accipit apud Plautum in Epidico?",
+   "answer": "Libertatem.",
+   "question_en": "What reward does the slave Epidicus receive from Periphanes at the end of the play, after finding his master's daughter, in Plautus' Epidicus?",
+   "answer_en": "His freedom (manumission).",
+   "derivation": "The canonical ending: Epidicus is manumitted as reward, given a freedman's outfit and set free. Manumission-as-reward realia; anchored to Epidicus + Periphanes + play; one-word answer supported verbatim (libertatem... liber esto).",
+   "category": "ius"
+  },
+  {
+   "locus": "Plautus, Epidicus 807 (poeta)",
+   "source_text": "Hic is homo est qui libertatem malitia invenit sua.",
+   "question": "Qua re Epidicus servus libertatem adeptus esse a poeta in extremo Epidici Plauti dicitur?",
+   "answer": "Malitia sua.",
+   "question_en": "By what means does the poet, at the very end of Plautus' Epidicus, say the slave Epidicus won his freedom?",
+   "answer_en": "By his own roguery.",
+   "derivation": "The epilogue's summing-up of the arch clever slave: this is the man who found his freedom by his own knavery (malitia). Anchored to Epidicus + play; short answer verbatim.",
+   "category": "ludi"
+  }
+ ]}
