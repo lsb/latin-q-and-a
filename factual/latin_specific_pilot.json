@@ -1,0 +1,150 @@
+{
+ "source": "text/cicero/orator.txt; text/vergil/aen8.txt; text/vergil/aen1.txt",
+ "author": "Cicero; Vergil (pilot)",
+ "work": "Latin-specific pilot: prose rhythm (Cicero, Orator) and scansion (Vergil)",
+ "pairs": [
+  {
+   "locus": "Cicero, Orator 212",
+   "source_text": "Insistit autem ambitus modis pluribus, e quibus unum est secuta Asia maxime, qui dichoreus vocatur, cum duo extremi chorei sunt, id est e singulis longis et brevibus.",
+   "question": "Quo nomine appellatur clausula illa duobus choreis extremis constans, quam Asiani maxime secuti sunt, ut Cicero in Oratore docet?",
+   "answer": "Dichoreus.",
+   "question_en": "What is the name of the clausula made of two trochees at the close, which the Asianists most favored, as Cicero teaches in the Orator?",
+   "answer_en": "The dichoreus (double trochee).",
+   "derivation": "Cicero's doctrine of the clausula (the rhythmic close of a period). Latin-specific: the dichoreus is defined purely by the quantities of the final syllables, so the fact cannot survive translation into a language without Latin metrical quantity. Closed-book for any reader of Cicero's rhetorica; entity-anchored to Cicero + the Asianist clausula.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 214",
+   "source_text": "Patris dictum sapiens temeritas fili comprobavit—hoc dichoreo tantus clamor contionis excitatus est, ut admirabile esset.",
+   "question": "Quo numero commotum est ut contio, Carbone dicente 'patris dictum sapiens temeritas fili comprobavit', tanto clamore proruperit, ut Cicero refert?",
+   "answer": "Dichoreo.",
+   "question_en": "By what rhythm was the assembly moved to burst into so great a shout when Carbo said 'patris dictum sapiens temeritas fili comprobavit', as Cicero reports?",
+   "answer_en": "By the dichoreus (the double-trochee close).",
+   "derivation": "The famous anecdote of the audience shouting at Carbo's clausula. Latin-specific: the effect lives in the Latin rhythm of the closing double trochee and cannot be reproduced in translation. Culturally salient as a stock example in the Roman rhetorical tradition.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 189",
+   "source_text": "Incidere vero omnis in orationem etiam ex hoc intellegi potest, quod versus saepe in oratione per imprudentiam dicimus. Est id vehementer vitiosum.",
+   "question": "Quid vehementer vitiosum esse Cicero iudicat, quod oratores in oratione soluta per imprudentiam saepe committunt?",
+   "answer": "Versum dicere.",
+   "question_en": "What does Cicero judge a grave fault, which orators often commit unawares in prose?",
+   "answer_en": "To utter a [full] verse.",
+   "derivation": "Cicero warns that a complete metrical verse slipping into prose is a serious fault. Latin-specific: an accidental verse can only be detected by scanning the Latin quantities, so the fault has no cross-lingual form. Closed-book for a reader of the Orator.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 193",
+   "source_text": "Ita paeana probat eoque ait uti omnis, sed ipsos non sentire cum utantur.",
+   "question": "Quem pedem Aristoteles, ut Cicero in Oratore tradit, orationi solutae aptissimum iudicat, quo oratores etiam nescientes uti dicit?",
+   "answer": "Paeana.",
+   "question_en": "Which foot does Aristotle, as Cicero relates in the Orator, judge most fitting for prose, and which he says orators use even without knowing it?",
+   "answer_en": "The paean.",
+   "derivation": "Cicero reports Aristotle's preference for the paean as the orator's foot. Latin-specific: the paean is a quantitative metrical foot, unrepresentable without Latin (or Greek) quantity. Entity-anchored to Aristotle-via-Cicero.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 218",
+   "source_text": "Est quidem, ut inter omnis constat antiquos, Aristotelem, Theophrastum, Theodectem, Ephorum, unus aptissimus orationi vel orienti vel mediae; putant illi etiam cadenti, quo loco mihi videtur aptior creticus.",
+   "question": "Quo pede Cicero periodum optime claudi censet, cum de clausula cadenti in Oratore disputat?",
+   "answer": "Cretico.",
+   "question_en": "With which foot does Cicero hold a period is best closed, discussing the falling clausula in the Orator?",
+   "answer_en": "With the cretic.",
+   "derivation": "Against those who prefer the paean at the close, Cicero prefers the creticus for the clausula. Latin-specific: a preference among quantitative feet, meaningless without Latin metre. Closed-book for a reader of Cicero's rhetorica.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 215",
+   "source_text": "Nam et creticus, qui est e longa et brevi et longa, et eius aequalis paean, qui spatio par est, syllaba longior.",
+   "question": "Ex quibus syllabis creticus pes, quem Cicero in clausulis probat, constat?",
+   "answer": "Ex longa, brevi, longa.",
+   "question_en": "Of which syllables is the cretic foot, which Cicero approves in clausulae, composed?",
+   "answer_en": "Of a long, a short, and a long.",
+   "derivation": "The definition of the cretic foot. Latin-specific: it is a pattern of long and short syllable quantities, which has no meaning in a language without such quantity. Short-answer and verifiable from the quoted definition.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 192",
+   "source_text": "Quod longe Aristoteli videtur secus, qui iudicat heroum numerum grandiorem quam desideret soluta oratio.",
+   "question": "Quem numerum Aristoteles, ut apud Ciceronem legitur, grandiorem esse iudicat quam ut eum soluta oratio desideret?",
+   "answer": "Heroum.",
+   "question_en": "Which number does Aristotle, as read in Cicero, judge too grand for prose to require?",
+   "answer_en": "The heroic (dactylic hexameter) number.",
+   "derivation": "Aristotle-via-Cicero holds the heroic (dactylic) rhythm too grand for prose. Latin-specific: 'heroum numerum' names the dactylic hexameter rhythm, a quantitative pattern. Entity-anchored, closed-book for a rhetoric reader.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 189",
+   "source_text": "senarios vero et Hipponacteos effugere vix possumus; magnam enim partem ex iambis nostra constat oratio.",
+   "question": "Cuius pedis magna ex parte orationem cotidianam constare Cicero adfirmat, eo quod sermoni proximus sit?",
+   "answer": "Iambi.",
+   "question_en": "Of which foot does Cicero affirm that ordinary speech largely consists, as nearest to conversation?",
+   "answer_en": "The iamb.",
+   "derivation": "Cicero notes that a great part of ordinary speech falls into iambs, which is why iambic verses slip in unawares. Latin-specific: it concerns the quantitative make-up of Latin speech. Closed-book for a reader of the Orator.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 211",
+   "source_text": "transferenda tota dictio est ad illa quae nescio cur, cum Graeci kommata et kola nominent, nos non recte incisa et membra dicamus.",
+   "question": "Quibus Latinis vocabulis Cicero Graeca illa 'kommata' et 'kola' in Oratore reddidit?",
+   "answer": "Incisis et membris.",
+   "question_en": "By which Latin words did Cicero render the Greek 'kommata' and 'kola' in the Orator?",
+   "answer_en": "By 'incisa' and 'membra'.",
+   "derivation": "Cicero coins the Latin rhetorical terms incisum (comma) and membrum (colon) for the Greek. Latin-specific: the fact is about the Latin technical words themselves, which do not survive translation. Closed-book for a reader of Latin rhetoric.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 218",
+   "source_text": "Dochmius autem e quinque syllabis, brevi, duabus longis, brevi, longa, ut est hoc: amicos tenes.",
+   "question": "Ex quot syllabis constat dochmius ille, cuius exemplum Cicero 'amicos tenes' adfert?",
+   "answer": "Ex quinque.",
+   "question_en": "Of how many syllables is the dochmius composed, for which Cicero gives the example 'amicos tenes'?",
+   "answer_en": "Of five.",
+   "derivation": "The dochmius is a five-syllable metrical unit (short, two longs, short, long). Latin-specific: a quantitative pattern anchored to Cicero's own example. Short-answer and verifiable from the quoted text.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Cicero, Orator 188",
+   "source_text": "Ita fit aequalis dactylus, duplex iambus, sesquiplex paean.",
+   "question": "Quem pedem Cicero 'aequalem' vocat, cum pedes secundum rationem temporum in aequalem, duplicem, sesquiplicem dividat?",
+   "answer": "Dactylum.",
+   "question_en": "Which foot does Cicero call 'equal', when he divides feet by their time-ratio into equal, double, and one-and-a-half?",
+   "answer_en": "The dactyl.",
+   "derivation": "Cicero classes feet by the ratio of their parts: the dactyl is 'equal' (its long equals its two shorts in time), the iamb 'double', the paean 'sesquiplex'. Latin-specific: a fact about quantitative time-ratios. Verifiable from the quoted sentence.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Vergil, Aeneis 8.617",
+   "source_text": "quadripedante putrem sonitu quatit ungula campum.",
+   "question": "In illo Vergilii versu 'quadripedante putrem sonitu quatit ungula campum', quem sonum numerus dactylicus imitatur?",
+   "answer": "Equi currentis ungularum sonitum.",
+   "question_en": "In Vergil's line 'quadripedante putrem sonitu quatit ungula campum', what sound does the dactylic rhythm imitate?",
+   "answer_en": "The beat of a galloping horse's hooves.",
+   "derivation": "The rushing dactyls of the line enact the sound of galloping hooves (onomatopoeia). Latin-specific: the imitation lives in the Latin metrical rhythm and is lost in any prose or non-quantitative rendering. One of the most celebrated sound-effects in Latin verse.",
+   "category": "lingua",
+   "track": "latin-specific"
+  },
+  {
+   "locus": "Vergil, Aeneis 1.534",
+   "source_text": "Hic cursus fuit,",
+   "question": "Quo modo insignis est ille Aeneidos versus qui verbis 'Hic cursus fuit' constat?",
+   "answer": "Est versus imperfectus (hemistichium).",
+   "question_en": "In what way is the line of the Aeneid consisting of the words 'Hic cursus fuit' remarkable?",
+   "answer_en": "It is an incomplete verse (a half-line).",
+   "derivation": "One of the metrically incomplete lines (tibicines / hemistichia) Vergil left in the Aeneid. Latin-specific: the incompleteness is a fact of the Latin hexameter, detectable only by scanning; a translation shows nothing amiss. Culturally salient as the famous 'half-lines of the Aeneid'.",
+   "category": "lingua",
+   "track": "latin-specific"
+  }
+ ]
+}
