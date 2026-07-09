@@ -1,0 +1,352 @@
+{"source":"text/macrobius/sat2.txt","author":"Macrobius","work":"Saturnalia, liber II","provenance":"LacusCurtius (penelope.uchicago.edu), ed. L. von Jan (1852)","pairs":[
+{
+"locus": "Macrobius, Saturnalia 2.1",
+"source_text": "Quis item nescit consularem eum scurram ab inimicis appellari solitum? quod in oratione etiam sua Vatinius posuit.",
+"question": "Quo probroso cognomine Ciceronem inimici, ut Vatinius in oratione sua posuit, appellare solebant?",
+"answer": "Consularem scurram.",
+"question_en": "By what abusive nickname did his enemies habitually call Cicero, as Vatinius even set down in his own speech?",
+"answer_en": "'The consular buffoon.'",
+"derivation": "Cicero's enemies dubbed him 'consularis scurra' for his relentless wit; Vatinius put it in a speech. Anchored to Cicero and Vatinius; short fixed phrase, supported verbatim. Ambient knowledge of Cicero's reputation as a jester.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.1",
+"source_text": "nec Crassum illum quem Cicero auctore Lucilio semel in vita risisse scribit magnopere mirari.",
+"question": "Quotiens in tota vita risisse Crassum Cicero, auctore Lucilio, apud Macrobium scribit?",
+"answer": "Semel.",
+"question_en": "How many times in his whole life does Cicero, on Lucilius' authority, write (in Macrobius) that that Crassus laughed?",
+"answer_en": "Once.",
+"derivation": "The proverbial fact that Crassus 'Agelastus' laughed but once in his life, Cicero reporting it from Lucilius. Anchored to Crassus; single-number answer, supported verbatim. Culturally salient commonplace of the man who never laughed.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Atque ibi rex contemplatione tanti et tam ornati exercitus gloriabundus Hannibalem aspicit et: Putasne, inquit, satis esse Romanis haec omnia? Tunc Poenus eludens ignaviam inbelliamque militum eius pretiose armatorum: Plane, inquit, satis esse credo Romanis haec, etsi avarissimi sunt.",
+"question": "Apud quem regem exsul Hannibal, ostentante illo exercitum pretiose armatum, iocatus est ea Romanis satis fore, quamvis avarissimis?",
+"answer": "Apud Antiochum.",
+"question_en": "At whose court did the exile Hannibal, when the king showed off his richly-armed army, jest that it would be 'enough for the Romans, greedy as they are'?",
+"answer_en": "At King Antiochus'.",
+"derivation": "Hannibal, a refugee at Antiochus' court, turned the king's question about his lavish army into a jibe on Roman greed for plunder. Anchored to Hannibal and Antiochus; single-name answer, supported verbatim. Celebrated banquet-wit anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Sacrificium apud veteres fuit quod vocabatur propter viam. In eo mos erat ut, si quid ex epulis superfuisset, igne consumeretur.",
+"question": "In sacrificio quod veteres 'propter viam' vocabant, quid de epulis, si quid superfuisset, fieri mos erat?",
+"answer": "Igne consumebatur.",
+"question_en": "In the sacrifice the ancients called 'propter viam', what was customarily done with any food left over from the feast?",
+"answer_en": "It was consumed by fire.",
+"derivation": "The old Roman 'propter viam' sacrifice required leftover food to be burnt. Anchored to the named rite; short factual answer, supported verbatim. A specific Roman cult custom (the setup for Cato's jest).",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Mater M. Bruti, Servilia, cum pretiosum aere parvo fundum abstulisset a Caesare subiciente hastae bona civium, non effugit dictum tale Ciceronis.",
+"question": "Cuius mater fuit Servilia, quae fundum pretiosum aere parvo a Caesare emit, ut apud Macrobium narratur?",
+"answer": "Marci Bruti.",
+"question_en": "Whose mother was Servilia, who bought a costly estate cheaply from Caesar, as told in Macrobius?",
+"answer_en": "Marcus Brutus'.",
+"derivation": "Servilia, Caesar's mistress, was the mother of M. Brutus. Anchored via the named woman; single-name relation answer, supported verbatim. Salient late-Republican genealogy.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Filia autem Serviliae erat Iunia Tertia eademque C. Cassii uxor, lasciviente dictatore tam in matrem quam in puellam.",
+"question": "Cuius uxor erat Iunia Tertia, filia Serviliae, ut apud Macrobium refertur?",
+"answer": "Gaii Cassii.",
+"question_en": "Whose wife was Iunia Tertia, daughter of Servilia, as reported in Macrobius?",
+"answer_en": "Gaius Cassius'.",
+"derivation": "Iunia Tertia, Servilia's daughter, was the wife of C. Cassius the tyrannicide. Anchored via the named woman; single-name relation answer, supported verbatim. Salient late-Republican genealogy.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Post Mutinensem fugam quaerentibus, quid ageret Antonius, respondisse familiaris eius ferebatur: Quod canis in Aegypto: bibit et fugit: quando in illis regionibus constat canes raptu crocodilorum exterritos currere et bibere.",
+"question": "Cur canes in Aegypto, ut apud Macrobium refertur, e flumine currentes bibunt?",
+"answer": "Metu crocodilorum.",
+"question_en": "Why do dogs in Egypt, as reported in Macrobius, drink from the river while running?",
+"answer_en": "For fear of crocodiles.",
+"derivation": "The ancient commonplace (used to mock Antony's flight from Mutina) that Egyptian dogs drink on the run for fear of crocodiles. Anchored to Egypt; short causal answer, supported verbatim. A culturally shared proverb (cf. Phaedrus, Pliny).",
+"category": "proverbium"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Demosthenes excitatus ad Laidis famam, cuius formam tunc Graecia mirabatur, accessit, ut et ipse famoso amore potiretur. Qui ubi dimidium talentum unius pretium noctis audivit, discessit.",
+"question": "Quantum pretium unius noctis meretrix Lais a Demosthene poposcit, ut apud Macrobium narratur?",
+"answer": "Dimidium talentum.",
+"question_en": "What price for a single night did the courtesan Lais demand of Demosthenes, as told in Macrobius?",
+"answer_en": "Half a talent.",
+"derivation": "The famous anecdote: Lais asked Demosthenes half a talent for one night, and he left saying he would not buy regret so dearly. Anchored to Demosthenes and Lais; short answer, supported verbatim. Culturally salient Greek anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Marcus, inquit, Otacilius Pitholaus, cum Caninius Revilus uno tantum die consul fuisset, dixit: Ante flamines, nunc consules diales fiunt.",
+"question": "Quot dies Caninius Rebilus consulatum gessit, unde tot ioci nati sunt?",
+"answer": "Unum diem.",
+"question_en": "For how many days did Caninius Rebilus hold the consulship, giving rise to so many jokes?",
+"answer_en": "One day.",
+"derivation": "Caninius Rebilus was consul for a single day (31 Dec 45 BC), a byword mocked by many. Anchored to the named consul; single-number answer, supported verbatim. Celebrated late-Republican fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.2",
+"source_text": "Adfero ad vos, inquit, distichon Platonis, quo ille adulescens luserit, cum tragoediis quoque eadem aetate praeluderet.",
+"question": "In quem puerum Plato adulescens distichon amatorium lusit, ut Horus apud Macrobium refert?",
+"answer": "In Agathonem.",
+"question_en": "On which youth did the young Plato compose an amatory couplet, as Horus reports in Macrobius?",
+"answer_en": "On Agathon.",
+"derivation": "The tradition that the young Plato wrote love-epigrams (here the couplet on kissing Agathon) before turning to philosophy. Anchored to Plato; single-name answer, supported by the quoted distich. Culturally salient literary anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "Idem cum Lentulum generum suum, exiguae naturae hominem, longo gladio adcinctum vidisset: Quis, inquit, generum meum ad gladium alligavit?",
+"question": "Quem generum suum, hominem exiguae staturae longo gladio accinctum, Cicero interrogavit quis eum 'ad gladium alligasset'?",
+"answer": "Lentulum.",
+"question_en": "Which son-in-law of his, a man of small stature girt with a long sword, did Cicero ask who had 'tied him to a sword'?",
+"answer_en": "Lentulus.",
+"derivation": "One of Cicero's most famous jests, at his short son-in-law Lentulus wearing an oversized sword. Anchored to Cicero and Lentulus; single-name answer, supported verbatim. Celebrated Ciceronian bon mot.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "vidisset clypeatam imaginem eius ingentibus lineamentis usque ad pectus ex more pictam (erat autem Quintus ipse staturae parvae), ait: Frater meus dimidius maior est quam totus.",
+"question": "De cuius fratris imagine clypeata, ingentibus lineamentis picta, Cicero iocatus est 'dimidius maior est quam totus'?",
+"answer": "De Quinto fratre.",
+"question_en": "About which brother's shield-portrait, painted in huge outlines, did Cicero joke 'my half-brother is bigger than the whole'?",
+"answer_en": "About his brother Quintus.",
+"derivation": "Cicero mocked the outsized bust-portrait of his short brother Quintus in the province Quintus had governed. Anchored to Cicero and Quintus; single-name answer, supported verbatim. A famous Ciceronian jest.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "In consulatu Vatinii, quem paucis diebus gessit, notabilis Ciceronis urbanitas circumferebatur. Magnum ostentum, inquit, anno Vatinii factum est, quod illo consule nec bruma nec ver nec aestas nec autumnus fuit.",
+"question": "Quam brevi tempore Vatinius consulatum gessit, unde Cicero iocatus est illo consule nullam fuisse anni tempestatem?",
+"answer": "Paucis diebus.",
+"question_en": "For how short a time did Vatinius hold the consulship, prompting Cicero to jest that in his year there was no season at all?",
+"answer_en": "For a few days.",
+"derivation": "Vatinius' consulship lasted only a few days, which Cicero mocked ('no winter, spring, summer, or autumn'). Anchored to Vatinius; short answer, supported verbatim. Famous Ciceronian jest at a suffect consulship.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "Propter quae merito videbatur dixisse Pompeius: Cupio ad hostes Cicero transeat, ut nos timeat.",
+"question": "Quis dux, facetiarum Ciceronis inpatiens, dixisse fertur 'cupio ad hostes Cicero transeat, ut nos timeat'?",
+"answer": "Pompeius.",
+"question_en": "Which general, impatient of Cicero's wit, is said to have declared 'I wish Cicero would cross over to the enemy, so that he might fear us'?",
+"answer_en": "Pompey.",
+"derivation": "Pompey, worn down by Cicero's jesting in his camp, wished him over to the enemy. Anchored to Pompey and Cicero; single-name answer, supported verbatim. Culturally salient civil-war anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "Deinde interroganti Pompeio, ubi gener eius Dolabella esset, respondit: Cum socero tuo.",
+"question": "Cuius gener erat Dolabella, de quo Pompeius apud Ciceronem quaesivit, ut apud Macrobium refertur?",
+"answer": "Ciceronis.",
+"question_en": "Whose son-in-law was Dolabella, about whom Pompey asked Cicero, as reported in Macrobius?",
+"answer_en": "Cicero's.",
+"derivation": "Dolabella was Cicero's son-in-law (husband of Tullia); Cicero quipped he was 'with your father-in-law' (Caesar). Anchored to Cicero and Dolabella; single-name relation, supported verbatim. Salient civil-war genealogy.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "adeo ut Sylla tamquam providus dixerit Pompeio: Cave tibi illum puerum male praecinctum.",
+"question": "De quo iuvene male praecincto Sulla providus Pompeium monuit 'cave tibi illum puerum male praecinctum'?",
+"answer": "De Caesare.",
+"question_en": "About which young man, loosely girt, did Sulla prophetically warn Pompey, 'beware that ill-girt boy'?",
+"answer_en": "About Caesar.",
+"derivation": "Sulla's famous warning about the young Caesar, who wore his toga loosely belted. Anchored to Sulla, Pompey, and Caesar; single-name answer, supported verbatim. Celebrated prophetic anecdote (cf. Suetonius).",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "cum Laberius in fine ludorum anulo aureo honoratus a Caesare e vestigio in quattuordecim ad spectandum transiit violato ordine, et cum detrectatus est eques Romanus.",
+"question": "Cui ordini primae quattuordecim theatri gradus, in quos Laberius aureo anulo donatus transiit, reservabantur?",
+"answer": "Equitibus Romanis.",
+"question_en": "To which order were the first fourteen rows of the theater, into which Laberius moved once given the gold ring, reserved?",
+"answer_en": "To the Roman knights (equites).",
+"derivation": "The first fourteen rows in the theater were reserved for the equites (lex Roscia theatralis); Laberius, given the gold ring, moved there. Anchored to the seating institution and Laberius; short answer, supported in context. Ambient Roman theater custom.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 2.3",
+"source_text": "ut hoc est ex epistola ad C. Cassium dictatoris violatorem: Vellem Idibus Martiis me ad coenam invitasses, profecto reliquiarum nihil fuisset.",
+"question": "Quibus Idibus, secundum Ciceronis epistolam ad Cassium apud Macrobium relatam, dictator Caesar occisus est?",
+"answer": "Idibus Martiis.",
+"question_en": "On which Ides, according to Cicero's letter to Cassius reported in Macrobius, was the dictator Caesar slain?",
+"answer_en": "On the Ides of March.",
+"derivation": "Cicero's letter to Cassius ('the dictator's violator') alludes to the Ides of March killing and wishes Antony too had died ('no leftovers'). Anchored to Cassius and Caesar; date answer, supported verbatim. The most salient date in Roman history.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.4",
+"source_text": "Aiacem tragoediam scripserat, eandemque, quod sibi displicuisset, deleverat. Postea L. Varius tragoediarum scriptor interrogabat eum, quid ageret Aiax suus. Et ille: In spongiam, inquit, incubuit.",
+"question": "Quam tragoediam Augustus scripserat, deinde, quod sibi displicuisset, delevit, iocatus eam 'in spongiam incubuisse'?",
+"answer": "Aiacem.",
+"question_en": "Which tragedy had Augustus written and then, because it displeased him, erased, joking that it 'fell on its sponge'?",
+"answer_en": "Ajax.",
+"derivation": "Augustus wrote a tragedy Ajax and wiped it out, quipping (on Ajax's suicide by the sword) that it 'fell on its sponge.' Anchored to Augustus; single-title answer, supported verbatim. Culturally salient literary anecdote (cf. Suetonius).",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.4",
+"source_text": "Cum audisset inter pueros quos in Syria Herodes rex Iudaeorum intra bimatum iussit interfici filium quoque eius occisum, ait: Melius est Herodis porcum esse quam filium.",
+"question": "De quo rege Iudaeorum Augustus iocatus est 'melius est eius porcum esse quam filium'?",
+"answer": "De Herode.",
+"question_en": "About which king of the Jews did Augustus joke 'it is better to be his pig than his son'?",
+"answer_en": "About Herod.",
+"derivation": "Augustus' celebrated pun (Greek hys/huios, pig/son) that under Herod, who spared no boys under two, it was safer to be his pig than his son. Anchored to Herod; single-name answer, supported verbatim. Famous imperial witticism.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.4",
+"source_text": "Intraverat Romam simillimus Caesari et in se omnium ora converterat. Augustus perduci ad se hominem iussit, visumque hoc modo interrogavit: Dic mihi, adolescens, fuit aliquando mater tua Romae? Negavit ille, nec contentus adiecit: Sed pater meus saepe.",
+"question": "Quid provincialis Augusto simillimus respondit, cum princeps interrogasset num mater eius aliquando Romae fuisset?",
+"answer": "Matrem numquam, sed patrem saepe.",
+"question_en": "How did the provincial who closely resembled Augustus answer, when the emperor asked whether his mother had ever been at Rome?",
+"answer_en": "That his mother never had, but his father often.",
+"derivation": "The celebrated riposte turning the emperor's insinuation of illegitimacy back on him. Anchored to Augustus and the look-alike; short two-part answer, supported verbatim. One of the best-known jests made at Augustus.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.4",
+"source_text": "Temporibus triumviralibus Pollio, cum Fescenninos in eum Augustus scripsisset, ait: At ego taceo. Non est enim facile in eum scribere qui potest proscribere.",
+"question": "Quis, cum Augustus in eum Fescenninos versus scripsisset, respondit 'non est facile in eum scribere qui potest proscribere'?",
+"answer": "Asinius Pollio.",
+"question_en": "Who, when Augustus had written Fescennine verses against him, replied 'it is not easy to write against a man who can proscribe'?",
+"answer_en": "Asinius Pollio.",
+"derivation": "Asinius Pollio's famous retort declining a lampoon-duel with the triumvir who held the power of proscription. Anchored to Pollio and Augustus; single-name answer, supported verbatim. Salient triumviral-era saying.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.4",
+"source_text": "Sublimis Actiaca victoria revertebatur. Occurrit ei inter gratulantes corvum tenens, quem instituerat haec dicere: Ave, Caesar victor imperator.",
+"question": "Quibus verbis corvus, post Actiacam victoriam Augusto oblatus, salutare doctus erat?",
+"answer": "Ave, Caesar victor imperator.",
+"question_en": "With what words had the raven, presented to Augustus after the victory at Actium, been trained to greet him?",
+"answer_en": "'Hail, Caesar, victorious commander.'",
+"derivation": "The trained raven that greeted the returning victor of Actium (its owner kept a spare hailing Antony). Anchored to Augustus and Actium; short fixed phrase, supported verbatim. Celebrated Augustan anecdote.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 2.5",
+"source_text": "Itaque inter amicos dixit duas habere se filias delicatas, quas necesse haberet ferre, rem publicam et Iuliam.",
+"question": "Quas duas 'filias delicatas', quas ferre necesse haberet, Augustus inter amicos se habere dixit?",
+"answer": "Rem publicam et Iuliam.",
+"question_en": "Which two 'wayward daughters', whom he had to put up with, did Augustus say among friends that he had?",
+"answer_en": "The republic and Julia.",
+"derivation": "Augustus' bon mot pairing his troublesome daughter Julia with the republic. Anchored to Augustus; short two-part answer, supported verbatim. Famous imperial witticism.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.6",
+"source_text": "Lapidatus a populo Vatinius, cum gladiatorium munus ederet, optinuerat ut aediles edicerent, ne quis in arenam nisi pomum misisse vellet.",
+"question": "Quid solum in arenam iaci liceret, ex edicto aedilium quod Vatinius post lapidationem sui muneris impetravit?",
+"answer": "Pomum.",
+"question_en": "What alone was permitted to be thrown into the arena, by the aediles' edict that Vatinius obtained after being stoned at his own show?",
+"answer_en": "Fruit.",
+"derivation": "After the crowd pelted Vatinius at his gladiatorial games, he got the aediles to forbid throwing anything but fruit into the arena. Anchored to Vatinius and the munus; short answer, supported verbatim. Vivid Roman spectacle custom.",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 2.6",
+"source_text": "In Galbam eloquentia clarum, sed quem habitus corporis destruebat, M. Lollii vox circumferebatur: Ingenium Galbae male habitat.",
+"question": "De cuius oratoris ingenio, quod deformi corpore inhabitabat, M. Lollius dixit 'ingenium eius male habitat'?",
+"answer": "De Galbae.",
+"question_en": "About which orator's talent, lodged in a deformed body, did Marcus Lollius say 'his talent is badly housed'?",
+"answer_en": "About Galba's.",
+"derivation": "Galba was famed for eloquence but physically misshapen; Lollius' quip plays on the mismatch. Anchored to Galba and Lollius; single-name answer, supported verbatim. Salient character-anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.6",
+"source_text": "Quid amplius, inquit, mihi facturus es, nisi ut Dyrrhachium eam et redeam? ludens ad Ciceronis exilium.",
+"question": "Ad quam urbem, quo Cicero in exilium ierat, Laberius alludens respondit se posse tantum ire et redire?",
+"answer": "Dyrrhachium.",
+"question_en": "To which city, where Cicero had gone into exile, did Laberius allude in answering that he could only go and return?",
+"answer_en": "Dyrrhachium.",
+"derivation": "Laberius' jibe at Clodius (who had driven Cicero into exile) turns on Cicero's exile at Dyrrhachium. Anchored to Cicero's exile and Clodius; single place answer, supported verbatim. Salient political-history fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.7",
+"source_text": "Laberium asperae libertatis equitem Romanum Caesar quingentis milibus invitavit ut prodiret in scenam et ipse ageret mimos quos scriptitabat.",
+"question": "Quanta pecunia Caesar Laberium, equitem Romanum, invitavit ut in scenam prodiret et mimos suos ipse ageret?",
+"answer": "Quingentis milibus sestertium.",
+"question_en": "With what sum did Caesar induce Laberius, a Roman knight, to go on stage and act his own mimes?",
+"answer_en": "With 500,000 sesterces.",
+"derivation": "Caesar pressed the eques Laberius, with 500,000 sesterces, to demean himself by acting his own mimes. Anchored to Caesar and Laberius; number answer, supported verbatim. Salient episode of theatrical infamia.",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 2.7",
+"source_text": "et paulo post adiecit: Necesse est multos timeat quem multi timent. Quo dicto universitas populi ad solum Caesarem oculos et ora convertit.",
+"question": "Quo Laberii versu de scena pronuntiato universus populus ad solum Caesarem oculos convertit?",
+"answer": "Necesse est multos timeat quem multi timent.",
+"question_en": "At which line spoken by Laberius from the stage did the whole people turn their eyes toward Caesar alone?",
+"answer_en": "'He whom many fear must fear many.'",
+"derivation": "Laberius' pointed line, which the audience took as aimed at Caesar. Anchored to Laberius and Caesar; short fixed maxim, supported verbatim. Culturally salient proverb and theater anecdote.",
+"category": "proverbium"
+},
+{
+"locus": "Macrobius, Saturnalia 2.7",
+"source_text": "Is Publius, natione Syrus. productus Romae per Caesaris ludos, omnes qui tunc scripta et operas suas in scenam locaverant provocavit, ut singuli secum posita invicem materia pro tempore contenderent. Nec ullo recusante superavit omnes, in quis et Laberium.",
+"question": "Quis mimographus, natione Syrus, per Caesaris ludos omnes scriptores scenicos, in quis et Laberium, certamine superavit?",
+"answer": "Publius Syrus.",
+"question_en": "Which writer of mimes, a Syrian by birth, defeated all the stage-writers, including Laberius, in a contest at Caesar's games?",
+"answer_en": "Publilius Syrus.",
+"derivation": "Publilius Syrus, a Syrian, beat every rival playwright including Laberius at Caesar's games. Anchored to Publilius and Caesar's games; single-name answer, supported verbatim. Origin of the famous Publilian sententiae.",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 2.7",
+"source_text": "non Pylades histrio nobis omittendus est, qui clarus in opere suo fuit temporibus Augusti et Hylam discipulum usque ad aequalitatis contentionem eruditione provexit.",
+"question": "Quis pantomimus, temporibus Augusti clarus, Hylam discipulum usque ad aemulationem sui eruditione provexit?",
+"answer": "Pylades.",
+"question_en": "Which pantomime, famous in the time of Augustus, trained his pupil Hylas up to rivalry with himself?",
+"answer_en": "Pylades.",
+"derivation": "Pylades, the celebrated Augustan pantomime, taught the rival Hylas. Anchored to the age of Augustus and to Hylas; single-name answer, supported verbatim. Foundational fact of Roman pantomime history.",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 2.7",
+"source_text": "Hic, quia ferebatur mutasse rudis illius saltationis ritum, quae apud maiores viguit, et venustam induxisse novitatem, interrogatus ab Augusto, quae saltationi contulisset.",
+"question": "Quis pantomimus rudem illum saltationis ritum maiorum mutasse et venustam novitatem induxisse ferebatur?",
+"answer": "Pylades.",
+"question_en": "Which pantomime was said to have changed the rough old style of dancing of the ancestors and introduced an elegant new form?",
+"answer_en": "Pylades.",
+"derivation": "Pylades was credited with reforming the crude old pantomime into the refined Augustan art. Anchored to Pylades and Augustus; single-name answer, supported verbatim. Salient fact of theater history (distinct from his training of Hylas).",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 2.8",
+"source_text": "de secunda mensa placentas removit. Significant autem bellaria omne mensae secundae genus.",
+"question": "Quo uno nomine veteres Romani omne mensae secundae genus appellabant, ut ex Varrone apud Macrobium refertur?",
+"answer": "Bellaria.",
+"question_en": "By what single name did the old Romans call every kind of second-course dish, as reported from Varro in Macrobius?",
+"answer_en": "Bellaria (sweets/dessert).",
+"derivation": "The Roman term for all second-course fare (what the Greeks called pemmata or tragemata) was 'bellaria.' Anchored to Varro's usage; single-term answer, supported verbatim. Ambient Roman dining vocabulary.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 2.8",
+"source_text": "qui in illa lepidissima satira Menippea, quae inscribitur Nescis quid vesper vehat, de secunda mensa placentas removit.",
+"question": "Quo titulo inscribitur Varronis satira Menippea de conviviis, quam Macrobius citat?",
+"answer": "Nescis quid vesper vehat.",
+"question_en": "By what title is Varro's Menippean satire on dinner-parties, which Macrobius cites, inscribed?",
+"answer_en": "'Nescis quid vesper vehat' ('You know not what the evening may bring').",
+"derivation": "Varro's Menippean satire on banqueting bears the title 'Nescis quid vesper vehat.' Anchored to Varro; short title answer, supported verbatim. Salient literary fact (a lost Varronian work).",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 2.8",
+"source_text": "Socrates quidem dicebat multos homines propterea velle vivere ut ederent et biberent, se bibere atque esse ut viveret.",
+"question": "Quis philosophus dicere solebat multos vivere ut ederent et biberent, se autem edere et bibere ut viveret?",
+"answer": "Socrates.",
+"question_en": "Which philosopher used to say that many men live in order to eat and drink, but he ate and drank in order to live?",
+"answer_en": "Socrates.",
+"derivation": "The famous Socratic maxim contrasting living-to-eat with eating-to-live. Anchored to Socrates; single-name answer, supported verbatim. Culturally salient saying.",
+"category": "proverbium"
+}
+]}

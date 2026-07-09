@@ -1,0 +1,562 @@
+{"source":"text/macrobius/sat3.txt","author":"Macrobius","work":"Saturnalia, liber III","provenance":"LacusCurtius (penelope.uchicago.edu), ed. L. von Jan (1852)","pairs":[
+{
+"locus": "Macrobius, Saturnalia 3.2",
+"source_text": "quod postridie Nonas Iulias re bene gesta, cum pridie populus a Tuscis in fugam versus sit, unde Populifugia vocantur.",
+"question": "A qua gente populus Romanus in fugam versus est, unde festum 'Populifugia' nomen accepit, ut apud Macrobium refertur?",
+"answer": "A Tuscis.",
+"question_en": "By which people was the Roman people routed, whence the festival 'Populifugia' took its name, as reported in Macrobius?",
+"answer_en": "By the Etruscans (Tusci).",
+"derivation": "The Populifugia commemorates the day the Roman people fled before the Etruscans. Anchored to the named festival; single answer, supported verbatim. A Roman festival Ovid's Fasti (ending in June) never reaches.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.4",
+"source_text": "Nigidius enim de dis libro nono decimo requirit, num di Penates sint Troianorum Apollo et Neptunus, qui muros eis fecisse dicuntur, et num eos in Italiam Aeneas advexerit. Cornelius quoque Labeo de dis Penatibus eadem existimat.",
+"question": "Quos duos deos, qui muros Troiae fecisse dicuntur, Nigidius et Cornelius Labeo Penates Troianorum esse existimabant?",
+"answer": "Apollinem et Neptunum.",
+"question_en": "Which two gods, said to have built the walls of Troy, did Nigidius and Cornelius Labeo hold to be the Trojan Penates?",
+"answer_en": "Apollo and Neptune.",
+"derivation": "Nigidius and Labeo identified the Trojan Penates with Apollo and Neptune, the builders of Troy's walls. Anchored to the named authorities; two-name answer, supported verbatim. A specific antiquarian identification.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.4",
+"source_text": "Varro Humanarum secundo Dardanum refert deos Penates ex Samothrace in Phrygiam, et Aeneam ex Phrygia in Italiam detulisse.",
+"question": "Ex qua insula Dardanus deos Penates in Phrygiam detulisse traditur, antequam Aeneas eos in Italiam ferret, ut Varro apud Macrobium refert?",
+"answer": "Ex Samothrace.",
+"question_en": "From what island is Dardanus said to have brought the Penates into Phrygia, before Aeneas carried them to Italy, as Varro reports in Macrobius?",
+"answer_en": "From Samothrace.",
+"derivation": "Varro traced the Penates' journey: Dardanus from Samothrace to Phrygia, Aeneas from Phrygia to Italy. Anchored to Dardanus and the Penates; single place answer, supported verbatim. Salient origin-lore of the Penates.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.4",
+"source_text": "adeo ut et consules et praetores seu dictatores, cum adeunt magistratum, Lavinii rem divinam faciant Penatibus pariter et Vestae.",
+"question": "In quo oppido consules, praetores et dictatores, cum magistratum inirent, Penatibus et Vestae rem divinam faciebant?",
+"answer": "Lavinii.",
+"question_en": "In which town did consuls, praetors, and dictators, on entering office, perform sacrifice to the Penates and Vesta?",
+"answer_en": "At Lavinium.",
+"derivation": "Roman magistrates on taking office sacrificed at Lavinium to the Penates and Vesta. Anchored to the magistracies and the rite; single place answer, supported verbatim. Distinctive Roman civic-religious custom.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.5",
+"source_text": "hostiarum genera esse duo, unum in quo voluntas dei per exta disquiritur, alterum in quo sola anima deo sacratur, unde etiam haruspices animales has hostias vocant.",
+"question": "Quo nomine haruspices eas hostias appellant quarum sola anima deo sacratur, non exta consuluntur?",
+"answer": "Animales.",
+"question_en": "By what name do the haruspices call those victims whose life alone is consecrated to the god, and whose entrails are not consulted?",
+"answer_en": "Animales (life-victims).",
+"derivation": "The haruspices distinguished victims whose entrails are inspected from 'animales', whose life alone is offered. Anchored to the haruspices' terminology; single-term answer, supported verbatim. Technical sacrificial category.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.5",
+"source_text": "quaedam sunt quae iniuges vocantur, id est quae numquam domitae aut iugo subditae sunt.",
+"question": "Quo nomine vocantur hostiae quae numquam domitae aut iugo subditae sunt, ut apud Macrobium refertur?",
+"answer": "Iniuges.",
+"question_en": "By what name are victims called that have never been tamed or put under the yoke, as reported in Macrobius?",
+"answer_en": "Iniuges (unyoked victims).",
+"derivation": "'Iniuges' were sacrificial victims never broken to the yoke. Anchored to the sacrificial classification; single-term answer, supported verbatim. Specific pontifical vocabulary.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.5",
+"source_text": "Veranius enim in Pontificalibus quaestionibus docet eximias dictas hostias quae ad sacrificium destinatae eximantur e grege, vel quod eximia specie quasi offerendae numinibus eligantur.",
+"question": "Quo nomine appellantur hostiae quae ad sacrificium e grege eximuntur, ut Veranius apud Macrobium docet?",
+"answer": "Eximiae.",
+"question_en": "By what name are victims called that are taken out of the herd for sacrifice, as Veranius teaches in Macrobius?",
+"answer_en": "Eximiae (choice victims).",
+"derivation": "'Eximiae' victims were those taken out (eximantur) of the herd for sacrifice, or chosen for outstanding appearance. Anchored to Veranius' pontifical term; single-term answer, supported verbatim. Sacerdotal vocabulary.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.5",
+"source_text": "Ambarvalis hostia est, ut ait Pompeius Festus, quae rei divinae causa circum arva ducitur ab his qui pro frugibus faciunt.",
+"question": "Quae hostia, ut Pompeius Festus apud Macrobium docet, circum arva ducitur ab his qui pro frugibus rem divinam faciunt?",
+"answer": "Ambarvalis.",
+"question_en": "Which victim, as Pompeius Festus teaches in Macrobius, is led around the fields by those who sacrifice for the crops?",
+"answer_en": "The ambarvalis (victim of the Ambarvalia).",
+"derivation": "The ambarvalis victim, led around the fields for the crops, gives its name to the Ambarvalia. Anchored to the rite and Festus; single-term answer, supported verbatim. Named Roman agrarian rite.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.5",
+"source_text": "Observatum est a sacrificantibus ut, si hostia quae ad aras duceretur fuisset vehementius reluctata ostendissetque se invitam altaribus admoveri, amoveretur, quia invito deo offerri eam putabant.",
+"question": "Quid sacrificantes faciebant si hostia ad aras ducta vehementius reluctata invitam se ostenderet, ut apud Macrobium refertur?",
+"answer": "Amovebant eam.",
+"question_en": "What did those sacrificing do if a victim led to the altar struggled hard and showed itself unwilling, as reported in Macrobius?",
+"answer_en": "They removed it.",
+"derivation": "A victim that struggled at the altar was taken away, being deemed unwelcome to the god. Anchored to the sacrificial rule; short answer, supported verbatim. Distinctive omen-observance.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.5",
+"source_text": "Ait enim Mezentium Rutulis imperasse ut sibi offerrent quas dis primitias offerebant.",
+"question": "Quas res, dis debitas, Mezentius sibi a Rutulis offerri iussit, unde 'contemptor deorum' a Virgilio dictus est?",
+"answer": "Primitias.",
+"question_en": "What things, owed to the gods, did Mezentius order the Rutuli to offer to himself, whence Vergil called him 'despiser of the gods'?",
+"answer_en": "The first-fruits (primitiae).",
+"derivation": "Cato's Origines explains Mezentius' epithet: he demanded for himself the first-fruits owed to the gods. Anchored to Mezentius and Cato; single-term answer, supported verbatim. The cult-fact behind the famous epithet.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.6",
+"source_text": "esse Deli aram apud quam hostia non caeditur, sed tantum sollemni deum prece venerantur.",
+"question": "In qua insula erat Apollinis ara apud quam nulla hostia caeditur, sed deus sola prece veneratur, ut apud Macrobium refertur?",
+"answer": "Deli.",
+"question_en": "On which island was there an altar of Apollo at which no victim is slain, but the god is worshipped with prayer alone, as reported in Macrobius?",
+"answer_en": "On Delos.",
+"derivation": "The altar of Apollo Genetor on Delos received no blood-offering, only prayer (Pythagoras revered it as unpolluted). Anchored to Delos and Apollo; single place answer, supported verbatim. Distinctive Greek cult fact.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.6",
+"source_text": "Romae autem Victoris Herculis aedes duae sunt, una ad portam Trigeminam, altera in foro Boario.",
+"question": "Quibus duobus locis Romae aedes Herculis Victoris sitae erant, ut Varro apud Macrobium tradit?",
+"answer": "Ad portam Trigeminam et in foro Boario.",
+"question_en": "In which two places at Rome were the temples of Hercules Victor situated, as Varro reports in Macrobius?",
+"answer_en": "At the Porta Trigemina and in the Forum Boarium.",
+"derivation": "Rome had two temples of Hercules Victor, at the Porta Trigemina and in the Forum Boarium. Anchored to the cult and topography; two-place answer, supported verbatim. Concrete Roman sacred topography.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.6",
+"source_text": "Nam propria observatio est in Herculis sacris epulari sedentes: et Cornelius Balbus ait apud aram Maximam observatum ne lectisternium fiat.",
+"question": "Quo corporis habitu epulari mos erat in sacris Herculis apud aram Maximam, ubi lectisternium fieri vetabatur?",
+"answer": "Sedentes.",
+"question_en": "In what posture was it customary to feast in the rites of Hercules at the Ara Maxima, where a lectisternium was forbidden?",
+"answer_en": "Seated.",
+"derivation": "At the Ara Maxima worshippers of Hercules feasted sitting, no couch-ritual (lectisternium) allowed. Anchored to the Ara Maxima; short answer, supported verbatim. Distinctive cult observance.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.6",
+"source_text": "praecepisse Herculem, ne quid postea ipsi aut progenies ipsorum ex decima gustarent sacranda sibi, sed ministrandi tantummodo causa, non ad epulas, convenirent.",
+"question": "Quid Hercules Pinarios eorumque progeniem ex decima sibi sacrata facere vetuit, ut apud Macrobium refertur?",
+"answer": "Ex ea gustare.",
+"question_en": "What did Hercules forbid the Pinarii and their offspring to do with the tithe consecrated to him, as reported in Macrobius?",
+"answer_en": "To taste (eat) of it.",
+"derivation": "Because the Pinarii arrived late, Hercules barred them and their line from ever tasting the tithe, leaving them only to serve. Anchored to the Pinarii and the Ara Maxima; short answer, supported verbatim. Aetiology of the Pinarii's subordinate role.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.7",
+"source_text": "Purpureo aureove colore ovis ariesve si aspergetur, principi ordinis et generis summa cum felicitate largitatem auget, genus progeniem propagat in claritate laetioremque efficit.",
+"question": "Cui, secundum libros Etruscos apud Macrobium, felicitatem portendit aries purpureo aut aureo colore infectus?",
+"answer": "Principi.",
+"question_en": "To whom, according to the Etruscan books in Macrobius, does a ram tinged purple or gold portend good fortune?",
+"answer_en": "To the ruler.",
+"derivation": "Etruscan divination (Tarquitius' Ostentarium Tuscum) held that a ram born purple or golden foretold supreme fortune for the ruler. Anchored to the Etruscan books; short answer, supported verbatim. Etruscan prodigy-lore.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.7",
+"source_text": "cum cetera sacra violari nefas sit, hominem sacrum ius fuerit occidi.",
+"question": "Quid de homine sacro ius erat facere, cum cetera sacra violari nefas esset, ut apud Macrobium refertur?",
+"answer": "Occidere eum.",
+"question_en": "What was it lawful to do to a 'sacred man' (homo sacer), though violating other sacred things was forbidden, as reported in Macrobius?",
+"answer_en": "To kill him.",
+"derivation": "A homo sacer, devoted to the gods, could lawfully be killed, his soul owed to the gods. Anchored to the legal-religious concept; short answer, supported verbatim. The famous 'homo sacer' rule.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 3.8",
+"source_text": "Philochorus quoque in Atthide eandem adfirmat esse lunam, et ei sacrificium facere viros cum veste muliebri, mulieres cum virili, quod eadem et mas aestimatur et femina.",
+"question": "Quo habitu viri et mulieres Veneri Cypriae, quam et marem et feminam putabant, sacrificabant, ut Philochorus apud Macrobium refert?",
+"answer": "Viri veste muliebri, mulieres virili.",
+"question_en": "In what dress did men and women sacrifice to the Cyprian Venus, thought both male and female, as Philochorus reports in Macrobius?",
+"answer_en": "Men in women's clothing, women in men's.",
+"derivation": "At the rite of the bearded Cyprian Venus (Aphroditos), held both male and female, men wore women's dress and women men's. Anchored to the cult and Philochorus; short two-part answer, supported verbatim. Distinctive gender-inversion rite.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.8",
+"source_text": "Romani quoque pueros et puellas nobiles et investes camillos et camillas appellant, flaminicarum et flaminum praeministros.",
+"question": "Quo nomine Romani pueros et puellas nobiles appellabant qui flaminibus et flaminicis in sacris ministrabant?",
+"answer": "Camillos et camillas.",
+"question_en": "What did the Romans call the noble boys and girls who served the flamens and flaminicae in the rites?",
+"answer_en": "Camilli and camillae.",
+"derivation": "Noble, unmarried boys and girls who assisted the flamens and flaminicae were called camilli and camillae. Anchored to the priestly service; short term answer, supported verbatim. Named Roman cult-attendant role.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.9",
+"source_text": "moremque Romanorum archanum et multis ignotum fuisse ut, cum obsiderent urbem hostium eamque iam capi posse confiderent, certo carmine evocarent tutelares deos.",
+"question": "Quid Romani, certo carmine, ex urbe hostium quam obsidebant facere solebant, ut apud Macrobium refertur?",
+"answer": "Tutelares deos evocabant.",
+"question_en": "What did the Romans, with a set formula, do concerning the enemy city they were besieging, as reported in Macrobius?",
+"answer_en": "They called out its tutelary gods (evocatio).",
+"derivation": "The secret Roman rite of evocatio: summoning out the tutelary gods of a besieged city before capturing it. Anchored to the Roman custom; short answer, supported verbatim. A striking, culturally salient rite.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.9",
+"source_text": "Nam propterea ipsi Romani et deum in cuius tutela urbs Roma est et ipsius urbis Latinum nomen ignotum esse voluerunt.",
+"question": "Quae duo Romani ignota esse voluerunt, ne hostes ea evocatione uterentur, ut apud Macrobium refertur?",
+"answer": "Deum tutelarem urbis et Latinum urbis nomen.",
+"question_en": "Which two things did the Romans want to remain unknown, lest enemies use them in an evocatio, as reported in Macrobius?",
+"answer_en": "The name of the city's tutelary god and Rome's secret Latin name.",
+"derivation": "Rome hid both its tutelary deity's name and the city's secret Latin name, fearing an enemy evocatio. Anchored to the Roman custom; two-part answer, supported verbatim. Famous arcane Roman practice.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.9",
+"source_text": "Est autem carmen huiusmodi quo di evocantur, cum oppugnatione civitas cingitur: SI DEUS SI DEA EST CUI POPULUS CIVITASQUE CARTHAGINIENSIS EST IN TUTELA.",
+"question": "Quibus verbis, incerto numinis sexu, incipit carmen quo Romani deos ex urbe hostium evocabant?",
+"answer": "Si deus si dea est.",
+"question_en": "With what words, leaving the deity's sex uncertain, does the formula begin by which the Romans called the gods out of an enemy city?",
+"answer_en": "'Whether god or goddess' (si deus si dea est).",
+"derivation": "The evocatio formula opened 'si deus si dea est,' addressing the tutelary power without presuming its sex. Anchored to the evocatio; short fixed phrase, supported verbatim. The prompt's 'proper way to name a deity.'",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.9",
+"source_text": "Urbes vero exercitusque sic devoventur iam numinibus evocatis, sed dictatores imperatoresque soli possunt devovere his verbis.",
+"question": "Qui soli, evocatis iam numinibus, urbes et exercitus hostium devovere poterant, ut apud Macrobium refertur?",
+"answer": "Dictatores et imperatores.",
+"question_en": "Who alone, once the gods had been called out, could 'devote' enemy cities and armies, as reported in Macrobius?",
+"answer_en": "Only dictators and commanders (imperatores).",
+"derivation": "The devotio of an enemy city and army could be performed only by dictators and commanders. Anchored to the rite; short answer, supported verbatim. Restriction on a powerful Roman rite.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.9",
+"source_text": "TUNC QUISQUIS HOC VOTUM FAXIT UBI FAXIT RECTE FACTUM ESTO OVIBUS ATRIS TRIBUS.",
+"question": "Quot et cuius coloris ovibus votum devotionis rite fieri debebat, ut carmen apud Macrobium praescribit?",
+"answer": "Tribus ovibus atris.",
+"question_en": "With how many sheep, and of what color, was the vow of devotio to be duly performed, as the formula in Macrobius prescribes?",
+"answer_en": "With three black sheep.",
+"derivation": "The devotio was to be validly performed with three black sheep. Anchored to the formula; short numeric-and-color answer, supported verbatim. Concrete ritual specification.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.9",
+"source_text": "Cum Tellurem dicit, manibus terram tangit: cum Iovem dicit, manus ad caelum tollit: cum votum recipere dicit, manibus pectus tangit.",
+"question": "Quid faciebat qui devotionem pronuntiabat, cum Tellurem nominaret, ut apud Macrobium refertur?",
+"answer": "Manibus terram tangebat.",
+"question_en": "What did the one pronouncing the devotio do when he named Tellus (Earth), as reported in Macrobius?",
+"answer_en": "He touched the earth with his hands.",
+"derivation": "In the devotio, at the word 'Tellus' the officiant touched the ground (raising hands to heaven at 'Jupiter'). Anchored to the ritual; short gesture answer, supported verbatim. Distinctive ritual gesture.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.9",
+"source_text": "In antiquitatibus autem haec oppida inveni devota; Stonios Fregellas Gavios Veios Fidenas, haec intra Italiam, praeterea Carthaginem et Corinthum.",
+"question": "Quae duae urbes clarae extra Italiam, praeter oppida Italica, inter devotas apud Macrobium numerantur?",
+"answer": "Carthago et Corinthus.",
+"question_en": "Which two famous cities outside Italy, besides the Italian towns, are counted among the 'devoted' in Macrobius?",
+"answer_en": "Carthage and Corinth.",
+"derivation": "Macrobius lists among devoted cities, beyond Italian towns, Carthage and Corinth. Anchored to the record of devotiones; two-name answer, supported verbatim. Salient instances of the rite.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.10",
+"source_text": "Cuius verba ex libro primo de iure sacrificiorum haec sunt: Itaque Iovi tauro verre ariete immolari non licet.",
+"question": "Cui deo, secundum Atteium Capitonem apud Macrobium, tauro, verre et ariete immolari non licet?",
+"answer": "Iovi.",
+"question_en": "To which god, according to Ateius Capito in Macrobius, is it not permitted to sacrifice with a bull, boar, or ram?",
+"answer_en": "To Jupiter.",
+"derivation": "Ateius Capito: it is unlawful to sacrifice a bull, boar, or ram to Jupiter. Anchored to Jupiter and the authority; single-name answer, supported verbatim. Specific rule on victims.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.10",
+"source_text": "Labeo vero sexagesimo et octavo libro intulit nisi Neptuno Apollini et Marti taurum non immolari.",
+"question": "Quibus tribus dis solis, secundum Labeonem apud Macrobium, taurus immolatur?",
+"answer": "Neptuno, Apollini, Marti.",
+"question_en": "To which three gods alone, according to Labeo in Macrobius, is a bull sacrificed?",
+"answer_en": "To Neptune, Apollo, and Mars.",
+"derivation": "Labeo: the bull is sacrificed only to Neptune, Apollo, and Mars. Anchored to the three gods and the authority; fixed triad answer, supported verbatim. Specific victim-to-deity rule.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.11",
+"source_text": "Vinum autem Cereri non libari debuit illum vel Plautus docere, qui in Aulularia ait: Cererin', Strobile, hi sunt facturi nuptias? Quia temeti nihil adlatum video.",
+"question": "Cui deae vinum libari non debere Plautus in Aulularia et Macrobius docent?",
+"answer": "Cereri.",
+"question_en": "To which goddess ought no wine to be offered, as Plautus in the Aulularia and Macrobius teach?",
+"answer_en": "To Ceres.",
+"derivation": "Wine (temetum) was excluded from Ceres' rites, as Plautus' Aulularia attests. Anchored to Ceres; single-name answer, supported verbatim. Specific libation taboo.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.11",
+"source_text": "quod a. d. duodecimum Kalendas Ianuarias Herculi et Cereri faciunt sue praegnate panibus mulso.",
+"question": "Quibus duobus dis, ante diem duodecimum Kalendas Ianuarias, sue praegnante cum panibus et mulso sacrificatur, ut apud Macrobium refertur?",
+"answer": "Herculi et Cereri.",
+"question_en": "To which two deities is sacrifice made on the twelfth day before the Kalends of January, with a pregnant sow, bread, and mead, as reported in Macrobius?",
+"answer_en": "To Hercules and Ceres.",
+"derivation": "On a.d. XII Kal. Ian. (21 December) a pregnant sow was offered to Hercules and Ceres with bread and mead. Anchored to the date; two-name answer, supported verbatim. A December rite beyond Ovid's Fasti.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.12",
+"source_text": "Nam et Salios Herculi dedit, quos tantum Marti dicavit antiquitas.",
+"question": "Cui deo soli antiquitas Salios sacerdotes dicaverat, ut apud Macrobium refertur?",
+"answer": "Marti.",
+"question_en": "To which god alone had antiquity dedicated the Salii priests, as reported in Macrobius?",
+"answer_en": "To Mars.",
+"derivation": "The Salii were the priesthood of Mars. Anchored to the priesthood; single-name answer, supported verbatim. Well-known Roman priestly institution.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.12",
+"source_text": "Testatur enim Terentius Varro maiores solitos decimam Herculi vovere, nec decem dies intermittere quin pollucerent.",
+"question": "Quam partem quaestus maiores Herculi vovere solebant, ut Varro apud Macrobium testatur?",
+"answer": "Decimam.",
+"question_en": "What portion of their gains did the ancestors customarily vow to Hercules, as Varro attests in Macrobius?",
+"answer_en": "A tenth (a tithe).",
+"derivation": "It was Roman custom to vow a tenth (decima) of one's gains to Hercules. Anchored to Hercules and the custom; short answer, supported verbatim. Ambient Roman religious practice.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.13",
+"source_text": "Primus hos Q. Hortensius augurali coena posuisse dicitur, quod potius factum tum luxuriose quam severe boni viri laudabant.",
+"question": "Quis primus pavones augurali coena apposuisse dicitur, ut Varro apud Macrobium refert?",
+"answer": "Q. Hortensius.",
+"question_en": "Who is said to have first served peacocks at an augural banquet, as Varro reports in Macrobius?",
+"answer_en": "Quintus Hortensius.",
+"derivation": "Q. Hortensius first served peacock, at an augural dinner. Anchored to Hortensius; single-name answer, supported verbatim. Salient origin of a luxury-food fashion.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.15",
+"source_text": "Hic est Sergius Orata qui primus balneas pensiles habuit, primus ostrearia in Baiano locavit, primus optimum saporem ostreis Lucrinis adiudicavit.",
+"question": "Quis primus ostrearia in Baiano loco instituit et ostreis Lucrinis optimum saporem adiudicavit?",
+"answer": "Sergius Orata.",
+"question_en": "Who first established oyster-beds at Baiae and judged the Lucrine oysters best in flavor?",
+"answer_en": "Sergius Orata.",
+"derivation": "Sergius Orata pioneered oyster-cultivation at Baiae and prized the Lucrine oysters. Anchored to Orata; single-name answer, supported verbatim. Salient food-culture fact.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.15",
+"source_text": "tamen murenam in piscina domus suae mortuam atratus tamquam filiam luxit.",
+"question": "Quod animal mortuum orator L. Crassus, veste atrata, tamquam filiam luxit, ut apud Macrobium refertur?",
+"answer": "Murenam.",
+"question_en": "What dead creature did the orator L. Crassus, in mourning black, weep for as if for a daughter, as reported in Macrobius?",
+"answer_en": "A lamprey (murena).",
+"derivation": "The orator L. Crassus mourned a dead lamprey in his fishpond like a daughter. Anchored to Crassus; single answer, supported verbatim. Famous anecdote of Roman fish-fancying.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 3.15",
+"source_text": "quos Murenas cognominatos, quod hoc pisce effusissime delectati sint, satis constat.",
+"question": "Ex quo pisce familia Liciniorum cognomen 'Murenae' accepit, ut apud Macrobium refertur?",
+"answer": "Ex murena.",
+"question_en": "From which fish did the Licinii take the cognomen 'Murena', as reported in Macrobius?",
+"answer_en": "From the lamprey (murena).",
+"derivation": "The Licinii Murenae took their cognomen from their delight in the lamprey. Anchored to the family and fish; single answer, supported verbatim. A cognomen-origin fact.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 3.13",
+"source_text": "porcum Troianum mensis inferant, quem illi ideo sic vocabant, quasi aliis inclusis animalibus gravidum, ut ille Troianus equus gravidus armatis fuit.",
+"question": "Quo nomine appellabatur porcus aliis animalibus intus inclusis fartus, ad similitudinem equi Troiani, ut apud Macrobium refertur?",
+"answer": "Porcus Troianus.",
+"question_en": "By what name was a pig stuffed with other animals inside called, on the analogy of the Trojan horse, as reported in Macrobius?",
+"answer_en": "The 'porcus Troianus' (Trojan pig).",
+"derivation": "The 'porcus Troianus' was a pig stuffed with other animals, named for the Trojan horse full of armed men. Anchored to the dish and the analogy; short name answer, supported verbatim. Salient luxury dish.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.14",
+"source_text": "Is est Roscius qui etiam L. Syllae carissimus fuit et anulo aureo ab eodem dictatore donatus est.",
+"question": "A quo dictatore Roscius histrio anulo aureo donatus est, ut apud Macrobium refertur?",
+"answer": "A Sulla.",
+"question_en": "By which dictator was the actor Roscius presented with a gold ring, as reported in Macrobius?",
+"answer_en": "By Sulla.",
+"derivation": "The famous actor Roscius received a gold ring (an equestrian honor) from the dictator Sulla. Anchored to Roscius and Sulla; single-name answer, supported verbatim. Salient fact of theater history.",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 3.14",
+"source_text": "Aesopum vero ex pari arte ducenties sestertium reliquisse filio constat.",
+"question": "Quantam pecuniam Aesopus histrio filio reliquisse constat, ut apud Macrobium refertur?",
+"answer": "Ducenties sestertium.",
+"question_en": "How much money is it agreed the actor Aesopus left to his son, as reported in Macrobius?",
+"answer_en": "Twenty million sesterces.",
+"derivation": "The tragic actor Aesopus left his son 20 million sesterces (ducenties sestertium). Anchored to Aesopus; number answer, supported verbatim. Striking fact of the stage's rewards.",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 3.15",
+"source_text": "Accersebantur autem murenae ad piscinas nostrae urbis ab usque freto Siculo, quod Rhegium a Messana dispescit. Illic enim optimae a prodigis esse creduntur.",
+"question": "Ex quo freto optimae murenae Romam ad piscinas accersebantur, ut apud Macrobium refertur?",
+"answer": "Ex freto Siculo.",
+"question_en": "From which strait were the best lampreys fetched to the fishponds at Rome, as reported in Macrobius?",
+"answer_en": "From the Sicilian strait (between Rhegium and Messana).",
+"derivation": "The finest lampreys came from the Sicilian strait dividing Rhegium from Messana. Anchored to the fish and place; geographic answer, supported verbatim. Salient gastronomic geography.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.15",
+"source_text": "Lucullus Philippus et Hortensius, quos Cicero piscinarios appellat.",
+"question": "Quo nomine Cicero Lucullum, Philippum et Hortensium propter piscinas suas appellabat?",
+"answer": "Piscinarios.",
+"question_en": "By what name did Cicero call Lucullus, Philippus, and Hortensius on account of their fishponds?",
+"answer_en": "Piscinarii (fishpond-fanciers).",
+"derivation": "Cicero dubbed the fishpond-loving nobles Lucullus, Philippus, and Hortensius 'piscinarii.' Anchored to Cicero and the named men; single-term answer, supported verbatim. Salient tag for aristocratic luxury.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 3.15",
+"source_text": "Auctor est Plinius C. Caesarem dictatorem, cum triumphales coenas populo daret, sex milia murenarum a Gavio Hirro ad pondus accepisse.",
+"question": "Quot murenas C. Caesar dictator, triumphales coenas daturus, a Gavio Hirro accepit, ut Plinius apud Macrobium tradit?",
+"answer": "Sex milia.",
+"question_en": "How many lampreys did the dictator Caesar receive from Gavius Hirrus for his triumphal banquets, as Pliny reports in Macrobius?",
+"answer_en": "Six thousand.",
+"derivation": "For his triumphal feasts Caesar got 6,000 lampreys (by weight) from Gavius Hirrus. Anchored to Caesar and Hirrus; number answer, supported verbatim. Striking luxury-scale fact.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.16",
+"source_text": "Asinius Celer, vir consularis, ut idem Sammonicus refert, mullum unum septem milibus nummum mercatus est.",
+"question": "Quanto pretio Asinius Celer, vir consularis, unum mullum mercatus est, ut apud Macrobium refertur?",
+"answer": "Septem milibus nummum.",
+"question_en": "For what price did Asinius Celer, a man of consular rank, buy a single mullet, as reported in Macrobius?",
+"answer_en": "For seven thousand sesterces.",
+"derivation": "The consular Asinius Celer paid 7,000 sesterces for one mullet. Anchored to Asinius Celer; number answer, supported verbatim. Notorious instance of fish-luxury.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.16",
+"source_text": "Nam Optanus praefectus classis, sciens scarum adeo Italicis litoribus ignotum ut nec nomen Latinum eius piscis habeamus, incredibilem scarorum multitudinem vivariis navibus huc advectam inter Hostiam et Campaniae litus in mare sparsit.",
+"question": "Quem piscem, litoribus Italicis antea ignotum, praefectus classis in mare inter Ostiam et Campaniam sparsit, ut apud Macrobium refertur?",
+"answer": "Scarum.",
+"question_en": "Which fish, previously unknown to Italian shores, did a fleet-prefect scatter into the sea between Ostia and Campania, as reported in Macrobius?",
+"answer_en": "The scarus (parrot-wrasse).",
+"derivation": "A fleet-prefect stocked the sea off Italy with the scarus, a fish so foreign it had no Latin name. Anchored to the fish and the act; single answer, supported verbatim. Remarkable fish-culture fact.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.16",
+"source_text": "inter eos, ut supra dixi, praecipuum locum lupus tenuit, et quidem is qui inter duos pontes captus esset.",
+"question": "Quo loco captus lupus Tiberinus praecipui saporis habebatur, ut apud Macrobium refertur?",
+"answer": "Inter duos pontes.",
+"question_en": "Caught in what spot was the Tiber bass (lupus) reckoned of choicest flavor, as reported in Macrobius?",
+"answer_en": "Between the two bridges.",
+"derivation": "The most prized Tiber bass was the one caught 'inter duos pontes' (between the two bridges). Anchored to the fish and location; short answer, supported verbatim. Ambient Roman gastronomic lore.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.16",
+"source_text": "quippe qui, dignatione vestra cum intersum convivio sacro, animadvertam hunc piscem a coronatis ministris cum tibicine introferri.",
+"question": "Quo more piscis acipenser ad mensam inferebatur, ut Sammonicus apud Macrobium testatur?",
+"answer": "A coronatis ministris cum tibicine.",
+"question_en": "In what manner was the sturgeon (acipenser) brought to table, as Sammonicus attests in Macrobius?",
+"answer_en": "By garlanded attendants with a flute-player.",
+"derivation": "The sturgeon was carried in by crowned servants to a flute, like a divine procession. Anchored to the acipenser and Sammonicus; short answer, supported verbatim. Vivid dining-ceremony fact.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Prima autem omnium de coenis lex ad populum Orchia pervenit, quam tulit C. Orchius tribunus plebi de senatus sententia tertio anno quam Cato censor fuerat. summa autem eius praescribebat numerum convivarum.",
+"question": "Quid prima omnium lex sumptuaria de coenis, lex Orchia, praescribebat, ut apud Macrobium refertur?",
+"answer": "Numerum convivarum.",
+"question_en": "What did the first of all sumptuary laws on dinners, the lex Orchia, prescribe, as reported in Macrobius?",
+"answer_en": "The number of guests.",
+"derivation": "The lex Orchia, the earliest dinner-law, capped the number of guests. Anchored to the named law; short answer, supported verbatim. Prime sumptuary-law fact.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Fannia autem etiam sumptibus modum fecit assibus centum: unde a Lucilio poeta festivitatis suae more centussis vocatur.",
+"question": "Ad quot asses lex Fannia sumptum coenae circumscripsit, ut apud Macrobium refertur?",
+"answer": "Ad centum asses.",
+"question_en": "To how many asses did the lex Fannia limit the cost of a dinner, as reported in Macrobius?",
+"answer_en": "To a hundred asses.",
+"derivation": "The lex Fannia set a spending cap of 100 asses (hence Lucilius' nickname 'centussis'). Anchored to the named law; number answer, supported verbatim. Prime sumptuary-law provision.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Eius ferundae duplex fuit causa: prima et potissima, ut universa Italia, non sola urbs, lege sumptuaria teneretur.",
+"question": "Ad quid lex Didia sumptuariam observationem extendit, quae antea solam urbem tenere putabatur?",
+"answer": "Ad universam Italiam.",
+"question_en": "To what did the lex Didia extend the sumptuary restriction, which was thought before to bind only the city?",
+"answer_en": "To all Italy.",
+"derivation": "The lex Didia extended sumptuary law from Rome to all Italy (and penalized guests too). Anchored to the named law; short answer, supported verbatim. Prime sumptuary-law extension.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Post Didiam Licinia lex lata est a P. Licinio Crasso Divite.",
+"question": "A quo lata est lex Licinia sumptuaria, quae post legem Didiam secuta est, ut apud Macrobium refertur?",
+"answer": "A P. Licinio Crasso Divite.",
+"question_en": "By whom was the sumptuary lex Licinia carried, which followed the lex Didia, as reported in Macrobius?",
+"answer_en": "By Publius Licinius Crassus Dives.",
+"derivation": "The lex Licinia sumptuaria was brought by P. Licinius Crassus Dives. Anchored to the named law and sponsor; single-name answer, supported verbatim. Prime sumptuary-law authorship.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Has sequitur lex Cornelia et ipsa sumptuaria, quam tulit Cornelius Sylla dictator.",
+"question": "Quis dictator legem Corneliam sumptuariam tulit, ut apud Macrobium refertur?",
+"answer": "Cornelius Sulla.",
+"question_en": "Which dictator carried the sumptuary lex Cornelia, as reported in Macrobius?",
+"answer_en": "Cornelius Sulla.",
+"derivation": "The lex Cornelia sumptuaria was carried by the dictator Sulla (it lowered food prices rather than curbing magnificence). Anchored to the named law and Sulla; single-name answer, supported verbatim. Prime sumptuary-law authorship.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Illud tamen memorabile de Restione latore ipsius legis fertur, eum quoad vixit foris postea non recoenasse, ne testis fieret contemptae legis quam ipse bono publico pertulisset.",
+"question": "Quis legis sumptuariae lator postea, quoad vixit, foris non cenavit, ne contemptae legis suae testis fieret?",
+"answer": "Antius Restio.",
+"question_en": "Which sponsor of a sumptuary law never again dined out for the rest of his life, lest he witness his own law being flouted?",
+"answer_en": "Antius Restio.",
+"derivation": "Antius Restio, sponsor of a sumptuary law, refused ever to dine out again rather than see his law scorned. Anchored to Restio; single-name answer, supported verbatim. Memorable legislative anecdote.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Cleopatra uxor, quae vinci a Romanis nec luxuria dignaretur, sponsione provocavit insumere se posse in unam coenam sestertium centies.",
+"question": "Quantam pecuniam Cleopatra sponsione se in unam coenam insumere posse contendit, ut apud Macrobium refertur?",
+"answer": "Sestertium centies.",
+"question_en": "How much money did Cleopatra wager she could spend on a single dinner, as reported in Macrobius?",
+"answer_en": "Ten million sesterces.",
+"derivation": "Cleopatra bet Antony she could spend 10 million sesterces (centies sestertium) on one dinner. Anchored to Cleopatra and Antony; number answer, supported verbatim. Famous luxury anecdote.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 3.17",
+"source_text": "Tunc regina adridens fialam poposcit, cui aceti nonnihil acris infudit atque illuc unionem demptum ex aure altera festinabunda demisit, eumque mature dissolutum, uti natura est eius lapidis, absorbuit.",
+"question": "In quo liquore Cleopatra unionem ex aure demptum dissolvit et absorbuit, ut sponsionem vinceret?",
+"answer": "In aceto.",
+"question_en": "In what liquid did Cleopatra dissolve and swallow the pearl taken from her ear, to win her wager?",
+"answer_en": "In vinegar.",
+"derivation": "Cleopatra dissolved a pearl from her earring in vinegar and drank it, winning the bet with Antony. Anchored to Cleopatra; single answer, supported verbatim. Celebrated luxury anecdote.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 3.18",
+"source_text": "Propterea quod qui quondam cum rege potenti, Nomine Alexandro Magno, fera praelia bello In Persas tetulere, suo post inde reventu Hoc genus arboris in praelatis finibus Graiis Disseruere novos fructus mortalibus dantes.",
+"question": "Ex qua terra malum Persicum originem traxit, unde Alexandri milites eam arborem rettulerunt, ut Suevius apud Macrobium refert?",
+"answer": "Ex Perside.",
+"question_en": "From what land did the peach (malum Persicum) originate, whence Alexander's soldiers brought the tree, as Suevius reports in Macrobius?",
+"answer_en": "From Persia.",
+"derivation": "The peach was said to have been brought from Persia (from Alexander's war), whence its name Persicum. Anchored to the fruit; single place answer, supported in the quoted verses. Salient food-origin fact.",
+"category": "cibus"
+},
+{
+"locus": "Macrobius, Saturnalia 3.20",
+"source_text": "Arbores quae inferum deorum avertentiumque in tutela sunt, eas infelices nominant: alternum sanguinem filicem, ficum atram, quaeque bacam nigram nigrosque fructus ferunt, itemque acrifolium, pirum silvaticum, pruscum rubum sentesque quibus portenta prodigiaque mala comburi iubere oportet.",
+"question": "Quo usu adhibebantur 'arbores infelices', quae inferum deorum in tutela erant, ut Tarquitius apud Macrobium docet?",
+"answer": "Portenta prodigiaque comburebantur.",
+"question_en": "For what use were the 'unlucky trees' (arbores infelices), in the tutelage of the underworld gods, employed, as Tarquitius teaches in Macrobius?",
+"answer_en": "Portents and prodigies were burned with them.",
+"derivation": "The 'arbores infelices', sacred to the underworld gods, were the wood for burning prodigies and portents. Anchored to the tree-classification and Tarquitius; short answer, supported verbatim. Distinctive Etruscan-Roman cult rule.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 3.20",
+"source_text": "Nec hoc ignorandum est, ficum solam ex omnibus arboribus non florere.",
+"question": "Quae arbor sola ex omnibus, ut apud Macrobium refertur, non floret?",
+"answer": "Ficus.",
+"question_en": "Which tree alone of all, as reported in Macrobius, does not flower?",
+"answer_en": "The fig.",
+"derivation": "Macrobius notes the fig as the one tree that produces no blossom. Anchored to the tree; single answer, supported verbatim. A piece of shared Roman arboreal lore.",
+"category": "cibus"
+}
+]}
