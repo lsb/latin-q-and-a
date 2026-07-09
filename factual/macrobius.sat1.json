@@ -1,0 +1,1012 @@
+{"source":"text/macrobius/sat1.txt","author":"Macrobius","work":"Saturnalia, liber I","provenance":"LacusCurtius (penelope.uchicago.edu), ed. L. von Jan (1852)","pairs":[
+{
+"locus": "Macrobius, Saturnalia 1.1",
+"source_text": "Saturnalibus apud Vettium Praetextatum Romanae nobilitatis proceres doctique alii congregantur, et tempus sollemniter feriatum deputant colloquio liberali.",
+"question": "Apud quem, Saturnalibus feriatis, proceres nobilitatis Romanae doctique viri ad colloquium liberale in Macrobii Saturnalibus congregantur?",
+"answer": "Apud Vettium Praetextatum.",
+"question_en": "At whose house, during the Saturnalia holidays, do the leaders of the Roman nobility and learned men gather for cultured conversation in Macrobius' Saturnalia?",
+"answer_en": "At Vettius Praetextatus' house.",
+"derivation": "The dramatic frame of the whole work: the dialogue is set during the Saturnalia at the house of Vettius Praetextatus. Anchored to the work and the named host; single-name answer, stated verbatim. Ambient knowledge of any reader of the Saturnalia.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.1",
+"source_text": "Is Albinus res Romanas oratione Graeca scriptitavit.",
+"question": "Qua lingua Aulus Albinus, ut apud Macrobium refertur, res Romanas scriptitavit?",
+"answer": "Graeca.",
+"question_en": "In what language did Aulus Albinus, as reported in Macrobius, write his history of Roman affairs?",
+"answer_en": "In Greek.",
+"derivation": "The anecdote (also in Gellius) that A. Postumius Albinus wrote Roman history in Greek and apologized for his Greek, prompting Cato's rebuke. Anchored to Albinus; single answer, stated verbatim. A well-known literary anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.3",
+"source_text": "Populum autem Romanum ita uti Varro dixit dies singulos annumerare a media nocte ad mediam proximam multis argumentis ostenditur.",
+"question": "A quo temporis puncto ad quod, secundum Varronem apud Macrobium, populus Romanus dies singulos annumerabat?",
+"answer": "A media nocte ad mediam proximam.",
+"question_en": "From what point to what, according to Varro in Macrobius, did the Roman people count each single day?",
+"answer_en": "From midnight to the next midnight.",
+"derivation": "The Roman civil day ran from midnight to midnight (Varro, Rerum Humanarum). Anchored to the Roman people and Varro; verbatim. Framed as Varro's/Macrobius' claim; the technical civil-day definition, not the poetic material Ovid gives.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.3",
+"source_text": "Athenienses autem aliter observare idem Varro in eodem libro scripsit, eosque a solis occasu ad solem iterum occidentem omne id medium tempus unum diem esse dicere.",
+"question": "Quo modo Athenienses, ut Varro apud Macrobium tradit, unum diem metiebantur?",
+"answer": "A solis occasu ad solem iterum occidentem.",
+"question_en": "How did the Athenians, as Varro reports in Macrobius, measure a single day?",
+"answer_en": "From sunset to sunset.",
+"derivation": "Comparative day-reckoning: the Athenians counted the day sunset-to-sunset. Anchored to the Athenians and Varro; short verifiable span, stated verbatim. Ethnographic custom, framed as Varro's report.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.3",
+"source_text": "Babylonios porro aliter; a sole enim exorto ad exortum eiusdem incipientem id spatium unius diei nomine vocare.",
+"question": "A quo ad quod tempus Babylonii, ut Varro apud Macrobium refert, unum diem numerabant?",
+"answer": "A solis ortu ad ortum sequentem.",
+"question_en": "From what to what did the Babylonians, as Varro reports in Macrobius, count one day?",
+"answer_en": "From sunrise to the next sunrise.",
+"derivation": "The Babylonians counted the day sunrise-to-sunrise. Anchored to the Babylonians and Varro; short verifiable span, supported in substance verbatim. Ethnographic custom, framed as Varro's report.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.3",
+"source_text": "Umbros vero unum et eundem diem esse dicere a meridie ad insequentem meridiem.",
+"question": "A quo tempore diei Umbri, ut Varro apud Macrobium tradit, unum eundemque diem computabant?",
+"answer": "A meridie ad insequentem meridiem.",
+"question_en": "From what time of day did the Umbrians, as Varro reports in Macrobius, reckon one and the same day?",
+"answer_en": "From noon to the following noon.",
+"derivation": "The Umbrians counted the day noon-to-noon. Anchored to the Umbrians and Varro; short verifiable span, stated verbatim. Ethnographic custom, framed as Varro's report.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.3",
+"source_text": "et mox suprema tempestas, hoc est diei novissimum tempus, sicut expressum est in duodecim tabulis: SOLIS OCCASUS SUPREMA TEMPESTAS ESTO",
+"question": "Quod diei tempus duodecim tabulae 'supremam tempestatem', id est diei novissimum tempus, esse iubent?",
+"answer": "Solis occasum.",
+"question_en": "What time of day do the Twelve Tables declare to be the 'suprema tempestas', the last part of the day?",
+"answer_en": "Sunset.",
+"derivation": "The Twelve Tables' rule 'solis occasus suprema tempestas esto' fixed sunset as the last valid time of the legal day. Anchored to the Twelve Tables; verbatim quote. Translatable: the fact is that sunset = the last part of the day.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 1.3",
+"source_text": "Illi enim hesperan a stella Hespero dicunt: unde et Hesperia Italia, quod occasui subiecta sit, nominatur.",
+"question": "Quo nomine Italia, quod occasui subiecta sit, apud Macrobium appellatur?",
+"answer": "Hesperia.",
+"question_en": "By what name is Italy called, because it lies toward the sunset, according to Macrobius?",
+"answer_en": "Hesperia.",
+"derivation": "Italy is called Hesperia (from Hesperos, the evening star) because it lies to the west. Anchored to Italy; single-name answer, stated verbatim. Hesperia is ambient poetic knowledge; translatable.",
+"category": "geographia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.5",
+"source_text": "Erant isti philosophi Carneades ex Academia, Diogenes Stoicus, Critolaus Peripateticus.",
+"question": "Quos tres philosophos Athenienses ad senatum Romanum legaverant, ut apud Macrobium narratur?",
+"answer": "Carneadem, Diogenem, Critolaum.",
+"question_en": "Which three philosophers had the Athenians sent as envoys to the Roman senate, as told in Macrobius?",
+"answer_en": "Carneades, Diogenes, and Critolaus.",
+"derivation": "The famous embassy of the three philosophers to Rome (155 BC). Anchored to Athens and the Roman senate; a fixed canonical trio, stated verbatim. Culturally salient episode in the history of philosophy at Rome.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.5",
+"source_text": "Erant isti philosophi Carneades ex Academia, Diogenes Stoicus, Critolaus Peripateticus.",
+"question": "Ad quas sectas philosophicas Carneades, Diogenes et Critolaus, legati Atheniensium, pertinebant?",
+"answer": "Carneades ad Academiam, Diogenes ad Stoicos, Critolaus ad Peripateticos.",
+"question_en": "To which philosophical schools did the Athenian envoys Carneades, Diogenes, and Critolaus belong?",
+"answer_en": "Carneades to the Academy, Diogenes to the Stoics, Critolaus to the Peripatetics.",
+"derivation": "Each of the three envoys headed a different school. Anchored to the named men; verifiable one-to-one mapping, stated verbatim. Ambient knowledge of the philosophical schools.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.5",
+"source_text": "impetratum uti multam remitteret quam civitati eorum fecerat propter Oropi vastationem. Ea multa fuerat talentum fere quingentum.",
+"question": "Propter quam rem multa fere quingentorum talentum Atheniensibus a Romanis imposita erat, ad quam remittendam philosophos legaverunt?",
+"answer": "Propter Oropi vastationem.",
+"question_en": "For what act had a fine of about 500 talents been imposed on the Athenians by the Romans, for the remission of which they sent the philosophers?",
+"answer_en": "For the devastation of Oropus.",
+"derivation": "The fine (about 500 talents) was for sacking Oropus; the embassy sought its remission. Anchored to Athens and Rome; short factual cause, stated verbatim. Historical episode.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.6",
+"source_text": "Tullus Hostilius, rex Romanorum tertius, debellatis Etruscis sellam curulem lictoresque et togam pictam atque praetextam, quae insignia magistratuum Etruscorum erant, primus ut Romae haberentur instituit.",
+"question": "Quis rex Romanorum primus sellam curulem, lictores et togam praetextam, insignia magistratuum Etruscorum, Romae haberi instituit?",
+"answer": "Tullus Hostilius.",
+"question_en": "Which Roman king first instituted the curule chair, lictors, and the toga praetexta at Rome, the insignia of Etruscan magistrates?",
+"answer_en": "Tullus Hostilius.",
+"derivation": "Macrobius credits Tullus Hostilius (3rd king), after conquering the Etruscans, with importing the curule chair, lictors, and praetexta. Anchored to the king and the named insignia; single-name answer, verbatim. Origin of Roman magisterial regalia.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.6",
+"source_text": "quo bello filium suum annos quattuordecim natum, quod hostem manu percusserat, et pro contione laudavit et bulla aurea praetextaque donavit, insigniens puerum ultra annos fortem praemiis virilitatis et honoris.",
+"question": "Quis rex filium suum quattuordecim annorum, quod hostem manu percusserat, bulla aurea et praetexta donavit, unde is puerorum usus manasse dicitur?",
+"answer": "Tarquinius Priscus.",
+"question_en": "Which king rewarded his fourteen-year-old son, for striking down an enemy, with the golden bulla and the praetexta, whence the custom for boys is said to derive?",
+"answer_en": "Tarquinius Priscus.",
+"derivation": "Macrobius derives the boys' bulla and praetexta from Tarquinius Priscus rewarding his young son in the Sabine war. Anchored to the king; single-name answer, verbatim. Origin of a Roman dress custom.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.6",
+"source_text": "ita bulla gestamen erat triumphantium, quam in triumpho prae se gerebant inclusis intra eam remediis quae crederent adversus invidiam valentissima.",
+"question": "Quid triumphantes duces intra bullam, quam in triumpho gerebant, inclusum habebant?",
+"answer": "Remedia adversus invidiam.",
+"question_en": "What did triumphing generals keep enclosed within the bulla they wore in their triumph?",
+"answer_en": "Charms against envy.",
+"derivation": "The bulla worn by triumphing generals held amulets believed powerful against invidia (envy). Anchored to the triumph and the bulla; short phrase answer, stated verbatim. Apotropaic belief, ambient Roman custom.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.6",
+"source_text": "Eique puero postea cognomentum honoris gratia decreto inditum Praetextatus, ob tacendi loquendique in praetextata aetate prudentiam.",
+"question": "Cui puero senatus cognomentum 'Praetextatus' decrevit ob tacendi loquendique in praetextata aetate prudentiam?",
+"answer": "Papirio.",
+"question_en": "On which boy did the senate bestow the cognomen 'Praetextatus' for his discretion in keeping silent and speaking while still of the age to wear the praetexta?",
+"answer_en": "On Papirius.",
+"derivation": "The famous aetiology of the cognomen Praetextatus (also in Gellius): the boy Papirius. Anchored to the senate and the cognomen; single-name answer, verbatim. Well-known Roman anecdote (and the host's own family name).",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.6",
+"source_text": "Actum in senatu dixit, utrum videretur utilius magisque e re publica esse, unusne ut duas uxores haberet, an ut una apud duos nupta esset.",
+"question": "Quid puer Papirius matri percontanti finxit senatum deliberasse, ut apud Macrobium narratur?",
+"answer": "Utrum unus vir duas uxores an una mulier duos viros haberet.",
+"question_en": "What did the boy Papirius pretend to his prying mother that the senate had debated, as told in Macrobius?",
+"answer_en": "Whether one man should have two wives, or one woman two husbands.",
+"derivation": "The clever lie by which Papirius put off his mother, leading to the senate's decree. Anchored to Papirius; short two-part answer, supported verbatim. Classic Roman anecdote.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.6",
+"source_text": "sic Messala tuus, Aviene, dictus a cognomento Valerii Maximi qui, postquam Messanam urbem Siciliae nobilissimam cepit, Messala cognominatus est.",
+"question": "Ex captione cuius urbis Siciliae Valerius Maximus cognomen 'Messala' meruit?",
+"answer": "Messanae.",
+"question_en": "From the capture of which city of Sicily did Valerius Maximus earn the cognomen 'Messala'?",
+"answer_en": "Of Messana.",
+"derivation": "The cognomen Messala commemorates Valerius Maximus' capture of Messana. Anchored to the man and the city; single place-name answer, verbatim. Historical event behind a famous cognomen.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Aes ita fuisse signatum hodieque intellegitur in aleae lusum, cum pueri denarios in sublime iactantes capita aut navia lusu teste vetustatis exclamant.",
+"question": "Quae verba pueri Romani nummos in sublime iactantes in aleae lusu, teste Macrobio, exclamabant?",
+"answer": "Capita aut navia.",
+"question_en": "What words did Roman boys shout when tossing coins in the air in a game, as Macrobius attests?",
+"answer_en": "'Heads or ships.'",
+"derivation": "The Roman coin-toss game (the ancestor of 'heads or tails'), preserving the memory of the old as stamped with Janus's head and a ship. Anchored to the game; short fixed phrase, verbatim. Ambient childhood custom.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "posteri quoque duos eis continuos menses dicarunt, ut December sacrum Saturni, Ianuarius alterius vocabulum possideret.",
+"question": "Quem mensem posteri Saturno sacrum esse voluerunt, ut apud Macrobium traditur?",
+"answer": "Decembrem.",
+"question_en": "Which month did later generations make sacred to Saturn, as recorded in Macrobius?",
+"answer_en": "December.",
+"derivation": "December was dedicated to Saturn (as January to Janus). Anchored to Saturn; single month answer, verbatim. A calendar-religion fact Ovid's Fasti does not reach (it ends in June).",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Observari igitur eum iussit maiestate religionis quasi vitae melioris auctorem: simulacrum eius indicio est, cui falcem, insigne messis, adiecit.",
+"question": "Quod insigne messis simulacro Saturni additum est, ut apud Macrobium legitur?",
+"answer": "Falx.",
+"question_en": "What emblem of harvest was added to the statue of Saturn, as read in Macrobius?",
+"answer_en": "A sickle.",
+"derivation": "Saturn's statue bears the sickle (falx), emblem of the harvest, marking him as author of agriculture. Anchored to Saturn's statue; single-object answer, verbatim. Canonical divine attribute.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "cum propter rerum copiam tum quod nondum quisquam servitio vel libertate discriminabatur: quae res intellegi potest, quod Saturnalibus tota servis licentia permittitur.",
+"question": "Quid Saturnalibus servis permittitur, in memoriam felicitatis regni Saturni, ut Praetextatus apud Macrobium docet?",
+"answer": "Tota licentia.",
+"question_en": "What is granted to slaves during the Saturnalia, in memory of the happiness of Saturn's reign, as Praetextatus teaches in Macrobius?",
+"answer_en": "Full license.",
+"derivation": "The social inversion of the Saturnalia: slaves are given complete license, recalling Saturn's golden age when none was marked off by slavery or freedom. Anchored to the festival; short answer, verbatim. Central Saturnalia custom.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Inde mos per Saturnalia missitandis cereis coepit.",
+"question": "Quae dona per Saturnalia invicem missitari mos coepit, ut Praetextatus apud Macrobium refert?",
+"answer": "Cerei.",
+"question_en": "What gifts did people begin customarily to send one another during the Saturnalia, as Praetextatus reports in Macrobius?",
+"answer_en": "Wax candles (cerei).",
+"derivation": "The Saturnalia custom of exchanging wax candles (cerei), traced to the substitution of lights for human sacrifice. Anchored to the festival; named gift, verbatim. A signature Saturnalia custom.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "cum multi occasione Saturnaliorum per avaritiam a clientibus ambitiose munera exigerent idque onus tenuiores gravaret, Publicius tribunus plebi tulit, non nisi cerei ditioribus missitarentur.",
+"question": "Quis tribunus plebis legem tulit ut ditioribus per Saturnalia non nisi cerei missitarentur?",
+"answer": "Publicius.",
+"question_en": "Which tribune of the plebs carried a law that only wax candles be sent to the wealthy during the Saturnalia?",
+"answer_en": "Publicius.",
+"derivation": "A tribune Publicius legislated against costly Saturnalia gifts, limiting gifts to the rich to mere cerei. Anchored to the named tribune; single-name answer, verbatim. Specific institutional fact.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Nam capitibus alii et papaveris supplicari iussit, ut responso Apollinis satisfieret de nomine capitum, remoto scilicet scelere infaustae sacrificationis.",
+"question": "Quibus rebus Iunius Brutus consul iussit pro humanis capitibus Compitalibus supplicari?",
+"answer": "Capitibus alii et papaveris.",
+"question_en": "With what did the consul Junius Brutus order supplication to be made at the Compitalia in place of human heads?",
+"answer_en": "With heads of garlic and poppy.",
+"derivation": "Brutus replaced the Compitalia's human sacrifice with heads of garlic and poppy, satisfying the oracle's demand 'for heads.' Anchored to Brutus and the Compitalia; short concrete answer, verbatim. Famous humane reform.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Idque aliquamdiu observatum, ut pro familiarium sospitate pueri mactarentur Maniae deae, matri Larum.",
+"question": "Cui deae, matri Larum, olim Compitalibus pro salute familiae pueri mactabantur, ut apud Macrobium narratur?",
+"answer": "Maniae.",
+"question_en": "To which goddess, mother of the Lares, were boys formerly sacrificed at the Compitalia for the household's safety, as told in Macrobius?",
+"answer_en": "To Mania.",
+"derivation": "Before Brutus's reform, boys were sacrificed to Mania, mother of the Lares, for the family's safety. Anchored to the Compitalia and the goddess; single-name answer, verbatim. Cult detail.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.8",
+"source_text": "Aedem vero Saturni aerarium Romani esse voluerunt, quod tempore quo incoluit Italiam fertur nullum in eius finibus furtum esse commissum.",
+"question": "Quem usum publicum aedi Saturni Romani tribuerunt, ut apud Macrobium refertur?",
+"answer": "Aerarium.",
+"question_en": "What public use did the Romans give to the temple of Saturn, as reported in Macrobius?",
+"answer_en": "The treasury (aerarium).",
+"derivation": "The temple of Saturn housed the Roman public treasury (aerarium), because under Saturn no theft occurred and all was held in common. Anchored to the temple; single answer, verbatim. Well-known institution.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.8",
+"source_text": "Illic Graeco ritu capite aperto res divina fit, quia primum a Pelasgis post ab Hercule ita eam a principio factitatam putant.",
+"question": "Quo ritu et quo capitis habitu res divina Saturno fit, ut Praetextatus apud Macrobium docet?",
+"answer": "Graeco ritu, capite aperto.",
+"question_en": "By what rite and with the head in what state is sacrifice made to Saturn, as Praetextatus teaches in Macrobius?",
+"answer_en": "By the Greek rite, with the head uncovered.",
+"derivation": "Sacrifice to Saturn is performed Graeco ritu with the head bare (unlike the usual Roman capite velato), traced to the Pelasgians and Hercules. Anchored to Saturn's cult; short answer, verbatim. Distinctive ritual fact.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.8",
+"source_text": "Saturnum Apollodorus alligari ait per annum laneo vinculo, et solvi ad diem sibi festum, id est mense hoc Decembri: atque inde proverbium ductum, deos laneos pedes habere.",
+"question": "Quali vinculo simulacrum Saturni per annum alligari, et Decembri demum ad festum eius solvi, Apollodorus apud Macrobium tradit?",
+"answer": "Laneo vinculo.",
+"question_en": "With what kind of bond is the statue of Saturn bound throughout the year, and loosed only at his festival in December, as Apollodorus reports in Macrobius?",
+"answer_en": "With a woolen bond.",
+"derivation": "Saturn's image was bound with a woolen fetter all year, unbound only at his December feast (whence the proverb 'the gods have woolen feet'). Anchored to Saturn's statue and December; short answer, verbatim. Striking cult detail.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Maxima pars Graium Saturno et maxime Athenae conficiunt sacra, quae Cronia esse iterantur ab illis, eumque diem celebrant: per agros urbesque fere omnes exercent epulis laeti: famulosque procurant quisque suos, nostrique itidem: et mos traditus illinc iste, ut cum dominis famuli epulentur ibidem.",
+"question": "Ex qua gente, ut Accius apud Macrobium canit, mos traditus est ut Saturnalibus famuli cum dominis simul epulentur?",
+"answer": "Ex Graecis.",
+"question_en": "From which people, as Accius sings in Macrobius, was the custom handed down that at the Saturnalia slaves should feast together with their masters?",
+"answer_en": "From the Greeks.",
+"derivation": "Accius traces the Saturnalia custom of slaves dining alongside masters to the Greeks (especially the Athenians, who kept the Cronia). Anchored to the custom and Accius; short answer, supported in the quoted verses. The signature social inversion of the festival.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Hic igitur Ianus, cum Saturnum classe pervectum excepisset hospitio et ab eo edoctus peritiam ruris ferum illum et rudem ante fruges cognitas victum in melius redegisset, regni eum societate muneravit.",
+"question": "Quem Ianus, rex Italiae, classe advectum hospitio excepit et regni societate muneravit, ut Praetextatus apud Macrobium narrat?",
+"answer": "Saturnum.",
+"question_en": "Whom did Janus, king of Italy, receive as a guest when he arrived by ship, and reward with a share in his kingdom, as Praetextatus relates in Macrobius?",
+"answer_en": "Saturn.",
+"derivation": "In Macrobius's version, Janus welcomed the ship-borne Saturn, was taught agriculture by him, and gave him a share of the kingship. Anchored to Janus; single-name answer, verbatim. Core Italian foundation myth in Macrobius's telling.",
+"category": "mythos"
+},
+{
+"locus": "Macrobius, Saturnalia 1.7",
+"source_text": "Ac primum terram omnem ditioni suae parentem Saturniam nominavit: aram deinde cum sacris tamquam deo condidit, quae Saturnalia nominavit.",
+"question": "Quo nomine Ianus totam terram sibi parentem in honorem Saturni appellavit, ut apud Macrobium legitur?",
+"answer": "Saturniam.",
+"question_en": "By what name did Janus call the whole land subject to him, in honor of Saturn, as read in Macrobius?",
+"answer_en": "Saturnia.",
+"derivation": "After Saturn vanished, Janus named the whole land Saturnia and founded the altar and rites called Saturnalia. Anchored to Janus and Saturn; single-name answer, verbatim. Aetiology distinct from Ovid's 'Latium' from Saturn's hiding.",
+"category": "mythos"
+},
+{
+"locus": "Macrobius, Saturnalia 1.9",
+"source_text": "Inde et simulachrum eius plerumque fingitur manu dextera trecentorum et sinistra sexaginta et quinque numerum tenens ad demonstrandum anni dimensionem.",
+"question": "Quos numeros simulacrum Iani dextera et sinistra manu tenere fingitur, ad anni dimensionem demonstrandam, ut apud Macrobium legitur?",
+"answer": "Dextera trecentos, sinistra sexaginta quinque.",
+"question_en": "What numbers is the statue of Janus depicted as holding on its right and left hands, to show the length of the year, as read in Macrobius?",
+"answer_en": "Three hundred on the right, sixty-five on the left.",
+"derivation": "Janus's fingers showed 300 (right) and 65 (left), the 365 days of the year. Anchored to Janus's statue; numeric answer, verbatim. Concrete iconographic fact (the solar interpretation dropped, the number kept).",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.9",
+"source_text": "in ditione autem Iunonis sunt omnes Kalendae, unde et Varro libro quinto Rerum divinarum scribit Iano duodecim aras pro totidem mensibus dedicatas.",
+"question": "Quot aras Iano dedicatas esse, pro totidem mensibus, Varro apud Macrobium scribit?",
+"answer": "Duodecim.",
+"question_en": "How many altars does Varro, cited in Macrobius, write were dedicated to Janus, one for each of the months?",
+"answer_en": "Twelve.",
+"derivation": "Varro records twelve altars to Janus, one per month. Anchored to Janus and Varro; number answer, verbatim. Calendar-cult fact framed as Varro's claim.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.10",
+"source_text": "Apud maiores nostros Saturnalia die uno finiebantur, qui erat a. d. quartum decimum Kalendas Ianuarias.",
+"question": "Quot dies apud maiores Romanorum Saturnalia primum finiebantur, ut Praetextatus apud Macrobium docet?",
+"answer": "Uno.",
+"question_en": "In how many days were the Saturnalia originally concluded among the Roman ancestors, as Praetextatus teaches in Macrobius?",
+"answer_en": "In one.",
+"derivation": "Originally the Saturnalia was a single day, a.d. XIV Kal. Ian. (17 December); it was later extended. Anchored to the festival; number answer, verbatim. Calendar-religion fact.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.10",
+"source_text": "sed post in triduum propagata, primum ex adiectis a Caesare huic mensi diebus, deinde ex edicto Augusti quo trium dierum ferias Saturnalibus addixit.",
+"question": "Quot dierum ferias Saturnalibus Augustus edicto suo addixit, ut apud Macrobium refertur?",
+"answer": "Trium.",
+"question_en": "How many days of holiday did Augustus assign to the Saturnalia by his edict, as reported in Macrobius?",
+"answer_en": "Three.",
+"derivation": "Augustus's edict fixed three days of Saturnalia holiday. Anchored to Augustus and the festival; number answer, verbatim. Institutional-calendar fact.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.10",
+"source_text": "Sed Sigillariorum adiecta celebritas in septem dies discursum publicum et laetitiam religionis extendit.",
+"question": "In quot dies, adiecta Sigillariorum celebritate, Saturnaliorum laetitia extenditur, ut apud Macrobium legitur?",
+"answer": "In septem.",
+"question_en": "To how many days does the Saturnalia festivity extend once the celebration of the Sigillaria is added, as read in Macrobius?",
+"answer_en": "To seven.",
+"derivation": "With the Sigillaria appended, the festival ran to seven days. Anchored to the Saturnalia; number answer, verbatim. Calendar fact.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.10",
+"source_text": "Masurius adicit simulachrum huius deae ore obligato atque signato in ara Volupiae propterea collocatum.",
+"question": "Quo modo os habens simulacrum deae Angeroniae in ara Volupiae collocatum erat, ut apud Macrobium refertur?",
+"answer": "Ore obligato atque signato.",
+"question_en": "With its mouth in what state was the statue of the goddess Angerona placed on the altar of Volupia, as reported in Macrobius?",
+"answer_en": "With its mouth bound and sealed.",
+"derivation": "Angerona's cult image had a bound, sealed mouth, set on Volupia's altar. Anchored to the goddess; short descriptive answer, verbatim. Distinctive cult image; her festival falls a.d. XII Kal. Ian.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.10",
+"source_text": "Hanc autem deam Opem Saturni coniugem crediderunt, et ideo hoc mense Saturnalia itemque Opalia celebrari.",
+"question": "Cuius dei coniugem deam Opem Romani esse crediderunt, ut apud Macrobium legitur?",
+"answer": "Saturni.",
+"question_en": "Of which god did the Romans believe the goddess Ops to be the wife, as read in Macrobius?",
+"answer_en": "Of Saturn.",
+"derivation": "Ops was held to be Saturn's wife (their festivals in the same month, both givers of crops and fruits). Anchored to Ops; single-name answer, verbatim. Standard divine pairing.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.10",
+"source_text": "Huic deae sedentes vota concipiunt, terramque de industria tangunt, demonstrantes ipsam matrem terram esse mortalibus adpetendam.",
+"question": "Quo corporis habitu et quid tangentes vota deae Opi concipiebant, ut Praetextatus apud Macrobium docet?",
+"answer": "Sedentes, terram tangentes.",
+"question_en": "In what bodily posture, and touching what, did worshippers make their vows to the goddess Ops, as Praetextatus teaches in Macrobius?",
+"answer_en": "Seated, touching the earth.",
+"derivation": "Vows to Ops were made seated and touching the ground, since Ops was identified with mother Earth. Anchored to Ops; short ritual-gesture answer, verbatim. Distinctive cult practice.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.10",
+"source_text": "cum decederet, populum Romanum nuncupavit heredem.",
+"question": "Quem heredem Acca Larentia, cum decederet, nuncupavit, ut apud Macrobium narratur?",
+"answer": "Populum Romanum.",
+"question_en": "Whom did Acca Larentia name as her heir when she died, as told in Macrobius?",
+"answer_en": "The Roman people.",
+"derivation": "Acca Larentia left her fortune to the Roman people, whence her tomb in the Velabrum and the annual Larentalia. Anchored to Acca Larentia; single answer, verbatim. Aetiology of the Larentalia.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "Iunoni enim Caprotinae die illo libero pariter ancillaeque sacrificant sub arbore caprifico in memoriam benignae virtutis quae in ancillarum animis pro conservatione publicae dignitatis apparuit.",
+"question": "Cui deae, sub arbore caprifico, liberae pariter et ancillae Nonis Iuliis sacrificant, ut apud Macrobium narratur?",
+"answer": "Iunoni Caprotinae.",
+"question_en": "To which goddess do free women and maidservants alike sacrifice under a wild fig tree on the Nones of July, as told in Macrobius?",
+"answer_en": "To Juno Caprotina.",
+"derivation": "The Nonae Caprotinae (7 July), the maidservants' festival, honor Juno Caprotina, sacrificed to under the wild fig. Anchored to the date and rite; single divine name, verbatim. A Roman festival Ovid's Fasti (ending in June) never reaches.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "ancilla nomine Tutela seu Philotis pollicita est se cum ceteris ancillis sub nomine dominarum ad hostes ituram.",
+"question": "Quae ancilla, cum ceteris sub nomine dominarum ad hostes iens, Romanos servavit, unde Nonae Caprotinae ortae sunt?",
+"answer": "Tutela, seu Philotis.",
+"question_en": "Which maidservant, going to the enemy with the others under the guise of the mistresses, saved the Romans, whence the Nonae Caprotinae arose?",
+"answer_en": "Tutela (also called Philotis).",
+"derivation": "The ruse that gave rise to the Nonae Caprotinae was led by the maid Tutela (or Philotis). Anchored to the festival's aetiology; named answer, verbatim. Culturally salient festival legend.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "diemque ipsum Nonas Caprotinas nuncupavit ab illa caprifico ex qua signum victoriae ceperunt.",
+"question": "Ab qua arbore, ex qua signum victoriae Romanis datum est, Nonae Caprotinae nomen acceperunt?",
+"answer": "A caprifico.",
+"question_en": "From which tree, from which the signal of victory was given to the Romans, did the Nonae Caprotinae take their name?",
+"answer_en": "From the wild fig (caprificus).",
+"derivation": "The maids signalled from a wild fig (caprificus), which gave the day its name; the rite even uses the tree's milky sap. Anchored to the festival; single answer, verbatim. Aetiology of the festival's name.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "servi pro dominis pugnaturos se polliciti in civitatem recepti sunt, et Volones, qui sponte hoc voluerunt, appellati.",
+"question": "Quo nomine appellati sunt servi qui bello Punico sponte pro dominis pugnaturos se polliciti in civitatem recepti sunt?",
+"answer": "Volones.",
+"question_en": "By what name were the slaves called who in the Punic War volunteered to fight for their masters and were received into the citizenship?",
+"answer_en": "Volones.",
+"derivation": "The slave-volunteers of the Punic War were named Volones (from volo, 'to be willing'). Anchored to the war and institution; single term answer, verbatim. Military-history fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "Ad Cannas quoque victis Romanis octo milia servorum empta militaverunt.",
+"question": "Quot milia servorum, post cladem Cannensem, empta militaverunt, ut apud Macrobium refertur?",
+"answer": "Octo milia.",
+"question_en": "How many thousands of slaves, after the defeat at Cannae, were bought and served as soldiers, as reported in Macrobius?",
+"answer_en": "Eight thousand.",
+"derivation": "After Cannae Rome bought and enrolled 8,000 slaves as soldiers rather than ransom captives. Anchored to Cannae; number answer, verbatim. Historical fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "Phaedon ex cohorte Socratica Socratique et Platoni perfamiliaris adeo, ut Plato eius nomini librum illum divinum de inmortalitate animae dicaret, servus fuit forma atque ingenio liberali.",
+"question": "Cui Socratico, olim servo, Plato librum suum de immortalitate animae nomine dedicavit?",
+"answer": "Phaedoni.",
+"question_en": "To which Socratic, once a slave, did Plato dedicate by name his book on the immortality of the soul?",
+"answer_en": "To Phaedo.",
+"derivation": "Phaedo, a former slave freed at Socrates' urging, gave his name to Plato's dialogue on the soul's immortality. Anchored to Plato and the dialogue; single-name answer, verbatim. Culturally salient literary-philosophical fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "ex quibus ille Menippus fuit, cuius libros M. Varro in saturis aemulatus est, quas alii Cynicas, ipse appellat Menippeas.",
+"question": "Cuius philosophi libros M. Varro in saturis aemulatus est, quas ipse Menippeas appellavit?",
+"answer": "Menippi.",
+"question_en": "Whose books did Varro imitate in the satires he himself called 'Menippean'?",
+"answer_en": "Menippus's.",
+"derivation": "Varro named his satires Menippeae after Menippus (himself a former slave). Anchored to Varro and the work; single-name answer, verbatim. Literary-history fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "Novi, inquit Diogenes, hominibus liberis imperare.",
+"question": "Quid Diogenes Cynicus, venumdatus, se scire respondit, cum de artificio suo rogaretur?",
+"answer": "Hominibus liberis imperare.",
+"question_en": "What did Diogenes the Cynic, put up for sale, answer that he knew how to do, when asked about his skill?",
+"answer_en": "To rule free men.",
+"derivation": "The famous retort of Diogenes when sold as a slave. Anchored to Diogenes; short phrase answer, verbatim. Culturally salient anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "Ex illo traditum ut cerei Saturnalibus missitarentur, et sigilla arte fictili fingerentur ac venalia pararentur quae homines pro se atque suis piaculum pro Dite Saturno facerent.",
+"question": "Quae fictilia simulacra, pro capitibus humanis olim oblata, Saturnalibus fingi et venalia parari mos erat, unde Sigillaria dicta sunt?",
+"answer": "Sigilla.",
+"question_en": "What clay figures, offered in place of the old human heads, were customarily made and sold at the Saturnalia, whence the Sigillaria are named?",
+"answer_en": "Little clay figurines (sigilla).",
+"derivation": "The Sigillaria took their name from the clay figurines (sigilla) made and sold at the Saturnalia as substitutes for the old human offerings. Anchored to the festival; named object, verbatim. Signature Saturnalia gift-custom.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.11",
+"source_text": "Unde putas adrogantissimum illud manasse proverbium quo iactatur totidem hostes nobis esse quot servos?",
+"question": "Secundum adrogans illud proverbium apud Macrobium relatum, quot hostes homini sunt?",
+"answer": "Tot quot servi.",
+"question_en": "According to the arrogant proverb reported in Macrobius, how many enemies does a man have?",
+"answer_en": "As many as he has slaves.",
+"derivation": "The Roman proverb 'as many enemies as slaves' (quot servi, tot hostes), cited and deplored by Praetextatus. Anchored to the proverb; short answer capturing its point, verbatim. Culturally salient saying.",
+"category": "proverbium"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Anni certus modus apud solos semper Aegyptios fuit.",
+"question": "Apud quam solam gentem, ut Praetextatus apud Macrobium docet, certus anni modus semper fuit?",
+"answer": "Apud Aegyptios.",
+"question_en": "Among which single people, as Praetextatus teaches in Macrobius, did a fixed measure of the year always exist?",
+"answer_en": "Among the Egyptians.",
+"derivation": "Only the Egyptians always had an accurate year (the model Caesar later followed). Anchored to the peoples compared; single-name answer, verbatim. Ambient knowledge of the Egyptian calendar's precision.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Arcades annum suum tribus mensibus explicabant, Acarnanes sex, Graeci reliqui trecentis quinquaginta quattuor diebus annum proprium conputabant.",
+"question": "Quot mensibus Arcades et quot Acarnanes annum suum, ut apud Macrobium refertur, explicabant?",
+"answer": "Arcades tribus, Acarnanes sex.",
+"question_en": "In how many months did the Arcadians, and in how many the Acarnanians, complete their year, as reported in Macrobius?",
+"answer_en": "The Arcadians in three, the Acarnanians in six.",
+"derivation": "Comparative calendar lore: the Arcadians reckoned a 3-month year, the Acarnanians a 6-month year. Anchored to the named peoples; short numeric answer, verbatim. Ethnographic timekeeping fact.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Romanos quoque olim auctore Romulo annum suum decem habuisse mensibus ordinatum, qui annus incipiebat a Martio et conficiebatur diebus trecentis quattuor.",
+"question": "Quot diebus annus Romuli, decem mensium, conficiebatur, ut Praetextatus apud Macrobium docet?",
+"answer": "Trecentis quattuor.",
+"question_en": "In how many days was Romulus's year of ten months completed, as Praetextatus teaches in Macrobius?",
+"answer_en": "In 304.",
+"derivation": "Romulus's ten-month year ran to 304 days (a detail beyond Ovid's bare 'ten months'). Anchored to Romulus's calendar; number answer, verbatim. Core calendar-history fact.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "ut sex quidem menses, id est Aprilis Iunius Sextilis September November December, tricenum essent dierum, quattuor vero, Martius Maius Quintilis October, tricenis et singulis expedirentur.",
+"question": "Qui quattuor menses in anno Romuli unum et triginta dies habebant, ut apud Macrobium legitur?",
+"answer": "Martius, Maius, Quintilis, October.",
+"question_en": "Which four months in Romulus's year had thirty-one days each, as read in Macrobius?",
+"answer_en": "March, May, Quintilis, and October.",
+"derivation": "In Romulus's year four months (March, May, Quintilis, October) had 31 days, the other six 30. Anchored to Romulus's calendar; fixed list answer, verbatim. Precise calendar structure.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Hoc mense mercedes exolvebant magistris quas conpletus annus deberi fecit, comitia auspicabantur, vectigalia locabant, et servis coenas adponebant matronae, ut domini Saturnalibus.",
+"question": "Quibus matronae Romanae mense Martio coenas adponebant, sicut domini Saturnalibus, ut apud Macrobium legitur?",
+"answer": "Servis.",
+"question_en": "To whom did Roman matrons serve dinners in the month of March, just as masters do at the Saturnalia, as read in Macrobius?",
+"answer_en": "To their slaves.",
+"derivation": "At the old year's start (March) matrons served dinners to their slaves, mirroring the Saturnalia inversion, to invite them to ready service. Anchored to March and the custom; short answer, verbatim. A calendar-custom parallel to the Saturnalia.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "sed postea in honorem Iulii Caesaris Dictatoris legem ferente M. Antonio M. filio consule Iulius appellatus est, quod hoc mense a.d. quartum Idus Quintiles Iulius procreatus sit.",
+"question": "In cuius honorem mensis Quintilis 'Iulius' appellatus est, ut apud Macrobium refertur?",
+"answer": "In honorem Iulii Caesaris.",
+"question_en": "In whose honor was the month Quintilis renamed 'Julius', as reported in Macrobius?",
+"answer_en": "In honor of Julius Caesar.",
+"derivation": "Quintilis was renamed Julius for Caesar (by a law of the consul M. Antonius), because Caesar was born in that month. Anchored to the month and Caesar; single answer, verbatim. Core calendar-naming fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Augustus deinde est qui Sextilis antea vocabatur, donec honori Augusti daretur ex senatusconsulto.",
+"question": "Quo nomine mensis Sextilis, ex senatusconsulto, in honorem principis appellatus est?",
+"answer": "Augustus.",
+"question_en": "By what name was the month Sextilis renamed by decree of the senate, in honor of the emperor?",
+"answer_en": "August.",
+"derivation": "Sextilis became Augustus by senatorial decree. Anchored to the month and the emperor; single-name answer, verbatim. Core calendar-naming fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "SED ET AEGYPTUS HOC MENSE IN POTESTATEM POPULI ROMANI REDACTA SIT. FINISQUE HOC MENSE BELLIS CIVILIBUS INPOSITUS SIT. ATQUE OB HAS CAUSAS HIC MENSIS HUIC IMPERIO FELICISSIMUS SIT AC FUERIT.",
+"question": "Quae duo praecipua Augusti facta, hoc mense gesta, Sextilem ei felicissimum reddiderunt, ut senatusconsultum apud Macrobium refert?",
+"answer": "Aegyptus in potestatem redacta et bellis civilibus finis impositus.",
+"question_en": "Which two chief deeds, accomplished in that month, made Sextilis Augustus's most fortunate month, as the senate's decree in Macrobius reports?",
+"answer_en": "The subjugation of Egypt and the ending of the civil wars.",
+"derivation": "The decree chose Sextilis (not September, his birth month) because it was Augustus's felicissimus month: in it Egypt was reduced and the civil wars ended. Anchored to Augustus and the month; verifiable two-part answer, verbatim from the quoted decree. The prompt's 'why August was chosen.'",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Mensis September principalem sui retinet appellationem: quem Germanici appellatione, Octobrem vero suo nomine Domitianus invaserat.",
+"question": "Quibus nominibus imperator Domitianus menses Septembrem et Octobrem appellaverat, ut apud Macrobium refertur?",
+"answer": "Germanicum et Domitianum.",
+"question_en": "By what names had the emperor Domitian renamed the months September and October, as reported in Macrobius?",
+"answer_en": "Germanicus and Domitianus.",
+"derivation": "Domitian renamed September 'Germanicus' and October 'Domitianus'; after his damnatio the old names were restored. Anchored to Domitian and the months; two-name answer, verbatim. Culturally salient imperial vanity.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.13",
+"source_text": "Sed secutus Numa quinquaginta dies addidit, ut in trecentos quinquaginta quattuor dies, quibus duodecim lunae cursus confici credidit, annus extenderetur.",
+"question": "Quot dies Numa anno Romuli addidit, ut in trecentos quinquaginta quattuor dies annus extenderetur?",
+"answer": "Quinquaginta.",
+"question_en": "How many days did Numa add to Romulus's year, so that the year was extended to 354 days?",
+"answer_en": "Fifty.",
+"derivation": "Numa added 50 days (to reach 354, twelve lunar cycles), then drew 6 more from the 30-day months to form January and February. Anchored to Numa's reform; number answer, verbatim. Core calendar-history fact.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.13",
+"source_text": "Paulo post Numa in honorem inparis numeri unum adiecit diem quem Ianuario dedit, ut tam in anno quam in mensibus singulis praeter unum Februarium inpar numerus servaretur.",
+"question": "In cuius rei honorem Numa unum diem Ianuario adiecit, ut annus imparem numerum servaret, ut apud Macrobium legitur?",
+"answer": "In honorem imparis numeri.",
+"question_en": "In honor of what did Numa add one more day to January, so that the year should keep an odd number, as read in Macrobius?",
+"answer_en": "In honor of the odd number.",
+"derivation": "Numa added one day to January so the year (355) and each month but February would have an odd number of days, a lucky number. Anchored to Numa's reform; short answer, verbatim. Roman numerical religion (why 355 days).",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.13",
+"source_text": "Omni autem intercalationi mensis Februarius deputatus est, quoniam is ultimus anni erat.",
+"question": "Cui mensi omnis intercalatio apud Romanos deputata est, ut apud Macrobium refertur?",
+"answer": "Februario.",
+"question_en": "To which month was all intercalation assigned among the Romans, as reported in Macrobius?",
+"answer_en": "To February.",
+"derivation": "Intercalation was placed in February (then the year's last month, after the Terminalia on the 23rd). Anchored to the practice; single-name answer, verbatim. Core calendar mechanism.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.14",
+"source_text": "Iulius ergo Caesar decem dies observationi veteri superadiecit, ut annum trecenti sexaginta quinque dies, quibus sol lustrat zodiacum, efficerent.",
+"question": "Quot dies Iulius Caesar veteri anno superadiecit, ut annus trecentos sexaginta quinque dies efficeret?",
+"answer": "Decem.",
+"question_en": "How many days did Julius Caesar add to the old year, so that the year should make 365 days?",
+"answer_en": "Ten.",
+"derivation": "Caesar added 10 days to the old 355-day year to reach 365. Anchored to Caesar's reform; number answer, verbatim. Precise detail of the Julian reform (beyond Ovid's bare 365).",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.14",
+"source_text": "statuit ut quarto quoque anno sacerdotes unum intercalarent diem, eo scilicet mense ac loco quo etiam apud veteres mensis intercalabatur, idque bissextum censuit nominandum.",
+"question": "Quo nomine Iulius Caesar diem quarto quoque anno intercalandum appellandum censuit?",
+"answer": "Bissextum.",
+"question_en": "By what name did Julius Caesar decide the day to be intercalated every fourth year should be called?",
+"answer_en": "Bissextum (the leap day).",
+"derivation": "Caesar named the quadrennial intercalary day the 'bissextum' (whence the bissextile/leap year). Anchored to Caesar's reform; single-term answer, verbatim. Origin of the leap-year term.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.14",
+"source_text": "adiectosque omnes a se dies fastos notavit, ut maiorem daret actionibus libertatem: et non solum nullum nefastum sed nec comitialem quemquam de adiectis diebus instituit.",
+"question": "Quo genere dierum Iulius Caesar omnes dies a se additos notavit, ut maiorem actionibus libertatem daret?",
+"answer": "Fastos.",
+"question_en": "As what kind of days did Julius Caesar mark all the days he added, to give greater freedom to legal actions?",
+"answer_en": "As dies fasti.",
+"derivation": "Caesar marked every newly added day as fastus (none nefastus or comitialis), to widen the scope for legal business without increasing magistrates' influence. Anchored to Caesar's reform; single-term answer, verbatim. Calendar-law fact.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 1.14",
+"source_text": "eaque re factum est ut annus confusionis ultimus in quadringentos quadraginta tres dies protenderetur.",
+"question": "Quot dies habuit 'annus confusionis ultimus', quem Caesar ante novam ordinationem produxit?",
+"answer": "Quadringentos quadraginta tres.",
+"question_en": "How many days did the 'last year of confusion' have, which Caesar stretched out before his new arrangement?",
+"answer_en": "443.",
+"derivation": "To realign the calendar Caesar extended the final pre-reform year to 443 days. Anchored to Caesar's reform; number answer, verbatim. Famous detail of the Julian reform.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.14",
+"source_text": "correxit Augustus, qui annos duodecim sine intercalari die transigi iussit, ut illi tres dies qui per annos triginta et sex vitio sacerdotalis festinationis excreverant sequentibus annis duodecim nullo die intercalato devorarentur.",
+"question": "Per quot annos Augustus sine die intercalari transigi iussit, ut errorem sacerdotum corrigeret?",
+"answer": "Per duodecim.",
+"question_en": "For how many years did Augustus order the leap day to be omitted, in order to correct the priests' error?",
+"answer_en": "For twelve.",
+"derivation": "The priests had intercalated too often (12 days in 36 years instead of 9); Augustus corrected it by omitting intercalation for 12 years. Anchored to Augustus; number answer, verbatim. Historical calendar fact.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.14",
+"source_text": "Sed postea C. Caesar omnem hanc inconstantiam temporum vagam adhuc et incertam in ordinem state definitionis coegit adnitente sibi M. Flavio scriba, qui scriptos dies singulos ita ad dictatorem retulit.",
+"question": "Quo scriba adnitente C. Caesar temporum inconstantiam in ordinem certae definitionis coegit, ut apud Macrobium legitur?",
+"answer": "M. Flavio.",
+"question_en": "With which scribe's help did Gaius Caesar bring the wandering inconstancy of the calendar into fixed order, as read in Macrobius?",
+"answer_en": "With Marcus Flavius's.",
+"derivation": "Macrobius credits the scribe M. Flavius (not Pliny's Sosigenes) with assisting Caesar's reform. Anchored to Caesar's reform; single-name answer, verbatim. A claim particular to Macrobius.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.15",
+"source_text": "pontifici minori haec provincia delegabatur, ut novae lunae primum observaret aspectum visamque regi sacrificulo nuntiaret.",
+"question": "Cuius sacerdotis officium erat novae lunae primum aspectum observare et regi sacrificulo nuntiare, ut apud Macrobium refertur?",
+"answer": "Pontificis minoris.",
+"question_en": "Which priest's duty was it to watch for the first sighting of the new moon and report it to the rex sacrificulus, as reported in Macrobius?",
+"answer_en": "The pontifex minor's.",
+"derivation": "The pontifex minor watched for the new moon and announced it, then proclaimed the days to the Nones. Anchored to the office; single-office answer, verbatim. Core of the Kalends machinery.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.15",
+"source_text": "Verbum autem calo Graecum est, id est voco: et hunc diem, qui ex his diebus qui calarentur primus esset, placuit Kalendas vocari.",
+"question": "Ex quo verbo, quod 'voco' significat, dies Kalendarum nomen accepit, ut Praetextatus apud Macrobium docet?",
+"answer": "Ex verbo calare.",
+"question_en": "From what verb, meaning 'I call/proclaim', did the day of the Kalends take its name, as Praetextatus teaches in Macrobius?",
+"answer_en": "From the verb calare (to proclaim).",
+"derivation": "The pontiff 'called out' (calabat) the days to the Nones; the first proclaimed day was the Kalends. Anchored to the proclamation practice; short answer, verbatim. The prompt's 'calare = to proclaim.'",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.15",
+"source_text": "Romulus initium cuiusque mensis ex illo sumebat die quo novam lunam contigisset videri.",
+"question": "Ex quo die Romulus initium cuiusque mensis sumebat, ut Praetextatus apud Macrobium docet?",
+"answer": "Ex die quo nova luna primum videbatur.",
+"question_en": "From what day did Romulus take the beginning of each month, as Praetextatus teaches in Macrobius?",
+"answer_en": "From the day the new moon was first seen.",
+"derivation": "Romulus began each month at the first sighting of the new moon (hence months of unequal length). Anchored to Romulus's calendar; short answer, verbatim. Basis of the lunar Roman month.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.15",
+"source_text": "etiam regina sacrorum, id est regis uxor, porcam vel agnam in regia Iunoni immolat.",
+"question": "Quae sacerdos, id est regis sacrorum uxor, Kalendis omnibus porcam vel agnam Iunoni in regia immolabat?",
+"answer": "Regina sacrorum.",
+"question_en": "Which priestess, the wife of the rex sacrorum, sacrificed a sow or ewe-lamb to Juno in the Regia on every Kalends?",
+"answer_en": "The regina sacrorum.",
+"derivation": "On every Kalends the regina sacrorum offered Juno a sow or ewe in the Regia (the Kalends being sacred to Juno). Anchored to the office and rite; single-office answer, verbatim. Specific cult practice.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.15",
+"source_text": "Nec hoc praetermiserim, quod nuptiis copulandis Kalendas Nonas et Idus religiosas, id est devitandas, censuerunt.",
+"question": "Qui tres menstrui dies apud Romanos ad nuptias copulandas religiosi, id est vitandi, habebantur?",
+"answer": "Kalendae, Nonae, Idus.",
+"question_en": "Which three monthly days did the Romans hold to be inauspicious, that is to be avoided, for celebrating weddings?",
+"answer_en": "The Kalends, Nones, and Ides.",
+"derivation": "The Kalends, Nones, and Ides were avoided for weddings (as feriae, on which doing violence, even the ritual 'seizing' of a bride, is impious). Anchored to the marriage custom; fixed list answer, verbatim. Ambient wedding lore.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "Numa ut in menses annum, ita in dies mensem quemque distribuit, diesque omnes aut festos aut profestos aut intercisos vocavit.",
+"question": "In quae tria genera Numa omnes dies distribuit, ut apud Macrobium legitur?",
+"answer": "In festos, profestos, intercisos.",
+"question_en": "Into what three kinds did Numa divide all the days, as read in Macrobius?",
+"answer_en": "Into festi, profesti, and intercisi.",
+"derivation": "Numa classed days as festi (the gods'), profesti (men's), and intercisi (shared). Anchored to Numa; fixed triad answer, verbatim. Foundational calendar classification.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "Feriarum autem publicarum genera sunt quattuor. Aut enim stativae sunt aut conceptivae aut imperativae aut nundinae.",
+"question": "Quae sunt quattuor genera feriarum publicarum, ut Praetextatus apud Macrobium enumerat?",
+"answer": "Stativae, conceptivae, imperativae, nundinae.",
+"question_en": "What are the four kinds of public feriae, as Praetextatus enumerates in Macrobius?",
+"answer_en": "Stativae, conceptivae, imperativae, and nundinae.",
+"derivation": "The four kinds of public holidays: fixed (stativae), movable (conceptivae), decreed (imperativae), and market-days (nundinae). Anchored to the classification; fixed list answer, verbatim. Core calendar knowledge.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "Fasti sunt quibus licet fari praetori tria verba sollemnia, do dico addico.",
+"question": "Quae sunt tria verba sollemnia quae praetori diebus fastis fari licet, ut apud Macrobium refertur?",
+"answer": "Do, dico, addico.",
+"question_en": "What are the three solemn words that the praetor may speak on dies fasti, as reported in Macrobius?",
+"answer_en": "Do, dico, addico ('I grant, I declare, I adjudge').",
+"derivation": "The dies fastus is defined by the praetor's three solemn words: do, dico, addico. Anchored to the day-type; fixed triad answer, verbatim. Names the 'tria verba' Ovid only alludes to.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "Nam cum Latiar, hoc est Latinarum sollemne, concipitur, item diebus Saturnaliorum, sed et cum Mundus patet, nefas est praelium sumere.",
+"question": "Quibus tribus temporibus apud Romanos nefas erat praelium sumere, ut Praetextatus apud Macrobium docet?",
+"answer": "Latinis, Saturnalibus, et cum Mundus patet.",
+"question_en": "On which three occasions was it forbidden (nefas) for the Romans to begin a battle, as Praetextatus teaches in Macrobius?",
+"answer_en": "During the Latinae, during the Saturnalia, and when the Mundus stands open.",
+"derivation": "Beginning a battle was nefas during the Latinae, the Saturnalia, and while the Mundus (the underworld gate) was open. Anchored to the war taboos; fixed triad answer, verbatim. Distinctive religious-military custom.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "Q. Sulpicium tribunum militum ad Alliam adversus Gallos pugnaturum rem divinam dimicandi gratia fecisse postridie Idus Quintiles, item apud Cremeram multisque aliis temporibus et locis post sacrificium die postero celebratum male cessisse conflictum.",
+"question": "Quae duae cladas, post sacrificium die postero commissae, causam attulerunt cur postriduani dies atri haberentur, ut apud Macrobium refertur?",
+"answer": "Ad Alliam et apud Cremeram.",
+"question_en": "Which two disasters, joined the day after a sacrifice, provided the reason the 'day-after' days were held black (atri), as reported in Macrobius?",
+"answer_en": "At the Allia and at the Cremera.",
+"derivation": "The defeats at the Allia (against the Gauls) and the Cremera, both fought the day after a sacrifice, prompted the pontiffs to make the days after Kalends/Nones/Ides 'atri.' Anchored to the named battles; two-place answer, verbatim. Aetiology of the black days.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "sed lege Hortensia effectum ut fastae essent, uti rustici, qui nundinandi causa in urbem veniebant, lites conponerent.",
+"question": "Qua lege effectum est ut nundinae dies fasti fierent, ut rustici in urbem venientes lites componerent?",
+"answer": "Lege Hortensia.",
+"question_en": "By what law were the nundinae made dies fasti, so that country-folk coming to the city could settle their lawsuits?",
+"answer_en": "By the lex Hortensia.",
+"derivation": "The lex Hortensia made the market-days (nundinae) fasti so rustics could litigate. Anchored to the named law; single answer, verbatim. Legal-calendar fact.",
+"category": "ius"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "Est autem dies lustricus quo infantes lustrantur et nomen accipiunt: sed is maribus nonus, octavus est feminis.",
+"question": "Quoto die post partum infantes Romani lustrabantur et nomen accipiebant, maribus et feminis, ut apud Macrobium refertur?",
+"answer": "Maribus nono, feminis octavo.",
+"question_en": "On which day after birth were Roman infants purified and given their name, for boys and for girls, as reported in Macrobius?",
+"answer_en": "On the ninth for boys, the eighth for girls.",
+"derivation": "The dies lustricus, when a child was purified and named, fell on the 9th day for boys, the 8th for girls. Anchored to the naming custom; short numeric answer, verbatim. Ambient family-life custom.",
+"category": "mores"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "quod vinum in templum eius non suo nomine soleat inferri, sed vas in quo vinum inditum est mellarium nominetur et vinum lac nuncupetur.",
+"question": "Quo nomine vinum in templum Bonae Deae inferri solebat, cum suo nomine inferri non liceret, ut apud Macrobium refertur?",
+"answer": "Lactis nomine.",
+"question_en": "Under what name was wine customarily brought into the temple of the Bona Dea, since it could not be brought in under its own name, as reported in Macrobius?",
+"answer_en": "As 'milk' (lac).",
+"derivation": "In the Bona Dea's temple wine was brought in disguised as 'milk' (lac), its jar called a honey-jar (mellarium). Anchored to the cult; short answer, verbatim. Distinctive ritual taboo.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Horum omnium haec proferuntur indicia, quod virgam myrteam in templo haberi nefas sit.",
+"question": "Quam plantam in templo Bonae Deae haberi nefas erat, ut apud Macrobium refertur?",
+"answer": "Myrtum.",
+"question_en": "What plant was it forbidden (nefas) to have in the temple of the Bona Dea, as reported in Macrobius?",
+"answer_en": "The myrtle.",
+"derivation": "Myrtle was banned from the Bona Dea's temple (she had been beaten with myrtle rods by her father Faunus). Anchored to the cult; single-plant answer, verbatim. Distinctive ritual taboo.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.12",
+"source_text": "Hercules facturus sacrum detestatus est praesentiam feminarum, et Potitio ac Pinario sacrorum custodibus iussit ne mulierem interesse permitterent.",
+"question": "Quibus duobus sacrorum custodibus Hercules in Italia iussit ne mulierem sacris suis interesse permitterent?",
+"answer": "Potitio et Pinario.",
+"question_en": "Which two guardians of the rites did Hercules in Italy order not to allow any woman to take part in his sacrifice?",
+"answer_en": "Potitius and Pinarius.",
+"derivation": "Hercules banned women from his rite (the Ara Maxima) and charged its guardians Potitius and Pinarius to enforce it. Anchored to the named guardians of the Ara Maxima; two-name answer, verbatim. Ambient cult lore.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.16",
+"source_text": "nec patente Mundo, quod sacrum Diti patri et Proserpinae dicatum est.",
+"question": "Quibus dis inferis Mundus, qui certis diebus patebat, sacer erat, ut apud Macrobium refertur?",
+"answer": "Diti patri et Proserpinae.",
+"question_en": "To which gods of the underworld was the Mundus, which stood open on certain days, sacred, as reported in Macrobius?",
+"answer_en": "To Dis Pater and Proserpina.",
+"derivation": "The Mundus, opened on certain days, was sacred to Dis Pater and Proserpina; while open, war, levy, marriage, and sailing were religiosum. Anchored to the Mundus; two-name answer, verbatim. Distinctive Roman religious institution.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.17",
+"source_text": "Namque virgines Vestales ita indigitant: Apollo Medice, Apollo Paean.",
+"question": "Quibus verbis virgines Vestales Apollinem indigitant, ut apud Macrobium refertur?",
+"answer": "Apollo Medice, Apollo Paean.",
+"question_en": "With what words do the Vestal Virgins invoke Apollo, as reported in Macrobius?",
+"answer_en": "'Apollo Medice, Apollo Paean' (Apollo Healer, Apollo Paean).",
+"derivation": "The Vestals' cult formula addresses Apollo as healer and Paean. Anchored to the Vestals; short fixed formula, verbatim. Distinctive Roman cult invocation.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.17",
+"source_text": "Bello enim Punico hi ludi ex libris Sibyllinis primum sunt instituti, suadente Cornelio Rufo decemviro.",
+"question": "Quo bello ludi Apollinares primum ex libris Sibyllinis instituti sunt, ut apud Macrobium refertur?",
+"answer": "Bello Punico.",
+"question_en": "In which war were the Ludi Apollinares first instituted from the Sibylline books, as reported in Macrobius?",
+"answer_en": "In the Punic War.",
+"derivation": "The Ludi Apollinares were first set up during the Punic War from the Sibylline books (and the verses of the vates Marcius). Anchored to the games; single answer, verbatim. Origin of a major Roman festival.",
+"category": "ludi"
+},
+{
+"locus": "Macrobius, Saturnalia 1.17",
+"source_text": "Hinc est quod apud Pachynum Siciliae promuntorium Apollo Libystinus eximia religione celebratur.",
+"question": "Apud quod Siciliae promuntorium Apollo cognomine 'Libystinus' celebratur, ut apud Macrobium refertur?",
+"answer": "Apud Pachynum.",
+"question_en": "At which promontory of Sicily is Apollo worshipped under the title 'Libystinus', as reported in Macrobius?",
+"answer_en": "At Pachynum.",
+"derivation": "Apollo Libystinus, so named for destroying Libyan invaders with a plague, is worshipped at Cape Pachynum in Sicily. Anchored to the epithet and location; single place answer, verbatim. Local cult (epithet and location).",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.17",
+"source_text": "ideo Apollinis simulachra manu dextra Gratias gestant, arcum cum sagittis sinistra: quod ad noxam sit pigrior, et salutem manus promptior largiatur.",
+"question": "Quid Apollinis simulacra manu dextra, quid sinistra gestare solent, ut apud Macrobium refertur?",
+"answer": "Dextra Gratias, sinistra arcum cum sagittis.",
+"question_en": "What do the statues of Apollo customarily hold in the right hand, and what in the left, as reported in Macrobius?",
+"answer_en": "The Graces in the right, the bow and arrows in the left.",
+"derivation": "Apollo's statues held the Graces in the right hand and the bow with arrows in the left (readier to give aid than harm). Anchored to Apollo's iconography; short two-part answer, verbatim. Distinctive statue type.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.18",
+"source_text": "In hoc monte Parnaso Bacchanalia alternis annis aguntur.",
+"question": "In quo monte, Apollini et Libero sacro, Bacchanalia alternis annis aguntur, ut apud Macrobium refertur?",
+"answer": "In monte Parnaso.",
+"question_en": "On which mountain, sacred to both Apollo and Liber, are the Bacchanalia held every other year, as reported in Macrobius?",
+"answer_en": "On Mount Parnassus.",
+"derivation": "The Bacchanalia were held biennially on Parnassus (shared by Apollo and Liber). Anchored to the mountain and rite; single place answer, verbatim. Ambient knowledge of the Delphic/Parnassian cult.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.18",
+"source_text": "praeterea barbata specie, senili quoque, uti Graeci eius quem bassarea, item quem Brisea appellant, et ut in Campania Neapolitani celebrant Hebona cognominantes.",
+"question": "Quo cognomine Neapolitani in Campania Liberum patrem celebrant, ut apud Macrobium refertur?",
+"answer": "Hebona.",
+"question_en": "By what title do the Neapolitans in Campania worship Liber (Bacchus), as reported in Macrobius?",
+"answer_en": "Hebon.",
+"derivation": "At Naples Liber was worshipped under the title Hebon. Anchored to the city and god; single-name answer, verbatim. Local Italian cult title.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.19",
+"source_text": "Hinc etiam Liber pater bellorum potens probatur, quod eum primum ediderunt auctorem triumphi.",
+"question": "Quis deus primus triumphi auctor traditur, ut apud Macrobium refertur?",
+"answer": "Liber pater.",
+"question_en": "Which god is handed down as the first author of the triumph, as reported in Macrobius?",
+"answer_en": "Liber (Bacchus).",
+"derivation": "Tradition made Liber (Bacchus) the first to celebrate a triumph. Anchored to the institution and god; single-name answer, verbatim. Mythic origin of the Roman triumph.",
+"category": "mythos"
+},
+{
+"locus": "Macrobius, Saturnalia 1.20",
+"source_text": "Hinc est quod simulachris et Aesculapii et Salutis draco subiungitur.",
+"question": "Quod animal simulacris Aesculapii et Salutis subiungitur, ut apud Macrobium refertur?",
+"answer": "Draco.",
+"question_en": "What creature is placed beside the statues of Aesculapius and Salus, as reported in Macrobius?",
+"answer_en": "A serpent.",
+"derivation": "A serpent accompanies the statues of Aesculapius and Salus (the snake sloughs its skin, like renewal of health). Anchored to the iconography; single-creature answer, verbatim. Canonical Aesculapian attribute.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.20",
+"source_text": "Nec aestimes Alcmena apud Thebas Boeotias natum solum vel primum Herculem nuncupatum.",
+"question": "Qua matre et apud quam urbem Hercules ille, quem homines celebrant, natus est, ut apud Macrobium refertur?",
+"answer": "Alcmena, apud Thebas Boeotias.",
+"question_en": "Of what mother, and at what city, was the Hercules whom men celebrate born, as reported in Macrobius?",
+"answer_en": "Of Alcmena, at Thebes in Boeotia.",
+"derivation": "The famous Hercules was born of Alcmena at Boeotian Thebes. Anchored to the hero; mother-and-place answer, verbatim. Canonical shared myth.",
+"category": "mythos"
+},
+{
+"locus": "Macrobius, Saturnalia 1.20",
+"source_text": "Eidem Aegypto adiacens civitas, quae conditorem Alexandrum Macedonem gloriatur, Sarapin atque Isin cultu paene attonitae venerationis observat.",
+"question": "Quos duos deos Alexandria, urbs ab Alexandro Macedone condita, praecipuo cultu veneratur, ut apud Macrobium refertur?",
+"answer": "Sarapin et Isin.",
+"question_en": "Which two gods does Alexandria, the city founded by Alexander the Macedonian, worship with special devotion, as reported in Macrobius?",
+"answer_en": "Serapis and Isis.",
+"derivation": "Alexandria especially worshipped Serapis and Isis. Anchored to the named city; two-name answer, verbatim. Ambient knowledge of Alexandrian cult.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.21",
+"source_text": "Ab apro autem tradunt interemptum Adonin, hiemis imaginem in hoc animali fingentes.",
+"question": "Quo animali Adonis interemptus esse traditur, ut apud Macrobium refertur?",
+"answer": "Apro.",
+"question_en": "By what animal is Adonis said to have been killed, as reported in Macrobius?",
+"answer_en": "By a boar.",
+"derivation": "Adonis was killed by a boar (taken as an image of winter). Anchored to the myth; single-animal answer, verbatim. Canonical shared myth.",
+"category": "mythos"
+},
+{
+"locus": "Macrobius, Saturnalia 1.21",
+"source_text": "celebratur laetitiae exordium a. d. octavum Kalendas Aprilis: quem diem Hilaria appellant, quo primum tempore sol diem longiorem nocte protendit.",
+"question": "Quo die, quem 'Hilaria' appellant, laetitiae exordium in sacris Matris Deum celebratur, cum sol primum diem nocte longiorem facit?",
+"answer": "Ante diem octavum Kalendas Apriles.",
+"question_en": "On what day, called the 'Hilaria', is the beginning of rejoicing celebrated in the rites of the Great Mother, when the sun first makes the day longer than the night?",
+"answer_en": "On the eighth day before the Kalends of April (25 March).",
+"derivation": "The Hilaria, the festival of joy in the Magna Mater's rites, falls a.d. VIII Kal. Apr. (25 March). Anchored to the festival; date answer, verbatim. Named festival with a fixed date.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.21",
+"source_text": "Ideo et Ammonem, quem deum solem occidentem Libyes existimant, arietinis cornibus fingunt, quibus maxime id animal valet, sicut sol radiis.",
+"question": "Quibus cornibus Ammon, quem Libyes colunt, fingi solet, ut apud Macrobium refertur?",
+"answer": "Arietinis.",
+"question_en": "With what kind of horns is Ammon, whom the Libyans worship, customarily depicted, as reported in Macrobius?",
+"answer_en": "With ram's horns.",
+"derivation": "Ammon (Jupiter Ammon), worshipped by the Libyans, is depicted with ram's horns. Anchored to the god; single-attribute answer, verbatim. Iconic divine attribute.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.21",
+"source_text": "vel quia bos Apis in civitate Memphi solis instar excipitur.",
+"question": "In qua Aegypti civitate bos Apis, solis instar, excipitur et colitur, ut apud Macrobium refertur?",
+"answer": "Memphi.",
+"question_en": "In which city of Egypt is the bull Apis received and worshipped as an image of the sun, as reported in Macrobius?",
+"answer_en": "At Memphis.",
+"derivation": "The sacred bull Apis was worshipped at Memphis. Anchored to the city and cult; single place answer, verbatim. Ambient knowledge of Egyptian religion.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.23",
+"source_text": "ut videmus apud Antium promoveri simulachra Fortunarum ad danda responsa.",
+"question": "Apud quod Italiae oppidum simulacra Fortunarum ad danda responsa promoveri solebant, ut apud Macrobium refertur?",
+"answer": "Apud Antium.",
+"question_en": "At which town of Italy did the statues of the Fortunae move forward to give oracular responses, as reported in Macrobius?",
+"answer_en": "At Antium.",
+"derivation": "The oracular Fortunae of Antium gave responses by their moving statues. Anchored to the named town and cult; single place answer, verbatim. Famous Italian oracle.",
+"category": "religio"
+},
+{
+"locus": "Macrobius, Saturnalia 1.24",
+"source_text": "Qui enim moriens poema suum legavit igni quid nisi famae suae posteritati subtrahendo curavit?",
+"question": "Cui rei Vergilius moriens poema suum (Aeneida) legavit, ut Evangelus apud Macrobium refert?",
+"answer": "Igni.",
+"question_en": "To what did Vergil, dying, bequeath his poem (the Aeneid), as Evangelus reports in Macrobius?",
+"answer_en": "To the fire (to be burned).",
+"derivation": "The famous tradition that the dying Vergil left orders for the Aeneid to be burned. Anchored to Vergil and his poem; short answer, verbatim. Celebrated literary anecdote.",
+"category": "historia"
+},
+{
+"locus": "Macrobius, Saturnalia 1.24",
+"source_text": "Hoc enim festo religiosae domus prius famulos instructis tamquam ad usum domini dapibus honorant: et ita demum patribus familias mensae apparatus novatur.",
+"question": "Saturnalibus, in religiosis domibus, qui primi epulis honorabantur, ante ipsos patres familias, ut apud Macrobium refertur?",
+"answer": "Famuli.",
+"question_en": "At the Saturnalia, in devout households, who were honored with the feast first, before the masters themselves, as reported in Macrobius?",
+"answer_en": "The slaves.",
+"derivation": "A concrete Saturnalia custom: the slaves were feasted first, the masters' table set only afterward. Anchored to the festival; short answer, verbatim. The signature social inversion in detail.",
+"category": "religio"
+}
+]}
