@@ -50,13 +50,15 @@ At a high level it spans, across the named authors and their close neighbours:
 - **Augustine** — much of the *Confessions* (I, III–IX) and *City of God* I.
 - **Cato** — *De Agri Cultura*.
 
-The **cultural texts** (post-June-2026 targets, landing work by work):
-Petronius's *Satyricon*, Apicius's *De Re Coquinaria* (all ten books + the
-Vinidarius excerpts), Ovid's *Fasti* / *Metamorphoses* I / *Ars Amatoria*,
-Martial (*Xenia*, *Apophoreta*, *De Spectaculis*, then the numbered books),
-Catullus, Plautus, Macrobius's *Saturnalia*, and the epigraphic set (epitaphs,
-inscriptions, the *SC de Bacchanalibus*, the Twelve Tables).
-`python3 aggregate.py` is always the authoritative tally.
+The **cultural texts** (post-June-2026 targets, now landed):
+Petronius's *Satyricon*; Apicius's *De Re Coquinaria* (all ten books + the
+Vinidarius excerpts); Ovid's *Fasti* (all six books), *Metamorphoses* I, and
+*Ars Amatoria*; Martial's *Xenia*, *Apophoreta*, and *De Spectaculis*;
+Catullus; **all 21 Plautus comedies**; Macrobius's *Saturnalia* I–III; and the
+epigraphic set (epitaphs, Pompeian inscriptions, the *SC de Bacchanalibus*, the
+Twelve Tables). A small **`latin-specific` pilot** (13 pairs from Cicero's
+*Orator* and Vergil) seeds the second track. `python3 aggregate.py` is always
+the authoritative tally.
 
 Each pair records a `provenance` field; all texts are from the Latin Library
 except *NH* VII (LacusCurtius/Teubner), which the Latin Library does not carry.
@@ -124,7 +126,10 @@ history of the method, newest first:
   knowledge (Global PIQA's natively-authored, non-parallel split is the
   precedent), and a pause on new history mining. Pairs authored before the
   turn are retained unchanged and are recognizable by their seven-key schema
-  (no `category`/`track`).
+  (no `category`/`track`). The turn's first run added **~2,950 pairs across 55
+  works** (Petronius, Apicius, the *Fasti*, Martial, Catullus, all 21 Plautus
+  plays, Macrobius, the epigraphic set) plus a 13-pair `latin-specific` pilot;
+  the dataset roughly quadrupled, from ~1,000 pairs to ~3,970.
 - **May–June 2026 — depth passes.** The realization that per-work yield
   reflects mining depth, not the text: deep re-reads against already-taken
   pairs (e.g. *Divus Iulius*, 20 → 100 pairs), `deep_pass_prompt.md`, and the
