@@ -101,7 +101,7 @@ def fmt_time(seconds):
 
 def progress_bar(done, total, session_n, elapsed, remaining, width):
     frac = done / total if total else 1.0
-    pct = f"{int(frac * 100):3d}%"
+    pct = f"{frac * 100:5.1f}%"
     if session_n and elapsed > 0:
         rate = session_n / elapsed
         eta = fmt_time(remaining / rate)
