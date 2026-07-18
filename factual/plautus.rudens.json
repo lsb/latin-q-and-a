@@ -636,10 +636,10 @@
   {
    "locus": "Plautus, Rudens 1418-1422",
    "source_text": "spectatores, vos quoque ad cenam vocem, ni daturus nil sim neque sit quicquam pollucti domi, nive adeo vocatos credam vos esse ad cenam foras. verum si voletis plausum fabulae huic clarum dare, comissatum omnes venitote ad me ad annos sedecim.",
-   "question": "Ad quot annos spectatores comissatum ad se venire Daemones in extremo Rudente Plauti invitat?",
-   "answer": "Ad sedecim annos.",
-   "question_en": "In how many years does Daemones at the very end of Plautus' Rudens invite the spectators to come revel at his house?",
-   "answer_en": "In sixteen years.",
+   "question": "Post quot annos Daemones spectatores comissatum ad se invitat in extremo Rudente Plauti?",
+   "answer": "Post sedecim annos.",
+   "question_en": "After how many years does Daemones, at the very end of Plautus' Rudens, invite the spectators to come revel at his house?",
+   "answer_en": "In sixteen years ('ad annos sedecim,' as he himself puts it).",
    "derivation": "The closing joke to the audience: applaud, and you are all invited to a party — sixteen years from now. A quotable epilogue-fact of the play's last lines; anchored to the play + speaker; one-number answer verbatim.",
    "category": "ludi"
   }

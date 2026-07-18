@@ -97,9 +97,9 @@
     {
       "locus": "Apicius, De Re Coquinaria 7.9.1",
       "source_text": "Pernam, ubi eam cum caricis plurimis elixaveris et tribus lauri foliis, detracta cute tessellatim incidis et melle complebis.",
-      "question": "Cum quibus pomis perna apud Apicium elixatur?",
+      "question": "Cum quibus fructibus siccis perna apud Apicium elixatur?",
       "answer": "Cum caricis plurimis.",
-      "question_en": "With what fruit is the ham boiled in Apicius?",
+      "question_en": "With what dried fruit is the ham boiled in Apicius?",
       "answer_en": "With plenty of dried figs.",
       "derivation": "The celebrated Apician ham: boiled with plenty of dried figs and three bay leaves, then skinned, scored in squares and filled with honey. Anchored to perna; answer verbatim (cum caricis plurimis).",
       "category": "cibus"

@@ -127,9 +127,9 @@
     {
       "locus": "Apicius, De Re Coquinaria 6.8.12",
       "source_text": "Pullum Frontonianum: pullum praedura, condies liquamine, oleo mixto, cui mittis fasciculum anethi, porri, satureiae et coriandri viridis, et coques. ubi coctus fuerit, levabis eum, in lance defrito perungues, piper aspargis et inferes.",
-      "question": "Quo pullus Frontonianus coctus in lance apud Apicium perungitur?",
+      "question": "Quo pullus Frontonianus, ubi coctus in lance positus est, perungitur apud Apicium?",
       "answer": "Defrito.",
-      "question_en": "With what is the cooked pullus Frontonianus (Fronto's chicken) glazed on the platter in Apicius?",
+      "question_en": "With what is pullus Frontonianus (Fronto's chicken), once cooked and placed on its platter, glazed in Apicius?",
       "answer_en": "With defrutum (boiled-down must).",
       "derivation": "Pullus Frontonianus, the chicken bearing the name of Fronto, is finished by anointing with defrutum on the serving dish. Person-named dish; verbatim (in lance defrito perungues).",
       "category": "cibus"

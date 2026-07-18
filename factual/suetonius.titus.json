@@ -87,10 +87,10 @@
     {
       "locus": "Suetonius, Divus Titus 8",
       "source_text": "Quaedam sub eo fortuita ac tristia acciderunt, ut conflagratio Vesevi montis in Campania, et incendium Romae per triduum totidemque noctes, item pestilentia quanta non temere alias.",
-      "question": "Cuius montis conflagratio in Campania sub Tito principe accidit?",
-      "answer": "Vesevi montis.",
-      "question_en": "The eruption of which mountain occurred in Campania during the reign of Titus?",
-      "answer_en": "Of Mount Vesuvius.",
+      "question": "Qui mons in Campania sub Tito principe conflagravit?",
+      "answer": "Vesuvius (Vesevus).",
+      "question_en": "Which mountain in Campania erupted during the reign of Titus?",
+      "answer_en": "Vesuvius (Suetonius' spelling: 'Vesevus').",
       "derivation": "The eruption of Vesuvius (AD 79), the great disaster of Titus's reign. Supported verbatim by 'conflagratio Vesevi montis in Campania.' Entity-anchored to Titus's reign + Campania; single-place answer; closed-book. (source_text keeps the Latin Library spelling 'Vesevi' for 'Vesuvii'.)"
     },
     {
