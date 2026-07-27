@@ -1,241 +1,305 @@
 {
-  "gemma4:31b-cpu": {
+  "gemma4:31b": {
     "questions": 233,
     "rollouts": 699,
-    "success_pct": 78.8,
-    "pass_any_pct": 83.7,
-    "exact_pct": 50.1,
-    "mean_seconds": 48.0,
+    "success_pct": 79.1,
+    "pass_any_pct": 84.5,
+    "exact_pct": 50.8,
+    "mean_seconds": 24.6,
     "by_difficulty": {
       "red": {
         "questions": 43,
         "rollouts": 129,
-        "success_pct": 55.8,
-        "pass_any_pct": 60.5,
+        "success_pct": 56.6,
+        "pass_any_pct": 65.1,
         "exact_pct": 30.2,
-        "mean_seconds": 76.3
+        "mean_seconds": 33.5
       },
       "orange": {
         "questions": 95,
         "rollouts": 285,
-        "success_pct": 72.6,
-        "pass_any_pct": 80.0,
-        "exact_pct": 45.3,
-        "mean_seconds": 50.8
+        "success_pct": 74.7,
+        "pass_any_pct": 82.1,
+        "exact_pct": 48.1,
+        "mean_seconds": 26.3
       },
       "blue": {
         "questions": 70,
         "rollouts": 210,
-        "success_pct": 94.3,
-        "pass_any_pct": 97.1,
+        "success_pct": 93.3,
+        "pass_any_pct": 95.7,
         "exact_pct": 64.3,
-        "mean_seconds": 32.3
+        "mean_seconds": 20.6
       },
       "green": {
         "questions": 25,
         "rollouts": 75,
-        "success_pct": 98.7,
-        "pass_any_pct": 100.0,
-        "exact_pct": 62.7,
-        "mean_seconds": 32.2
+        "success_pct": 94.7,
+        "pass_any_pct": 96.0,
+        "exact_pct": 58.7,
+        "mean_seconds": 14.1
       }
     },
     "by_compiler": {
       "Lee": {
         "questions": 112,
         "rollouts": 336,
-        "success_pct": 72.9,
+        "success_pct": 71.1,
         "pass_any_pct": 78.6,
-        "exact_pct": 39.6,
-        "mean_seconds": 52.5
+        "exact_pct": 41.1,
+        "mean_seconds": 27.3
       },
       "Vivienne": {
         "questions": 121,
         "rollouts": 363,
-        "success_pct": 84.3,
-        "pass_any_pct": 88.4,
+        "success_pct": 86.5,
+        "pass_any_pct": 90.1,
         "exact_pct": 59.8,
-        "mean_seconds": 43.8
+        "mean_seconds": 22.1
       }
     }
   },
-  "gemma4:e2b-cpu": {
+  "gemma4:e2b": {
     "questions": 233,
     "rollouts": 699,
-    "success_pct": 21.6,
-    "pass_any_pct": 28.3,
-    "exact_pct": 11.7,
-    "mean_seconds": 6.0,
+    "success_pct": 22.0,
+    "pass_any_pct": 28.8,
+    "exact_pct": 10.9,
+    "mean_seconds": 5.5,
     "by_difficulty": {
       "red": {
         "questions": 43,
         "rollouts": 129,
-        "success_pct": 7.0,
-        "pass_any_pct": 11.6,
-        "exact_pct": 3.9,
-        "mean_seconds": 6.2
-      },
-      "orange": {
-        "questions": 95,
-        "rollouts": 285,
-        "success_pct": 12.3,
-        "pass_any_pct": 17.9,
-        "exact_pct": 6.3,
-        "mean_seconds": 6.3
-      },
-      "blue": {
-        "questions": 70,
-        "rollouts": 210,
-        "success_pct": 34.8,
-        "pass_any_pct": 44.3,
-        "exact_pct": 21.0,
+        "success_pct": 4.7,
+        "pass_any_pct": 4.7,
+        "exact_pct": 2.3,
         "mean_seconds": 5.8
       },
-      "green": {
-        "questions": 25,
-        "rollouts": 75,
-        "success_pct": 45.3,
-        "pass_any_pct": 52.0,
-        "exact_pct": 20.0,
+      "orange": {
+        "questions": 95,
+        "rollouts": 285,
+        "success_pct": 13.0,
+        "pass_any_pct": 17.9,
+        "exact_pct": 6.3,
+        "mean_seconds": 5.5
+      },
+      "blue": {
+        "questions": 70,
+        "rollouts": 210,
+        "success_pct": 35.7,
+        "pass_any_pct": 47.1,
+        "exact_pct": 18.1,
         "mean_seconds": 5.6
-      }
-    },
-    "by_compiler": {
-      "Lee": {
-        "questions": 112,
-        "rollouts": 336,
-        "success_pct": 14.9,
-        "pass_any_pct": 19.6,
-        "exact_pct": 5.1,
-        "mean_seconds": 5.9
-      },
-      "Vivienne": {
-        "questions": 121,
-        "rollouts": 363,
-        "success_pct": 27.8,
-        "pass_any_pct": 36.4,
-        "exact_pct": 17.9,
-        "mean_seconds": 6.1
-      }
-    }
-  },
-  "gpt-oss:120b-cpu": {
-    "questions": 233,
-    "rollouts": 699,
-    "success_pct": 67.4,
-    "pass_any_pct": 77.7,
-    "exact_pct": 39.6,
-    "mean_seconds": 33.0,
-    "by_difficulty": {
-      "red": {
-        "questions": 43,
-        "rollouts": 129,
-        "success_pct": 40.3,
-        "pass_any_pct": 51.2,
-        "exact_pct": 21.7,
-        "mean_seconds": 38.5
-      },
-      "orange": {
-        "questions": 95,
-        "rollouts": 285,
-        "success_pct": 61.8,
-        "pass_any_pct": 74.7,
-        "exact_pct": 33.0,
-        "mean_seconds": 35.1
-      },
-      "blue": {
-        "questions": 70,
-        "rollouts": 210,
-        "success_pct": 82.9,
-        "pass_any_pct": 90.0,
-        "exact_pct": 56.2,
-        "mean_seconds": 30.4
       },
       "green": {
         "questions": 25,
         "rollouts": 75,
-        "success_pct": 92.0,
-        "pass_any_pct": 100.0,
-        "exact_pct": 49.3,
-        "mean_seconds": 22.7
+        "success_pct": 48.0,
+        "pass_any_pct": 60.0,
+        "exact_pct": 22.7,
+        "mean_seconds": 4.6
       }
     },
     "by_compiler": {
       "Lee": {
         "questions": 112,
         "rollouts": 336,
-        "success_pct": 61.9,
-        "pass_any_pct": 72.3,
-        "exact_pct": 30.1,
-        "mean_seconds": 38.8
+        "success_pct": 17.9,
+        "pass_any_pct": 24.1,
+        "exact_pct": 5.4,
+        "mean_seconds": 4.4
       },
       "Vivienne": {
         "questions": 121,
         "rollouts": 363,
-        "success_pct": 72.5,
-        "pass_any_pct": 82.6,
-        "exact_pct": 48.5,
-        "mean_seconds": 27.5
+        "success_pct": 25.9,
+        "pass_any_pct": 33.1,
+        "exact_pct": 16.0,
+        "mean_seconds": 6.5
       }
     }
   },
-  "nemotron-3-super:120b-cpu": {
+  "gpt-oss:120b": {
     "questions": 233,
     "rollouts": 699,
-    "success_pct": 77.7,
-    "pass_any_pct": 89.7,
-    "exact_pct": 43.9,
-    "mean_seconds": 103.2,
+    "success_pct": 68.2,
+    "pass_any_pct": 81.1,
+    "exact_pct": 41.1,
+    "mean_seconds": 6.6,
     "by_difficulty": {
       "red": {
         "questions": 43,
         "rollouts": 129,
-        "success_pct": 60.5,
-        "pass_any_pct": 81.4,
-        "exact_pct": 31.8,
-        "mean_seconds": 117.7
+        "success_pct": 39.5,
+        "pass_any_pct": 58.1,
+        "exact_pct": 22.5,
+        "mean_seconds": 8.0
       },
       "orange": {
         "questions": 95,
         "rollouts": 285,
-        "success_pct": 73.3,
-        "pass_any_pct": 86.3,
-        "exact_pct": 41.4,
-        "mean_seconds": 113.3
+        "success_pct": 63.2,
+        "pass_any_pct": 80.0,
+        "exact_pct": 35.1,
+        "mean_seconds": 7.0
       },
       "blue": {
         "questions": 70,
         "rollouts": 210,
-        "success_pct": 88.6,
-        "pass_any_pct": 95.7,
-        "exact_pct": 55.7,
-        "mean_seconds": 84.1
+        "success_pct": 83.8,
+        "pass_any_pct": 90.0,
+        "exact_pct": 55.2,
+        "mean_seconds": 6.0
       },
       "green": {
         "questions": 25,
         "rollouts": 75,
         "success_pct": 93.3,
         "pass_any_pct": 100.0,
-        "exact_pct": 41.3,
-        "mean_seconds": 93.2
+        "exact_pct": 56.0,
+        "mean_seconds": 4.8
       }
     },
     "by_compiler": {
       "Lee": {
         "questions": 112,
         "rollouts": 336,
-        "success_pct": 74.1,
-        "pass_any_pct": 86.6,
-        "exact_pct": 33.9,
-        "mean_seconds": 126.0
+        "success_pct": 64.3,
+        "pass_any_pct": 81.2,
+        "exact_pct": 33.3,
+        "mean_seconds": 7.8
       },
       "Vivienne": {
         "questions": 121,
         "rollouts": 363,
-        "success_pct": 81.0,
-        "pass_any_pct": 92.6,
-        "exact_pct": 53.2,
-        "mean_seconds": 82.0
+        "success_pct": 71.9,
+        "pass_any_pct": 81.0,
+        "exact_pct": 48.2,
+        "mean_seconds": 5.6
+      }
+    }
+  },
+  "qwen3.5:2b": {
+    "questions": 6,
+    "rollouts": 16,
+    "success_pct": 6.2,
+    "pass_any_pct": 16.7,
+    "exact_pct": 0.0,
+    "mean_seconds": 125.6,
+    "by_difficulty": {
+      "red": {
+        "questions": 4,
+        "rollouts": 12,
+        "success_pct": 8.3,
+        "pass_any_pct": 25.0,
+        "exact_pct": 0.0,
+        "mean_seconds": 123.2
+      },
+      "orange": {
+        "questions": 2,
+        "rollouts": 4,
+        "success_pct": 0.0,
+        "pass_any_pct": 0.0,
+        "exact_pct": 0.0,
+        "mean_seconds": 132.8
+      }
+    },
+    "by_compiler": {
+      "Lee": {
+        "questions": 6,
+        "rollouts": 16,
+        "success_pct": 6.2,
+        "pass_any_pct": 16.7,
+        "exact_pct": 0.0,
+        "mean_seconds": 125.6
+      }
+    }
+  },
+  "qwen3.5:4b": {
+    "questions": 34,
+    "rollouts": 101,
+    "success_pct": 20.8,
+    "pass_any_pct": 35.3,
+    "exact_pct": 3.0,
+    "mean_seconds": 189.1,
+    "by_difficulty": {
+      "red": {
+        "questions": 12,
+        "rollouts": 36,
+        "success_pct": 19.4,
+        "pass_any_pct": 33.3,
+        "exact_pct": 5.6,
+        "mean_seconds": 154.4
+      },
+      "orange": {
+        "questions": 17,
+        "rollouts": 50,
+        "success_pct": 16.0,
+        "pass_any_pct": 29.4,
+        "exact_pct": 2.0,
+        "mean_seconds": 219.3
+      },
+      "blue": {
+        "questions": 4,
+        "rollouts": 12,
+        "success_pct": 41.7,
+        "pass_any_pct": 50.0,
+        "exact_pct": 0.0,
+        "mean_seconds": 175.2
+      },
+      "green": {
+        "questions": 1,
+        "rollouts": 3,
+        "success_pct": 33.3,
+        "pass_any_pct": 100.0,
+        "exact_pct": 0.0,
+        "mean_seconds": 157.7
+      }
+    },
+    "by_compiler": {
+      "Lee": {
+        "questions": 34,
+        "rollouts": 101,
+        "success_pct": 20.8,
+        "pass_any_pct": 35.3,
+        "exact_pct": 3.0,
+        "mean_seconds": 189.1
+      }
+    }
+  },
+  "qwen3.6:27b": {
+    "questions": 7,
+    "rollouts": 19,
+    "success_pct": 52.6,
+    "pass_any_pct": 71.4,
+    "exact_pct": 42.1,
+    "mean_seconds": 328.5,
+    "by_difficulty": {
+      "red": {
+        "questions": 5,
+        "rollouts": 13,
+        "success_pct": 38.5,
+        "pass_any_pct": 60.0,
+        "exact_pct": 30.8,
+        "mean_seconds": 155.1
+      },
+      "orange": {
+        "questions": 2,
+        "rollouts": 6,
+        "success_pct": 83.3,
+        "pass_any_pct": 100.0,
+        "exact_pct": 66.7,
+        "mean_seconds": 704.0
+      }
+    },
+    "by_compiler": {
+      "Lee": {
+        "questions": 7,
+        "rollouts": 19,
+        "success_pct": 52.6,
+        "pass_any_pct": 71.4,
+        "exact_pct": 42.1,
+        "mean_seconds": 328.5
       }
     }
   }
