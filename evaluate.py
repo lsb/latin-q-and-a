@@ -8,12 +8,12 @@
 """Closed-book Latin QA evaluation of local Ollama models over qa.jsonl.
 
 Everything the candidate model sees is Latin: the signature instructions, the
-few-shot demos, the question. An LLM judge (qwen3.6:27b by default) then marks
+few-shot demos, the question. An LLM judge (gemma4:31b by default) then marks
 whether each answer is substantially the same fact as the gold answer — string
 match is not required ("'Caesar have.'" vs "Ave Caesar" counts).
 
 Usage:
-    uv run evaluate.py                          # all 10 models, all pairs, 10 rollouts, -cpu variants
+    uv run evaluate.py                          # all 8 models, all pairs, 10 rollouts, -cpu variants
     uv run evaluate.py --limit 25 --rollouts 3  # development-sized run
     uv run evaluate.py --models qwen3.5:2b,gemma4:12b
     uv run evaluate.py --no-cpu                 # full-speed (non -cpu) variants
@@ -43,16 +43,12 @@ HERE = Path(__file__).parent
 DIFFICULTIES = {"r": "red", "o": "orange", "b": "blue", "g": "green"}
 
 DEFAULT_MODELS = [
-    "qwen3.6:27b",
-    "glm-4.7-flash:latest",
-    "gpt-oss:120b",
-    "nemotron-3-super:120b",
-    "qwen3.5:27b",
-    "qwen3.5:9b",
-    "qwen3.5:2b",
-    "gemma4:31b",
-    "gemma4:12b",
     "gemma4:e2b",
+    "gemma4:12b",
+    "gemma4:31b",
+    "qwen3.5:9b",
+    "qwen3.5:27b",
+    "qwen3.6:27b",
 ]
 
 # Few-shot demos are drawn per question from the human-reviewed pairs
@@ -171,7 +167,7 @@ def make_lm(model: str, args, *, judge: bool = False) -> dspy.LM:
     return dspy.LM(
         f"ollama_chat/{model}",
         api_base=args.api_base,
-        api_key="",
+        api_key=args.api_key,
         temperature=0.0 if judge else args.temperature,
         max_tokens=args.max_tokens,
         # Never serve responses from dspy's disk cache: answers.jsonl and
@@ -365,7 +361,7 @@ def main() -> None:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--models", default=",".join(DEFAULT_MODELS),
                    help="comma-separated Ollama models (base names, without -cpu)")
-    p.add_argument("--judge", default="qwen3.6:27b")
+    p.add_argument("--judge", default="gemma4:31b")
     p.add_argument("--rollouts", type=int, default=10)
     p.add_argument("--limit", type=int, default=None,
                    help="evaluate a random sample of N questions (seeded, stable)")
@@ -378,7 +374,10 @@ def main() -> None:
     p.add_argument("--num-ctx", type=int, default=81920,
                    help="context window; must hold prompt + max-tokens")
     p.add_argument("--timeout", type=int, default=7200)
-    p.add_argument("--api-base", default="http://localhost:11434")
+    p.add_argument("--api-base", default="http://localhost:11434",
+                   help="Ollama endpoint; can be a remote URL, e.g. a Modal deployment")
+    p.add_argument("--api-key", default="",
+                   help="sent as a Bearer token; empty for a local Ollama")
     p.add_argument("--qa", default=str(HERE / "qa.jsonl"))
     p.add_argument("--demo-file", default=str(HERE / "manually_reviewed.jsonl"),
                    help="pool of human-reviewed pairs used as few-shot demos")
