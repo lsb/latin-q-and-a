@@ -1,0 +1,2128 @@
+{
+  "source": "text/pliny.nh7.txt",
+  "author": "Pliny the Elder",
+  "work": "Naturalis Historia, liber VII",
+  "provenance": "LacusCurtius (Mayhoff/Teubner edition) — NOT the Latin Library; this book is absent from the Latin Library corpus and was fetched separately, normalized to the corpus's plain-text style.",
+  "pairs": [
+    {
+      "locus": "Plinius, Naturalis Historia 7.10",
+      "source_text": "produntur Arimaspi, quos diximus, uno oculo in fronte media insignes. quibus adsidue bellum esse circa metalla cum grypis, ferarum volucri genere, quale vulgo traditur, eruente ex cuniculis aurum, mira cupiditate et feris custodientibus et Arimaspis rapientibus, multi, sed maxime inlustres Herodotus et Aristeas Proconnesius scribunt.",
+      "question": "Quo corporis insigni Arimaspos notari Plinius tradit?",
+      "answer": "Uno oculo in fronte media.",
+      "question_en": "By what bodily peculiarity does Pliny say the Arimaspi are marked?",
+      "answer_en": "By a single eye in the middle of the forehead.",
+      "derivation": "The one-eyed Arimaspi of the far north, a fixture of ancient ethnography from Herodotus and Aristeas onward. Anchored to the named people; the answer is stated verbatim (uno oculo in fronte media insignes). Closed-book and part of the shared stock of ancient world-geography.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.10",
+      "source_text": "quibus adsidue bellum esse circa metalla cum grypis, ferarum volucri genere, quale vulgo traditur, eruente ex cuniculis aurum, mira cupiditate et feris custodientibus et Arimaspis rapientibus, multi, sed maxime inlustres Herodotus et Aristeas Proconnesius scribunt.",
+      "question": "Cum quo genere ferarum Arimaspos circa aurum adsidue bellare traditur?",
+      "answer": "Cum grypis.",
+      "question_en": "With what kind of beasts are the Arimaspi said to wage continual war over gold?",
+      "answer_en": "With griffins.",
+      "derivation": "The perpetual war of the Arimaspi with the gold-guarding griffins. Anchored to the named people; single answer (grypes) supported verbatim. Closed-book: one of the best-known marvels of the ancient north, cited by Pliny from Herodotus and Aristeas.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.14",
+      "source_text": "similis et in Africa Psyllorum gens fuit, ut Agatharchides scribit, a Psyllo rege dicta, cuius sepulcrum in parte Syrtium Maiorum est.",
+      "question": "A quo rege gentem Psyllorum in Africa nomen accepisse Plinius tradit?",
+      "answer": "A Psyllo rege.",
+      "question_en": "From which king does Pliny say the African people of the Psylli took their name?",
+      "answer_en": "From king Psyllus.",
+      "derivation": "The Psylli, the famous snake-charming people of the Syrtes, named from king Psyllus whose tomb lies by the Greater Syrtis. Anchored to the named people; single named answer supported verbatim. Closed-book: the Psylli are a stock reference for snake-immunity in Latin literature.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.14",
+      "source_text": "horum corpori ingenitum fuit virus exitiale serpentibus et cuius odore sopirent eas; mos vero liberos genitos protinus obiciendi saevissimis earum eoque genere pudicitiam coniugum experiendi, non profugientibus adulterino sanguine natos serpentibus.",
+      "question": "Quo more Psylli pudicitiam coniugum suarum experiri solebant?",
+      "answer": "Liberos recens genitos serpentibus obiciendo.",
+      "question_en": "By what custom did the Psylli test the chastity of their wives?",
+      "answer_en": "By exposing their newborn children to snakes.",
+      "derivation": "The Psyllan ordeal: infants were thrown to the fiercest snakes, which fled from children of adulterous blood. Anchored to the named people; the custom is stated verbatim (mos vero liberos genitos protinus obiciendi ... eoque genere pudicitiam coniugum experiendi). A named ethnographic custom, closed-book and short-answerable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.15",
+      "source_text": "simile et in Italia Marsorum genus durat, quos a Circae filio ortos ferunt et ideo inesse iis vim naturalem eam.",
+      "question": "A cuius filio Marsos, gentem Italiae serpentibus immunem, ortos esse ferunt?",
+      "answer": "A Circae filio.",
+      "question_en": "From whose son are the Marsi, the Italian people immune to snakes, said to be descended?",
+      "answer_en": "From the son of Circe.",
+      "derivation": "The Marsi of central Italy, proverbial snake-handlers, traced to a son of Circe, whence their inborn power against serpents. Anchored to the named people; single answer supported verbatim. Closed-book: Marsian snake-charmers are a commonplace of Roman culture.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.19",
+      "source_text": "Haut procul urbe Roma in Faliscorum agro familiae sunt paucae quae vocantur Hirpi. hae sacrificio annuo, quod fit ad montem Soractem Apollini, super ambustam ligni struem ambulantes non aduruntur et ob id perpetuo senatus consulto militiae omniumque aliorum munerum vacationem habent.",
+      "question": "Quo nomine appellantur illae Faliscorum agri familiae quae ad montem Soractem super ambustam ligni struem inlaesae ambulant?",
+      "answer": "Hirpi.",
+      "question_en": "What are the families of the Faliscan territory called who walk unburned over a heap of charred wood at Mount Soracte?",
+      "answer_en": "The Hirpi.",
+      "derivation": "The Hirpi Sorani, the fire-walking families of the Faliscan country. Anchored to the place (ager Faliscus, mons Soracte) and the rite; single named answer supported verbatim. Closed-book and a celebrated Italian religious custom.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.19",
+      "source_text": "hae sacrificio annuo, quod fit ad montem Soractem Apollini, super ambustam ligni struem ambulantes non aduruntur et ob id perpetuo senatus consulto militiae omniumque aliorum munerum vacationem habent.",
+      "question": "Cui deo Hirpi ad montem Soractem sacrificium annuum faciebant?",
+      "answer": "Apollini.",
+      "question_en": "To which god did the Hirpi make their annual sacrifice at Mount Soracte?",
+      "answer_en": "To Apollo.",
+      "derivation": "The annual fire-walking sacrifice of the Hirpi at Soracte was made to Apollo (Soranus). Anchored to the named people and mountain; single named answer supported verbatim. A specific cult fact of Italian religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.19",
+      "source_text": "hae sacrificio annuo, quod fit ad montem Soractem Apollini, super ambustam ligni struem ambulantes non aduruntur et ob id perpetuo senatus consulto militiae omniumque aliorum munerum vacationem habent.",
+      "question": "Quid Hirpis perpetuo senatus consulto ob id sacrificium concessum est?",
+      "answer": "Militiae omniumque aliorum munerum vacatio.",
+      "question_en": "What was granted to the Hirpi by a standing decree of the senate on account of that sacrifice?",
+      "answer_en": "Exemption from military service and from all other public duties.",
+      "derivation": "The Roman senate granted the fire-walking Hirpi a perpetual exemption from military service and all other munera. Anchored to the named families and the senatus consultum; the privilege is stated verbatim. A concrete institutional privilege, closed-book.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.20",
+      "source_text": "quorundam corpori partes nascuntur ad aliqua mirabiles, sicut Pyrro regi pollex in dextro pede, cuius tactu lienosis medebatur. hunc cremari cum reliquo corpore non potuisse tradunt conditumque loculo in templo.",
+      "question": "Cuius regis pollex in dextro pede tactu lienosis mederi credebatur?",
+      "answer": "Pyrrhi.",
+      "question_en": "Which king's big toe on his right foot was believed to heal sufferers from the spleen by its touch?",
+      "answer_en": "Pyrrhus's.",
+      "derivation": "The healing thumb-toe of king Pyrrhus, which (Pliny adds) could not be burned with the rest of his body and was laid up in a casket in a temple. Anchored to the named king; single named answer supported verbatim. Closed-book and a famous curiosity of the king Rome fought in Italy.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.22",
+      "source_text": "philosophos eorum, quos gymnosophistas vocant, ab exortu ad occasum perstare contuentes solem inmobilibus oculis, ferventibus harenis toto die alternis pedibus insistere.",
+      "question": "Quo nomine philosophi Indorum, qui a solis exortu ad occasum solem inmobilibus oculis contuentur, appellantur?",
+      "answer": "Gymnosophistae.",
+      "question_en": "By what name are those Indian philosophers called who gaze at the sun with unmoving eyes from its rising to its setting?",
+      "answer_en": "Gymnosophists.",
+      "derivation": "The Indian gymnosophistae ('naked philosophers'), a fixture of Greco-Roman accounts of India since Alexander. Anchored to India and the described practice; single named answer supported verbatim. Closed-book shared knowledge of the ancient world.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.23",
+      "source_text": "idem hominum genus, qui Monocoli vocarentur, singulis cruribus, mirae pernicitatis ad saltum; eodem Sciapodas vocari, quod in maiore aestu humi iacentes resupini umbra se pedum protegant.",
+      "question": "Quo altero nomine Monocoli, gens Indiae singulis cruribus praedita, propter umbram pedum vocantur?",
+      "answer": "Sciapodae.",
+      "question_en": "By what other name are the Monocoli, the one-legged Indian people, called, from the shade of their feet?",
+      "answer_en": "Sciapodes ('shade-foots').",
+      "derivation": "The one-legged Monocoli, also called Sciapodes because they shelter under the shadow of their single foot. Anchored to the named people; single named answer supported verbatim. Closed-book: the Sciapodes are among the best-known marvels of ancient India-lore.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.25",
+      "source_text": "ad extremos fines Indiae ab oriente circa fontem Gangis Astomorum gentem sine ore, corpore toto hirtam vestiri frondium lanugine, halitu tantum viventem et odore, quem naribus trahant.",
+      "question": "Qua re sola Astomi, gens Indiae sine ore, vivere dicuntur?",
+      "answer": "Halitu et odore.",
+      "question_en": "On what alone are the Astomi, the mouthless Indian people, said to live?",
+      "answer_en": "On breath and scent alone.",
+      "derivation": "The mouthless Astomi at the source of the Ganges, who live only by breathing in odours. Anchored to the named people and place; the answer is stated verbatim (halitu tantum viventem et odore). Closed-book marvel-ethnography.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.26",
+      "source_text": "super hos extrema in parte montium Trispithami Pygmaeique narrantur, ternas spithamas longitudine, hoc est ternos dodrantes, non excedentes, salubri caelo semperque vernante montibus ab aquilone oppositis, quos a gruibus infestari Homerus quoque prodidit.",
+      "question": "A quibus avibus Pygmaeos infestari Homerus quoque prodidit?",
+      "answer": "A gruibus.",
+      "question_en": "By what birds does Homer too report that the Pygmies are harassed?",
+      "answer_en": "By cranes.",
+      "derivation": "The war of the Pygmies with the cranes, already in Homer (Iliad 3.3-6) and repeated by Pliny. Anchored to the Pygmies and Homer; single answer supported verbatim. Closed-book and among the most familiar images of ancient legend.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.33",
+      "source_text": "Tergeminos nasci certum est Horatiorum Curiatiorumque exemplo.",
+      "question": "Quorum exemplo tergeminos nasci certum esse Plinius adfirmat?",
+      "answer": "Horatiorum Curiatiorumque.",
+      "question_en": "By whose example does Pliny affirm it certain that triplets are born?",
+      "answer_en": "By that of the Horatii and the Curiatii.",
+      "derivation": "Pliny cites the two sets of triplets of Roman legend, the Horatii and Curiatii, as proof that triplets occur. Anchored to the named families; the answer is stated verbatim. Closed-book: the combat of the three Horatii and three Curiatii under Tullus Hostilius is foundational Roman lore.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.34",
+      "source_text": "Pompeius Magnus in ornamentis theatri mirabiles fama posuit effigies, ob id diligentius magnorum artificum ingeniis elaboratas, inter quas legitur Eutychis a XX liberis rogo inlata Trallibus, enixa XXX partus.",
+      "question": "Quot partus Eutychis Trallibus enixa esse in Pompei theatri ornamentis legebatur?",
+      "answer": "Triginta.",
+      "question_en": "How many times had Eutychis of Tralles given birth, according to the record among the ornaments of Pompey's theatre?",
+      "answer_en": "Thirty times.",
+      "derivation": "Among the marvel-statues in Pompey's theatre stood Eutychis of Tralles, carried to the pyre by twenty children after thirty deliveries. Anchored to the named woman, her city, and Pompey's theatre; single number answer supported verbatim. Closed-book and a striking piece of Roman public display.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.45",
+      "source_text": "In pedes procidere nascentem contra naturam est, quo argumento eos appellavere Agrippas ut aegri partus, qualiter et M. Agrippam ferunt genitum, unico prope felicitatis exemplo in omnibus ad hunc modum genitis.",
+      "question": "Quo nomine ii appellabantur qui in pedes procidentes nascerentur, ut Plinius scribit?",
+      "answer": "Agrippae.",
+      "question_en": "What name was given to those born feet first, according to Pliny?",
+      "answer_en": "Agrippae.",
+      "derivation": "Pliny's derivation of the name Agrippa from breech birth (aegre partus), illustrated by M. Agrippa himself. Anchored to the custom and to Agrippa; single answer supported verbatim. Translatable (the answer is a Roman name, not a linguistic trick) and closed-book.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.46",
+      "source_text": "ritus naturae hominem capite gigni, mos est pedibus efferri.",
+      "question": "Qua corporis parte praeeunte mortuos efferri mos apud Romanos erat, ut Plinius adnotat?",
+      "answer": "Pedibus.",
+      "question_en": "With which part of the body going first was it the Roman custom to carry out the dead, as Pliny notes?",
+      "answer_en": "Feet first.",
+      "derivation": "Pliny's antithesis: nature's rule is to be born head first, custom's rule is to be carried out for burial feet first. Anchored to Roman funeral custom; the answer is stated verbatim (mos est pedibus efferri). A well-known Roman burial usage, closed-book and short-answerable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.47",
+      "source_text": "Auspicatius enecta parente gignuntur, sicut Scipio Africanus prior natus primusque Caesarum a caeso matris utero dictus, qua de causa et Caesones appellati.",
+      "question": "Unde primum Caesarum nomen accepisse Plinius tradit?",
+      "answer": "A caeso matris utero.",
+      "question_en": "From what does Pliny say the first of the Caesars got his name?",
+      "answer_en": "From his mother's womb having been cut open.",
+      "derivation": "Pliny's etymology of the cognomen Caesar (and of Caeso) from birth by cutting the mother's womb, alongside the elder Scipio Africanus. Anchored to the Caesares; the answer is stated verbatim. A famous piece of Roman onomastic tradition, translatable as a fact about the name's origin.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.47",
+      "source_text": "Vopiscos appellabant e geminis qui retenti utero nascerentur altero interempto abortu.",
+      "question": "Quo nomine appellabatur is e geminis qui in utero retentus nasceretur altero abortu interempto?",
+      "answer": "Vopiscus.",
+      "question_en": "What name was given to the twin who was carried to term after the other had been lost by miscarriage?",
+      "answer_en": "Vopiscus.",
+      "derivation": "The Roman term Vopiscus for the surviving twin of a miscarried pair (whence the cognomen). Anchored to the named Roman usage; single answer supported verbatim. Closed-book Roman terminology of birth, translatable because the answer is a name.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.57",
+      "source_text": "item alii aliaeque feminas tantum generant aut mares, plerumque et alternant, sicut Gracchorum mater duodeciens et Agrippina Germanici noviens.",
+      "question": "Quotiens Cornelia, Gracchorum mater, peperisse a Plinio traditur?",
+      "answer": "Duodeciens.",
+      "question_en": "How many times does Pliny report that Cornelia, the mother of the Gracchi, gave birth?",
+      "answer_en": "Twelve times.",
+      "derivation": "Pliny's figure for the fecundity of Cornelia, mother of the Gracchi (twelve deliveries), beside Agrippina's nine. Anchored to the named woman; single number answer supported verbatim. Closed-book: Cornelia and her children are a Roman byword.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.57",
+      "source_text": "item alii aliaeque feminas tantum generant aut mares, plerumque et alternant, sicut Gracchorum mater duodeciens et Agrippina Germanici noviens.",
+      "question": "Quotiens Agrippina, Germanici uxor, peperisse a Plinio traditur?",
+      "answer": "Noviens.",
+      "question_en": "How many times does Pliny report that Agrippina, the wife of Germanicus, gave birth?",
+      "answer_en": "Nine times.",
+      "derivation": "The elder Agrippina's nine deliveries, cited by Pliny beside Cornelia's twelve. Anchored to the named woman (Germanici); single number answer supported verbatim. Closed-book and part of the well-known dynastic record of the Julio-Claudians.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.59",
+      "source_text": "Q. Metellus Macedonicus, cum sex liberos relinqueret, XI nepotes reliquit, nurus vero generosque et omnes, qui se patris appellatione salutarent, XXVII.",
+      "question": "Quot liberos Q. Metellus Macedonicus moriens reliquisse a Plinio traditur?",
+      "answer": "Sex.",
+      "question_en": "How many children does Pliny say Q. Metellus Macedonicus left at his death?",
+      "answer_en": "Six.",
+      "derivation": "The domestic felicity of Metellus Macedonicus: six children, eleven grandchildren, twenty-seven persons who greeted him as father. Anchored to the named consular; single number answer supported verbatim. Closed-book, a stock Roman example of family fortune.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.61",
+      "source_text": "nam in viris Masinissam regem post LXXXVI annum generasse filium, quem Methimannum appellaverit, clarum est, Catonem censorium octogensimo exacto e filia Salonis clientis sui.",
+      "question": "Post quotum aetatis annum Masinissam regem filium genuisse Plinius scribit?",
+      "answer": "Post octogesimum sextum.",
+      "question_en": "After what year of his life does Pliny say king Masinissa fathered a son?",
+      "answer_en": "After his eighty-sixth.",
+      "derivation": "Masinissa of Numidia fathered a son (Methimannus) after his 86th year. Anchored to the named king; single number answer supported verbatim. Closed-book: Masinissa's long-lived vigour is a standard ancient exemplum.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.61",
+      "source_text": "nam in viris Masinissam regem post LXXXVI annum generasse filium, quem Methimannum appellaverit, clarum est, Catonem censorium octogensimo exacto e filia Salonis clientis sui.",
+      "question": "Ex cuius filia Cato censorius octogesimo aetatis anno exacto filium genuit?",
+      "answer": "Ex Saloni clientis sui filia.",
+      "question_en": "By whose daughter did Cato the Censor father a son after completing his eightieth year?",
+      "answer_en": "By the daughter of his client Salonius.",
+      "derivation": "Cato the Elder's late second marriage to the daughter of his client Salonius, whence the Saloniani branch (from which Cato Uticensis came). Anchored to Cato censorius; single answer supported verbatim. Closed-book and famous in Roman family history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.62",
+      "source_text": "qua de causa aliorum eius liberum propago Liciniani sunt cognominati, hi Saloniani, ex quis Uticensis fuit.",
+      "question": "Ex qua Catonum propagine, Licinianorum an Salonianorum, Cato Uticensis ortus est?",
+      "answer": "Ex Salonianis.",
+      "question_en": "From which branch of the Catos, the Liciniani or the Saloniani, did Cato of Utica descend?",
+      "answer_en": "From the Saloniani.",
+      "derivation": "Pliny distinguishes the two lines of Cato the Elder's descendants, Liciniani and Saloniani, and places Cato Uticensis in the latter. Anchored to the named branches and to Cato Uticensis; single answer supported verbatim. Closed-book Roman genealogy.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.68",
+      "source_text": "quosdam et cum dentibus nasci, sicut M'. Curium, qui ob id Dentatus cognominatus est, et Cn. Papirium Carbonem, praeclaros viros.",
+      "question": "Ob quam causam M'. Curius cognomen Dentati accepit, ut Plinius tradit?",
+      "answer": "Quod cum dentibus natus est.",
+      "question_en": "For what reason, according to Pliny, did Manius Curius receive the surname Dentatus?",
+      "answer_en": "Because he was born with teeth.",
+      "derivation": "Pliny explains the cognomen of M'. Curius Dentatus, victor over Pyrrhus, by birth with teeth already grown. Anchored to the named Roman; short causal answer that is a plain fact, supported verbatim. Closed-book Roman onomastics.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.72",
+      "source_text": "Hominem prius quam genito dente cremari mos gentium non est.",
+      "question": "Quales infantes cremari mos gentium non erat, ut Plinius adnotat?",
+      "answer": "Eos qui nondum dentem genuissent.",
+      "question_en": "Which infants, as Pliny notes, it was not the custom of nations to cremate?",
+      "answer_en": "Those who had not yet cut a tooth.",
+      "derivation": "The rule that a child who had not yet cut a tooth was not cremated but buried. Anchored to the funeral custom itself as reported by Pliny; the answer is stated verbatim. A concrete, checkable point of ancient burial practice, closed-book.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.72",
+      "source_text": "Risisse eodem die quo genitus esset unum hominum accepimus Zoroastren; eidem cerebrum ita palpitasse, ut inpositam repelleret manum, futurae praesagio scientiae.",
+      "question": "Quem unum hominum eodem die quo natus est risisse Plinius tradit?",
+      "answer": "Zoroastren.",
+      "question_en": "Who alone of men, according to Pliny, laughed on the very day he was born?",
+      "answer_en": "Zoroaster.",
+      "derivation": "The prodigy of Zoroaster laughing at birth, a portent of his coming wisdom. Anchored to the named figure; single named answer supported verbatim. Closed-book: Zoroaster's birth-laugh is a widely repeated ancient tradition.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.74",
+      "source_text": "Orestis corpus oraculi iussu refossum VII cubitorum fuisse monumentis creditur.",
+      "question": "Quot cubitorum corpus Orestis oraculi iussu refossum fuisse creditur?",
+      "answer": "Septem cubitorum.",
+      "question_en": "How many cubits long was the body of Orestes believed to be when it was dug up at the oracle's command?",
+      "answer_en": "Seven cubits.",
+      "derivation": "The disinterment of Orestes' seven-cubit body at Delphi's command (cf. Herodotus 1.68). Anchored to Orestes and the oracle; single number answer supported verbatim. Closed-book heroic lore.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.74",
+      "source_text": "procerissimum hominum aetas nostra Divo Claudio principe Gabbaram nomine ex Arabia advectum novem pedum et totidem unciarum vidit.",
+      "question": "Quo nomine fuit homo procerissimus, ex Arabia advectus, quem Plinii aetas Claudio principe vidit?",
+      "answer": "Gabbara.",
+      "question_en": "What was the name of the tallest man, brought from Arabia, whom Pliny's own age saw in the principate of Claudius?",
+      "answer_en": "Gabbara.",
+      "derivation": "Gabbara, the nine-foot-nine giant brought from Arabia under Claudius, the tallest man of Pliny's day. Anchored to the reign and the man; single named answer supported verbatim. Closed-book curiosity of imperial Rome.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.75",
+      "source_text": "eodem praeside minimus homo duos pedes et palmum Conopas nomine in deliciis Iuliae neptis eius fuit, et mulier Andromeda, liberta Iuliae Augustae.",
+      "question": "Quo nomine fuit minimus homo, duos pedes et palmum longus, qui in deliciis Iuliae, Augusti neptis, fuit?",
+      "answer": "Conopas.",
+      "question_en": "What was the name of the smallest man, two feet and a palm high, who was a favourite of Julia, Augustus's granddaughter?",
+      "answer_en": "Conopas.",
+      "derivation": "The dwarf Conopas, pet of the younger Julia, beside the freedwoman Andromeda. Anchored to Julia and Augustus's court; single named answer supported verbatim. Closed-book detail of Roman court life (delicia).",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.79",
+      "source_text": "Ferunt Crassum, avum Crassi in Parthis interempti, numquam risisse, ob id Agelastum vocatum, sicuti nec flesse multos.",
+      "question": "Cur Crassus, avus eius Crassi qui in Parthis interemptus est, Agelastus vocatus est?",
+      "answer": "Quod numquam riserat.",
+      "question_en": "Why was Crassus, the grandfather of the Crassus killed among the Parthians, called Agelastus?",
+      "answer_en": "Because he never laughed.",
+      "derivation": "The cognomen Agelastus ('never-laughing') of the grandfather of the triumvir Crassus. Anchored by the named descendant killed at Carrhae; short answer stated verbatim. Closed-book Roman anecdote (also in Cicero, Tusc. 3.31).",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.83",
+      "source_text": "Milonem athletam, cum constitisset, nemo vestigio educebat, malum tenenti modo digitum corrigebat.",
+      "question": "Quem athletam, cum constitisset, nemo loco movere poterat, ut Plinius tradit?",
+      "answer": "Milonem.",
+      "question_en": "Which athlete, once he had taken his stance, could no one shift from the spot, according to Pliny?",
+      "answer_en": "Milo (of Croton).",
+      "derivation": "Milo of Croton's immovable stance and unbendable finger, the standard ancient emblem of strength. Anchored to the named athlete; single named answer supported verbatim. Closed-book and thoroughly ambient.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.84",
+      "source_text": "Cucurrisse MCXL stadia ab Athenis Lacedaemonem biduo Philippidem magnum erat, donec Anystis cursor Lacedaemonius et Philonides Alexandri Magni a Sicyone Elim uno die MCCCV cucurrerunt.",
+      "question": "Quot stadia Philippides ab Athenis Lacedaemonem biduo cucurrisse traditur?",
+      "answer": "Mille centum quadraginta.",
+      "question_en": "How many stades is Philippides said to have run from Athens to Sparta in two days?",
+      "answer_en": "1,140.",
+      "derivation": "The run of Philippides from Athens to Sparta, 1,140 stades in two days. Anchored to the named runner and the two cities; single number answer supported verbatim. Closed-book: the most famous long run of antiquity.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.84",
+      "source_text": "donec Anystis cursor Lacedaemonius et Philonides Alexandri Magni a Sicyone Elim uno die MCCCV cucurrerunt.",
+      "question": "Quot stadia Anystis Lacedaemonius et Philonides a Sicyone Elim uno die cucurrerunt?",
+      "answer": "Mille trecenta quinque.",
+      "question_en": "How many stades did Anystis the Spartan and Philonides run from Sicyon to Elis in a single day?",
+      "answer_en": "1,305.",
+      "derivation": "The record that surpassed Philippides: 1,305 stades from Sicyon to Elis in one day, by Anystis and by Philonides, Alexander's courier. Anchored to the named runners and route; single number answer supported verbatim. Closed-book record-fact.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.84",
+      "source_text": "si quis cogitet nocte ac die longissimum iter vehiculis Tib. Neronem emensum festinantem ad Drusum fratrem aegrotum in Germaniam. ea fuerunt CC passuum.",
+      "question": "Ad quem fratrem aegrotum in Germaniam festinans Tiberius Nero longissimum iter nocte ac die vehiculis emensus est?",
+      "answer": "Ad Drusum.",
+      "question_en": "To which sick brother in Germany was Tiberius Nero hurrying when he covered the longest journey by carriage in a night and a day?",
+      "answer_en": "To Drusus.",
+      "derivation": "Tiberius's celebrated dash of 200 miles by carriage to the dying Drusus in Germany. Anchored to the two named brothers; single named answer supported verbatim. Closed-book and a well-known episode of the Augustan house.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.85",
+      "source_text": "in nuce inclusam Iliadem Homeri carmen in membrana scriptum tradit Cicero.",
+      "question": "Quod Homeri carmen in membrana scriptum et in nuce inclusum fuisse Cicero tradit?",
+      "answer": "Iliadem.",
+      "question_en": "Which poem of Homer does Cicero report to have been written on parchment and enclosed in a nutshell?",
+      "answer_en": "The Iliad.",
+      "derivation": "The 'Iliad in a nutshell', reported by Cicero and repeated by Pliny among marvels of eyesight and craft. Anchored to Homer and Cicero; single answer supported verbatim. Closed-book and proverbially famous.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.85",
+      "source_text": "huic et nomen M. Varro reddit: Strabonem vocatum; solitum autem Punico bello a Lilybaeo Siciliae promunturio, exeunte classe e Carthaginis portu, etiam numerum navium dicere.",
+      "question": "Quis, ut M. Varro tradit, Punico bello a Lilybaeo promunturio numerum navium e Carthaginis portu exeuntium dicere solebat?",
+      "answer": "Strabo.",
+      "question_en": "Who, as Varro records, used in the Punic War to count from the promontory of Lilybaeum the ships leaving the harbour of Carthage?",
+      "answer_en": "Strabo.",
+      "derivation": "The far-sighted Strabo, named by Varro, who could see 135 miles and count the Carthaginian fleet from Lilybaeum. Anchored to Varro, Lilybaeum, and Carthage; single named answer supported verbatim. Closed-book marvel of the senses.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.85",
+      "source_text": "Myrmecides quidem in eodem genere inclaruit quadriga ex eadem materia, quam musca integeret alis, fabricata et nave, quam apicula pinnis absconderet.",
+      "question": "Quo opere ex ebore facto Myrmecides inclaruit, quod musca alis integere posset?",
+      "answer": "Quadriga.",
+      "question_en": "By what ivory work, which a fly could cover with its wings, did Myrmecides become famous?",
+      "answer_en": "By a four-horse chariot.",
+      "derivation": "Myrmecides' ivory quadriga small enough for a fly's wings to hide, the companion marvel to Callicrates' ivory ants. Anchored to the named craftsman; single answer supported verbatim. Closed-book: Myrmecides and Callicrates are the ancient byword for miniature art.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.86",
+      "source_text": "Auditus unum exemplum habet mirabile proelium, quo Sybaris deleta est, eo die quo gestum erat auditum Olympiae.",
+      "question": "Ubi proelium, quo Sybaris deleta est, eodem die quo gestum est auditum esse traditur?",
+      "answer": "Olympiae.",
+      "question_en": "Where is the battle in which Sybaris was destroyed said to have been heard on the very day it was fought?",
+      "answer_en": "At Olympia.",
+      "derivation": "Pliny's single marvel of hearing: the destruction of Sybaris heard at Olympia the same day. Anchored to Sybaris; single place answer supported verbatim. Closed-book and tied to two famous Greek names.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.86",
+      "source_text": "nam fama Cimbricae victoriae Castoresque, Romam qui Persicam victoriam ipso die quo contigit nuntiavere, visus et numinum fuere praesagia.",
+      "question": "Qui dei Romam Persicam victoriam ipso die quo contigit nuntiavisse feruntur?",
+      "answer": "Castores.",
+      "question_en": "Which gods are said to have announced the victory over Perseus at Rome on the very day it was won?",
+      "answer_en": "Castor and Pollux.",
+      "derivation": "The Dioscuri bringing news of Pydna to Rome the same day, a canonical Roman prodigy. Anchored to Rome and the Persica victoria; single answer supported verbatim (Castores). Closed-book and central to the cult of Castor and Pollux at Rome.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.87",
+      "source_text": "Patientia corporis, ut est crebra sors calamitatium, innumera documenta peperit, clarissimum in feminis Leaenae meretricis, quae torta non indicavit Harmodium et Aristogitonem tyrannicidas.",
+      "question": "Quae meretrix, tormentis subiecta, Harmodium et Aristogitonem tyrannicidas non prodidit?",
+      "answer": "Leaena.",
+      "question_en": "Which courtesan, under torture, did not betray the tyrannicides Harmodius and Aristogiton?",
+      "answer_en": "Leaena.",
+      "derivation": "Leaena's silence under torture in the Athenian tyrannicide story. Anchored to Harmodius and Aristogiton; single named answer supported verbatim. Closed-book, part of the shared Athenian legend.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.87",
+      "source_text": "in viris Anaxarchi, qui, simili de causa cum torqueretur, praerosam dentibus linguam unamque spem indicii in tyranni os expuit.",
+      "question": "Quis philosophus, cum torqueretur, linguam dentibus praerosam in tyranni os expuit?",
+      "answer": "Anaxarchus.",
+      "question_en": "Which philosopher, while being tortured, bit off his tongue and spat it in the tyrant's face?",
+      "answer_en": "Anaxarchus.",
+      "derivation": "Anaxarchus of Abdera biting off his tongue under torture, Pliny's male counterpart to Leaena. Anchored to the named philosopher; single named answer supported verbatim. Closed-book and a standard exemplum of endurance.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.88",
+      "source_text": "Cyrus rex omnibus in exercitu suo militibus nomina reddidit, L. Scipio populo Romano, Cineas Pyrrhi regis legatus senatui et equestri ordini Romae postero die quam advenerat.",
+      "question": "Quis rex omnibus in exercitu suo militibus nomina reddidisse a Plinio traditur?",
+      "answer": "Cyrus.",
+      "question_en": "Which king, according to Pliny, could give back the names of all the soldiers in his army?",
+      "answer_en": "Cyrus.",
+      "derivation": "Cyrus's prodigious memory for the names of his whole army, first in Pliny's list of memory-feats. Anchored to the named king; single named answer supported verbatim. Closed-book and a stock example (cf. Cicero, Sen. 21).",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.88",
+      "source_text": "Cineas Pyrrhi regis legatus senatui et equestri ordini Romae postero die quam advenerat.",
+      "question": "Cuius regis legatus Cineas fuit, qui postero die quam Romam advenerat senatui et equestri ordini nomina reddidit?",
+      "answer": "Pyrrhi.",
+      "question_en": "Whose ambassador was Cineas, who the day after his arrival at Rome could name the whole senate and equestrian order?",
+      "answer_en": "King Pyrrhus's.",
+      "derivation": "Cineas, envoy of Pyrrhus, learned the names of the senate and equites in a day. Anchored to the named envoy and Rome; single named answer supported verbatim. Closed-book and a celebrated Roman anecdote.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.90",
+      "source_text": "ictus lapide oblitus est litteras tantum; ex praealto tecto lapsus matris et adfinium propinquorumque cepit oblivionem, alius aegrotus servorum, etiam sui vero nominis Messala Corvinus orator.",
+      "question": "Quis orator, ut Plinius tradit, etiam sui nominis oblitus est?",
+      "answer": "Messala Corvinus.",
+      "question_en": "Which orator, according to Pliny, forgot even his own name?",
+      "answer_en": "Messala Corvinus.",
+      "derivation": "The Augustan orator M. Valerius Messala Corvinus lost the memory of his own name in illness, Pliny's extreme case of memory's fragility. Anchored to the named orator; single named answer supported verbatim. Closed-book.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.91",
+      "source_text": "scribere aut legere, simul dictare et audire solitum accepimus, epistulas vero tantarum rerum quaternas pariter dictare.",
+      "question": "Quot epistulas de rebus maximis Caesarem dictatorem pariter dictare solitum esse Plinius tradit?",
+      "answer": "Quaternas.",
+      "question_en": "How many letters on affairs of the greatest importance does Pliny say Caesar the dictator used to dictate at one time?",
+      "answer_en": "Four.",
+      "derivation": "Caesar's celebrated mental speed: reading or writing while dictating and listening, and dictating four letters at once. Anchored to Caesar; single number answer supported verbatim. Closed-book and a stock illustration of Caesar's capacity.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.92",
+      "source_text": "idem signis conlatis bis et quinquagiens dimicavit, solus M. Marcellum transgressus, qui undequadragiens dimicavit.",
+      "question": "Quotiens Caesar dictator signis conlatis dimicavisse a Plinio traditur?",
+      "answer": "Bis et quinquagiens.",
+      "question_en": "How many pitched battles does Pliny say Caesar the dictator fought?",
+      "answer_en": "Fifty-two.",
+      "derivation": "Pliny's count of Caesar's pitched battles (52), which alone surpassed Marcellus's 39. Anchored to Caesar; single number answer supported verbatim. Closed-book record-fact of Roman military history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.92",
+      "source_text": "idem signis conlatis bis et quinquagiens dimicavit, solus M. Marcellum transgressus, qui undequadragiens dimicavit.",
+      "question": "Quotiens M. Marcellus signis conlatis dimicavit, quem solus Caesar numero proeliorum transgressus est?",
+      "answer": "Undequadragiens.",
+      "question_en": "How many pitched battles did M. Marcellus fight, whose record Caesar alone surpassed?",
+      "answer_en": "Thirty-nine.",
+      "derivation": "Marcellus's 39 pitched battles, the record before Caesar. Anchored to the named commander; single number answer supported verbatim. Closed-book and part of the Roman canon of military records.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.92",
+      "source_text": "nam praeter civiles victorias undeciens centena et nonaginta duo milia hominum occisa proeliis ab eo non equidem in gloria posuerim.",
+      "question": "Quot hominum milia, praeter civiles victorias, proeliis a Caesare occisa esse Plinius scribit?",
+      "answer": "Undeciens centena et nonaginta duo milia.",
+      "question_en": "How many men, apart from his victories in the civil wars, does Pliny say were killed in battle by Caesar?",
+      "answer_en": "1,192,000.",
+      "derivation": "Pliny's figure of 1,192,000 killed in Caesar's battles, which he pointedly refuses to count as glory. Anchored to Caesar; single number answer supported verbatim. Closed-book and a much-quoted statistic.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.94",
+      "source_text": "illa fuit vera et incomparabilis invicti animi sublimitas, captis apud Pharsaliam Pompei Magni scriniis epistularum iterumque apud Thapsum Scipionis concremasse ea optima fide atque non legisse.",
+      "question": "Quid Caesar cum scriniis epistularum apud Pharsaliam et apud Thapsum captis fecit?",
+      "answer": "Ea non lecta concremavit.",
+      "question_en": "What did Caesar do with the letter-cases captured at Pharsalus and at Thapsus?",
+      "answer_en": "He burned them without reading them.",
+      "derivation": "Caesar burned Pompey's and Scipio's captured correspondence unread, Pliny's chosen proof of his magnanimity. Anchored to the two named battles and Caesar; short factual answer supported verbatim. Closed-book and famous.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.96",
+      "source_text": "eques Romanus, id quod antea nemo, curru triumphali revectus et statim ad solis occasum transgressus, excitatis in Pyrenaeo tropaeis, oppida DCCCLXXVI ab Alpibus ad fines Hispaniae ulterioris in dicionem redacta victoriae suae adscripsit.",
+      "question": "Quis primus eques Romanus curru triumphali revectus est, ut Plinius tradit?",
+      "answer": "Cn. Pompeius Magnus.",
+      "question_en": "Who was the first Roman knight to ride in a triumphal chariot, according to Pliny?",
+      "answer_en": "Pompey the Great.",
+      "derivation": "Pompey triumphed as a mere eques, a thing no one had done before (id quod antea nemo). The subject is fixed by the surrounding narrative of Pompey's triumphs (Magni nomine ... capto). Single named answer; closed-book and a famous constitutional oddity of Pompey's career.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.96",
+      "source_text": "oppida DCCCLXXVI ab Alpibus ad fines Hispaniae ulterioris in dicionem redacta victoriae suae adscripsit et maiore animo Sertorium tacuit.",
+      "question": "Quot oppida ab Alpibus ad fines Hispaniae ulterioris in dicionem redacta Pompeius victoriae suae adscripsit?",
+      "answer": "Octingenta septuaginta sex.",
+      "question_en": "How many towns from the Alps to the borders of Further Spain did Pompey claim to have brought under Roman control?",
+      "answer_en": "876.",
+      "derivation": "Pompey's Spanish tally of 876 towns, on the trophies of the Pyrenees. Anchored to Pompey and the Alps-to-Spain span; single number answer supported verbatim. Closed-book and part of Pompey's much-publicized record.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.97",
+      "source_text": "hos ergo honores urbi tribuit in delubro Minervae, quod ex manubiis dicabat: CN·POMPEIVS MAGNVS IMPERATOR BELLO XXX ANNORVM CONFECTO FVSIS FVGATIS OCCISIS IN DEDITIONEM ACCEPTIS HOMINVM CENTIENS VICIENS SEMEL LXXXIII DEPRESSIS AVT CAPTIS NAVIBVS DCCCXLVI OPPIDIS CASTELLIS MDXXXVIII IN FIDEM RECEPTIS TERRIS A MAEOTIS AD RVBRVM MARE SVBACTIS VOTVM MERITO MINERVAE.",
+      "question": "Cui deae Cn. Pompeius Magnus delubrum ex manubiis dicavit, in quo titulos victoriarum suarum posuit?",
+      "answer": "Minervae.",
+      "question_en": "To which goddess did Pompey the Great dedicate, from his spoils, the shrine in which he set the record of his victories?",
+      "answer_en": "To Minerva.",
+      "derivation": "Pompey's dedication ex manubiis to Minerva, closing with VOTVM MERITO MINERVAE. Anchored to Pompey and the shrine; single named answer supported verbatim by the quoted inscription. Closed-book: a famous Roman victory-dedication.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.97",
+      "source_text": "CN·POMPEIVS MAGNVS IMPERATOR BELLO XXX ANNORVM CONFECTO FVSIS FVGATIS OCCISIS IN DEDITIONEM ACCEPTIS HOMINVM CENTIENS VICIENS SEMEL LXXXIII DEPRESSIS AVT CAPTIS NAVIBVS DCCCXLVI OPPIDIS CASTELLIS MDXXXVIII IN FIDEM RECEPTIS TERRIS A MAEOTIS AD RVBRVM MARE SVBACTIS VOTVM MERITO MINERVAE.",
+      "question": "Quot oppida castellaque in fidem recepta Pompeius Magnus in titulo Minervae dicato numeravit?",
+      "answer": "Mille quingenta triginta octo.",
+      "question_en": "How many towns and forts taken into surrender did Pompey record on his dedication to Minerva?",
+      "answer_en": "1,538.",
+      "derivation": "The figure OPPIDIS CASTELLIS MDXXXVIII from Pompey's dedicatory inscription. Anchored to Pompey and the inscription; single number answer quoted verbatim. Closed-book: this inscription is the canonical summary of Pompey's eastern conquests.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.98",
+      "source_text": "triumphi vero, quem duxit a. d. III kal. Oct. M. Pisone M. Messala cos., praefatio haec fuit: CVM ORAM MARITIMAM PRAEDONIBVS LIBERASSET ET IMPERIVM MARIS POPVLO ROMANO RESTITVISSET EX ASIA PONTO ARMENIA PAPHLAGONIA CAPPADOCIA CILICIA SYRIA SCYTHIS IVDAEIS ALBANIS HIBERIA INSVLA CRETA BASTERNIS ET SVPER HAEC DE REGE MITHRIDATE ATQVE TIGRANE TRIVMPHAVIT.",
+      "question": "De quibus duobus regibus Cn. Pompeius Magnus in triumpho suo orientali triumphasse in titulo scriptum est?",
+      "answer": "De Mithridate et Tigrane.",
+      "question_en": "Over which two kings does the inscription say Pompey the Great triumphed in his eastern triumph?",
+      "answer_en": "Over Mithridates and Tigranes.",
+      "derivation": "The preamble of Pompey's third triumph names the two kings, Mithridates and Tigranes. Anchored to Pompey and the recorded triumph; the answer is quoted verbatim. Closed-book and central to the history of the Mithridatic wars.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.100",
+      "source_text": "Cato primus Porciae gentis tres summas in homine res praestitisse existimatur, ut esset optimus orator, optimus imperator, optimus senator.",
+      "question": "Quas tres summas res Catonem censorium praestitisse existimatur?",
+      "answer": "Ut esset optimus orator, optimus imperator, optimus senator.",
+      "question_en": "Which three supreme distinctions is Cato the Censor held to have achieved?",
+      "answer_en": "To be the best orator, the best general, and the best senator.",
+      "derivation": "The fixed triad by which Cato the Elder was praised. Anchored to Cato primus Porciae gentis; the three-part answer is a set formula quoted verbatim, not a list of interchangeable items. Closed-book and a standard Roman judgment on Cato.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.100",
+      "source_text": "itaque sit proprium Catonis quater et quadragiens causam dixisse, nec quemquam saepius postulatum et semper absolutum.",
+      "question": "Quotiens Cato censorius causam dixit, semper absolutus?",
+      "answer": "Quater et quadragiens.",
+      "question_en": "How many times did Cato the Censor stand trial, always acquitted?",
+      "answer_en": "Forty-four times.",
+      "derivation": "Cato was prosecuted 44 times and acquitted every time — more often than anyone. Anchored to Cato; single number answer supported verbatim. Closed-book and a celebrated fact of his career.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.101",
+      "source_text": "Q. Ennius T. Caecilium Teucrum fratremque eius praecipue miratus propter eos sextum decimum adiecit annalem.",
+      "question": "Quorum virtutem miratus Q. Ennius sextum decimum annalem adiecit?",
+      "answer": "T. Caecili Teucri fratrisque eius.",
+      "question_en": "Whose valour so impressed Ennius that he added a sixteenth book to his Annals?",
+      "answer_en": "That of T. Caecilius Teucer and his brother.",
+      "derivation": "Pliny's explanation of the added sixteenth book of Ennius's Annales. Anchored to Ennius and the named brothers; single answer supported verbatim. Closed-book fact of Latin literary history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.101",
+      "source_text": "L. Siccius Dentatus, qui tribunus plebei fuit Sp. Tarpeio A. Aternio cos. haud multo post exactos reges, vel numerosissima suffragia habet centiens viciens proeliatus, octiens ex provocatione victor, quadraginta quinque cicatricibus adverso corpore insignis, nulla in tergo.",
+      "question": "Quot cicatrices adverso corpore L. Siccius Dentatus habuit, nulla in tergo?",
+      "answer": "Quadraginta quinque.",
+      "question_en": "How many scars did L. Siccius Dentatus bear on the front of his body, and none on his back?",
+      "answer_en": "Forty-five.",
+      "derivation": "Siccius Dentatus, the 'Roman Achilles', with 45 scars all in front. Anchored to the named tribune; single number answer supported verbatim. Closed-book: Siccius is the standard Roman exemplum of a decorated soldier.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.101",
+      "source_text": "L. Siccius Dentatus, qui tribunus plebei fuit Sp. Tarpeio A. Aternio cos. haud multo post exactos reges, vel numerosissima suffragia habet centiens viciens proeliatus, octiens ex provocatione victor.",
+      "question": "Quotiens L. Siccius Dentatus in proelio pugnavisse traditur?",
+      "answer": "Centiens viciens.",
+      "question_en": "In how many battles is L. Siccius Dentatus said to have fought?",
+      "answer_en": "A hundred and twenty.",
+      "derivation": "Siccius Dentatus fought 120 battles and won eight single combats. Anchored to the named tribune; single number answer supported verbatim. Closed-book Roman record of valour.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.102",
+      "source_text": "idem spolia cepit XXXIIII, donatus hastis puris duodeviginti, phaleris viginti quinque, torquibus tribus et octoginta, armillis CLX, coronis XXVI, in iis civicis XIIII, aureis octo, muralibus tribus, obsidionali una.",
+      "question": "Quot coronas civicas L. Siccius Dentatus inter viginti sex coronas meruit?",
+      "answer": "Quattuordecim.",
+      "question_en": "How many civic crowns, out of twenty-six crowns in all, did L. Siccius Dentatus win?",
+      "answer_en": "Fourteen.",
+      "derivation": "The tally of Siccius's decorations, including 14 coronae civicae among 26 crowns. Anchored to the named soldier and the corona civica (the crown for saving a citizen's life); single number answer supported verbatim. Closed-book Roman military honours.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.103",
+      "source_text": "primus omnium eques muralem acceperat coronam, sex civicas, XXXVII dona, XXIII cicatrices adverso corpore exceperat, P. Servilium magistrum equitum servaverat, ipse vulneratus umerum, femur.",
+      "question": "Quis primus omnium eques coronam muralem accepit, ut Plinius tradit?",
+      "answer": "Capitolinus.",
+      "question_en": "Who was the first knight of all to receive the mural crown, according to Pliny?",
+      "answer_en": "Capitolinus (M. Manlius Capitolinus).",
+      "derivation": "M. Manlius Capitolinus, named at the head of the passage (Capitolini decora), was the first eques to win the corona muralis. Anchored to the named Roman and the specific decoration; single answer supported verbatim. Closed-book fact of Roman military honours.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.103",
+      "source_text": "super omnia Capitolium summamque rem in eo solus a Gallis servaverat, si non regno suo servasset.",
+      "question": "Quis solus Capitolium a Gallis servavisse a Plinio dicitur?",
+      "answer": "Capitolinus.",
+      "question_en": "Who, according to Pliny, alone saved the Capitol from the Gauls?",
+      "answer_en": "Capitolinus (M. Manlius Capitolinus).",
+      "derivation": "M. Manlius Capitolinus's defence of the Capitol against the Gauls, from which his cognomen came. Anchored to the Capitol and the Gallic attack; single named answer supported verbatim. Closed-book and among the best-known episodes of early Roman history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.105",
+      "source_text": "sinistra manu sola quater pugnavit, uno die duobus equis insidente eo suffossis. dextram sibi ferream fecit eaque religata proeliatus Cremonam obsidione exemit, Placentiam tutatus est, duodena castra hostium in Gallia cepit.",
+      "question": "Quis Romanus, amissa dextra manu, ferream sibi fecit eaque religata proeliatus est?",
+      "answer": "M. Sergius.",
+      "question_en": "Which Roman, having lost his right hand, made himself an iron one and fought with it strapped on?",
+      "answer_en": "Marcus Sergius.",
+      "derivation": "M. Sergius, whom Pliny ranks above all men for courage, fought with an iron right hand after losing his own in the Hannibalic war. Named at 7.104 (M. Sergio ... nemo quemquam hominum iure praetulerit); single named answer supported by the quoted text. Closed-book Roman exemplum.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.104",
+      "source_text": "M. Sergio, ut equidem arbitror, nemo quemquam hominum iure praetulerit, licet pronepos Catilina gratiam nomini deroget.",
+      "question": "Cuius Romani, quem Plinius fortitudine omnibus praefert, pronepos Catilina fuit?",
+      "answer": "M. Sergi.",
+      "question_en": "Whose great-grandson was Catiline, the Roman whom Pliny ranks above all others for courage?",
+      "answer_en": "Marcus Sergius's.",
+      "derivation": "Pliny notes that Catiline was the great-grandson of the heroic M. Sergius, and that the descendant's name detracts from the ancestor's credit. Anchored to Catiline; single named answer supported verbatim. Closed-book Roman genealogy.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.108",
+      "source_text": "inter spolia Darii Persarum regis unguentorum scrinio capto, quod erat auro, margaritis gemmisque pretiosum, varios eius usus amicis demonstrantibus, quando taedebat unguenti bellatorem et militia sordidum: immo Hercule, inquit, librorum Homeri custodiae detur, ut pretiosissimum humani animi opus quam maxime diviti opere servaretur.",
+      "question": "Cui rei Alexander Magnus scrinium unguentorum inter Darii spolia captum destinavit?",
+      "answer": "Librorum Homeri custodiae.",
+      "question_en": "To what use did Alexander the Great assign the perfume casket captured among the spoils of Darius?",
+      "answer_en": "To the keeping of the books of Homer.",
+      "derivation": "Alexander's famous saying that Darius's jewelled casket should house Homer. Anchored to Alexander and Darius; short answer supported verbatim. Closed-book: one of the best-known anecdotes about Alexander and the Iliad.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.109",
+      "source_text": "idem Pindari vatis familiae penatibusque iussit parci, cum Thebas raperet, Aristotelis philosophi patriam suam credidit tantaeque rerum claritati tam benignum testimonium miscuit.",
+      "question": "Cuius poetae domui et familiae Alexander Magnus parci iussit, cum Thebas everteret?",
+      "answer": "Pindari.",
+      "question_en": "Whose house and family did Alexander the Great order to be spared when he sacked Thebes?",
+      "answer_en": "Pindar's.",
+      "derivation": "Alexander spared the house of Pindar in the destruction of Thebes. Anchored to Alexander and Thebes; single named answer supported verbatim. Closed-book and among the most repeated stories of Alexander's respect for poets.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.109",
+      "source_text": "Sophoclem tragici cothurni principem defunctum sepelire Liber pater iussit, obsidentibus moenis Lacedaemoniis, Lysandro eorum rege in quiete saepius admonito ut pateretur humari delicias suas.",
+      "question": "Quem tragicum poetam defunctum sepeliri Liber pater, Lysandrum in quiete admonens, iussit?",
+      "answer": "Sophoclem.",
+      "question_en": "Which tragic poet did Father Liber, warning Lysander repeatedly in his sleep, order to be buried?",
+      "answer_en": "Sophocles.",
+      "derivation": "Dionysus's dream-command to Lysander to allow the burial of Sophocles during the siege of Athens. Anchored to Liber/Dionysus and Lysander; single named answer supported verbatim. Closed-book and a canonical story of the poet's death.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.109",
+      "source_text": "Archilochi poetae interfectores Apollo arguit Delphis.",
+      "question": "Cuius poetae interfectores Apollo Delphis arguit?",
+      "answer": "Archilochi.",
+      "question_en": "Whose killers did Apollo denounce at Delphi?",
+      "answer_en": "The poet Archilochus's.",
+      "derivation": "The Delphic god's denunciation of the man who killed Archilochus. Anchored to Apollo and Delphi; single named answer supported verbatim. Closed-book, a standard item of Greek literary legend.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.110",
+      "source_text": "Platoni sapientiae antistiti Dionysius tyrannus, alias saevitiae superbiaeque natus, vittatam navem misit obviam, ipse quadrigis albis egredientem in litore excepit.",
+      "question": "Quem philosophum Dionysius tyrannus navi vittata missa et albis quadrigis in litore excepit?",
+      "answer": "Platonem.",
+      "question_en": "Which philosopher did the tyrant Dionysius welcome with a garlanded ship and with white four-horse chariots on the shore?",
+      "answer_en": "Plato.",
+      "derivation": "Dionysius's ceremonial reception of Plato in Sicily. Anchored to Dionysius; single named answer supported verbatim. Closed-book: Plato's visits to the Syracusan court are shared knowledge.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.110",
+      "source_text": "viginti talentis unam orationem Isocrates vendidit.",
+      "question": "Quanti Isocrates unam orationem vendidisse a Plinio traditur?",
+      "answer": "Viginti talentis.",
+      "question_en": "For how much does Pliny say Isocrates sold a single oration?",
+      "answer_en": "For twenty talents.",
+      "derivation": "The price of a single speech by Isocrates. Anchored to the named orator; single number answer supported verbatim. Closed-book and a much-cited illustration of what rhetoric could fetch.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.111",
+      "source_text": "Thucydiden imperatorem Athenienses in exilium egere, rerum conditorem revocavere, eloquentiam mirati cuius virtutem damnaverant.",
+      "question": "Quem Athenienses imperatorem in exilium egerunt, rerum autem scriptorem revocaverunt?",
+      "answer": "Thucydiden.",
+      "question_en": "Whom did the Athenians drive into exile as a general, but recall as a writer of history?",
+      "answer_en": "Thucydides.",
+      "derivation": "The Athenians banished Thucydides the commander and recalled Thucydides the historian. Anchored to Athens and the double role; single named answer supported verbatim. Closed-book and famous.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.111",
+      "source_text": "magnum et Menandro in comico socco testimonium regum Aegypti et Macedoniae contigit classe et per legatos petito, maius ex ipso, regiae fortunae praelata litterarum conscientia.",
+      "question": "Quem comicum poetam reges Aegypti et Macedoniae classe et legatis missis ad se arcessere temptaverunt?",
+      "answer": "Menandrum.",
+      "question_en": "Which comic poet did the kings of Egypt and Macedon try to summon with a fleet and envoys?",
+      "answer_en": "Menander.",
+      "derivation": "Menander declined the invitations of the kings of Egypt and Macedon, preferring his literary life. Anchored to the named poet and kings; single named answer supported verbatim. Closed-book fact of Greek literary history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.112",
+      "source_text": "Cn. Pompeius confecto Mithridatico bello intraturus Posidonii sapientiae professione clari domum forem percuti de more a lictore vetuit et fasces litterarum ianuae summisit is cui se oriens occidensque summiserat.",
+      "question": "Cuius philosophi domum intraturus Cn. Pompeius lictorem forem de more percutere vetuit?",
+      "answer": "Posidonii.",
+      "question_en": "Whose house was Pompey about to enter when he forbade his lictor to strike the door in the customary way?",
+      "answer_en": "Posidonius's.",
+      "derivation": "Pompey lowered his fasces at the door of Posidonius after the Mithridatic war. Anchored to Pompey and the war; single named answer supported verbatim. Closed-book and a celebrated Roman gesture of deference to learning.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.112",
+      "source_text": "Cato censorius in illa nobili trium sapientiae procerum ab Athenis legatione audito Carneade quam primum legatos eos censuit dimittendos, quoniam illo viro argumentante quid veri esset haut facile discerni posset.",
+      "question": "Quo philosopho audito Cato censorius legatos Atheniensium quam primum dimittendos esse censuit?",
+      "answer": "Carneade.",
+      "question_en": "After hearing which philosopher did Cato the Censor move that the Athenian envoys be dismissed as soon as possible?",
+      "answer_en": "Carneades.",
+      "derivation": "The embassy of the three philosophers to Rome (155 BC) and Cato's alarm at Carneades. Anchored to Cato and the Athenian embassy; single named answer supported verbatim. Closed-book and a landmark in the story of Greek philosophy at Rome.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.114",
+      "source_text": "prior Africanus Q. Ennii statuam sepulcro suo inponi iussit clarumque illud nomen, immo vero spolium ex tertia orbis parte raptum, in cinere supremo cum poetae titulo legi.",
+      "question": "Cuius poetae statuam prior Africanus sepulcro suo inponi iussit?",
+      "answer": "Q. Ennii.",
+      "question_en": "Whose statue did the elder Africanus order to be set upon his own tomb?",
+      "answer_en": "Ennius's.",
+      "derivation": "Scipio Africanus the Elder had a statue of Ennius placed on his tomb. Anchored to the elder Africanus; single named answer supported verbatim. Closed-book and famous in the history of Roman patronage of poets.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.115",
+      "source_text": "M. Varronis in bibliotheca, quae prima in orbe ab Asinio Pollione ex manubiis publicata Romae est, unius viventis posita imago est, haut minore, ut equidem reor, gloria, principe oratore et cive ex illa ingeniorum quae tunc fuit multitudine uni hanc coronam dante quam cum eidem Magnus Pompeius piratico ex bello navalem dedit.",
+      "question": "Cui Magnus Pompeius ex bello piratico coronam navalem dedit?",
+      "answer": "M. Varroni.",
+      "question_en": "To whom did Pompey the Great give the naval crown for the war against the pirates?",
+      "answer_en": "To Marcus Varro.",
+      "derivation": "Varro won the corona navalis from Pompey in the pirate war — Pliny pairs it with the honour of his portrait in the first public library. Anchored to Pompey and the pirate war; single named answer supported verbatim. Closed-book fact about Rome's most learned man.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.119",
+      "source_text": "rursus mortales oraculorum societatem dedere Chiloni Lacedaemonio tria praecepta eius Delphis consecrando aureis litteris, quae sunt haec: nosse se quemque, et nihil nimium cupere, comitemque aeris alieni atque litis esse miseriam.",
+      "question": "Cuius Lacedaemonii tria praecepta Delphis aureis litteris consecrata sunt?",
+      "answer": "Chilonis.",
+      "question_en": "Whose three precepts, those of a Spartan, were consecrated at Delphi in golden letters?",
+      "answer_en": "Chilon's.",
+      "derivation": "The three maxims of Chilon of Sparta (know thyself; desire nothing to excess; debt and litigation bring misery) inscribed in gold at Delphi. Anchored to Delphi and the Spartan sage; single named answer supported verbatim. Closed-book: Chilon is one of the Seven Sages.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.119",
+      "source_text": "quin et funus eius, cum victore filio Olympiae expirasset gaudio, tota Graecia prosecuta est.",
+      "question": "Quo affectu Chilon Lacedaemonius Olympiae, filio vincente, exspiravit?",
+      "answer": "Gaudio.",
+      "question_en": "From what emotion did Chilon of Sparta expire at Olympia when his son was victorious?",
+      "answer_en": "From joy.",
+      "derivation": "Chilon died of joy at Olympia on his son's victory, and all Greece attended his funeral. Anchored to Chilon and Olympia; single-word answer supported verbatim. Closed-book: the classic 'death from joy' anecdote, repeated by Pliny at 7.180.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.119",
+      "source_text": "Divinitas et quaedam caelitum societas nobilissima ex feminis in Sibylla fuit, ex viris in Melampode apud Graecos, apud Romanos in Marcio.",
+      "question": "Quem vatem Plinius apud Romanos nobilissimum divinitatis exemplum ponit?",
+      "answer": "Marcium.",
+      "question_en": "Which seer does Pliny name as the noblest Roman instance of communion with the gods?",
+      "answer_en": "Marcius.",
+      "derivation": "Pliny's triad of prophecy: the Sibyl among women, Melampus among the Greeks, Marcius among the Romans (the vates of the carmina Marciana). Anchored to Rome and the category; single named answer supported verbatim. Closed-book Roman religious lore.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.120",
+      "source_text": "Pudicissima femina semel matronarum sententia iudicata est Sulpicia Paterculi filia, uxor Fulvi Flacci, electa ex centum praeceptis quae simulacrum Veneris ex Sibyllinis libris dedicaret.",
+      "question": "Quae femina matronarum sententia pudicissima iudicata est, ut simulacrum Veneris ex Sibyllinis libris dedicaret?",
+      "answer": "Sulpicia, Paterculi filia.",
+      "question_en": "Which woman was judged by the matrons' vote the most chaste, to dedicate the statue of Venus prescribed by the Sibylline books?",
+      "answer_en": "Sulpicia, the daughter of Paterculus.",
+      "derivation": "Sulpicia, wife of Fulvius Flaccus, chosen out of a hundred as the most chaste matron to dedicate the image of Venus Verticordia. Anchored to the Sibylline books and the dedication; single named answer supported verbatim. Closed-book Roman cult history.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.120",
+      "source_text": "electa ex centum praeceptis quae simulacrum Veneris ex Sibyllinis libris dedicaret, iterum religionis experimento Claudia inducta Romam deum matre.",
+      "question": "Quae matrona, religionis experimento, deum matrem Romam induxit?",
+      "answer": "Claudia.",
+      "question_en": "Which matron, by a test of her piety, brought the Mother of the Gods into Rome?",
+      "answer_en": "Claudia (Quinta).",
+      "derivation": "Claudia Quinta's proof of chastity when the Magna Mater was brought to Rome in 204 BC. Anchored to the arrival of the deum mater; single named answer supported verbatim. Closed-book and one of the best-known Roman religious legends.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.121",
+      "source_text": "quo miraculo matris salus donata pietati est, ambaeque perpetuis alimentis, et locus ille quidem consecratus deae, C. Quinctio M'. Acilio cos. templo Pietatis extructo in illius carceris sede, ubi nunc Marcelli theatrum est.",
+      "question": "Cuius deae templum in eo carceris loco extructum est, ubi filia matrem inclusam lacte suo aluerat?",
+      "answer": "Pietatis.",
+      "question_en": "To which goddess was the temple built on the site of the prison where a daughter fed her imprisoned mother with her own milk?",
+      "answer_en": "To Pietas.",
+      "derivation": "The temple of Pietas, raised where the prison stood (later the site of the theatre of Marcellus), commemorating the daughter who nursed her mother. Anchored to the story and the site; single named answer supported verbatim. Closed-book: the caritas Romana is a canonical Roman exemplum.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.122",
+      "source_text": "Gracchorum pater anguibus prehensis in domo, cum responderetur ipsum victurum alterius sexus interempto: immo vero, inquit, meum necate, Cornelia enim iuvenis est et parere adhuc potest.",
+      "question": "Utrum ex anguibus in domo prehensis, marem an feminam, Gracchorum pater necari iussit?",
+      "answer": "Marem.",
+      "question_en": "Which of the snakes caught in his house, the male or the female, did the father of the Gracchi order to be killed?",
+      "answer_en": "The male.",
+      "derivation": "Tiberius Gracchus, told that killing one snake would cost the life of the corresponding spouse, chose to have the male killed to spare Cornelia. Anchored to the Gracchi's father and the omen; single answer supported verbatim. Closed-book and a stock Roman story of conjugal devotion.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.123",
+      "source_text": "astrologia Berosus, cui ob divinas praedictiones Athenienses publice in gymnasio statuam inaurata lingua statuere.",
+      "question": "Cui astrologo Athenienses ob divinas praedictiones statuam inaurata lingua in gymnasio posuerunt?",
+      "answer": "Beroso.",
+      "question_en": "To which astronomer did the Athenians publicly set up a statue with a gilded tongue in the gymnasium, for his divine predictions?",
+      "answer_en": "To Berosus.",
+      "derivation": "The Babylonian Berosus honoured at Athens with a gilt-tongued statue. Anchored to Athens and the honour; single named answer supported verbatim. Closed-book: Berosus is the standard ancient name for Chaldean astronomy.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.123",
+      "source_text": "Hippocrates medicina, qui venientem ab Illyriis pestilentiam praedixit discipulosque ad auxiliandum circa urbes dimisit, quod ob meritum honores illi quos Herculi decrevit Graecia.",
+      "question": "Cui medico, quod pestilentiam ab Illyriis venientem praedixerat, Graecia eosdem honores quos Herculi decrevit?",
+      "answer": "Hippocrati.",
+      "question_en": "To which physician did Greece decree the same honours as to Hercules, for having foretold the plague coming from Illyria?",
+      "answer_en": "To Hippocrates.",
+      "derivation": "Hippocrates warned of the plague from Illyria and sent out his pupils; Greece voted him Heracles' honours. Anchored to the named physician and Greece; single named answer supported verbatim. Closed-book, the founding story of medicine's prestige.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.124",
+      "source_text": "magna et Critobulo fama est extracta Philippi regis oculo sagitta et citra deformitatem oris curata orbitate luminis.",
+      "question": "Quis medicus sagittam ex Philippi regis oculo extraxit sine oris deformitate?",
+      "answer": "Critobulus.",
+      "question_en": "Which physician drew the arrow from king Philip's eye without disfiguring his face?",
+      "answer_en": "Critobulus.",
+      "derivation": "Critobulus's surgery on Philip II of Macedon, blinded in one eye at Methone. Anchored to Philip and the wound; single named answer supported verbatim. Closed-book and a famous case in ancient medicine.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.124",
+      "source_text": "summa autem Asclepiadi Prusiensi condita nova secta, spretis legatis et pollicitationibus Mithridatis regis, reperta ratione qua vinum aegris medetur, relato e funere homine et conservato, sed maxime sponsione facta cum fortuna, ne medicus crederetur, si umquam invalidus ullo modo fuisset ipse.",
+      "question": "Quis medicus Prusiensis, nova secta condita, legatos et pollicitationes Mithridatis regis sprevit?",
+      "answer": "Asclepiades.",
+      "question_en": "Which physician of Prusa, founder of a new school, rejected the envoys and offers of king Mithridates?",
+      "answer_en": "Asclepiades.",
+      "derivation": "Asclepiades of Prusa, who founded a new medical sect, treated patients with wine, recovered a man from his own funeral, and wagered that he would never fall ill. Anchored to Mithridates and Prusa; single named answer supported verbatim. Closed-book, the most famous Greek physician at Rome.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.125",
+      "source_text": "laudatus est et Chersiphron Gnosius aede Ephesi Dianae admirabili fabricata, Philon Athenis armamentario CD navium, Ctesibius pneumatica ratione et hydraulicus organis repertis, Dinochares metatus Alexandro condente in Aegypto Alexandriam.",
+      "question": "Quis architectus aedem Dianae Ephesiae fabricavit, ut Plinius tradit?",
+      "answer": "Chersiphron Gnosius.",
+      "question_en": "Which architect built the temple of Diana at Ephesus, according to Pliny?",
+      "answer_en": "Chersiphron of Cnossos.",
+      "derivation": "Chersiphron as builder of the temple of Artemis at Ephesus, one of the Seven Wonders. Anchored to the named temple; single named answer supported verbatim. Closed-book fact of ancient architecture.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.125",
+      "source_text": "Ctesibius pneumatica ratione et hydraulicus organis repertis, Dinochares metatus Alexandro condente in Aegypto Alexandriam.",
+      "question": "Quis pneumaticam rationem et hydraulica organa repperisse a Plinio traditur?",
+      "answer": "Ctesibius.",
+      "question_en": "Who, according to Pliny, invented pneumatics and the water-organ?",
+      "answer_en": "Ctesibius.",
+      "derivation": "Ctesibius of Alexandria as inventor of pneumatics and the hydraulic organ. Anchored to the named inventions; single named answer supported verbatim. Closed-book: the hydraulis is a well-known ancient instrument.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.125",
+      "source_text": "Dinochares metatus Alexandro condente in Aegypto Alexandriam.",
+      "question": "Quis architectus Alexandriam Aegypti, condente eam Alexandro, metatus est?",
+      "answer": "Dinochares.",
+      "question_en": "Which architect laid out Alexandria in Egypt when Alexander founded it?",
+      "answer_en": "Dinochares (Deinocrates).",
+      "derivation": "Deinocrates/Dinochares as the planner of Alexandria at its foundation. Anchored to Alexander and Alexandria; single named answer supported verbatim. Closed-book fact of city-founding history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.125",
+      "source_text": "idem hic imperator edixit ne quis ipsum alius quam Apelles pingeret, quam Pyrgoteles scalperet, quam Lysippus ex aere duceret.",
+      "question": "Cui uni Alexander Magnus edicto permisit ut se ex aere duceret?",
+      "answer": "Lysippo.",
+      "question_en": "To whom alone did Alexander the Great grant by edict the right to cast him in bronze?",
+      "answer_en": "To Lysippus.",
+      "derivation": "Alexander's edict reserving his bronze portraits to Lysippus (with Apelles for painting and Pyrgoteles for gems). Anchored to Alexander and the medium; single named answer supported verbatim. Closed-book art history; distinct from the painting fact already taken.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.125",
+      "source_text": "idem hic imperator edixit ne quis ipsum alius quam Apelles pingeret, quam Pyrgoteles scalperet, quam Lysippus ex aere duceret.",
+      "question": "Cui uni Alexander Magnus edicto permisit ut imaginem suam scalperet?",
+      "answer": "Pyrgoteli.",
+      "question_en": "To whom alone did Alexander the Great grant by edict the right to engrave his likeness?",
+      "answer_en": "To Pyrgoteles.",
+      "derivation": "The third clause of Alexander's edict: gem-engraving reserved to Pyrgoteles. Anchored to Alexander and the craft; single named answer supported verbatim. Closed-book fact about the most celebrated ancient gem-cutter.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.126",
+      "source_text": "Aristidis Thebani pictoris unam tabulam centum talentis rex Attalus licitus est, octoginta emit duas Caesar dictator, Mediam et Aiacem Timomachi, in templo Veneris Genetricis dicaturus.",
+      "question": "Quanti rex Attalus unam Aristidis Thebani tabulam licitus est?",
+      "answer": "Centum talentis.",
+      "question_en": "How much did king Attalus bid for a single painting by Aristides of Thebes?",
+      "answer_en": "A hundred talents.",
+      "derivation": "Attalus's bid of 100 talents for one picture by Aristides of Thebes. Anchored to the named king and painter; single number answer supported verbatim. Closed-book fact of the ancient art market.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.126",
+      "source_text": "octoginta emit duas Caesar dictator, Mediam et Aiacem Timomachi, in templo Veneris Genetricis dicaturus.",
+      "question": "Quas duas Timomachi tabulas Caesar dictator in templo Veneris Genetricis dicaturus emit?",
+      "answer": "Mediam et Aiacem.",
+      "question_en": "Which two paintings by Timomachus did Caesar the dictator buy to dedicate in the temple of Venus Genetrix?",
+      "answer_en": "The Medea and the Ajax.",
+      "derivation": "Caesar bought Timomachus's Medea and Ajax for 80 talents for his temple of Venus Genetrix. Anchored to Caesar, the painter, and the temple; the two named works are quoted verbatim. Closed-book fact of Roman art collecting.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.126",
+      "source_text": "Rhodum non incendit rex Demetrius expugnator cognominatus, ne tabulam Protogenis cremaret a parte ea muri locatam.",
+      "question": "Cuius pictoris tabulae parcens rex Demetrius Rhodum non incendit?",
+      "answer": "Protogenis.",
+      "question_en": "To spare whose painting did king Demetrius refrain from burning Rhodes?",
+      "answer_en": "Protogenes's.",
+      "derivation": "Demetrius Poliorcetes spared Rhodes rather than destroy a painting by Protogenes. Anchored to Demetrius and Rhodes; single named answer supported verbatim. Closed-book and a canonical story about the power of art.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.128",
+      "source_text": "Pretium hominis in servitio geniti maximum ad hanc diem, quod equidem conpeperim, fuit grammaticae artis, Daphnin Attio Pisaurense vendente et M. Scauro principe civitatis IIi DCC licente.",
+      "question": "Cuius artis fuit servus Daphnis, pro quo maximum pretium ad Plinii aetatem licitum est?",
+      "answer": "Grammaticae.",
+      "question_en": "In which art was the slave Daphnis skilled, for whom the highest price down to Pliny's day was bid?",
+      "answer_en": "In grammar (literary scholarship).",
+      "derivation": "The record price for a home-born slave was paid for the grammarian Daphnis, bid by M. Scaurus. Anchored to the named slave and buyer; single answer supported verbatim. Closed-book: it tells what Romans valued most in a slave.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.133",
+      "source_text": "Una feminarum in omni aevo Lampido Lacedaemonia reperitur, quae regis filia, regis uxor, regis mater fuerit, una Berenice, quae filia, soror, mater Olympionicarum.",
+      "question": "Quae sola femina regis filia, regis uxor, regis mater fuisse reperitur?",
+      "answer": "Lampido Lacedaemonia.",
+      "question_en": "Which woman alone is found to have been the daughter, wife, and mother of a king?",
+      "answer_en": "Lampido of Sparta.",
+      "derivation": "Pliny's unique instance of a woman thrice royal. Anchored to the named Spartan woman; single named answer supported verbatim. Closed-book record-fact of the kind Pliny's book seven collects.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.133",
+      "source_text": "una Berenice, quae filia, soror, mater Olympionicarum.",
+      "question": "Quae sola femina filia, soror et mater Olympionicarum fuit?",
+      "answer": "Berenice.",
+      "question_en": "Which woman alone was the daughter, sister, and mother of Olympic victors?",
+      "answer_en": "Berenice.",
+      "derivation": "Berenice's unique Olympic pedigree. Anchored to the named woman and the Olympic victories; single named answer supported verbatim. Closed-book: the Olympic victor-lists are shared Greek knowledge.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.133",
+      "source_text": "una familia Curionum, in qua tres continua serie oratores extiterint, una Fabiorum, in qua tres continui principes senatus, M. Fabius Ambustus, Fabius Rullianus filius, Q. Fabius Gurges nepos.",
+      "question": "In qua familia tres continui principes senatus fuerunt, M. Fabius Ambustus, Fabius Rullianus, Q. Fabius Gurges?",
+      "answer": "In Fabiorum.",
+      "question_en": "In which family were there three successive leaders of the senate, M. Fabius Ambustus, Fabius Rullianus, and Q. Fabius Gurges?",
+      "answer_en": "In the Fabian family.",
+      "derivation": "Three generations of Fabii held the princeps senatus in unbroken succession. Anchored to the three named men and the office; single answer supported verbatim. Closed-book fact about one of Rome's great gentes.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.133",
+      "source_text": "una familia Curionum, in qua tres continua serie oratores extiterint.",
+      "question": "In qua familia tres continua serie oratores extiterunt, ut Plinius tradit?",
+      "answer": "In Curionum.",
+      "question_en": "In which family, according to Pliny, did three orators arise in unbroken succession?",
+      "answer_en": "In the family of the Curiones.",
+      "derivation": "The three successive orators of the Curio family, Pliny's unique instance. Anchored to the named family; single answer supported verbatim. Closed-book fact of Roman oratorical history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.135",
+      "source_text": "triumphare P. Ventidium de Parthis voluit quidem solum, sed eundem in triumpho Asculano Cn. Pompei duxit puerum, quamquam Masurius auctor est bis in triumpho ductum, Cicero mulionem castrensis furnariae fuisse.",
+      "question": "Quis solus de Parthis triumphavit, cum idem puer in triumpho Asculano ductus esset?",
+      "answer": "P. Ventidius.",
+      "question_en": "Who alone triumphed over the Parthians, though he had himself been led as a boy in the Asculan triumph?",
+      "answer_en": "P. Ventidius.",
+      "derivation": "Ventidius Bassus, led as a captive child in Pompeius Strabo's Asculan triumph, later the only Roman to triumph over the Parthians. Anchored to the named man and the two triumphs; single named answer supported verbatim. Closed-book reversal-of-fortune exemplum.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.136",
+      "source_text": "fuit et Balbus Cornelius maior consul, sed accusatus atque de iure virgarum in eum iudice in consilium misso, primus externorum atque etiam in oceano genitorum usus illo honore, quem maiores Latio quoque negaverint.",
+      "question": "Quis primus externorum, atque etiam in oceano genitorum, consulatu functus est?",
+      "answer": "Cornelius Balbus.",
+      "question_en": "Who was the first foreigner, and one born by the Ocean at that, to hold the consulship?",
+      "answer_en": "Cornelius Balbus.",
+      "derivation": "Cornelius Balbus of Gades, the first non-Italian consul. Anchored to the office and the description; single named answer supported verbatim. Closed-book landmark in the history of Roman citizenship and office-holding.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.136",
+      "source_text": "est et L. Fulvius inter insignia exempla, Tusculanorum rebellantium consul, eodemque honore, cum transisset, exornatus confestim a populo Romano, qui solus eodem anno, quo fuerat hostis, Romae triumphavit ex iis quorum consul fuerat.",
+      "question": "Quis solus eodem anno quo hostis fuerat Romae triumphavit ex iis quorum consul fuerat?",
+      "answer": "L. Fulvius.",
+      "question_en": "Who alone triumphed at Rome, in the very year in which he had been an enemy, over the people whose consul he had been?",
+      "answer_en": "L. Fulvius.",
+      "derivation": "L. Fulvius, consul of the rebel Tusculans, changed sides and was at once made Roman consul, triumphing over his former people. Anchored to Tusculum and the named man; single named answer supported verbatim. Closed-book oddity of early Roman history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.139",
+      "source_text": "Q. Metellus in ea oratione, quam habuit supremis laudibus patris sui L. Metelli pontificis, bis consulis, dictatoris, magistri equitum, XVviri agris dandis, qui plurimos elephantos ex primo Punico bello duxit in triumpho, scriptum reliquit decem maximas res optimasque, in quibus quaerendis sapientes aetatem exigerent, consummasse eum.",
+      "question": "Quis plurimos elephantos ex primo Punico bello in triumpho duxit?",
+      "answer": "L. Metellus pontifex.",
+      "question_en": "Who led the greatest number of elephants in triumph from the First Punic War?",
+      "answer_en": "L. Metellus, the pontifex.",
+      "derivation": "L. Caecilius Metellus's triumph after Panormus, famous for its elephants. Anchored to the named man and the First Punic War; single named answer supported verbatim. Closed-book and a celebrated Roman spectacle.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.141",
+      "source_text": "siquidem is Metellus orbam luminibus exegit senectam, amissis incendio, cum Palladium raperet ex aede Vestae, memorabili causa, sed eventu misero.",
+      "question": "Qua in re L. Metellus pontifex lumina amisit?",
+      "answer": "Palladium ex aede Vestae incendio rapiens.",
+      "question_en": "In what act did L. Metellus the pontifex lose his eyesight?",
+      "answer_en": "Rescuing the Palladium from the burning temple of Vesta.",
+      "derivation": "Metellus was blinded saving the Palladium from the fire in the temple of Vesta (241 BC). Anchored to the named pontifex and the Palladium; short answer supported verbatim. Closed-book: a famous act of Roman piety.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.141",
+      "source_text": "tribuit ei populus Romanus quod nulli alii ab condito aevo, ut, quotiens in senatum iret, curru veheretur ad curiam: magnum ei et sublime, sed pro oculis datum.",
+      "question": "Quem honorem populus Romanus L. Metello caeco tribuit, quem nulli alii ab condito aevo?",
+      "answer": "Ut curru ad curiam veheretur.",
+      "question_en": "What honour did the Roman people grant to the blinded L. Metellus, granted to no one else since the founding of the city?",
+      "answer_en": "That he be carried to the senate-house in a chariot.",
+      "derivation": "The unique privilege voted to the blind Metellus of riding to the curia. Anchored to the named man and the Roman people; short answer supported verbatim. Closed-book fact of Roman public honours.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.142",
+      "source_text": "nam praeter honores amplissimos cognomenque Macedonici a quattuor filiis inlatus rogo, uno praetorio, tribus consularibus, duobus triumphalibus, uno censorio, quae singula quoque paucis contigere.",
+      "question": "A quot filiis Q. Metellus Macedonicus rogo inlatus est?",
+      "answer": "A quattuor.",
+      "question_en": "By how many sons was Q. Metellus Macedonicus carried to his funeral pyre?",
+      "answer_en": "By four.",
+      "derivation": "Metellus Macedonicus was borne to the pyre by four sons, one a praetorian, three consulars, two of them triumphant, one a censor. Anchored to the named man and the funeral; single number answer supported verbatim. Closed-book Roman exemplum of felicitas.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.143",
+      "source_text": "in ipso tamen flore dignationis suae ab C. Atinio Labeone, cui cognomen fuit Macerioni, tribuno plebis, quem e senatu censor eiecerat, revertens e campo meridiano tempore vacuo foro et Capitolio ad Tarpeium raptus, ut praecipitaretur.",
+      "question": "Quis tribunus plebis Q. Metellum Macedonicum ad Tarpeium rapuit, ut praecipitaretur?",
+      "answer": "C. Atinius Labeo.",
+      "question_en": "Which tribune of the plebs dragged Q. Metellus Macedonicus to the Tarpeian rock to hurl him down?",
+      "answer_en": "C. Atinius Labeo.",
+      "derivation": "Atinius Labeo, expelled from the senate by the censor Metellus, retaliated by dragging him toward the Tarpeian rock until another tribune interceded. Anchored to both named men; single named answer supported verbatim. Closed-book episode of censorial and tribunician power.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.151",
+      "source_text": "duo sunt haec: Pedium felicissimum, qui pro patria proxime occubuisset; iterum a Gyge rege tunc amplissimo terrarum consulti: Aglaum Psophidium esse feliciorem.",
+      "question": "Quem Gygi regi consulenti oraculum Delphicum feliciorem esse respondit?",
+      "answer": "Aglaum Psophidium.",
+      "question_en": "Whom did the Delphic oracle declare happier when king Gyges consulted it?",
+      "answer_en": "Aglaus of Psophis.",
+      "derivation": "The oracle's rebuke to Gyges: the poor farmer Aglaus of Psophis in Arcadia is happier than the richest king. Anchored to Gyges and Delphi; single named answer supported verbatim. Closed-book and a standard moralizing oracle-story.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.152",
+      "source_text": "Consecratus est vivus sentiensque eiusdem oraculi iussi et Iovis deorum summi adstipulatu Euthymus pycta, semper Olympiae victor et semel victus. patria ei Locri in Italia; ibi imaginem eius et Olympiae alteram eodem die tactam fulmine Callimachum ut nihil aliud miratum video deumque iussisse sacrificare, quod et vivo factitatum et mortuo.",
+      "question": "Quis pycta, Locris in Italia natus, vivus adhuc consecratus est, semper Olympiae victor et semel tantum victus?",
+      "answer": "Euthymus.",
+      "question_en": "Which boxer, a native of Locri in Italy, was consecrated while still alive, always victorious at Olympia and beaten only once?",
+      "answer_en": "Euthymus.",
+      "derivation": "Euthymus of Locri, the boxer worshipped as a god in his own lifetime by command of the oracle. Anchored to Locri and Olympia; single named answer supported verbatim. Closed-book: a famous case of athletic hero-cult.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.156",
+      "source_text": "sed ut ad confessa transeamus, Arganthonium Gaditanum LXXX annis regnasse prope certum est; putant quadragensimo coepisse. Masinissam LX annis regnasse indubitatum est, Gorgian Siculum CVIII vixisse.",
+      "question": "Quot annos Arganthonium Gaditanum regnavisse prope certum est?",
+      "answer": "Octoginta.",
+      "question_en": "For how many years is it nearly certain that Arganthonius of Gades reigned?",
+      "answer_en": "Eighty.",
+      "derivation": "Arganthonius, king of Tartessus/Gades, reigned 80 years, beginning at 40. Anchored to the named king; single number answer supported verbatim. Closed-book: the type-case of royal longevity in antiquity.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.156",
+      "source_text": "Masinissam LX annis regnasse indubitatum est, Gorgian Siculum CVIII vixisse.",
+      "question": "Quot annos Masinissam regnavisse indubitatum est?",
+      "answer": "Sexaginta.",
+      "question_en": "For how many years is it beyond doubt that Masinissa reigned?",
+      "answer_en": "Sixty.",
+      "derivation": "The sixty-year reign of Masinissa of Numidia, Rome's ally against Carthage. Anchored to the named king; single number answer supported verbatim. Closed-book fact of the Punic wars' aftermath.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.156",
+      "source_text": "Masinissam LX annis regnasse indubitatum est, Gorgian Siculum CVIII vixisse. Q. Fabius Maximus LXIII annis augur fuit.",
+      "question": "Quot annos Gorgias Siculus vixisse traditur?",
+      "answer": "Centum octo.",
+      "question_en": "How many years is Gorgias the Sicilian said to have lived?",
+      "answer_en": "108.",
+      "derivation": "The longevity of Gorgias of Leontini, the sophist. Anchored to the named man; single number answer supported verbatim. Closed-book and a familiar fact about the founder of epideictic rhetoric.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.156",
+      "source_text": "Q. Fabius Maximus LXIII annis augur fuit.",
+      "question": "Quot annos Q. Fabius Maximus augur fuit?",
+      "answer": "Tres et sexaginta.",
+      "question_en": "For how many years was Q. Fabius Maximus an augur?",
+      "answer_en": "Sixty-three.",
+      "derivation": "Fabius Maximus Cunctator held the augurate for 63 years. Anchored to the named man and the priesthood; single number answer supported verbatim. Closed-book fact about a lifelong Roman priesthood.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.157",
+      "source_text": "M. Valerius Corvinus centum annos inplevit, cuius inter primum et sextum consulatum XLVI anni fuere. idem sella curuli semel ac viciens sedit, quotiens nemo alius.",
+      "question": "Quot anni inter primum et sextum M. Valeri Corvini consulatum fuerunt?",
+      "answer": "Sex et quadraginta.",
+      "question_en": "How many years lay between the first and the sixth consulship of M. Valerius Corvinus?",
+      "answer_en": "Forty-six.",
+      "derivation": "Valerius Corvinus lived a hundred years and held six consulships spanning 46 years. Anchored to the named consul; single number answer supported verbatim. Closed-book fact of the early Republic's most long-lived magistrate.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.157",
+      "source_text": "M. Valerius Corvinus centum annos inplevit, cuius inter primum et sextum consulatum XLVI anni fuere. idem sella curuli semel ac viciens sedit, quotiens nemo alius.",
+      "question": "Quotiens M. Valerius Corvinus sella curuli sedit, quotiens nemo alius?",
+      "answer": "Semel ac viciens.",
+      "question_en": "How many times did M. Valerius Corvinus hold curule office, more often than anyone else?",
+      "answer_en": "Twenty-one times.",
+      "derivation": "Corvinus sat in the curule chair twenty-one times, a Roman record. Anchored to the named man and the curule chair; single number answer supported verbatim. Closed-book fact of Roman office-holding.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.158",
+      "source_text": "Et ex feminis Livia Rutili LXXXXVII annos excessit, Statilia Claudio principe ex nobili domo LXXXVIIII, Terentia Ciceronis CIII, Clodia Ofili CXV, haec quidem etiam enixa quindeciens.",
+      "question": "Quot annos Terentia, Ciceronis uxor, vixisse a Plinio traditur?",
+      "answer": "Centum tres.",
+      "question_en": "How many years does Pliny say Terentia, Cicero's wife, lived?",
+      "answer_en": "103.",
+      "derivation": "Terentia's extraordinary lifespan in Pliny's list of long-lived women. Anchored to Cicero's wife; single number answer supported verbatim. Closed-book and attached to one of the best-known Roman households.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.158",
+      "source_text": "Galeria Copiola emboliaria reducta est in scaenam C. Poppaeo Q. Sulpicio cos. ludis pro salute Divi Augusti votivis annum CIIII agens.",
+      "question": "Quotum annum agens Galeria Copiola emboliaria in scaenam reducta est ludis pro salute Divi Augusti votivis?",
+      "answer": "Centesimum quartum.",
+      "question_en": "In what year of her age was the interlude-dancer Galeria Copiola brought back on stage at the games vowed for the health of the deified Augustus?",
+      "answer_en": "In her 104th year.",
+      "derivation": "Galeria Copiola, the emboliaria (interlude performer), returned to the stage at 104. Anchored to the named actress and the votive games; single number answer supported verbatim. Closed-book detail of the Roman stage.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.159",
+      "source_text": "minus miror Stephanionem, qui primus togatus saltare instituit, utrisque saecularibus ludis saltavisse, Divi Augusti et quos Claudius Caesar consulatu suo quarto fecit.",
+      "question": "Quis primus togatus saltare instituit, ut Plinius tradit?",
+      "answer": "Stephanio.",
+      "question_en": "Who was the first to dance in a toga, according to Pliny?",
+      "answer_en": "Stephanio.",
+      "derivation": "Stephanio introduced dancing in the toga (i.e. in Roman dress, the fabula togata), and danced at the Secular Games of both Augustus and Claudius. Anchored to the named performer; single named answer supported verbatim. Closed-book fact of Roman theatrical history.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.166",
+      "source_text": "Q. Fabius Maximus consul apud flumen Isaram proelio commisso adversus Allobrogum Arvernorumque gentes a. d. VI idus Augustas, CXXX perduellium caesis, febri quartana liberatus est in acie.",
+      "question": "Apud quod flumen Q. Fabius Maximus consul adversus Allobrogum Arvernorumque gentes proelium commisit?",
+      "answer": "Apud flumen Isaram.",
+      "question_en": "By which river did the consul Q. Fabius Maximus join battle against the Allobroges and the Arverni?",
+      "answer_en": "By the river Isara (Isère).",
+      "derivation": "Fabius Maximus Allobrogicus's victory at the Isara in 121 BC (Pliny adds that he was cured of a quartan fever in the battle line). Anchored to the named consul and peoples; single place answer supported verbatim. Closed-book fact of Rome's conquest of Transalpine Gaul.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.168",
+      "source_text": "ergo pro miraculo et id solitarium reperitur exemplum Xenophili musici, centum et quinque annis vixisse sine ullo corporis incommodo.",
+      "question": "Quot annos Xenophilus musicus sine ullo corporis incommodo vixisse traditur?",
+      "answer": "Centum et quinque.",
+      "question_en": "How many years is Xenophilus the musician said to have lived without any bodily ailment?",
+      "answer_en": "105.",
+      "derivation": "Pliny's single example of a wholly healthy old age, the musician Xenophilus at 105. Anchored to the named man; single number answer supported verbatim. Closed-book record-fact.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.172",
+      "source_text": "morborum vero tam infinita est multitudo, ut Pherecydes Syrius serpentium multitudine ex corpore eius erumpente expiraverit.",
+      "question": "Quo genere mortis Pherecydes Syrius perisse traditur?",
+      "answer": "Serpentium multitudine ex corpore erumpente.",
+      "question_en": "By what manner of death is Pherecydes of Syros said to have perished?",
+      "answer_en": "By a swarm of snakes bursting out of his body.",
+      "derivation": "The grotesque death of Pherecydes of Syros, the first prose writer. Anchored to the named philosopher; short answer supported verbatim. Closed-book: a widely repeated ancient tradition about his end.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.172",
+      "source_text": "quibusdam perpetua febris est, sicut C. Maecenati; eidem triennio supremo nullo horae momento contigit somnus.",
+      "question": "Quo bono C. Maecenas triennio supremo omnino caruisse traditur?",
+      "answer": "Somno.",
+      "question_en": "Of what was Maecenas said to have been entirely deprived in his last three years?",
+      "answer_en": "Of sleep.",
+      "derivation": "Maecenas's chronic fever and total sleeplessness for his last three years. Anchored to the named man; single-word answer supported verbatim. Closed-book: a famous detail about Augustus's minister, also known from Seneca.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.173",
+      "source_text": "Aviola consularis in rogo revixit et, quoniam subveniri non potuerat praevalente flamma, vivus crematus est. similis causa in L. Lamia praetorio viro traditur.",
+      "question": "Quis consularis in rogo revixit et tamen, flamma praevalente, vivus crematus est?",
+      "answer": "Aviola.",
+      "question_en": "Which ex-consul came back to life on the pyre and yet, the flames prevailing, was burned alive?",
+      "answer_en": "Aviola.",
+      "derivation": "The consular Aviola revived on his own funeral pyre and could not be rescued. Anchored to the named man and the pyre; single named answer supported verbatim. Closed-book: a stock horror of Roman cremation practice.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.174",
+      "source_text": "Aristeae etiam visam evolantem ex ore in Proconneso corvi effigie, magna quae sequitur hanc fabulositate.",
+      "question": "Cuius viri animam Proconnesi corvi effigie ex ore evolare visam esse tradunt?",
+      "answer": "Aristeae.",
+      "question_en": "Whose soul is said to have been seen flying from his mouth at Proconnesus in the form of a raven?",
+      "answer_en": "That of Aristeas.",
+      "derivation": "The soul of Aristeas of Proconnesus leaving his body as a raven. Anchored to the named man and place; single named answer supported verbatim. Closed-book: Aristeas is the standard ancient example of soul-travel (cf. Herodotus 4.14-15).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.175",
+      "source_text": "quam equidem et in Gnosio Epimenide simili modo accipio, puerum aestu et itinere fessum in specu septem et quinquaginta dormisse annis, rerum faciem mutationemque mirantem velut postero die experrectum.",
+      "question": "Quot annos Epimenides Gnosius puer in specu dormivisse traditur?",
+      "answer": "Septem et quinquaginta.",
+      "question_en": "How many years is Epimenides of Cnossos said to have slept as a boy in a cave?",
+      "answer_en": "Fifty-seven.",
+      "derivation": "The long sleep of Epimenides of Crete, who woke to find the world changed and lived to 157. Anchored to the named sage; single number answer supported verbatim. Closed-book and among the best-known Greek legends.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.180",
+      "source_text": "gaudio obiere praeter Chilonem, de quo diximus, Sophocles et Dionysius Siciliae tyrannus, uterque accepto tragicae victoriae nuntio.",
+      "question": "Quo nuntio accepto Sophocles et Dionysius Siciliae tyrannus gaudio obierunt?",
+      "answer": "Tragicae victoriae.",
+      "question_en": "On receiving news of what did Sophocles and Dionysius, tyrant of Sicily, die of joy?",
+      "answer_en": "Of a victory in the tragic contest.",
+      "derivation": "Both died of joy at news of a prize in the tragic competition. Anchored to the two named men; short answer supported verbatim. Closed-book: the deaths-from-joy catalogue is standard ancient lore, and both men were tragedians.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.180",
+      "source_text": "pudore Diodorus sapientiae dialecticae professor, lusoria quaestione non protinus ab interrogatione Stilponis dissoluta.",
+      "question": "Cuius interrogatione non statim soluta Diodorus dialecticus pudore obiit?",
+      "answer": "Stilponis.",
+      "question_en": "Whose question, left unsolved on the spot, made the dialectician Diodorus die of shame?",
+      "answer_en": "Stilpo's.",
+      "derivation": "Diodorus Cronus died of shame at failing to answer Stilpo's puzzle at once. Anchored to both named philosophers; single named answer supported verbatim. Closed-book anecdote of the dialectical schools.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.181",
+      "source_text": "Q. Fabius Maximus in consulatu suo pridie kal. Ian., in cuius locum C. Rebilus paucissimarum horarum consulatum petiit.",
+      "question": "Quis in locum Q. Fabi Maximi, pridie kalendas Ianuarias mortui, consulatum paucissimarum horarum petiit?",
+      "answer": "C. Rebilus.",
+      "question_en": "Who sought, in place of Q. Fabius Maximus who died on the last day of December, a consulship of only a few hours?",
+      "answer_en": "C. Rebilus (Caninius Rebilus).",
+      "derivation": "The one-day consulship of Caninius Rebilus in 45 BC, a byword for the debasement of office under Caesar. Anchored to Fabius Maximus's death on the eve of the Kalends; single named answer supported verbatim. Closed-book and famously mocked by Cicero.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.181",
+      "source_text": "nulla evidentibus causis obiere, dum calciantur matutino, duo Caesares, praetor et praetura perfunctus dictatoris Caesaris pater — hic Pisis exanimatus est, ille Romae.",
+      "question": "In quo oppido pater Caesaris dictatoris, dum mane calciatur, subito exanimatus est?",
+      "answer": "Pisis.",
+      "question_en": "In what town did the father of Caesar the dictator suddenly die while putting on his shoes in the morning?",
+      "answer_en": "At Pisae.",
+      "derivation": "The sudden death of Caesar's father at Pisae while dressing. Anchored to the dictator's father; single place answer supported verbatim. Closed-book biographical fact (also in Suetonius, Iul. 1).",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.185",
+      "source_text": "comoediarum histrio is, cum populo admodum placuisset natali die suo conviviumque haberet, edita cena calidam potionem in pultario poposcit simulque personam eius diei acceptam intuens coronam e capite suo in eam transtulit, tali habitu rigens nullo sentiente, donec adcubantium proximus tepescere potionem admoneret.",
+      "question": "Quo die M. Ofilius Hilarus, comoediarum histrio, inter convivium nullo sentiente mortuus est?",
+      "answer": "Natali suo.",
+      "question_en": "On what day did M. Ofilius Hilarus, the comic actor, die at his own banquet without anyone noticing?",
+      "answer_en": "On his birthday.",
+      "derivation": "The actor Ofilius Hilarus (named at 7.184) died at his birthday dinner, upright and crowned, gazing at that day's mask. Anchored to the named actor; short answer supported verbatim. Closed-book: Pliny's model of an untroubled death, and a vivid picture of Roman stage life.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.186",
+      "source_text": "invenitur in actis, Felice russei auriga elato, in rogum eius unum e faventibus iecisse se, frivolum dictu, ne hoc gloriae artificis daretur, adversis studiis copia odorum corruptum criminantibus.",
+      "question": "Cuius factionis auriga Felix fuit, in cuius rogum unus e faventibus se iecit?",
+      "answer": "Russei.",
+      "question_en": "Of which racing faction was the charioteer Felix, onto whose pyre one of his supporters threw himself?",
+      "answer_en": "Of the Reds.",
+      "derivation": "The charioteer Felix of the russata factio and the fan who threw himself on his pyre, recorded in the acta. Anchored to the named charioteer and the incident; single answer supported verbatim. Closed-book and squarely in Roman circus culture (the colour-factions).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.187",
+      "source_text": "Ipsum cremare apud Romanos non fuit veteris instituti: terra condebantur. at postquam longinquis bellis obrutos erui cognovere, tunc institutum.",
+      "question": "Quo modo Romani antiquitus mortuos condebant, priusquam cremare instituerent?",
+      "answer": "Terra.",
+      "question_en": "How did the Romans of old dispose of their dead, before they took up cremation?",
+      "answer_en": "They buried them in the earth.",
+      "derivation": "Pliny's statement that cremation was not the old Roman practice: burial in the earth came first. Anchored to Roman custom; short answer supported verbatim. Closed-book and a central fact about Roman funerary practice.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.187",
+      "source_text": "at postquam longinquis bellis obrutos erui cognovere, tunc institutum. et tamen multae familiae priscos servavere ritus, sicut in Cornelia nemo ante Sullam dictatorem traditur crematus, idque voluisse veritum talionem eruto C. Mari cadavere.",
+      "question": "In gente Cornelia quis primus crematus esse traditur?",
+      "answer": "Sulla dictator.",
+      "question_en": "In the Cornelian gens, who is said to have been the first to be cremated?",
+      "answer_en": "Sulla the dictator.",
+      "derivation": "The Cornelii kept to inhumation until Sulla, who chose cremation for fear of reprisal after Marius's body had been dug up. Anchored to the named gens and man; single named answer supported verbatim. Closed-book fact of Roman burial custom.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.191",
+      "source_text": "emere ac vendere Mercurius, vindemiare instituit Liber pater; idem diadema, regium insigne, et triumphum invenit.",
+      "question": "Quis emere ac vendere primus instituisse a Plinio traditur?",
+      "answer": "Mercurius.",
+      "question_en": "Who, according to Pliny, first instituted buying and selling?",
+      "answer_en": "Mercury.",
+      "derivation": "The first entry in Pliny's catalogue of inventors: Mercury as author of trade. Anchored to the named god and the invention; single named answer supported verbatim. Closed-book: Mercury as god of commerce is core Roman religion.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.191",
+      "source_text": "vindemiare instituit Liber pater; idem diadema, regium insigne, et triumphum invenit.",
+      "question": "Quis, praeter vindemiam, diadema regium insigne et triumphum invenisse a Plinio traditur?",
+      "answer": "Liber pater.",
+      "question_en": "Who, besides the grape-harvest, is said by Pliny to have invented the royal diadem and the triumph?",
+      "answer_en": "Father Liber (Bacchus).",
+      "derivation": "Liber pater as inventor of the vintage, the diadem, and the triumph. Anchored to the three named inventions; single named answer supported verbatim. Closed-book: Bacchus's triumphal procession from India is a Roman commonplace.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.191",
+      "source_text": "Ceres frumenta, cum antea glande vescerentur, eadem molere et conficere in Attica, ut alii, et in Sicilia, ob id dea iudicata.",
+      "question": "Quo cibo homines ante frumenta a Cerere inventa vescebantur, ut Plinius scribit?",
+      "answer": "Glande.",
+      "question_en": "On what food did men live before Ceres discovered grain, according to Pliny?",
+      "answer_en": "On acorns.",
+      "derivation": "The canonical before-and-after of civilization: acorns until Ceres gave grain. Anchored to Ceres and the invention of corn; single answer supported verbatim. Closed-book and a commonplace of Latin literature.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.191",
+      "source_text": "Ceres frumenta, cum antea glande vescerentur, eadem molere et conficere in Attica, ut alii, et in Sicilia, ob id dea iudicata.",
+      "question": "Cuius inventum frumenta fuisse Plinius tradit?",
+      "answer": "Cereris.",
+      "question_en": "Whose discovery does Pliny say grain was?",
+      "answer_en": "Ceres's.",
+      "derivation": "Ceres as discoverer of grain and of milling and baking, for which she was judged a goddess. Anchored to the invention; single named answer supported verbatim. Closed-book: Ceres and corn is foundational Roman religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.192",
+      "source_text": "utrique in Graeciam attulisse e Phoenice Cadmum sedecim numero, quibus Troiano bello Palameden adiecisse quattuor hac figura ΖΨΞΧ, totidem post eum Simoniden melicum ΨΞΩΘ.",
+      "question": "Quot litteras Palamedes Troiano bello adiecisse traditur?",
+      "answer": "Quattuor.",
+      "question_en": "How many letters is Palamedes said to have added at the time of the Trojan war?",
+      "answer_en": "Four.",
+      "derivation": "In Pliny's history of the alphabet, Palamedes added four letters to Cadmus's sixteen (Simonides four more). Anchored to Palamedes and the Trojan war; single number answer supported verbatim. Closed-book and part of the standard ancient account of the alphabet.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.193",
+      "source_text": "ex quo apparet aeternus litterarum usus. in Latium eas attulerunt Pelasgi.",
+      "question": "Qui litteras in Latium attulisse a Plinio traduntur?",
+      "answer": "Pelasgi.",
+      "question_en": "Who, according to Pliny, brought letters into Latium?",
+      "answer_en": "The Pelasgians.",
+      "derivation": "Pliny's statement that the Pelasgi carried the alphabet to Latium. Anchored to Latium; single named answer supported verbatim. Closed-book: the counterpart, for Rome, of Cadmus bringing letters to Greece.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.194",
+      "source_text": "oppidum Cecrops a se appellavit Cecropiam, quae nunc est arx Athenis.",
+      "question": "Quo nomine Cecrops oppidum a se conditum appellavit, quod nunc arx Athenarum est?",
+      "answer": "Cecropiam.",
+      "question_en": "By what name did Cecrops call the town he founded, which is now the citadel of Athens?",
+      "answer_en": "Cecropia.",
+      "derivation": "Cecrops named his foundation Cecropia, later the Acropolis of Athens. Anchored to Cecrops and Athens; single named answer supported verbatim. Closed-book: Cecrops as founder of Athens is standard Greek legend.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.195",
+      "source_text": "tegulas invenit Cinyra, Agriopae filius, et metalla aeris, utrumque in insula Cypro, item forcipem, martulum, vectem, incudem.",
+      "question": "In qua insula Cinyra, Agriopae filius, tegulas et aeris metalla invenisse traditur?",
+      "answer": "In Cypro.",
+      "question_en": "On which island is Cinyras, son of Agriopa, said to have invented roof-tiles and copper mines?",
+      "answer_en": "On Cyprus.",
+      "derivation": "Cinyras of Cyprus as inventor of tiles and of copper-mining, both on his island. Anchored to the named man; single place answer supported verbatim. Closed-book: Cyprus is the ancient world's byword for copper (cuprum).",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.195",
+      "source_text": "puteos Danaus ex Aegypto advectus in Graeciam qua vocabatur Argos Dipsion; lapidicinas Cadmus Thebis turres, ut Aristoteles, Cyclopes, Tirynthii, ut Theophrastus.",
+      "question": "Quis puteos ex Aegypto in Graeciam attulisse traditur?",
+      "answer": "Danaus.",
+      "question_en": "Who is said to have brought wells from Egypt into Greece?",
+      "answer_en": "Danaus.",
+      "derivation": "Danaus brought well-digging from Egypt to the thirsty Argive plain (Argos Dipsion). Anchored to Danaus, Egypt, and Argos; single named answer supported verbatim. Closed-book Greek foundation legend.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.195",
+      "source_text": "lapidicinas Cadmus Thebis turres, ut Aristoteles, Cyclopes, Tirynthii, ut Theophrastus.",
+      "question": "Quos turrium inventores Aristoteles fecisse a Plinio traditur?",
+      "answer": "Cyclopas.",
+      "question_en": "Whom does Aristotle, as reported by Pliny, make the inventors of towers?",
+      "answer_en": "The Cyclopes.",
+      "derivation": "Aristotle credited towers to the Cyclopes (Theophrastus to the Tirynthians). Anchored to Aristotle's attribution; single named answer supported verbatim. Closed-book: 'Cyclopean' walls are ambient ancient knowledge.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.196",
+      "source_text": "Aegyptii textilia, inficere lanas Sardibus Lydi, fusos in lanificio Closter, filius Arachnae, linum et retia Arachne, fulloniam artem Nicias Megarensis, sutrinam Tychius Boeotius.",
+      "question": "Qui lanas inficere Sardibus primi instituisse traduntur?",
+      "answer": "Lydi.",
+      "question_en": "Who are said to have been the first to dye wool, at Sardis?",
+      "answer_en": "The Lydians.",
+      "derivation": "The Lydians of Sardis as inventors of wool-dyeing. Anchored to Sardis; single named answer supported verbatim. Closed-book: Lydian purple and dyed wool are a fixture of ancient luxury lore.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.196",
+      "source_text": "linum et retia Arachne, fulloniam artem Nicias Megarensis, sutrinam Tychius Boeotius.",
+      "question": "Quae linum et retia invenisse traditur?",
+      "answer": "Arachne.",
+      "question_en": "Who is said to have invented linen thread and nets?",
+      "answer_en": "Arachne.",
+      "derivation": "Arachne credited with flax-thread and nets (her son Closter with spindles). Anchored to the named figure; single named answer supported verbatim. Closed-book: Arachne the weaver is canonical myth.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.196",
+      "source_text": "medicinam Aegyptii apud ipsos volunt repertam, alii per Arabum, Babylonis et Apollinis filium, herbariam et medicamentariam a Chirone, Saturni et Philyrae filio.",
+      "question": "Cui, Saturni et Philyrae filio, herbaria et medicamentaria ars inventa tribuitur?",
+      "answer": "Chironi.",
+      "question_en": "To whom, the son of Saturn and Philyra, is the discovery of herbal and drug medicine attributed?",
+      "answer_en": "To Chiron.",
+      "derivation": "Chiron the centaur as founder of herbal medicine. Anchored by the named parentage; single named answer supported verbatim. Closed-book: Chiron the healer and teacher of Asclepius and Achilles is standard myth.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.197",
+      "source_text": "ferrum Hesiodus in Creta eo qui vocati sunt Dactyli Idaei.",
+      "question": "Quibus Hesiodus ferri inventionem in Creta tribuit?",
+      "answer": "Dactylis Idaeis.",
+      "question_en": "To whom does Hesiod attribute the discovery of iron in Crete?",
+      "answer_en": "To the Idaean Dactyls.",
+      "derivation": "Hesiod's attribution of iron-working to the Idaean Dactyls of Crete. Anchored to Hesiod and Crete; single answer supported verbatim. Closed-book: the Dactyls are the standard mythic smiths.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.197",
+      "source_text": "plumbum ex Cassiteride insula primus adportavit Midacritus.",
+      "question": "Ex qua insula Midacritus plumbum primus adportavit?",
+      "answer": "Ex Cassiteride.",
+      "question_en": "From which island did Midacritus first bring lead (tin)?",
+      "answer_en": "From the Cassiterides.",
+      "derivation": "The first importation of tin/lead from the Cassiterides (the 'Tin Islands'). Anchored to the named man and island; single place answer supported verbatim. Closed-book: the Cassiterides are the famous tin-source of ancient geography.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.198",
+      "source_text": "fabricam ferrariam invenerunt Cyclopes, figlinas Coroebus Atheniensis, in iis orbem Anarcharsis Scythes, ut alii, Hyperbius Corinthius.",
+      "question": "Quis figlinas invenisse traditur?",
+      "answer": "Coroebus Atheniensis.",
+      "question_en": "Who is said to have invented potteries?",
+      "answer_en": "Coroebus of Athens.",
+      "derivation": "Coroebus of Athens as inventor of the potter's craft (the wheel being credited to Anacharsis or Hyperbius). Anchored to the craft; single named answer supported verbatim, with no rival attribution for the craft itself. Closed-book entry of Pliny's inventor-catalogue.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.198",
+      "source_text": "fabricam materiariam Daedalus et in ea serram, asciam, perpendiculum, terebram, glutinum, ichthyocollam.",
+      "question": "Cui fabrica materiaria et in ea serra, ascia, perpendiculum, terebra inventa tribuuntur?",
+      "answer": "Daedalo.",
+      "question_en": "To whom are carpentry, and in it the saw, adze, plumb-line, and drill, attributed as inventions?",
+      "answer_en": "To Daedalus.",
+      "derivation": "Daedalus as inventor of carpentry and its tools. Anchored to the named craft and tools; single named answer supported verbatim. Closed-book: Daedalus the archetypal craftsman.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.198",
+      "source_text": "normam autem et libellam et tornum et clavem Theodorus Samius, mensuras et pondera Phidon Argivus aut Palamedes, ut maluit Gellius.",
+      "question": "Quis normam et libellam et tornum et clavem invenisse traditur?",
+      "answer": "Theodorus Samius.",
+      "question_en": "Who is said to have invented the square, the level, the lathe, and the key?",
+      "answer_en": "Theodorus of Samos.",
+      "derivation": "Theodorus of Samos credited with the carpenter's square, level, lathe, and key. Anchored to the named tools; single named answer supported verbatim. Closed-book: Theodorus is one of the best-known archaic Greek craftsmen.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.198",
+      "source_text": "ignem e silice Pyrodes Cilicis filius, eundem adservare ferula Prometheus.",
+      "question": "Quis ignem ferula adservare docuisse traditur?",
+      "answer": "Prometheus.",
+      "question_en": "Who is said to have taught men to keep fire in a fennel-stalk?",
+      "answer_en": "Prometheus.",
+      "derivation": "Prometheus preserved fire in the ferula (narthex), while Pyrodes struck it from flint. Anchored to the named act; single named answer supported verbatim. Closed-book: the fennel-stalk is the canonical detail of the Prometheus myth.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.199",
+      "source_text": "vehiculum cum quattuor rotis Phryges, mercaturas Poeni, culturas vitium et arborum Eumolpus Atheniensis, vinum aquae misceri Staphylus Silieni filius, oleum et trapetas Aristaeus Atheniensis, idem mella.",
+      "question": "Qui vehiculum cum quattuor rotis invenisse traduntur?",
+      "answer": "Phryges.",
+      "question_en": "Who are said to have invented the four-wheeled vehicle?",
+      "answer_en": "The Phrygians.",
+      "derivation": "The Phrygians credited with the four-wheeled wagon (as with the biga). Anchored to the named invention; single answer supported verbatim. Closed-book entry of the inventor-catalogue.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.199",
+      "source_text": "vehiculum cum quattuor rotis Phryges, mercaturas Poeni, culturas vitium et arborum Eumolpus Atheniensis.",
+      "question": "Qui mercaturas invenisse traduntur?",
+      "answer": "Poeni.",
+      "question_en": "Who are said to have invented commerce?",
+      "answer_en": "The Carthaginians (Phoenicians).",
+      "derivation": "Trade credited to the Poeni. Anchored to the named invention; single answer supported verbatim. Closed-book: the Carthaginian/Phoenician trader is one of the ancient world's fixed cultural images.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.199",
+      "source_text": "vinum aquae misceri Staphylus Silieni filius, oleum et trapetas Aristaeus Atheniensis, idem mella.",
+      "question": "Quis vinum aqua misceri primus instituisse traditur?",
+      "answer": "Staphylus, Sileni filius.",
+      "question_en": "Who is said to have first instituted the mixing of wine with water?",
+      "answer_en": "Staphylus, son of Silenus.",
+      "derivation": "Staphylus as inventor of diluting wine with water — the normal ancient way of drinking. Anchored to the named figure and practice; single answer supported verbatim. Closed-book and central to Greco-Roman drinking custom.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.199",
+      "source_text": "oleum et trapetas Aristaeus Atheniensis, idem mella.",
+      "question": "Cui oleum et trapetae, idem et mella, inventa tribuuntur?",
+      "answer": "Aristaeo Atheniensi.",
+      "question_en": "To whom are olive oil and the olive-press, and honey too, attributed as discoveries?",
+      "answer_en": "To Aristaeus of Athens.",
+      "derivation": "Aristaeus credited with oil, the trapetum, and honey. Anchored to the named products; single named answer supported verbatim. Closed-book: Aristaeus is the mythic patron of bee-keeping and the olive (cf. Vergil, Georgics 4).",
+      "category": "cibus"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.199",
+      "source_text": "culturas vitium et arborum Eumolpus Atheniensis, vinum aquae misceri Staphylus Silieni filius.",
+      "question": "Quis culturas vitium et arborum invenisse traditur?",
+      "answer": "Eumolpus Atheniensis.",
+      "question_en": "Who is said to have invented the cultivation of vines and trees?",
+      "answer_en": "Eumolpus of Athens.",
+      "derivation": "Eumolpus of Athens credited with viticulture and arboriculture. Anchored to the named arts; single named answer supported verbatim. Closed-book entry of Pliny's catalogue, and Eumolpus is a familiar Eleusinian name.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.200",
+      "source_text": "regiam civitatem Aegyptii, popularem Attici post Theseum. tyrannus primus fuit Phalaris Agraganti. servitium invenere Lacedaemonii. iudicium capitis in Areopago primum actum est.",
+      "question": "Post quem Attici popularem civitatem habuisse a Plinio traduntur?",
+      "answer": "Post Theseum.",
+      "question_en": "After whom, according to Pliny, did the Athenians have a popular (democratic) government?",
+      "answer_en": "After Theseus.",
+      "derivation": "Pliny's constitutional firsts: monarchy from the Egyptians, democracy at Athens after Theseus. Anchored to the Attici and the constitution; single named answer supported verbatim. Closed-book: Theseus as the founder of the Athenian polity is standard.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.200",
+      "source_text": "servitium invenere Lacedaemonii. iudicium capitis in Areopago primum actum est.",
+      "question": "Qui servitium invenisse a Plinio traduntur?",
+      "answer": "Lacedaemonii.",
+      "question_en": "Who, according to Pliny, invented slavery?",
+      "answer_en": "The Spartans.",
+      "derivation": "Pliny credits the invention of slavery to the Lacedaemonians (the helot system). Anchored to the named people; single answer supported verbatim. Closed-book, and a pointed item of ancient social history.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.200",
+      "source_text": "iudicium capitis in Areopago primum actum est.",
+      "question": "Ubi iudicium capitis primum actum esse Plinius tradit?",
+      "answer": "In Areopago.",
+      "question_en": "Where does Pliny say the first capital trial was held?",
+      "answer_en": "On the Areopagus.",
+      "derivation": "The Areopagus as the site of the first trial for a capital charge. Anchored to the named court; single place answer supported verbatim. Closed-book: the Areopagus is the archetypal homicide court of the ancient world.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.200",
+      "source_text": "clupeos invenerunt Proetus et Acrisius inter se bellantes sive Chalcus Athamantis filius, loricam Midias Messenius, galeam, gladium, hastam Lacedaemonii, ocreas et cristas Cares.",
+      "question": "Qui galeam, gladium, hastam invenisse traduntur?",
+      "answer": "Lacedaemonii.",
+      "question_en": "Who are said to have invented the helmet, the sword, and the spear?",
+      "answer_en": "The Spartans.",
+      "derivation": "Pliny's attribution of helmet, sword, and spear to the Lacedaemonians. Anchored to the named arms; single answer supported verbatim. Closed-book, and consistent with Sparta's ambient reputation in arms.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.200",
+      "source_text": "loricam Midias Messenius, galeam, gladium, hastam Lacedaemonii, ocreas et cristas Cares.",
+      "question": "Qui ocreas et cristas invenisse traduntur?",
+      "answer": "Cares.",
+      "question_en": "Who are said to have invented greaves and helmet-crests?",
+      "answer_en": "The Carians.",
+      "derivation": "Greaves and crests credited to the Carians. Anchored to the named items; single answer supported verbatim. Closed-book: Herodotus too makes the Carians the inventors of crests and shield-devices.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.201",
+      "source_text": "lanceas Aetolos, iaculum cum ammento Aetolum Martis filium, hastas velitares Tyrrenum, eundem pilum, Penthesileam Amazonem securim, Pisaeum venabula et in tormentis scorpionem, Cretas catapultam, Syrophoenicas ballistam et fundam.",
+      "question": "Cui Amazoni securis inventio tribuitur?",
+      "answer": "Penthesileae.",
+      "question_en": "To which Amazon is the invention of the battle-axe attributed?",
+      "answer_en": "To Penthesilea.",
+      "derivation": "The battle-axe credited to the Amazon Penthesilea. Anchored to the named figure and weapon; single answer supported verbatim. Closed-book: Penthesilea and the Amazons' axe are canonical.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.201",
+      "source_text": "Cretas catapultam, Syrophoenicas ballistam et fundam, aeneam tubam Pisaeum Tyrreni, testudines Artemonem Clazomenium.",
+      "question": "Qui catapultam invenisse traduntur?",
+      "answer": "Cretes.",
+      "question_en": "Who are said to have invented the catapult?",
+      "answer_en": "The Cretans.",
+      "derivation": "The catapult credited to the Cretans (the ballista and sling to the Syrophoenicians). Anchored to the named engine; single answer supported verbatim. Closed-book entry of the catalogue of military inventions.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.202",
+      "source_text": "equum (qui nunc aries appellatur) in muralibus machinis Epium ad Troiam, equo vehi Bellerophontem, frenos et strata equorum Pelethronium, pugnare ex equo Thessalos, qui Centauri appellati sunt, habitantes secundum Pelium montem.",
+      "question": "Quis equum illum, qui nunc aries appellatur, in muralibus machinis ad Troiam invenisse traditur?",
+      "answer": "Epius.",
+      "question_en": "Who is said to have devised at Troy the 'horse' among siege-engines, now called the ram?",
+      "answer_en": "Epeus.",
+      "derivation": "Epeus, maker of the Trojan Horse, credited with the siege-engine now called the ram. Anchored to Troy and the engine; single named answer supported verbatim. Closed-book: Epeus and the wooden horse are canonical.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.202",
+      "source_text": "equo vehi Bellerophontem, frenos et strata equorum Pelethronium, pugnare ex equo Thessalos, qui Centauri appellati sunt, habitantes secundum Pelium montem.",
+      "question": "Quis primus equo vehi coepisse traditur?",
+      "answer": "Bellerophon.",
+      "question_en": "Who is said to have been the first to ride on horseback?",
+      "answer_en": "Bellerophon.",
+      "derivation": "Bellerophon as the first rider. Anchored to the named hero; single named answer supported verbatim. Closed-book: Bellerophon and Pegasus are canonical myth.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.202",
+      "source_text": "pugnare ex equo Thessalos, qui Centauri appellati sunt, habitantes secundum Pelium montem.",
+      "question": "Qui primi ex equo pugnare instituisse traduntur, qui Centauri appellati sunt?",
+      "answer": "Thessali.",
+      "question_en": "Who are said to have first fought on horseback, and were called Centaurs?",
+      "answer_en": "The Thessalians.",
+      "derivation": "The rationalizing explanation of the Centaurs as the Thessalian horsemen of Pelion. Anchored to the Centaurs and Mount Pelion; single answer supported verbatim. Closed-book and a well-known ancient rationalization.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.202",
+      "source_text": "bigas prima iunxit Phrygum natio, quadrigas Erichthonius.",
+      "question": "Quae natio bigas prima iunxisse a Plinio traditur?",
+      "answer": "Phrygum.",
+      "question_en": "Which nation, according to Pliny, first yoked the two-horse chariot?",
+      "answer_en": "The Phrygians.",
+      "derivation": "The biga credited to the Phrygians (the quadriga to Erichthonius). Anchored to the named vehicle; single answer supported verbatim. Closed-book entry of the catalogue; distinct from the quadriga fact already taken.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.202",
+      "source_text": "ordinem exercitus, signi dationem, tesseras, vigilias Palamedes invenit Troiano bello, specularum significationem eodem Sinon, inducias Lycaon, foedera Theseus.",
+      "question": "Quis ordinem exercitus, signi dationem, tesseras et vigilias Troiano bello invenisse traditur?",
+      "answer": "Palamedes.",
+      "question_en": "Who is said to have invented, in the Trojan war, the ordering of an army, the giving of the signal, watchwords, and sentry-duty?",
+      "answer_en": "Palamedes.",
+      "derivation": "Palamedes as the inventor of military organization. Anchored to the Trojan war and the named institutions; single named answer supported verbatim. Closed-book: Palamedes the culture-hero of the Greek camp.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.202",
+      "source_text": "specularum significationem eodem Sinon, inducias Lycaon, foedera Theseus.",
+      "question": "Quis foedera invenisse a Plinio traditur?",
+      "answer": "Theseus.",
+      "question_en": "Who, according to Pliny, invented treaties?",
+      "answer_en": "Theseus.",
+      "derivation": "Treaties credited to Theseus (truces to Lycaon). Anchored to the named institution; single named answer supported verbatim. Closed-book entry of the catalogue, tied to Athens's founding hero.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.203",
+      "source_text": "Auguria ex avibus Car, a quo Caria appellata; adiecit ex ceteris animalibus Orpheus, aruspicia Delphus, ignispicia Amphiaraus, extispicia avium Tiresias Thebanus, interpretationem ostentorum et somniorum Amphictyon.",
+      "question": "A quo auguria ex avibus inventa esse traduntur, a quo etiam Caria appellata est?",
+      "answer": "A Care.",
+      "question_en": "By whom are bird-auguries said to have been invented, the man from whom Caria took its name?",
+      "answer_en": "By Car.",
+      "derivation": "Car, eponym of Caria, as inventor of augury from birds. Anchored by the eponymy; single named answer supported verbatim. Closed-book: augury from birds is the central Roman divinatory art, and Pliny's catalogue of its origins is standard learning.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.203",
+      "source_text": "aruspicia Delphus, ignispicia Amphiaraus, extispicia avium Tiresias Thebanus, interpretationem ostentorum et somniorum Amphictyon.",
+      "question": "Quis ignispicia invenisse traditur?",
+      "answer": "Amphiaraus.",
+      "question_en": "Who is said to have invented divination by fire?",
+      "answer_en": "Amphiaraus.",
+      "derivation": "Amphiaraus credited with ignispicium, divination from fire. Anchored to the named art; single named answer supported verbatim. Closed-book: Amphiaraus is the archetypal seer of the Theban cycle.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.203",
+      "source_text": "aruspicia Delphus, ignispicia Amphiaraus, extispicia avium Tiresias Thebanus, interpretationem ostentorum et somniorum Amphictyon.",
+      "question": "Quis extispicia avium invenisse traditur?",
+      "answer": "Tiresias Thebanus.",
+      "question_en": "Who is said to have invented divination from the entrails of birds?",
+      "answer_en": "Tiresias of Thebes.",
+      "derivation": "Tiresias credited with inspection of birds' entrails. Anchored to the named seer and art; single named answer supported verbatim. Closed-book: Tiresias is the best-known seer of Greek myth.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.203",
+      "source_text": "interpretationem ostentorum et somniorum Amphictyon. astrologiam Atlans Libyae filius, ut alii, Aegyptii, ut alii, Assyrii, sphaeram in ea Milesius Anaximander, ventorum rationem Aeolus Hellenis filius.",
+      "question": "Quis interpretationem ostentorum et somniorum invenisse traditur?",
+      "answer": "Amphictyon.",
+      "question_en": "Who is said to have invented the interpretation of portents and dreams?",
+      "answer_en": "Amphictyon.",
+      "derivation": "Amphictyon credited with the reading of portents and dreams. Anchored to the named art; single named answer supported verbatim. Closed-book entry of Pliny's catalogue of divinatory origins.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.203",
+      "source_text": "astrologiam Atlans Libyae filius, ut alii, Aegyptii, ut alii, Assyrii, sphaeram in ea Milesius Anaximander, ventorum rationem Aeolus Hellenis filius.",
+      "question": "Quis sphaeram invenisse a Plinio traditur?",
+      "answer": "Anaximander Milesius.",
+      "question_en": "Who, according to Pliny, invented the celestial globe?",
+      "answer_en": "Anaximander of Miletus.",
+      "derivation": "Anaximander credited with the sphaera within astronomy. Anchored to the named instrument; single named answer supported verbatim (no rival attribution for the sphere itself). Closed-book fact of the history of science.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.203",
+      "source_text": "sphaeram in ea Milesius Anaximander, ventorum rationem Aeolus Hellenis filius.",
+      "question": "Cui, Hellenis filio, ventorum ratio inventa tribuitur?",
+      "answer": "Aeolo.",
+      "question_en": "To whom, the son of Hellen, is the science of the winds attributed?",
+      "answer_en": "To Aeolus.",
+      "derivation": "Aeolus son of Hellen credited with the theory of the winds. Anchored by the named parentage; single named answer supported verbatim. Closed-book: Aeolus as lord of the winds is canonical (Odyssey 10, Aeneid 1).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.204",
+      "source_text": "musicam Amphion, fistulam et monaulum Pan Mercuri, obliquam tibiam Midas in Phrygia, geminas tibias Marsyas in eadem gente.",
+      "question": "Quis fistulam et monaulum invenisse traditur, Mercuri filius?",
+      "answer": "Pan.",
+      "question_en": "Who, the son of Mercury, is said to have invented the pan-pipe and the single flute?",
+      "answer_en": "Pan.",
+      "derivation": "Pan credited with the syrinx and monaulos. Anchored by the named parentage and instrument; single named answer supported verbatim. Closed-book: the pan-pipe is one of the most recognizable attributes in ancient culture.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.204",
+      "source_text": "obliquam tibiam Midas in Phrygia, geminas tibias Marsyas in eadem gente.",
+      "question": "Quis geminas tibias in Phrygia invenisse traditur?",
+      "answer": "Marsyas.",
+      "question_en": "Who is said to have invented the double pipes in Phrygia?",
+      "answer_en": "Marsyas.",
+      "derivation": "Marsyas the Phrygian credited with the double aulos (and with the Phrygian modes). Anchored to Phrygia and the instrument; single named answer supported verbatim. Closed-book: Marsyas and his pipes, and his contest with Apollo, are canonical.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.204",
+      "source_text": "septem chordis primum cecinit III ad IIII primas additis Terpander, octavam Simonides addidit, nonam Timotheus.",
+      "question": "Quis primus septem chordis cecinisse traditur, tribus ad quattuor primas additis?",
+      "answer": "Terpander.",
+      "question_en": "Who is said to have been the first to sing to seven strings, adding three to the original four?",
+      "answer_en": "Terpander.",
+      "derivation": "Terpander's seven-stringed lyre, the foundational fact of Greek music history (Simonides added the eighth string, Timotheus the ninth). Anchored to the named musician and number; single named answer supported verbatim. Closed-book.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.204",
+      "source_text": "septem chordis primum cecinit III ad IIII primas additis Terpander, octavam Simonides addidit, nonam Timotheus.",
+      "question": "Quis nonam chordam citharae addidisse traditur?",
+      "answer": "Timotheus.",
+      "question_en": "Who is said to have added the ninth string to the lyre?",
+      "answer_en": "Timotheus.",
+      "derivation": "Timotheus of Miletus added the ninth string, the notorious musical innovation of the late fifth century. Anchored to the numbered string; single named answer supported verbatim. Closed-book fact of Greek music.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.204",
+      "source_text": "saltationem armatam Curetes docuere, pyrrichen Pyrrus, utramque in Creta.",
+      "question": "Qui saltationem armatam in Creta docuisse traduntur?",
+      "answer": "Curetes.",
+      "question_en": "Who are said to have taught the armed dance in Crete?",
+      "answer_en": "The Curetes.",
+      "derivation": "The Curetes as teachers of the armed dance in Crete (the pyrrhic being credited to Pyrrhus). Anchored to Crete and the dance; single answer supported verbatim. Closed-book: the Curetes' clashing armour around the infant Jupiter is standard myth.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.204",
+      "source_text": "saltationem armatam Curetes docuere, pyrrichen Pyrrus, utramque in Creta.",
+      "question": "A quo pyrriche saltatio inventa esse traditur?",
+      "answer": "A Pyrro.",
+      "question_en": "By whom is the pyrrhic dance said to have been invented?",
+      "answer_en": "By Pyrrhus.",
+      "derivation": "The pyrriche credited to Pyrrhus, in Crete. Anchored to the named dance; single named answer supported verbatim. Closed-book: the pyrrhic war-dance was still performed in Roman spectacle.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.205",
+      "source_text": "versum heroum Pythio oraculo debemus.",
+      "question": "Cui rei versum heroum deberi Plinius scribit?",
+      "answer": "Pythio oraculo.",
+      "question_en": "To what does Pliny say we owe the heroic verse (hexameter)?",
+      "answer_en": "To the Pythian oracle.",
+      "derivation": "Pliny derives the hexameter from Delphi. Anchored to the metre and the oracle; single answer supported verbatim. The fact translates (the origin of a verse-form), so it stays on the main track. Closed-book learned tradition.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.205",
+      "source_text": "prosam orationem condere Pherecydes Syrius instituit Cyri regis aetate, historiam Cadmus Milesius.",
+      "question": "Quis prosam orationem condere primus instituisse traditur, Cyri regis aetate?",
+      "answer": "Pherecydes Syrius.",
+      "question_en": "Who is said to have been the first to compose in prose, in the age of king Cyrus?",
+      "answer_en": "Pherecydes of Syros.",
+      "derivation": "Pherecydes of Syros as the first prose writer. Anchored to the age of Cyrus; single named answer supported verbatim. Closed-book landmark in the history of Greek literature.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.205",
+      "source_text": "prosam orationem condere Pherecydes Syrius instituit Cyri regis aetate, historiam Cadmus Milesius.",
+      "question": "Quis historiam scribere primus instituisse a Plinio traditur?",
+      "answer": "Cadmus Milesius.",
+      "question_en": "Who, according to Pliny, first wrote history?",
+      "answer_en": "Cadmus of Miletus.",
+      "derivation": "Cadmus of Miletus as the first historian. Anchored to the genre; single named answer supported verbatim. Closed-book fact of literary history, distinct from the Cadmus of the alphabet.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.205",
+      "source_text": "ludos gymnicos in Arcadia Lycaon, funebres Acastus in Iolco, post eum Theseus in Isthmo, Hercules Olympiae; athleticam Pittheus, pilam lusoriam Gyges Lydus.",
+      "question": "Quis ludos Olympiae instituisse a Plinio traditur?",
+      "answer": "Hercules.",
+      "question_en": "Who, according to Pliny, founded the games at Olympia?",
+      "answer_en": "Hercules.",
+      "derivation": "Hercules as founder of the Olympic games in Pliny's series of games-founders. Anchored to Olympia; single named answer supported verbatim. Closed-book: the standard ancient account of the Olympics' origin.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.205",
+      "source_text": "ludos gymnicos in Arcadia Lycaon, funebres Acastus in Iolco, post eum Theseus in Isthmo, Hercules Olympiae.",
+      "question": "Quis ludos funebres in Iolco primus fecisse traditur?",
+      "answer": "Acastus.",
+      "question_en": "Who is said to have first held funeral games, at Iolcos?",
+      "answer_en": "Acastus.",
+      "derivation": "Acastus's funeral games at Iolcos (for Pelias), the first of their kind, before Theseus at the Isthmus. Anchored to Iolcos; single named answer supported verbatim. Closed-book: funeral games are a defining institution of the heroic age.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.205",
+      "source_text": "athleticam Pittheus, pilam lusoriam Gyges Lydus; picturam Aegyptii et in Graecia Euchir, Daedali cognatus, ut Aristoteli placet, ut Theophrasto, Polygnotus Atheniensis.",
+      "question": "Quis pilam lusoriam invenisse traditur?",
+      "answer": "Gyges Lydus.",
+      "question_en": "Who is said to have invented the game of ball?",
+      "answer_en": "Gyges the Lydian.",
+      "derivation": "Ball-play credited to Gyges the Lydian. Anchored to the named game; single named answer supported verbatim. Closed-book: ball games were an everyday Roman leisure activity, and this is their canonical origin-story.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.206",
+      "source_text": "Nave primus in Graeciam ex Aegypto Danaus advenit; antea ratibus navigabatur inventis in mari Rubro inter insulas a rege Erythra.",
+      "question": "Quis primus nave ex Aegypto in Graeciam advenisse traditur?",
+      "answer": "Danaus.",
+      "question_en": "Who is said to have been the first to come by ship from Egypt to Greece?",
+      "answer_en": "Danaus.",
+      "derivation": "Danaus's voyage as the first use of a ship into Greece. Anchored to Egypt and Greece; single named answer supported verbatim. Closed-book: Danaus and his daughters are canonical Greek legend.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.206",
+      "source_text": "antea ratibus navigabatur inventis in mari Rubro inter insulas a rege Erythra.",
+      "question": "A quo rege rates in mari Rubro inventae esse traduntur?",
+      "answer": "Ab Erythra rege.",
+      "question_en": "By which king are rafts said to have been invented, among the islands of the Red Sea?",
+      "answer_en": "By king Erythras.",
+      "derivation": "King Erythras, eponym of the Erythraean (Red) Sea, credited with the raft. Anchored to the named sea and king; single named answer supported verbatim. Closed-book piece of ancient geography-lore.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.207",
+      "source_text": "longe nave Iasonem primum navigasse Philostephanus auctor est, Hegesias Parhalum, Ctesias Samiramin, Archemachus Aegaeonem, biremem Damastes Erythraeos fecisse, triremem Thucydides Aminoclen Corinthium.",
+      "question": "Quem primum longa nave navigasse Philostephanus auctor est?",
+      "answer": "Iasonem.",
+      "question_en": "Who, on the authority of Philostephanus, was the first to sail in a long ship?",
+      "answer_en": "Jason.",
+      "derivation": "Jason and the Argo as the first long ship, on Philostephanus's authority (Pliny lists rival claims under other authors, so the attribution is anchored to its source). Anchored to Jason and the named authority; single answer supported verbatim. Closed-book: the Argo is the archetypal first ship.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.207",
+      "source_text": "biremem Damastes Erythraeos fecisse, triremem Thucydides Aminoclen Corinthium, quadriremem Aristoteles Carthaginienses.",
+      "question": "Quem triremis inventorem Thucydides facit?",
+      "answer": "Aminoclen Corinthium.",
+      "question_en": "Whom does Thucydides make the inventor of the trireme?",
+      "answer_en": "Ameinocles of Corinth.",
+      "derivation": "Thucydides' attribution of the trireme to Ameinocles of Corinth (Thuc. 1.13). Anchored to Thucydides and the ship-type; single named answer supported verbatim. Closed-book fact of naval history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.207",
+      "source_text": "triremem Thucydides Aminoclen Corinthium, quadriremem Aristoteles Carthaginienses.",
+      "question": "Quos quadriremis inventores Aristoteles facit?",
+      "answer": "Carthaginienses.",
+      "question_en": "Whom does Aristotle make the inventors of the quadrireme?",
+      "answer_en": "The Carthaginians.",
+      "derivation": "Aristotle's attribution of the four-banked ship to Carthage. Anchored to Aristotle and the ship-type; single answer supported verbatim. Closed-book fact of naval history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.208",
+      "source_text": "ad quindecim Demetrium Antigoni, ad XXX Ptolemaeum Philadelphum, ad XL Ptolemaeum Philopatorem, qui Tryphon cognominatus est.",
+      "question": "Quis rex navem usque ad quadraginta ordines auxisse traditur?",
+      "answer": "Ptolemaeus Philopator.",
+      "question_en": "Which king is said to have built up a ship to as many as forty banks of oars?",
+      "answer_en": "Ptolemy Philopator.",
+      "derivation": "The escalating scale of Hellenistic warships culminates in Ptolemy Philopator's forty-banked ship. Anchored to the named king and number; single answer supported verbatim. Closed-book fact of Hellenistic naval extravagance.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.209",
+      "source_text": "siderum observationem in navigando Phoenices, remum Copae, latitudinem eius Plataeae, vela Icarus, malum et antennam Daedalus.",
+      "question": "Qui siderum observationem in navigando invenisse traduntur?",
+      "answer": "Phoenices.",
+      "question_en": "Who are said to have invented observation of the stars in navigation?",
+      "answer_en": "The Phoenicians.",
+      "derivation": "Star-navigation credited to the Phoenicians. Anchored to the named art; single answer supported verbatim. Closed-book: Phoenician seamanship is one of antiquity's fixed cultural facts.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.209",
+      "source_text": "vela Icarus, malum et antennam Daedalus, hippegum Samii aut Pericles Atheniensis, tectas longas Thasii.",
+      "question": "Quis vela invenisse a Plinio traditur?",
+      "answer": "Icarus.",
+      "question_en": "Who, according to Pliny, invented sails?",
+      "answer_en": "Icarus.",
+      "derivation": "Sails credited to Icarus, mast and yard to Daedalus — the rationalized version of the flight-myth. Anchored to the named invention; single named answer supported verbatim. Closed-book and tied to one of the most familiar myths.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.209",
+      "source_text": "vela Icarus, malum et antennam Daedalus, hippegum Samii aut Pericles Atheniensis.",
+      "question": "Quis malum et antennam invenisse a Plinio traditur?",
+      "answer": "Daedalus.",
+      "question_en": "Who, according to Pliny, invented the mast and the yard-arm?",
+      "answer_en": "Daedalus.",
+      "derivation": "Mast and yard credited to Daedalus, beside Icarus's sails. Anchored to the named parts of a ship; single named answer supported verbatim. Closed-book entry of the catalogue.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.209",
+      "source_text": "rostra addidit Pisaeus Tyrreni, ancoram Eupalamus, eandem bidentem Anacharsis, harpagones et manus Pericles Atheniensis, adminicula gubernandi Tiphys.",
+      "question": "Quis ancoram bidentem invenisse traditur?",
+      "answer": "Anacharsis.",
+      "question_en": "Who is said to have invented the two-fluked anchor?",
+      "answer_en": "Anacharsis.",
+      "derivation": "The double-fluked anchor credited to Anacharsis the Scythian (the plain anchor to Eupalamus). Anchored to the named object; single named answer supported verbatim. Closed-book: Anacharsis is a famous ancient culture-hero of invention.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.209",
+      "source_text": "harpagones et manus Pericles Atheniensis, adminicula gubernandi Tiphys. classe princeps depugnavit Minos.",
+      "question": "Quis princeps classe depugnavisse a Plinio traditur?",
+      "answer": "Minos.",
+      "question_en": "Who, according to Pliny, was the first to fight a battle with a fleet?",
+      "answer_en": "Minos.",
+      "derivation": "Minos as the first to fight a naval battle, matching the tradition of the Cretan thalassocracy. Anchored to the named king; single named answer supported verbatim. Closed-book and a standard ancient claim (cf. Thucydides 1.4).",
+      "category": "mythos"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.209",
+      "source_text": "Animal occidit primus Hyperbius Martis filius, Prometheus bovem.",
+      "question": "Quis primus bovem occidisse a Plinio traditur?",
+      "answer": "Prometheus.",
+      "question_en": "Who, according to Pliny, was the first to kill an ox?",
+      "answer_en": "Prometheus.",
+      "derivation": "Prometheus as the first to slaughter an ox (Hyperbius the first to kill any animal) — the origin of blood sacrifice and meat-eating. Anchored to the named act; single named answer supported verbatim. Closed-book and tied to the Promethean sacrifice-myth.",
+      "category": "religio"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.211",
+      "source_text": "Sequens gentium consensus in tonsoribus fuit, sed Romanis tardior. in Italiam ex Sicilia venere post Romam conditam anno CCCCLIIII adducente P. Titinio Mena, ut auctor est Varro; antea intonsi fuere.",
+      "question": "Ex qua insula tonsores in Italiam venisse Varro auctor est?",
+      "answer": "Ex Sicilia.",
+      "question_en": "From which island does Varro record that barbers came into Italy?",
+      "answer_en": "From Sicily.",
+      "derivation": "Barbers reached Italy from Sicily, on Varro's authority; before that the Romans went unshorn. Anchored to Varro and Italy; single place answer supported verbatim. Closed-book fact of Roman daily life.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.211",
+      "source_text": "in Italiam ex Sicilia venere post Romam conditam anno CCCCLIIII adducente P. Titinio Mena, ut auctor est Varro; antea intonsi fuere.",
+      "question": "A quo tonsores in Italiam adducti esse dicuntur, ut Varro tradit?",
+      "answer": "A P. Titinio Mena.",
+      "question_en": "By whom are barbers said to have been brought into Italy, according to Varro?",
+      "answer_en": "By P. Titinius Mena.",
+      "derivation": "P. Titinius Mena brought the first barbers to Italy in the 454th year of the city. Anchored to Varro and the date; single named answer supported verbatim. Closed-book fact about Roman grooming custom.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.211",
+      "source_text": "primus omnium radi cotidie instituit Africanus sequens; Divus Augustus cultris semper usus est.",
+      "question": "Quis primus omnium cotidie radi instituit, ut Plinius tradit?",
+      "answer": "Africanus sequens.",
+      "question_en": "Who was the first of all to be shaved daily, according to Pliny?",
+      "answer_en": "The younger Africanus (Scipio Aemilianus).",
+      "derivation": "Scipio Aemilianus as the first Roman to shave every day. Anchored to the named man; single answer supported verbatim. Closed-book detail of Roman grooming and self-presentation.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.211",
+      "source_text": "primus omnium radi cotidie instituit Africanus sequens; Divus Augustus cultris semper usus est.",
+      "question": "Quo instrumento Divus Augustus in tondendo semper usus est?",
+      "answer": "Cultris.",
+      "question_en": "What implement did the deified Augustus always use for his grooming?",
+      "answer_en": "Scissors (knives), not a razor.",
+      "derivation": "Augustus always used cultri rather than the razor. Anchored to Augustus; single answer supported verbatim. Closed-book detail of the emperor's personal habits, in Pliny's section on the consensus about barbers.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.212",
+      "source_text": "XII tabulis ortus tantum et occasus nominantur, post aliquot annos adiectus est et meridies, accenso consulum id pronuntiante, cum a curia inter Rostra et Graecostasin prospexisset solem.",
+      "question": "Quae duo tantum diei tempora in XII tabulis nominantur?",
+      "answer": "Ortus et occasus.",
+      "question_en": "Which two times of day alone are named in the Twelve Tables?",
+      "answer_en": "Sunrise and sunset.",
+      "derivation": "The Twelve Tables recognized only sunrise and sunset; midday was added later. Anchored to the Twelve Tables; the two-part answer is a fixed pair quoted verbatim. Closed-book fact about Rome's oldest law code and its reckoning of time.",
+      "category": "ius"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.212",
+      "source_text": "post aliquot annos adiectus est et meridies, accenso consulum id pronuntiante, cum a curia inter Rostra et Graecostasin prospexisset solem; a columna Maenia ad carcerem inclinato sidere supremam pronuntiavit, sed hoc serenis tantum diebus, usque ad primum Punicum bellum.",
+      "question": "Quis Romae meridiem pronuntiabat, cum a curia inter Rostra et Graecostasin solem prospexisset?",
+      "answer": "Accensus consulum.",
+      "question_en": "Who at Rome announced midday, after looking out for the sun from the senate-house between the Rostra and the Graecostasis?",
+      "answer_en": "The consuls' attendant (accensus).",
+      "derivation": "The consuls' accensus proclaimed midday, and the last hour when the sun sank between the Maenian column and the prison. Anchored to the Roman forum and the office; single answer supported verbatim. Closed-book detail of how Romans told the time.",
+      "category": "mores"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.213",
+      "source_text": "princeps solarium horologium statuisse ante XII annos quam cum Pyrro bellatum est ad aedem Quirini L. Papirius Cursor, cum eam dedicaret a patre suo votam, a Fabio Vestale proditur.",
+      "question": "Quis primus solarium horologium ad aedem Quirini statuisse a Fabio Vestale proditur?",
+      "answer": "L. Papirius Cursor.",
+      "question_en": "Who, on the authority of Fabius Vestalis, was the first to set up a sundial, at the temple of Quirinus?",
+      "answer_en": "L. Papirius Cursor.",
+      "derivation": "The first sundial at Rome, set up by Papirius Cursor at the temple of Quirinus twelve years before the war with Pyrrhus. Anchored to the named man, temple, and authority; single named answer supported verbatim. Closed-book fact of Roman time-keeping.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.214",
+      "source_text": "M. Varro primum statutum in publico secundum Rostra in columna tradit bello Punico primo a M'. Valerio Messala cos. Catina capta in Sicilia, deportatum inde post XXX annos quam de Papiriano horologio traditur, anno urbis CCCCLXXXX.",
+      "question": "Unde M'. Valerius Messala consul horologium illud deportavit, quod primum in publico secundum Rostra statutum est?",
+      "answer": "Catina, ex Sicilia.",
+      "question_en": "From where did the consul M'. Valerius Messala bring the sundial that was the first set up in a public place beside the Rostra?",
+      "answer_en": "From Catina in Sicily.",
+      "derivation": "The first public sundial at Rome was war-booty from the capture of Catina in the First Punic War, on Varro's authority. Anchored to the named consul and city; single answer supported verbatim. Closed-book fact of Roman public life.",
+      "category": "historia"
+    },
+    {
+      "locus": "Plinius, Naturalis Historia 7.215",
+      "source_text": "tunc Scipio Nasica collega Laenati primus aqua divisit horas aeque noctium ac dierum idque horologium sub tecto dicavit anno urbis DXCV. tam diu populo Romano indiscreta lux fuit.",
+      "question": "Quis primus Romae aqua horas et noctium et dierum divisit?",
+      "answer": "Scipio Nasica.",
+      "question_en": "Who was the first at Rome to measure the hours of night as well as of day by water?",
+      "answer_en": "Scipio Nasica.",
+      "derivation": "Scipio Nasica, colleague of Laenas, dedicated Rome's first water-clock under cover in the 595th year of the city. Anchored to the named censor and the clepsydra; single named answer supported verbatim. Closed-book landmark of Roman time-keeping.",
+      "category": "historia"
+    }
+  ]
+}

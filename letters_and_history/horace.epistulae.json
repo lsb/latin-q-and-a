@@ -1,0 +1,2128 @@
+{
+  "source": "text/horace/epist1.txt; text/horace/epist2.txt; text/horace/arspoet.txt",
+  "author": "Horace",
+  "work": "Epistulae, libri I-II, et Ars Poetica",
+  "provenance": "The Latin Library (www.thelatinlibrary.com)",
+  "pairs": [
+    {
+      "locus": "Horatius, Epistulae 1.1.2",
+      "source_text": "Prima dicte mihi, summa dicende Camena, spectatum satis et donatum iam rude quaeris, Maecenas, iterum antiquo me includere ludo?",
+      "question": "Quo dono gladiator Romanus emeritus missionem accipiebat, quo se donatum Horatius ad Maecenatem scribit?",
+      "answer": "Rude.",
+      "question_en": "By what gift did a Roman gladiator receive his discharge, the gift Horace says he has already been given, writing to Maecenas?",
+      "answer_en": "By the rudis (the wooden sword).",
+      "derivation": "The rudis, the wooden foil handed to a gladiator on discharge, is the standing Roman image of retirement; Horace applies it to himself in the opening lines of the Epistulae. Anchored to Horace + Maecenas; one-word answer stated verbatim (donatum iam rude). Translatable and culturally salient: arena custom every Roman knew.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.1.4",
+      "source_text": "Non eadem est aetas, non mens. Veianius armis Herculis ad postem fixis latet abditus agro, ne populum extrema totiens exoret harena.",
+      "question": "Cui deo Veianius gladiator arma sua fixit, cum harenam relinqueret?",
+      "answer": "Herculi.",
+      "question_en": "To which god did the gladiator Veianius fix his arms when he left the arena?",
+      "answer_en": "To Hercules.",
+      "derivation": "Retiring gladiators dedicated their weapons at the doorpost of Hercules, patron of the arena. Anchored to the named gladiator Veianius; single-name answer stated verbatim (Herculis ad postem fixis). Closed-book cult-and-spectacle custom, not passage-dependent.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.1.28",
+      "source_text": "Non possis oculo quantum contendere Lynceus, non tamen idcirco contemnas lippus inungui;",
+      "question": "Cuius herois oculorum acies apud Romanos in proverbio erat, quem Horatius lippo opponit?",
+      "answer": "Lyncei.",
+      "question_en": "Which hero's keenness of eye was proverbial among the Romans, whom Horace sets against the bleary-eyed man?",
+      "answer_en": "Lynceus'.",
+      "derivation": "Lynceus the Argonaut is the canonical byword for sharp sight. Anchored by name; short answer supported verbatim. Shared mythological knowledge, translatable.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.1.57",
+      "source_text": "Est animus tibi, sunt mores, est lingua fidesque, sed quadringentis sex septem milia desunt: plebs eris.",
+      "question": "Quantus census equiti Romano requirebatur, quo qui careret in plebe manebat, ut Horatius indicat?",
+      "answer": "Quadringenta milia sestertium.",
+      "question_en": "What census rating was required of a Roman knight, without which a man stayed among the plebs, as Horace indicates?",
+      "answer_en": "Four hundred thousand sesterces.",
+      "derivation": "The equestrian census of 400,000 sesterces, the threshold of the ordo equester. Anchored to the Roman census classes; a single number, stated verbatim (quadringentis... desunt: plebs eris). Institutional fact of Roman society, closed-book and translatable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.1.59",
+      "source_text": "At pueri ludentes: 'Rex eris' aiunt, 'si recte facies': hic murus aeneus esto nil conscire sibi, nulla pallescere culpa.",
+      "question": "Quid pueri Romani ludentes inter se canebant, ut Horatius refert?",
+      "answer": "'Rex eris, si recte facies.'",
+      "question_en": "What did Roman boys chant to one another at play, as Horace reports?",
+      "answer_en": "'You shall be king, if you do right.'",
+      "derivation": "A children's game-formula of Roman childhood, quoted verbatim by Horace. Anchored to Roman boys at play + Horace; short quoted answer supported verbatim. Ambient custom, not doctrine.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.1.73",
+      "source_text": "olim quod uolpes aegroto cauta leoni respondit, referam: 'Quia me uestigia terrent, omnia te aduersum spectantia, nulla retrorsum.'",
+      "question": "Qua de causa vulpes cauta in fabula ad leonem aegrotum intrare noluit, ut Horatius narrat?",
+      "answer": "Quia omnia vestigia ad leonem spectabant, nulla retrorsum.",
+      "question_en": "Why, in the fable Horace tells, did the wary fox refuse to go in to the sick lion?",
+      "answer_en": "Because all the tracks pointed toward the lion, none back out.",
+      "derivation": "The Aesopic fable of the sick lion and the fox, a shared story of the ancient world, quoted by Horace. Anchored to the named animals + the fable; answer stated verbatim. Short and checkable; not a moral.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.1.90",
+      "source_text": "Quo teneam uoltus mutantem Protea nodo?",
+      "question": "Quem deum marinum, voltus mutantem, Horatius nullo nodo teneri posse queritur?",
+      "answer": "Protea.",
+      "question_en": "Which sea-god, changing his shape, does Horace complain cannot be held by any knot?",
+      "answer_en": "Proteus.",
+      "derivation": "Proteus the shape-shifting sea-god, canonical myth. Anchored by name; one-word answer supported verbatim. Culturally salient shared story; translatable.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.2.1",
+      "source_text": "Troiani belli scriptorem, Maxime Lolli, dum tu declamas Romae, Praeneste relegi;",
+      "question": "Quo in oppido Latii Horatius se Homerum relegisse ad Lollium scribit?",
+      "answer": "Praeneste.",
+      "question_en": "In which town of Latium does Horace write to Lollius that he re-read Homer?",
+      "answer_en": "At Praeneste.",
+      "derivation": "Horace's re-reading of Homer at Praeneste, the frame of Epistle 1.2. Anchored to Horace + Lollius + the poet of the Trojan war; single place-name answer stated verbatim. Closed-book fact of literary biography and geography.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.2.14",
+      "source_text": "Quicquid delirant reges, plectuntur Achiui.",
+      "question": "In cuius belli exemplo Horatius illud 'quidquid delirant reges, plectuntur Achivi' protulit?",
+      "answer": "In bello Troiano.",
+      "question_en": "Apropos of which war did Horace produce the tag 'whatever folly the kings commit, the Achaeans pay for it'?",
+      "answer_en": "The Trojan War.",
+      "derivation": "One of Horace's most quoted tags, drawn in Epistle 1.2 from his reading of the Iliad (the quarrel of Achilles and Agamemnon, Paris' love, the walls of Troy). Anchored to the tag itself; the answer names the war the epistle is expounding. The Latin Library file prints 'Qucquid' for 'Quicquid', an evident typo of the conversion, corrected here.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.2.23",
+      "source_text": "Sirenum uoces et Circae pocula nosti;",
+      "question": "Cuius mulieris pocula Ulixes, ut Horatius Lollium admonet, una cum Sirenum vocibus evasit?",
+      "answer": "Circae.",
+      "question_en": "Whose cups did Ulysses escape, along with the Sirens' voices, as Horace reminds Lollius?",
+      "answer_en": "Circe's.",
+      "derivation": "The Odyssey's two great temptations named by Horace as common knowledge. Anchored to Ulysses + the Sirens; single-name answer supported verbatim. Shared myth, translatable.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.2.40",
+      "source_text": "Dimidium facti, qui coepit, habet; sapere aude, incipe.",
+      "question": "Cuius poetae Romani est illud 'dimidium facti qui coepit habet'?",
+      "answer": "Horatii.",
+      "question_en": "Which Roman poet wrote 'he who has begun has half the deed done'?",
+      "answer_en": "Horace.",
+      "derivation": "A famous Horatian tag, whose checkable point is its authorship and place (Epistulae 1.2, to Lollius). Anchored to the quoted words; one-name answer, supported verbatim by the source line.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.2.40",
+      "source_text": "Dimidium facti, qui coepit, habet; sapere aude, incipe.",
+      "question": "Quibus duobus verbis Horatius Lollium ad sapientiam capessendam hortatur, cum dimidium facti coepisse dicat?",
+      "answer": "'Sapere aude.'",
+      "question_en": "With which two words does Horace urge Lollius to take up wisdom, having said that to begin is half the deed?",
+      "answer_en": "'Sapere aude' ('dare to be wise').",
+      "derivation": "The tag sapere aude, later the motto of the Enlightenment, stands in Horace's Epistle 1.2 beside dimidium facti. Anchored to Horace + Lollius + the neighbouring tag; the two-word answer is verbatim in the source.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.2.62",
+      "source_text": "Ira furor breuis est; animum rege, qui nisi paret, imperat, hunc frenis, hunc tu compesce catena.",
+      "question": "Quis poeta Romanus iram furorem brevem esse dixit?",
+      "answer": "Horatius.",
+      "question_en": "Which Roman poet said that anger is a brief madness?",
+      "answer_en": "Horace.",
+      "derivation": "Ira furor brevis est, one of the best-known Latin sayings; the checkable fact is who wrote it (Horace, Epistulae 1.2). Anchored to the saying; one-name answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.3.1",
+      "source_text": "Iule Flore, quibus terrarum militet oris Claudius Augusti priuignus, scire laboro.",
+      "question": "Quo gradu necessitudinis Tiberius Claudius Augusto iunctus erat, ut Horatius ad Iulium Florum scribit?",
+      "answer": "Privignus Augusti erat.",
+      "question_en": "In what family relation did Tiberius Claudius stand to Augustus, as Horace writes to Julius Florus?",
+      "answer_en": "He was Augustus' stepson.",
+      "derivation": "Tiberius as privignus of Augustus (son of Livia by her first husband). Anchored to both named men; short answer stated verbatim. Closed-book fact of the Augustan house.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.3.9",
+      "source_text": "Quid Titius, Romana breui uenturus in ora, Pindarici fontis qui non expalluit haustus, fastidire lacus et riuos ausus apertos?",
+      "question": "Cuius poetae Graeci fontis haustus Titium non expalluisse Horatius scribit?",
+      "answer": "Pindari.",
+      "question_en": "From which Greek poet's spring does Horace say Titius did not turn pale to drink?",
+      "answer_en": "Pindar's.",
+      "derivation": "Pindar as the perilous model for Latin lyric, a standing Augustan literary judgement. Anchored to Titius + the Pindaric spring; single-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.3.15",
+      "source_text": "Quid mihi Celsus agit? Monitus multumque monendus, priuatas ut quaeret opes et tangere uitet scripta, Palatinus quaecumque recepit Apollo,",
+      "question": "In cuius dei templo Palatino scripta poetarum reposita erant, quae Horatius Celsum tangere vetat?",
+      "answer": "Apollinis.",
+      "question_en": "In which god's temple on the Palatine were the writings kept that Horace warns Celsus not to touch?",
+      "answer_en": "Apollo's.",
+      "derivation": "The library in the temple of Palatine Apollo, Augustus' great public collection. Anchored to Celsus + the Palatine temple; single-name answer stated verbatim. Institutional fact of Augustan Rome.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.3.18",
+      "source_text": "ne, si forte suas repetitum uenerit olim grex auium plumas, moueat cornicula risum furtiuis nudata coloribus.",
+      "question": "Quae avis in fabula, plumis a ceteris avibus repetitis, furtivis coloribus nudata risum movet?",
+      "answer": "Cornicula.",
+      "question_en": "Which bird, in the fable, raises a laugh when it is stripped of its stolen colours as the other birds take back their feathers?",
+      "answer_en": "The little crow (cornicula).",
+      "derivation": "The Aesopic fable of the crow in borrowed plumage, cited by Horace as a warning against plagiarism. Anchored to the fable; one-word answer stated verbatim. Shared story, translatable.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.4.15",
+      "source_text": "Me pinguem et nitidum bene curata cute uises, cum ridere uoles, Epicuri de grege porcum.",
+      "question": "Quo iocoso nomine Horatius se ipsum in epistula ad Albium appellat, sectam Epicuri significans?",
+      "answer": "'Epicuri de grege porcum.'",
+      "question_en": "By what joking name does Horace call himself in the letter to Albius, alluding to the school of Epicurus?",
+      "answer_en": "'A pig from Epicurus' herd.'",
+      "derivation": "Horace's celebrated self-description, the standing joke about Epicureans. Anchored to Horace + Albius + Epicurus; short answer quoted verbatim from the source line.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.5.4",
+      "source_text": "Vina bibes iterum Tauro diffusa palustris inter Minturnas Sinuessanumque Petrinum.",
+      "question": "Quo consule diffusum vinum Horatius Torquato apud se bibendum promittit?",
+      "answer": "Tauro iterum consule.",
+      "question_en": "Wine drawn off in whose consulship does Horace promise Torquatus at his table?",
+      "answer_en": "In the second consulship of Taurus.",
+      "derivation": "Roman wine was dated by the consuls of its vintage; Horace names Statilius Taurus' second consulship. Anchored to Horace + Torquatus + the named vintage; short answer stated verbatim. Food-and-drink culture, translatable.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.5.9",
+      "source_text": "cras nato Caesare festus dat ueniam somnumque dies; impune licebit aestiuam sermone benigno tendere noctem.",
+      "question": "Cuius principis natalis dies apud Horatium festum diem facit, quo Torquatum ad cenam vocat?",
+      "answer": "Caesaris (Augusti).",
+      "question_en": "Whose birthday makes the holiday on which Horace invites Torquatus to dinner?",
+      "answer_en": "Caesar's (Augustus').",
+      "derivation": "The emperor's birthday as a public holiday, an Augustan institution of the calendar. Anchored to Horace's invitation + the named Caesar; short answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.5.30",
+      "source_text": "Tu quotus esse uelis rescribe, et rebus omissis atria seruantem postico falle clientem.",
+      "question": "Qua parte domus Horatius Torquatum clientem in atrio expectantem fallere iubet?",
+      "answer": "Postico (ostio).",
+      "question_en": "By what part of the house does Horace tell Torquatus to give the slip to the client waiting in his hall?",
+      "answer_en": "By the back door.",
+      "derivation": "The client waiting in the atrium and the patron slipping out by the back door: the daily mechanics of Roman patronage. Anchored to Torquatus + his client; short answer stated verbatim (postico).",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.5",
+      "source_text": "dum ficus prima calorque dissignatorem decorat lictoribus atris, dum pueris omnis pater et matercula pallet.",
+      "question": "Quo colore vestitos lictores dissignatorem funerum comitari Horatius dicit?",
+      "answer": "Atros.",
+      "question_en": "Of what colour are the lictors that Horace says attend the funeral marshal?",
+      "answer_en": "Black.",
+      "derivation": "The dissignator, master of ceremonies at Roman funerals, walked with black-clad lictors. Anchored to the named office; one-word answer stated verbatim. Funerary custom, the heart of criterion 8.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.14",
+      "source_text": "Non quo more piris uesci Calaber iubet hospes tu me fecisti locupletem.",
+      "question": "Cuius regionis Italiae hospes apud Horatium hospitem piris vesci iubet, quae ipse porcis relicturus est?",
+      "answer": "Calaber.",
+      "question_en": "A host of which region of Italy, in Horace, presses his guest to eat pears that he would otherwise leave to the pigs?",
+      "answer_en": "A Calabrian.",
+      "derivation": "The 'Calabrian host' is Horace's proverbial figure of grudging, worthless generosity. Anchored to the named region + the pears; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.30",
+      "source_text": "repserat in cumeram frumenti, pastaque rursus ire foras pleno tendebat corpore frustra; cui mustela procul: 'Si uis' ait 'effugere istinc,",
+      "question": "Quod animal apud Horatium vulpeculae in cumeram frumenti inclusae suasit ut macra exiret qua macra subisset?",
+      "answer": "Mustela.",
+      "question_en": "Which animal, in Horace, advised the little fox shut in the corn-bin to come out thin as it had gone in thin?",
+      "answer_en": "A weasel.",
+      "derivation": "The fable of the fox in the corn-bin and the weasel's advice, a shared Aesopic story. Anchored to the fox + the corn-bin; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.40",
+      "source_text": "Haud male Telemachus, proles patientis Vlixei: 'Non est aptus equis Ithace locus, ut neque planis porrectus spatiis nec multae prodigus herbae;",
+      "question": "Cur Telemachus apud Horatium equos ab Atrida sibi oblatos recusat?",
+      "answer": "Quod Ithaca equis apta non est.",
+      "question_en": "Why, in Horace, does Telemachus refuse the horses offered him by the son of Atreus?",
+      "answer_en": "Because Ithaca is no place for horses.",
+      "derivation": "The Odyssean scene of Telemachus at Sparta declining Menelaus' horses because rocky Ithaca cannot pasture them. Anchored to Telemachus + Ithaca; short answer stated verbatim. Shared story, translatable.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.46",
+      "source_text": "Strenuus et fortis causisque Philippus agendis clarus, ab officiis octauam circiter horam dum redit atque foro nimium distare Carinas iam grandis natu queritur,",
+      "question": "Qua fere hora diei Philippus orator ab officiis domum redibat, ut Horatius narrat?",
+      "answer": "Circiter octava.",
+      "question_en": "At about what hour of the day did the advocate Philippus return home from his business, as Horace tells it?",
+      "answer_en": "About the eighth hour.",
+      "derivation": "The Roman working day: business ends about the eighth hour. Anchored to the named Philippus; short numeric answer stated verbatim. Daily-life custom, translatable. (The Latin Library file prints 'circite' for 'circiter', an evident typo of the conversion, corrected here.)",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.55",
+      "source_text": "It, redit et narrat Volteium nomine Menam, praeconem, tenui censu, sine crimine, notum",
+      "question": "Quod artificium Volteio Menae erat, quem Philippus ad cenam vocavit?",
+      "answer": "Praeco erat.",
+      "question_en": "What was the trade of Volteius Mena, whom Philippus invited to dinner?",
+      "answer_en": "He was an auctioneer/crier.",
+      "derivation": "The praeco, the auctioneer-crier of Roman public life, is the trade of Horace's Volteius Mena. Anchored to the named man; one-word answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.70",
+      "source_text": "'Sic ignouisse putato me tibi, si cenas hodie mecum.' 'Vt libet.' 'Ergo post nonam uenies; nunc i, rem strenuus auge.'",
+      "question": "Post quam horam Philippus Volteium Menam ad cenam venire iussit?",
+      "answer": "Post nonam.",
+      "question_en": "After which hour did Philippus tell Volteius Mena to come to dinner?",
+      "answer_en": "After the ninth hour.",
+      "derivation": "The Roman dinner hour: cena begins after the ninth hour. Anchored to the two named men; short numeric answer stated verbatim. Ambient daily-life knowledge.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.75",
+      "source_text": "mane cliens et iam certus conuiua, iubetur rura suburbana indictis comes ire Latinis.",
+      "question": "Quibus feriis indictis Philippus Volteium in rura suburbana comitem ire iussit?",
+      "answer": "Latinis.",
+      "question_en": "At the proclamation of which festival did Philippus bid Volteius come with him to his country place near the city?",
+      "answer_en": "The Feriae Latinae.",
+      "derivation": "The Feriae Latinae, proclaimed each year by the consuls, emptied Rome for the Alban Mount rites. Anchored to the named men + the proclamation; short answer stated verbatim (indictis... Latinis). Calendar knowledge, criterion 8's home ground.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.7.80",
+      "source_text": "et sibi dum requiem, dum risus undique quaerit, dum septem donat sestertia, mutua septem promittit, persuadet uti mercetur agellum.",
+      "question": "Quot sestertia Philippus Volteio Menae donavit, ut agellum emeret?",
+      "answer": "Septem.",
+      "question_en": "How many thousands of sesterces did Philippus give Volteius Mena to buy his little farm?",
+      "answer_en": "Seven.",
+      "derivation": "The sum of Horace's cautionary tale: seven sestertia given and seven lent. Anchored to the two named men + the farm; a single number stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.6.1",
+      "source_text": "Nil admirari prope res est una, Numici, solaque quae possit facere et seruare beatum.",
+      "question": "Cuius poetae Romani praeceptum est illud 'nil admirari', ad Numicium scriptum?",
+      "answer": "Horatii.",
+      "question_en": "Which Roman poet's precept is the famous 'nil admirari', written to Numicius?",
+      "answer_en": "Horace's.",
+      "derivation": "The tag nil admirari, one of the most quoted phrases in Latin; the checkable point is its author and addressee (Horace, Epistulae 1.6, to Numicius). Anchored to the quoted words + the named addressee; one-name answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.6.25",
+      "source_text": "Quicquid sub terra est, in apricum proferet aetas, defodiet condetque nitentia. Cum bene notum porticus Agrippae et uia te conspexerit Appi, ire tamen restat, Numa quo deuenit et Ancus.",
+      "question": "Cuius viri porticum Horatius una cum via Appia inter celeberrima Romae loca nominat?",
+      "answer": "Agrippae.",
+      "question_en": "Whose portico does Horace name, along with the Appian Way, among the most frequented places of Rome?",
+      "answer_en": "Agrippa's.",
+      "derivation": "The Porticus Agrippae and the Via Appia as the two places where a well-known man is seen: Augustan topography of Rome. Anchored to the named monuments; one-name answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.6.42",
+      "source_text": "'Qui possum tot?' ait; 'tamen et quaeram et quot habebo mittam'; post paulo scribit sibi milia quinque esse domi chlamydum; partem uel tolleret omnis.",
+      "question": "Quot chlamydes Lucullus domi esse sibi rescripsit, cum centum scaenae praebendae rogatus esset?",
+      "answer": "Quinque milia.",
+      "question_en": "How many cloaks did Lucullus write back that he had at home, when he had been asked for a hundred for the stage?",
+      "answer_en": "Five thousand.",
+      "derivation": "The anecdote of Lucullus' proverbial wealth (he is named two lines above: Chlamydes Lucullus, ut aiunt): asked for a hundred stage-cloaks, he finds five thousand at home. Anchored to Lucullus + the request; a single number stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.6.50",
+      "source_text": "mercemur seruum, qui dictet nomina, laeuum qui fodicet latus et cogat trans pondera dextram porrigere:",
+      "question": "Quod ministerium praestabat servus quem Horatius emendum suadet ei qui gratiam apud populum captat?",
+      "answer": "Nomina occurrentium dictabat.",
+      "question_en": "What service was rendered by the slave Horace advises buying for a man who courts the people's favour?",
+      "answer_en": "He prompted the names of those they met.",
+      "derivation": "The nomenclator, the name-prompting slave of the Roman canvasser. Anchored to the candidate for popular favour; short answer stated verbatim (seruum, qui dictet nomina). Social custom of Roman public life, translatable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.6.64",
+      "source_text": "Si, Mimnermus uti censet, sine amore iocisque nil est iucundum, uiuas in amore iocisque.",
+      "question": "Cuius poetae Graeci sententia est nihil sine amore iocisque iucundum esse, ut Horatius refert?",
+      "answer": "Mimnermi.",
+      "question_en": "Which Greek poet held, as Horace reports, that nothing is pleasant without love and jesting?",
+      "answer_en": "Mimnermus.",
+      "derivation": "Mimnermus of Colophon, the elegist of love and pleasure, cited by name. Anchored to Horace + the doctrine attributed; one-name answer stated verbatim. Literary-cultural fact, translatable.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.10.24",
+      "source_text": "Naturam expelles furca, tamen usque recurret et mala perrumpet furtim fastidia uictrix.",
+      "question": "Quis poeta Romanus scripsit naturam furca expulsam usque recursuram esse?",
+      "answer": "Horatius.",
+      "question_en": "Which Roman poet wrote that nature, though driven out with a pitchfork, will always come running back?",
+      "answer_en": "Horace.",
+      "derivation": "Naturam expelles furca, one of the most quoted Latin proverbs; the checkable point is its author (Horace, Epistulae 1.10, to Aristius Fuscus). Anchored to the quoted words; one-name answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.10.49",
+      "source_text": "Haec tibi dictabam post fanum putre Vacunae, excepto quod non simul esses cetera laetus.",
+      "question": "Cuius deae fanum apud agrum Sabinum Horatius nominat, unde epistulam ad Aristium Fuscum dictavit?",
+      "answer": "Vacunae.",
+      "question_en": "Whose shrine in the Sabine country does Horace name as the place from which he dictated the letter to Aristius Fuscus?",
+      "answer_en": "Vacuna's.",
+      "derivation": "Vacuna, the old Sabine goddess whose crumbling shrine stood near Horace's farm. Anchored to Horace + the Sabine country; one-name answer stated verbatim. Local cult knowledge of the sort a Roman reader carried.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.11.1",
+      "source_text": "Quid tibi uisa Chios, Bullati, notaque Lesbos, quid concinna Samos, quid Croesi regia Sardis, Zmyrna quid et Colophon?",
+      "question": "Cuius regis regiam urbem Horatius Sardis appellat?",
+      "answer": "Croesi.",
+      "question_en": "Whose royal city does Horace call Sardis?",
+      "answer_en": "Croesus'.",
+      "derivation": "Sardis as the seat of Croesus, the byword for royal wealth. Anchored to the named city; one-name answer stated verbatim. Shared geographical-historical knowledge.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.11.7",
+      "source_text": "Scis Lebedus quid sit: Gabiis desertior atque Fidenis uicus; tamen illic uiuere uellem,",
+      "question": "Quibus duobus Latii oppidis desertioribus Horatius Lebedum comparat?",
+      "answer": "Gabiis et Fidenis.",
+      "question_en": "With which two towns of Latium does Horace compare Lebedus, saying it is emptier than they?",
+      "answer_en": "Gabii and Fidenae.",
+      "derivation": "Gabii and Fidenae as the proverbially deserted towns of Latium. Anchored to Lebedus + the comparison; two named places stated verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.11.27",
+      "source_text": "caelum, non animum mutant, qui trans mare currunt.",
+      "question": "Quis poeta Romanus scripsit eos qui trans mare currunt caelum, non animum mutare?",
+      "answer": "Horatius.",
+      "question_en": "Which Roman poet wrote that those who race across the sea change their sky, not their mind?",
+      "answer_en": "Horace.",
+      "derivation": "A celebrated Horatian tag from the letter to Bullatius; the checkable point is its author and work. Anchored to the quoted words; one-name answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.11.30",
+      "source_text": "Quod petis, hic est, est Vlubris, animus si te non deficit aequus.",
+      "question": "Quod oppidum parvum Horatius nominat, ubi quod petimus inveniri possit, si animus aequus non desit?",
+      "answer": "Ulubras.",
+      "question_en": "Which small town does Horace name as a place where what we seek can be found, if a balanced mind does not fail us?",
+      "answer_en": "Ulubrae.",
+      "derivation": "Ulubrae, the tiny Pomptine town, proverbial for obscurity, in one of Horace's most quoted closes. Anchored to the tag; one place-name answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.12.1",
+      "source_text": "Fructibus Agrippae Siculis quos colligis, Icci, si recte frueris, non est ut copia maior ab Ioue donari possit tibi;",
+      "question": "Cuius viri fructus Siculos Iccius colligebat, ut Horatius scribit?",
+      "answer": "Agrippae.",
+      "question_en": "Whose Sicilian revenues was Iccius collecting, as Horace writes?",
+      "answer_en": "Agrippa's.",
+      "derivation": "Iccius as steward of Agrippa's Sicilian estates. Anchored to the two named men; one-name answer stated verbatim. Fact of Augustan property and patronage.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.12.12",
+      "source_text": "Miramur, si Democriti pecus edit agellos cultaque, dum peregre est animus sine corpore uelox,",
+      "question": "Cuius philosophi pecus agellos depastum esse fertur, dum animus eius peregre abest?",
+      "answer": "Democriti.",
+      "question_en": "Whose fields, as the story goes, were eaten up by his own flocks while his mind was away abroad?",
+      "answer_en": "Democritus'.",
+      "derivation": "The anecdote of Democritus so absorbed in thought that his flocks ate his crops. Anchored to the named philosopher; one-name answer stated verbatim. Shared biographical lore.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.12.26",
+      "source_text": "Cantaber Agrippae, Claudi uirtute Neronis Armenius cecidit;",
+      "question": "Cuius ducis virtute Cantaber cecidit, ut Horatius ad Iccium scribit?",
+      "answer": "Agrippae.",
+      "question_en": "By which commander's valour did the Cantabrian fall, as Horace writes to Iccius?",
+      "answer_en": "Agrippa's.",
+      "derivation": "Agrippa's Cantabrian victory of 19 BC, reported by Horace as the news from Rome. Anchored to the Cantabri + Horace's letter; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.12.26",
+      "source_text": "Cantaber Agrippae, Claudi uirtute Neronis Armenius cecidit;",
+      "question": "Cuius virtute Armenius cecidit, ut Horatius ad Iccium scribit?",
+      "answer": "Claudii Neronis (Tiberii).",
+      "question_en": "By whose valour did the Armenian fall, as Horace writes to Iccius?",
+      "answer_en": "By Claudius Nero's (Tiberius').",
+      "derivation": "Tiberius' Armenian settlement of 20 BC. Anchored to the Armenians + Horace's letter; name stated verbatim (Claudi uirtute Neronis).",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.12.27",
+      "source_text": "ius imperiumque Prahates Caesaris accepit genibus minor;",
+      "question": "Quis rex, genibus minor, ius imperiumque Caesaris accepit, ut Horatius ad Iccium scribit?",
+      "answer": "Prahates (Phraates).",
+      "question_en": "Which king, on bended knee, accepted Caesar's law and sway, as Horace writes to Iccius?",
+      "answer_en": "Phraates.",
+      "derivation": "Phraates IV of Parthia submitting to Augustus, the diplomatic triumph of 20 BC. Anchored to Caesar + the submission; one-name answer stated verbatim in the Latin Library's spelling Prahates.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.14.1",
+      "source_text": "Vilice siluarum et mihi me reddentis agelli, quem tu fastidis habitatum quinque focis et quinque bonos solitum Variam dimittere patres,",
+      "question": "Quot patres familias fundus Horati Sabinus Variam mittere solebat?",
+      "answer": "Quinque.",
+      "question_en": "How many heads of household did Horace's Sabine estate regularly send down to Varia?",
+      "answer_en": "Five.",
+      "derivation": "The size of Horace's Sabine farm: five hearths, five tenant fathers who sat in the council at Varia. Anchored to Horace's farm + Varia; a single number stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.15.2",
+      "source_text": "nam mihi Baias Musa superuacuas Antonius, et tamen illis me facit inuisum, gelida cum perluor unda per medium frigus;",
+      "question": "Cuius medici auctoritate Horatius Baias supervacuas habuit, gelida potius unda perfusus?",
+      "answer": "Antonii Musae.",
+      "question_en": "On which physician's authority did Horace treat Baiae as superfluous, washing instead in cold water?",
+      "answer_en": "Antonius Musa's.",
+      "derivation": "Antonius Musa, Augustus' doctor, whose cold-water regimen turned Roman fashion away from the warm springs of Baiae. Anchored to Horace + Baiae; name stated verbatim. Salient fact of Augustan medicine and fashion.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.15.7",
+      "source_text": "sulpura contemni uicus gemit, inuidus aegris qui caput et stomachum supponere fontibus audent Clusinis Gabiosque petunt et frigida rura.",
+      "question": "Ad quorum locorum frigidos fontes aegri se conferebant, spretis Baiarum sulphuribus, ut Horatius scribit?",
+      "answer": "Ad Clusinos fontes et Gabios.",
+      "question_en": "To the cold springs of which places did the sick betake themselves, scorning the sulphur baths of Baiae, as Horace writes?",
+      "answer_en": "To the springs of Clusium and to Gabii.",
+      "derivation": "The cold-water cure that displaced Baiae: the springs of Clusium and Gabii. Anchored to Baiae + the invalids; two place-names stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.15.40",
+      "source_text": "aiebat, 'si qui comedunt bona, cum sit obeso nil melius turdo, nil uolua pulchrius ampla'.",
+      "question": "Quas duas res in cena optimas esse Maenius apud Horatium dicebat?",
+      "answer": "Turdum obesum et volvam amplam.",
+      "question_en": "Which two things did Maenius, in Horace, call the best at dinner?",
+      "answer_en": "A fat thrush and a large sow's womb.",
+      "derivation": "The two canonical delicacies of the Roman table, in the mouth of Horace's glutton Maenius (named at 1.15.26). Anchored to Maenius + the dinner; both items stated verbatim. Food culture, criterion 8's home ground.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.16.46",
+      "source_text": "'Nec furtum feci nec fugi,' si mihi dicat seruos: 'Habes pretium, loris non ureris', aio. 'Non hominem occidi.' 'Non pasces in cruce coruos.'",
+      "question": "Quod supplicium servum, qui hominem occidisset, apud Romanos manebat, ut Horatius indicat?",
+      "answer": "Crux.",
+      "question_en": "What punishment awaited a slave who had killed a man, as Horace indicates?",
+      "answer_en": "The cross.",
+      "derivation": "Crucifixion as the servile penalty (and the lash for theft). Anchored to the slave's plea; one-word answer stated verbatim (non pasces in cruce coruos). Legal and social fact, translatable.",
+      "category": "ius"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.16.59",
+      "source_text": "labra mouet, metuens audiri: 'Pulchra Lauerna, da mihi fallere, da iusto sanctoque uideri, noctem peccatis et fraudibus obice nubem.'",
+      "question": "Quam deam fur tacite precatur ut fallere et iustus videri liceat, ut Horatius describit?",
+      "answer": "Lavernam.",
+      "question_en": "To which goddess does the thief pray under his breath, that he may deceive and yet seem just, as Horace describes?",
+      "answer_en": "To Laverna.",
+      "derivation": "Laverna, the Roman goddess of thieves, with the whispered prayer that betrays the hypocrite. Anchored to the thief's prayer; one-name answer stated verbatim. Cult knowledge peculiar to Roman religion.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.16.73",
+      "source_text": "Vir bonus et sapiens audebit dicere: 'Pentheu, rector Thebarum, quid me perferre patique indignum coges?'",
+      "question": "Cuius urbis rex Pentheus fuit, quem Horatius loquentem inducit?",
+      "answer": "Thebarum.",
+      "question_en": "Of which city was Pentheus king, whom Horace brings on speaking?",
+      "answer_en": "Thebes.",
+      "derivation": "Pentheus, king of Thebes and antagonist of Bacchus, in Horace's dramatic dialogue. Anchored by name; one-place answer stated verbatim. Shared myth of the tragic stage.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.16.79",
+      "source_text": "Opinor, hoc sentit: 'Moriar'. Mors ultima linea rerum est.",
+      "question": "Quis poeta Romanus mortem ultimam rerum lineam esse dixit?",
+      "answer": "Horatius.",
+      "question_en": "Which Roman poet said that death is the final line of all things?",
+      "answer_en": "Horace.",
+      "derivation": "Mors ultima linea rerum est, a much-quoted tag closing Epistulae 1.16; its checkable point is authorship. Anchored to the quoted words; one-name answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.17.36",
+      "source_text": "Non cuiuis homini contingit adire Corinthum.",
+      "question": "Ad quam urbem adire non cuivis homini contingere Horatius proverbio dicit?",
+      "answer": "Corinthum.",
+      "question_en": "To which city, in Horace's proverb, does it not fall to every man to go?",
+      "answer_en": "Corinth.",
+      "derivation": "Horace's Latin rendering of the Greek proverb about Corinth's costly pleasures. Anchored to the proverb; one place-name answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.17.58",
+      "source_text": "Nec semel inrisus triuiis attollere curat fracto crure planum, licet illi plurima manet lacrima, per sanctum iuratus dicat Osirim:",
+      "question": "Per quem deum Aegyptium mendicus ille in triviis apud Horatium iurat?",
+      "answer": "Per Osirim.",
+      "question_en": "By which Egyptian god does the beggar at the crossroads swear, in Horace?",
+      "answer_en": "By Osiris.",
+      "derivation": "The oath by Osiris in the mouth of a Roman street-beggar: the Egyptian cults in the city. Anchored to the crossroads beggar; one-name answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.18.20",
+      "source_text": "Ambigitur quid enim? Castor sciat an Docilis plus, Brundisium Minuci melius uia ducat an Appi.",
+      "question": "Quibus duabus viis Brundisium iri poterat, de quibus homines apud Horatium disputabant?",
+      "answer": "Via Appia et Minucia.",
+      "question_en": "By which two roads could one travel to Brundisium, the point men disputed in Horace?",
+      "answer_en": "By the Appian and the Minucian Way.",
+      "derivation": "The two rival routes to Brundisium, a standard topic of Roman travellers' argument. Anchored to Brundisium; both road-names stated verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.18.31",
+      "source_text": "Eutrapelus cuicumque nocere uolebat uestimenta dabat pretiosa; beatus enim iam cum pulchris tunicis sumet noua consilia et spes,",
+      "question": "Quo dono Eutrapelus eos quibus nocere volebat corrumpebat?",
+      "answer": "Vestimentis pretiosis.",
+      "question_en": "By what gift did Eutrapelus ruin those he wished to harm?",
+      "answer_en": "By costly clothes.",
+      "derivation": "The stratagem of Eutrapelus (P. Volumnius), a well-known Roman anecdote about the corrupting effect of finery. Anchored to the named man; short answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.18.42",
+      "source_text": "Zethi dissiluit, donec suspecta seuero conticuit lyra. Fraternis cessisse putatur moribus Amphion;",
+      "question": "Uter geminorum fratrum, Amphion an Zethus, lyram deposuit ut fratris moribus cederet?",
+      "answer": "Amphion.",
+      "question_en": "Which of the twin brothers, Amphion or Zethus, laid down his lyre to yield to his brother's ways?",
+      "answer_en": "Amphion.",
+      "derivation": "The Theban twins Amphion the lyre-player and Zethus the herdsman, the canonical pair of contrasting brothers. Anchored to both names; one-name answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.18.56",
+      "source_text": "sub duce qui templis Parthorum signa refigit nunc et, siquid abest, Italis adiudicat armis.",
+      "question": "Quas res Romanas princeps ille, sub quo Lollius Cantabrica bella tulit, templis Parthorum refixit?",
+      "answer": "Signa (militaria).",
+      "question_en": "Which Roman things did the leader under whom Lollius served in the Cantabrian war take back from the temples of the Parthians?",
+      "answer_en": "The military standards.",
+      "derivation": "The recovery of the standards lost at Carrhae, Augustus' celebrated Parthian settlement. Anchored to the Parthian temples + Lollius' commander; short answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.18.61",
+      "source_text": "partitur lintres exercitus, Actia pugna te duce per pueros hostili more refertur; aduersarius est frater, lacus Hadria,",
+      "question": "Cuius pugnae imaginem Lollius cum fratre per pueros in lacu paterno referebat?",
+      "answer": "Actiacae.",
+      "question_en": "Which battle did Lollius re-enact with his brother, using boys, on the lake of his father's estate?",
+      "answer_en": "The battle of Actium.",
+      "derivation": "The mock naval battle of Actium played on a country lake: Augustan spectacle turned into private game. Anchored to Lollius + his brother; the battle-name stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.18.66",
+      "source_text": "Consentire suis studiis qui crediderit te, fautor utroque tuum laudabit pollice ludum.",
+      "question": "Quo gestu digitorum fautor apud Romanos ludum laudabat, ut Horatius dicit?",
+      "answer": "Utroque pollice.",
+      "question_en": "By what gesture of the fingers did a Roman supporter show his approval of a display, as Horace says?",
+      "answer_en": "With both thumbs.",
+      "derivation": "The thumb as the Roman sign of favour in the arena and at games (utroque pollice). Anchored to the fautor + the ludus; short answer stated verbatim. Spectacle custom, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.18.104",
+      "source_text": "Me quotiens reficit gelidus Digentia riuus, quem Mandela bibit, rugosus frigore pagus",
+      "question": "Quo nomine appellatur rivus gelidus qui Horatium in Sabinis reficit, quem Mandela bibit?",
+      "answer": "Digentia.",
+      "question_en": "What is the name of the cold stream that refreshes Horace in the Sabine country, from which Mandela drinks?",
+      "answer_en": "The Digentia.",
+      "derivation": "The Digentia and the village Mandela, the topography of Horace's Sabine farm. Anchored to Mandela + the Sabine estate; one name answer stated verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.19.1",
+      "source_text": "Prisco si credis, Maecenas docte, Cratino, nulla placere diu nec uiuere carmina possunt quae scribuntur aquae potoribus;",
+      "question": "Cuius poetae Graeci veteris auctoritate Horatius negat carmina ab aquae potoribus scripta diu placere posse?",
+      "answer": "Cratini.",
+      "question_en": "On which old Greek poet's authority does Horace deny that poems written by water-drinkers can please for long?",
+      "answer_en": "Cratinus'.",
+      "derivation": "Cratinus, the Old Comedy poet, cited by Horace for the dictum that water-drinkers write nothing lasting. Anchored to Horace + Maecenas + the dictum; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.19.6",
+      "source_text": "laudibus arguitur uini uinosus Homerus;",
+      "question": "Quem poetam Horatius ex vini laudibus vinosum fuisse arguit?",
+      "answer": "Homerum.",
+      "question_en": "Which poet does Horace convict of being a wine-lover on the evidence of his praises of wine?",
+      "answer_en": "Homer.",
+      "derivation": "Horace's joke on Homer, standard ancient literary lore. Anchored to the praises of wine; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.19.7",
+      "source_text": "Ennius ipse pater numquam nisi potus ad arma prosiluit dicenda.",
+      "question": "Quem poetam Latinum Horatius 'patrem' appellat, qui numquam nisi potus ad arma dicenda prosiluit?",
+      "answer": "Ennium.",
+      "question_en": "Which Latin poet does Horace call 'father', the one who never leapt to sing of arms unless he had been drinking?",
+      "answer_en": "Ennius.",
+      "derivation": "Ennius pater, the honorific of the founder of Latin epic, with the anecdote of his drinking. Anchored to the epithet + the claim; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.19.23",
+      "source_text": "Parios ego primus iambos ostendi Latio, numeros animosque secutus Archilochi, non res et agentia uerba Lycamben;",
+      "question": "Cuius poetae Parii numeros Horatius se primum Latio ostendisse gloriatur?",
+      "answer": "Archilochi.",
+      "question_en": "Whose Parian measures does Horace boast that he first showed to Latium?",
+      "answer_en": "Archilochus'.",
+      "derivation": "Horace's claim to have naturalised Archilochean iambus at Rome (the Epodes). Anchored to Latium + the Parian iambi; one-name answer stated verbatim. Literary history, translatable.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.19.24",
+      "source_text": "numeros animosque secutus Archilochi, non res et agentia uerba Lycamben;",
+      "question": "Quem virum Archilochi res et agentia verba egerunt, quas Horatius se non secutum esse profitetur?",
+      "answer": "Lycamben.",
+      "question_en": "Which man was hounded by Archilochus' matter and driving words, which Horace declares he did not follow?",
+      "answer_en": "Lycambes.",
+      "derivation": "Lycambes, whom Archilochus' iambics destroyed, the standing example of the poet's deadly invective. Anchored to Archilochus; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.19.28",
+      "source_text": "temperat Archilochi Musam pede mascula Sappho, temperat Alcaeus, sed rebus et ordine dispar,",
+      "question": "Quos duos poetas Lesbios Horatius dicit Archilochi Musam eodem pede temperasse?",
+      "answer": "Sappho et Alcaeum.",
+      "question_en": "Which two poets of Lesbos does Horace say tempered Archilochus' Muse with the same foot?",
+      "answer_en": "Sappho and Alcaeus.",
+      "derivation": "The Lesbian pair, Sappho and Alcaeus, as heirs of Archilochus' metre: a fact about metrical descent that translates without residue. Anchored to Archilochus; both names stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.19.32",
+      "source_text": "Hunc ego, non alio dictum prius ore, Latinus uolgaui fidicen;",
+      "question": "Quo se nomine Horatius appellat, qui carmen Lesbium primus Latio vulgavit?",
+      "answer": "Latinum fidicen.",
+      "question_en": "By what name does Horace call himself, as the first to publish Lesbian song for Latium?",
+      "answer_en": "The Latin lyre-player.",
+      "derivation": "Horace's celebrated self-designation as Latinus fidicen, claiming the Aeolic lyric (Alcaeus, named three lines above) for Rome. Anchored to Horace + Lesbian song; short answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.20.1",
+      "source_text": "Vortumnum Ianumque, liber, spectare uideris, scilicet ut prostes Sosiorum pumice mundus.",
+      "question": "Quorum librariorum tabernam Horatius nominat, ubi liber eius Romae venalis prostet?",
+      "answer": "Sosiorum.",
+      "question_en": "Whose bookshop does Horace name as the place where his book will stand for sale at Rome?",
+      "answer_en": "The Sosii's.",
+      "derivation": "The brothers Sosii, Horace's booksellers (cf. Ars Poetica 345, hic meret aera liber Sosiis). Anchored to Horace's book + the Roman book-trade; one-name answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.20.24",
+      "source_text": "me primis urbis belli placuisse domique, corporis exigui, praecanum, solibus aptum, irasci celerem, tamen ut placabilis essem.",
+      "question": "Qualem se corpore et capillo Horatius in fine libri primi Epistularum describit?",
+      "answer": "Corporis exigui et praecanum.",
+      "question_en": "How does Horace describe his own body and hair at the end of the first book of the Epistles?",
+      "answer_en": "Small of body and grey before his time.",
+      "derivation": "Horace's famous self-portrait, the chief ancient evidence for his appearance. Anchored to Horace + the close of Epistles I; short answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.20.26",
+      "source_text": "Forte meum siquis te percontabitur aeuum, me quater undenos sciat impleuisse Decembris collegam Lepidum quo duxit Lollius anno.",
+      "question": "Quot annos natus Horatius librum primum Epistularum absolvit, ut ipse in ultima epistula significat?",
+      "answer": "Quattuor et quadraginta.",
+      "question_en": "How old was Horace when he finished the first book of the Epistles, as he indicates in the last letter?",
+      "answer_en": "Forty-four.",
+      "derivation": "Horace dates his own age at the close of Epistles I: quater undenos Decembris, forty-four Decembers. Anchored to Horace + the book's close; a single number stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 1.20.27",
+      "source_text": "me quater undenos sciat impleuisse Decembris collegam Lepidum quo duxit Lollius anno.",
+      "question": "Quibus consulibus Horatius se quater undenos Decembris implevisse scribit?",
+      "answer": "Lollio et Lepido.",
+      "question_en": "In whose consulship does Horace write that he completed forty-four Decembers?",
+      "answer_en": "In the consulship of Lollius and Lepidus.",
+      "derivation": "Roman dating by the consuls of the year (21 BC, when Lollius took Lepidus as colleague). Anchored to Horace's own dating; both names stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.5",
+      "source_text": "Romulus et Liber pater et cum Castore Pollux, post ingentia facta deorum in templa recepti, dum terras hominumque colunt genus, aspera bella componunt, agros adsignant, oppida condunt,",
+      "question": "Quos heroas Horatius nominat, qui post ingentia facta in deorum templa recepti sint?",
+      "answer": "Romulum, Liberum, Castorem et Pollucem.",
+      "question_en": "Which heroes does Horace name as having been received into the temples of the gods after their mighty deeds?",
+      "answer_en": "Romulus, Father Liber, Castor and Pollux.",
+      "derivation": "The canonical list of mortals raised to divinity, cited by Horace to Augustus. Anchored to Horace's letter to Augustus; the four names stated verbatim. Religious-cultural knowledge, translatable.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.10",
+      "source_text": "Diram qui contudit hydram notaque fatali portenta labore subegit, comperit inuidiam supremo fine domari.",
+      "question": "Quod monstrum Hercules apud Horatium contudit, cum fatali labore portenta subigeret?",
+      "answer": "Diram hydram.",
+      "question_en": "Which monster did Hercules crush, in Horace, as he subdued the famous prodigies by his fated labour?",
+      "answer_en": "The dread Hydra.",
+      "derivation": "Hercules and the Hydra, one of the canonical labours. Anchored to Hercules + the labours; one-name answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.15",
+      "source_text": "Praesenti tibi maturos largimur honores iurandasque tuom per numen ponimus aras, nil oriturum alias, nil ortum tale fatentes.",
+      "question": "Quid Romani principi adhuc vivo posuerunt, per cuius numen iurarent, ut Horatius ad Augustum scribit?",
+      "answer": "Aras.",
+      "question_en": "What did the Romans set up to their still-living emperor, to swear by his divine power, as Horace writes to Augustus?",
+      "answer_en": "Altars.",
+      "derivation": "The living emperor's altars and the oath by his numen: the institution of the imperial cult. Anchored to Augustus + the honours; one-word answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.23",
+      "source_text": "sic fautor ueterum ut tabulas peccare uetantis, quas bis quinque uiri sanxerunt, foedera regum uel Gabiis uel cum rigidis aequata Sabinis,",
+      "question": "A quot viris tabulae legum Romanarum sanctae sunt, ut Horatius scribit?",
+      "answer": "A decem (bis quinis) viris.",
+      "question_en": "By how many men were the tablets of Roman law ratified, as Horace writes?",
+      "answer_en": "By ten men (twice five).",
+      "derivation": "The Twelve Tables, drawn up by the decemviri: Horace's bis quinque uiri. Anchored to the tablets forbidding wrongdoing; a number answer stated verbatim. Foundational legal fact, translatable.",
+      "category": "ius"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.24",
+      "source_text": "foedera regum uel Gabiis uel cum rigidis aequata Sabinis, pontificum libros, annosa uolumina uatum",
+      "question": "Quorum duorum populorum foedera cum regibus Romanis icta Horatius inter vetusta Romanorum monumenta numerat?",
+      "answer": "Gabinorum et Sabinorum.",
+      "question_en": "With which two peoples does Horace count the old treaties of the kings among Rome's ancient documents?",
+      "answer_en": "With Gabii and the Sabines.",
+      "derivation": "The treaty with Gabii and the treaty with the Sabines, the oldest documents of Roman public law. Anchored to the kings' treaties; both names stated verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.50",
+      "source_text": "Ennius, et sapiens et fortis et alter Homerus, ut critici dicunt, leuiter curare uidetur quo promissa cadant et somnia Pythagorea.",
+      "question": "Quo cognomine critici Ennium ornabant, ut Horatius refert?",
+      "answer": "Alterum Homerum.",
+      "question_en": "By what title did the critics honour Ennius, as Horace reports?",
+      "answer_en": "A second Homer.",
+      "derivation": "Ennius as alter Homerus, the standard verdict of the Roman critics (and an allusion to his Pythagorean dream). Anchored to Ennius + the critics; short answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.53",
+      "source_text": "Naeuius in manibus non est et mentibus haeret paene recens? Adeo sanctum est uetus omne poema.",
+      "question": "Cuius veteris poetae carmina Horatius adhuc in manibus esse et paene recentia mentibus haerere dicit?",
+      "answer": "Naevi.",
+      "question_en": "Which old poet's works does Horace say are still in men's hands and stick in their minds as if new?",
+      "answer_en": "Naevius'.",
+      "derivation": "Naevius still read at Rome in Horace's day: a fact of the Roman literary canon. Anchored to the old poets; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.55",
+      "source_text": "Ambigitur quotiens uter utro sit prior, aufert Paccuuius docti famam senis, Accius alti,",
+      "question": "Quam famam Pacuvius poeta apud Horatium aufert?",
+      "answer": "Docti senis.",
+      "question_en": "What reputation does the poet Pacuvius carry off, in Horace?",
+      "answer_en": "That of the learned old man.",
+      "derivation": "The canonical Roman verdicts on the early tragedians: Pacuvius the learned, Accius the lofty. Anchored to Pacuvius; short answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.56",
+      "source_text": "aufert Paccuuius docti famam senis, Accius alti,",
+      "question": "Quo epitheto Accium tragicum Horatius ornat?",
+      "answer": "Alti.",
+      "question_en": "By what epithet does Horace honour the tragedian Accius?",
+      "answer_en": "Lofty.",
+      "derivation": "Accius alti, the standing critical label for the greatest Roman tragedian. Anchored to Accius; one-word answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.57",
+      "source_text": "dicitur Afrani toga conuenisse Menandro, Plautus ad exemplar Siculi properare Epicharmi,",
+      "question": "Cui comico Graeco Afranii togam convenisse dicebatur?",
+      "answer": "Menandro.",
+      "question_en": "To which Greek comic poet was Afranius' toga said to be suited?",
+      "answer_en": "To Menander.",
+      "derivation": "The Roman critical commonplace pairing Afranius (writer of togatae) with Menander. Anchored to Afranius; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.58",
+      "source_text": "Plautus ad exemplar Siculi properare Epicharmi, uincere Caecilius grauitate, Terentius arte.",
+      "question": "Ad cuius Siculi poetae exemplar Plautum properare Horatius dicit?",
+      "answer": "Epicharmi.",
+      "question_en": "On which Sicilian poet's model does Horace say Plautus hurries along?",
+      "answer_en": "Epicharmus'.",
+      "derivation": "Plautus measured against Epicharmus of Sicily, a fixed judgement of Roman criticism. Anchored to Plautus; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.59",
+      "source_text": "uincere Caecilius grauitate, Terentius arte.",
+      "question": "Qua virtute Caecilium comicum vincere Horatius dicit?",
+      "answer": "Gravitate.",
+      "question_en": "In what quality does Horace say the comic poet Caecilius wins?",
+      "answer_en": "In weight (gravitas).",
+      "derivation": "The canonical verdict on Caecilius Statius. Anchored to Caecilius; one-word answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.59",
+      "source_text": "uincere Caecilius grauitate, Terentius arte.",
+      "question": "Qua virtute Terentium vincere Horatius dicit?",
+      "answer": "Arte.",
+      "question_en": "In what quality does Horace say Terence wins?",
+      "answer_en": "In art.",
+      "derivation": "The canonical verdict on Terence, paired against Caecilius. Anchored to Terence; one-word answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.61",
+      "source_text": "habet hos numeratque poetas ad nostrum tempus Liui scriptoris ab aeuo.",
+      "question": "A cuius scriptoris aetate Roma poetas suos numerare Horatius dicit?",
+      "answer": "A Livi (Andronici) aevo.",
+      "question_en": "From which writer's age does Horace say Rome counts her poets?",
+      "answer_en": "From the age of Livius (Andronicus).",
+      "derivation": "Livius Andronicus as the starting-point of Latin literature. Anchored to Rome's roll of poets; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.69",
+      "source_text": "Non equidem insector delendaue carmina Liui esse reor, memini quae plagosum mihi paruo Orbilium dictare;",
+      "question": "Quo magistro Horatius puer carmina Livi Andronici ediscebat?",
+      "answer": "Orbilio.",
+      "question_en": "Under which schoolmaster did the boy Horace learn the poems of Livius Andronicus?",
+      "answer_en": "Under Orbilius.",
+      "derivation": "Orbilius, Horace's schoolmaster, and the use of Livius Andronicus as a school text. Anchored to Horace's boyhood + Livius; one-name answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.70",
+      "source_text": "memini quae plagosum mihi paruo Orbilium dictare;",
+      "question": "Quo cognomine Horatius Orbilium magistrum suum notavit?",
+      "answer": "Plagosum.",
+      "question_en": "By what epithet did Horace brand his schoolmaster Orbilius?",
+      "answer_en": "Flogging (plagosus).",
+      "derivation": "Plagosus Orbilius, the proverbial flogging schoolmaster of Roman education. Anchored to Orbilius; one-word answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.79",
+      "source_text": "Recte necne crocum floresque perambulet Attae fabula si dubitem, clament periisse pudorem cuncti paene patres,",
+      "question": "Quibus rebus scaena Romana in ludis conspergebatur, per quas Attae fabula ambulabat?",
+      "answer": "Croco et floribus.",
+      "question_en": "With what was the Roman stage strewn at the games, through which Atta's play walked?",
+      "answer_en": "With saffron and flowers.",
+      "derivation": "Saffron and flowers scattered on the Roman stage, a detail of theatrical luxury. Anchored to Atta's play + the stage; both items stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.81",
+      "source_text": "cuncti paene patres, ea cum reprehendere coner quae grauis Aesopus, quae doctus Roscius egit,",
+      "question": "Quos duos histriones nobilissimos Horatius nominat, quorum fabulas reprehendere paene nefas erat?",
+      "answer": "Aesopum et Roscium.",
+      "question_en": "Which two most celebrated actors does Horace name, whose plays it was almost sacrilege to criticise?",
+      "answer_en": "Aesopus and Roscius.",
+      "derivation": "Aesopus the tragic and Roscius the comic actor, the two great names of the Roman stage. Anchored to the Roman theatre; both names stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.86",
+      "source_text": "Iam Saliare Numae carmen qui laudat, et illud quod mecum ignorat solus uolt scire uideri,",
+      "question": "Cui regi carmen Saliare tribuebatur, quod Horatius laudari mirabatur?",
+      "answer": "Numae.",
+      "question_en": "To which king was the Salian hymn ascribed, which Horace marvels to hear praised?",
+      "answer_en": "To Numa.",
+      "derivation": "The carmen Saliare, the archaic hymn of the Salian priests, ascribed to King Numa. Anchored to the hymn; one-name answer stated verbatim. Religious antiquity every Roman recognised.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.103",
+      "source_text": "Romae dulce diu fuit et sollemne reclusa mane domo uigilare, clienti promere iura, cautos nominibus rectis expendere nummos,",
+      "question": "Quid Romae mane sollemne fuit erga clientem, cum domus reclusa esset?",
+      "answer": "Iura promere.",
+      "question_en": "What was the solemn morning practice at Rome toward a client, once the house was thrown open?",
+      "answer_en": "To give him legal counsel.",
+      "derivation": "The morning salutatio: the patron opens his house at dawn and expounds the law to his clients. Anchored to Rome + the client; short answer stated verbatim. Central custom of Roman social life.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.109",
+      "source_text": "Mutauit mentem populus leuis et calet uno scribendi studio; pueri patresque seueri fronde comas uincti cenant et carmina dictant.",
+      "question": "Qua re Romani inter cenam comas vinciebant, ut Horatius de scribendi studio queritur?",
+      "answer": "Fronde.",
+      "question_en": "With what did Romans bind their hair at dinner, as Horace complains of the craze for writing?",
+      "answer_en": "With leaves.",
+      "derivation": "Garlands of foliage worn by diners: the standing dress of the Roman dinner-party. Anchored to the cena; one-word answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.143",
+      "source_text": "cum sociis operum pueris et coniuge fida Tellurem porco, Siluanum lacte piabant, floribus et uino Genium memorem breuis aeui.",
+      "question": "Qua hostia agricolae prisci Tellurem piabant, ut Horatius scribit?",
+      "answer": "Porco.",
+      "question_en": "With what victim did the old farmers propitiate Earth (Tellus), as Horace writes?",
+      "answer_en": "With a pig.",
+      "derivation": "The rustic harvest rite: the pig for Tellus. Anchored to the named deity + the old farmers; one-word answer stated verbatim. Sacrificial practice, the core of criterion 8.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.143",
+      "source_text": "Tellurem porco, Siluanum lacte piabant, floribus et uino Genium memorem breuis aeui.",
+      "question": "Qua re agricolae prisci Silvanum piabant, ut Horatius scribit?",
+      "answer": "Lacte.",
+      "question_en": "With what did the old farmers propitiate Silvanus, as Horace writes?",
+      "answer_en": "With milk.",
+      "derivation": "The milk offering to Silvanus, god of the woodland boundary. Anchored to the named deity; one-word answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.144",
+      "source_text": "Tellurem porco, Siluanum lacte piabant, floribus et uino Genium memorem breuis aeui.",
+      "question": "Quibus duabus rebus agricolae prisci Genium placabant, ut Horatius scribit?",
+      "answer": "Floribus et vino.",
+      "question_en": "With which two things did the old farmers appease the Genius, as Horace writes?",
+      "answer_en": "With flowers and wine.",
+      "derivation": "The offering to the Genius at the harvest festival: flowers and wine, not blood. Anchored to the Genius; both items stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.145",
+      "source_text": "Fescennina per hunc inuenta licentia morem uersibus alternis opprobria rustica fudit,",
+      "question": "Quo modo Fescennina licentia opprobria rustica inter agricolas fundebat?",
+      "answer": "Versibus alternis.",
+      "question_en": "In what form did Fescennine licence pour out its rustic abuse among the farmers?",
+      "answer_en": "In alternating verses.",
+      "derivation": "The Fescennine verses, exchanged in alternate lines at country festivals: the origin Horace gives for Roman abusive verse. Anchored to the named licence; short answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.152",
+      "source_text": "quin etiam lex poenaque lata, malo quae nollet carmine quemquam describi; uertere modum, formidine fustis ad bene dicendum delectandumque redacti.",
+      "question": "Quid lex Romana de malo carmine sanxit, ut Horatius narrat?",
+      "answer": "Ne quis malo carmine describeretur.",
+      "question_en": "What did the Roman law lay down about the malum carmen, as Horace tells it?",
+      "answer_en": "That no one should be lampooned in an evil song.",
+      "derivation": "The clause of the Twelve Tables penalising defamatory verse, which Horace makes the check on Fescennine abuse. Anchored to the law + the malum carmen; short answer stated verbatim. Legal fact, translatable.",
+      "category": "ius"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.156",
+      "source_text": "Graecia capta ferum uictorem cepit et artes intulit agresti Latio;",
+      "question": "Cuius poetae Romani est illud 'Graecia capta ferum victorem cepit', de artibus in Latium invectis?",
+      "answer": "Horatii.",
+      "question_en": "Which Roman poet wrote 'captive Greece took her fierce conqueror captive', of the arts brought into Latium?",
+      "answer_en": "Horace.",
+      "derivation": "The single most quoted line on Rome's conquest by Greek culture; its checkable point is authorship and subject (Horace, Epistulae 2.1, to Augustus). Anchored to the quoted words; one-name answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.157",
+      "source_text": "sic horridus ille defluxit numerus Saturnius, et graue uirus munditiae pepulere;",
+      "question": "Quo nomine appellatur ille horridus numerus, qui Graecis artibus in Latium invectis defluxit?",
+      "answer": "Saturnius.",
+      "question_en": "What was the name of the rough measure that ebbed away when Greek art came into Latium?",
+      "answer_en": "The Saturnian.",
+      "derivation": "The Saturnian, the native Italian verse displaced by Greek metres: a fact about metre that names the metre and therefore translates without residue. Anchored to the arrival of Greek art; one-word answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.161",
+      "source_text": "Serus enim Graecis admouit acumina chartis et post Punica bella quietus quaerere coepit, quid Sophocles et Thespis et Aeschylos utile ferrent.",
+      "question": "Post quae bella Romanus Graecis chartis acumina admovere coepit, ut Horatius scribit?",
+      "answer": "Post Punica bella.",
+      "question_en": "After which wars did the Roman begin to apply his wits to Greek writings, as Horace writes?",
+      "answer_en": "After the Punic Wars.",
+      "derivation": "Horace's dating of Rome's turn to Greek literature. Anchored to Rome + the Greek books; short answer stated verbatim. Literary-historical fact, translatable.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.170",
+      "source_text": "Aspice, Plautus quo pacto partis tutetur amantis ephebi, ut patris attenti, lenonis ut insidiosi,",
+      "question": "Cuius poetae Romani personas — amantis ephebi, patris attenti, lenonis insidiosi — Horatius commemorat?",
+      "answer": "Plauti.",
+      "question_en": "Which Roman poet's stock roles - the young lover, the tight-fisted father, the scheming pimp - does Horace recall?",
+      "answer_en": "Plautus'.",
+      "derivation": "The stock characters of Roman comedy as Horace lists them for Plautus. Anchored to the named roles; one-name answer stated verbatim. Theatrical convention, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.173",
+      "source_text": "quantus sit Dossennus edacibus in parasitis, quam non adstricto percurrat pulpita socco;",
+      "question": "Quo calceamento comoediae proprio Plautum pulpita percurrere Horatius dicit?",
+      "answer": "Socco.",
+      "question_en": "In what footwear proper to comedy does Horace say Plautus races over the boards?",
+      "answer_en": "In the soccus (the comic slipper).",
+      "derivation": "The soccus, the low slipper of comedy as against the tragic cothurnus. Anchored to Plautus + the stage; one-word answer stated verbatim. Stage convention, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.185",
+      "source_text": "indocti stolidique et depugnare parati si discordet eques, media inter carmina poscunt aut ursum aut pugiles; his nam plebecula gaudet.",
+      "question": "Quid plebecula media inter carmina in theatro poscere solebat, ut Horatius ad Augustum queritur?",
+      "answer": "Aut ursum aut pugiles.",
+      "question_en": "What did the crowd call for in the middle of a play, as Horace complains to Augustus?",
+      "answer_en": "Either a bear or boxers.",
+      "derivation": "The Roman audience interrupting a play to demand a bear-baiting or boxers. Anchored to the theatre crowd; short answer stated verbatim. Spectacle custom, the essence of criterion 8.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.189",
+      "source_text": "Quattuor aut pluris aulaea premuntur in horas dum fugiunt equitum turmae peditumque cateruae;",
+      "question": "Quot fere horas aulaea premuntur, dum equitum turmae peditumque catervae in scaena fugiunt?",
+      "answer": "Quattuor aut plures.",
+      "question_en": "For about how many hours is the curtain kept down while squadrons of horse and companies of foot flee across the stage?",
+      "answer_en": "Four or more.",
+      "derivation": "The Roman stage-curtain (lowered, not raised) and the length of the spectacle-parades. Anchored to the theatre; a number answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.194",
+      "source_text": "Si foret in terris, rideret Democritus, seu diuersum confusa genus panthera camelo siue elephans albus uolgi conuerteret ora;",
+      "question": "Quis philosophus, si in terris esset, spectacula Romana risurus erat, ut Horatius fingit?",
+      "answer": "Democritus.",
+      "question_en": "Which philosopher, were he on earth, would laugh at the Roman shows, as Horace imagines?",
+      "answer_en": "Democritus.",
+      "derivation": "Democritus the laughing philosopher, set by Horace in the Roman theatre. Anchored to the shows; one-name answer stated verbatim. Shared cultural type.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.195",
+      "source_text": "seu diuersum confusa genus panthera camelo siue elephans albus uolgi conuerteret ora;",
+      "question": "Quae duo animalia peregrina Horatius nominat, quae vulgi ora in ludis converterent?",
+      "answer": "Pantheram camelo confusam et elephantum album.",
+      "question_en": "Which two foreign animals does Horace name as turning the crowd's faces at the games?",
+      "answer_en": "A panther crossed with a camel (the giraffe) and a white elephant.",
+      "derivation": "The exotic beasts displayed at Roman shows: the camelopard and the white elephant. Anchored to the games; both stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.207",
+      "source_text": "Dixit adhuc aliquid? Nil sane. Quid placet ergo? Lana Tarentino uiolas imitata ueneno.",
+      "question": "Cuius urbis colore lana violas imitata tinguebatur, quae in scaena spectatoribus placebat?",
+      "answer": "Tarenti.",
+      "question_en": "With which city's dye was the wool coloured that imitated violets and delighted the audience on stage?",
+      "answer_en": "Tarentum's.",
+      "derivation": "Tarentine purple, the famous dye of the Greek south of Italy, on stage costume. Anchored to the theatre + the wool; one-name answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.232",
+      "source_text": "Gratus Alexandro regi Magno fuit ille Choerilos, incultis qui uersibus et male natis rettulit acceptos, regale nomisma, Philippos.",
+      "question": "Cui regi Choerilus poeta gratus fuit?",
+      "answer": "Alexandro Magno.",
+      "question_en": "To which king was the poet Choerilus welcome?",
+      "answer_en": "To Alexander the Great.",
+      "derivation": "Choerilus, Alexander's bad court poet, the standing example of a king's misplaced patronage. Anchored to Choerilus; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.234",
+      "source_text": "incultis qui uersibus et male natis rettulit acceptos, regale nomisma, Philippos.",
+      "question": "Quo nomismate regio Choerilus poeta pro versibus suis donabatur?",
+      "answer": "Philippis.",
+      "question_en": "In what royal coin was the poet Choerilus paid for his verses?",
+      "answer_en": "In Philippi (gold Philips).",
+      "derivation": "The Philippus, the gold coin of the Macedonian kings, named for Philip. Anchored to Choerilus + the royal coinage; one-word answer stated verbatim. Money knowledge, translatable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.239",
+      "source_text": "edicto uetuit nequis se praeter Apellen pingeret aut alius Lysippo duceret aera fortis Alexandri uoltum simulantia.",
+      "question": "Quis pictor solus, Alexandri edicto, regem pingere permissus est?",
+      "answer": "Apelles.",
+      "question_en": "Which painter alone was allowed by Alexander's edict to paint the king?",
+      "answer_en": "Apelles.",
+      "derivation": "Alexander's edict reserving his portrait to Apelles: a famous fact of ancient art history. Anchored to Alexander's edict; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.240",
+      "source_text": "aut alius Lysippo duceret aera fortis Alexandri uoltum simulantia.",
+      "question": "Cui soli artifici licuit Alexandri voltum ex aere ducere?",
+      "answer": "Lysippo.",
+      "question_en": "Which craftsman alone was permitted to cast Alexander's likeness in bronze?",
+      "answer_en": "Lysippus.",
+      "derivation": "Lysippus as Alexander's only authorised sculptor in bronze, the companion fact to Apelles. Anchored to Alexander's edict; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.245",
+      "source_text": "At neque dedecorant tua de se iudicia atque munera, quae multa dantis cum laude tulerunt dilecti tibi Vergilius Variusque poetae,",
+      "question": "Quos duos poetas Horatius Augusto dilectos nominat, qui munera eius cum laude acceperunt?",
+      "answer": "Vergilium et Varium.",
+      "question_en": "Which two poets does Horace name as dear to Augustus, who received his gifts to the giver's credit?",
+      "answer_en": "Virgil and Varius.",
+      "derivation": "Virgil and Varius as the poets of Augustus' patronage. Anchored to Augustus + his gifts; both names stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.255",
+      "source_text": "claustraque custodem pacis cohibentia Ianum et formidatam Parthis te principe Romam,",
+      "question": "Cuius dei claustra, pace parta, clausa cohibent, ut Horatius ad Augustum canit?",
+      "answer": "Iani.",
+      "question_en": "Which god do the bars shut in when peace has been won, as Horace sings to Augustus?",
+      "answer_en": "Janus.",
+      "derivation": "The closing of the gates of Janus in time of peace, one of the signal Augustan acts. Anchored to Augustus' peace; one-name answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.1.269",
+      "source_text": "deferar in uicum uendentem tus et odores et piper et quicquid chartis amicitur ineptis.",
+      "question": "Ad quas merces involvendas chartae ineptae adhibebantur, ut Horatius iocatur?",
+      "answer": "Ad tus et odores et piper.",
+      "question_en": "For wrapping what wares was useless writing-paper used, as Horace jokes?",
+      "answer_en": "For incense, perfumes and pepper.",
+      "derivation": "The Roman joke that failed books end as wrapping in the spice-sellers' street. Anchored to the book trade; the three wares stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.3",
+      "source_text": "'Hic et candidus et talos a uertice pulcher ad imos fiet eritque tuus nummorum milibus octo,",
+      "question": "Quanti pretii puer ille venalis in epistula Horati ad Florum offertur?",
+      "answer": "Octo milibus nummorum.",
+      "question_en": "At what price is the slave boy offered for sale in Horace's letter to Florus?",
+      "answer_en": "For eight thousand sesterces.",
+      "derivation": "The going price of a handsome, Greek-schooled slave boy: eight thousand sesterces. Anchored to Horace's letter + the sale; a single figure stated verbatim. Fact of the Roman slave market, translatable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.26",
+      "source_text": "Luculli miles collecta uiatica multis aerumnis, lassus dum noctu stertit, ad assem perdiderat;",
+      "question": "Cuius ducis miles, viatico noctu amisso, praesidium regale loco deiecit, ut Horatius narrat?",
+      "answer": "Luculli.",
+      "question_en": "Whose soldier, after losing his savings in the night, dislodged a royal garrison, as Horace tells it?",
+      "answer_en": "Lucullus'.",
+      "derivation": "The tale of Lucullus' soldier, the exemplum of poverty making men brave. Anchored to the named general; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.32",
+      "source_text": "Clarus ob id factum donis ornatur honestis, accipit et bis dena super sestertia nummum.",
+      "question": "Quantam pecuniam miles ille Luculli pro forti facto accepit?",
+      "answer": "Bis dena sestertia.",
+      "question_en": "How much money did that soldier of Lucullus receive for his brave deed?",
+      "answer_en": "Twenty thousand sesterces.",
+      "derivation": "The soldier's reward, twice ten thousand sesterces over and above the decorations. Anchored to the soldier + Lucullus; a figure stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.39",
+      "source_text": "Post haec ille catus, quantumuis rusticus: 'Ibit, ibit eo, quo uis, qui zonam perdidit' inquit.",
+      "question": "Quid miles ille praetori respondit, cum ad castellum expugnandum hortaretur?",
+      "answer": "'Ibit eo quo vis, qui zonam perdidit.'",
+      "question_en": "What did the soldier answer the praetor who urged him to storm a fort?",
+      "answer_en": "'He will go where you like - the man who has lost his money-belt.'",
+      "derivation": "The soldier's proverbial retort, the point of Horace's exemplum. Anchored to the soldier + the praetor; the saying quoted verbatim from the source.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.41",
+      "source_text": "Romae nutriri mihi contigit atque doceri iratus Grais quantum nocuisset Achilles. Adiecere bonae paulo plus artis Athenae,",
+      "question": "In qua urbe Graeca Horatius studia sua auxit, Romae iam eruditus?",
+      "answer": "Athenis.",
+      "question_en": "In which Greek city did Horace add to his studies, after his schooling at Rome?",
+      "answer_en": "At Athens.",
+      "derivation": "Horace's education: Rome first, then Athens. Anchored to Horace + Rome; one place-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.42",
+      "source_text": "Romae nutriri mihi contigit atque doceri iratus Grais quantum nocuisset Achilles.",
+      "question": "Cuius herois ira Romae in ludo Horatio puero praelegebatur?",
+      "answer": "Achillis.",
+      "question_en": "Which hero's wrath was read to the boy Horace in the schoolroom at Rome?",
+      "answer_en": "Achilles'.",
+      "derivation": "Homer's Iliad as the Roman schoolbook, described by its opening theme. Anchored to Roman schooling + Horace; one-name answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.44",
+      "source_text": "scilicet ut uellem curuo dinoscere rectum atque inter siluas Academi quaerere uerum.",
+      "question": "In quibus silvis Athenis Horatius verum quaerebat?",
+      "answer": "In silvis Academi.",
+      "question_en": "In which groves at Athens did Horace seek the truth?",
+      "answer_en": "In the groves of Academus.",
+      "derivation": "The Academy, Plato's grove at Athens, where Horace studied. Anchored to Athens + Horace; short answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.47",
+      "source_text": "ciuilisque rudem belli tulit aestus in arma Caesaris Augusti non responsura lacertis. Vnde simul primum me dimisere Philippi,",
+      "question": "In quo proelio Horatius arma contra Caesarem Augustum tulisse et inde dimissus esse se fatetur?",
+      "answer": "Ad Philippos.",
+      "question_en": "In which battle does Horace admit he bore arms against Caesar Augustus and was thence discharged?",
+      "answer_en": "At Philippi.",
+      "derivation": "Horace's own testimony to his service on the losing side at Philippi. Anchored to Horace + Augustus; one place-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.50",
+      "source_text": "decisis humilem pinnis inopemque paterni et laris et fundi paupertas impulit audax ut uersus facerem;",
+      "question": "Quae res Horatium, patrio lare et fundo amisso, ad versus faciendos impulit?",
+      "answer": "Paupertas.",
+      "question_en": "What drove Horace, stripped of his father's house and land, to make verses?",
+      "answer_en": "Poverty.",
+      "derivation": "Horace's account of why he began to write: the confiscation after Philippi and consequent poverty. Anchored to Horace + the lost estate; one-word answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.87",
+      "source_text": "Frater erat Romae consulti rhetor, ut alter alterius sermone meros audiret honores, Gracchus ut hic illi, foret huic ut Mucius ille.",
+      "question": "Quos duos viros Horatius exempla ponit, alterum eloquentiae, alterum iuris peritiae?",
+      "answer": "Gracchum et Mucium.",
+      "question_en": "Which two men does Horace set up as models, one of eloquence, the other of legal learning?",
+      "answer_en": "Gracchus and Mucius.",
+      "derivation": "Gracchus as the type of the orator, Mucius Scaevola as the type of the jurist: the Roman shorthand for the two professions. Anchored to the rhetor and the iuris consultus; both names stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.97",
+      "source_text": "Caedimur et totidem plagis consumimus hostem, lento Samnites ad lumina prima duello.",
+      "question": "Quod genus gladiatorum Horatius nominat, quorum lentum duellum ad lumina prima ducitur?",
+      "answer": "Samnites.",
+      "question_en": "Which class of gladiators does Horace name, whose slow duel drags on till the lamps are lit?",
+      "answer_en": "Samnites.",
+      "derivation": "The Samnis, one of the named gladiatorial types of the Roman arena. Anchored to the duel + the lamps; one-word answer stated verbatim. Spectacle knowledge, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.128",
+      "source_text": "Fuit haud ignobilis Argis, qui se credebat miros audire tragoedos in uacuo laetus sessor plausorque theatro,",
+      "question": "Quid ille Argivus insanus in vacuo theatro sedens se audire credebat?",
+      "answer": "Miros tragoedos.",
+      "question_en": "What did that madman of Argos, sitting in an empty theatre, believe he was hearing?",
+      "answer_en": "Wonderful tragic actors.",
+      "derivation": "The famous Argive who applauded plays in an empty theatre, Horace's parable of happy delusion. Anchored to Argos + the empty theatre; short answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.136",
+      "source_text": "Hic ubi cognatorum opibus curisque refectus expulit elleboro morbum bilemque meraco et redit ad sese:",
+      "question": "Quo medicamento ille Argivus insanus morbum bilemque expulit?",
+      "answer": "Elleboro meraco.",
+      "question_en": "With what drug did that Argive madman drive out his disease and bile?",
+      "answer_en": "With neat hellebore.",
+      "derivation": "Hellebore as the ancient cure for madness (whence the proverbial Anticyra). Anchored to the Argive madman; short answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.158",
+      "source_text": "Si proprium est quod quis libra mercatus et aere est, quaedam, si credis consultis, mancipat usus,",
+      "question": "Quibus duabus rebus adhibitis res apud Romanos mancipio emebatur, ut Horatius ad Florum scribit?",
+      "answer": "Libra et aere.",
+      "question_en": "By the use of which two things was property bought by mancipation among the Romans, as Horace writes to Florus?",
+      "answer_en": "By scales and bronze.",
+      "derivation": "Mancipatio per aes et libram, the formal Roman conveyance. Anchored to Roman ownership + the jurists; both items stated verbatim. Legal institution, translatable.",
+      "category": "ius"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.159",
+      "source_text": "quaedam, si credis consultis, mancipat usus, qui te pascit ager, tuus est,",
+      "question": "Quo modo, si iuris consultis credis, quaedam res sine mancipatione fiunt propriae, ut Horatius dicit?",
+      "answer": "Usu.",
+      "question_en": "By what means, if you believe the jurists, do certain things become one's own without formal conveyance, as Horace says?",
+      "answer_en": "By use (usucapion).",
+      "derivation": "Usucapio, acquisition of ownership by long use, cited by Horace from the jurists. Anchored to the consulti; one-word answer stated verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.170",
+      "source_text": "sed uocat usque suum, qua populus adsita certis limitibus uicina refugit iurgia;",
+      "question": "Quae arbor certis limitibus adserebatur, ut vicina iurgia refugerentur, ut Horatius scribit?",
+      "answer": "Populus.",
+      "question_en": "Which tree was planted along fixed boundaries to keep off quarrels with the neighbours, as Horace writes?",
+      "answer_en": "The poplar.",
+      "derivation": "Poplars planted as boundary markers on Italian farms. Anchored to the field boundaries; one-word answer stated verbatim. Agrarian custom, translatable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.187",
+      "source_text": "scit Genius, natale comes qui temperat astrum, naturae deus humanae, mortalis in unum quodque caput, uoltu mutabilis, albus et ater.",
+      "question": "Qui deus, ut Horatius scribit, natale cuiusque astrum comes temperat?",
+      "answer": "Genius.",
+      "question_en": "Which god, as Horace writes, attends and governs each man's birth-star?",
+      "answer_en": "The Genius.",
+      "derivation": "The Genius, the god born with each man and dying with him: the definition Horace gives. Anchored to the birth-star; one-word answer stated verbatim. Roman religion proper.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.197",
+      "source_text": "ac potius, puer ut festis Quinquatribus olim, exiguo gratoque fruaris tempore raptim.",
+      "question": "Quibus feriis pueri Romani a ludo litterario vacabant, quas Horatius exempli causa ponit?",
+      "answer": "Quinquatribus.",
+      "question_en": "At which festival did Roman schoolboys get their holiday, the one Horace cites as an example?",
+      "answer_en": "At the Quinquatrus.",
+      "derivation": "The Quinquatrus of March, Minerva's festival and the schoolboys' holiday. Anchored to Roman boys + the festival; one-word answer stated verbatim. Calendar knowledge.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.208",
+      "source_text": "Somnia, terrores magicos, miracula, sagas, nocturnos lemures portentaque Thessala rides?",
+      "question": "Cuius regionis portenta Horatius inter magicos terrores numerat?",
+      "answer": "Thessala (Thessaliae).",
+      "question_en": "Which region's portents does Horace count among the terrors of magic?",
+      "answer_en": "Thessaly's.",
+      "derivation": "Thessaly as the proverbial home of witchcraft in the Roman imagination. Anchored to the list of magical terrors; one-word answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.209",
+      "source_text": "Somnia, terrores magicos, miracula, sagas, nocturnos lemures portentaque Thessala rides?",
+      "question": "Quo nomine Romani nocturnas umbras mortuorum appellabant, quas Horatius inter terrores numerat?",
+      "answer": "Lemures.",
+      "question_en": "By what name did the Romans call the night-walking ghosts of the dead, which Horace lists among terrors?",
+      "answer_en": "Lemures.",
+      "derivation": "The lemures, the Roman night-ghosts placated at the Lemuria. Anchored to the list of night terrors; one-word answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Epistulae 2.2.214",
+      "source_text": "Lusisti satis, edisti satis atque bibisti; tempus abire tibi est,",
+      "question": "Quis poeta Romanus scripsit 'lusisti satis, edisti satis atque bibisti; tempus abire tibi est'?",
+      "answer": "Horatius.",
+      "question_en": "Which Roman poet wrote 'you have played enough, eaten and drunk enough; it is time for you to go'?",
+      "answer_en": "Horace.",
+      "derivation": "The closing tag of the second book of Epistles, much quoted; its checkable point is authorship and place. Anchored to the quoted words; one-name answer supported verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 1",
+      "source_text": "Humano capiti ceruicem pictor equinam iungere si uelit et uarias inducere plumas undique collatis membris, ut turpiter atrum desinat in piscem mulier formosa superne,",
+      "question": "In quam bestiam mulier superne formosa desinit in illa pictura, qua Horatius Artem Poeticam incipit?",
+      "answer": "In atrum piscem.",
+      "question_en": "Into what creature does the woman, lovely above, end in the picture with which Horace opens the Ars Poetica?",
+      "answer_en": "Into an ugly black fish.",
+      "derivation": "The monstrous composite picture that opens the Ars Poetica, one of the best-known images in Latin criticism. Anchored to the opening of the work; short answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 9",
+      "source_text": "\"Pictoribus atque poetis quidlibet audendi semper fuit aequa potestas.\"",
+      "question": "Quibus duobus artificibus par audendi potestas semper fuisse dicitur, ut in Arte Poetica legitur?",
+      "answer": "Pictoribus atque poetis.",
+      "question_en": "Which two kinds of craftsman have always had, as the Ars Poetica quotes it, an equal licence to dare anything?",
+      "answer_en": "Painters and poets.",
+      "derivation": "The famous claim quoted (and qualified) by Horace, endlessly cited in later criticism. Anchored to the Ars Poetica; both named verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 14",
+      "source_text": "Inceptis grauibus plerumque et magna professis purpureus, late qui splendeat, unus et alter adsuitur pannus,",
+      "question": "Quo colore est pannus ille, qui gravibus inceptis adsui solet, ut Horatius in Arte Poetica dicit?",
+      "answer": "Purpureus.",
+      "question_en": "What colour is the patch that is commonly sewn onto grave beginnings, as Horace says in the Ars Poetica?",
+      "answer_en": "Purple.",
+      "derivation": "The purpureus pannus, origin of the phrase 'purple patch'. Anchored to Horace's criticism of irrelevant ornament; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 21",
+      "source_text": "Amphora coepit institui; currente rota cur urceus exit?",
+      "question": "Quid ex rota currente exit, cum amphora institui coepta sit, ut Horatius quaerit?",
+      "answer": "Urceus.",
+      "question_en": "What comes off the spinning wheel, when a wine-jar was begun, as Horace asks?",
+      "answer_en": "A little jug.",
+      "derivation": "The potter's image for a work that changes shape in the making, a proverbial line. Anchored to the amphora + the wheel; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 32",
+      "source_text": "Aemilium circa ludum faber imus et unguis exprimet et mollis imitabitur aere capillos,",
+      "question": "Quem ludum gladiatorium Romae Horatius nominat, circa quem ille faber infimus opera fingebat?",
+      "answer": "Aemilium.",
+      "question_en": "Which gladiatorial school at Rome does Horace name, near which that lowest craftsman worked?",
+      "answer_en": "The Aemilian school.",
+      "derivation": "The ludus Aemilius, a landmark of Rome, with the bronze-workers' shops around it. Anchored to the named school; one-word answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 56",
+      "source_text": "Ego cur, adquirere pauca si possum, inuideor, cum lingua Catonis et Enni sermonem patrium ditauerit et noua rerum nomina protulerit?",
+      "question": "Quorum duorum virorum lingua sermonem patrium ditavisse et nova rerum nomina protulisse Horatius dicit?",
+      "answer": "Catonis et Enni.",
+      "question_en": "By which two men's speech does Horace say the native tongue was enriched and new names for things brought forth?",
+      "answer_en": "Cato's and Ennius'.",
+      "derivation": "Cato and Ennius as the enrichers of the Latin language, a standing claim of Roman literary history. Anchored to the two names; both stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 73",
+      "source_text": "Res gestae regumque ducumque et tristia bella quo scribi possent numero, monstrauit Homerus.",
+      "question": "Quis poeta monstravit quo numero res gestae regum ducumque et tristia bella scribi possent?",
+      "answer": "Homerus.",
+      "question_en": "Which poet showed in what measure the deeds of kings and captains and grim wars could be written?",
+      "answer_en": "Homer.",
+      "derivation": "Homer as the founder of the epic metre, in Horace's history of the genres. Anchored to the subject-matter of epic; one-name answer stated verbatim. Translatable fact about metre (the hexameter and its proper matter).",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 75",
+      "source_text": "Versibus impariter iunctis querimonia primum, post etiam inclusa est uoti sententia compos;",
+      "question": "Quae materia primum versibus impariter iunctis, id est elegis, inclusa est, ut Horatius docet?",
+      "answer": "Querimonia.",
+      "question_en": "What matter was first enclosed in unequally paired verses, that is, in elegiacs, as Horace teaches?",
+      "answer_en": "Lament.",
+      "derivation": "The elegiac couplet's first use for lament and afterwards for the fulfilled vow. Anchored to the couplet; one-word answer stated verbatim. A fact about a metre's proper matter, and so translatable.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 77",
+      "source_text": "quis tamen exiguos elegos emiserit auctor, grammatici certant et adhuc sub iudice lis est.",
+      "question": "De cuius generis carminis auctore grammatici certare et litem adhuc sub iudice esse Horatius dicit?",
+      "answer": "De elegorum auctore.",
+      "question_en": "About the author of which kind of poem does Horace say the grammarians contend, the case still before the judge?",
+      "answer_en": "About the author of elegy.",
+      "derivation": "The disputed inventor of elegy, and the proverbial tag adhuc sub iudice lis est. Anchored to the grammarians' quarrel; short answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 79",
+      "source_text": "Archilochum proprio rabies armauit iambo;",
+      "question": "Quo metro rabies Archilochum armavit, ut Horatius in Arte Poetica scribit?",
+      "answer": "Iambo.",
+      "question_en": "With what metre did rage arm Archilochus, as Horace writes in the Ars Poetica?",
+      "answer_en": "With the iambus.",
+      "derivation": "Archilochus as inventor and master of the iambus. Anchored by name; one-word answer stated verbatim. A fact about metre that names the metre, hence translatable.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 80",
+      "source_text": "hunc socci cepere pedem grandesque coturni, alternis aptum sermonibus et popularis uincentem strepitus et natum rebus agendis.",
+      "question": "Quem pedem tam socci quam grandes coturni ceperunt, sermonibus alternis aptum?",
+      "answer": "Iambum.",
+      "question_en": "Which foot did both the comic slipper and the high tragic buskin take over, as suited to alternating dialogue?",
+      "answer_en": "The iambus.",
+      "derivation": "The iambus as the metre of drama, comic and tragic alike. Anchored to soccus and cothurnus; one-word answer supported verbatim (hunc... pedem, the iambus of the line before). Translatable.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 83",
+      "source_text": "Musa dedit fidibus diuos puerosque deorum et pugilem uictorem et equom certamine primum et iuuenum curas et libera uina referre.",
+      "question": "Cui carminis generi Musa dedit divos, pugilem victorem, equum certamine primum, iuvenum curas vinaque referre?",
+      "answer": "Fidibus (carmini lyrico).",
+      "question_en": "To which kind of poetry did the Muse grant the telling of gods, victorious boxers, winning horses, young men's loves and wine?",
+      "answer_en": "To the lyre (lyric poetry).",
+      "derivation": "The proper matter of lyric in Horace's division of the genres. Anchored to the listed subjects; short answer stated verbatim (fidibus).",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 90",
+      "source_text": "indignatur item priuatis ac prope socco dignis carminibus narrari cena Thyestae.",
+      "question": "Cuius viri cena exemplum rei tragicae apud Horatium est, quae humili sermone narrari non vult?",
+      "answer": "Thyestae.",
+      "question_en": "Whose dinner is Horace's example of tragic matter that refuses to be told in humble style?",
+      "answer_en": "Thyestes'.",
+      "derivation": "The banquet of Thyestes, the standing type of tragic horror. Anchored to tragic decorum; one-name answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 93",
+      "source_text": "Interdum tamen et uocem comoedia tollit, iratusque Chremes tumido delitigat ore;",
+      "question": "Quae persona comica apud Horatium irata tumido ore rixatur?",
+      "answer": "Chremes.",
+      "question_en": "Which comic character, in Horace, rails in anger with swollen speech?",
+      "answer_en": "Chremes.",
+      "derivation": "Chremes, the stock angry old man of Greek and Roman comedy. Anchored to comedy raising its voice; one-name answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 95",
+      "source_text": "et tragicus plerumque dolet sermone pedestri Telephus et Peleus, cum pauper et exul uterque proicit ampullas et sesquipedalia uerba,",
+      "question": "Quos duos heroas tragicos Horatius nominat, qui pauperes et exules ampullas proiciunt?",
+      "answer": "Telephum et Peleum.",
+      "question_en": "Which two tragic heroes does Horace name as poor exiles who throw away their bombast?",
+      "answer_en": "Telephus and Peleus.",
+      "derivation": "Telephus and Peleus, the canonical beggared heroes of the tragic stage. Anchored to tragic style; both names stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 120",
+      "source_text": "Honoratum si forte reponis Achillem, impiger, iracundus, inexorabilis, acer iura neget sibi nata, nihil non arroget armis.",
+      "question": "Qualem Achillem in scaenam reponi Horatius iubet?",
+      "answer": "Impigrum, iracundum, inexorabilem, acrem.",
+      "question_en": "What sort of Achilles does Horace require, if you bring him back on stage?",
+      "answer_en": "Tireless, wrathful, inexorable, fierce.",
+      "derivation": "The canonical characterisation of Achilles, the model of consistent portrayal. Anchored to Achilles; the four epithets stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 123",
+      "source_text": "Sit Medea ferox inuictaque, flebilis Ino, perfidus Ixion, Io uaga, tristis Orestes.",
+      "question": "Qualem Medeam in scaena esse Horatius iubet?",
+      "answer": "Ferocem invictamque.",
+      "question_en": "What sort of Medea does Horace require on stage?",
+      "answer_en": "Fierce and unconquered.",
+      "derivation": "Medea's canonical attributes in the list of stage characters. Anchored to Medea; short answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 124",
+      "source_text": "Sit Medea ferox inuictaque, flebilis Ino, perfidus Ixion, Io uaga, tristis Orestes.",
+      "question": "Quo epitheto Ixiona Horatius in Arte Poetica notat?",
+      "answer": "Perfidum.",
+      "question_en": "By what epithet does Horace mark Ixion in the Ars Poetica?",
+      "answer_en": "Treacherous.",
+      "derivation": "Ixion the treacherous, whose betrayal of his father-in-law and of Jupiter is the canonical story. Anchored to the list of stage characters; one-word answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 138",
+      "source_text": "Quid dignum tanto feret hic promissor hiatu? Parturient montes, nascetur ridiculus mus.",
+      "question": "Quid nascetur, cum montes parturient, ut in Arte Poetica legitur?",
+      "answer": "Ridiculus mus.",
+      "question_en": "What will be born when the mountains go into labour, as the Ars Poetica has it?",
+      "answer_en": "A ridiculous mouse.",
+      "derivation": "One of the most quoted lines in Latin, Horace's mock of the grandiose opening. Anchored to the line's first half; short answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 141",
+      "source_text": "\"Dic mihi, Musa, uirum, captae post tempora Troiae qui mores hominum multorum uidit et urbes\".",
+      "question": "Cuius carminis Graeci principium Horatius Latine reddit verbis 'dic mihi, Musa, virum'?",
+      "answer": "Odysseae.",
+      "question_en": "Which Greek poem's opening does Horace render into Latin with the words 'tell me, Muse, of the man'?",
+      "answer_en": "The Odyssey's.",
+      "derivation": "Horace's Latin version of the first lines of the Odyssey, held up as the model of a modest beginning. Anchored to the quoted opening; one-name answer supported by the content of the quotation.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 148",
+      "source_text": "semper ad euentum festinat et in medias res non secus ac notas auditorem rapit,",
+      "question": "Quo modo Homerum auditorem rapere Horatius dicit, cum semper ad eventum festinet?",
+      "answer": "In medias res.",
+      "question_en": "How does Horace say Homer sweeps his hearer along, always hastening to the outcome?",
+      "answer_en": "Into the middle of things.",
+      "derivation": "The phrase in medias res, coined here and used ever since of narrative technique. Anchored to Homer's practice; short answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 154",
+      "source_text": "si plosoris eges aulaea manentis et usque sessuri donec cantor. \"Vos plaudite\" dicat.",
+      "question": "Quibus verbis cantor in fine fabulae Romanae spectatores plaudere iubebat?",
+      "answer": "'Vos plaudite.'",
+      "question_en": "With what words did the cantor call for applause at the end of a Roman play?",
+      "answer_en": "'You, applaud.'",
+      "derivation": "The formula that closed Roman comedies (cf. the endings of Plautus and Terence). Anchored to the end of the play + the cantor; the formula quoted verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 185",
+      "source_text": "Ne pueros coram populo Medea trucidet, aut humana palam coquat exta nefarius Atreus,",
+      "question": "Quid Medeam coram populo in scaena facere Horatius vetat?",
+      "answer": "Pueros trucidare.",
+      "question_en": "What does Horace forbid Medea to do on stage in front of the audience?",
+      "answer_en": "To butcher her children.",
+      "derivation": "The rule that atrocities happen offstage, with Medea's child-murder as the example. Anchored to Medea + the stage; short answer stated verbatim. Dramatic convention, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 186",
+      "source_text": "aut humana palam coquat exta nefarius Atreus, aut in auem Procne uertatur, Cadmus in anguem.",
+      "question": "Quis rex humana exta coquit, quod in scaena palam fieri Horatius vetat?",
+      "answer": "Atreus.",
+      "question_en": "Which king cooks human flesh, a thing Horace forbids to be done openly on stage?",
+      "answer_en": "Atreus.",
+      "derivation": "Atreus' cannibal banquet, the canonical horror of tragedy. Anchored to the stage prohibition; one-name answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 187",
+      "source_text": "aut in auem Procne uertatur, Cadmus in anguem.",
+      "question": "In quam bestiam Procne mutata est, ut Horatius commemorat?",
+      "answer": "In avem.",
+      "question_en": "Into what creature was Procne changed, as Horace recalls?",
+      "answer_en": "Into a bird.",
+      "derivation": "Procne's metamorphosis into a bird, canonical Greek myth. Anchored by name; short answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 187",
+      "source_text": "aut in auem Procne uertatur, Cadmus in anguem.",
+      "question": "In quam bestiam Cadmus mutatus est, ut Horatius commemorat?",
+      "answer": "In anguem.",
+      "question_en": "Into what creature was Cadmus changed, as Horace recalls?",
+      "answer_en": "Into a snake.",
+      "derivation": "Cadmus turned into a serpent, the close of the Theban founder's story. Anchored by name; short answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 189",
+      "source_text": "Neue minor neu sit quinto productior actu fabula, quae posci uolt et spectanda reponi;",
+      "question": "Quot actus fabulam habere oportere Horatius in Arte Poetica praecipit?",
+      "answer": "Quinque.",
+      "question_en": "How many acts does Horace prescribe for a play in the Ars Poetica?",
+      "answer_en": "Five.",
+      "derivation": "The five-act rule, the most influential single prescription of ancient dramatic theory. Anchored to the play that wants to be revived; a number stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 191",
+      "source_text": "nec deus intersit, nisi dignus uindice nodus inciderit;",
+      "question": "Quando deum in scaenam intervenire Horatius permittit?",
+      "answer": "Cum nodus vindice dignus inciderit.",
+      "question_en": "When does Horace allow a god to intervene on stage?",
+      "answer_en": "Only when a knot has arisen that deserves such a deliverer.",
+      "derivation": "The rule of the deus ex machina. Anchored to the stage god; short answer stated verbatim. Dramatic convention, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 192",
+      "source_text": "nec quarta loqui persona laboret.",
+      "question": "Quot personae in scaena loqui debent, ut Horatius praecipit?",
+      "answer": "Tres; quarta enim loqui non debet.",
+      "question_en": "How many characters should speak on stage, by Horace's rule?",
+      "answer_en": "Three; a fourth should not try to speak.",
+      "derivation": "The three-actor rule of ancient drama, stated by Horace as the ban on a fourth speaking part. Anchored to the stage; short answer stated verbatim in substance (nec quarta loqui persona laboret).",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 193",
+      "source_text": "Actoris partis chorus officiumque uirile defendat, neu quid medios intercinat actus, quod non proposito conducat et haereat apte.",
+      "question": "Quas partes chorum in fabula sustinere Horatius iubet?",
+      "answer": "Actoris partes officiumque virile.",
+      "question_en": "What part does Horace require the chorus to sustain in a play?",
+      "answer_en": "An actor's part and a man's duty.",
+      "derivation": "The function of the dramatic chorus, and the ban on irrelevant interludes between acts. Anchored to the chorus; short answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 202",
+      "source_text": "Tibia non, ut nunc, orichalco uincta tubaeque aemula, sed tenuis simplexque foramine pauco adspirare et adesse choris erat utilis",
+      "question": "Qualis olim tibia fuit, antequam orichalco vinciretur et tubae aemula fieret, ut Horatius describit?",
+      "answer": "Tenuis et simplex, foramine pauco.",
+      "question_en": "What was the pipe like in the old days, before it was bound with brass and rivalled the trumpet, as Horace describes it?",
+      "answer_en": "Thin and simple, with few holes.",
+      "derivation": "The early Roman tibia, slender and few-holed, before theatrical music grew grand. Anchored to the old theatre; short answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 220",
+      "source_text": "Carmine qui tragico uilem certauit ob hircum, mox etiam agrestis Satyros nudauit et asper incolumi grauitate iocum temptauit",
+      "question": "Quod vile praemium olim in tragici carminis certamine petebatur, ut Horatius scribit?",
+      "answer": "Hircus.",
+      "question_en": "What cheap prize was once competed for in the contest of tragic song, as Horace writes?",
+      "answer_en": "A goat.",
+      "derivation": "The goat-prize of the tragic contest, the standard ancient explanation of the name 'tragedy'. Anchored to the contest; one-word answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 223",
+      "source_text": "inlecebris erat et grata nouitate morandus spectator functusque sacris et potus et exlex.",
+      "question": "Quales spectatores novitate Satyrorum morandi erant, ut Horatius dicit?",
+      "answer": "Sacris functi, poti et exleges.",
+      "question_en": "What sort of spectators had to be held by the novelty of the satyr-play, as Horace says?",
+      "answer_en": "Those who had finished the rites, drunk and lawless.",
+      "derivation": "The satyr play placed after the tragedies to hold an audience fresh from the sacrifices and the wine. Anchored to the satyr play; short answer stated verbatim. Festival-theatre custom.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 237",
+      "source_text": "ut nihil intersit Dauusne loquatur et audax Pythias, emuncto lucrata Simone talentum, an custos famulusque dei Silenus alumni.",
+      "question": "Quis in fabulis Satyricis custos et famulus dei alumni inducitur?",
+      "answer": "Silenus.",
+      "question_en": "Who is brought on in satyr plays as guardian and servant of the god he nursed?",
+      "answer_en": "Silenus.",
+      "derivation": "Silenus, tutor of the young Bacchus and standing character of the satyr play. Anchored to the satyr drama; one-name answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 237",
+      "source_text": "nec sic enitar tragico diferre colori ut nihil intersit Dauusne loquatur et audax Pythias, emuncto lucrata Simone talentum,",
+      "question": "Quo nomine servus comicus apud Horatium exempli causa appellatur?",
+      "answer": "Davus.",
+      "question_en": "By what name is the comic slave called in Horace's example?",
+      "answer_en": "Davus.",
+      "derivation": "Davus, the canonical name of the slave in Roman comedy (as in Terence). Anchored to comic characters; one-name answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 248",
+      "source_text": "offenduntur enim quibus est equos et pater et res, nec, siquid fricti ciceris probat et nucis emptor, aequis accipiunt animis donantue corona.",
+      "question": "Quas res humiliores spectatores in ludis emere solebant, ut Horatius indicat?",
+      "answer": "Frictum cicer et nuces.",
+      "question_en": "What did the humbler spectators buy at the shows, as Horace indicates?",
+      "answer_en": "Roast chickpeas and nuts.",
+      "derivation": "The cheap snacks of the Roman theatre crowd, set against the knights with horse, father and property. Anchored to the audience; both items stated verbatim. Food-and-spectacle culture.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 251",
+      "source_text": "Syllaba longa breui subiecta uocatur iambus, pes citus; unde etiam trimetris adcrescere iussit nomen iambeis, cum senos redderet ictus,",
+      "question": "Quot ictus versus iambicus trimeter reddit, ut Horatius docet?",
+      "answer": "Senos.",
+      "question_en": "How many beats does the iambic trimeter render, as Horace teaches?",
+      "answer_en": "Six.",
+      "derivation": "The iambic trimeter is so called though it yields six beats (three double feet). A fact about metre statable in any language, hence on the translatable track. Anchored to the named verse; a number stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 268",
+      "source_text": "Vos exemplaria Graeca nocturna uersate manu, uersate diurna.",
+      "question": "Quae exemplaria Horatius Pisones nocturna diurnaque manu versare iubet?",
+      "answer": "Graeca.",
+      "question_en": "Which models does Horace tell the Pisos to thumb by night and by day?",
+      "answer_en": "The Greek ones.",
+      "derivation": "The programmatic command of the Ars Poetica, endlessly quoted. Anchored to Horace + the Pisos; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 270",
+      "source_text": "At uestri proaui Plautinos et numeros et laudauere sales, nimium patienter utrumque, ne dicam stulte, mirati,",
+      "question": "Cuius poetae numeros et sales proavi Pisonum nimium patienter laudaverunt, ut Horatius dicit?",
+      "answer": "Plauti.",
+      "question_en": "Whose measures and whose jests did the Pisos' forefathers praise far too tolerantly, as Horace says?",
+      "answer_en": "Plautus'.",
+      "derivation": "Horace's verdict on Plautus and on the old Romans' taste. Anchored to the ancestors' praise; one-name answer stated verbatim. Literary history, translatable.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 275",
+      "source_text": "Ignotum tragicae genus inuenisse Camenae dicitur et plaustris uexisse poemata Thespis",
+      "question": "Quis tragoediae genus ignotum invenisse et plaustris poemata vexisse dicitur?",
+      "answer": "Thespis.",
+      "question_en": "Who is said to have invented the unknown kind of tragic song and carried his poems about on wagons?",
+      "answer_en": "Thespis.",
+      "derivation": "Thespis, inventor of tragedy and the wagon-stage, in the standard ancient account. Anchored to the invention of tragedy; one-name answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 277",
+      "source_text": "dicitur et plaustris uexisse poemata Thespis quae canerent agerentque peruncti faecibus ora.",
+      "question": "Qua re histriones apud Thespin ora perunguebant, ut Horatius scribit?",
+      "answer": "Faecibus.",
+      "question_en": "With what did Thespis' performers smear their faces, as Horace writes?",
+      "answer_en": "With wine-lees.",
+      "derivation": "The lees-smeared faces of the earliest tragic performers, before the mask. Anchored to Thespis; one-word answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 278",
+      "source_text": "Post hunc personae pallaeque repertor honestae Aeschylus et modicis instrauit pulpita tignis",
+      "question": "Quis personae pallaeque honestae repertor fuisse dicitur, ut Horatius scribit?",
+      "answer": "Aeschylus.",
+      "question_en": "Who is said to have been the inventor of the mask and the noble robe, as Horace writes?",
+      "answer_en": "Aeschylus.",
+      "derivation": "Aeschylus credited with the tragic mask, the stately costume and the raised stage. Anchored to the invention; one-name answer stated verbatim. Theatre history, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 279",
+      "source_text": "Aeschylus et modicis instrauit pulpita tignis et docuit magnumque loqui nitique coturno.",
+      "question": "Quo calceamento niti histriones Aeschylus docuit?",
+      "answer": "Coturno.",
+      "question_en": "In what footwear did Aeschylus teach actors to stride?",
+      "answer_en": "In the buskin (cothurnus).",
+      "derivation": "The cothurnus as the mark of tragedy, taught by Aeschylus (against the comic soccus). Anchored to Aeschylus; one-word answer stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 281",
+      "source_text": "Successit uetus his comoedia, non sine multa laude; sed in uitium libertas excidit et uim dignam lege regi; lex est accepta chorusque turpiter obticuit sublato iure nocendi.",
+      "question": "Quid Veteri Comoediae accidit, lege accepta, ut Horatius narrat?",
+      "answer": "Chorus obticuit.",
+      "question_en": "What happened to Old Comedy when the law was passed, as Horace tells it?",
+      "answer_en": "The chorus fell silent.",
+      "derivation": "The silencing of the Old Comic chorus once a law curbed its licence to injure. Anchored to Old Comedy + the law; short answer stated verbatim. Dramatic history, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 286",
+      "source_text": "nec minimum meruere decus uestigia Graeca ausi deserere et celebrare domestica facta, uel qui praetextas uel qui docuere togatas.",
+      "question": "Quibus duobus fabularum generibus poetae Romani domestica facta celebraverunt, ut Horatius dicit?",
+      "answer": "Praetextis et togatis.",
+      "question_en": "By which two kinds of play did Roman poets celebrate home-grown deeds, as Horace says?",
+      "answer_en": "By praetextae and togatae.",
+      "derivation": "The two native Roman dramatic genres: the praetexta (historical) and the togata (Roman-dress comedy). Anchored to the Roman poets; both names stated verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 292",
+      "source_text": "Vos, o Pompilius sanguis, carmen reprehendite quod non multa dies et multa litura coercuit atque praesectum deciens non castigauit ad unguem.",
+      "question": "Quotiens ad unguem castigatum esse carmen Horatius postulat?",
+      "answer": "Deciens.",
+      "question_en": "How many times over does Horace require a poem to have been trimmed to the fingernail?",
+      "answer_en": "Ten times.",
+      "derivation": "The demand for repeated correction, source of the phrase ad unguem. Anchored to the Pisos + the poem; a number stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 295",
+      "source_text": "Ingenium misera quia fortunatius arte credit et excludit sanos Helicone poetas Democritus, bona pars non unguis ponere curat, non barbam, secreta petit loca, balnea uitat;",
+      "question": "Quis philosophus sanos poetas Helicone excludere creditur, ingenium arti praeferens?",
+      "answer": "Democritus.",
+      "question_en": "Which philosopher is believed to shut sane poets out of Helicon, preferring genius to art?",
+      "answer_en": "Democritus.",
+      "derivation": "Democritus' doctrine of poetic madness, the source of the unkempt poet's pose. Anchored to Helicon + the doctrine; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 300",
+      "source_text": "nanciscetur enim pretium nomenque poetae, si tribus Anticyris caput insanabile nunquam tonsori Licino commiserit.",
+      "question": "Quot Anticyrae caput poetae furentis sanare non possint, ut Horatius iocatur?",
+      "answer": "Tres.",
+      "question_en": "How many Anticyras, in Horace's joke, could not cure the mad poet's head?",
+      "answer_en": "Three.",
+      "derivation": "Anticyra, the town of hellebore, is the proverbial cure for madness; three of them would not serve. Anchored to the mad poet; a number stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 309",
+      "source_text": "Scribendi recte sapere est et principium et fons.",
+      "question": "Quam rem Horatius scribendi recte et principium et fontem esse dicit?",
+      "answer": "Sapere.",
+      "question_en": "What does Horace call both the beginning and the fountainhead of writing well?",
+      "answer_en": "Understanding (sapere).",
+      "derivation": "A much-quoted Horatian tag; its checkable point is what stands in the predicate. Anchored to the Ars Poetica; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 325",
+      "source_text": "Romani pueri longis rationibus assem discunt in partis centum diducere.",
+      "question": "In quot partes Romani pueri assem diducere discebant, ut Horatius scribit?",
+      "answer": "In centum.",
+      "question_en": "Into how many parts did Roman boys learn to divide the as, as Horace writes?",
+      "answer_en": "Into a hundred.",
+      "derivation": "The Roman schoolroom's arithmetic of fractions of the as. Anchored to Roman boys + the as; a number stated verbatim. Education and money, translatable.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 327",
+      "source_text": "filius Albini: si de quincunce remota est uncia, quid superat?. . . Poteras dixisse. — Triens. — Eu!",
+      "question": "Quid superat, si de quincunce uncia remota est, ut in ludo Romano discebatur?",
+      "answer": "Triens.",
+      "question_en": "What is left if an ounce is taken from a quincunx, as was learned in the Roman schoolroom?",
+      "answer_en": "A triens (a third).",
+      "derivation": "The fractions of the as: quincunx (5/12) less uncia (1/12) leaves triens (4/12). Anchored to the school exercise; the answer stated verbatim. Money-reckoning every Roman carried.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 329",
+      "source_text": "Rem poteris seruare tuam. Redit uncia, quid fit? \"Semis\".",
+      "question": "Quid fit, si ad quincuncem uncia redit, ut in ludo Romano respondebatur?",
+      "answer": "Semis.",
+      "question_en": "What do you get if the ounce is added back to the quincunx, as the Roman schoolroom answered?",
+      "answer_en": "A semis (a half).",
+      "derivation": "The second half of the schoolroom sum: quincunx (5/12) plus uncia (1/12) makes semis (6/12). Anchored to the same exercise; the answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 333",
+      "source_text": "Aut prodesse uolunt aut delectare poetae aut simul et iucunda et idonea dicere uitae.",
+      "question": "Quid poetas velle Horatius in Arte Poetica dicit?",
+      "answer": "Aut prodesse aut delectare.",
+      "question_en": "What does Horace say poets want to do, in the Ars Poetica?",
+      "answer_en": "Either to profit or to please.",
+      "derivation": "The formula that governed later criticism (prodesse et delectare). Anchored to the poets; short answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 340",
+      "source_text": "Ficta uoluptatis causa sint proxima ueris, ne quodcumque uolet poscat sibi fabula credi, neu pransae Lamiae uiuum puerum extrahat aluo.",
+      "question": "Cuius monstri alvo puer vivus extrahi non debet, ut Horatius vetat?",
+      "answer": "Lamiae.",
+      "question_en": "From what monster's belly must a living boy not be dragged, in Horace's prohibition?",
+      "answer_en": "From the Lamia's.",
+      "derivation": "Lamia, the child-devouring bogey of ancient nursery tale. Anchored to the stage prohibition; one-name answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 341",
+      "source_text": "Centuriae seniorum agitant expertia frugis, celsi praetereunt austera poemata Ramnes.",
+      "question": "Quo nomine Horatius iuvenes equites appellat, qui austera poemata praetereunt?",
+      "answer": "Ramnes.",
+      "question_en": "By what name does Horace call the young knights who pass over austere poems?",
+      "answer_en": "The Ramnes.",
+      "derivation": "Ramnes, one of the three original centuries of Roman knights, used for the young nobility of the theatre audience. Anchored to the audience; one-word answer stated verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 343",
+      "source_text": "Omne tulit punctum qui miscuit utile dulci, lectorem delectando pariterque monendo;",
+      "question": "Quis omne punctum tulit, ut in Arte Poetica legitur?",
+      "answer": "Qui miscuit utile dulci.",
+      "question_en": "Who has won every vote, as the Ars Poetica has it?",
+      "answer_en": "He who has mixed the useful with the sweet.",
+      "derivation": "One of the most quoted lines of the Ars Poetica; the image is of the ballot-marks (puncta). Anchored to the line's opening; short answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 359",
+      "source_text": "et idem indignor quandoque bonus dormitat Homerus; uerum operi longo fas est obrepere somnum.",
+      "question": "Quem poetam Horatius interdum dormitare dicit, cum de operis longi maculis loquitur?",
+      "answer": "Homerum.",
+      "question_en": "Which poet does Horace say sometimes nods, when he speaks of the blemishes of a long work?",
+      "answer_en": "Homer.",
+      "derivation": "Quandoque bonus dormitat Homerus, proverbial ever since. Anchored to the quoted line; one-name answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 361",
+      "source_text": "Vt pictura poesis; erit quae, si propius stes, te capiat magis, et quaedam, si longius abstes;",
+      "question": "Cui arti Horatius poesin in Arte Poetica comparat?",
+      "answer": "Picturae.",
+      "question_en": "To which art does Horace compare poetry in the Ars Poetica?",
+      "answer_en": "To painting.",
+      "derivation": "Ut pictura poesis, the tag that founded a whole tradition of criticism. Anchored to the Ars Poetica; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 372",
+      "source_text": "sed tamen in pretio est; mediocribus esse poetis non homines, non di, non concessere columnae.",
+      "question": "Qui tres poetis mediocribus esse non concesserunt, ut Horatius dicit?",
+      "answer": "Homines, di, columnae.",
+      "question_en": "Which three have refused poets leave to be middling, as Horace says?",
+      "answer_en": "Men, gods and the booksellers' pillars.",
+      "derivation": "The famous denial of middling poetry, with the columnae (the pillars where books were advertised) as the third judge. Anchored to poets; the three stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 374",
+      "source_text": "Vt gratas inter mensas symphonia discors et crassum unguentum et Sardo cum melle papauer offendunt,",
+      "question": "Cuius insulae mel amarum inter cenae offensiones Horatius numerat?",
+      "answer": "Sardiniae (Sardum mel).",
+      "question_en": "Which island's bitter honey does Horace count among the offences of a dinner?",
+      "answer_en": "Sardinia's.",
+      "derivation": "Sardinian honey, proverbially bitter, served with poppy-seed. Anchored to the dinner table; the item stated verbatim. Food knowledge, translatable.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 379",
+      "source_text": "Ludere qui nescit, campestribus abstinet armis, indoctusque pilae disciue trochiue quiescit, ne spissae risum tollant impune coronae;",
+      "question": "Quibus tribus ludis Romani in Campo exercebantur, quos Horatius nominat?",
+      "answer": "Pila, disco, trocho.",
+      "question_en": "In which three games did Romans exercise on the Campus, as Horace names them?",
+      "answer_en": "Ball, discus and hoop.",
+      "derivation": "The standard exercises of the Campus Martius. Anchored to the Campus; the three stated verbatim. Leisure custom, translatable.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 385",
+      "source_text": "Tu nihil inuita dices faciesue Minerua; id tibi iudicium est, ea mens.",
+      "question": "Qua dea invita nihil dicendum aut faciendum esse Horatius monet?",
+      "answer": "Minerva.",
+      "question_en": "Against which goddess's will does Horace warn one to say or do nothing?",
+      "answer_en": "Minerva's.",
+      "derivation": "The proverb invita Minerva, of working against one's natural gift. Anchored to the Ars Poetica; one-name answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 388",
+      "source_text": "Siquid tamen olim scripseris, in Maeci descendat iudicis auris et patris et nostras, nonumque prematur in annum membranis intus positis;",
+      "question": "In quotum annum carmen premi Horatius iubet antequam edatur?",
+      "answer": "In nonum.",
+      "question_en": "Until which year does Horace order a poem to be kept back before publication?",
+      "answer_en": "Until the ninth.",
+      "derivation": "Nonum prematur in annum, the most quoted counsel of literary patience. Anchored to the Ars Poetica; a number stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 390",
+      "source_text": "delere licebit quod non edideris; nescit uox missa reuerti.",
+      "question": "Quid, semel emissum, reverti nescire Horatius dicit?",
+      "answer": "Vox.",
+      "question_en": "What, once let go, does Horace say cannot come back?",
+      "answer_en": "The spoken word.",
+      "derivation": "Nescit uox missa reuerti, a proverbial line on the irrevocability of publication. Anchored to the Ars Poetica; one-word answer stated verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 391",
+      "source_text": "Siluestris homines sacer interpresque deorum caedibus et uictu foedo deterruit Orpheus, dictus ob hoc lenire tigris rabidosque leones;",
+      "question": "Quis vates tigris rabidosque leones lenisse dicitur, qui homines silvestris a caedibus deterruit?",
+      "answer": "Orpheus.",
+      "question_en": "Which bard is said to have soothed tigers and raging lions, having turned wild men from slaughter?",
+      "answer_en": "Orpheus.",
+      "derivation": "Orpheus as civiliser and tamer of beasts, canonical myth. Anchored by the deeds; one-name answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 394",
+      "source_text": "dictus et Amphion, Thebanae conditor urbis, saxa mouere sono testudinis et prece blanda ducere quo uellet.",
+      "question": "Quis Thebanae urbis conditor saxa sono testudinis movisse dicitur?",
+      "answer": "Amphion.",
+      "question_en": "Which founder of the city of Thebes is said to have moved stones by the sound of his lyre?",
+      "answer_en": "Amphion.",
+      "derivation": "Amphion building Thebes with his lyre, canonical myth. Anchored to Thebes; one-name answer stated verbatim.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 401",
+      "source_text": "Post hos insignis Homerus Tyrtaeusque mares animos in Martia bella uersibus exacuit,",
+      "question": "Quos duos poetas Horatius dicit versibus mares animos in Martia bella exacuisse?",
+      "answer": "Homerum et Tyrtaeum.",
+      "question_en": "Which two poets does Horace say sharpened manly spirits for the wars of Mars with their verses?",
+      "answer_en": "Homer and Tyrtaeus.",
+      "derivation": "Homer and Tyrtaeus as the martial poets in Horace's account of poetry's civic uses. Anchored to the deed; both names stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 414",
+      "source_text": "abstinuit uenere et uino; qui Pythia cantat tibicen, didicit prius extimuitque magistrum.",
+      "question": "In quibus certaminibus Graecis canit ille tibicen, quem Horatius exemplum laboris ponit?",
+      "answer": "In Pythiis.",
+      "question_en": "At which Greek games does the piper play whom Horace holds up as an example of training?",
+      "answer_en": "At the Pythian games.",
+      "derivation": "The Pythian games at Delphi, where the pipers competed. Anchored to the piper; the games named verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 431",
+      "source_text": "Vt qui conducti plorant in funere dicunt et faciunt prope plura dolentibus ex animo, sic derisor uero plus laudatore mouetur.",
+      "question": "Qui homines in funere Romano plura quam ex animo dolentes faciunt, ut Horatius dicit?",
+      "answer": "Conducti.",
+      "question_en": "Who, at a Roman funeral, weep and do almost more than those who truly grieve, as Horace says?",
+      "answer_en": "The hired mourners.",
+      "derivation": "The hired mourners of the Roman funeral, whose grief outdoes the family's. Anchored to the funeral; one-word answer stated verbatim. Funerary custom.",
+      "category": "mores"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 438",
+      "source_text": "Quintilio siquid recitares: \"Corrige, sodes, hoc\" aiebat \"et hoc\"; melius te posse negares, bis terque expertum frustra; delere iubebat",
+      "question": "Quis criticus, cum quid ei recitaretur, 'corrige, sodes, hoc et hoc' dicere solebat, ut Horatius narrat?",
+      "answer": "Quintilius.",
+      "question_en": "Which critic used to say 'correct this, please, and this' when something was recited to him, as Horace tells it?",
+      "answer_en": "Quintilius.",
+      "derivation": "Quintilius Varus, the honest critic of the Augustan circle (mourned in Odes 1.24). Anchored to the recitation; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 450",
+      "source_text": "arguet ambigue dictum, mutanda notabit, fiet Aristarchus, nec dicet: \"Cur ego amicum offendam in nugis?\"",
+      "question": "Cuius grammatici Graeci nomen Horatius pro severo carminum iudice ponit?",
+      "answer": "Aristarchi.",
+      "question_en": "Which Greek scholar's name does Horace use for the severe judge of poems?",
+      "answer_en": "Aristarchus'.",
+      "derivation": "Aristarchus of Samothrace, the Homeric critic, as the byword for rigorous textual judgement. Anchored to the honest critic; one-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 453",
+      "source_text": "Vt mala quem scabies aut morbus regius urget aut fanaticus error et iracunda Diana, uesanum tetigisse timent fugiuntque poetam,",
+      "question": "Cuius deae ira apud Horatium inter mentis morbos numeratur?",
+      "answer": "Dianae.",
+      "question_en": "Which goddess's anger does Horace count among the diseases of the mind?",
+      "answer_en": "Diana's.",
+      "derivation": "The wrath of Diana as a cause of madness, listed with jaundice (morbus regius) and fanatical frenzy. Anchored to the list of afflictions; one-name answer stated verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 463",
+      "source_text": "Siculique poetae narrabo interitum. Deus inmortalis haberi dum cupit Empedocles, ardentem frigidus Aetnam insiluit.",
+      "question": "In quem montem Empedocles insiluisse dicitur, deus immortalis haberi cupiens?",
+      "answer": "In Aetnam.",
+      "question_en": "Into which mountain is Empedocles said to have leapt, wishing to be held an immortal god?",
+      "answer_en": "Into Etna.",
+      "derivation": "The death of Empedocles in the crater of Etna, one of the best-known stories of ancient philosophy. Anchored to Empedocles; one place-name answer stated verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Horatius, Ars Poetica 471",
+      "source_text": "Nec satis apparet cur uersus factitet, utrum minxerit in patrios cineres, an triste bidental mouerit incestus;",
+      "question": "Quam rem sacram, fulmine tactam, poeta furens movisse fingitur apud Horatium?",
+      "answer": "Triste bidental.",
+      "question_en": "What consecrated thing, struck by lightning, is the mad poet imagined to have disturbed, in Horace?",
+      "answer_en": "The grim bidental.",
+      "derivation": "The bidental, the spot struck by lightning and fenced off as sacred, which it was sacrilege to disturb. Anchored to the poet's supposed impiety; the term stated verbatim. Roman religious practice.",
+      "category": "religio"
+    }
+  ]
+}

@@ -13,6 +13,12 @@ Shows one pair at a time (all fields, in file order); one keystroke decides:
 Decisions append to review.jsonl ({key, locus, question, decision, ts});
 the latest decision per pair wins. Re-running resumes with the undecided
 and deferred pairs, in qa.jsonl order.  `review.py --stats` prints the tally.
+
+Another collection can be reviewed by naming it:
+
+    review.py letters_and_history.jsonl [letters_and_history.review.jsonl]
+
+The decisions file defaults to the pairs file with .jsonl -> .review.jsonl.
 """
 import datetime
 import hashlib
@@ -26,8 +32,15 @@ import time
 import tty
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-QA_PATH = os.path.join(HERE, "qa.jsonl")
-REVIEW_PATH = os.path.join(HERE, "review.jsonl")
+
+_paths = [a for a in sys.argv[1:] if not a.startswith("--")]
+QA_PATH = os.path.join(HERE, _paths[0]) if _paths else os.path.join(HERE, "qa.jsonl")
+if len(_paths) > 1:
+    REVIEW_PATH = os.path.join(HERE, _paths[1])
+elif _paths:
+    REVIEW_PATH = QA_PATH.removesuffix(".jsonl") + ".review.jsonl"
+else:
+    REVIEW_PATH = os.path.join(HERE, "review.jsonl")
 
 DECISIONS = {"a": "accept", "f": "fix", "l": "lose", " ": "defer"}
 

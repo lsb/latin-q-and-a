@@ -1,0 +1,928 @@
+{
+  "source": "text/cicero/fam7.txt; text/cicero/fam9.txt; text/cicero/fam16.txt",
+  "author": "Cicero",
+  "work": "Epistulae ad Familiares, libri VII, IX, XVI",
+  "provenance": "The Latin Library (www.thelatinlibrary.com)",
+  "pairs": [
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.1",
+      "source_text": "Reliquas vero partes diei tu consumebas iis delectationibus, quas tibi ipse ad arbitrium tuum compararas, nobis autem erant ea perpetienda, quae Sp. Maecius probavisset.",
+      "question": "Quis fabulas probabat, quae in ludis Pompei agerentur, ut Cicero ad M. Marium scribit?",
+      "answer": "Sp. Maecius.",
+      "question_en": "Who approved the plays that were staged at Pompey's games, as Cicero writes to M. Marius?",
+      "answer_en": "Spurius Maecius.",
+      "derivation": "Sp. Maecius Tarpa, the official selector of plays for the stage (the same man Horace names as the judge of new drama). Cicero says the audience had to endure whatever Maecius had approved. Anchored to Pompey's games of 55 BC; single named answer, verbatim in the source.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.2",
+      "source_text": "deliciae vero tuae, noster Aesopus, eiusmodi fuit, ut ei desinere per omnes homines liceret: is iurare cum coepisset, vox eum defecit in illo loco: \"si sciens fallo.\"",
+      "question": "Cuius histrionis vox in ludis Pompei defecit, cum in scaena iurare coepisset?",
+      "answer": "Aesopi.",
+      "question_en": "Which actor's voice failed him at Pompey's games, when he had begun to swear an oath on stage?",
+      "answer_en": "Aesopus'.",
+      "derivation": "The famous tragic actor Aesopus, Cicero's friend, broke down at the oath-words 'si sciens fallo' during Pompey's dedication games. Closed-book: Aesopus is the best-known Roman tragic actor of the age; anchored to him and to the games; short named answer.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.2",
+      "source_text": "quid enim delectationis habent sexcenti muli in Clytaemnestra aut in Equo Troiano creterrarum tria milia aut armatura varia peditatus et equitatus in aliqua pugna?",
+      "question": "Quot mulos in Clytaemnestra fabula in scaenam productos esse Cicero commemorat?",
+      "answer": "Sexcentos.",
+      "question_en": "How many mules does Cicero record as brought on stage in the play Clytaemnestra?",
+      "answer_en": "Six hundred.",
+      "derivation": "The absurd processional splendour of Pompey's games: six hundred mules in Accius' Clytaemnestra. Number fact, verbatim in the source, anchored to the named play.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.2",
+      "source_text": "quid enim delectationis habent sexcenti muli in Clytaemnestra aut in Equo Troiano creterrarum tria milia aut armatura varia peditatus et equitatus in aliqua pugna?",
+      "question": "Quot creterrae in Equo Troiano fabula in scaenam illatae sunt, ut Cicero scribit?",
+      "answer": "Tria milia.",
+      "question_en": "How many mixing-bowls were carried onto the stage in the play Equos Troianus, as Cicero writes?",
+      "answer_en": "Three thousand.",
+      "derivation": "Companion number to the six hundred mules: three thousand craters paraded in the Equos Troianus at Pompey's games. Anchored to the named play; verbatim number.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.3",
+      "source_text": "non enim te puto Graecos aut Oscos ludos desiderasse, praesertim cum Oscos vel in senatu vestro spectare possis, Graecos ita non ames, ut ne ad villam quidem tuam via Graeca ire soleas.",
+      "question": "Praeter Graecos, cuius gentis ludos in muneribus Pompei actos esse Cicero commemorat?",
+      "answer": "Oscos.",
+      "question_en": "Besides Greek shows, which people's plays does Cicero mention as performed at Pompey's games?",
+      "answer_en": "Oscan ones.",
+      "derivation": "The Oscan farces (Atellanae) alongside Greek performances in the programme of Pompey's games - a standing genre of the Roman stage. Closed-book cultural fact about Roman theatre; answer verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.3",
+      "source_text": "Reliquae sunt venationes binae per dies quinque, magnificae - nemo negat -, sed quae potest homini esse polito delectatio, cum aut homo imbecillus a valentissima bestia laniatur aut praeclara bestia venabulo transverberatur?",
+      "question": "Per quot dies venationes in ludis Pompei editae sunt?",
+      "answer": "Per dies quinque.",
+      "question_en": "For how many days were the beast-hunts held at Pompey's games?",
+      "answer_en": "For five days.",
+      "derivation": "Number fact about the venatio at the dedication games of Pompey's theatre in 55 BC: two hunts a day for five days. Verbatim in the source; anchored to Pompey's games.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.3",
+      "source_text": "Extremus elephantorum dies fuit: in quo admiratio magna vulgi atque turbae, delectatio nulla exstitit; quin etiam misericordia quaedam consecuta est atque opinio eiusmodi, esse quandam illi beluae cum genere humano societatem.",
+      "question": "Quae bestiae ultimo ludorum Pompei die in harenam productae sunt?",
+      "answer": "Elephanti.",
+      "question_en": "Which beasts were brought into the arena on the last day of Pompey's games?",
+      "answer_en": "Elephants.",
+      "derivation": "The celebrated elephant show that closed Pompey's games of 55 BC (also told by Pliny). Anchored to the games; short answer, verbatim support.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.3",
+      "source_text": "Extremus elephantorum dies fuit: in quo admiratio magna vulgi atque turbae, delectatio nulla exstitit; quin etiam misericordia quaedam consecuta est atque opinio eiusmodi, esse quandam illi beluae cum genere humano societatem.",
+      "question": "Quem affectum vulgus Romanum erga elephantos in ludis Pompei concepit, ut Cicero scribit?",
+      "answer": "Misericordiam.",
+      "question_en": "What feeling did the Roman crowd conceive towards the elephants at Pompey's games, as Cicero writes?",
+      "answer_en": "Pity.",
+      "derivation": "The famous reaction of the crowd: pity, and a sense that the beasts had some kinship with mankind. Distinct fact from the mere staging of the elephants; verbatim support; anchored to Pompey's games.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.1.3",
+      "source_text": "Nam quid ego te athletas putem desiderare, qui gladiatores contempseris? in quibus ipse Pompeius confitetur se et operam et oleum perdidisse.",
+      "question": "Quo proverbio Pompeius de gladiatoribus suis usum esse Cicero refert?",
+      "answer": "Se et operam et oleum perdidisse.",
+      "question_en": "What proverb does Cicero report Pompey using about his own gladiators?",
+      "answer_en": "That he had wasted both his labour and his oil.",
+      "derivation": "The standing Roman proverb 'operam et oleum perdere' (to waste labour and lamp-oil), here in Pompey's mouth about the gladiators of his games. Checkable point: who said it, and of what.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.2.2",
+      "source_text": "De Bursa te gaudere certo scio; sed nimis verecunde mihi gratularis; putas enim, ut scribis, propter hominis sordes minus me magnam illam laetitiam putare. Credas mihi velim magis me iudicio hoc quam morte inimici laetatum.",
+      "question": "Cuius damnatione Cicero se magis quam inimici morte laetatum esse scribit?",
+      "answer": "Bursae.",
+      "question_en": "At whose condemnation does Cicero write that he rejoiced more than at the death of his enemy?",
+      "answer_en": "Bursa's.",
+      "derivation": "The condemnation of T. Munatius Plancus Bursa in 52 BC, prosecuted by Cicero; he says the verdict pleased him more than the death of his enemy (Clodius). Named entity, single verifiable answer.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.2.4",
+      "source_text": "Nos hic in multitudine et crebritate iudiciorum et novis legibus ita distinemur, ut quotidie vota faciamus, ne intercaletur, ut quam primum te videre possimus.",
+      "question": "Quid Cicero cotidianis votis deprecabatur, ut M. Marium quam primum videre posset?",
+      "answer": "Ne annus intercalaretur.",
+      "question_en": "What did Cicero pray daily against, so that he might see M. Marius as soon as possible?",
+      "answer_en": "That the year should not be given an intercalary month.",
+      "derivation": "The pre-Julian calendar, in which the pontiffs inserted an intercalary month at their discretion and so lengthened the business year. Ambient Roman civic knowledge; anchored to Cicero and Marius; verbatim 'ne intercaletur'.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.5.3",
+      "source_text": "accedit etiam, quod familiam ducit in iure civili singulari memoria, summa scientia.",
+      "question": "In qua disciplina C. Trebatium Testam principem esse Cicero ad Caesarem scribens affirmat?",
+      "answer": "In iure civili.",
+      "question_en": "In what field does Cicero, writing to Caesar, declare C. Trebatius Testa to be the leader?",
+      "answer_en": "In the civil law.",
+      "derivation": "Trebatius Testa, the jurist to whom Cicero later dedicated the Topica, is commended to Caesar as leading the field in ius civile. Anchored to Trebatius; single short answer, verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.5.3",
+      "source_text": "Mitto igitur ad te Trebatium atque ita mitto, ut initio mea sponte, post autem invitatu tuo mittendum duxerim. Hunc, mi Caesar, sic velim omni tua comitate complectare, ut omnia, quae per me possis adduci ut in meos conferre velis, in unum hunc conferas.",
+      "question": "Ad quem imperatorem Cicero C. Trebatium Testam commendatum misit?",
+      "answer": "Ad C. Iulium Caesarem.",
+      "question_en": "To which commander did Cicero send C. Trebatius Testa with a letter of recommendation?",
+      "answer_en": "To Gaius Julius Caesar.",
+      "derivation": "The commendatio that sent Trebatius to Caesar's staff in Gaul and set the scene of the whole seventh book. Caesar is addressed by name in the quoted words; named entities on both sides.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.6.1",
+      "source_text": "hoc tibi tam ignoscemus nos amici, quam ignoverunt Medeae, quae Corinthum arcem altam habebant matronae opulentae, optimates, quibus illa manibus gypsatissimis persuasit, ne sibi vitio illae verterent, quod abesset a patria.",
+      "question": "Cuius urbis matronae opulentae Medeae, quod a patria abesset, ignoverunt?",
+      "answer": "Corinthi.",
+      "question_en": "The wealthy matrons of which city forgave Medea for being away from her homeland?",
+      "answer_en": "Corinth's.",
+      "derivation": "The chorus of rich Corinthian matrons whom Medea addresses in the Latin Medea (Ennius, after Euripides), quoted here by Cicero. Canonical shared myth-and-stage knowledge; single place-name answer, verbatim in the quoted verses.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.6.2",
+      "source_text": "Tu, qui ceteris cavere didicisti, in Britannia ne ab essedariis decipiaris caveto.",
+      "question": "A quo genere pugnatorum Britannorum Cicero Trebatium in Britannia cavere iubet?",
+      "answer": "Ab essedariis.",
+      "question_en": "Against which kind of British fighters does Cicero warn Trebatius to be on his guard in Britain?",
+      "answer_en": "Against the chariot-fighters (essedarii).",
+      "derivation": "The essedarii, the chariot-borne warriors of Britain that Caesar's army met - ambient knowledge of the British expedition, later the name of a gladiator type at Rome. Anchored to Trebatius and Britain; verbatim answer.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.7.1",
+      "source_text": "In Britannia nihil esse audio neque auri neque argenti: id si ita est, essedum aliquod capias suadeo et ad nos quam primum recurras.",
+      "question": "Quas duas res in Britannia deesse Cicero se audivisse scribit?",
+      "answer": "Aurum et argentum.",
+      "question_en": "Which two things does Cicero write that he hears are lacking in Britain?",
+      "answer_en": "Gold and silver.",
+      "derivation": "Cicero's report on the profitlessness of the British expedition of 54 BC. Anchored to Britain; two-item verbatim answer; a claim particular to this author, framed with 'audio'.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.7.1",
+      "source_text": "In Britannia nihil esse audio neque auri neque argenti: id si ita est, essedum aliquod capias suadeo et ad nos quam primum recurras.",
+      "question": "Quod praedae genus Cicero Trebatio ex Britannia reportandum esse iocatur?",
+      "answer": "Essedum.",
+      "question_en": "What kind of booty does Cicero joke that Trebatius should bring back from Britain?",
+      "answer_en": "A war-chariot.",
+      "derivation": "Since Britain has no gold or silver, Cicero jokes that Trebatius should capture an esseda instead - the British chariot as the one prize worth taking. Anchored to Trebatius and Britain; single-word answer, verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.10.4",
+      "source_text": "una mehercule nostra vel severa vel iocosa congressio pluris erit quam non modo hostes, sed etiam fratres nostri Aedui.",
+      "question": "Quam Galliae gentem Romani fratres suos appellabant?",
+      "answer": "Aeduos.",
+      "question_en": "Which people of Gaul did the Romans call their brothers?",
+      "answer_en": "The Aedui.",
+      "derivation": "The Aedui held the official style of 'brothers and kinsmen' of the Roman people, a standing formula of Roman diplomacy in Gaul; Cicero uses it in passing as common knowledge. Verbatim support, single named answer.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.11.2",
+      "source_text": "denique, si cito te rettuleris, sermo nullus erit, si diutius frustra afueris, non modo Laberium, sed etiam sodalem nostrum Valerium pertimesco; mira enim persona induci potest Britannici iureconsulti.",
+      "question": "Quem mimorum scriptorem Cicero veretur ne Trebatium in scaenam ut Britannicum iureconsultum inducat?",
+      "answer": "Laberium.",
+      "question_en": "Which writer of mimes does Cicero fear may put Trebatius on stage as the character of a 'British jurist'?",
+      "answer_en": "Laberius.",
+      "derivation": "D. Laberius, the leading Roman writer of mimes, whose stock characters could be built out of any public figure. Anchored to Laberius and Trebatius; single named answer, verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.12.2",
+      "source_text": "Ubi porro illa erit formula fiduciae: VT INTER BONOS BENE AGIER OPORTET? quis enim bonus est, qui facit nihil nisi sua causa?",
+      "question": "Quibus verbis sollemnibus formula fiduciae apud Romanos concipiebatur?",
+      "answer": "Ut inter bonos bene agier oportet.",
+      "question_en": "In what solemn words was the Roman formula of fiducia framed?",
+      "answer_en": "'That between good men there ought to be good dealing.'",
+      "derivation": "The wording of the formula fiduciae, one of the best-known clauses of Roman civil procedure; Cicero quotes it as familiar to any educated reader. Verifiable, verbatim, and translatable (nothing turns on wordplay).",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.12.2",
+      "source_text": "Quod ius statues COMMVNI DIVIDVNDO, cum commune nihil possit esse apud eos, qui omnia voluptate sua metiuntur?",
+      "question": "Quo nomine actio illa iuris civilis appellabatur, qua res inter socios communis dividebatur?",
+      "answer": "Communi dividundo.",
+      "question_en": "By what name was the civil-law action called by which property held in common between partners was divided?",
+      "answer_en": "'Communi dividundo' (for dividing common property).",
+      "derivation": "The actio communi dividundo, a standard head of the civil law; Cicero jokes that an Epicurean cannot administer it because nothing is truly common among pleasure-seekers. Named action, verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.12.2",
+      "source_text": "Quomodo autem tibi placebit IOVEM LAPIDEM iurare, cum scias Iovem iratum esse nemini posse?",
+      "question": "Quod ius iurandum sanctissimum Cicero commemorat, cum Trebatium Epicureum factum irridet?",
+      "answer": "Iovem lapidem iurare.",
+      "question_en": "What most solemn oath does Cicero mention when he mocks Trebatius for turning Epicurean?",
+      "answer_en": "To swear by Jupiter Stone.",
+      "derivation": "'Iovem lapidem iurare', the most binding of Roman oaths, sworn with the flint of Jupiter Feretrius. Ambient Roman religious knowledge; verbatim; anchored to Cicero and Trebatius.",
+      "category": "religio"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.16.1",
+      "source_text": "In Equo Troiano scis esse in extremo \"sero sapiunt:\" tu tamen, mi vetule, non sero.",
+      "question": "In cuius fabulae exitu illud \"sero sapiunt\" positum esse Cicero scribit?",
+      "answer": "In Equo Troiano.",
+      "question_en": "At the end of which play does Cicero say the words 'they grow wise too late' stand?",
+      "answer_en": "In the Equos Troianus.",
+      "derivation": "The proverbial tag 'sero sapiunt (Phryges)' and its home at the close of the Roman Equos Troianus. Checkable point (where the saying comes from); anchored to the named play; verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.16.3",
+      "source_text": "Qui istinc veniunt, superbiam tuam accusant, quod negent te percontantibus respondere; sed tamen est, quod gaudeas; constat enim inter omnes neminem te uno Samarobrivae iuris peritiorem esse.",
+      "question": "In quo Gallico oppido neminem Trebatio iuris peritiorem esse Cicero iocatur?",
+      "answer": "Samarobrivae.",
+      "question_en": "In which town of Gaul does Cicero joke that no one is more skilled in law than Trebatius?",
+      "answer_en": "At Samarobriva.",
+      "derivation": "Samarobriva (Amiens), Caesar's winter headquarters in Gaul, where Trebatius was serving. Place-name answer, verbatim; anchored to Trebatius.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.18.2",
+      "source_text": "nam, quod in palimpsesto, laudo equidem parismoniam; sed miror, quid in illa chartula fuerit, quod delere malueris quam haec non scribere, nisi forte tuas formulas.",
+      "question": "In quo genere chartae Trebatius epistulam scripserat, cuius parsimoniam Cicero laudat?",
+      "answer": "In palimpsesto.",
+      "question_en": "On what kind of writing material had Trebatius written the letter whose thrift Cicero praises?",
+      "answer_en": "On a palimpsest.",
+      "derivation": "The palimpsestus, sheet scraped clean and written over to save material - Cicero's is the earliest Latin mention. Ambient knowledge of ancient book culture; verbatim; anchored to Trebatius.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.18.3",
+      "source_text": "Has litteras scripsi in Pomptino, cum ad villam M. Aemilii Philemonis devertissem, ex qua iam audieram fremitum clientium meorum, quos quidem tu mihi conciliasti; nam Ulubris honoris mei causa vim maximam ranunculorum se commosse constabat.",
+      "question": "Cuius oppidi ranas Cicero clientium suorum loco iocans numerat?",
+      "answer": "Ulubrarum.",
+      "question_en": "The frogs of which town does Cicero jokingly count as his clients?",
+      "answer_en": "Those of Ulubrae.",
+      "derivation": "Ulubrae, the tiny half-deserted town in the Pomptine marshes whose frogs are its only population - a standing Roman joke (Horace names it too). Anchored to Cicero's patronage joke; verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.19",
+      "source_text": "itaque, ut primum Velia navigare coepi, institui Topica Aristotela conscribere ab ipsa urbe commonitus amantissima tui: eum librum tibi misi Regio scriptum, quam planissime res illa scribi potuit.",
+      "question": "Cuius philosophi Topica Cicero in navigatione conscribere instituit?",
+      "answer": "Aristotelis.",
+      "question_en": "Whose Topics did Cicero set about writing up while on a voyage?",
+      "answer_en": "Aristotle's.",
+      "derivation": "Cicero's Topica, composed from memory at sea for the jurist to whom the seventh book is largely addressed. Named work and named philosopher; verbatim support.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.19",
+      "source_text": "itaque, ut primum Velia navigare coepi, institui Topica Aristotela conscribere ab ipsa urbe commonitus amantissima tui: eum librum tibi misi Regio scriptum, quam planissime res illa scribi potuit.",
+      "question": "Ex quo Italiae oppido Cicero Topica scripta misit?",
+      "answer": "Regio.",
+      "question_en": "From which Italian town did Cicero send off the Topica once written?",
+      "answer_en": "From Rhegium.",
+      "derivation": "The Topica was begun as Cicero sailed from Velia and sent from Rhegium. Place fact, verbatim, anchored to the named work.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.20.1",
+      "source_text": "Tu, si me audies, quem soles, has paternas possessiones tenebis - nescio quid enim Velienses verebantur -, neque Heletem, nobilem amnem, relinques nec Papirianam domum deseres.",
+      "question": "Quem nobilem amnem apud Veliam Cicero Trebatium ne relinquat monet?",
+      "answer": "Heletem.",
+      "question_en": "Which noble river at Velia does Cicero urge Trebatius not to abandon?",
+      "answer_en": "The Hales.",
+      "derivation": "The Hales, the river of Velia in Lucania, called 'nobilis' by Cicero. Geographic fact anchored to Velia and Trebatius' paternal estates; verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.21",
+      "source_text": "Cum ei dicerem tibi videri sponsionem illam nos sine periculo facere posse, SI BONORUM TVRPILIAE POSSESSIONEM Q. CAEPIO PRAETOR EX EDICTO SVO MIHI DEDIT, negare aiebat Servium tabulas testamenti esse eas, quas instituisset is, qui factionem testamenti non habuerit; hoc idem Offilium dicere.",
+      "question": "Qui iuris consultus negabat eas tabulas testamentum esse, quas is instituisset qui testamenti factionem non haberet?",
+      "answer": "Servius.",
+      "question_en": "Which jurist denied that tablets counted as a will if drawn up by someone who lacked testamentary capacity?",
+      "answer_en": "Servius (Sulpicius Rufus).",
+      "derivation": "The doctrine of testamenti factio, attributed here to Servius Sulpicius Rufus (with Ofilius agreeing) in the Turpilia case. Named jurist, single verifiable answer, verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.22",
+      "source_text": "Illuseras heri inter scyphos, quod dixeram controversiam esse, possetne heres, quod futurum antea factum esset, furti recte agere. Itaque, etsi domum bene potus seroque redieram, tamen id caput, ubi haec controversia est, notavi et descriptum tibi misi, ut scires id, quod tu neminem sensisse dicebas, Sex. Aelium, M'. Manilium, M. Brutum sensisse.",
+      "question": "Quos tres veteres iuris consultos Cicero heredi furti actionem dari sensisse tradit?",
+      "answer": "Sex. Aelium, M'. Manilium, M. Brutum.",
+      "question_en": "Which three old jurists does Cicero record as having held that an heir may bring an action for theft?",
+      "answer_en": "Sextus Aelius, Manius Manilius and Marcus Brutus.",
+      "derivation": "The three founders of the Roman civil law as a science (Sex. Aelius Paetus, M'. Manilius, M. Iunius Brutus), cited by Cicero on the question whether an heir can sue for a theft committed before the inheritance fell in. Verbatim, named, checkable.",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.24.1",
+      "source_text": "Cipius, opinor, olim? \"non omnibus dormio:\" sic ego non omnibus, mi Galle, servio.",
+      "question": "Cui viro dictum illud \"non omnibus dormio\" tribuitur?",
+      "answer": "Cipio.",
+      "question_en": "To which man is the saying 'I am not asleep for everybody' attributed?",
+      "answer_en": "To Cipius.",
+      "derivation": "The proverbial saying of Cipius, the complaisant husband who pretended to sleep - a standing Roman byword. Checkable point (who said it); verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.24.2",
+      "source_text": "Habes \"Sardos venales, alium alio nequiorem;\" cognosti meam causam et istius salaconis iniquitatem.",
+      "question": "Quod proverbium de Sardis Cicero ad M. Fadium Gallum scribens affert?",
+      "answer": "Sardi venales, alius alio nequior.",
+      "question_en": "What proverb about Sardinians does Cicero quote in writing to M. Fadius Gallus?",
+      "answer_en": "'Sardinians for sale, each worse than the last.'",
+      "derivation": "The proverb 'Sardi venales', said to come from the mass enslavement of Sardinians by Ti. Gracchus, applied here to the Sardinian Tigellius. Checkable saying with a fixed wording; verbatim.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.26.2",
+      "source_text": "Nam, dum volunt isti lauti terra nata, quae lege excepta sunt, in honorem adducere, fungos, heluellas, herbas omnes ita condiunt, ut nihil possit esse suavius.",
+      "question": "Quod ciborum genus lege sumptuaria exceptum erat, quod lauti illi tam suaviter condiebant?",
+      "answer": "Quae terra nascuntur.",
+      "question_en": "What class of foods was exempted by the sumptuary law, and so seasoned so deliciously by the gourmands?",
+      "answer_en": "Things grown from the earth (vegetables and the like).",
+      "derivation": "Caesar's sumptuary law exempted produce of the soil, so the rich lavished their cooks on mushrooms, greens and herbs. Roman sumptuary legislation and its evasion - shared civic and dining knowledge; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.26.2",
+      "source_text": "Ita ego, qui me ostreis et muraenis facile abstinebam, a beta et a malva deceptus sum; posthac igitur erimus cautiores.",
+      "question": "Quibus duobus holeribus vilibus Cicero se deceptum esse scribit?",
+      "answer": "Beta et malva.",
+      "question_en": "By which two cheap vegetables does Cicero write that he was caught out?",
+      "answer_en": "By beet and mallow.",
+      "derivation": "The joke of the sumptuary-law letter: Cicero, proof against oysters and lampreys, was undone by beet and mallow at a dinner. Named foods, verbatim, anchored to Cicero.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.26.2",
+      "source_text": "Ita ego, qui me ostreis et muraenis facile abstinebam, a beta et a malva deceptus sum; posthac igitur erimus cautiores.",
+      "question": "A quibus cibis lautis Cicero se facile abstinere solitum esse scribit?",
+      "answer": "Ab ostreis et muraenis.",
+      "question_en": "From which luxury foods does Cicero write that he easily abstained?",
+      "answer_en": "From oysters and lampreys.",
+      "derivation": "Oysters and lampreys as the standing emblems of Roman luxury dining. Distinct fact from the beet-and-mallow joke; verbatim, anchored to Cicero.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.30.1",
+      "source_text": "In campo certe non fuisti, cum hora secunda comitiis quaestoriis institutis sella Q. Maximi, quem illi consulem esse dicebant, posita est, quo mortuo nuntiato sella ablata est.",
+      "question": "Cuius consulis mors nuntiata est, cum comitia quaestoria hora secunda haberentur, ita ut sella eius auferretur?",
+      "answer": "Q. Maximi.",
+      "question_en": "Whose death as consul was announced while the quaestorian elections were being held at the second hour, so that his chair was carried away?",
+      "answer_en": "Quintus Maximus'.",
+      "derivation": "Q. Fabius Maximus, suffect consul of 45 BC, died on the last day of his consulship; the curule chair was removed from the assembly. Named person, datable public event, verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.30.1",
+      "source_text": "ille autem, qui comitiis tributis esset auspicatus, centuriata habuit, consulem hora septima renuntiavit, qui usque ad Kalendas Ian. esset, quae erant futurae mane postridie: ita Caninio consule scito neminem prandisse.",
+      "question": "Cuius consulis brevitatem Cicero eo iocatur, quod eo consule nemo pranderit?",
+      "answer": "Caninii.",
+      "question_en": "Whose consulship does Cicero mock by saying that under him nobody took lunch?",
+      "answer_en": "Caninius'.",
+      "derivation": "C. Caninius Rebilus, consul for part of a single day at the end of 45 BC - one of the most quoted jokes in Latin. Named person, verbatim support.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.30.1",
+      "source_text": "ille autem, qui comitiis tributis esset auspicatus, centuriata habuit, consulem hora septima renuntiavit, qui usque ad Kalendas Ian. esset, quae erant futurae mane postridie: ita Caninio consule scito neminem prandisse.",
+      "question": "Qua hora diei Caninius consul renuntiatus est?",
+      "answer": "Hora septima.",
+      "question_en": "At what hour of the day was Caninius declared consul?",
+      "answer_en": "At the seventh hour.",
+      "derivation": "The hour of the declaration that made Caninius consul until the Kalends of January the next morning. Number/time fact, verbatim, anchored to the named man.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.32.1",
+      "source_text": "nisi cetera, quae sunt a me in secundo libro de Oratore per Antonii personam disputata de ridiculis",
+      "question": "In quo libro de Oratore et per cuius personam Cicero de ridiculis disputavit?",
+      "answer": "In secundo, per Antonii personam.",
+      "question_en": "In which book of the De Oratore, and in whose mouth, did Cicero discuss wit and laughter?",
+      "answer_en": "In the second, in the person of Antonius.",
+      "derivation": "Cicero's own cross-reference to the treatment of the ridiculum in De Oratore II, spoken by M. Antonius. Named work, named speaker, verbatim; the kind of fact a reader of Cicero carries.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 7.33.1",
+      "source_text": "ut etiam, si quando aliquid dignum nostro nomine emisimus, ingemescamus, quod haec \"pinnigero, non armigero in corpore tela exerceantur,\" ut ait Philoctetes apud Attium, \"abiecta gloria.\"",
+      "question": "Apud quem poetam Latinum Philoctetes queritur tela in pinnigero, non armigero corpore exerceri?",
+      "answer": "Apud Accium.",
+      "question_en": "In which Latin poet does Philoctetes complain that his arrows are spent on feathered, not armed, bodies?",
+      "answer_en": "In Accius.",
+      "derivation": "Accius' Philoctetes, a stock tragedy of the Roman stage, quoted and attributed by Cicero himself. Named poet and named character; verbatim attribution.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.8.1",
+      "source_text": "Feci igitur sermonem inter nos habitum in Cumano, cum esset una Pomponius: tibi dedi partes Antiochinas, quas a te probari intellexisse mihi videbar; mihi sumpsi Philonis.",
+      "question": "Cuius philosophi partes Cicero in dialogo suo M. Varroni tribuit?",
+      "answer": "Antiochi.",
+      "question_en": "Whose philosophical part did Cicero assign to M. Varro in his dialogue?",
+      "answer_en": "Antiochus'.",
+      "derivation": "The dedication of the Academica: Varro speaks for Antiochus of Ascalon, Cicero for Philo. Named work-partner and named school-head; verbatim support; a fact any reader of Cicero's philosophica carries.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.8.1",
+      "source_text": "Feci igitur sermonem inter nos habitum in Cumano, cum esset una Pomponius: tibi dedi partes Antiochinas, quas a te probari intellexisse mihi videbar; mihi sumpsi Philonis.",
+      "question": "Cuius philosophi partes Cicero in eo dialogo, quem ad Varronem misit, sibi ipse sumpsit?",
+      "answer": "Philonis.",
+      "question_en": "Whose philosophical part did Cicero take for himself in the dialogue he sent to Varro?",
+      "answer_en": "Philo's.",
+      "derivation": "The counterpart fact: Cicero speaks for Philo of Larissa and the sceptical Academy against Varro's Antiochus. Verbatim; named philosopher; distinct from the Varro/Antiochus pair.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.14.2",
+      "source_text": "tamen non alienum est dignitate tua, quod ipsi Agamemnoni, regum regi, fuit honestum, habere aliquem in consiliis capiendis Nestorem",
+      "question": "Quem senem in consiliis capiendis Agamemno, regum rex, habuit?",
+      "answer": "Nestorem.",
+      "question_en": "Which old man did Agamemnon, king of kings, have to help him take counsel?",
+      "answer_en": "Nestor.",
+      "derivation": "The canonical pairing of Agamemnon and his aged counsellor Nestor, used by Cicero as a self-evident comparison. Shared myth; named entities; verbatim support.",
+      "category": "mythos"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.14.5",
+      "source_text": "Semper amavi, ut scis, M. Brutum propter eius summum ingenium, suavissimos mores, singularem probitatem atque constantiam: tamen Idibus Martiis tantum accessit ad amorem, ut mirarer locum fuisse augendi in eo, quod mihi iampridem cumulatum etiam videbatur.",
+      "question": "Quo die Cicero amorem suum erga M. Brutum mirum in modum auctum esse scribit?",
+      "answer": "Idibus Martiis.",
+      "question_en": "On what day does Cicero write that his love for M. Brutus was wonderfully increased?",
+      "answer_en": "On the Ides of March.",
+      "derivation": "Cicero dates the increase of his affection for Brutus to the Ides of March 44 BC. Calendar date plus named person; verbatim; the best-known date in Roman history.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.15.5",
+      "source_text": "Quid ergo est? tamen, quamdiu hic erit noster hic praefectus moribus, parebo auctoritati tuae; cum vero aberit, ad fungos me tuos conferam.",
+      "question": "Quo munere morum corrigendorum Caesarem fungi Cicero significat, cui se, dum adsit, pariturum esse dicit?",
+      "answer": "Praefectura moribus.",
+      "question_en": "What office for the correction of morals does Cicero imply Caesar holds, and to which he says he will submit while Caesar is present?",
+      "answer_en": "The prefecture of morals.",
+      "derivation": "Caesar's praefectura morum, held after the civil war, under which the sumptuary law was enforced; Cicero calls him 'noster hic praefectus moribus'. Roman institution; verbatim title.",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.4",
+      "source_text": "et, ut Servius, frater tuus, quem litteratissimum fuisse iudico, facile diceret: \"hic versus Plauti non est, hic est,\" quod tritas aures haberet notandis generibus poetarum et consuetudine legendi",
+      "question": "Cuius comici poetae versus veros a falsis Servius, Paeti frater, facile diiudicabat?",
+      "answer": "Plauti.",
+      "question_en": "Whose comic verses could Servius, Paetus' brother, easily tell genuine from spurious?",
+      "answer_en": "Plautus'.",
+      "derivation": "The Roman scholarly problem of authenticating Plautine verses, and Servius Clodius' reputation for settling it by ear. Named poet, named critic; verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.7",
+      "source_text": "Nunc venio ad iocationes tuas, quoniam tu secundum Oenomaum Attii, non, ut olim solebat, Atellanam, sed, ut nunc fit, mimum introduxisti.",
+      "question": "Quod fabularum genus aetate Ciceronis Atellanae in exitu ludorum scaenicorum successit?",
+      "answer": "Mimus.",
+      "question_en": "What kind of play had, in Cicero's day, replaced the Atellan farce as the afterpiece of a show?",
+      "answer_en": "The mime.",
+      "derivation": "The change of theatrical custom: the Atellana used to follow the main play, the mime now does. A convention of the Roman stage stated as common knowledge; verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.7",
+      "source_text": "Nunc venio ad iocationes tuas, quoniam tu secundum Oenomaum Attii, non, ut olim solebat, Atellanam, sed, ut nunc fit, mimum introduxisti.",
+      "question": "Cuius poetae Latini Oenomaum Cicero ad Paetum scribens commemorat?",
+      "answer": "Accii.",
+      "question_en": "Which Latin poet's Oenomaus does Cicero mention in writing to Paetus?",
+      "answer_en": "Accius'.",
+      "derivation": "The tragedy Oenomaus is assigned to Accius by Cicero himself ('Oenomaum Attii'). Named play, named poet; verbatim.",
+      "category": "ludi"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.7",
+      "source_text": "Hirtium ego et Dolabellam dicendi discipulos habeo, coenandi magistros; puto enim te audisse, si forte ad vos omnia perferuntur, illos apud me declamitare, me apud illos coenitare.",
+      "question": "Quos duos viros Cicero dicendi discipulos, coenandi magistros se habere iocatur?",
+      "answer": "Hirtium et Dolabellam.",
+      "question_en": "Which two men does Cicero joke that he has as pupils in speaking and masters in dining?",
+      "answer_en": "Hirtius and Dolabella.",
+      "derivation": "One of the most quoted lines of the Paetus correspondence: they declaim at Cicero's house, he dines at theirs. Named entities; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.7",
+      "source_text": "volo enim videre animum, qui mihi audeat ista, quae scribis, apponere aut etiam polypum miniati Iovis similem.",
+      "question": "Cui deo minio illito Cicero polypum in mensa appositum comparat?",
+      "answer": "Iovi.",
+      "question_en": "To which minium-painted god does Cicero compare an octopus set on the table?",
+      "answer_en": "To Jupiter.",
+      "derivation": "The cult statue of Jupiter Capitolinus was painted with red lead (minium) on festal days - ambient Roman religious practice, here the point of a dinner joke. Named god; verbatim.",
+      "category": "religio"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.8",
+      "source_text": "Neque est, quod in promulside spei ponas aliquid, quam totam sustuli; solebam enim antea debilitari oleis et lucanicis tuis.",
+      "question": "Quo nomine prima coenae Romanae pars appellabatur, quam Cicero se totam sustulisse scribit?",
+      "answer": "Promulsis.",
+      "question_en": "What was the name of the first course of a Roman dinner, which Cicero writes that he has abolished altogether?",
+      "answer_en": "The promulsis (the hors d'oeuvre).",
+      "derivation": "The promulsis, the relish course served before the mulsum at the start of a Roman dinner. Named institution of the table; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.8",
+      "source_text": "Neque est, quod in promulside spei ponas aliquid, quam totam sustuli; solebam enim antea debilitari oleis et lucanicis tuis.",
+      "question": "Quibus duobus cibis in promulside appositis Cicero se antea debilitari solitum esse scribit?",
+      "answer": "Oleis et lucanicis.",
+      "question_en": "By which two foods served at the hors d'oeuvre does Cicero write that he used to be laid low?",
+      "answer_en": "By olives and Lucanian sausages.",
+      "derivation": "Olives and lucanicae (Lucanian sausages) as the standard opening relishes of a Roman dinner. Named dishes; verbatim; distinct fact from the course-name pair.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.8",
+      "source_text": "Tu vero - volo enim abstergere animi tui metum - ad tyrotarichum antiquum redi.",
+      "question": "Ad quod ferculum vetus Cicero Paetum redire iubet, ne novam eius lautitiam extimescat?",
+      "answer": "Ad tyrotarichum.",
+      "question_en": "To which old dish does Cicero tell Paetus to go back, so that he need not dread Cicero's new refinement?",
+      "answer_en": "To the tyrotarichum (cheese-and-salt-fish dish).",
+      "derivation": "The tyrotarichum, a homely dish of cheese and salt fish, the emblem of Paetus' plain table. Named dish; verbatim; anchored to Paetus.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.16.9",
+      "source_text": "Ego tibi unum sumptum afferam. quod balneum calfacias oportebit; cetera more nostro: superiora illa lusimus.",
+      "question": "Quem unum sumptum Cicero se Paeto hospiti allaturum esse dicit?",
+      "answer": "Ut balneum calfaciat.",
+      "question_en": "What single expense does Cicero say he will bring upon his host Paetus?",
+      "answer_en": "Having to heat the bath.",
+      "derivation": "The Roman custom of bathing before dinner: the guest's one cost to his host is the heating of the bath. Anchored to Cicero and Paetus; verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.18.1",
+      "source_text": "ex quibus intellexi probari tibi meum consilium, quod, ut Dionysius tyrannus, cum Syracusis pulsus esset, Corinthi dicitur ludum aperuisse, sic ego sublatis iudiciis amisso regno forensi ludum quasi habere coeperim.",
+      "question": "In qua urbe Dionysius tyrannus, Syracusis pulsus, ludum aperuisse dicitur?",
+      "answer": "Corinthi.",
+      "question_en": "In which city is Dionysius the tyrant said to have opened a school after being driven out of Syracuse?",
+      "answer_en": "At Corinth.",
+      "derivation": "The proverbial fall of Dionysius II of Syracuse, reduced to schoolmastering at Corinth. Famous story, named persons and places, verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.18.2",
+      "source_text": "nisi forte mori melius fuit: in lectulo, fateor, sed non accidit; in acie non fui; ceteri quidem, Pompeius, Lentulus tuus, Scipio, Afranius foede perierunt. \"At Cato praeclare.\"",
+      "question": "Cuius mortem Cicero, cum Pompei, Lentuli, Scipionis, Afranii foedos exitus commemoraret, praeclaram fuisse concedit?",
+      "answer": "Catonis.",
+      "question_en": "Whose death does Cicero allow to have been glorious, when he lists the foul ends of Pompey, Lentulus, Scipio and Afranius?",
+      "answer_en": "Cato's.",
+      "derivation": "The contrast between the squalid deaths of the Pompeian leaders and Cato's suicide at Utica - a fixed point of Roman moral history. Named entities; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.18.3",
+      "source_text": "Extremum illud est, quod tu nescio an primum putes: plures iam pavones confeci, quam tu pullos columbinos.",
+      "question": "Quas aves Cicero se plures quam Paetus pullos columbinos confecisse iocatur?",
+      "answer": "Pavones.",
+      "question_en": "Which birds does Cicero joke that he has polished off in greater numbers than Paetus has squabs?",
+      "answer_en": "Peacocks.",
+      "derivation": "The peacock as the emblematic luxury bird of the late-Republican table, set against the humble pigeon-squab. Named foods; verbatim; anchored to Cicero and Paetus.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.20.1",
+      "source_text": "At quem virum! non eum, quem tu es solitus promulside conficere: integram famem ad ovum affero, itaque usque ad assum vitulinum opera perducitur.",
+      "question": "A quo cibo ad quem Cicero totam coenam se perducere gloriatur?",
+      "answer": "Ab ovo usque ad assum vitulinum.",
+      "question_en": "From which dish to which does Cicero boast that he carries the whole dinner through?",
+      "answer_en": "From the egg all the way to the roast veal.",
+      "derivation": "The shape of a Roman dinner, from the egg of the gustatio to the roast that ends the main course - the phrase behind 'ab ovo usque ad mala'. Verbatim; anchored to Cicero's boast of new appetite.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.20.1",
+      "source_text": "dediscendae tibi sunt sportellae et artolagani tui.",
+      "question": "Quas duas res Paeto dediscendas esse Cicero scribit, cum se edacem factum esse iocatur?",
+      "answer": "Sportellas et artolaganos.",
+      "question_en": "Which two things does Cicero tell Paetus he must now unlearn, joking that he has become a big eater?",
+      "answer_en": "His little baskets of snacks and his artolagani (bread-cakes).",
+      "derivation": "Named light fare of a frugal table: the sportella (snack-hamper) and the artolaganus, a cake of flour, wine and milk. Verbatim; anchored to Paetus.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.20.2",
+      "source_text": "sed vide audaciam: etiam Hirtio coenam dedi, sine pavone tamen; in ea coena cocus meus praeter ius fervens nihil non potuit imitari.",
+      "question": "Cui Cicero coenam dedit, sine pavone tamen, ut ipse gloriatur?",
+      "answer": "Hirtio.",
+      "question_en": "To whom did Cicero give a dinner - though without a peacock - as he himself boasts?",
+      "answer_en": "To Hirtius.",
+      "derivation": "Cicero entertaining Hirtius, one of his 'masters in dining', but stopping short of the peacock. Named guest; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.20.3",
+      "source_text": "Haec igitur est nunc vita nostra: mane salutamus domi et bonos viros multos, sed tristes, et hos laetos victores, qui me quidem perofficiose et peramanter observant; ubi salutatio defluxit, litteris me involvo: aut scribo aut lego.",
+      "question": "Quo officio cotidiano mane domi suae Cicero fungebatur, priusquam se litteris involveret?",
+      "answer": "Salutatione amicorum.",
+      "question_en": "What daily duty did Cicero perform at home in the morning before burying himself in his books?",
+      "answer_en": "The morning reception of friends (the salutatio).",
+      "derivation": "The salutatio, the morning levee at a great man's house - the central ritual of Roman patronage. Named custom; verbatim; anchored to Cicero's daily routine.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.21.2",
+      "source_text": "fuerunt enim patricii minorum gentium, quorum princeps L. Papirius Mugillanus, qui censor cum L. Sempronio Atratino fuit, cum ante consul cum eodem fuisset, annis post Romam conditam CCCXII.",
+      "question": "Quoto anno post Romam conditam L. Papirius Mugillanus cum L. Sempronio Atratino censor fuit, ut Cicero tradit?",
+      "answer": "Anno CCCXII.",
+      "question_en": "In which year after the founding of Rome was L. Papirius Mugillanus censor with L. Sempronius Atratinus, as Cicero records?",
+      "answer_en": "In the year 312.",
+      "derivation": "Cicero's dating of the first Papirian censorship, given by years from the founding of the City - the standard Roman reckoning. Named magistrates, numeric answer, verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.21.2",
+      "source_text": "sed tum Papisii dicebamini. Post hunc XIII. sederunt in sella curuli ante L. Papirium Crassum, qui primus Papisius est vocari desitus: is dictator cum L. Papirio Cursore magistro equitum factus est annis post Romam conditam CCCCXV.",
+      "question": "Quo nomine Papirii antiquitus appellabantur?",
+      "answer": "Papisii.",
+      "question_en": "By what name were the Papirii called in early times?",
+      "answer_en": "Papisii.",
+      "derivation": "The older form of the gentile name, changed to Papirius; Cicero tells Paetus the family was once called Papisii. Named gens; verbatim; the fact survives translation as a name-change.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.21.2",
+      "source_text": "sed tum Papisii dicebamini. Post hunc XIII. sederunt in sella curuli ante L. Papirium Crassum, qui primus Papisius est vocari desitus: is dictator cum L. Papirio Cursore magistro equitum factus est annis post Romam conditam CCCCXV.",
+      "question": "Quis primus ex ea gente Papisius vocari desiit?",
+      "answer": "L. Papirius Crassus.",
+      "question_en": "Who was the first of that family to stop being called Papisius?",
+      "answer_en": "Lucius Papirius Crassus.",
+      "derivation": "Cicero names L. Papirius Crassus, dictator in the year 415 from the founding, as the first to drop the old form. Named person; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.21.2",
+      "source_text": "is dictator cum L. Papirio Cursore magistro equitum factus est annis post Romam conditam CCCCXV. et quadriennio post consul cum K. Duilio.",
+      "question": "Quem magistrum equitum L. Papirius Crassus dictator habuit?",
+      "answer": "L. Papirium Cursorem.",
+      "question_en": "Whom did the dictator L. Papirius Crassus have as his master of horse?",
+      "answer_en": "Lucius Papirius Cursor.",
+      "derivation": "The pairing of dictator and magister equitum, the standing Roman constitutional arrangement, here with two Papirii. Named entities; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.21.3",
+      "source_text": "Tres illi fratres fuerunt, C., Cn., M. Carbones: Marcus P. Flacco accusante condemnatus est, fur magnus, ex Sicilia; Gaius accusante L. Crasso cantharidas sumpsisse dicitur: is et tribunus pl. seditiosus et P. Africano vim attulisse existimatus est.",
+      "question": "Quo veneno C. Carbo, a L. Crasso accusatus, se necasse dicitur?",
+      "answer": "Cantharidibus.",
+      "question_en": "By what poison is C. Carbo said to have killed himself when prosecuted by L. Crassus?",
+      "answer_en": "By cantharides (blister-beetles).",
+      "derivation": "The celebrated end of C. Papirius Carbo, who took cantharides when Crassus prosecuted him. Named persons; verbatim; blister-beetle poison is a known item of Roman lore.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.21.3",
+      "source_text": "Gaius accusante L. Crasso cantharidas sumpsisse dicitur: is et tribunus pl. seditiosus et P. Africano vim attulisse existimatus est.",
+      "question": "Cui viro clarissimo vim attulisse C. Carbo existimatus est?",
+      "answer": "P. Africano.",
+      "question_en": "Against which famous man was C. Carbo thought to have laid violent hands?",
+      "answer_en": "Against Publius Africanus (Scipio Aemilianus).",
+      "derivation": "The suspicion that Carbo murdered Scipio Aemilianus, a standing item of late-Republican political memory. Named persons; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.21.3",
+      "source_text": "hoc vero, qui Lilybaei a Pompeio nostro est interfectus, improbior nemo meo iudicio fuit",
+      "question": "In quo Siciliae oppido Cn. Carbo a Pompeio interfectus est?",
+      "answer": "Lilybaei.",
+      "question_en": "In which town of Sicily was Cn. Carbo put to death by Pompey?",
+      "answer_en": "At Lilybaeum.",
+      "derivation": "Pompey's execution of the consular Cn. Papirius Carbo at Lilybaeum in 81 BC, the deed that earned him the name 'adulescentulus carnifex'. Named place and persons; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.22.3",
+      "source_text": "Socraten fidibus docuit nobilissimus fidicen; is \"Connus\" vocitatus est: num id obscenum putas?",
+      "question": "Quis fidicen nobilissimus Socratem fidibus docuisse dicitur?",
+      "answer": "Connus.",
+      "question_en": "Which most distinguished lyre-player is said to have taught Socrates the lyre?",
+      "answer_en": "Connus.",
+      "derivation": "Connus, the music-master of Socrates, a name familiar from Plato and standing in the shared Graeco-Roman anecdote stock. Named entities; verbatim; translates cleanly.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.25.1",
+      "source_text": "Summum me ducem litterae tuae reddiderunt: plane nesciebam te tam peritum esse rei militaris; Pyrrhi te libros et Cineae video lectitasse.",
+      "question": "Quorum duorum virorum libros de re militari Cicero Paetum lectitasse iocatur?",
+      "answer": "Pyrrhi et Cineae.",
+      "question_en": "Whose two books on the art of war does Cicero joke that Paetus has been reading?",
+      "answer_en": "Those of Pyrrhus and Cineas.",
+      "derivation": "The military handbooks of King Pyrrhus and of his minister Cineas, the standard ancient works on tactics. Named authors; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.26.1",
+      "source_text": "Accubueram hora nona, cum ad te harum exemplum in codicillis exaravi. Dices: \"ubi?\" Apud Volumnium Eutrapelum, et quidem supra me Atticus, infra Verrius, familiares tui.",
+      "question": "Qua hora diei Cicero apud Volumnium Eutrapelum ad coenam accubuit?",
+      "answer": "Hora nona.",
+      "question_en": "At what hour of the day did Cicero recline for dinner at the house of Volumnius Eutrapelus?",
+      "answer_en": "At the ninth hour.",
+      "derivation": "The ninth hour as the usual time for a Roman dinner party to begin. Named host, precise hour, verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.26.2",
+      "source_text": "Audi reliqua: infra Eutrapelum Cytheris accubuit.",
+      "question": "Quae mulier famosa in convivio Volumni Eutrapeli, cui Cicero interfuit, infra ipsum hospitem accubuit?",
+      "answer": "Cytheris.",
+      "question_en": "Which notorious woman reclined below the host himself at Volumnius Eutrapelus' dinner, at which Cicero was present?",
+      "answer_en": "Cytheris.",
+      "derivation": "Volumnia Cytheris, the celebrated mime-actress and mistress of Antony, at table with Cicero - one of the best-known scenes of the correspondence. Named person; verbatim; couch-order is Roman dining custom.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 9.26.2",
+      "source_text": "sed tamen ne Aristippus quidem ille Socraticus erubuit, cum esset obiectum habere eum Laida: \"habeo,\" inquit, \"non habeor a Laide\"",
+      "question": "Quid Aristippus Socraticus respondit, cum ei obiceretur Laida habere?",
+      "answer": "Habeo, non habeor.",
+      "question_en": "What did Aristippus the Socratic reply when he was reproached with keeping Lais?",
+      "answer_en": "'I possess her, I am not possessed by her.'",
+      "derivation": "The famous retort of Aristippus of Cyrene about the courtesan Lais, quoted by Cicero as common property. Checkable saying with a named speaker; editorial supplement 'a Laide' unbracketed per the normalization rule.",
+      "category": "proverbium"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.16.1",
+      "source_text": "De Tirone, mi Marce, ita te meumque Ciceronem et tuam Tulliolam tuumque filium videam, ut mihi gratissimum fecisti, quod eum, indignum illa fortuna ac nobis amicum quam servum esse maluisti.",
+      "question": "Quem servum M. Cicero, ut Quintus frater ei gratulatur, amicum potius quam servum esse maluit?",
+      "answer": "Tironem.",
+      "question_en": "Which slave did M. Cicero prefer to have as a friend rather than a slave, as his brother Quintus congratulates him?",
+      "answer_en": "Tiro.",
+      "derivation": "The manumission of Tiro, Cicero's secretary, congratulated by Quintus - the best-known Roman manumission of a household slave. Named entities; verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.17.1",
+      "source_text": "Video, quid agas: tuas quoque epistulas vis referri in volumina.",
+      "question": "Quid Tiro de suis quoque epistulis fieri velle a Cicerone deprehenditur?",
+      "answer": "Ut in volumina referrentur.",
+      "question_en": "What does Cicero catch Tiro wanting to be done with his own letters too?",
+      "answer_en": "That they be collected into volumes.",
+      "derivation": "The Roman practice of gathering correspondence into published rolls - the practice that produced the Ad Familiares itself, with Tiro as its likely editor. Named entities; verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.9.2",
+      "source_text": "sed tamen Asclapo medicus plane confirmat propediem te valentem fore.",
+      "question": "Quis medicus Ciceroni confirmavit Tironem brevi valiturum esse?",
+      "answer": "Asclapo.",
+      "question_en": "Which doctor assured Cicero that Tiro would soon be well?",
+      "answer_en": "Asclapo.",
+      "derivation": "Asclapo of Patrae, the physician who attended Tiro during his long illness. Named doctor and named patient; verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.11.1",
+      "source_text": "sed, quoniam in quartanam conversa vis est morbi - sic enim scribit Curius -, spero te diligentia adhibita iam firmiorem fore.",
+      "question": "In quod febris genus Tironis morbus conversus est, ut Curius ad Ciceronem scripsit?",
+      "answer": "In quartanam.",
+      "question_en": "Into what kind of fever had Tiro's illness turned, as Curius wrote to Cicero?",
+      "answer_en": "Into a quartan fever.",
+      "derivation": "The quartana, the four-day-cycle fever of ancient medicine, thought a milder turn of a serious illness. Named condition; named patient and informant; verbatim.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.9.1",
+      "source_text": "A. d. XV K. in portum Corcyraeorum ad Cassiopen stadia CXX processimus; ibi retenti ventis sumus usque ad a. d. VIIII K. - interea, qui cupide profecti sunt, multi naufragia fecerunt -. Nos eo die coenati solvimus; inde austro lenissimo, caelo sereno nocte illa et die postero in Italiam ad Hydruntem ludibundi pervenimus.",
+      "question": "Ex quo Corcyraeorum portu Cicero in Italiam ad Hydruntem traiecit?",
+      "answer": "A Cassiope.",
+      "question_en": "From which harbour of the Corcyraeans did Cicero cross to Hydruntum in Italy?",
+      "answer_en": "From Cassiope.",
+      "derivation": "The standard crossing from Cassiope on Corcyra to Hydruntum (Otranto), the shortest passage between Greece and Italy. Named ports; verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.11.2",
+      "source_text": "Antonius quidem noster et Q. Cassius nulla vi expulsi ad Caesarem cum Curione profecti erant",
+      "question": "Qui duo tribuni plebis cum Curione ad Caesarem initio belli civilis profecti sunt?",
+      "answer": "M. Antonius et Q. Cassius.",
+      "question_en": "Which two tribunes of the plebs set out with Curio to join Caesar at the beginning of the civil war?",
+      "answer_en": "Mark Antony and Quintus Cassius.",
+      "derivation": "The flight of the tribunes Antony and Q. Cassius to Caesar in January 49 BC, Caesar's stated casus belli. Named persons; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.11.2",
+      "source_text": "posteaquam senatus consulibus, praetoribus, tribunis pl. et nobis, qui pro coss. sumus, negotium dederat, ut curaremus, ne quid res publica detrimenti caperet",
+      "question": "Quibus verbis sollemnibus senatus magistratibus summam rei publicae tuendae mandabat?",
+      "answer": "Ut viderent ne quid res publica detrimenti caperet.",
+      "question_en": "In what solemn words did the senate charge the magistrates with the safety of the state?",
+      "answer_en": "'That they see to it that the state take no harm.'",
+      "derivation": "The wording of the senatus consultum ultimum, the emergency decree of the Roman senate, quoted here as Cicero reports its passage in January 49 BC. Fixed institutional formula; verbatim.",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.11.3",
+      "source_text": "Italiae regiones descriptae sunt, quam quisque partem tueretur: nos Capuam sumpsimus.",
+      "question": "Quam Italiae partem Cicero initio belli civilis tuendam sibi sumpsit?",
+      "answer": "Capuam.",
+      "question_en": "Which part of Italy did Cicero take for himself to defend at the beginning of the civil war?",
+      "answer_en": "Capua.",
+      "derivation": "The division of Italy into defence zones among the Pompeian leaders in 49 BC, with Capua assigned to Cicero. Named place and person; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.12.2",
+      "source_text": "Itaque, quum Caesar amentia quadam raperetur et oblitus nominis atque honorum suorum Ariminum, Pisaurum, Anconam, Arretium occupavisset, urbem reliquimus",
+      "question": "Quae quattuor Italiae oppida Caesarem occupavisse Cicero scribit, priusquam senatus urbem relinqueret?",
+      "answer": "Ariminum, Pisaurum, Anconam, Arretium.",
+      "question_en": "Which four Italian towns does Cicero say Caesar had seized before the senate abandoned Rome?",
+      "answer_en": "Ariminum, Pisaurum, Ancona and Arretium.",
+      "derivation": "Caesar's first seizures on crossing the Rubicon in January 49 BC, listed by Cicero as they were reported at Rome. Named places; verbatim; one coherent answer.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.12.3",
+      "source_text": "ad consulatus petitionem se venturum, neque se iam velle absente se rationem haberi suam; se praesentem trinum nundinum petiturum.",
+      "question": "Quo legitimo temporis spatio Caesar se praesentem consulatum petiturum esse pollicitus est?",
+      "answer": "Trinum nundinum.",
+      "question_en": "For what legally prescribed period did Caesar promise to canvass for the consulship in person?",
+      "answer_en": "For the trinundinum (three market-days).",
+      "derivation": "The trinum nundinum, the interval of three market-days that Roman law required for a candidacy or a bill. Named institution; verbatim; anchored to Caesar's terms of January 49 BC.",
+      "category": "ius"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.12.4",
+      "source_text": "Maximam autem plagam accepit, quod is, qui summam auctoritatem in illius exercitu habebat, T. Labienus, socius sceleris esse noluit: reliquit illum et nobiscum est, multique idem facturi esse dicuntur.",
+      "question": "Quis legatus, qui in Caesaris exercitu summam auctoritatem habebat, initio belli civilis ad Pompeianos transiit?",
+      "answer": "T. Labienus.",
+      "question_en": "Which officer, who held the highest authority in Caesar's army, went over to the Pompeians at the start of the civil war?",
+      "answer_en": "Titus Labienus.",
+      "derivation": "Labienus' desertion of Caesar in 49 BC, the most famous defection of the war. Named person; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.12.4",
+      "source_text": "ex Hispaniaque sex legiones et magna auxilia Afranio et Petreio ducibus habet a tergo",
+      "question": "Qui duo duces sex legionibus in Hispania praeerant, quas Cicero Caesari a tergo esse scribit?",
+      "answer": "Afranius et Petreius.",
+      "question_en": "Which two commanders led the six legions in Spain that Cicero says stood at Caesar's back?",
+      "answer_en": "Afranius and Petreius.",
+      "derivation": "Pompey's Spanish army under L. Afranius and M. Petreius, later defeated at Ilerda. Named commanders, troop number; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.12.4",
+      "source_text": "putabamusque illum metuere, si ad urbem ire coepisset, ne Gallias amitteret, quas ambas habet inimicissimas praeter Transpadanos",
+      "question": "Quos solos Galliae incolas Caesari non inimicos fuisse Cicero scribit?",
+      "answer": "Transpadanos.",
+      "question_en": "Which inhabitants of Gaul alone does Cicero say were not hostile to Caesar?",
+      "answer_en": "The Transpadanes.",
+      "derivation": "The Transpadani, Caesar's clients north of the Po whose enfranchisement he championed - the one friendly element in his provinces. Named people; verbatim.",
+      "category": "geographia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.21.1",
+      "source_text": "Quum vehementer tabellarios exspectarem quotidie, aliquando venerunt post diem quadragesimum et sextum, quam a vobis discesserant",
+      "question": "Post quot dies tabellarii ab Italia missi ad M. Ciceronem filium Athenas pervenerunt?",
+      "answer": "Post diem quadragesimum et sextum.",
+      "question_en": "After how many days did the letter-carriers sent from Italy reach the younger M. Cicero at Athens?",
+      "answer_en": "After the forty-sixth day.",
+      "derivation": "The speed of private correspondence between Italy and Athens - forty-six days for the tabellarii. Number fact; verbatim (editorial brackets round 'et' removed per the normalization rule); anchored to Cicero's son at Athens.",
+      "category": "mores"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.21.3",
+      "source_text": "Cratippo me scito non ut discipulum, sed ut filium esse coniunctissimum; nam quum audio illum libenter, tum etiam propriam eius suavitatem vehementer amplector.",
+      "question": "Cuius philosophi discipulus M. Cicero filius Athenis fuit?",
+      "answer": "Cratippi.",
+      "question_en": "Whose pupil was the younger M. Cicero at Athens?",
+      "answer_en": "Cratippus'.",
+      "derivation": "Cratippus the Peripatetic, under whom Cicero's son studied at Athens and to whom the De Officiis sends him. Named persons; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.21.5",
+      "source_text": "De Gorgia autem quod mihi scribis, erat quidem ille in quotidiana declamatione utilis, sed omnia postposui, dummodo praeceptis patris parerem",
+      "question": "Cuius rhetoris cotidianam declamationem M. Cicero filius Athenis patris iussu deposuit?",
+      "answer": "Gorgiae.",
+      "question_en": "Which rhetor's daily declamation practice did the younger M. Cicero give up at Athens on his father's orders?",
+      "answer_en": "Gorgias'.",
+      "derivation": "The dismissal of the rhetor Gorgias at the elder Cicero's command, a well-attested episode of the son's Athenian studies. Named persons; verbatim.",
+      "category": "historia"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.21.7",
+      "source_text": "videor enim videre ementem te rusticas res, cum villico loquentem, in lacinia servantem ex mensa secunda semina.",
+      "question": "Ex qua coenae parte semina Tiro in lacinia servare fingitur?",
+      "answer": "Ex mensa secunda.",
+      "question_en": "From which part of the dinner is Tiro imagined saving seeds in the fold of his garment?",
+      "answer_en": "From the second course (the dessert).",
+      "derivation": "The mensa secunda, the fruit-and-sweet course that closed a Roman dinner - hence the seeds Tiro the new landowner pockets for planting. Named course; verbatim.",
+      "category": "cibus"
+    },
+    {
+      "locus": "Cicero, Epistulae ad Familiares 16.26.2",
+      "source_text": "sicut olim matrem nostram facere memini, quae lagonas etiam inanes obsignabat, ne dicerentur inanes aliquae fuisse, quae furtim essent exsiccatae",
+      "question": "Quas res etiam inanes matrem Ciceronum obsignare solitam esse Quintus meminit?",
+      "answer": "Lagonas.",
+      "question_en": "What did Quintus remember the Ciceros' mother sealing even when they were empty?",
+      "answer_en": "The wine-flagons.",
+      "derivation": "The household practice of sealing wine-jars so that pilfering by the slaves could be detected - Quintus' mother sealed even the empty ones. Named object; verbatim; a custom of Roman domestic management.",
+      "category": "mores"
+    }
+  ]
+}

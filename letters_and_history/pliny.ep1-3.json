@@ -1,0 +1,1758 @@
+{
+ "source": "text/pliny.ep1.txt; text/pliny.ep2.txt; text/pliny.ep3.txt",
+ "author": "Pliny the Younger",
+ "work": "Epistulae, libri I-III",
+ "provenance": "The Latin Library (www.thelatinlibrary.com)",
+ "pairs": [
+  {
+   "locus": "Pliny the Younger, Epistulae 1.1.1",
+   "source_text": "Frequenter hortatus es, ut epistulas, si quas paulo curatius scripsissem, colligerem publicaremque. Collegi non servato temporis ordine, neque enim historiam componebam, sed ut quaeque in manus venerat.",
+   "question": "Quo ordine Plinius epistulas suas se collegisse in prooemio profitetur?",
+   "answer": "Non servato temporis ordine.",
+   "question_en": "In what order does Pliny declare, in his preface, that he collected his letters?",
+   "answer_en": "Not keeping the order of time.",
+   "derivation": "The programmatic opening of the Epistulae: the collection is deliberately not chronological, because it is not history. Anchored to Pliny + his letter-collection; single verifiable answer stated verbatim (non servato temporis ordine). Closed-book: one of the best-known facts about the published corpus of Pliny's letters.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.2.6",
+   "source_text": "edendum autem ex pluribus causis, maxime quod libelli quos emisimus dicuntur in manibus esse, quamvis iam gratiam novitatis exuerint; nisi tamen auribus nostris bibliopolae blandiuntur.",
+   "question": "Quos Plinius suspicatur auribus suis blandiri, cum libelli eius in manibus hominum esse dicantur?",
+   "answer": "Bibliopolas.",
+   "question_en": "Whom does Pliny suspect of flattering his ears when his books are said to be in people's hands?",
+   "answer_en": "The booksellers.",
+   "derivation": "The Roman book trade: the bibliopolae who report an author's sales. Anchored to Pliny + his published libelli; one-word answer stated verbatim. Closed-book and culturally salient: the bookseller is the standard figure of Roman publication (cf. Martial, Horace).",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.2.2",
+   "source_text": "Temptavi enim imitari Demosthenen semper tuum, Calvum nuper meum, dumtaxat figuris orationis.",
+   "question": "Quos duos oratores Plinius se figuris orationis imitatum esse scribit?",
+   "answer": "Demosthenen et Calvum.",
+   "question_en": "Which two orators does Pliny say he imitated in figures of speech?",
+   "answer_en": "Demosthenes and Calvus.",
+   "derivation": "Pliny's declared models in oratory. Anchored to Pliny + the named orators; both names stated verbatim. Closed-book literary-culture fact: the Greek-and-Roman pairing (Demosthenes with Licinius Calvus) is the standard canon of Atticist models.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.3.1",
+   "source_text": "Quid agit Comum, tuae meaeque deliciae? quid suburbanum amoenissimum, quid illa porticus verna semper, quid platanon opacissimus, quid euripus viridis et gemmeus, quid subiectus et serviens lacus?",
+   "question": "Quod oppidum Plinius et Caninium Rufum communes delicias appellat?",
+   "answer": "Comum.",
+   "question_en": "Which town does Pliny call the shared delight of himself and Caninius Rufus?",
+   "answer_en": "Comum.",
+   "derivation": "Comum, the patria of both Pliny and his friend Caninius Rufus, on the lake. Anchored to the two named men; single place-name answer stated verbatim. Closed-book: Pliny's origin at Comum, and his benefactions there, are ambient knowledge about him.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.5.2",
+   "source_text": "Rustici Aruleni periculum foverat, exsultaverat morte; adeo ut librum recitaret publicaretque, in quo Rusticum insectatur atque etiam 'Stoicorum simiam' appellat, adicit 'Vitelliana cicatrice stigmosum'.",
+   "question": "Quo convicio Regulus Arulenum Rusticum in libro suo appellavit?",
+   "answer": "Stoicorum simiam.",
+   "question_en": "By what insult did Regulus call Arulenus Rusticus in his book?",
+   "answer_en": "The ape of the Stoics.",
+   "derivation": "Regulus' notorious pamphlet against Arulenus Rusticus, executed under Domitian. Anchored to the two named men; the phrase is quoted verbatim. Closed-book: the jibe 'Stoicorum simia' is among the best-remembered slurs of the Domitianic delatores.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.5.14",
+   "source_text": "Subiunxit egregiam causam: 'Scripsit' inquit 'in epistula quadam, quae apud Domitianum recitata est: \"Regulus, omnium bipedum nequissimus\"'; quod quidem Modestus verissime scripserat.",
+   "question": "Quibus verbis Mettius Modestus Regulum in epistula apud Domitianum recitata notavit?",
+   "answer": "Omnium bipedum nequissimum.",
+   "question_en": "With what words did Mettius Modestus brand Regulus in a letter read out before Domitian?",
+   "answer_en": "The wickedest of all two-legged creatures.",
+   "derivation": "Modestus' famous phrase about the informer Regulus. Anchored to Modestus + Regulus + Domitian; quoted verbatim. Closed-book: 'omnium bipedum nequissimus' is a proverbially cited insult from Pliny.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.5.5",
+   "source_text": "Nitebamur nos in parte causae sententia Metti Modesti optimi viri: is tunc in exsilio erat, a Domitiano relegatus.",
+   "question": "A quo principe Mettius Modestus in exsilium relegatus erat?",
+   "answer": "A Domitiano.",
+   "question_en": "By which emperor had Mettius Modestus been relegated into exile?",
+   "answer_en": "By Domitian.",
+   "derivation": "Modestus' exile under Domitian, the background to Regulus' trap-question in court. Anchored to the named man; single named answer stated verbatim. Closed-book: the Domitianic exiles are standard shared history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.5.3",
+   "source_text": "lacerat Herennium Senecionem tam intemperanter quidem, ut dixerit ei Mettius Carus 'Quid tibi cum meis mortuis? Numquid ego Crasso aut Camerino molestus sum?' quos ille sub Nerone accusaverat.",
+   "question": "Quos duos viros Regulus sub Nerone accusaverat, ut Plinius refert?",
+   "answer": "Crassum et Camerinum.",
+   "question_en": "Which two men had Regulus prosecuted under Nero, according to Pliny?",
+   "answer_en": "Crassus and Camerinus.",
+   "derivation": "Regulus' career as a Neronian delator, thrown at him by his rival informer Mettius Carus. Anchored to Regulus + Nero; two named answers stated verbatim. Closed-book: Regulus' victims are part of the standard record of the informers.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.5.9",
+   "source_text": "Evigilaveram; nuntius a Spurinna: 'Venio ad te.' 'Immo ego ad te.' Coimus in porticum Liviae, cum alter ad alterum tenderemus.",
+   "question": "In qua porticu Plinius et Spurinna, dum alter ad alterum tendit, congressi sunt?",
+   "answer": "In porticu Liviae.",
+   "question_en": "In which portico did Pliny and Spurinna meet as each was making for the other?",
+   "answer_en": "In the Portico of Livia.",
+   "derivation": "The porticus Liviae on the Esquiline, one of the standard public promenades of Rome. Anchored to the two named men; single named monument stated verbatim. Closed-book: the portico is a well-known Augustan monument of the city.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.6.1",
+   "source_text": "Ridebis, et licet rideas. Ego, ille quem nosti, apros tres et quidem pulcherrimos cepi.",
+   "question": "Quot apros Plinius Cornelio Tacito se cepisse scribit?",
+   "answer": "Tres.",
+   "question_en": "How many boars does Pliny write to Cornelius Tacitus that he caught?",
+   "answer_en": "Three.",
+   "derivation": "The celebrated hunting letter to Tacitus. Anchored to Pliny + Tacitus; a single number stated verbatim (apros tres). Closed-book: the 'three boars caught beside the nets, with notebook in hand' is among the most quoted scenes in the Epistulae.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.6.1",
+   "source_text": "Ad retia sedebam; erat in proximo non venabulum aut lancea, sed stilus et pugillares; meditabar aliquid enotabamque, ut si manus vacuas, plenas tamen ceras reportarem.",
+   "question": "Quae instrumenta Plinius pro venabulo aut lancea ad retia sedens secum habuit?",
+   "answer": "Stilum et pugillares.",
+   "question_en": "What implements did Pliny have by him at the hunting-nets instead of a boar-spear or lance?",
+   "answer_en": "A stylus and writing-tablets.",
+   "derivation": "The stylus and wax tablets carried to the hunt in place of weapons. Anchored to Pliny + the hunt of 1.6; both objects named verbatim. Closed-book and culturally salient: the pugillares are the everyday Roman writing kit, and this is the letter that made the image famous.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.6.3",
+   "source_text": "Proinde cum venabere, licebit auctore me ut panarium et lagunculam sic etiam pugillares feras: experieris non Dianam magis montibus quam Minervam inerrare.",
+   "question": "Quas duas deas Plinius pariter per montes errare dicit, cum venatori pugillares ferendos suadet?",
+   "answer": "Dianam et Minervam.",
+   "question_en": "Which two goddesses does Pliny say roam the mountains alike, when he urges a hunter to carry writing-tablets?",
+   "answer_en": "Diana and Minerva.",
+   "derivation": "Diana as goddess of the hunt paired with Minerva as goddess of study. Anchored to the named deities and their canonical spheres; both named verbatim. Closed-book: the divine attributions are shared Roman knowledge, and the epigram is a much-quoted line.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.7.6",
+   "source_text": "Paene praeterii, quod minime praetereundum fuit, accepisse me careotas optimas, quae nunc cum ficis et boletis certandum habent.",
+   "question": "Cum quibus duobus cibis careotae Plinio missae certare dicuntur?",
+   "answer": "Cum ficis et boletis.",
+   "question_en": "With which two foods are the dates sent to Pliny said to compete?",
+   "answer_en": "With figs and mushrooms.",
+   "derivation": "Careotae (the choice Syrian date), figs and boleti as the standard gift-foods and delicacies. Anchored to Pliny's letter of thanks; both foods named verbatim. Closed-book food culture: dates, figs and boleti are canonical Roman table items (cf. Martial's Xenia).",
+   "category": "cibus"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.8.2",
+   "source_text": "Petiturus sum enim ut rursus vaces sermoni quem apud municipes meos habui bibliothecam dedicaturus.",
+   "question": "Qua de causa Plinius apud municipes suos illum sermonem habuit?",
+   "answer": "Bibliothecam dedicaturus.",
+   "question_en": "On what occasion did Pliny deliver that speech before his fellow townsmen?",
+   "answer_en": "When he was about to dedicate a library.",
+   "derivation": "Pliny's dedication of a public library at Comum, one of his best-known municipal benefactions. Anchored to Pliny + his municipes; the occasion is stated verbatim. Closed-book: civic euergetism (library, alimenta) is the standard shape of a Roman notable's giving.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.8.10",
+   "source_text": "Accedebat his causis, quod non ludos aut gladiatores sed annuos sumptus in alimenta ingenuorum pollicebamur.",
+   "question": "Quid Plinius municipibus suis pro ludis aut gladiatoribus pollicitus est?",
+   "answer": "Annuos sumptus in alimenta ingenuorum.",
+   "question_en": "What did Pliny promise his townsmen instead of games or gladiators?",
+   "answer_en": "Yearly sums for the support of freeborn children.",
+   "derivation": "Pliny's alimentary foundation at Comum, contrasted with the usual gift of games. Anchored to Pliny + his municipium; the promise is stated verbatim. Closed-book: the alimenta for freeborn children are a famous institution of Trajan's age and of Pliny in particular.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.8.16",
+   "source_text": "Etenim hunc ipsum sermonem non apud populum, sed apud decuriones habui, nec in propatulo sed in curia.",
+   "question": "Apud quos et quo loco Plinius sermonem de munificentia sua habuit?",
+   "answer": "Apud decuriones in curia.",
+   "question_en": "Before whom and in what place did Pliny deliver his speech about his own munificence?",
+   "answer_en": "Before the decurions, in the council-house.",
+   "derivation": "The municipal senate (decuriones) meeting in the curia, as opposed to a public address to the populus. Anchored to Pliny's speech at Comum; both facts stated verbatim. Closed-book institutional fact about Italian town government.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.9.8",
+   "source_text": "Satius est enim, ut Atilius noster eruditissime simul et facetissime dixit, otiosum esse quam nihil agere.",
+   "question": "Quid Atilius, ut Plinius refert, satius esse dixit quam nihil agere?",
+   "answer": "Otiosum esse.",
+   "question_en": "What did Atilius say, as Pliny reports, is better than doing nothing?",
+   "answer_en": "To be at leisure.",
+   "derivation": "The much-quoted epigram on otium versus idleness, attributed by Pliny to his friend Atilius. Anchored to the named speaker and reported by Pliny; the saying is quoted verbatim. Closed-book: the tag 'satius est otiosum esse quam nihil agere' circulates as a Latin proverb.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.10.2",
+   "source_text": "Multa claraque exempla sunt; sufficeret unum, Euphrates philosophus. Hunc ego in Syria, cum adulescentulus militarem, penitus et domi inspexi, amarique ab eo laboravi.",
+   "question": "In qua provincia Plinius adulescens militans Euphraten philosophum cognovit?",
+   "answer": "In Syria.",
+   "question_en": "In which province did Pliny, serving as a young soldier, come to know the philosopher Euphrates?",
+   "answer_en": "In Syria.",
+   "derivation": "Pliny's military tribunate in Syria and his acquaintance there with the Stoic Euphrates. Anchored to Pliny + Euphrates; single place-name stated verbatim. Closed-book: Euphrates is a well-known Stoic of the period (also in Epictetus and Philostratus), and Syria is Pliny's known military posting.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.11.1",
+   "source_text": "At hoc ipsum scribe, nihil esse quod scribas, vel solum illud unde incipere priores solebant: 'Si vales, bene est; ego valeo.'",
+   "question": "Qua formula priores Romani epistulas incipere solebant, ut Plinius refert?",
+   "answer": "'Si vales, bene est; ego valeo.'",
+   "question_en": "With what formula did earlier Romans customarily begin their letters, as Pliny reports?",
+   "answer_en": "'If you are well, that is good; I am well.'",
+   "derivation": "The standard opening formula of the Roman letter (abbreviated S.V.B.E.E.V.). Anchored to Roman epistolary custom as reported by Pliny; quoted verbatim. Closed-book and strongly culturally salient: the formula is the recognized shape of a Latin letter's greeting.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.12.9",
+   "source_text": "Increverat valetudo, quam temperantia mitigare temptavit; perseverantem constantia fugit. Iam dies alter tertius quartus: abstinebat cibo. Misit ad me uxor eius Hispulla communem amicum C. Geminium cum tristissimo nuntio, destinasse Corellium mori nec aut suis aut filiae precibus inflecti.",
+   "question": "Quo genere mortis Corellius Rufus vitam finivit?",
+   "answer": "Inedia, cibo se abstinens.",
+   "question_en": "By what kind of death did Corellius Rufus end his life?",
+   "answer_en": "By starvation, abstaining from food.",
+   "derivation": "The voluntary death by abstinence of the consular Corellius Rufus. Anchored to the named man; the manner is stated verbatim (sponte... abstinebat cibo). Closed-book: death by inedia is the recognized Roman philosophical exit, and Corellius' is one of its famous instances.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.12.4",
+   "source_text": "Tertio et tricensimo anno, ut ipsum audiebam, pedum dolore correptus est. Patrius hic illi; nam plerumque morbi quoque per successiones quasdam ut alia traduntur.",
+   "question": "Quoto anno aetatis Corellium Rufum pedum dolore correptum esse Plinius scribit?",
+   "answer": "Tertio et tricensimo.",
+   "question_en": "In what year of his life does Pliny say Corellius Rufus was seized by gout?",
+   "answer_en": "In his thirty-third.",
+   "derivation": "The onset of Corellius' hereditary gout. Anchored to the named man; a single number stated verbatim. Closed-book: the long martyrdom to gout is the defining fact of Corellius' biography as Pliny transmits it.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.12.11",
+   "source_text": "Implevit quidem annum septimum et sexagensimum, quae aetas etiam robustissimis satis longa est.",
+   "question": "Quotum annum Corellius Rufus impleverat cum decederet?",
+   "answer": "Septimum et sexagensimum.",
+   "question_en": "What year of life had Corellius Rufus completed when he died?",
+   "answer_en": "His sixty-seventh.",
+   "derivation": "Corellius' age at death. Anchored to the named man; a single number stated verbatim. Closed-book biographical fact of the kind Roman readers carried about notable consulars.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.12.6-8",
+   "source_text": "Veni ad eum Domitiani temporibus in suburbano iacentem. Servi e cubiculo recesserunt, habebat hoc moris, quotiens intrasset fidelior amicus; quin etiam uxor quamquam omnis secreti capacissima digrediebatur. Circumtulit oculos et 'Cur' inquit 'me putas hos tantos dolores tam diu sustinere? ut scilicet isti latroni vel uno die supersim.'",
+   "question": "Cui principi, quem latronem appellabat, Corellius Rufus vel uno die superesse cupiebat?",
+   "answer": "Domitiano.",
+   "question_en": "Which emperor, whom he called a bandit, did Corellius Rufus wish to outlive by even a single day?",
+   "answer_en": "Domitian.",
+   "derivation": "Corellius' declared reason for enduring his agony: to survive Domitian. Anchored to Corellius + the emperor named in the same passage (Domitiani temporibus); the 'latro' is identified by the letter's own frame. Closed-book: the anecdote is a standard illustration of senatorial hatred of Domitian.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.13.1",
+   "source_text": "Magnum proventum poetarum annus hic attulit: toto mense Aprili nullus fere dies, quo non recitaret aliquis.",
+   "question": "Quo mense, ut Plinius scribit, nullus fere dies sine alicuius recitatione fuit?",
+   "answer": "Mense Aprili.",
+   "question_en": "In which month, as Pliny writes, was there scarcely a day without someone giving a recitation?",
+   "answer_en": "In April.",
+   "derivation": "The recitation season at Rome. Anchored to Pliny's report + the named month; stated verbatim. Closed-book and culturally salient: the public recitatio is the central institution of Roman literary life, and this is its classic description.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.13.3",
+   "source_text": "At hercule memoria parentum Claudium Caesarem ferunt, cum in Palatio spatiaretur audissetque clamorem, causam requisisse, cumque dictum esset recitare Nonianum, subitum recitanti inopinatumque venisse.",
+   "question": "Quis imperator, clamore in Palatio audito, ad Nonianum recitantem subito venisse fertur?",
+   "answer": "Claudius.",
+   "question_en": "Which emperor is said to have come suddenly upon Nonianus while he was giving a recitation, after hearing a shout on the Palatine?",
+   "answer_en": "Claudius.",
+   "derivation": "The anecdote of Claudius dropping in unannounced on the historian Servilius Nonianus' recitation. Anchored to the emperor + the reciting author; both named verbatim. Closed-book: a standard illustration of the older, more eager audience for recitations.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.14.3",
+   "source_text": "Qui quidem diu quaerendus fuisset, nisi paratus et quasi provisus esset Minicius Acilianus, qui me ut iuvenis iuvenem, est enim minor pauculis annis, familiarissime diligit, reveretur ut senem.",
+   "question": "Quem iuvenem Plinius Iunio Maurico fratris filiae maritum commendavit?",
+   "answer": "Minicium Acilianum.",
+   "question_en": "Which young man did Pliny recommend to Junius Mauricus as a husband for his brother's daughter?",
+   "answer_en": "Minicius Acilianus.",
+   "derivation": "Pliny's marriage-brokering for the daughter of Arulenus Rusticus, at the request of his brother Junius Mauricus. Anchored to the named parties; the candidate is named verbatim. Closed-book: the letter is the classic Roman document of how a match was arranged and what was weighed.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.14.4",
+   "source_text": "Patria est ei Brixia, ex illa nostra Italia quae multum adhuc verecundiae frugalitatis, atque etiam rusticitatis antiquae, retinet ac servat.",
+   "question": "Ex quo municipio oriundus erat Minicius Acilianus, quem Plinius maritum commendavit?",
+   "answer": "Ex Brixia.",
+   "question_en": "From which town did Minicius Acilianus, whom Pliny recommended as a husband, come?",
+   "answer_en": "From Brixia.",
+   "derivation": "Brixia (Brescia) in Transpadane Italy, praised for old-fashioned frugality. Anchored to the named man; single place-name stated verbatim. Closed-book: the moral reputation of Transpadane Italy is a shared Roman commonplace to which Pliny himself belongs.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.14.5",
+   "source_text": "Pater Minicius Macrinus, equestris ordinis princeps, quia nihil altius volvit; allectus enim a Divo Vespasiano inter praetorios honestam quietem huic nostrae, ambitioni dicam an dignitati? constantissime praetulit.",
+   "question": "A quo principe Minicius Macrinus inter praetorios allectus est?",
+   "answer": "A Divo Vespasiano.",
+   "question_en": "By which emperor was Minicius Macrinus enrolled among the ex-praetors?",
+   "answer_en": "By the deified Vespasian.",
+   "derivation": "Adlection inter praetorios, the emperor's promotion of an equestrian into senatorial rank. Anchored to the named man + emperor; stated verbatim. Closed-book institutional fact about how the senate was replenished under the Flavians.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.14.6",
+   "source_text": "Habet aviam maternam Serranam Proculam e municipio Patavio. Nosti loci mores: Serrana tamen Patavinis quoque severitatis exemplum est.",
+   "question": "Cuius municipii severos mores Plinius commemorat, cum Serranam Proculam laudat?",
+   "answer": "Patavii.",
+   "question_en": "Whose town's strict morals does Pliny recall when he praises Serrana Procula?",
+   "answer_en": "Those of Patavium.",
+   "derivation": "The proverbial severity of Patavium (Padua). Anchored to the named woman + town; stated verbatim. Closed-book: Patavine strictness is a Roman commonplace (cf. Martial 11.16, and Livy's 'Patavinitas').",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.15.2",
+   "source_text": "Paratae erant lactucae singulae, cochleae ternae, ova bina, halica cum mulso et nive.",
+   "question": "Cum quibus rebus halicam in cena sua paratam Plinius memorat?",
+   "answer": "Cum mulso et nive.",
+   "question_en": "With what does Pliny record that the spelt-porridge at his dinner was served?",
+   "answer_en": "With honeyed wine and snow.",
+   "derivation": "Halica (emmer groats) served with mulsum and chilled with snow. Anchored to Pliny's described menu; stated verbatim. Closed-book food culture: mulsum as the standard aperitif-wine and snow as the Roman means of chilling are ambient dining knowledge.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.15.2",
+   "source_text": "Audisses comoedos vel lectorem vel lyristen vel, quae mea liberalitas, omnes.",
+   "question": "Quae acroamata Plinius convivae suo audienda paraverat?",
+   "answer": "Comoedos, lectorem, lyristen.",
+   "question_en": "What performers had Pliny provided for his guest to hear at dinner?",
+   "answer_en": "Comic actors, a reader, and a lyre-player.",
+   "derivation": "The three standard forms of Roman dinner entertainment. Anchored to Pliny's invitation-letter; all three named verbatim. Closed-book: comoedi, lector and lyristes are the recognized repertoire of the Roman convivium.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.15.3",
+   "source_text": "At tu apud nescio quem ostrea vulvas echinos Gaditanas maluisti.",
+   "question": "Quas saltatrices Plinius convivam suum apud alium hospitem praetulisse queritur?",
+   "answer": "Gaditanas.",
+   "question_en": "Which dancing-girls does Pliny complain his guest preferred at somebody else's house?",
+   "answer_en": "The girls from Gades.",
+   "derivation": "The Gaditanae, the notorious Spanish dancers of Roman dinner parties. Anchored to Pliny's reproach; named verbatim. Closed-book and culturally salient: the dancers of Gades are a fixed item of Roman luxury dining (cf. Martial, Juvenal).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.16.5",
+   "source_text": "Praeterea facit versus, quales Catullus meus aut Calvus, re vera quales Catullus aut Calvus.",
+   "question": "Quorum duorum poetarum similes versus Pompeium Saturninum facere Plinius dicit?",
+   "answer": "Catulli et Calvi.",
+   "question_en": "Whose verses, of which two poets, does Pliny say Pompeius Saturninus' resemble?",
+   "answer_en": "Those of Catullus and Calvus.",
+   "derivation": "Catullus and Licinius Calvus as the paired canon of Roman light verse. Anchored to the named contemporary poet; both models named verbatim. Closed-book literary-culture fact: the Catullus-Calvus pairing is the standard shorthand for the neoteric manner.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.16.6",
+   "source_text": "Legit mihi nuper epistulas; uxoris esse dicebat. Plautum vel Terentium metro solutum legi credidi.",
+   "question": "Quibus duobus comicis poetis Plinius illas epistulas comparavit, quas Pompeius Saturninus uxoris esse dicebat?",
+   "answer": "Plauto et Terentio.",
+   "question_en": "To which two comic poets did Pliny compare the letters that Pompeius Saturninus said were his wife's?",
+   "answer_en": "To Plautus and Terence.",
+   "derivation": "Plautus and Terence as the canon of pure conversational Latin. Anchored to the named letters and their reader; both poets named verbatim. Closed-book: the two comedians are the standard Roman touchstone for idiomatic speech.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.17.1",
+   "source_text": "Est adhuc curae hominibus fides et officium, sunt qui defunctorum quoque amicos agant. Titinius Capito ab imperatore nostro impetravit, ut sibi liceret statuam L. Silani in foro ponere.",
+   "question": "Cuius viri statuam Titinius Capito in foro ponere a principe impetravit?",
+   "answer": "L. Silani.",
+   "question_en": "Whose statue did Titinius Capito obtain the emperor's leave to set up in the forum?",
+   "answer_en": "That of Lucius Silanus.",
+   "derivation": "The rehabilitation of the Neronian victim L. Silanus by a statue in the Forum, licensed by the emperor. Anchored to the two named men; stated verbatim. Closed-book: honorific statues in the Forum, and the need for imperial permission, are shared civic knowledge.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.17.3",
+   "source_text": "Est omnino Capitoni in usu claros viros colere; mirum est qua religione quo studio imagines Brutorum Cassiorum Catonum domi ubi potest habeat.",
+   "question": "Quorum virorum imagines Titinius Capito domi colebat?",
+   "answer": "Brutorum, Cassiorum, Catonum.",
+   "question_en": "Whose portrait-busts did Titinius Capito keep and revere at home?",
+   "answer_en": "Those of the Bruti, the Cassii, and the Catos.",
+   "derivation": "The domestic cult of the republican heroes among the senatorial opposition. Anchored to the named man; the three families named verbatim. Closed-book and culturally salient: the imagines of Brutus, Cassius and Cato are the recognized emblems of libertas under the principate.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.18.6",
+   "source_text": "Nam iudicium centumvirale differri nullo modo, istuc aegre quidem sed tamen potest.",
+   "question": "Quod iudicium Romae nullo modo differri posse Plinius scribit?",
+   "answer": "Centumvirale.",
+   "question_en": "Which court's hearing does Pliny say can by no means be postponed at Rome?",
+   "answer_en": "That of the centumviral court.",
+   "derivation": "The centumviral court, whose sittings admitted no adjournment. Anchored to the named tribunal; stated verbatim. Closed-book institutional fact: the centumviri are the great civil (inheritance) court and Pliny's own arena.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.19.2",
+   "source_text": "Esse autem tibi centum milium censum, satis indicat quod apud nos decurio es.",
+   "question": "Quantum censum apud Plinii municipes decurionem habere oportebat?",
+   "answer": "Centum milium.",
+   "question_en": "What property qualification did a decurion among Pliny's townsmen have to possess?",
+   "answer_en": "One hundred thousand sesterces.",
+   "derivation": "The municipal census requirement for a town councillor. Anchored to Romatius Firmus + Comum; the figure is stated verbatim. Closed-book institutional fact about the graded property qualifications of Roman society.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.19.2",
+   "source_text": "Igitur ut te non decurione solum verum etiam equite Romano perfruamur, offero tibi ad implendas equestres facultates trecenta milia nummum.",
+   "question": "Quantam pecuniam Plinius Romatio Firmo ad equestres facultates implendas obtulit?",
+   "answer": "Trecenta milia nummum.",
+   "question_en": "How much money did Pliny offer Romatius Firmus to make up the equestrian property qualification?",
+   "answer_en": "Three hundred thousand sesterces.",
+   "derivation": "Pliny's gift topping up a townsman's census from 100,000 to the equestrian 400,000. Anchored to the two named men; the sum is stated verbatim. Closed-book: the equestrian census of 400,000 HS and the patron's topping-up gift are shared Roman social knowledge.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.20.8",
+   "source_text": "Idem pro Cluentio ait se totam causam vetere instituto solum perorasse, et pro C. Cornelio quadriduo egisse.",
+   "question": "Quot diebus Cicero pro C. Cornelio egisse dicitur?",
+   "answer": "Quadriduo.",
+   "question_en": "For how many days is Cicero said to have pleaded on behalf of Gaius Cornelius?",
+   "answer_en": "For four days.",
+   "derivation": "Cicero's four-day defence of C. Cornelius, contrasted with the single-handed peroration pro Cluentio. Anchored to Cicero + the named client; the number is stated verbatim. Closed-book: the length of Cicero's great pleadings is standard rhetorical-historical knowledge.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.20.10",
+   "source_text": "Ideo in optima quaque mille figuras extemporales invenimus, in iis etiam quas tantum editas scimus, ut in Verrem: 'artificem quem? quemnam? recte admones; Polyclitum esse dicebant.'",
+   "question": "Cuius artificis nomen Cicero in Verrem quasi ab alio admonitus profert?",
+   "answer": "Polycliti.",
+   "question_en": "Which artist's name does Cicero produce in the Verrines as though prompted by someone?",
+   "answer_en": "That of Polyclitus.",
+   "derivation": "The famous extemporary figure in the Verrines. Anchored to Cicero's speech; the sculptor is named verbatim. Closed-book: Polyclitus is a canonical Greek sculptor and this is a much-cited rhetorical example.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.20.17",
+   "source_text": "Nec me praeterit summum oratorem Periclen sic a comico Eupolide laudari.",
+   "question": "Qui comicus poeta Periclem oratorem laudavisse apud Plinium refertur?",
+   "answer": "Eupolis.",
+   "question_en": "Which comic poet is reported by Pliny to have praised Pericles as an orator?",
+   "answer_en": "Eupolis.",
+   "derivation": "Eupolis' celebrated lines on Pericles' persuasive sting. Anchored to Pericles + the named comic poet; stated verbatim. Closed-book: Eupolis on Pericles is a standard citation in ancient rhetorical criticism.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.22.1-2",
+   "source_text": "Perturbat me longa et pertinax valetudo Titi Aristonis, quem singulariter et miror et diligo. Nihil est enim illo gravius sanctius doctius, ut mihi non unus homo sed litterae ipsae omnesque bonae artes in uno homine summum periculum adire videantur. Quam peritus ille et privati iuris et publici!",
+   "question": "Quem virum Plinius et privati iuris et publici peritissimum praedicat?",
+   "answer": "Titum Aristonem.",
+   "question_en": "Which man does Pliny proclaim most learned in both private and public law?",
+   "answer_en": "Titus Aristo.",
+   "derivation": "Titus Aristo, the jurist of Trajan's age cited in the Digest. Anchored to Pliny + the description of his legal learning; the name is stated verbatim. Closed-book: Aristo is one of the named jurists of the classical age of Roman law.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.23.1-2",
+   "source_text": "Plurimum refert, quid esse tribunatum putes, inanem umbram et sine honore nomen an potestatem sacrosanctam, et quam in ordinem cogi ut a nullo ita ne a se quidem deceat. Ipse cum tribunus essem, erraverim fortasse qui me esse aliquid putavi, sed tamquam essem abstinui causis agendis.",
+   "question": "Quo magistratu fungens Plinius causis agendis abstinuit?",
+   "answer": "Tribunatu.",
+   "question_en": "While holding which magistracy did Pliny abstain from pleading cases?",
+   "answer_en": "The tribunate.",
+   "derivation": "The sacrosanct tribunate and the incompatibility Pliny felt between it and standing as an advocate. Anchored to Pliny + the named office; stated verbatim. Closed-book: the tribune's sacrosanctitas and precedence are shared knowledge of Roman public law.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 1.24.1",
+   "source_text": "Tranquillus contubernalis meus vult emere agellum, quem venditare amicus tuus dicitur.",
+   "question": "Cui contubernali suo Plinius agellum empturo apud Baebium Hispanum favit?",
+   "answer": "Suetonio Tranquillo.",
+   "question_en": "Which of his companions did Pliny support with Baebius Hispanus when he wished to buy a small estate?",
+   "answer_en": "Suetonius Tranquillus.",
+   "derivation": "Pliny's patronage of the biographer Suetonius, here in a property purchase. Anchored to Pliny + Baebius Hispanus; Suetonius is named verbatim. Closed-book: Suetonius' place in Pliny's circle is a well-known fact of Latin literary history.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.1.1",
+   "source_text": "Post aliquot annos insigne atque etiam memorabile populi Romani oculis spectaculum exhibuit publicum funus Vergini Rufi, maximi et clarissimi civis, perinde felicis.",
+   "question": "Quod genus funeris Verginio Rufo populus Romanus exhibuit?",
+   "answer": "Publicum.",
+   "question_en": "What kind of funeral did the Roman people give Verginius Rufus?",
+   "answer_en": "A public funeral.",
+   "derivation": "The funus publicum decreed for Verginius Rufus. Anchored to the named man; stated verbatim. Closed-book: the state funeral is a recognized Roman honour, and Verginius' is its famous late instance.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.1.6",
+   "source_text": "Huius viri exsequiae magnum ornamentum principi magnum saeculo magnum etiam foro et rostris attulerunt. Laudatus est a consule Cornelio Tacito; nam hic supremus felicitati eius cumulus accessit, laudator eloquentissimus.",
+   "question": "Quis consul Verginium Rufum in funere publico laudavit?",
+   "answer": "Cornelius Tacitus.",
+   "question_en": "Which consul delivered the funeral eulogy of Verginius Rufus?",
+   "answer_en": "Cornelius Tacitus.",
+   "derivation": "Tacitus as consul pronouncing the laudatio funebris over Verginius Rufus in AD 97. Anchored to both named men; stated verbatim. Closed-book: this is the best-attested public act of the historian Tacitus' career.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.1.2",
+   "source_text": "Triginta annis gloriae suae supervixit; legit scripta de se carmina, legit historias et posteritati suae interfuit. Perfunctus est tertio consulatu, ut summum fastigium privati hominis impleret, cum principis noluisset.",
+   "question": "Quotiens Verginius Rufus consulatum gessit?",
+   "answer": "Ter.",
+   "question_en": "How many times did Verginius Rufus hold the consulship?",
+   "answer_en": "Three times.",
+   "derivation": "Verginius' third consulship as the summit open to a private citizen, after refusing the principate. Anchored to the named man; stated verbatim (tertio consulatu). Closed-book: Verginius' refusal of empire and his three consulships are standard imperial history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.1.4",
+   "source_text": "Annum tertium et octogensimum excessit in altissima tranquillitate, pari veneratione. Usus est firma valetudine, nisi quod solebant ei manus tremere, citra dolorem tamen.",
+   "question": "Quem annum aetatis Verginius Rufus excessit?",
+   "answer": "Tertium et octogensimum.",
+   "question_en": "What year of his life had Verginius Rufus passed?",
+   "answer_en": "His eighty-third.",
+   "derivation": "Verginius' great age at death. Anchored to the named man; the number is stated verbatim. Closed-book biographical fact about one of the most celebrated consulars of the age.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.1.5",
+   "source_text": "Nam cum vocem praepararet acturus in consulatu principi gratias, liber quem forte acceperat grandiorem, et seni et stanti ipso pondere elapsus est. Hunc dum sequitur colligitque, per leve et lubricum pavimentum fallente vestigio cecidit coxamque fregit.",
+   "question": "Quod membrum Verginius Rufus fregit, cum librum elapsum colligere conaretur?",
+   "answer": "Coxam.",
+   "question_en": "What did Verginius Rufus break when he tried to pick up the book that had slipped from his hands?",
+   "answer_en": "His hip.",
+   "derivation": "The accident that led to Verginius' death while he was rehearsing his consular speech of thanks. Anchored to the named man; stated verbatim. Closed-book: the manner of his final injury is the memorable detail of the story, and the speech of thanks (gratiarum actio) is itself a fixed consular duty.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.1.9",
+   "source_text": "Quin etiam in hac novissima valetudine, veritus ne forte inter quinqueviros crearetur, qui minuendis publicis sumptibus iudicio senatus constituebantur, cum illi tot amici senes consularesque superessent, me huius aetatis per quem excusaretur elegit.",
+   "question": "Ad quam rem quinqueviri iudicio senatus constituebantur, inter quos Verginius Rufus creari verebatur?",
+   "answer": "Ad minuendos publicos sumptus.",
+   "question_en": "For what purpose were the boards of five appointed by the senate's decision, among whom Verginius Rufus feared to be chosen?",
+   "answer_en": "For reducing public expenditure.",
+   "derivation": "The senatorial commission of five for cutting public expenditure under Nerva. Anchored to Verginius + the senate; the commission's purpose is stated verbatim. Closed-book institutional fact about the fiscal reform of the late 90s.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.1.8",
+   "source_text": "primum quod utrique eadem regio, municipia finitima, agri etiam possessionesque coniunctae, praeterea quod ille mihi tutor relictus affectum parentis exhibuit.",
+   "question": "Quo munere Verginius Rufus in Plinium pupillum functus est?",
+   "answer": "Tutoris.",
+   "question_en": "In what capacity did Verginius Rufus act toward the young Pliny?",
+   "answer_en": "As his guardian.",
+   "derivation": "Verginius Rufus appointed Pliny's tutor. Anchored to both named men; stated verbatim (tutor relictus). Closed-book: tutela of a fatherless minor is a central Roman institution, and this guardianship is a standard fact of Pliny's biography.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.3.1",
+   "source_text": "Magna Isaeum fama praecesserat, maior inventus est. Summa est facultas copia ubertas; dicit semper ex tempore, sed tamquam diu scripserit. Sermo Graecus, immo Atticus.",
+   "question": "Qua lingua Isaeus rhetor, quem Plinius laudat, declamabat?",
+   "answer": "Graeca, et quidem Attica.",
+   "question_en": "In what language did the rhetorician Isaeus, whom Pliny praises, declaim?",
+   "answer_en": "In Greek, and indeed Attic Greek.",
+   "derivation": "Isaeus, the Greek declaimer who drew Roman audiences, speaking pure Attic and always extempore. Anchored to the named man; stated verbatim. Closed-book: the visiting Greek sophist is a fixture of Roman intellectual life under the empire.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.3.8",
+   "source_text": "Numquamne legisti, Gaditanum quendam Titi Livi nomine gloriaque commotum ad visendum eum ab ultimo terrarum orbe venisse, statimque ut viderat abisse?",
+   "question": "Cuius scriptoris fama commotus Gaditanus quidam ab ultimo terrarum orbe Romam venisse dicitur?",
+   "answer": "Titi Livi.",
+   "question_en": "Moved by the fame of which writer is a man of Gades said to have come to Rome from the ends of the earth?",
+   "answer_en": "Of Livy.",
+   "derivation": "The famous anecdote of the Spaniard who travelled from Gades merely to look at Livy. Anchored to Livy + the man of Gades; stated verbatim. Closed-book: the story is a standard illustration of Livy's fame in his own lifetime.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.3.10",
+   "source_text": "nisi vero falsum putamus illud Aeschinis, qui cum legisset Rhodiis orationem Demosthenis admirantibus cunctis, adiecisse fertur: 'ti de, ei autou tou thêriou êkousate;'",
+   "question": "Cuius oratoris orationem Aeschines exsul Rhodiis recitasse fertur?",
+   "answer": "Demosthenis.",
+   "question_en": "Whose speech is Aeschines said to have read out to the Rhodians in exile?",
+   "answer_en": "That of Demosthenes.",
+   "derivation": "Aeschines in exile at Rhodes reading Demosthenes' speech and asking what if they had heard the beast himself. Anchored to the two named orators + Rhodes; stated verbatim. Closed-book: the anecdote is a canonical illustration of delivery (actio) in ancient rhetoric.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.4.2",
+   "source_text": "cumque vivente eo nubenti tibi in dotem centum milia contulerim, praeter eam summam quam pater tuus quasi de meo dixit, erat enim solvenda de meo, magnum habes facilitatis meae pignus, cuius fiducia debes famam defuncti pudoremque suscipere.",
+   "question": "Quantam pecuniam Plinius Calvinae nubenti in dotem contulit?",
+   "answer": "Centum milia.",
+   "question_en": "How much money did Pliny contribute as dowry for Calvina when she married?",
+   "answer_en": "One hundred thousand sesterces.",
+   "derivation": "Pliny's dowry gift to his kinswoman Calvina, alongside his remission of her father's debt. Anchored to Pliny + Calvina; the sum is stated verbatim. Closed-book: the dos, provided by kin for a bride, is a central Roman institution.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.6.2",
+   "source_text": "Nam sibi et paucis opima quaedam, ceteris vilia et minuta ponebat. Vinum etiam parvolis lagunculis in tria genera discripserat, non ut potestas eligendi, sed ne ius esset recusandi, aliud sibi et nobis, aliud minoribus amicis, nam gradatim amicos habet, aliud suis nostrisque libertis.",
+   "question": "In quot genera ille hospes, apud quem Plinius cenavit, vinum convivis discripserat?",
+   "answer": "In tria genera.",
+   "question_en": "Into how many grades had the host at whose house Pliny dined divided the wine for his guests?",
+   "answer_en": "Into three grades.",
+   "derivation": "The graded dinner: different wine for the host and chief guests, for lesser friends, and for freedmen. Anchored to the described dinner-party; the number is stated verbatim. Closed-book and culturally salient: the ranked convivium is a standing Roman social scandal (cf. Martial, Juvenal).",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.7.1-2",
+   "source_text": "Here a senatu Vesticio Spurinnae principe auctore triumphalis statua decreta est, non ita ut multis, qui numquam in acie steterunt, numquam castra viderunt, numquam denique tubarum sonum nisi in spectaculis audierunt, verum ut illis, qui decus istud sudore et sanguine et factis assequebantur. Nam Spurinna Bructerum regem vi et armis induxit in regnum, ostentatoque bello ferocissimam gentem, quod est pulcherrimum victoriae genus, terrore perdomuit.",
+   "question": "Cui genti Vestricius Spurinna regem vi et armis restituit?",
+   "answer": "Bructeris.",
+   "question_en": "To which people did Vestricius Spurinna restore a king by force of arms?",
+   "answer_en": "To the Bructeri.",
+   "derivation": "Spurinna's German campaign, for which the senate voted him a triumphal statue. Anchored to the named man + the named people; stated verbatim. Closed-book: the Bructeri are one of the standard German nations of Roman ethnography.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.7.1-2",
+   "source_text": "Here a senatu Vesticio Spurinnae principe auctore triumphalis statua decreta est, non ita ut multis, qui numquam in acie steterunt, numquam castra viderunt, numquam denique tubarum sonum nisi in spectaculis audierunt, verum ut illis, qui decus istud sudore et sanguine et factis assequebantur. Nam Spurinna Bructerum regem vi et armis induxit in regnum, ostentatoque bello ferocissimam gentem, quod est pulcherrimum victoriae genus, terrore perdomuit.",
+   "question": "Quod praemium senatus, principe auctore, Vestricio Spurinnae decrevit?",
+   "answer": "Statuam triumphalem.",
+   "question_en": "What reward did the senate, on the emperor's motion, decree to Vestricius Spurinna?",
+   "answer_en": "A triumphal statue.",
+   "derivation": "The ornamenta triumphalia in statue form, the standard substitute for a triumph under the principate. Anchored to Spurinna + the senate; stated verbatim. Closed-book institutional fact: since Augustus only the emperor triumphed, and generals received triumphal honours instead.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.7.3",
+   "source_text": "Et hoc quidem virtutis praemium, illud solacium doloris accepit, quod filio eius Cottio, quem amisit absens, habitus est honor statuae. Rarum id in iuvene.",
+   "question": "Cui Vestricii Spurinnae filio defuncto honor statuae publice habitus est?",
+   "answer": "Cottio.",
+   "question_en": "Which dead son of Vestricius Spurinna was honoured with a public statue?",
+   "answer_en": "Cottius.",
+   "derivation": "The rare public statue for a young man who had held no office, granted to Spurinna's son Cottius. Anchored to father and son by name; stated verbatim. Closed-book: public honorific statuary and its normal restriction to men of achievement is shared civic knowledge.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.8.1",
+   "source_text": "Studes an piscaris an venaris an simul omnia? Possunt enim omnia simul fieri ad Larium nostrum. Nam lacus piscem, feras silvae quibus lacus cingitur, studia altissimus iste secessus affatim suggerunt.",
+   "question": "Ad quem lacum, ut Plinius scribit, studia, piscatus, venatio simul exerceri possunt?",
+   "answer": "Ad Larium.",
+   "question_en": "Beside which lake, as Pliny writes, can study, fishing and hunting all be pursued at once?",
+   "answer_en": "Beside Lake Larius.",
+   "derivation": "Lacus Larius (Como), Pliny's home lake. Anchored to Pliny + the named lake; stated verbatim. Closed-book geography: the Larius is the lake of Comum and a recurring setting in the Epistulae.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.9.2",
+   "source_text": "Ego Sexto latum clavum a Caesare nostro, ego quaesturam impetravi; meo suffragio pervenit ad ius tribunatus petendi.",
+   "question": "Quae duo Plinius Sexto Erucio a principe impetravit?",
+   "answer": "Latum clavum et quaesturam.",
+   "question_en": "Which two things did Pliny obtain from the emperor for Sextus Erucius?",
+   "answer_en": "The broad stripe and the quaestorship.",
+   "derivation": "The latus clavus (admission to senatorial rank) and the quaestorship as the first steps of the cursus honorum, secured through a patron. Anchored to Pliny + Sextus Erucius; both stated verbatim. Closed-book institutional fact about senatorial careers.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.2",
+   "source_text": "Marius Priscus accusantibus Afris quibus pro consule praefuit, omissa defensione iudices petiit. Ego et Cornelius Tacitus, adesse provincialibus iussi, existimavimus fidei nostrae convenire notum senatui facere excessisse Priscum immanitate et saevitia crimina quibus dari iudices possent.",
+   "question": "Qui duo advocati senatus iussu Afris contra Marium Priscum adfuerunt?",
+   "answer": "Plinius et Cornelius Tacitus.",
+   "question_en": "Which two advocates were ordered by the senate to act for the Africans against Marius Priscus?",
+   "answer_en": "Pliny and Cornelius Tacitus.",
+   "derivation": "The great repetundae trial of Marius Priscus, proconsul of Africa, prosecuted by Pliny and Tacitus. Anchored to the named defendant and province; both advocates named verbatim. Closed-book: this is the most famous senatorial trial of Trajan's reign.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.14",
+   "source_text": "Dixi horis paene quinque; nam duodecim clepsydris, quas spatiosissimas acceperam, sunt additae quattuor.",
+   "question": "Quot clepsydris Plinius in causa Mari Prisci apud senatum usus est?",
+   "answer": "Sedecim, duodecim additis quattuor.",
+   "question_en": "How many water-clocks did Pliny use in his speech against Marius Priscus before the senate?",
+   "answer_en": "Sixteen: twelve, with four added.",
+   "derivation": "The clepsydra as the measure of speaking time in Roman courts and senate. Anchored to Pliny + the Priscus trial; the numbers are stated verbatim. Closed-book and culturally salient: allotting an advocate so many clepsydrae is the standard Roman procedure.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.14",
+   "source_text": "Utcumque tamen animum cogitationemque collegi, coepi dicere non minore audientium assensu quam sollicitudine mea. Dixi horis paene quinque.",
+   "question": "Quam diu Plinius in causa Mari Prisci dixisse se scribit?",
+   "answer": "Horis paene quinque.",
+   "question_en": "For how long does Pliny write that he spoke in the case of Marius Priscus?",
+   "answer_en": "For nearly five hours.",
+   "derivation": "The length of Pliny's speech in the Priscus trial. Anchored to Pliny + the named case; stated verbatim. Closed-book: the marathon senatorial pleading is a memorable fact of Roman forensic practice.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.10",
+   "source_text": "Dilata res est in proximum senatum, cuius ipse conspectus augustissimus fuit. Princeps praesidebat, erat enim consul, ad hoc Ianuarius mensis cum cetera tum praecipue senatorum frequentia celeberrimus.",
+   "question": "Quo mense causa Mari Prisci in senatu praesidente principe acta est?",
+   "answer": "Ianuario.",
+   "question_en": "In which month was the case of Marius Priscus heard in the senate with the emperor presiding?",
+   "answer_en": "In January.",
+   "derivation": "The trial held in January, when the senate is fullest, with the emperor presiding as consul. Anchored to the named trial; the month is stated verbatim. Closed-book: January as the month of maximum senatorial attendance is a fact of Roman public life.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.10",
+   "source_text": "Princeps praesidebat, erat enim consul, ad hoc Ianuarius mensis cum cetera tum praecipue senatorum frequentia celeberrimus.",
+   "question": "Quo munere fungens princeps senatui in causa Mari Prisci praesedit?",
+   "answer": "Consulis.",
+   "question_en": "In what office was the emperor presiding over the senate in the trial of Marius Priscus?",
+   "answer_en": "As consul.",
+   "derivation": "The emperor presiding over the senate because he was that year's consul. Anchored to the named trial; stated verbatim. Closed-book constitutional fact: the princeps presides in the senate by virtue of the consulship, not by mere primacy.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.8",
+   "source_text": "Venerunt qui adesse erant iussi, Vitellius Honoratus et Flavius Marcianus; ex quibus Honoratus trecentis milibus exsilium equitis Romani septemque amicorum eius ultimam poenam, Marcianus unius equitis Romani septingentis milibus plura supplicia arguebatur emisse.",
+   "question": "Quanti Vitellius Honoratus exsilium equitis Romani septemque amicorum eius supplicium emisse arguebatur?",
+   "answer": "Trecentis milibus.",
+   "question_en": "For how much was Vitellius Honoratus charged with having bought a Roman knight's exile and the execution of seven of his friends?",
+   "answer_en": "For three hundred thousand sesterces.",
+   "derivation": "The purchase of condemnations from the proconsul Priscus. Anchored to the named man and the named crime; the sum is stated verbatim. Closed-book: the sale of justice by provincial governors is the core of the repetundae law.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.19",
+   "source_text": "Cornutus Tertullus consul designatus, vir egregius et pro veritate firmissimus, censuit septingenta milia quae acceperat Marius aerario inferenda, Mario urbe Italiaque interdicendum, Marciano hoc amplius Africa.",
+   "question": "Quantam pecuniam Marius Priscus ex senatus consulto aerario inferre iussus est?",
+   "answer": "Septingenta milia.",
+   "question_en": "How much money was Marius Priscus ordered by the senate's decree to pay into the treasury?",
+   "answer_en": "Seven hundred thousand sesterces.",
+   "derivation": "The sentence in the Priscus trial. Anchored to the named defendant; the sum is stated verbatim. Closed-book: repayment into the aerarium plus banishment is the classic penalty in a repetundae case.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.19",
+   "source_text": "censuit septingenta milia quae acceperat Marius aerario inferenda, Mario urbe Italiaque interdicendum, Marciano hoc amplius Africa.",
+   "question": "Qua poena praeter pecuniam Marius Priscus multatus est?",
+   "answer": "Urbe Italiaque ei interdictum est.",
+   "question_en": "With what penalty besides the money was Marius Priscus punished?",
+   "answer_en": "He was banned from Rome and Italy.",
+   "derivation": "Interdiction from Rome and Italy, the standard senatorial banishment. Anchored to the named defendant; stated verbatim. Closed-book penal-law fact of the principate.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.12",
+   "source_text": "Obversabatur praeter illa quae supra dixi causae difficultas: stabat modo consularis, modo septemvir epulonum, iam neutrum.",
+   "question": "Quo sacerdotio Marius Priscus ante damnationem functus erat?",
+   "answer": "Septemviratu epulonum.",
+   "question_en": "Which priesthood had Marius Priscus held before his condemnation?",
+   "answer_en": "The septemvirate of the epulones.",
+   "derivation": "The septemviri epulonum, one of the four great priestly colleges of Rome, forfeited on condemnation. Anchored to the named defendant; stated verbatim. Closed-book: the epulones are a standard item of Roman sacral institutions.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.18",
+   "source_text": "Huius actionem vespera inclusit, non tamen sic ut abrumperet. Itaque in tertium diem probationes exierunt. Iam hoc ipsum pulchrum et antiquum, senatum nocte dirimi, triduo vocari, triduo contineri.",
+   "question": "Per quot dies senatus in causa Mari Prisci continuatus est?",
+   "answer": "Per triduum.",
+   "question_en": "For how many days did the senate sit continuously on the case of Marius Priscus?",
+   "answer_en": "For three days.",
+   "derivation": "The three-day senatorial hearing, broken off each night at dusk. Anchored to the named trial; stated verbatim. Closed-book procedural fact: the senate could not sit after nightfall, so a great case ran over successive days.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.11.23",
+   "source_text": "stipulatusque de Marciano quinquaginta milia denariorum probabatur, ipse praeterea accepisse sestertia decem milia foedissimo quidem titulo, nomine unguentarii.",
+   "question": "Quo foedissimo titulo Hostilius Firminus decem milia sestertium accepisse probabatur?",
+   "answer": "Nomine unguentarii.",
+   "question_en": "Under what shameful heading was Hostilius Firminus shown to have taken ten thousand sesterces?",
+   "answer_en": "Under the head of 'perfume'.",
+   "derivation": "The bribe entered in the accounts as an item for unguents. Anchored to the named legate; stated verbatim. Closed-book: the detail is the memorable sting of the Priscus affair, and the account-book entry (titulus) is a real feature of Roman documentary practice.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.12.2",
+   "source_text": "Firminus inductus in senatum respondit crimini noto. Secutae sunt diversae sententiae consulum designatorum. Cornutus Tertullus censuit ordine movendum, Acutius Nerva in sortitione provinciae rationem eius non habendam. Quae sententia tamquam mitior vicit.",
+   "question": "Quam poenam senatus in Hostilium Firminum tandem statuit?",
+   "answer": "Ut in sortitione provinciae ratio eius non haberetur.",
+   "question_en": "What penalty did the senate finally impose on Hostilius Firminus?",
+   "answer_en": "That he should be passed over in the allotment of provinces.",
+   "derivation": "The milder sentence: not expulsion from the senate, but exclusion from the sortitio provinciarum. Anchored to the named man; stated verbatim. Closed-book institutional fact: senatorial provinces were assigned by lot among ex-magistrates.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.12.5",
+   "source_text": "Sed hoc pluribus visum est. Numerantur enim sententiae, non ponderantur; nec aliud in publico consilio potest fieri, in quo nihil est tam inaequale quam aequalitas ipsa.",
+   "question": "Cuius auctoris est illud de senatus suffragiis dictum, 'numerantur sententiae, non ponderantur'?",
+   "answer": "Plinii Caecilii Secundi.",
+   "question_en": "Which author wrote the saying about senatorial votes, 'votes are counted, not weighed'?",
+   "answer_en": "Pliny the Younger.",
+   "derivation": "The much-quoted maxim on voting in a deliberative body. Anchored to its author and its subject (the senate's division); quoted verbatim. Closed-book: 'numerantur sententiae, non ponderantur' circulates as a Latin tag.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.13.4",
+   "source_text": "Is erit Voconius Romanus. Pater ei in equestri gradu clarus, clarior vitricu, immo pater alius, nam huic quoque nomini pietate successit, mater e primi. Ipse citerioris Hispaniae, scis quod iudicium provinciae illius, quanta sit gravitas, flamen proxime fuit.",
+   "question": "Cuius provinciae flamen fuit Voconius Romanus?",
+   "answer": "Hispaniae citerioris.",
+   "question_en": "Of which province was Voconius Romanus flamen?",
+   "answer_en": "Of Hither Spain.",
+   "derivation": "The provincial flaminate, the priesthood of the imperial cult held by the leading man of a province's assembly. Anchored to the named man; stated verbatim. Closed-book institutional fact of provincial religion and honour.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.13.8",
+   "source_text": "Equidem iuvenis statim iuveni, quantum potui per aetatem, avidissime contuli, et nuper ab optimo principe trium liberorum ius impetravi; quod quamquam parce et cum delectu daret, mihi tamen tamquam eligeret indulsit.",
+   "question": "Quod ius Plinius Voconio Romano ab optimo principe impetravit?",
+   "answer": "Ius trium liberorum.",
+   "question_en": "What right did Pliny obtain from the emperor for Voconius Romanus?",
+   "answer_en": "The right of three children.",
+   "derivation": "The ius trium liberorum, the privilege of the Augustan marriage legislation, granted by imperial favour to the childless. Anchored to Pliny + Voconius Romanus; stated verbatim. Closed-book: it is one of the best-known privileges of Roman law and society.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.14.5",
+   "source_text": "Inde iam non inurbane 'Sophokleis' vocantur 'apo tou sophôs kai kaleisthai', isdem Latinum nomen impositum est Laudiceni.",
+   "question": "Quo nomine Latino conducti laudatores in basilica appellabantur?",
+   "answer": "Laudiceni.",
+   "question_en": "By what Latin name were the hired applauders in the basilica called?",
+   "answer_en": "Laudiceni ('dinner-clappers').",
+   "derivation": "The nickname for those who applauded advocates for a dinner or a fee. Anchored to the centumviral court; the term is stated verbatim. Closed-book and culturally salient: the claque of the Roman courts is a recognized social phenomenon.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.14.6",
+   "source_text": "Here duo nomenclatores mei, habent sane aetatem eorum qui nuper togas sumpserint, ternis denariis ad laudandum trahebantur.",
+   "question": "Quanto pretio nomenclatores Plinii ad laudandum in basilica trahebantur?",
+   "answer": "Ternis denariis.",
+   "question_en": "For what price were Pliny's nomenclators being drawn in to applaud in the basilica?",
+   "answer_en": "For three denarii apiece.",
+   "derivation": "The going rate paid to a hired applauder. Anchored to Pliny's own household slaves and the basilica; the price is stated verbatim. Closed-book: prices and the practice of paid applause are exactly the ambient economic detail of Roman city life.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.14.6",
+   "source_text": "Here duo nomenclatores mei, habent sane aetatem eorum qui nuper togas sumpserint, ternis denariis ad laudandum trahebantur. Tanti constat ut sis disertissimus. Hoc pretio quamlibet numerosa subsellia implentur, hoc ingens corona colligitur, hoc infiniti clamores commoventur, cum mesochorus dedit signum.",
+   "question": "Quo dato signo corona conducta in basilica clamores tollebat?",
+   "answer": "Signo mesochori.",
+   "question_en": "At whose signal did the hired ring of listeners raise its shouts in the basilica?",
+   "answer_en": "At the signal of the mesochorus (the chorus-leader).",
+   "derivation": "The claque directed by a mesochorus, as in the theatre. Anchored to the centumviral court; stated verbatim. Closed-book: organized applause with a leader is a well-known institution of Roman public performance.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.14.4",
+   "source_text": "Sequuntur auditores actoribus similes, conducti et redempti. Manceps convenitur; in media basilica tam palam sportulae quam in triclinio dantur; ex iudicio in iudicium pari mercede transitur.",
+   "question": "Quid conductis auditoribus in media basilica tam palam quam in triclinio dabatur?",
+   "answer": "Sportulae.",
+   "question_en": "What was handed out to the hired listeners in the middle of the basilica as openly as at a dinner-table?",
+   "answer_en": "Sportulae (dole-baskets).",
+   "derivation": "The sportula, the client's dole, paid here to hired applauders. Anchored to the basilica scene; stated verbatim. Closed-book and highly salient: the sportula is the emblematic transaction of Roman patronage.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.14.9",
+   "source_text": "Primus hunc audiendi morem induxit Larcius Licinus, hactenus tamen ut auditores corrogaret. Ita certe ex Quintiliano praeceptore meo audisse me memini.",
+   "question": "Quis primus morem conducendi auditores in iudicia induxisse dicitur?",
+   "answer": "Larcius Licinus.",
+   "question_en": "Who is said to have first introduced the practice of rounding up listeners for the courts?",
+   "answer_en": "Larcius Licinus.",
+   "derivation": "The origin of the paid audience, reported to Pliny by Quintilian. Anchored to the named innovator; stated verbatim. Closed-book: the beginnings of the courtroom claque are a shared piece of rhetorical-historical lore.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.14.9",
+   "source_text": "Ita certe ex Quintiliano praeceptore meo audisse me memini.",
+   "question": "Quem rhetorem praeceptorem suum Plinius nominat?",
+   "answer": "Quintilianum.",
+   "question_en": "Which rhetorician does Pliny name as his own teacher?",
+   "answer_en": "Quintilian.",
+   "derivation": "Pliny's schooling under Quintilian. Anchored to Pliny; stated verbatim (Quintiliano praeceptore meo). Closed-book: that the author of the Institutio taught Pliny is a standard fact of Latin literary history.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.14.10-11",
+   "source_text": "Narrabat ille: 'Assectabar Domitium Afrum. Cum apud centumviros diceret graviter et lente, hoc enim illi actionis genus erat, audit ex proximo immodicum insolitumque clamorem. Admiratus reticuit; ubi silentium factum est, repetit quod abruperat. Iterum clamor, iterum reticuit, et post silentium coepit. Idem tertio. Novissime quis diceret quaesiit. Responsum est: \"Licinus.\" Tum intermissa causa \"Centumviri,\" inquit, \"hoc artificium periit.\"'",
+   "question": "Quis orator apud centumviros dicens exclamavit 'hoc artificium periit'?",
+   "answer": "Domitius Afer.",
+   "question_en": "Which orator, pleading before the centumviri, exclaimed 'this art is dead'?",
+   "answer_en": "Domitius Afer.",
+   "derivation": "Domitius Afer's famous protest at the rise of the hired claque, transmitted through Quintilian. Anchored to the named orator + the centumviral court; quoted verbatim. Closed-book: Domitius Afer is a canonical orator of the early empire and this is his best-remembered mot.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.16.1-2",
+   "source_text": "Tu quidem pro cetera tua diligentia admones me codicillos Aciliani, qui me ex parte instituit heredem, pro non scriptis habendos, quia non sint confirmati testamento; quod ius ne mihi quidem ignotum est.",
+   "question": "Quid iure fiebat de codicillis testamento non confirmatis?",
+   "answer": "Pro non scriptis habebantur.",
+   "question_en": "What, in law, became of codicils not confirmed by a will?",
+   "answer_en": "They were treated as if unwritten.",
+   "derivation": "The rule of Roman succession law on unconfirmed codicilli. Anchored to the named legal instrument and Pliny's inheritance from Acilianus; stated verbatim. Closed-book: wills, codicils and their formal requirements are core Roman legal culture.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.17.2",
+   "source_text": "Decem septem milibus passuum ab urbe secessit, ut peractis quae agenda fuerint salvo iam et composito die possis ibi manere.",
+   "question": "Quot milibus passuum Laurentinum Plinii ab urbe Roma distat?",
+   "answer": "Decem septem.",
+   "question_en": "How many miles from Rome is Pliny's Laurentine villa?",
+   "answer_en": "Seventeen.",
+   "derivation": "The distance of the Laurentine villa from Rome. Anchored to Pliny + his named villa; the number is stated verbatim. Closed-book: the Laurentinum is the most famous described villa in Latin literature, and its nearness to Rome is the point of the description.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.17.2",
+   "source_text": "Aditur non una via; nam et Laurentina et Ostiensis eodem ferunt, sed Laurentina a quarto decimo lapide, Ostiensis ab undecimo relinquenda est.",
+   "question": "A quoto lapide viae Laurentina et Ostiensis relinquendae sunt ei qui Laurentinum Plinii petit?",
+   "answer": "Laurentina a quarto decimo, Ostiensis ab undecimo.",
+   "question_en": "At which milestone must the Laurentine and the Ostian roads be left by someone making for Pliny's Laurentine villa?",
+   "answer_en": "The Laurentina at the fourteenth, the Ostiensis at the eleventh.",
+   "derivation": "The two approach roads and the milestones at which one turns off. Anchored to the named roads + the named villa; both numbers stated verbatim. Closed-book: the via Ostiensis and via Laurentina and the Roman milestone system are shared topographical knowledge.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.17.24",
+   "source_text": "In hanc ego diaetam cum me recepi, abesse mihi etiam a villa mea videor, magnamque eius voluptatem praecipue Saturnalibus capio, cum reliqua pars tecti licentia dierum festisque clamoribus personat; nam nec ipse meorum lusibus nec illi studiis meis obstrepunt.",
+   "question": "Quo festo praecipue Plinius secessu diaetae suae Laurentinae fruebatur, cum reliqua villa clamoribus personaret?",
+   "answer": "Saturnalibus.",
+   "question_en": "At which festival above all did Pliny enjoy the seclusion of his private suite at the Laurentine villa, while the rest of the house rang with shouting?",
+   "answer_en": "At the Saturnalia.",
+   "derivation": "The licence of the Saturnalia in a Roman household, with the slaves' games filling the house. Anchored to Pliny + his villa; the festival is named verbatim and its 'licentia dierum' described. Closed-book: the Saturnalia and its household misrule are prime Roman festival knowledge.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.17.26",
+   "source_text": "Suggerunt affatim ligna proximae silvae; ceteras copias ostiensis colonia ministrat. Frugi quidem homini sufficit etiam vicus, quem una villa discernit. In hoc balinea meritoria tria, magna commoditas.",
+   "question": "Quot balinea meritoria in vico prope Laurentinum Plinii erant?",
+   "answer": "Tria.",
+   "question_en": "How many public bath-houses for hire were there in the village near Pliny's Laurentine villa?",
+   "answer_en": "Three.",
+   "derivation": "The three hired baths in the neighbouring village, a convenience when heating one's own bath was not worth it. Anchored to the named villa; the number is stated verbatim. Closed-book: balnea meritoria, the small commercial baths, are a standard feature of Italian settlements.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.17.26",
+   "source_text": "Suggerunt affatim ligna proximae silvae; ceteras copias ostiensis colonia ministrat.",
+   "question": "Quae colonia Laurentino Plinii ceteras copias ministrabat?",
+   "answer": "Ostiensis.",
+   "question_en": "Which colony supplied Pliny's Laurentine villa with its other provisions?",
+   "answer_en": "The colony of Ostia.",
+   "derivation": "Ostia as the market for the Laurentine coast. Anchored to the named villa + the named colony; stated verbatim. Closed-book: Ostia is the port-colony of Rome and a fixture of Italian geography.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.17.28",
+   "source_text": "Mare non sane pretiosis piscibus abundat, soleas tamen et squillas optimas egerit.",
+   "question": "Quae duo maris animalia optima ante Laurentinum Plinii capiebantur?",
+   "answer": "Soleae et squillae.",
+   "question_en": "Which two excellent sea-creatures were taken off Pliny's Laurentine shore?",
+   "answer_en": "Soles and prawns.",
+   "derivation": "The catch of the Laurentine coast, poor in luxury fish but good for sole and prawn. Anchored to the named villa; both named verbatim. Closed-book food fact: soleae and squillae are standard items of the Roman fish market.",
+   "category": "cibus"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.17.14",
+   "source_text": "Gestatio buxo aut rore marino, ubi deficit buxus, ambitur; nam buxus, qua parte defenditur tectis, abunde viret; aperto caelo apertoque vento et quamquam longinqua aspergine maris inarescit.",
+   "question": "Quibus duobus fruticibus gestatio Laurentini Plinii cingebatur?",
+   "answer": "Buxo aut rore marino.",
+   "question_en": "With which two shrubs was the drive at Pliny's Laurentine villa bordered?",
+   "answer_en": "With box, or rosemary where the box failed.",
+   "derivation": "Box hedging, replaced by rosemary where sea-spray killed it. Anchored to the named villa's gestatio; both plants named verbatim. Closed-book garden fact: clipped box is the signature planting of the Roman villa garden.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.20.2",
+   "source_text": "Verania Pisonis graviter iacebat, huius dico Pisonis, quem Galba adoptavit. Ad hanc Regulus venit. Primum impudentiam hominis, qui venerit ad aegram, cuius marito inimicissimus, ipsi invisissimus fuerat!",
+   "question": "Cuius uxor fuit Verania, quam Regulus aegram adiit?",
+   "answer": "Pisonis, quem Galba adoptavit.",
+   "question_en": "Whose wife was Verania, whom Regulus visited on her sickbed?",
+   "answer_en": "Of the Piso whom Galba adopted.",
+   "derivation": "Verania, widow of Piso Licinianus, Galba's adopted heir killed in AD 69. Anchored to Verania + Galba; stated verbatim. Closed-book: Galba's adoption of Piso is a famous episode of the year of the four emperors.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.20.3-5",
+   "source_text": "at ille etiam proximus toro sedit, quo die qua hora nata esset interrogavit. Ubi audiit, componit vultum intendit oculos movet labra, agitat digitos computat. Nihil. Ut diu miseram exspectatione suspendit, 'habes' inquit 'climacterium tempus sed evades. Quod ut tibi magis liqueat, haruspicem consulam, quem sum frequenter expertus.' Nec mora, sacrificium facit, affirmat exta cum siderum significatione congruere.",
+   "question": "Quem vatem Regulus consuluit ut Veraniae aegrae fidem de sideribus faceret?",
+   "answer": "Haruspicem.",
+   "question_en": "Which kind of diviner did Regulus consult to make the sick Verania believe what the stars said?",
+   "answer_en": "A haruspex.",
+   "derivation": "Astrological calculation of the birth-hour backed by a haruspex's inspection of entrails. Anchored to Regulus + Verania; stated verbatim. Closed-book: the haruspex and the climacteric year are core items of Roman divinatory culture.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.20.10-11",
+   "source_text": "Aurelia ornata femina signatura testamentum sumpserat pulcherrimas tunicas. Regulus cum venisset ad signandum, 'Rogo' inquit 'has mihi leges.' Aurelia ludere hominem putabat, ille serio instabat; ne multa, coegit mulierem aperire tabulas ac sibi tunicas quas erat induta legare.",
+   "question": "Quid Regulus Aureliam testamentum signaturam sibi legare coegit?",
+   "answer": "Tunicas quas induta erat.",
+   "question_en": "What did Regulus compel Aurelia, as she was about to seal her will, to leave him?",
+   "answer_en": "The tunics she was wearing.",
+   "derivation": "The notorious anecdote of Regulus and Aurelia's tunics. Anchored to the two named persons; stated verbatim. Closed-book and culturally salient: the sealing of wills before witnesses, and captatio, are Roman institutions, and this is the emblematic story of the legacy-hunter.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.20.7",
+   "source_text": "Velleius Blaesus ille locuples consularis novissima valetudine conflictabatur: cupiebat mutare testamentum. Regulus qui speraret aliquid ex novis tabulis, quia nuper captare eum coeperat, medicos hortari rogare, quoquo modo spiritum homini prorogarent.",
+   "question": "Quo artificio Regulus, ut Plinius narrat, opes suas ex alienis testamentis augebat?",
+   "answer": "Captatione testamentorum.",
+   "question_en": "By what practice, as Pliny relates, did Regulus increase his wealth out of other people's wills?",
+   "answer_en": "By legacy-hunting.",
+   "derivation": "Captatio, the courting of the childless and the dying for legacies. Anchored to Regulus and the named victims; the verb captare is used verbatim of him. Closed-book: legacy-hunting is one of the most-discussed social vices of imperial Rome (Horace, Petronius, Juvenal).",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 2.20.13",
+   "source_text": "Aspice Regulum, qui ex paupere et tenui ad tantas opes per flagitia processit, ut ipse mihi dixerit, cum consuleret quam cito sestertium sescentiens impleturus esset, invenisse se exta duplicia, quibus portendi miliens et ducentiens habiturum.",
+   "question": "Quantam pecuniam Regulo exta duplicia portendere visa sunt?",
+   "answer": "Sestertium miliens et ducentiens.",
+   "question_en": "How much money did the doubled entrails seem to portend for Regulus?",
+   "answer_en": "One hundred and twenty million sesterces.",
+   "derivation": "The doubled entrails read as doubling Regulus' hoped-for sixty million. Anchored to Regulus; both sums stated verbatim. Closed-book: extispicy and the reading of doubled organs as a doubling omen belong to Roman divinatory practice.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.4",
+   "source_text": "Mane lectulo continetur, hora secunda calceos poscit, ambulat milia passuum tria nec minus animum quam corpus exercet.",
+   "question": "Qua hora Spurinna, cuius vitae ordinem Plinius describit, calceos poscere solebat?",
+   "answer": "Hora secunda.",
+   "question_en": "At what hour did Spurinna, whose daily order Pliny describes, call for his shoes?",
+   "answer_en": "At the second hour.",
+   "derivation": "Spurinna's ordered day, the classic Roman description of a well-regulated old age. Anchored to the named man; the hour is stated verbatim. Closed-book: reckoning the day by numbered hours from sunrise is basic Roman time-culture.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.4",
+   "source_text": "hora secunda calceos poscit, ambulat milia passuum tria nec minus animum quam corpus exercet.",
+   "question": "Quot milia passuum Spurinna mane ambulare solebat?",
+   "answer": "Tria.",
+   "question_en": "How many miles did Spurinna walk in the morning?",
+   "answer_en": "Three.",
+   "derivation": "The three-mile morning walk in Spurinna's regimen. Anchored to the named man; the number is stated verbatim. Closed-book: the walk, ride and ball-game are the recognized Roman exercise regime.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.7",
+   "source_text": "Peractis septem milibus passuum iterum ambulat mille, iterum residit vel se cubiculo ac stilo reddit.",
+   "question": "Quot milia passuum Spurinna vehiculo peragebat, antequam iterum mille ambularet?",
+   "answer": "Septem.",
+   "question_en": "How many miles did Spurinna cover by carriage before walking another mile?",
+   "answer_en": "Seven.",
+   "derivation": "The seven-mile drive of Spurinna's afternoon. Anchored to the named man; the number is stated verbatim. Closed-book: gestatio, the ride taken for health, is a standard Roman practice.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.8",
+   "source_text": "Ubi hora balinei nuntiata est, est autem hieme nona, aestate octava, in sole, si caret vento, ambulat nudus. Deinde movetur pila vehementer et diu.",
+   "question": "Qua hora Spurinnae balineum hieme, qua aestate nuntiabatur?",
+   "answer": "Hieme nona, aestate octava.",
+   "question_en": "At what hour was Spurinna's bath announced in winter, and at what hour in summer?",
+   "answer_en": "At the ninth in winter, the eighth in summer.",
+   "derivation": "The bathing hour, earlier in summer than in winter. Anchored to the named man; both hours stated verbatim. Closed-book and strongly salient: the hour of the bath before dinner is a defining rhythm of Roman daily life.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.8",
+   "source_text": "Deinde movetur pila vehementer et diu; nam hoc quoque exercitationis genere pugnat cum senectute. Lotus accubat et paulisper cibum differt.",
+   "question": "Quo genere exercitationis Spurinna ante balineum cum senectute pugnabat?",
+   "answer": "Pila.",
+   "question_en": "By what kind of exercise did Spurinna fight off old age before his bath?",
+   "answer_en": "By the ball-game.",
+   "derivation": "The ball-game taken before bathing. Anchored to the named man; stated verbatim. Closed-book: the pila before the bath is the standard Roman exercise, familiar from the baths themselves (sphaeristerium).",
+   "category": "ludi"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.9",
+   "source_text": "Apponitur cena non minus nitida quam frugi, in argento puro et antiquo; sunt in usu et Corinthia, quibus delectatur nec afficitur.",
+   "question": "Quo genere vasorum praeter argentum purum Spurinna in cena utebatur?",
+   "answer": "Corinthiis.",
+   "question_en": "What kind of vessels besides plain silver were used at Spurinna's dinner?",
+   "answer_en": "Corinthian bronzes.",
+   "derivation": "Corinthium aes, the most prized collector's bronze at Rome. Anchored to the named man's table; stated verbatim. Closed-book: Corinthian bronze is a byword for connoisseurship (cf. Pliny the Elder, Petronius).",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.9",
+   "source_text": "Frequenter comoedis cena distinguitur, ut voluptates quoque studiis condiantur.",
+   "question": "Quibus artificibus cena Spurinnae frequenter distinguebatur?",
+   "answer": "Comoedis.",
+   "question_en": "By what performers was Spurinna's dinner often punctuated?",
+   "answer_en": "By comic actors.",
+   "derivation": "Comoedi performing between courses. Anchored to the named man's dinners; stated verbatim. Closed-book: dinner-table performance by comoedi is a recognized convention of the Roman convivium.",
+   "category": "ludi"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.7",
+   "source_text": "Scribit enim et quidem utraque lingua lyrica doctissima; mira illis dulcedo, mira suavitas, mira hilaritas.",
+   "question": "Quod carminum genus et quibus linguis Spurinna scribebat?",
+   "answer": "Lyrica, utraque lingua.",
+   "question_en": "What kind of poems, and in which languages, did Spurinna write?",
+   "answer_en": "Lyrics, in both languages.",
+   "derivation": "Bilingual lyric composition by a Roman consular. Anchored to the named man; stated verbatim. Closed-book: the Roman elite's writing of Greek as well as Latin verse is shared cultural knowledge.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.1.10",
+   "source_text": "Inde illi post septimum et septuagensimum annum aurium oculorum vigor integer, inde agile et vividum corpus solaque ex senectute prudentia.",
+   "question": "Quem annum aetatis Spurinna egressus integrum adhuc aurium oculorumque vigorem retinebat?",
+   "answer": "Septimum et septuagensimum.",
+   "question_en": "Past what year of his life did Spurinna still keep the full vigour of ears and eyes?",
+   "answer_en": "His seventy-seventh.",
+   "derivation": "Spurinna's age and undiminished faculties. Anchored to the named man; the number is stated verbatim. Closed-book biographical fact about a celebrated consular of Trajan's day.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.2.2",
+   "source_text": "Arrianus Maturus Altinatium est princeps; cum dico princeps, non de facultatibus loquor, quae illi large supersunt, sed de castitate iustitia, gravitate prudentia.",
+   "question": "Cuius municipii principem Plinius Arrianum Maturum appellat?",
+   "answer": "Altini.",
+   "question_en": "Of which town does Pliny call Arrianus Maturus the leading man?",
+   "answer_en": "Of Altinum.",
+   "derivation": "Arrianus Maturus, chief man of Altinum in Venetia, who deliberately stayed in the equestrian order. Anchored to the named man; the town is named verbatim. Closed-book: the local princeps who declines senatorial rank is a recognized social type of Italy.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.3.3-5",
+   "source_text": "Iam studia eius extra limen proferenda sunt, iam circumspiciendus rhetor Latinus, cuius scholae severitas pudor in primis castitas constet. Adest enim adulescenti nostro cum ceteris naturae fortunaeque dotibus eximia corporis pulchritudo, cui in hoc lubrico aetatis non praeceptor modo sed custos etiam rectorque quaerendus est. Videor ergo demonstrare tibi posse Iulium Genitorem.",
+   "question": "Quem rhetorem Latinum Plinius Corelliae Hispullae filio praeceptorem commendavit?",
+   "answer": "Iulium Genitorem.",
+   "question_en": "Which Latin rhetorician did Pliny recommend as teacher for the son of Corellia Hispulla?",
+   "answer_en": "Julius Genitor.",
+   "derivation": "The choice of a rhetor Latinus when a boy's studies move beyond the household tutor. Anchored to the named mother and teacher; stated verbatim. Closed-book: the progression from praeceptores domi to the school of rhetoric is the standard Roman educational ladder.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.4.2",
+   "source_text": "Cum publicum opus mea pecunia incohaturus in Tuscos excucurrissem, accepto ut praefectus aerari commeatu, legati provinciae Baeticae, questuri de proconsulatu Caecili Classici, advocatum me a senatu petiverunt.",
+   "question": "Quod officium Plinius gerebat, cum legati Baeticae eum advocatum a senatu petiverunt?",
+   "answer": "Praefecturam aerarii.",
+   "question_en": "What office was Pliny holding when the envoys of Baetica asked the senate for him as their advocate?",
+   "answer_en": "The prefecture of the treasury.",
+   "derivation": "Pliny as praefectus aerarii Saturni, needing formal leave (commeatus) to travel. Anchored to Pliny + the Baetican embassy; stated verbatim. Closed-book: the treasury prefecture is a well-known senatorial post in Pliny's cursus.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.4.4",
+   "source_text": "Legati rursus inducti iterum me iam praesentem advocatum postulaverunt, implorantes fidem meam quam essent contra Massam Baebium experti, allegantes patrocini foedus.",
+   "question": "Contra quem reum Plinius antea Baeticis adfuerat?",
+   "answer": "Contra Massam Baebium.",
+   "question_en": "Against which defendant had Pliny previously acted for the people of Baetica?",
+   "answer_en": "Against Baebius Massa.",
+   "derivation": "Pliny's earlier prosecution of Baebius Massa for the Baeticans, the case also famous from Tacitus' Agricola. Anchored to Pliny + the province; the name is stated verbatim. Closed-book: Baebius Massa is one of the notorious informers and governors of the Domitianic age.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.3",
+   "source_text": "'De iaculatione equestri unus'; hunc cum praefectus alae militaret, pari ingenio curaque composuit.",
+   "question": "Quo munere militari fungens Plinius maior librum 'De iaculatione equestri' composuit?",
+   "answer": "Praefectus alae.",
+   "question_en": "While holding what military command did the elder Pliny compose his book On Throwing the Javelin from Horseback?",
+   "answer_en": "As prefect of a cavalry wing.",
+   "derivation": "The elder Pliny's first book, written on campaign as commander of a cavalry ala. Anchored to the named author and title; stated verbatim. Closed-book: the catalogue of the elder Pliny's works is a standard piece of Roman literary history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.3",
+   "source_text": "'De vita Pomponi Secundi duo'; a quo singulariter amatus hoc memoriae amici quasi debitum munus exsolvit.",
+   "question": "Cuius amici vitam Plinius maior duobus libris complexus est?",
+   "answer": "Pomponi Secundi.",
+   "question_en": "Whose life did the elder Pliny cover in two books?",
+   "answer_en": "That of Pomponius Secundus.",
+   "derivation": "The elder Pliny's biography of his friend the tragedian and consular Pomponius Secundus. Anchored to author and subject; stated verbatim. Closed-book: it is a fixed item in the canonical list of the elder Pliny's writings.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.4",
+   "source_text": "'Bellorum Germaniae viginti'; quibus omnia quae cum Germanis gessimus bella collegit.",
+   "question": "Quot libris Plinius maior bella Germaniae complexus est?",
+   "answer": "Viginti.",
+   "question_en": "In how many books did the elder Pliny cover the German wars?",
+   "answer_en": "In twenty.",
+   "derivation": "The twenty books of the Bella Germaniae, the lost history used by Tacitus. Anchored to the named author + title; the number is stated verbatim. Closed-book: this is the best-known lost work of the elder Pliny.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.4",
+   "source_text": "Incohavit cum in Germania militaret, somnio monitus: astitit ei quiescenti Drusi Neronis effigies, qui Germaniae latissime victor ibi periit, commendabat memoriam suam orabatque ut se ab iniuria oblivionis assereret.",
+   "question": "Cuius ducis effigies Plinio maiori per somnium astitit, ut bella Germaniae scriberet?",
+   "answer": "Drusi Neronis.",
+   "question_en": "Whose likeness stood over the elder Pliny in a dream, prompting him to write the German wars?",
+   "answer_en": "That of Drusus Nero.",
+   "derivation": "The dream-apparition of Drusus, conqueror of Germany, who died there. Anchored to the elder Pliny + Drusus; stated verbatim. Closed-book: Drusus' German campaigns and death are canonical early-imperial history, and the dream is the famous origin-story of the work.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.5",
+   "source_text": "'Studiosi tres', in sex volumina propter amplitudinem divisi, quibus oratorem ab incunabulis instituit et perficit.",
+   "question": "In quot volumina 'Studiosi' libri tres Plini maioris propter amplitudinem divisi sunt?",
+   "answer": "In sex.",
+   "question_en": "Into how many rolls were the three books of the elder Pliny's Studiosus divided because of their bulk?",
+   "answer_en": "Into six.",
+   "derivation": "The Studiosus, a training of the orator from the cradle, in three books split over six rolls. Anchored to the named author + title; the number is stated verbatim. Closed-book: the distinction between liber and volumen is real Roman book-culture.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.5",
+   "source_text": "'Dubii sermonis octo': scripsit sub Nerone novissimis annis, cum omne studiorum genus paulo liberius et erectius periculosum servitus fecisset.",
+   "question": "Sub quo principe Plinius maior octo libros 'Dubii sermonis' composuit?",
+   "answer": "Sub Nerone.",
+   "question_en": "Under which emperor did the elder Pliny compose the eight books of Dubius Sermo?",
+   "answer_en": "Under Nero.",
+   "derivation": "The grammatical work written in Nero's last years, when safer subjects were prudent. Anchored to author, title and emperor; stated verbatim. Closed-book: the retreat into harmless scholarship under a dangerous prince is a well-known feature of Neronian literary history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.6",
+   "source_text": "'A fine Aufidi Bassi triginta unus.' 'Naturae historiarum triginta septem', opus diffusum eruditum, nec minus varium quam ipsa natura.",
+   "question": "Cuius historici opus Plinius maior triginta uno libris continuavit?",
+   "answer": "Aufidi Bassi.",
+   "question_en": "Whose historical work did the elder Pliny continue in thirty-one books?",
+   "answer_en": "That of Aufidius Bassus.",
+   "derivation": "The lost continuation 'A fine Aufidi Bassi', the history used by Tacitus. Anchored to the named author + predecessor; stated verbatim. Closed-book: the chain of imperial historians from Aufidius Bassus to Pliny is standard literary history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.6",
+   "source_text": "'Naturae historiarum triginta septem', opus diffusum eruditum, nec minus varium quam ipsa natura.",
+   "question": "Quot libris Naturalis historia Plini maioris constat?",
+   "answer": "Triginta septem.",
+   "question_en": "Of how many books does the elder Pliny's Natural History consist?",
+   "answer_en": "Of thirty-seven.",
+   "derivation": "The thirty-seven books of the Naturalis Historia. Anchored to the named author + work; the number is stated verbatim. Closed-book: the extent of the encyclopaedia is among the most widely known facts of Latin letters.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.7",
+   "source_text": "Magis miraberis si scieris illum aliquamdiu causas actitasse, decessisse anno sexto et quinquagensimo, medium tempus distentum impeditumque qua officiis maximis qua amicitia principum egisse.",
+   "question": "Quoto anno aetatis Plinius maior decessit?",
+   "answer": "Sexto et quinquagensimo.",
+   "question_en": "In what year of his life did the elder Pliny die?",
+   "answer_en": "In his fifty-sixth.",
+   "derivation": "The elder Pliny's age at death (in the eruption of Vesuvius). Anchored to the named man; the number is stated verbatim. Closed-book biographical fact of a famous author.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.8",
+   "source_text": "Lucubrare Vulcanalibus incipiebat non auspicandi causa sed studendi statim a nocte multa, hieme vero ab hora septima vel cum tardissime octava, saepe sexta.",
+   "question": "Quo festo Plinius maior lucubrationes suas incipere solebat?",
+   "answer": "Vulcanalibus.",
+   "question_en": "At which festival did the elder Pliny begin his nightly studies by lamplight?",
+   "answer_en": "At the Vulcanalia.",
+   "derivation": "The Vulcanalia (23 August) as the customary start of the season of lamp-lit work. Anchored to the elder Pliny; the festival is named verbatim. Closed-book: the Vulcanalia is a named feast of the Roman calendar, and starting lucubratio then was a recognized custom.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.9",
+   "source_text": "Ante lucem ibat ad Vespasianum imperatorem, nam ille quoque noctibus utebatur, inde ad delegatum sibi officium.",
+   "question": "Ad quem principem Plinius maior ante lucem salutatum ire solebat?",
+   "answer": "Ad Vespasianum.",
+   "question_en": "To which emperor did the elder Pliny go before daybreak to pay his respects?",
+   "answer_en": "To Vespasian.",
+   "derivation": "The pre-dawn imperial salutatio, with Vespasian likewise working by night. Anchored to both named men; stated verbatim. Closed-book: the early-morning salutatio of patron and emperor is a defining Roman social ritual.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.10",
+   "source_text": "Nihil enim legit quod non excerperet; dicere etiam solebat nullum esse librum tam malum ut non aliqua parte prodesset.",
+   "question": "Cuius auctoris dictum est nullum esse librum tam malum ut non aliqua parte prosit?",
+   "answer": "Plini maioris.",
+   "question_en": "Which author's saying is it that no book is so bad as not to be useful in some part?",
+   "answer_en": "The elder Pliny's.",
+   "derivation": "The famous dictum reported by his nephew. Anchored to the elder Pliny; quoted verbatim. Closed-book: 'nullus est liber tam malus...' is a standing Latin proverb.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.15",
+   "source_text": "In itinere quasi solutus ceteris curis, huic uni vacabat: ad latus notarius cum libro et pugillaribus, cuius manus hieme manicis muniebantur, ut ne caeli quidem asperitas ullum studii tempus eriperet; qua ex causa Romae quoque sella vehebatur.",
+   "question": "Quibus manus notarii Plini maioris hieme muniebantur, ne studendi tempus periret?",
+   "answer": "Manicis.",
+   "question_en": "With what were the hands of the elder Pliny's shorthand-writer protected in winter, so that no study-time should be lost?",
+   "answer_en": "With long sleeves (mittens).",
+   "derivation": "The secretary taking dictation on the road, his hands sleeved against the cold. Anchored to the elder Pliny + his notarius; stated verbatim. Closed-book: dictation to a notarius is the standard Roman mode of composition, and this is its most famous illustration.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.15",
+   "source_text": "ut ne caeli quidem asperitas ullum studii tempus eriperet; qua ex causa Romae quoque sella vehebatur.",
+   "question": "Quo vehiculo Plinius maior Romae vehebatur, ne studiis tempus deesset?",
+   "answer": "Sella.",
+   "question_en": "In what conveyance did the elder Pliny travel about Rome so as not to lose time for study?",
+   "answer_en": "In a sedan chair.",
+   "derivation": "The sella (litter-chair) used so that reading could continue in the streets. Anchored to the elder Pliny; stated verbatim. Closed-book: the sella and lectica are the standard means of getting about Rome for a man of rank.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.17",
+   "source_text": "Hac intentione tot ista volumina peregit electorumque commentarios centum sexaginta mihi reliquit, opisthographos quidem et minutissimis scriptos; qua ratione multiplicatur hic numerus.",
+   "question": "Quot commentarios electorum Plinius maior nepoti suo reliquit?",
+   "answer": "Centum sexaginta.",
+   "question_en": "How many notebooks of excerpts did the elder Pliny leave to his nephew?",
+   "answer_en": "One hundred and sixty.",
+   "derivation": "The 160 notebooks of excerpts, written on both sides in minute hand. Anchored to the elder Pliny + his nephew; the number is stated verbatim. Closed-book: the excerpt-notebooks are the emblem of ancient scholarly method.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.5.17",
+   "source_text": "Referebat ipse potuisse se, cum procuraret in Hispania, vendere hos commentarios Larcio Licino quadringentis milibus nummum; et tunc aliquanto pauciores erant.",
+   "question": "Quanti Larcius Licinus commentarios Plini maioris in Hispania emere voluit?",
+   "answer": "Quadringentis milibus nummum.",
+   "question_en": "For how much did Larcius Licinus wish to buy the elder Pliny's notebooks in Spain?",
+   "answer_en": "For four hundred thousand sesterces.",
+   "derivation": "The offer for the notebooks while the elder Pliny was procurator in Spain. Anchored to the two named men; the sum is stated verbatim. Closed-book: it is the best-known price ever quoted for a set of ancient scholarly papers, equal to the equestrian census.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.6.4-5",
+   "source_text": "Emi autem non ut haberem domi, neque enim ullum adhuc Corinthium domi habeo, verum ut in patria nostra celebri loco ponerem, ac potissimum in Iovis templo; videtur enim dignum templo dignum deo donum.",
+   "question": "In cuius dei templo Plinius signum Corinthium in patria sua ponere statuit?",
+   "answer": "In Iovis templo.",
+   "question_en": "In which god's temple did Pliny decide to place the Corinthian bronze in his home town?",
+   "answer_en": "In the temple of Jupiter.",
+   "derivation": "Pliny's dedication of a purchased Corinthian bronze in the temple of Jupiter at Comum. Anchored to Pliny + his patria; stated verbatim. Closed-book: dedicating art in a temple as a civic gift is the standard Roman form of benefaction.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.6.2",
+   "source_text": "Est enim nudum, nec aut vitia si qua sunt celat, aut laudes parum ostentat. Effingit senem stantem; ossa musculi nervi, venae rugae etiam ut spirantis apparent.",
+   "question": "Quam figuram signum Corinthium a Plinio emptum effingebat?",
+   "answer": "Senem stantem.",
+   "question_en": "What figure did the Corinthian bronze bought by Pliny represent?",
+   "answer_en": "An old man standing.",
+   "derivation": "The realistic bronze of a standing old man. Anchored to Pliny's purchase; stated verbatim. Closed-book: the description is the best-known Latin account of an individual bronze statue and of Roman connoisseurship of Corinthium aes.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.1-2",
+   "source_text": "Modo nuntiatus est Silius Italicus in Neapolitano suo inedia finisse vitam. Causa mortis valetudo. Erat illi natus insanabilis clavus, cuius taedio ad mortem irrevocabili constantia decucurrit.",
+   "question": "Quo genere mortis Silius Italicus poeta vitam finivit?",
+   "answer": "Inedia.",
+   "question_en": "By what kind of death did the poet Silius Italicus end his life?",
+   "answer_en": "By starvation.",
+   "derivation": "Silius' voluntary death by abstinence in his Neapolitan villa. Anchored to the named poet; stated verbatim. Closed-book: the death of the author of the Punica is a standard biographical fact.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.8",
+   "source_text": "Multum ubique librorum, multum statuarum, multum imaginum, quas non habebat modo, verum etiam venerabatur, Vergili ante omnes, cuius natalem religiosius quam suum celebrabat.",
+   "question": "Cuius poetae natalem Silius Italicus religiosius quam suum celebrabat?",
+   "answer": "Vergili.",
+   "question_en": "Whose birthday did Silius Italicus celebrate more devoutly than his own?",
+   "answer_en": "Virgil's.",
+   "derivation": "Silius' cult of Virgil, keeping the poet's birthday as a holy day. Anchored to the two named poets; stated verbatim. Closed-book: birthday observance (dies natalis) is a Roman religious practice, and Silius' Virgil-worship is his best-known trait.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.8",
+   "source_text": "Vergili ante omnes, cuius natalem religiosius quam suum celebrabat, Neapoli maxime, ubi monimentum eius adire ut templum solebat.",
+   "question": "In qua urbe Silius Italicus monimentum Vergili ut templum adire solebat?",
+   "answer": "Neapoli.",
+   "question_en": "In which city did Silius Italicus visit Virgil's tomb as though it were a temple?",
+   "answer_en": "At Naples.",
+   "derivation": "Virgil's tomb at Naples treated as a shrine. Anchored to Silius + Virgil + the city; stated verbatim. Closed-book: Virgil's Neapolitan tomb is one of the celebrated literary monuments of Italy.",
+   "category": "religio"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.3",
+   "source_text": "Laeserat famam suam sub Nerone, credebatur sponte accusasse, sed in Vitelli amicitia sapienter se et comiter gesserat, ex proconsulatu Asiae gloriam reportaverat.",
+   "question": "Cuius provinciae proconsulatu Silius Italicus gloriam reportavit?",
+   "answer": "Asiae.",
+   "question_en": "From the proconsulship of which province did Silius Italicus win glory?",
+   "answer_en": "Of Asia.",
+   "derivation": "Silius' governorship of Asia, the most prestigious senatorial province. Anchored to the named man; stated verbatim. Closed-book: the proconsulate of Asia is the summit of a senatorial career and a well-known point of Silius' biography.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.9-10",
+   "source_text": "utque novissimus a Nerone factus est consul, ita postremus ex omnibus, quos Nero consules fecerat, decessit. Illud etiam notabile: ultimus ex Neronianis consularibus obiit, quo consule Nero periit.",
+   "question": "Quo insigni anno Silius Italicus consulatum gessit?",
+   "answer": "Quo Nero periit.",
+   "question_en": "In what notable year did Silius Italicus hold the consulship?",
+   "answer_en": "The year in which Nero perished.",
+   "derivation": "Silius consul in 68, the year of Nero's death, and the last of Nero's consuls to die. Anchored to Silius + Nero; stated verbatim. Closed-book: dating by consulships and the fall of Nero are shared Roman historical furniture.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.9",
+   "source_text": "In hac tranquillitate annum quintum et septuagensimum excessit, delicato magis corpore quam infirmo.",
+   "question": "Quem annum aetatis Silius Italicus excessit?",
+   "answer": "Quintum et septuagensimum.",
+   "question_en": "What year of his life had Silius Italicus passed?",
+   "answer_en": "His seventy-fifth.",
+   "derivation": "Silius' age at death. Anchored to the named poet; the number is stated verbatim. Closed-book biographical fact about a canonical Latin epic poet.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.13",
+   "source_text": "nam ferunt Xersen, cum immensum exercitum oculis obisset, illacrimasse, quod tot milibus tam brevis immineret occasus.",
+   "question": "Quis rex, ut Plinius refert, immensum exercitum suum contemplatus illacrimasse fertur?",
+   "answer": "Xerses.",
+   "question_en": "Which king, as Pliny relates, is said to have wept as he looked over his vast army?",
+   "answer_en": "Xerxes.",
+   "derivation": "The famous tears of Xerxes reviewing his host (Herodotus 7.45-46). Anchored to the named king; stated verbatim. Closed-book: it is one of the best-known anecdotes of ancient history, cited as a commonplace on mortality.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.7.12",
+   "source_text": "Nuper L. Piso, pater Pisonis illius, qui Valerio Festo per summum facinus in Africa occisus est, dicere solebat neminem se videre in senatu, quem consul ipse sententiam rogavisset.",
+   "question": "A quo Piso ille in Africa per summum facinus occisus est?",
+   "answer": "A Valerio Festo.",
+   "question_en": "By whom was that Piso murdered in Africa by an outrageous crime?",
+   "answer_en": "By Valerius Festus.",
+   "derivation": "The killing of the proconsul Piso in Africa by Valerius Festus in 70. Anchored to the two named men + the province; stated verbatim. Closed-book: the episode belongs to the well-known aftermath of the civil wars of 69.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.8.1",
+   "source_text": "Facis pro cetera reverentia quam mihi praestas, quod tam sollicite petis ut tribunatum, quem a Neratio Marcello clarissimo viro impetravi tibi, in Caesennium Silvanum propinquum tuum transferam.",
+   "question": "A quo Plinius Suetonio Tranquillo tribunatum militum impetravit?",
+   "answer": "A Neratio Marcello.",
+   "question_en": "From whom did Pliny obtain a military tribunate for Suetonius Tranquillus?",
+   "answer_en": "From Neratius Marcellus.",
+   "derivation": "The commission got for Suetonius from the consular Neratius Marcellus. Anchored to the named parties; stated verbatim. Closed-book: the equestrian military tribunate as a patronage gift is standard Roman career practice, and Suetonius' is a famous instance.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.8.1",
+   "source_text": "Facis pro cetera reverentia quam mihi praestas, quod tam sollicite petis ut tribunatum, quem a Neratio Marcello clarissimo viro impetravi tibi, in Caesennium Silvanum propinquum tuum transferam.",
+   "question": "In quem propinquum suum Suetonius Tranquillus tribunatum a Plinio impetratum transtulit?",
+   "answer": "In Caesennium Silvanum.",
+   "question_en": "To which of his relatives did Suetonius Tranquillus transfer the tribunate Pliny had obtained for him?",
+   "answer_en": "To Caesennius Silvanus.",
+   "derivation": "The transfer of the commission before the name was entered on the rolls (in numeros relatum). Anchored to Suetonius + the named kinsman; stated verbatim. Closed-book: it illustrates the real workings of military appointment, and the biographer Suetonius is a culturally salient figure.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.2-3",
+   "source_text": "Caecilius Classicus, homo foedus et aperte malus, proconsulatum in ea non minus violenter quam sordide gesserat, eodem anno quo in Africa Marius Priscus. Erat autem Priscus ex Baetica, ex Africa Classicus.",
+   "question": "Cuius provinciae proconsulatum Caecilius Classicus violenter et sordide gessit?",
+   "answer": "Baeticae.",
+   "question_en": "The proconsulship of which province did Caecilius Classicus administer with violence and greed?",
+   "answer_en": "Of Baetica.",
+   "derivation": "The second great repetundae case of Pliny's career, that of Classicus in Baetica. Anchored to the named governor; the province is stated verbatim. Closed-book: Baetica, Spain's senatorial province, and its prosecutions of governors are standard imperial history.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.3",
+   "source_text": "Erat autem Priscus ex Baetica, ex Africa Classicus. Inde dictum Baeticorum, ut plerumque dolor etiam venustos facit, non illepidum ferebatur: 'Dedi malum et accepi.'",
+   "question": "Quod dictum Baeticorum de Mario Prisco et Caecilio Classico ferebatur?",
+   "answer": "'Dedi malum et accepi.'",
+   "question_en": "What saying of the Baeticans was current about Marius Priscus and Caecilius Classicus?",
+   "answer_en": "'I gave a bad man and got one back.'",
+   "derivation": "The Baeticans' quip: their own countryman Priscus ruined Africa, while the African Classicus ruined Baetica. Anchored to the two named governors and their provinces; quoted verbatim. Closed-book: the exchange-of-scoundrels joke is the memorable tag of the two trials.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.13",
+   "source_text": "Sua manu reliquerat scriptum, quid ex quaque re, quid ex quaque causa accepisset; miserat etiam epistulas Romam ad amiculam quandam, iactantes et gloriosas, his quidem verbis: 'Io io, liber ad te venio; iam sestertium quadragiens redegi parte vendita Baeticorum.'",
+   "question": "Quantam pecuniam Caecilius Classicus se parte Baeticorum vendita redegisse gloriabatur?",
+   "answer": "Sestertium quadragiens.",
+   "question_en": "How much money did Caecilius Classicus boast he had made by selling off part of the Baeticans?",
+   "answer_en": "Four million sesterces.",
+   "derivation": "The governor's boasting letter to his mistress, produced in evidence. Anchored to the named man + province; the sum is quoted verbatim. Closed-book: the scale of provincial extortion is a defining fact of Roman governance.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.11",
+   "source_text": "Erat in consilio Sertorianum illud exemplum, qui robustissimum et infirmissimum militem iussit caudam equi, reliqua nosti. Nam nos quoque tam numerosum agmen reorum ita demum videbamus posse superari, si per singulos carperetur.",
+   "question": "Cuius ducis exemplum Plinius affert, qui milites caudam equi vellere iussit?",
+   "answer": "Sertorii.",
+   "question_en": "Which general's example does Pliny cite, who ordered soldiers to pull off a horse's tail?",
+   "answer_en": "Sertorius'.",
+   "derivation": "Sertorius' demonstration that what cannot be torn off at once yields hair by hair. Anchored to the named general; stated verbatim. Closed-book: the horse-tail exemplum is one of the standard didactic anecdotes of Roman history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.17",
+   "source_text": "Consilii nostri exitus fuit: bona Classici, quae habuisset ante provinciam, placuit senatui a reliquis separari, illa filiae haec spoliatis relinqui. Additum est, ut pecuniae quas creditoribus solverat revocarentur.",
+   "question": "Quae bona Caecilii Classici senatus filiae eius relinqui iussit?",
+   "answer": "Quae ante provinciam habuisset.",
+   "question_en": "Which of Caecilius Classicus' goods did the senate order to be left to his daughter?",
+   "answer_en": "Those he had held before his province.",
+   "derivation": "The senate separating pre-provincial property from the proceeds of extortion, the latter going to the plundered. Anchored to the named man + the senate's decree; stated verbatim. Closed-book: the principle of restitution under the repetundae law is a real and salient legal rule.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.17-18",
+   "source_text": "Hispanus et Probus in quinquennium relegati; adeo grave visum est, quod initio dubitabatur an omnino crimen esset. Post paucos dies Claudium Fuscum, Classici generum, et Stilonium Priscum, qui tribunus cohortis sub Classico fuerat, accusavimus dispari eventu: Prisco in biennium Italia interdictum, absolutus est Fuscus.",
+   "question": "In quot annos Baebius Probus et Fabius Hispanus, socii Classici, relegati sunt?",
+   "answer": "In quinquennium.",
+   "question_en": "For how many years were Baebius Probus and Fabius Hispanus, the accomplices of Classicus, relegated?",
+   "answer_en": "For five years.",
+   "derivation": "The five-year relegation of the governor's agents. Anchored to the named men; stated verbatim. Closed-book: relegation for a fixed term is a standard penalty of Roman senatorial justice.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.29-30",
+   "source_text": "Norbanum Licinianum, legatum et inquisitorem, reum postulavit, tamquam in causa Castae, uxor haec Classici, praevaricaretur. Est lege cautum ut reus ante peragatur, tunc de praevaricatore quaeratur, videlicet quia optime ex accusatione ipsa accusatoris fides aestimatur.",
+   "question": "Quo ordine lex de praevaricatore quaeri iubebat?",
+   "answer": "Postquam reus peractus esset.",
+   "question_en": "In what order did the law require an inquiry into a collusive prosecutor?",
+   "answer_en": "After the defendant's case had been completed.",
+   "derivation": "The rule of procedure on praevaricatio (collusive prosecution). Anchored to the Classicus trial and the named legate; stated verbatim. Closed-book: praevaricatio is a named offence of Roman criminal procedure.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.9.34",
+   "source_text": "Damnatus et in insulam relegatus est. Itaque cum Castam accusarem nihil magis pressi, quam quod accusator eius praevaricationis crimine corruisset; pressi tamen frustra; accidit enim res contraria et nova, ut accusatore praevaricationis damnato rea absolveretur.",
+   "question": "Quo eventu novo causa Castae, uxoris Classici, terminata est?",
+   "answer": "Accusatore praevaricationis damnato, rea absoluta est.",
+   "question_en": "With what unprecedented outcome did the case of Casta, wife of Classicus, end?",
+   "answer_en": "The prosecutor was condemned for collusion, yet the defendant was acquitted.",
+   "derivation": "The paradoxical verdict Pliny singles out as new. Anchored to the named woman + her prosecutor Norbanus; stated verbatim. Closed-book: it is the memorable legal curiosity of the Baetican trials.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.11.2",
+   "source_text": "Equidem, cum essent philosophi ab urbe summoti, fui apud illum in suburbano, et quo notabilius, hoc est, periculosius, esset fui praetor.",
+   "question": "Quo magistratu fungens Plinius Artemidorum philosophum adiit, cum philosophi ab urbe summoti essent?",
+   "answer": "Praetor.",
+   "question_en": "While holding which magistracy did Pliny visit the philosopher Artemidorus at the time when philosophers had been expelled from the city?",
+   "answer_en": "As praetor.",
+   "derivation": "The expulsion of the philosophers from Rome under Domitian, and Pliny's visit to one of them while praetor. Anchored to Pliny + Artemidorus; both facts stated verbatim. Closed-book: the banishment of philosophers is a famous recurring act of imperial policy.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.11.3",
+   "source_text": "Atque haec feci, cum septem amicis meis aut occisis aut relegatis, occisis Senecione Rustico Helvidio, relegatis Maurico Gratilla Arria Fannia, tot circa me iactis fulminibus quasi ambustus mihi quoque impendere idem exitium certis quibusdam notis augurarer.",
+   "question": "Quot amici Plinii illo Domitiani tempore aut occisi aut relegati sunt?",
+   "answer": "Septem.",
+   "question_en": "How many of Pliny's friends were either killed or relegated in that period of Domitian's reign?",
+   "answer_en": "Seven.",
+   "derivation": "The seven friends struck down in Domitian's last terror. Anchored to Pliny and the named victims; the number is stated verbatim. Closed-book: the persecution of the 'Stoic opposition' in 93 is standard imperial history.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.11.3",
+   "source_text": "cum septem amicis meis aut occisis aut relegatis, occisis Senecione Rustico Helvidio, relegatis Maurico Gratilla Arria Fannia.",
+   "question": "Qui tres ex amicis Plinii sub Domitiano occisi sunt?",
+   "answer": "Senecio, Rusticus, Helvidius.",
+   "question_en": "Which three of Pliny's friends were put to death under Domitian?",
+   "answer_en": "Senecio, Rusticus, and Helvidius.",
+   "derivation": "Herennius Senecio, Arulenus Rusticus and Helvidius Priscus, executed in 93. Anchored to Pliny's list; all three named verbatim. Closed-book: they are the canonical martyrs of the senatorial opposition, also central to Tacitus' Agricola.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.11.3",
+   "source_text": "cum septem amicis meis aut occisis aut relegatis, occisis Senecione Rustico Helvidio, relegatis Maurico Gratilla Arria Fannia.",
+   "question": "Qui quattuor ex amicis Plinii sub Domitiano relegati sunt?",
+   "answer": "Mauricus, Gratilla, Arria, Fannia.",
+   "question_en": "Which four of Pliny's friends were relegated under Domitian?",
+   "answer_en": "Mauricus, Gratilla, Arria, and Fannia.",
+   "derivation": "The four exiles, including the women of the Thrasea-Helvidius family. Anchored to Pliny's list; all four named verbatim. Closed-book: the exile of Fannia and Arria is a well-known episode of the reign.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.11.5",
+   "source_text": "Nam et C. Musonium socerum eius, quantum licitum est per aetatem, cum admiratione dilexi et Artemidorum ipsum iam tum, cum in Syria tribunus militarem, arta familiaritate complexus sum.",
+   "question": "Cuius philosophi gener fuit Artemidorus?",
+   "answer": "C. Musonii.",
+   "question_en": "Whose son-in-law was the philosopher Artemidorus?",
+   "answer_en": "Gaius Musonius'.",
+   "derivation": "Artemidorus chosen as son-in-law by Musonius Rufus out of all his followers. Anchored to the two named philosophers; stated verbatim. Closed-book: Musonius Rufus is the best-known Roman Stoic teacher of the age.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.12.2-3",
+   "source_text": "Erunt officia antelucana, in quae incidere impune ne Catoni quidem licuit, quem tamen C. Caesar ita reprehendit ut laudet. Describit enim eos, quibus obvius fuerit, cum caput ebrii retexissent, erubuisse; deinde adicit: 'Putares non ab illis Catonem, sed illos a Catone deprehensos.'",
+   "question": "Quis de Catone scripsit 'putares non ab illis Catonem, sed illos a Catone deprehensos'?",
+   "answer": "C. Caesar.",
+   "question_en": "Who wrote of Cato, 'you would think it was not they who caught Cato, but Cato who caught them'?",
+   "answer_en": "Gaius Caesar.",
+   "derivation": "Caesar's back-handed praise of Cato, from the Anticato. Anchored to Caesar + Cato; quoted verbatim. Closed-book: the Caesar-Cato antagonism and Caesar's pamphlet against him are shared republican history.",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.14.1-2",
+   "source_text": "Rem atrocem nec tantum epistula dignam Larcius Macedo vir praetorius a servis suis passus est, superbus alioqui dominus et saevus, et qui servisse patrem suum parum, immo nimium meminisset. Lavabatur in villa Formiana. Repente eum servi circumsistunt.",
+   "question": "Quo loco Larcius Macedo, vir praetorius, a servis suis oppressus est?",
+   "answer": "In balineo villae Formianae.",
+   "question_en": "In what place was Larcius Macedo, a man of praetorian rank, set upon by his own slaves?",
+   "answer_en": "In the bath of his villa at Formiae.",
+   "derivation": "The murderous assault on Larcius Macedo by his household slaves while bathing. Anchored to the named man + his Formian villa; stated verbatim. Closed-book: the fear of one's own slaves is a standing Roman social anxiety, and this letter is its classic document.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.14.1",
+   "source_text": "Rem atrocem nec tantum epistula dignam Larcius Macedo vir praetorius a servis suis passus est, superbus alioqui dominus et saevus, et qui servisse patrem suum parum, immo nimium meminisset.",
+   "question": "Quid de patre Larci Macedonis Plinius memorat?",
+   "answer": "Eum servisse.",
+   "question_en": "What does Pliny record about the father of Larcius Macedo?",
+   "answer_en": "That he had been a slave.",
+   "derivation": "Macedo, a praetorian senator whose father had been a slave. Anchored to the named man; stated verbatim. Closed-book and salient: the rise of the sons of freedmen into senatorial rank is a real and much-noticed feature of imperial society.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.14.6-8",
+   "source_text": "Cum in publico Romae lavaretur, notabilis atque etiam, ut exitus docuit, ominosa res accidit. Eques Romanus a servo eius, ut transitum daret, manu leviter admonitus convertit se nec servum, a quo erat tactus, sed ipsum Macedonem tam graviter palma percussit ut paene concideret.",
+   "question": "Quo loco eques Romanus Larcium Macedonem palma percussit?",
+   "answer": "In publico balineo Romae.",
+   "question_en": "Where did a Roman knight strike Larcius Macedo with the flat of his hand?",
+   "answer_en": "In a public bath at Rome.",
+   "derivation": "The earlier insult in the public baths, which Pliny reads as an omen of Macedo's death in his private bath. Anchored to the named man; stated verbatim. Closed-book: the crowded public bath, where rank was jostled, is a central institution of Roman daily life.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.16.2",
+   "source_text": "Confirmata est opinio mea hesterno Fanniae sermone. Neptis haec Arriae illius, quae marito et solacium mortis et exemplum fuit.",
+   "question": "Quo gradu Fannia ab Arria illa, Caecinae Paeti uxore, orta erat?",
+   "answer": "Neptis eius erat.",
+   "question_en": "In what degree of descent did Fannia stand to the famous Arria, wife of Caecina Paetus?",
+   "answer_en": "She was her granddaughter.",
+   "derivation": "The line Arria - Arria the younger - Fannia, the women of the Thrasea-Helvidius house. Anchored to both named women; stated verbatim. Closed-book: this family is the most famous dynasty of the senatorial opposition.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.16.3-4",
+   "source_text": "Aegrotabat Caecina Paetus maritus eius, aegrotabat et filius, uterque mortifere, ut videbatur. Filius decessit eximia pulchritudine pari verecundia, et parentibus non minus ob alia carus quam quod filius erat. Huic illa ita funus paravit, ita duxit exsequias, ut ignoraret maritus; quin immo quotiens cubiculum eius intraret, vivere filium atque etiam commodiorem esse simulabat.",
+   "question": "Quam rem Arria a marito Caecina Paeto aegrotante celavit?",
+   "answer": "Mortem filii.",
+   "question_en": "What did Arria conceal from her sick husband Caecina Paetus?",
+   "answer_en": "The death of their son.",
+   "derivation": "Arria arranging her son's funeral in secret so that her sick husband should not learn of it. Anchored to Arria + Paetus; stated verbatim. Closed-book: it is the story Pliny presents as greater than the famous dagger, and both belong to the shared repertory of Roman exempla.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.16.6",
+   "source_text": "Praeclarum quidem illud eiusdem, ferrum stringere, perfodere pectus, extrahere pugionem, porrigere marito, addere vocem immortalem ac paene divinam: 'Paete, non dolet.'",
+   "question": "Quibus verbis Arria pugionem e pectore suo extractum marito porrexit?",
+   "answer": "'Paete, non dolet.'",
+   "question_en": "With what words did Arria hand her husband the dagger drawn from her own breast?",
+   "answer_en": "'Paetus, it does not hurt.'",
+   "derivation": "The most famous words spoken by a Roman woman. Anchored to Arria + Paetus; quoted verbatim. Closed-book: 'Paete, non dolet' is a proverbial saying of Roman fortitude (also in Martial 1.13).",
+   "category": "proverbium"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.16.7",
+   "source_text": "Scribonianus arma in Illyrico contra Claudium moverat; fuerat Paetus in partibus, et occiso Scriboniano Romam trahebatur.",
+   "question": "In qua provincia Scribonianus arma contra Claudium movit?",
+   "answer": "In Illyrico.",
+   "question_en": "In which province did Scribonianus take up arms against Claudius?",
+   "answer_en": "In Illyricum.",
+   "derivation": "The revolt of Camillus Scribonianus in Dalmatia/Illyricum in AD 42. Anchored to the named rebel + emperor; stated verbatim. Closed-book: the rising is a well-known episode of Claudius' reign and the frame of the Arria story.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.16.9",
+   "source_text": "Non impetravit: conduxit piscatoriam nauculam, ingensque navigium minimo secuta est.",
+   "question": "Quo navigio Arria maritum captum Romam navi tractum secuta est?",
+   "answer": "Piscatoria naucula.",
+   "question_en": "In what vessel did Arria follow her captive husband as he was carried to Rome by ship?",
+   "answer_en": "In a little fishing boat.",
+   "derivation": "Arria hiring a fisherman's skiff to follow her husband's warship. Anchored to Arria + Paetus; stated verbatim. Closed-book: it is one of the celebrated details of the Arria legend.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.16.10",
+   "source_text": "Quin etiam, cum Thrasea gener eius deprecaretur, ne mori pergeret, interque alia dixisset: 'Vis ergo filiam tuam, si mihi pereundum fuerit, mori mecum?', respondit: 'Si tam diu tantaque concordia vixerit tecum quam ego cum Paeto, volo.'",
+   "question": "Quis fuit Arriae gener?",
+   "answer": "Thrasea.",
+   "question_en": "Who was Arria's son-in-law?",
+   "answer_en": "Thrasea.",
+   "derivation": "Thrasea Paetus married to Arria's daughter. Anchored to both named persons; stated verbatim. Closed-book: Thrasea Paetus, the Stoic senator forced to die under Nero, is one of the best-known figures of the period.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.16.11",
+   "source_text": "Dum haec dicit, exsiluit cathedra adversoque parieti caput ingenti impetu impegit et corruit. Focilata 'Dixeram' inquit 'vobis inventuram me quamlibet duram ad mortem viam, si vos facilem negassetis.'",
+   "question": "Quo modo Arria mortem sibi consciscere temptavit, cum attentius custodiretur?",
+   "answer": "Caput adverso parieti impegit.",
+   "question_en": "How did Arria attempt to kill herself when she was being watched more closely?",
+   "answer_en": "She dashed her head against the wall opposite.",
+   "derivation": "Arria's demonstration that no guard could keep her from death. Anchored to the named woman; stated verbatim. Closed-book: the episode belongs to the standard telling of the Arria exemplum.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.18.1",
+   "source_text": "Officium consulatus iniunxit mihi, ut rei publicae nomine principi gratias agerem. Quod ego in senatu cum ad rationem et loci et temporis ex more fecissem, bono civi convenientissimum credidi eadem illa spatiosius et uberius volumine amplecti.",
+   "question": "Quo munere fungens Plinius rei publicae nomine principi in senatu gratias egit?",
+   "answer": "Consul.",
+   "question_en": "In what office did Pliny render thanks to the emperor in the senate on behalf of the state?",
+   "answer_en": "As consul.",
+   "derivation": "The consular gratiarum actio, later expanded into the published Panegyricus. Anchored to Pliny + the emperor; stated verbatim. Closed-book: the consul's speech of thanks is a fixed institution, and Pliny's is the only one preserved.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.18.4",
+   "source_text": "foedissimis insuper tempestatibus per biduum convenerunt, cumque modestia mea finem recitationi facere voluisset, ut adicerem tertium diem exegerunt.",
+   "question": "Per quot dies Plinius librum gratiarum actionis amicis recitavit?",
+   "answer": "Per triduum.",
+   "question_en": "For how many days did Pliny recite his book of thanksgiving to his friends?",
+   "answer_en": "For three days.",
+   "derivation": "The three-day recitation of the expanded Panegyricus. Anchored to Pliny + the work; stated verbatim. Closed-book: the multi-day recitatio before invited friends is the standard mode of Roman publication.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.19.7",
+   "source_text": "Superest ut scias quanti videantur posse emi. Sestertio triciens, non quia non aliquando quinquagiens fuerint, verum et hac penuria colonorum et communi temporis iniquitate ut reditus agrorum sic etiam pretium retro abiit.",
+   "question": "Quanti praedia agris Plinii vicina emi posse videbantur?",
+   "answer": "Sestertio triciens.",
+   "question_en": "For how much did the estates neighbouring Pliny's land seem able to be bought?",
+   "answer_en": "For three million sesterces.",
+   "derivation": "The asking price of the neighbouring estates, down from five million. Anchored to Pliny's deliberation; the figure is stated verbatim. Closed-book: land prices and the shortage of tenant farmers are real, salient facts of the Italian economy.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.19.7",
+   "source_text": "Sunt ergo instruendi, eo pluris quod frugi, mancipiis; nam nec ipse usquam vinctos habeo nec ibi quisquam.",
+   "question": "Quid Plinius de mancipiis vinctis in praediis suis affirmat?",
+   "answer": "Nullos se vinctos habere.",
+   "question_en": "What does Pliny assert about chained slaves on his estates?",
+   "answer_en": "That he keeps none in chains.",
+   "derivation": "Pliny's refusal to use chain-gang slave labour (servi vincti). Anchored to Pliny + his estates; stated verbatim. Closed-book: the chained agricultural slave and the ergastulum are a well-known institution of Roman farming, which Pliny pointedly avoids.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.20.1-2",
+   "source_text": "Meministine te saepe legisse, quantas contentiones excitarit lex tabellaria, quantumque ipsi latori vel gloriae vel reprehensionis attulerit? At nunc in senatu sine ulla dissensione hoc idem ut optimum placuit: omnes comitiorum die tabellas postulaverunt.",
+   "question": "Quid senatores comitiorum die postulaverunt, ut suffragia tacita fierent?",
+   "answer": "Tabellas.",
+   "question_en": "What did the senators demand on election day, so that the voting should be silent?",
+   "answer_en": "Voting tablets.",
+   "derivation": "The introduction of the secret ballot into senatorial elections, recalling the republican lex tabellaria. Anchored to the senate + election day; stated verbatim. Closed-book: the tabella and the ballot laws are famous institutions of Roman voting.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.20.5",
+   "source_text": "Supersunt senes ex quibus audire soleo hunc ordinem comitiorum: citato nomine candidati silentium summum; dicebat ipse pro se; explicabat vitam suam, testes et laudatores dabat vel eum sub quo militaverat, vel eum cui quaestor fuerat, vel utrumque si poterat.",
+   "question": "Quos testes et laudatores candidatus antiquitus in senatu dare solebat?",
+   "answer": "Eum sub quo militaverat vel eum cui quaestor fuerat.",
+   "question_en": "Whom did a candidate of old bring forward in the senate as witnesses and commenders?",
+   "answer_en": "The man under whom he had served, or the man whose quaestor he had been.",
+   "derivation": "The old form of senatorial elections: the candidate speaking for himself and producing his commander or his consul as guarantors. Anchored to the senate's electoral custom; stated verbatim. Closed-book: the bond between a magistrate and his quaestor is a well-known feature of Roman public life.",
+   "category": "ius"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.21.1",
+   "source_text": "Audio Valerium Martialem decessisse et moleste fero. Erat homo ingeniosus acutus acer, et qui plurimum in scribendo et salis haberet et fellis nec candoris minus.",
+   "question": "Cuius poetae mortem Plinius Cornelio Prisco nuntiat?",
+   "answer": "Valeri Martialis.",
+   "question_en": "Whose death as a poet does Pliny announce to Cornelius Priscus?",
+   "answer_en": "That of Valerius Martialis.",
+   "derivation": "Pliny's obituary notice of the epigrammatist Martial. Anchored to the named poet; stated verbatim. Closed-book: this letter is the principal ancient evidence for Martial's death and for the friendship between the two writers.",
+   "category": "historia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.21.2",
+   "source_text": "Prosecutus eram viatico secedentem; dederam hoc amicitiae, dederam etiam versiculis, quos de me composuit.",
+   "question": "Quid Plinius Martiali ab urbe secedenti dedit?",
+   "answer": "Viaticum.",
+   "question_en": "What did Pliny give Martial when he withdrew from the city?",
+   "answer_en": "Travelling money.",
+   "derivation": "Pliny paying Martial's fare home to Spain. Anchored to the two named men; stated verbatim. Closed-book: the viaticum given by a patron to a departing friend is a recognized Roman social courtesy.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.21.3",
+   "source_text": "Fuit moris antiqui eos, qui vel singulorum laudes vel urbium scripserant, aut honoribus aut pecunia honorare; nostris vero temporibus ut alia speciosa et egregia ita hoc in primis exolevit.",
+   "question": "Quo more antiquo ii honorabantur, qui vel singulorum vel urbium laudes scripserant?",
+   "answer": "Honoribus aut pecunia.",
+   "question_en": "By what ancient custom were those honoured who had written the praises of individuals or of cities?",
+   "answer_en": "With offices or with money.",
+   "derivation": "The old custom of rewarding panegyric poets with public honours or cash. Anchored to Pliny's report + the practice; stated verbatim. Closed-book: literary patronage and its rewards are central to Roman cultural life.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.21.5",
+   "source_text": "Alloquitur Musam, mandat, ut domum meam Esquiliis quaerat, adeat reverenter.",
+   "question": "In quo Romae colle domum Plinii Martialis carmine suo Musam quaerere iubet?",
+   "answer": "In Esquiliis.",
+   "question_en": "On which hill of Rome does Martial in his poem bid his Muse seek Pliny's house?",
+   "answer_en": "On the Esquiline.",
+   "derivation": "Pliny's house on the Esquiline, as addressed in Martial 10.19. Anchored to Pliny + Martial; stated verbatim. Closed-book: the hills of Rome and their residents are shared topographical knowledge.",
+   "category": "geographia"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.21.5",
+   "source_text": "totos dat tetricae dies Minervae, dum centum studet auribus virorum hoc, quod saecula posterique possint Arpinis quoque comparare chartis.",
+   "question": "Cuius oratoris chartis Martialis Plinii scripta comparari posse dicit, cum eas Arpinas nominat?",
+   "answer": "Ciceronis.",
+   "question_en": "To which orator's pages does Martial say Pliny's writings may be compared, when he calls them 'the pages of Arpinum'?",
+   "answer_en": "To Cicero's.",
+   "derivation": "The periphrasis 'Arpinae chartae' for Cicero, born at Arpinum. Anchored to Martial's poem on Pliny; stated verbatim. Closed-book: Cicero's origin at Arpinum is standard shared knowledge, and the periphrasis presupposes it.",
+   "category": "mores"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.21.5",
+   "source_text": "totos dat tetricae dies Minervae, dum centum studet auribus virorum hoc, quod saecula posterique possint Arpinis quoque comparare chartis.",
+   "question": "Cui deae Martialis Plinium totos dies dare dicit?",
+   "answer": "Minervae.",
+   "question_en": "To which goddess does Martial say Pliny gives whole days?",
+   "answer_en": "To Minerva.",
+   "derivation": "Minerva as patroness of study and eloquence, contrasted in the same poem with Lyaeus of the evening. Anchored to Martial's verses on Pliny; stated verbatim. Closed-book: Minerva's patronage of learning is core Roman religious-cultural knowledge.",
+   "category": "mythos"
+  },
+  {
+   "locus": "Pliny the Younger, Epistulae 3.21.5",
+   "source_text": "Seras tutior ibis ad lucernas; haec hora est tua, cum furit Lyaeus, cum regnat rosa, cum madent capilli. Tunc me vel rigidi legant Catones.",
+   "question": "Quo cognomine Martialis in his versibus Bacchum appellat?",
+   "answer": "Lyaeum.",
+   "question_en": "By what title does Martial call Bacchus in these verses?",
+   "answer_en": "Lyaeus.",
+   "derivation": "Lyaeus ('the loosener'), a canonical cult-title of Bacchus, here standing for the wine of the evening hour. Anchored to Martial's poem; stated verbatim. Closed-book: the divine epithets of Bacchus are shared mythological knowledge, and the rose-garlands and scented hair of the drinking hour are the standard convivial scene.",
+   "category": "mythos"
+  }
+ ]
+}
