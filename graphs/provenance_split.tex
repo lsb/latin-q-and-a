@@ -1,0 +1,48 @@
+\documentclass[border=6pt]{standalone}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{xcolor}
+\definecolor{k0}{HTML}{2A78D6}
+\definecolor{k1}{HTML}{EB6834}
+\definecolor{surface}{HTML}{FCFCFB}
+\definecolor{ink}{HTML}{0B0B0B}
+\definecolor{muted}{HTML}{52514E}
+\definecolor{gridc}{HTML}{E8E7E3}
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[
+  width=13cm, height=11cm,
+  xlabel={questions solved at least once in three tries (\%)},
+  xlabel style={font=\small, color=muted},
+  tick label style={font=\footnotesize, color=muted},
+  xmin=-3, xmax=103, ymin=-0.8, ymax=14.8,
+  ytick={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14},
+  yticklabels={gemma4 31B,qwen3.6 27B,qwen3 30B-A3B think,gemma4 12B,qwen2.5 32B,qwen3 30B-A3B instruct,qwen3 4B think,LFM2.5 2.6B,qwen2.5 7B,gemma4 e2b,qwen3 4B instruct,qwen2.5 3B,qwen2.5 1.5B,LFM2.5 230M,qwen2.5 0.5B},
+  y dir=reverse, ytick style={draw=none},
+  yticklabel style={font=\footnotesize, color=ink},
+  xmajorgrids, grid style={gridc, line width=0.3pt},
+  axis line style={gridc}, axis x line*=bottom, axis y line*=left,
+  legend style={draw=none, font=\footnotesize, at={(0.99,0.02)}, anchor=south east},
+]
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(69.12,0) (90.91,0)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(69.12,1) (83.33,1)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(57.35,2) (64.18,2)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(44.12,3) (68.18,3)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(42.42,4) (61.29,4)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(25.00,5) (40.91,5)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(26.47,6) (28.36,6)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(16.67,7) (32.26,7)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(10.61,8) (24.19,8)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(4.48,9) (22.73,9)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(10.29,10) (12.12,10)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(9.09,11) (11.29,11)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(4.55,12) (3.23,12)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(3.03,13) (1.61,13)};
+\addplot[gridc, line width=1.6pt, forget plot] coordinates {(1.52,14) (1.61,14)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=k0, draw=surface, line width=0.8pt}] coordinates {(69.12,0) (69.12,1) (57.35,2) (44.12,3) (42.42,4) (25.00,5) (26.47,6) (16.67,7) (10.61,8) (4.48,9) (10.29,10) (9.09,11) (4.55,12) (3.03,13) (1.52,14)};
+\addlegendentry{corpus-anchored (70 questions)}
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=k1, draw=surface, line width=0.8pt}] coordinates {(90.91,0) (83.33,1) (64.18,2) (68.18,3) (61.29,4) (40.91,5) (28.36,6) (32.26,7) (24.19,8) (22.73,9) (12.12,10) (11.29,11) (3.23,12) (1.61,13) (1.61,14)};
+\addlegendentry{homemade (69 questions)}
+\end{axis}
+\end{tikzpicture}
+\end{document}
