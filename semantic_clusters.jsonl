@@ -12,6 +12,7 @@
 {"model": "gemma4:12b", "qid": "2029d5955276", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Populo.", "1": "Ficu.", "2": "Vinea."}}
 {"model": "gemma4:12b", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Menaechmus.", "1": "Puer.", "2": "Pappus."}}
 {"model": "gemma4:12b", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Nullo.", "1": "In die nono.", "2": "Kalendae."}}
+{"model": "gemma4:12b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Labienus.", "1": "Metellus.", "2": "Metellus."}}
 {"model": "gemma4:12b", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Lex Sempronia.", "1": "Lex Publilia.", "2": "Lex Publilia."}}
 {"model": "gemma4:12b", "qid": "35ea27377f2c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Nullas.", "1": "Trecentesim.", "2": "Decem milia."}}
 {"model": "gemma4:12b", "qid": "3818371d4f28", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Piper et cuminum.", "1": "Piper et carum.", "2": "Piper et cuminum."}}
@@ -41,6 +42,7 @@
 {"model": "gemma4:12b", "qid": "a55aab74c0b6", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Crescens.", "1": "Coriandrum.", "2": "Brassice."}}
 {"model": "gemma4:12b", "qid": "a5a2b7d87166", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Oleris.", "1": "Foliis pistaceorum."}}
 {"model": "gemma4:12b", "qid": "ac17de2c2c96", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Sudore.", "1": "Sudore.", "2": "Sudor."}}
+{"model": "gemma4:12b", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Iuppiter Tonans.", "1": "Caelo.", "2": "Superiore."}}
 {"model": "gemma4:12b", "qid": "b3046bc3f7a2", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Calceus.", "1": "Socceus.", "2": "Calceus."}}
 {"model": "gemma4:12b", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Pompeiani.", "1": "Lucullus.", "2": "Pompeii."}}
 {"model": "gemma4:12b", "qid": "b844e30a057f", "clusters": {"1": 0, "2": 1}, "answers": {"1": "Viginti quattuor.", "2": "Nihil."}}
@@ -78,6 +80,7 @@
 {"model": "gemma4:31b", "qid": "99e8104ce67e", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Veneri.", "1": "Minervae.", "2": "Minervae."}}
 {"model": "gemma4:31b", "qid": "a02557cc91bd", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Publius Cornelius Scipio Africanus.", "1": "Publius Cornelius Scipio Africanus.", "2": "Publius Cornelius Scipio."}}
 {"model": "gemma4:31b", "qid": "ac17de2c2c96", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Sordes gladiatorum.", "1": "Sordes gladiatoriae.", "2": "Sordes."}}
+{"model": "gemma4:31b", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Ex oriente.", "1": "Ex oriente.", "2": "Oriente."}}
 {"model": "gemma4:31b", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Marcus Octavius.", "1": "Marcus Claudius Marcellus.", "2": "Marcus Octavius."}}
 {"model": "gemma4:31b", "qid": "ccc300d45426", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Coriandro.", "1": "Petroselinis.", "2": "Cum coriandro."}}
 {"model": "gemma4:31b", "qid": "cd0401967554", "clusters": {"1": 0, "2": 1}, "answers": {"1": "Amineum.", "2": "Purissimum."}}
@@ -91,6 +94,7 @@
 {"model": "gemma4:e2b", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Toga.", "1": "Tunica.", "2": "Toga."}}
 {"model": "gemma4:e2b", "qid": "027218a6ec6d", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Princeps.", "1": "Princeps.", "2": "Senatus."}}
 {"model": "gemma4:e2b", "qid": "0458c4bd232c", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Nihil. (Vel, si quaeritur nomen, hoc est enigma.)", "1": "Nescit.", "2": "Non est nomen belli."}}
+{"model": "gemma4:e2b", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Atellanus.", "1": "Atellanus.", "2": "Atellus."}}
 {"model": "gemma4:e2b", "qid": "0791372b030e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Libationes.", "1": "Non est definitum in litteris.", "2": "Ovis."}}
 {"model": "gemma4:e2b", "qid": "07ff634932c9", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Lauderes (vel artifex textilis).", "1": "Lauder.", "2": "Lictor."}}
 {"model": "gemma4:e2b", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Nihil tibi dicere potest in hac quaestione sine contextu.", "1": "Non est nomen.", "2": "Nihil est in litteris."}}
@@ -108,6 +112,7 @@
 {"model": "gemma4:e2b", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Pontifices.", "1": "Pontifices.", "2": "Sacerdotes."}}
 {"model": "gemma4:e2b", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Caius.", "1": "Atellanus.", "2": "Nomen non est praepositum."}}
 {"model": "gemma4:e2b", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Non est dies determinatus.", "1": "Non est die specificus in hoc contextu.", "2": "Diurnum."}}
+{"model": "gemma4:e2b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Pompeius.", "1": "Cato.", "2": "Hannibal."}}
 {"model": "gemma4:e2b", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Non est ut quod in exemplis praescriptum est.", "1": "Pessarium.", "2": "Sella."}}
 {"model": "gemma4:e2b", "qid": "2ffe9e5f4a59", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Arma et equipo.", "1": "Arma et officia.", "2": "Arma, armatura, instrumenta et vivustium."}}
 {"model": "gemma4:e2b", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Nullum.", "1": "Nihil (vel lege specificae).", "2": "In ius tribuniciae."}}
@@ -132,6 +137,7 @@
 {"model": "gemma4:e2b", "qid": "62781ac436d6", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Non est notum.", "1": "Non est in textu.", "2": "Non est distinctum."}}
 {"model": "gemma4:e2b", "qid": "64cd0833835e", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Iovis et Junonis.", "2": "Deorum."}}
 {"model": "gemma4:e2b", "qid": "64d77813974d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Magister.", "1": "Paedagogus.", "2": "Grammaticus. (Or potentially a specific teacher if context is assumed, but Grammaticus covers the reading/writing aspect best).\n\n*(Note: If a more specific historical name is required by the original source of this riddle, it would need further contextual clues.)*"}}
+{"model": "gemma4:e2b", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Aurigae.", "1": "Circuli.", "2": "Cursum."}}
 {"model": "gemma4:e2b", "qid": "6ba049b7cae0", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Sanguis.", "1": "(Responsum non est in praesenti contextu definitum.)", "2": "(Non est definitum in contextu praesente.)"}}
 {"model": "gemma4:e2b", "qid": "6d9f686e32fb", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Non est in contextu.", "1": "Nomen non est in exemplis.", "2": "Cato."}}
 {"model": "gemma4:e2b", "qid": "6e67a70205d4", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mel.", "1": "Olio vel vinum.", "2": "Vino."}}
@@ -141,6 +147,7 @@
 {"model": "gemma4:e2b", "qid": "7cf3bd531b95", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Carrus.", "1": "Carruca.", "2": "Currus."}}
 {"model": "gemma4:e2b", "qid": "86d8b21b8b49", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Nihil est praescriptum.", "1": "Rex.", "2": "Rex."}}
 {"model": "gemma4:e2b", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "In campo.", "1": "In campo.", "2": "Bellum."}}
+{"model": "gemma4:e2b", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 0}, "answers": {"0": "Montes Atlas.", "1": "Montes."}}
 {"model": "gemma4:e2b", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ascanio.", "1": "Attalus.", "2": "Nomen non est citatum. (Or potentially a specific name if context is provided, but without further context regarding which \"fabulae Atellanis\" are referenced, a direct name cannot be supplied.)\n\n*(Note: If this refers to a very specific text, the answer would depend entirely on that source. Lacking that source, I state that the name is not specified in general knowledge.)*"}}
 {"model": "gemma4:e2b", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Gloria.", "1": "Non est notum.", "2": "Praemium."}}
 {"model": "gemma4:e2b", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Foculus vel calcinus.", "1": "Ferrum."}}
@@ -215,6 +222,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Tunicae senatoriae, praetexta et alia varietas.", "1": "Toga praetexta.", "2": "Tunicae sub toga praetexta."}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "027218a6ec6d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Imperator", "1": "Denarii", "2": "Praefectus Urbi"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "0458c4bd232c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Nemo me impune laudo.", "1": "Ludo", "2": "Hypostasium"}}
+{"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Tullius", "1": "Scurrucularius", "2": "Dellus"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "0791372b030e", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Vinum", "2": "Ovis"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "07ff634932c9", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Textilius", "1": "tannator", "2": "Servi"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Numa Pompilius", "1": "Gnaeus Marcius Florus", "2": "Sostratus"}}
@@ -232,6 +240,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "22d8b079fcde", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Comedia", "1": "Palliata", "2": "Comedia Nova"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Agelas", "1": "Crocus", "2": "Scorpio"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Die undicisi.", "1": "Idibus Martialibus", "2": "Quinquartae die"}}
+{"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Scipio", "1": "Cera inlita", "2": "Scipio Africanus"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Patera", "1": "Lagus", "2": "Patera"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Lex Hortensia", "1": "Lex Publilia.", "2": "Lex Publilia."}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "35ea27377f2c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quinquaginta asses.", "1": "Duodecim", "2": "Trecenta asse"}}
@@ -256,6 +265,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "6278acd0b0c3", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Quattuor", "1": "Quattuor", "2": "Tres"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "64cd0833835e", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Deo Marte.", "1": "Mars", "2": "Deo et Marito"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "64d77813974d", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Magister", "1": "Litterarum magistratus"}}
+{"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "In quadriangulo.", "1": "Gradines", "2": "Rota"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "6b5d273332ed", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Styx", "1": "Mare Balearicum", "2": "Mare Mediterraneum"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "6ba049b7cae0", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Signum", "1": "Fulgur", "2": "Signatura"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "6d9f686e32fb", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ceres", "1": "Aeneas", "2": "Mulier"}}
@@ -267,6 +277,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "7cf3bd531b95", "clusters": {"0": 0, "2": 1}, "answers": {"0": "cubitus", "2": "Cochleum"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "7d01838ce109", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Cohors I Augusta", "1": "Cohors III"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Troia", "1": "In mare"}}
+{"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Fretum Ibericum", "1": "Frausticum", "2": "Fretum Liganum."}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Bibius", "1": "Aulus Stultus", "2": "Pseudolus"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Praemium", "1": "Praemium vile.", "2": "Corona"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Furca", "1": "Strigilia", "2": "Raspadium"}}
@@ -291,6 +302,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "acfd9da7a6bc", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Fiscus divi", "1": "Ager publicus.", "2": "Ager divi communis est."}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "b023db04e281", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Panem et vinum.", "1": "Puls", "2": "Panis et vinum"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "b1f8e1c75f62", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Ceres", "1": "Iuppiter", "2": "Iuppiter Optimus Maximus"}}
+{"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "In caelo", "1": "Caelum", "2": "Fulmina in caelo dedit Iuppiter Romulo condenti."}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "b3046bc3f7a2", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Pantomimus", "1": "actor", "2": "Pantomimus"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "b370c142bc6e", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Stannum", "2": "Calx"}}
 {"model": "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Vinum", "1": "Lugidus", "2": "Pompeiensis"}}
@@ -337,6 +349,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "01aa96cc4d8f", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Virtutem.", "1": "Agrarianitas", "2": "Virtutem."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Praesenti.", "1": "Rutae et origani.", "2": "Rutae et origani."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "027218a6ec6d", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Eberes.", "1": "Qui nummis Romanis mutandis praesunt?\n\n[responsum]", "2": "Qui nummis Romanis mutandis praesunt?\n\nResponded by: [responsum]\n\nCompleted: [completed]"}}
+{"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Marcus.", "1": "[responsum]", "2": "Atellana."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "0791372b030e", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Cassandram.", "1": "Quid facere debet qui in ius vocat, antequam vocatum ire nolentem capiat, ex lege duodecim tabularum?\n\nResponding with the appropriate field marker is: `[responsum]`.", "2": "Quod Liba deo Summan ex more offeruntur pridie solstitium aestivum."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "07ff634932c9", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quis artifex vestimenta Romana purgat?\n\n[marker_completed]", "1": "Quix.", "2": "Christianorum.\n\n[[ ## completed ## ]"}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Quis primus Romae aqua horas et noctium et dierum divisit?\n\nRespond with the corresponding output fields, starting with the field ``.", "1": "Ex quo primus Romae aqua horas et noctium et dierum divisit?\n\nResponding with a simple sentence: \"Quo prima Romae aqua.\" \n\n[Completed field marked as output].", "2": "Quis primus Romae aqua horas et noctium et dierum divisit?\n\nRespond with the corresponding output fields:\n\n[responsum]"}}
@@ -353,6 +366,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Senecam (Annaeum).", "1": "Qui sacerdotes caelestia Martis arma per Urbem ferunt.", "2": "Quid sacerdotes caelestia Martis arma per Urbem ferunt?\n\nRespond"}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Crocum.", "1": "Crocus.", "2": "Crocus.\n\n[[ ## completed ## ]"}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Aspirationem.", "1": "Aspirationem.", "2": "Tritico."}}
+{"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Cera inlita.", "1": "In ad exercitu dux Caesaris reverit, quod Caesaris dux in Africa, amisso exercitur ad Caesarem reverti recusans proelians apud Uticam in interfectus est?\n\nResponding with `[ ## completed ## ]`", "2": "Caesaris dux in Africa, amisso exercitu, ad Caesarem reverti recusans proelians apud Uticam in interfectus est?\n\nRespond with the marker for ``."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Eurydicen.", "1": "Exempliis.", "2": "Eurydicen."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "2ffe9e5f4a59", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Sappho.", "1": "Ius candidum.", "2": "Issu."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "31e6c85272fd", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Somni.", "1": "Lares.", "2": "Lares."}}
@@ -379,6 +393,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "64cd0833835e", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Priamo.", "2": "Quod sit nominis sepulcrales Romani."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "64d77813974d", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Consul.", "1": "Consul.", "2": "Quod est nomen magistri ludi qui pueros Romanos parvos prima elementa legendi, scribendi, ratiocinandique docebat?\n\n[responsum]"}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "692a9e204b7d", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Laser vivum.", "1": "Postumus.", "2": "Postumus."}}
+{"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quid aurigae in Circo Maximo rota circueundum erat?\n\nResponded field: `[ ## completed ## ]`\n\nMarker field: `[ ## completed ## ]`", "1": "'Caeris.", "2": "'Aerius.'"}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "6b5d273332ed", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Quod mare provinciam Hispaniam ab ora Mauretaniae dividit?\n\nResponded.", "1": "Quod mare provinciam Hispaniam ab ora Mauretaniae dividit.", "2": "Quod mare provinciam Hispaniam ab ora Mauretaniae dividit?\n\nResponded."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "6ba049b7cae0", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quid parvum et rubrum, Romano volumini affixum, nomen auctoremque eius indicat?\n\nResponded field: [responsum]\n\nCompleted field: [completed]", "1": "Cum nunc ad rubrum.", "2": "Crumbs."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "6d9f686e32fb", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Cuius rei insigne erant vittae tenues feminarum Romanarum.", "1": "Cuius rei insigne erant vittae tenues feminarum Romanarum.", "2": "Cuius rei."}}
@@ -391,6 +406,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "7d01838ce109", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Oculus.", "1": "Sophia.", "2": "Nomen magna cohortis."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "86d8b21b8b49", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Quas regis ludicri Saturnalibus electi.", "1": "Titulus regis ludicri Saturnalibus electi.", "2": "Quis est titulus regis ludicri Saturnalibus electi?\n\nRespond with the corresponding output fields, starting with the field ``."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Rutae et origani.", "1": "Rutae et origani.", "2": "Dicutus Scamander."}}
+{"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "In Britannia.", "1": "Quod fretum provinciam Hispaniam ab ora Mauretaniae dividit?\n\nResponded with: \"In Britannia.\"", "2": "Quod fretum provinciam Hispaniam ab ora Mauretaniae dividit."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Nomen seni stulto in fabulis Atellanis.", "1": "Nomen erat seni stulto in fabulis Atellanis.", "2": "Nomen erat seni stulto in fabulis Atellanis."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Horatius.", "1": "Horatius scribit.", "2": "Horatius."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Psittaco.", "1": "Psittaco.", "2": "Quod instrumentum Romanum calefactum ad capillos crispandos adhibetur?\n\nRespond with the corresponding output field:\n\n```json\n{\"responsum\": \"Quod instrumentum\"}\n```"}}
@@ -418,6 +434,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "acfd9da7a6bc", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "", "1": "Agamemnon.", "2": "Quid est area sub divo communis in villis Romanis?\n\nResponding field: [responsum]\n\nCompleted field: [completed]"}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "b023db04e281", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quot.", "1": "Quid est nomen victūs Gladiatorum Romanorum?\n\n[responsum]", "2": "Idibus Gladiatorum Romanorum."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "b1f8e1c75f62", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Cui deo soli antiquitas Salios sacerdotes dicaverat, ut apud Macrobium refertur?\n\nResponding field: ``\n\nMarker for completed field: ``", "1": "Cui deo soli antiquitas Salios sacerdotes dicaverat, ut apud Macrobium refertur?\n\nRespond with the corresponding output field.", "2": "Cui deo soli antiquitas Salios sacerdotes dicaverat."}}
+{"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Qua caeli parte Iuppiter Romulo urbem condenti tonitrua et fulmina dedit.\n\n[## completed ## ]]", "1": "Qua caeli parte Iuppiter Romulo urbem condenti tonitrua et fulmina dedit?\n\nRespond", "2": "Qua caeli parte Iuppiter Romulo urbem condenti tonitrua et fulmina dedit.\n\nResponded output fields:\n- responsive: \"Qua\"\n- completed: \"I\""}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "b370c142bc6e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "In lacte.", "1": "Cerebella.", "2": "Eurydicen."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Caoius.", "1": "Quorum nominibus Romani vina condita notabant.", "2": "Consul."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "b7e430bf957b", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Cure.", "1": "Phidiae.", "2": "Phidiae."}}
@@ -431,6 +448,7 @@
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "c491e2f2fb3d", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Felicitatis.", "1": "Virtutem.", "2": "Virtutem."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "c616fbcf8d4d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ex quaestio.", "1": "Ex quod nummos Romanos probabant et falsos a genuinis distinguuebant.", "2": "Ex quorum veritas et veritas."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "c705a3271bb5", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Cuius dei primus mensis in anno Romuli fuit.\n\n[## completed ## ]]", "1": "Ex quo ius primus dominis in anno Romuli fuit.", "2": "Cuius dei primus mensis in anno Romuli fuit?\n\nResponding fields:\n- Responsum: Cuius antiquissimus primus mensis.\n- Completed: Romaniis."}}
+{"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "ca7e50d99963", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Systema publicam vehiculorum et mansionum quo nuntii et magistratus Romani per imperium celeriter iter faciebant.", "1": "Chaos.", "2": "Systema publicam vehiculorum et mansionum quo nuntii et magistratus Romani per imperium celeriter iter faciebant."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "ccc300d45426", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Quo omne holus apud Apicium smaragdinum fit.", "1": "Nervi.", "2": "Nervi."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "cd0401967554", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Cum hoc viis ad multis optimum viam albi Campani.", "1": "Cranellae.", "2": "Vigna Campani albi."}}
 {"model": "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0", "qid": "ce37a43e3104", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "C. Martis.", "1": "C. Martius.", "2": "C. Martis."}}
@@ -466,6 +484,7 @@
 {"model": "qwen2.5:0.5b", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "", "1": "Aurea.", "2": "Veronica."}}
 {"model": "qwen2.5:0.5b", "qid": "027218a6ec6d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Duis et nascet.", "1": "Quid in qua non aere et in caedis, in quibus non seseque.", "2": "In hoc litteram."}}
 {"model": "qwen2.5:0.5b", "qid": "0458c4bd232c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Tetramari.", "1": "[...]", "2": "Quae quinque latines."}}
+{"model": "qwen2.5:0.5b", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Instituta.", "1": "Inventum.", "2": "Quod nomen erat personae scurrilis et edacis in fabula Atellana?"}}
 {"model": "qwen2.5:0.5b", "qid": "0791372b030e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "In aeternam.", "1": "quae libera.", "2": "Ducem."}}
 {"model": "qwen2.5:0.5b", "qid": "07ff634932c9", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Romani.", "1": "Non.", "2": "Romanus."}}
 {"model": "qwen2.5:0.5b", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ia", "1": "Dularum.", "2": "Quis primus Romae aqua iuvenes et nocturnas decepto."}}
@@ -486,6 +505,7 @@
 {"model": "qwen2.5:0.5b", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "", "1": "Sacerdos.", "2": "Pacem."}}
 {"model": "qwen2.5:0.5b", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "[edacis]", "1": "In hoc letteram aedificatur.", "2": "Dolores."}}
 {"model": "qwen2.5:0.5b", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Eiusdem.", "1": "Hoc est ex hypothesi.", "2": "Dactyli."}}
+{"model": "qwen2.5:0.5b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ad Caesarem exercitis.", "1": "Cum praebat.", "2": "Quis Caesaris dux in Africa, amisso exercitu, ad Caesarem reverti recusans proelians apud Uticam in interfectus est?"}}
 {"model": "qwen2.5:0.5b", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Eurydicen.", "1": "Vas fictile.", "2": "Epulium."}}
 {"model": "qwen2.5:0.5b", "qid": "2ffe9e5f4a59", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Rum.", "1": "Grapes.", "2": "Quae sunt: aliusque calceamenta et gravibus."}}
 {"model": "qwen2.5:0.5b", "qid": "31e6c85272fd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Durene.", "1": "Hoc est Iulius.", "2": "Insecta."}}
@@ -515,6 +535,7 @@
 {"model": "qwen2.5:0.5b", "qid": "64cd0833835e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quibus numinibus tituli sepulcrales Romani, litteris D M notati, dedicari solent?", "1": "Ad abe titulis sepulcrales Romani litteris D M notati dedicari solent.", "2": "Instantium."}}
 {"model": "qwen2.5:0.5b", "qid": "64d77813974d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quae est nomen ludi Romanus.", "1": "In Italia.", "2": "In Grecia."}}
 {"model": "qwen2.5:0.5b", "qid": "692a9e204b7d", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Quid propter ducimus quibusdam.", "1": "", "2": ""}}
+{"model": "qwen2.5:0.5b", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "[.]", "1": "Quid aurigae in Circo Maximo rota circueundum erat?", "2": "In quo contra, iuvaret."}}
 {"model": "qwen2.5:0.5b", "qid": "6b5d273332ed", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Provincia Hispaniae dividit.", "1": "Per quosque Hispaniae.", "2": "Heberidis."}}
 {"model": "qwen2.5:0.5b", "qid": "6ba049b7cae0", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Respondeo ad verum est.", "1": "Romano.", "2": "Quam in."}}
 {"model": "qwen2.5:0.5b", "qid": "6d9f686e32fb", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "quid non inveniantur.", "1": "Familia.", "2": "feminae."}}
@@ -527,6 +548,7 @@
 {"model": "qwen2.5:0.5b", "qid": "7d01838ce109", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Glasia.", "1": "Non sunt nemo.", "2": "Non, quid est magnae cohens."}}
 {"model": "qwen2.5:0.5b", "qid": "86d8b21b8b49", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Sатур.", "1": "", "2": "Regum."}}
 {"model": "qwen2.5:0.5b", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Dumque id est.", "1": "", "2": "In auro."}}
+{"model": "qwen2.5:0.5b", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "In Hispania.", "1": "Causa aedificatur Hispaniae.", "2": "Provinciam Hispaniam."}}
 {"model": "qwen2.5:0.5b", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Invenio.", "1": "in fabulis.", "2": "et sciepe."}}
 {"model": "qwen2.5:0.5b", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quid vult.", "1": "Vile.", "2": "Inveni autem."}}
 {"model": "qwen2.5:0.5b", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Insignis.", "1": "Celtis.", "2": "Inferi."}}
@@ -558,6 +580,7 @@
 {"model": "qwen2.5:0.5b", "qid": "acfd9da7a6bc", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "", "1": "Area sub diva communis est recta.", "2": "Litus."}}
 {"model": "qwen2.5:0.5b", "qid": "b023db04e281", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Victus.", "1": "Gladiatorum.", "2": "Gladiatorem."}}
 {"model": "qwen2.5:0.5b", "qid": "b1f8e1c75f62", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Sacerdotum.", "1": "Sacerdos.", "2": "Quid sibi interdictus est."}}
+{"model": "qwen2.5:0.5b", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Iuppiter Romulo.", "1": "Iuppiter Romulo.", "2": "Iapos."}}
 {"model": "qwen2.5:0.5b", "qid": "b3046bc3f7a2", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Quae calces non erant.", "1": "Pater.", "2": "Quae calces."}}
 {"model": "qwen2.5:0.5b", "qid": "b370c142bc6e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Qua materia alba Romanae mulieres utuntur ut facies suas dealbent?", "1": "La resina.", "2": "In aula."}}
 {"model": "qwen2.5:0.5b", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Marius.", "1": "Pompeii.", "2": "Pompeia."}}
@@ -573,6 +596,7 @@
 {"model": "qwen2.5:0.5b", "qid": "c491e2f2fb3d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Iunior.", "1": "Credo.", "2": "Oculus, per se."}}
 {"model": "qwen2.5:0.5b", "qid": "c616fbcf8d4d", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Quid cunctos in quoque fuit auctoritas?", "1": "Cuius est auctoritas.", "2": "Inquit, quae nummos vero aeternas sunt, non probabuntur. Oporteat aurea ad deum."}}
 {"model": "qwen2.5:0.5b", "qid": "c705a3271bb5", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "", "1": "", "2": "Iui."}}
+{"model": "qwen2.5:0.5b", "qid": "ca7e50d99963", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Rationis.", "1": "Rivalum.", "2": "Quaestiones de rebus Romanis litterisque Latinis sine libris."}}
 {"model": "qwen2.5:0.5b", "qid": "cbff8caba2a0", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quid noster deo in aperuere?", "1": "Romam.", "2": "Scutum."}}
 {"model": "qwen2.5:0.5b", "qid": "ccc300d45426", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quae cocta cum caput tracta est.", "1": "Quae.", "2": "cum cocto."}}
 {"model": "qwen2.5:0.5b", "qid": "cd0401967554", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Veronica.", "1": "Rosa.", "2": "Vino."}}
@@ -612,6 +636,7 @@
 {"model": "qwen2.5:1.5b", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Scutum et toga.", "1": "Latinum et veluti.", "2": "Tunica vesta."}}
 {"model": "qwen2.5:1.5b", "qid": "027218a6ec6d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Aemilius Lepidus.", "1": "Mundus.", "2": "Hercule."}}
 {"model": "qwen2.5:1.5b", "qid": "0458c4bd232c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ludi Castillae.", "1": "Jovis.", "2": "Dicebat Caesare."}}
+{"model": "qwen2.5:1.5b", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "\"Marcellus\"", "1": "Caius Fabricius.", "2": "\"Stygius.\""}}
 {"model": "qwen2.5:1.5b", "qid": "0791372b030e", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Aqua deo Summano.", "1": "Acnetrae.", "2": "Aqua quarta."}}
 {"model": "qwen2.5:1.5b", "qid": "07ff634932c9", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Fabricius.", "1": "Apicius.", "2": "Plinii."}}
 {"model": "qwen2.5:1.5b", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Romulus.", "1": "Quisquis", "2": "Quinii."}}
@@ -632,6 +657,7 @@
 {"model": "qwen2.5:1.5b", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Romani.", "1": "Satanas.", "2": "Helioptrix (ex Heliocephala)."}}
 {"model": "qwen2.5:1.5b", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Scarrina.", "1": "Scaevola.", "2": "Pompeia."}}
 {"model": "qwen2.5:1.5b", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "14 decembris.", "1": "Quinto die iuliis.", "2": "Quando ad fontes dies proripere cito."}}
+{"model": "qwen2.5:1.5b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "[ ] C. Vibius Silva", "1": "Vespasianus.", "2": "Maximinus"}}
 {"model": "qwen2.5:1.5b", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Vas factus est a sequestrator, ut in eum illa quae erant in oppidano, non adhiberentur.", "1": "Vas vini.", "2": "Vas de auro et albis."}}
 {"model": "qwen2.5:1.5b", "qid": "2ffe9e5f4a59", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Solea.", "1": "Captae.", "2": "Calcei."}}
 {"model": "qwen2.5:1.5b", "qid": "31e6c85272fd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Aequor.", "1": "Aventis.", "2": "Aeconem."}}
@@ -661,6 +687,7 @@
 {"model": "qwen2.5:1.5b", "qid": "64cd0833835e", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Ad deorum.", "1": "Ad Saturno.", "2": "Ad Dei."}}
 {"model": "qwen2.5:1.5b", "qid": "64d77813974d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Didacus.", "1": "Cicero.", "2": "Plato."}}
 {"model": "qwen2.5:1.5b", "qid": "692a9e204b7d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Aedilis.", "1": "Sedebat.", "2": "Paratus est."}}
+{"model": "qwen2.5:1.5b", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "In auro.", "1": "\"Rota circiebantur in eo.\"", "2": "Nulla."}}
 {"model": "qwen2.5:1.5b", "qid": "6b5d273332ed", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mare Oceanum.", "1": "", "2": "Mare Adriaticum."}}
 {"model": "qwen2.5:1.5b", "qid": "6ba049b7cae0", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Pistillum.", "1": "Aurora.", "2": "Vitellius."}}
 {"model": "qwen2.5:1.5b", "qid": "6d9f686e32fb", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Pons Austerius.", "1": "Cupiditates.", "2": "Lucifera."}}
@@ -673,6 +700,7 @@
 {"model": "qwen2.5:1.5b", "qid": "7d01838ce109", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Virio Magnus.", "1": "Cohors Valeriae.", "2": "Aemilius Paullus."}}
 {"model": "qwen2.5:1.5b", "qid": "86d8b21b8b49", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Sextus Pompeius.", "1": "[Saturnalia]", "2": "Sagittarius."}}
 {"model": "qwen2.5:1.5b", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Nilo.", "1": "Troiae.", "2": "Nile."}}
+{"model": "qwen2.5:1.5b", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "In Galliam.", "1": "In Rubriam.", "2": "In Rheni."}}
 {"model": "qwen2.5:1.5b", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Felix", "1": "Sylvestri.", "2": "Aesop."}}
 {"model": "qwen2.5:1.5b", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ducem.", "1": "Liber iudiciorum.", "2": "Pecunia"}}
 {"model": "qwen2.5:1.5b", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Syrupus.", "1": "Insectum.", "2": "Hoc est baculum."}}
@@ -703,6 +731,7 @@
 {"model": "qwen2.5:1.5b", "qid": "acfd9da7a6bc", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Dum nebulosae sunt lunae.", "1": "[Area] commune est inter arces et limes.", "2": ""}}
 {"model": "qwen2.5:1.5b", "qid": "b023db04e281", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Gladiator", "1": "Dux.", "2": "Hercules."}}
 {"model": "qwen2.5:1.5b", "qid": "b1f8e1c75f62", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Apollinare.", "1": "Jovis.", "2": "Apuleio."}}
+{"model": "qwen2.5:1.5b", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Sol.", "1": "Parte Iovis.", "2": "Parte terrae."}}
 {"model": "qwen2.5:1.5b", "qid": "b3046bc3f7a2", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Pantem.", "1": "Pantaloon.", "2": "Pantem."}}
 {"model": "qwen2.5:1.5b", "qid": "b370c142bc6e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Sanguis.", "1": "Cera.", "2": "In albis."}}
 {"model": "qwen2.5:1.5b", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Curio Pompeius.", "1": "Cleopatra.", "2": "Curio."}}
@@ -718,6 +747,7 @@
 {"model": "qwen2.5:1.5b", "qid": "c491e2f2fb3d", "clusters": {"1": 0, "2": 1}, "answers": {"1": "Ad Semele.", "2": "In Pisanio."}}
 {"model": "qwen2.5:1.5b", "qid": "c616fbcf8d4d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ego qui nunc loco sum probavi nummos Romanos et falsi a genuinis distinguebam.", "1": "Ex nummis genuinis.", "2": "Qui nummos Romanos probabant et falsos a genuinis distinguebant: Fabius Ambustus."}}
 {"model": "qwen2.5:1.5b", "qid": "c705a3271bb5", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Aeneae.", "1": "Romulus.", "2": "Apollinis."}}
+{"model": "qwen2.5:1.5b", "qid": "ca7e50d99963", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Regula.", "1": "Informatum."}}
 {"model": "qwen2.5:1.5b", "qid": "cbff8caba2a0", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Secunda.", "1": "Necesitatis.", "2": "In manu Domitii Apionis."}}
 {"model": "qwen2.5:1.5b", "qid": "ccc300d45426", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ore.", "1": "Nimis.", "2": "Nervi."}}
 {"model": "qwen2.5:1.5b", "qid": "cd0401967554", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Vitello.", "1": "Grape wine.", "2": "Oenotheatricum."}}
@@ -763,6 +793,7 @@
 {"model": "qwen2.5:32b", "qid": "1fe1280a3c81", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Ostrea.", "1": "Ovibus.", "2": "Vituli."}}
 {"model": "qwen2.5:32b", "qid": "2029d5955276", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Ficus.", "1": "Frusino.", "2": "Frusino."}}
 {"model": "qwen2.5:32b", "qid": "235bd254d98f", "clusters": {"0": 0, "1": 0}, "answers": {"0": "Horologium solare.", "1": "Horologium"}}
+{"model": "qwen2.5:32b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Petreius", "1": "Petreius.", "2": "Labienus."}}
 {"model": "qwen2.5:32b", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Pitharis.", "1": "Piparia.", "2": "Pignorum vas."}}
 {"model": "qwen2.5:32b", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Lex Ogulnia", "1": "Lex Genucia.", "2": "Lex Genucia"}}
 {"model": "qwen2.5:32b", "qid": "35ea27377f2c", "clusters": {"0": 0, "2": 1}, "answers": {"0": "24 asses.", "2": "Centum."}}
@@ -774,6 +805,7 @@
 {"model": "qwen2.5:32b", "qid": "56e5ce2a9287", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Garum.", "1": "Garum.", "2": "Garum antiquatum."}}
 {"model": "qwen2.5:32b", "qid": "5cff8c4f98e9", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Farina.", "1": "Panis.", "2": "Farina."}}
 {"model": "qwen2.5:32b", "qid": "5dede2c268dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Caesarea.", "1": "Circaeum.", "2": "Ad oppidum Portum Itycam."}}
+{"model": "qwen2.5:32b", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Miliaria.", "1": "Miliaria.", "2": "Miliarium."}}
 {"model": "qwen2.5:32b", "qid": "6b5d273332ed", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Mare Hispanicum.", "1": "Mare Oceanum.", "2": "Mare Oceanum."}}
 {"model": "qwen2.5:32b", "qid": "6d9f686e32fb", "clusters": {"1": 0, "2": 1}, "answers": {"1": "Vestis.", "2": "Virginitatis."}}
 {"model": "qwen2.5:32b", "qid": "6e67a70205d4", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Oeno et garum.", "1": "In melle ac uva passa.", "2": "In mel."}}
@@ -819,6 +851,7 @@
 {"model": "qwen2.5:3b", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Tunica talaris et tunica patrica.", "1": "Toga praetexta.", "2": "Toga pura."}}
 {"model": "qwen2.5:3b", "qid": "027218a6ec6d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Auctoritati consulum.", "1": "Aurei et aes denarius.", "2": "Cineri."}}
 {"model": "qwen2.5:3b", "qid": "0458c4bd232c", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Tabula.", "1": "'Vici.'", "2": "Tabula."}}
+{"model": "qwen2.5:3b", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Puer.", "1": "Feronem.", "2": "Pulcher."}}
 {"model": "qwen2.5:3b", "qid": "0791372b030e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Vino et oleo.", "1": "Vino.", "2": "Helium."}}
 {"model": "qwen2.5:3b", "qid": "07ff634932c9", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Tunicae.", "1": "Tunicae.", "2": "Mendicanti."}}
 {"model": "qwen2.5:3b", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Horapollo.", "1": "Claudius.", "2": "Quintus Caecilius Metellus."}}
@@ -837,6 +870,7 @@
 {"model": "qwen2.5:3b", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Belli Maritimam.", "1": "Cannensem (Cannens).", "2": "Belliones."}}
 {"model": "qwen2.5:3b", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Feronem.", "1": "Festinius.", "2": "Geminus."}}
 {"model": "qwen2.5:3b", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Natalis.", "1": "Natale.", "2": "Natali."}}
+{"model": "qwen2.5:3b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Marcellus.", "1": "Gaius Livius Druso.", "2": "Vindex."}}
 {"model": "qwen2.5:3b", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Vas alvum.", "1": "Vas cucullace.", "2": "Cupsam."}}
 {"model": "qwen2.5:3b", "qid": "2ffe9e5f4a59", "clusters": {"1": 0, "2": 1}, "answers": {"1": "Plumbaginaria.", "2": "Calces."}}
 {"model": "qwen2.5:3b", "qid": "31e6c85272fd", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Cloacalis.", "1": "Cloacalis.", "2": "Cloacae."}}
@@ -876,6 +910,7 @@
 {"model": "qwen2.5:3b", "qid": "7cf3bd531b95", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Velocipedum.", "1": "Carro.", "2": "Currus."}}
 {"model": "qwen2.5:3b", "qid": "7d01838ce109", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Gallia Comata.", "1": "Pecius.", "2": "Milviana."}}
 {"model": "qwen2.5:3b", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Gallia.", "1": "Tuberas.", "2": "Alpes."}}
+{"model": "qwen2.5:3b", "qid": "89dcb3f1e68b", "clusters": {"1": 0, "2": 1}, "answers": {"1": "Adriaticum.", "2": "Garamanum."}}
 {"model": "qwen2.5:3b", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Feronius.", "1": "Mumentum.", "2": "Spartacus."}}
 {"model": "qwen2.5:3b", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Satyrus.", "1": "Vulva.", "2": "Satirae."}}
 {"model": "qwen2.5:3b", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Auriculam.", "1": "Pulex.", "2": "Suetonio."}}
@@ -904,6 +939,7 @@
 {"model": "qwen2.5:3b", "qid": "ac17de2c2c96", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Laudanum.", "1": "Facialis.", "2": "Laudanum."}}
 {"model": "qwen2.5:3b", "qid": "acfd9da7a6bc", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Campo maritimo.", "1": "Res publica.", "2": "Conventus publicus."}}
 {"model": "qwen2.5:3b", "qid": "b023db04e281", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mensa.", "1": "Morsus.", "2": "Heron."}}
+{"model": "qwen2.5:3b", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "In nocte.", "1": "Parte Septentrionis.", "2": "Caelum septillum."}}
 {"model": "qwen2.5:3b", "qid": "b3046bc3f7a2", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Pantomimus.", "1": "Sacerdotes.", "2": "Pantomimus."}}
 {"model": "qwen2.5:3b", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Roscius.", "1": "Curio.", "2": "Curio."}}
 {"model": "qwen2.5:3b", "qid": "b7e430bf957b", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "vas cruentum.", "1": "vas cruentum.", "2": "vas depresso."}}
@@ -917,6 +953,7 @@
 {"model": "qwen2.5:3b", "qid": "c4449fb4e5a1", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Equus.", "1": "Trofeos.", "2": "Equus."}}
 {"model": "qwen2.5:3b", "qid": "c491e2f2fb3d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Apollo.", "1": "Aurinia.", "2": "Canidium."}}
 {"model": "qwen2.5:3b", "qid": "c616fbcf8d4d", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Semprevirens.", "1": "Antiquorum virorum.", "2": "Sempreviris."}}
+{"model": "qwen2.5:3b", "qid": "ca7e50d99963", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Comitum.", "1": "Civitas.", "2": "Civitas."}}
 {"model": "qwen2.5:3b", "qid": "cbff8caba2a0", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Galea.", "1": "Pectornis.", "2": "Cervisia."}}
 {"model": "qwen2.5:3b", "qid": "cd0401967554", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Apici.", "1": "Vitis Graeca.", "2": "Apicianum."}}
 {"model": "qwen2.5:3b", "qid": "ce37a43e3104", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Albis.", "1": "Salicis.", "2": "Albis."}}
@@ -950,6 +987,7 @@
 {"model": "qwen2.5:7b", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Tunica eburnea vel candida.", "1": "Tunica praetexta.", "2": "Tunicae praetextae."}}
 {"model": "qwen2.5:7b", "qid": "027218a6ec6d", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Nummi singulares.", "2": "Nummiروس."}}
 {"model": "qwen2.5:7b", "qid": "0458c4bd232c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Claudescentia.", "1": "Claussus.", "2": "Claustrellus."}}
+{"model": "qwen2.5:7b", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Atellanus.", "1": "Pappus.", "2": "Atellanus."}}
 {"model": "qwen2.5:7b", "qid": "0791372b030e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mustaceae.", "1": "Sesuvia et satureja.", "2": "Farreae."}}
 {"model": "qwen2.5:7b", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Cnaeus公共错误，应为Cnaeus Lentulus Spurins.", "1": "Cn. Flammiamini.", "2": "Cnaeus Marcius Rutilus."}}
 {"model": "qwen2.5:7b", "qid": "0a01ffbde81d", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Haima.", "1": "Haimas.", "2": "Heliaster."}}
@@ -967,6 +1005,7 @@
 {"model": "qwen2.5:7b", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Quirites.", "1": "Fulminiarii.", "2": "Quirites."}}
 {"model": "qwen2.5:7b", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Palladius.", "1": "Punchio.", "2": "Pulcher."}}
 {"model": "qwen2.5:7b", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "7 Aprilis.", "1": "7 Maii.", "2": "7 Aprilis."}}
+{"model": "qwen2.5:7b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Caius Marcius Ralla.", "1": "Caius Laelius.", "2": "Titus Labienus."}}
 {"model": "qwen2.5:7b", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Lupercalium.", "1": "Cantharus.", "2": "Canistrum."}}
 {"model": "qwen2.5:7b", "qid": "31e6c85272fd", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Aerarium.", "1": "Aquaeducta.", "2": "Aerarium."}}
 {"model": "qwen2.5:7b", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Tribunata.", "1": "Virginiaca.", "2": "Lex Hortensia."}}
@@ -988,6 +1027,7 @@
 {"model": "qwen2.5:7b", "qid": "62781ac436d6", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "X.", "1": "X.", "2": "R."}}
 {"model": "qwen2.5:7b", "qid": "6278acd0b0c3", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Sex.", "1": "Ex quattuor.", "2": "Ex quattuor."}}
 {"model": "qwen2.5:7b", "qid": "64cd0833835e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Titulis sepulcralibus Romano-notatis D M numinibus, id est Dei Parenti et Diis Manumittori, dedicantur.", "1": "Titulis sepulcralibus Romano ac numinibus Mani et Mami dedicatis solent.", "2": "Quibus Iouis Pagi et Quirini."}}
+{"model": "qwen2.5:7b", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "XXIIII.", "1": "XXII.", "2": "XXII virgines."}}
 {"model": "qwen2.5:7b", "qid": "6b5d273332ed", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Mare Nostrum.", "1": "Mare Nostrum.", "2": "Mare Gallicum."}}
 {"model": "qwen2.5:7b", "qid": "6ba049b7cae0", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Rubrum vittam a Cato.", "1": "Rusticanum, Cato.", "2": "Cuminum Serapionem."}}
 {"model": "qwen2.5:7b", "qid": "6d9f686e32fb", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Sacerdotii Baccalarei.", "1": "Tunicae praetextatae.", "2": "Familias."}}
@@ -999,6 +1039,7 @@
 {"model": "qwen2.5:7b", "qid": "7d01838ce109", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Centuria Prima Nocturna.", "1": "cohortes praetoriae.", "2": "Centuria prima Augusti."}}
 {"model": "qwen2.5:7b", "qid": "86d8b21b8b49", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Saturninus.", "2": "Titulus Equus."}}
 {"model": "qwen2.5:7b", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Chersonesium.", "1": "Chersonesei.", "2": "Propontico."}}
+{"model": "qwen2.5:7b", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "In Gades.", "1": "In Gades.", "2": "Hispaniolum."}}
 {"model": "qwen2.5:7b", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Stultus.", "1": "Senecio.", "2": "Stultus."}}
 {"model": "qwen2.5:7b", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Subula.", "1": "Subula.", "2": "Praetexta."}}
 {"model": "qwen2.5:7b", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Cerinet.", "1": "Tibula.", "2": "Vapor."}}
@@ -1022,6 +1063,7 @@
 {"model": "qwen2.5:7b", "qid": "acfd9da7a6bc", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Area sub divo communis est locus apertusubi posse omnes villanae res publicae adiungere.", "1": "Area sub divo communis est sparsio arborum vel herbariorum pro gratia et umbra.", "2": "Area sub divo communis est locus aereus ubi populus conventus habet."}}
 {"model": "qwen2.5:7b", "qid": "b023db04e281", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Vestis.", "1": "Patina.", "2": "Patina."}}
 {"model": "qwen2.5:7b", "qid": "b1f8e1c75f62", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Soli.", "1": "Soli.", "2": "Iovi."}}
+{"model": "qwen2.5:7b", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Superis.", "1": "Caelo.", "2": "Caeli superiori."}}
 {"model": "qwen2.5:7b", "qid": "b370c142bc6e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Cibariis.", "1": "Alumina.", "2": "Nitrum."}}
 {"model": "qwen2.5:7b", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Cn. Pompeius Magnus.", "1": "Cn. Pompeius.", "2": "Cn. Pompeius Magnus."}}
 {"model": "qwen2.5:7b", "qid": "b7e430bf957b", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Clypeum.", "1": "Lacuna."}}
@@ -1071,6 +1113,7 @@
 {"model": "qwen3.6:27b", "qid": "1fe1280a3c81", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Ceratoniis.", "1": "Lenticulis."}}
 {"model": "qwen3.6:27b", "qid": "2029d5955276", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Fico.", "1": "Pino."}}
 {"model": "qwen3.6:27b", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Manducus.", "1": "Bucco.", "2": "Bucco."}}
+{"model": "qwen3.6:27b", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Marcus Porcius Cato.", "1": "Marcus Petreius.", "2": "M. Porcius Cato Uticensis."}}
 {"model": "qwen3.6:27b", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Lex Villia annalis.", "1": "Lex Ovinnia.", "2": "Lex Publilia."}}
 {"model": "qwen3.6:27b", "qid": "3818371d4f28", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Piper et cuminum.", "1": "Piper et coriandrum.", "2": "Piper et cuminum."}}
 {"model": "qwen3.6:27b", "qid": "3c6b7b89444a", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Saturni.", "2": "Vulcani."}}
@@ -1133,6 +1176,7 @@
 {"model": "qwen3:30b-a3b-instruct-2507-q4_K_M", "qid": "56e5ce2a9287", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Garum.", "1": "Limonum.", "2": "Limonem."}}
 {"model": "qwen3:30b-a3b-instruct-2507-q4_K_M", "qid": "588cdc5b23a4", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Ludi magistri.", "1": "Ludi magistri.", "2": "Ludorum magistri."}}
 {"model": "qwen3:30b-a3b-instruct-2507-q4_K_M", "qid": "62781ac436d6", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "E", "1": "V", "2": "V"}}
+{"model": "qwen3:30b-a3b-instruct-2507-q4_K_M", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Equum.", "1": "Equitum.", "2": "Circumferentia."}}
 {"model": "qwen3:30b-a3b-instruct-2507-q4_K_M", "qid": "6e67a70205d4", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "In mulso.", "1": "In mulsum.", "2": "In mulsum."}}
 {"model": "qwen3:30b-a3b-instruct-2507-q4_K_M", "qid": "777c9d1ea729", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Quattuorviri monetales.", "1": "Decemviri stlitibus iudicandis.", "2": "Quattuorviri aerarii."}}
 {"model": "qwen3:30b-a3b-instruct-2507-q4_K_M", "qid": "7cf3bd531b95", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Carruca.", "1": "Carruca.", "2": "Carrus."}}
@@ -1207,6 +1251,7 @@
 {"model": "qwen3:30b-a3b-thinking-2507-q4_K_M", "qid": "a81153c89143", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Comitricis.", "1": "Tressura.", "2": "Comitrix."}}
 {"model": "qwen3:30b-a3b-thinking-2507-q4_K_M", "qid": "a8155a83804e", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Carmen sacerdotum.", "2": "Carmen Saliare."}}
 {"model": "qwen3:30b-a3b-thinking-2507-q4_K_M", "qid": "ac17de2c2c96", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Unguentum.", "1": "Oleum gladiatorum.", "2": "gladiatorum"}}
+{"model": "qwen3:30b-a3b-thinking-2507-q4_K_M", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Austro.", "1": "orientis", "2": "orienti"}}
 {"model": "qwen3:30b-a3b-thinking-2507-q4_K_M", "qid": "b3046bc3f7a2", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Calceus.", "1": "Cothurnus.", "2": "Calceus."}}
 {"model": "qwen3:30b-a3b-thinking-2507-q4_K_M", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Pompeius.", "1": "Lentulus.", "2": "Sextus Pompeius."}}
 {"model": "qwen3:30b-a3b-thinking-2507-q4_K_M", "qid": "b844e30a057f", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Decem.", "1": "Quadrans."}}
@@ -1244,6 +1289,7 @@
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 1}, "answers": {"0": "Luperci.", "1": "Praetores."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Praetor.", "1": "Praetor.", "2": "Fulvius."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "28147b9e5f36", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Die septimo.", "1": "Quinto.", "2": "Quinto."}}
+{"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Q. Caecilius.", "1": "Africanus.", "2": "Ques."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Ceramica.", "1": "Pulvinar.", "2": "Pulvinar."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Lex Genucia.", "1": "Lex Agraria.", "2": "Lex Genucia."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "3818371d4f28", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Cinnamomum et comum.", "1": "Cinnamomum et cumini.", "2": "Cuminum et alis."}}
@@ -1266,6 +1312,7 @@
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "6278acd0b0c3", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Ex duabus.", "1": "Tres.", "2": "Tres."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "64cd0833835e", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Genibus.", "1": "Quibus numinibus.", "2": "Quibus numinibus."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "64d77813974d", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Lector.", "2": "Ludus."}}
+{"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "6b2ab9a2d1fa", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Circumferendum.", "1": "Circumferendum.", "2": "Circum circum."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "6b5d273332ed", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mare Mediterraneum.", "1": "Mare Egeum.", "2": "Straitam."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "6ba049b7cae0", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Pulverem.", "1": "Pulverem.", "2": "Pulvis."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "6d9f686e32fb", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Virginitatis.", "1": "Virginitatis.", "2": "Puerilitatis."}}
@@ -1274,6 +1321,7 @@
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "794d30b99243", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Tritum.", "1": "Triticum.", "2": "Tritico edere coguntur."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "7cf3bd531b95", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Carrum.", "1": "Cassica.", "2": "Carpentem."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "In quod fretum Scamander amnis diffunditur?  \n— Aeterna.", "1": "In aquam.", "2": "In Scamander amnis diffunditur."}}
+{"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "In straitem.", "1": "In straitam.", "2": "In straitam."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Columba.", "1": "Praetor.", "2": "Praecipuus."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Praemium.", "1": "Pulchra.", "2": "Lapide."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Pilus.", "1": "Pilus.", "2": "Pillatus."}}
@@ -1307,6 +1355,7 @@
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "c432c28f62c6", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Celtiberia.", "1": "Caesaraugusta.", "2": "Tarraco."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "c4449fb4e5a1", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Circumvallationem.", "1": "Circumferendum.", "2": "Circumferendum."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "c616fbcf8d4d", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Magistrum.", "1": "Quaestio non scripta est.", "2": "Aemilius."}}
+{"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "ca7e50d99963", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Viam.", "1": "Viaductum.", "2": "Viam."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "cbff8caba2a0", "clusters": {"0": 0, "1": 0, "2": 0}, "answers": {"0": "Dextris.", "1": "Dextris.", "2": "Dextera."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "ccc300d45426", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "In artem.", "1": "In aqua.", "2": "In aqua."}}
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "cd0401967554", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Vitae.", "1": "Vini Fruticum.", "2": "Vini Gallici."}}
@@ -1334,6 +1383,7 @@
 {"model": "qwen3:4b-instruct-2507-q4_K_M", "qid": "fef59699c18c", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "Dei Saturni.", "1": "Dei Saturni.", "2": "Dei Martis."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "01aa96cc4d8f", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "nemo", "1": "Senatus", "2": "Tiberius."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "01e6ddf51b50", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Tunica praetexta.", "1": "tunica", "2": "Tunica praetexta."}}
+{"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "049ce2fd0581", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Molli", "1": "Cotta", "2": "Cecilus"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "0791372b030e", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "aqua", "1": "aqua", "2": "quattuor."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "07ff634932c9", "clusters": {"1": 0, "2": 1}, "answers": {"1": "purgator", "2": "Sudator"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "09b3e2fc00c3", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Numa", "1": "Sextus", "2": "Numa"}}
@@ -1350,6 +1400,7 @@
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "23b0eaf1957a", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mars", "1": "Lares", "2": "Flamines Martiales"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "2612ca7397b2", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Praecox", "1": "Pilus", "2": "Molpis"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "28147b9e5f36", "clusters": {"0": 0, "2": 1}, "answers": {"0": "Calendae.", "2": "Quinta Kalendas Martii."}}
+{"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "288eac27b88e", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Caelius", "1": "Cassius", "2": "Pompeius."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "2b9c6e0258dd", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "cistella", "1": "Ciboria.", "2": "patera"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "3378e90e7d1b", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Duodecim Tabularum", "1": "Iulia", "2": "Iulia"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "3818371d4f28", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mela et mel.", "1": "millefiorum hieratrum.", "2": "Mel et sal."}}
@@ -1377,6 +1428,7 @@
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "7cf3bd531b95", "clusters": {"0": 0, "1": 0, "2": 1}, "answers": {"0": "carro", "1": "carrus", "2": "carruca"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "86d8b21b8b49", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Ludus.", "1": "Rex", "2": "Ludus."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "86da133f6eb3", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Mare Aegaeum", "1": "Mare", "2": "mare"}}
+{"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "89dcb3f1e68b", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Mare Mediterraneum", "1": "Mare Canis", "2": "Stretus"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "8e03578b3800", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Sonus", "1": "pulchra", "2": "Cipollus"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "8e61f85e0b4c", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Pulvis.", "1": "pulchrum", "2": "Pulchrum."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "8e6e17f5492f", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Crispus.", "1": "calidus", "2": "Pilus."}}
@@ -1399,6 +1451,7 @@
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "ac17de2c2c96", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "sebum", "1": "Sudor", "2": "Gladiolus"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "acfd9da7a6bc", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Ager communis.", "1": "pars communis", "2": "pars communis"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "b023db04e281", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "victores", "1": "Cibum.", "2": "victus"}}
+{"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "b23ab8269090", "clusters": {"0": 0, "1": 1, "2": 2}, "answers": {"0": "Caelum", "1": "Aestus.", "2": "Parte aeterna."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "b3046bc3f7a2", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Pater.", "1": "Calceus.", "2": "Calceus."}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "b370c142bc6e", "clusters": {"0": 0, "1": 1, "2": 0}, "answers": {"0": "Lacte", "1": "Alba.", "2": "lacte"}}
 {"model": "qwen3:4b-thinking-2507-q4_K_M", "qid": "b54d07b48121", "clusters": {"0": 0, "1": 1, "2": 1}, "answers": {"0": "Pompeius.", "1": "Curio", "2": "Curio"}}
