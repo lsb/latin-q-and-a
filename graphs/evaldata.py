@@ -103,6 +103,19 @@ def read(qa_path, eval_dir, models=None, rollouts=3):
         if r["model"] in set(models) and r["qid"] in qids and r["rollout"] < rollouts:
             cells[(r["model"], r["qid"])].append(r)
 
+    # A cell whose rollouts are not all judged cannot be scored consistently --
+    # pass@1 and pass@3 would be taken over different denominators -- so the
+    # whole cell is dropped. This is the state right after refresh_gold.py
+    # invalidates verdicts: a re-run of evaluate.py refills them.
+    unjudged = [k for k, rs in cells.items()
+                if any((k[0], k[1], r["rollout"]) not in jud for r in rs)]
+    for k in unjudged:
+        del cells[k]
+    if unjudged:
+        print(f"warning: {len(unjudged)} (model, question) cells have an "
+              f"unjudged rollout and are excluded; re-run evaluate.py to "
+              f"refill them", file=sys.stderr)
+
     # A question with no answers is silently absent from every count below, so
     # say so. This happens when a sheet tab rewords a question: qid is
     # sha1(locus|question), so the rewrite takes a new qid that the existing

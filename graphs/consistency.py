@@ -36,6 +36,7 @@ import argparse
 import collections
 import json
 import re
+import sys
 import unicodedata
 from pathlib import Path
 
@@ -73,6 +74,17 @@ def tabulate(qa_path, eval_dir, clusters_path):
     for r in E.load(Path(eval_dir) / "answers.jsonl"):
         if r["model"] in set(E.MODELS) and r["qid"] in qids and r["rollout"] < 3:
             cells[(r["model"], r["qid"])].append(r)
+
+    # Same rule as evaldata.read: a cell with an unjudged rollout cannot be
+    # classified, so it is dropped rather than guessed at.
+    unjudged = [k for k, rs in cells.items()
+                if any((k[0], k[1], r["rollout"]) not in jud for r in rs)]
+    for k in unjudged:
+        del cells[k]
+    if unjudged:
+        print(f"warning: {len(unjudged)} (model, question) cells have an "
+              f"unjudged rollout and are excluded; re-run evaluate.py to "
+              f"refill them", file=sys.stderr)
 
     counts = collections.defaultdict(collections.Counter)
     missing = 0
