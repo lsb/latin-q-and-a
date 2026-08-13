@@ -17,16 +17,16 @@
   tick label style={font=\footnotesize, color=muted},
   xmin=0, xmax=100, ymin=-0.8, ymax=12.8,
   ytick={0,1,2,3,4,5,6,7,8,9,10,11,12},
-  yticklabels={Customs,Arts,Food, Cooking, and Dining,Leisure,Mythology,Law,History,Health and Hygiene,Religion,Literature,other (10 categories),Clothing,Geography},
+  yticklabels={Customs,Food, Cooking, and Dining,Arts,Mythology,Leisure,Law,History,Health and Hygiene,Literature,Religion,other (10 categories),Clothing,Geography},
   ytick style={draw=none},
   yticklabel style={font=\footnotesize, color=ink},
   xmajorgrids, grid style={gridc, line width=0.3pt},
   axis line style={gridc}, axis x line*=bottom, axis y line*=left,
   legend style={draw=none, font=\footnotesize, at={(0.99,0.02)}, anchor=south east},
 ]
-\addplot[fill=bar, draw=surface, line width=0.5pt] coordinates {(17.78,0) (20.00,1) (20.89,2) (27.41,3) (28.05,4) (30.30,5) (34.02,6) (35.24,7) (35.71,8) (36.14,9) (36.46,10) (38.67,11) (45.71,12)};
+\addplot[fill=bar, draw=surface, line width=0.5pt] coordinates {(16.19,0) (20.00,1) (20.00,2) (26.67,3) (27.41,4) (30.30,5) (32.55,6) (35.24,7) (35.56,8) (36.19,9) (37.69,10) (37.78,11) (45.71,12)};
 \addlegendentry{mean over all models}
-\addplot[only marks, mark=diamond*, mark size=3pt, mark options={fill=top, draw=surface}] coordinates {(66.67,0) (71.43,1) (66.67,2) (66.67,3) (33.33,4) (100.00,5) (82.35,6) (85.71,7) (78.57,8) (100.00,9) (87.50,10) (100.00,11) (85.71,12)};
+\addplot[only marks, mark=diamond*, mark size=3pt, mark options={fill=top, draw=surface}] coordinates {(57.14,0) (68.75,1) (71.43,2) (33.33,3) (66.67,4) (100.00,5) (82.35,6) (85.71,7) (100.00,8) (78.57,9) (88.46,10) (100.00,11) (85.71,12)};
 \addlegendentry{gemma4 31B}
 \end{axis}
 \end{tikzpicture}
