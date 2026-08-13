@@ -9,6 +9,7 @@ import collections
 import hashlib
 import json
 import statistics
+import sys
 from pathlib import Path
 
 REPO = Path(__file__).parent.parent
@@ -101,6 +102,17 @@ def read(qa_path, eval_dir, models=None, rollouts=3):
     for r in load(Path(eval_dir) / "answers.jsonl"):
         if r["model"] in set(models) and r["qid"] in qids and r["rollout"] < rollouts:
             cells[(r["model"], r["qid"])].append(r)
+
+    # A question with no answers is silently absent from every count below, so
+    # say so. This happens when a sheet tab rewords a question: qid is
+    # sha1(locus|question), so the rewrite takes a new qid that the existing
+    # evaluation rows do not carry.
+    covered = {q for _, q in cells}
+    unevaluated = qids - covered
+    if unevaluated:
+        print(f"warning: {len(unevaluated)} of {len(qids)} questions in "
+              f"{Path(qa_path).name} have no answers in {Path(eval_dir).name}/ "
+              f"and are excluded", file=sys.stderr)
 
     out = {}
     for m in models:

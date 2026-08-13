@@ -1,0 +1,558 @@
+{
+ "100": [
+  "manually_compiled.jsonl",
+  56
+ ],
+ "101": [
+  "manually_compiled.jsonl",
+  57
+ ],
+ "102": [
+  "manually_compiled.jsonl",
+  58
+ ],
+ "103": [
+  "manually_compiled.jsonl",
+  59
+ ],
+ "104": [
+  "manually_compiled.jsonl",
+  60
+ ],
+ "105": [
+  "manually_compiled.jsonl",
+  61
+ ],
+ "106": [
+  "manually_compiled.jsonl",
+  62
+ ],
+ "107": [
+  "manually_compiled.jsonl",
+  65
+ ],
+ "108": [
+  "manually_compiled.jsonl",
+  68
+ ],
+ "109": [
+  "manually_compiled.jsonl",
+  69
+ ],
+ "11": [
+  "manually_reviewed.jsonl",
+  37
+ ],
+ "110": [
+  "manually_compiled.jsonl",
+  70
+ ],
+ "112": [
+  "manually_compiled.jsonl",
+  75
+ ],
+ "113": [
+  "manually_compiled.jsonl",
+  78
+ ],
+ "114": [
+  "manually_compiled.jsonl",
+  79
+ ],
+ "115": [
+  "manually_compiled.jsonl",
+  80
+ ],
+ "116": [
+  "manually_compiled.jsonl",
+  82
+ ],
+ "118": [
+  "manually_compiled.jsonl",
+  84
+ ],
+ "119": [
+  "manually_compiled.jsonl",
+  85
+ ],
+ "12": [
+  "manually_reviewed.jsonl",
+  40
+ ],
+ "120": [
+  "manually_compiled.jsonl",
+  86
+ ],
+ "121": [
+  "manually_compiled.jsonl",
+  91
+ ],
+ "122": [
+  "manually_compiled.jsonl",
+  94
+ ],
+ "123": [
+  "manually_compiled.jsonl",
+  95
+ ],
+ "124": [
+  "manually_compiled.jsonl",
+  96
+ ],
+ "125": [
+  "manually_compiled.jsonl",
+  97
+ ],
+ "126": [
+  "manually_compiled.jsonl",
+  99
+ ],
+ "127": [
+  "manually_compiled.jsonl",
+  100
+ ],
+ "128": [
+  "manually_compiled.jsonl",
+  102
+ ],
+ "129": [
+  "manually_compiled.jsonl",
+  105
+ ],
+ "13": [
+  "manually_reviewed.jsonl",
+  42
+ ],
+ "131": [
+  "manually_compiled.jsonl",
+  108
+ ],
+ "132": [
+  "manually_compiled.jsonl",
+  110
+ ],
+ "133": [
+  "manually_compiled.jsonl",
+  111
+ ],
+ "134": [
+  "manually_compiled.jsonl",
+  113
+ ],
+ "135": [
+  "manually_compiled.jsonl",
+  119
+ ],
+ "136": [
+  "manually_compiled.jsonl",
+  120
+ ],
+ "137": [
+  "manually_compiled.jsonl",
+  121
+ ],
+ "138": [
+  "manually_compiled.jsonl",
+  123
+ ],
+ "139": [
+  "manually_compiled.jsonl",
+  14
+ ],
+ "14": [
+  "manually_reviewed.jsonl",
+  55
+ ],
+ "140": [
+  "manually_reviewed.jsonl",
+  254
+ ],
+ "141": [
+  "letters_and_history.accepted.jsonl",
+  2
+ ],
+ "142": [
+  "letters_and_history.accepted.jsonl",
+  25
+ ],
+ "143": [
+  "letters_and_history.accepted.jsonl",
+  51
+ ],
+ "144": [
+  "letters_and_history.accepted.jsonl",
+  135
+ ],
+ "145": [
+  "letters_and_history.accepted.jsonl",
+  144
+ ],
+ "146": [
+  "letters_and_history.accepted.jsonl",
+  153
+ ],
+ "147": [
+  "letters_and_history.accepted.jsonl",
+  181
+ ],
+ "148": [
+  "letters_and_history.accepted.jsonl",
+  194
+ ],
+ "149": [
+  "letters_and_history.accepted.jsonl",
+  207
+ ],
+ "15": [
+  "manually_reviewed.jsonl",
+  67
+ ],
+ "150": [
+  "letters_and_history.accepted.jsonl",
+  211
+ ],
+ "151": [
+  "letters_and_history.accepted.jsonl",
+  227
+ ],
+ "152": [
+  "letters_and_history.accepted.jsonl",
+  247
+ ],
+ "153": [
+  "letters_and_history.accepted.jsonl",
+  252
+ ],
+ "154": [
+  "letters_and_history.accepted.jsonl",
+  282
+ ],
+ "16": [
+  "manually_reviewed.jsonl",
+  77
+ ],
+ "17": [
+  "manually_reviewed.jsonl",
+  121
+ ],
+ "18": [
+  "manually_reviewed.jsonl",
+  136
+ ],
+ "19": [
+  "manually_reviewed.jsonl",
+  147
+ ],
+ "2": [
+  "manually_reviewed.jsonl",
+  12
+ ],
+ "20": [
+  "manually_reviewed.jsonl",
+  153
+ ],
+ "21": [
+  "manually_reviewed.jsonl",
+  154
+ ],
+ "22": [
+  "manually_reviewed.jsonl",
+  155
+ ],
+ "23": [
+  "manually_reviewed.jsonl",
+  157
+ ],
+ "25": [
+  "manually_reviewed.jsonl",
+  160
+ ],
+ "26": [
+  "manually_reviewed.jsonl",
+  163
+ ],
+ "27": [
+  "manually_reviewed.jsonl",
+  164
+ ],
+ "28": [
+  "manually_reviewed.jsonl",
+  165
+ ],
+ "29": [
+  "manually_reviewed.jsonl",
+  177
+ ],
+ "3": [
+  "manually_reviewed.jsonl",
+  16
+ ],
+ "30": [
+  "manually_reviewed.jsonl",
+  183
+ ],
+ "31": [
+  "manually_reviewed.jsonl",
+  187
+ ],
+ "32": [
+  "manually_reviewed.jsonl",
+  190
+ ],
+ "34": [
+  "manually_reviewed.jsonl",
+  200
+ ],
+ "35": [
+  "manually_reviewed.jsonl",
+  201
+ ],
+ "36": [
+  "manually_reviewed.jsonl",
+  203
+ ],
+ "38": [
+  "manually_reviewed.jsonl",
+  208
+ ],
+ "39": [
+  "manually_reviewed.jsonl",
+  217
+ ],
+ "4": [
+  "manually_reviewed.jsonl",
+  18
+ ],
+ "40": [
+  "manually_reviewed.jsonl",
+  76
+ ],
+ "41": [
+  "manually_reviewed.jsonl",
+  224
+ ],
+ "42": [
+  "manually_reviewed.jsonl",
+  228
+ ],
+ "43": [
+  "manually_reviewed.jsonl",
+  237
+ ],
+ "44": [
+  "manually_reviewed.jsonl",
+  241
+ ],
+ "45": [
+  "manually_reviewed.jsonl",
+  258
+ ],
+ "46": [
+  "manually_reviewed.jsonl",
+  261
+ ],
+ "47": [
+  "manually_reviewed.jsonl",
+  270
+ ],
+ "48": [
+  "manually_reviewed.jsonl",
+  273
+ ],
+ "49": [
+  "manually_reviewed.jsonl",
+  274
+ ],
+ "5": [
+  "manually_reviewed.jsonl",
+  20
+ ],
+ "50": [
+  "manually_reviewed.jsonl",
+  275
+ ],
+ "51": [
+  "manually_reviewed.jsonl",
+  276
+ ],
+ "52": [
+  "manually_reviewed.jsonl",
+  289
+ ],
+ "53": [
+  "manually_reviewed.jsonl",
+  292
+ ],
+ "54": [
+  "manually_reviewed.jsonl",
+  295
+ ],
+ "55": [
+  "manually_reviewed.jsonl",
+  305
+ ],
+ "56": [
+  "manually_reviewed.jsonl",
+  309
+ ],
+ "58": [
+  "manually_reviewed.jsonl",
+  347
+ ],
+ "59": [
+  "manually_reviewed.jsonl",
+  354
+ ],
+ "60": [
+  "manually_reviewed.jsonl",
+  358
+ ],
+ "61": [
+  "manually_reviewed.jsonl",
+  361
+ ],
+ "62": [
+  "manually_reviewed.jsonl",
+  364
+ ],
+ "63": [
+  "manually_reviewed.jsonl",
+  373
+ ],
+ "65": [
+  "manually_compiled.jsonl",
+  0
+ ],
+ "66": [
+  "manually_compiled.jsonl",
+  1
+ ],
+ "67": [
+  "manually_compiled.jsonl",
+  2
+ ],
+ "68": [
+  "manually_compiled.jsonl",
+  3
+ ],
+ "69": [
+  "manually_compiled.jsonl",
+  4
+ ],
+ "7": [
+  "manually_reviewed.jsonl",
+  23
+ ],
+ "70": [
+  "manually_compiled.jsonl",
+  6
+ ],
+ "71": [
+  "manually_compiled.jsonl",
+  9
+ ],
+ "72": [
+  "manually_compiled.jsonl",
+  10
+ ],
+ "74": [
+  "manually_compiled.jsonl",
+  17
+ ],
+ "75": [
+  "manually_compiled.jsonl",
+  18
+ ],
+ "76": [
+  "manually_compiled.jsonl",
+  19
+ ],
+ "77": [
+  "manually_compiled.jsonl",
+  21
+ ],
+ "78": [
+  "manually_compiled.jsonl",
+  22
+ ],
+ "79": [
+  "manually_compiled.jsonl",
+  23
+ ],
+ "80": [
+  "manually_compiled.jsonl",
+  24
+ ],
+ "81": [
+  "manually_compiled.jsonl",
+  25
+ ],
+ "82": [
+  "manually_compiled.jsonl",
+  27
+ ],
+ "83": [
+  "manually_compiled.jsonl",
+  28
+ ],
+ "84": [
+  "manually_compiled.jsonl",
+  29
+ ],
+ "85": [
+  "manually_compiled.jsonl",
+  30
+ ],
+ "86": [
+  "manually_compiled.jsonl",
+  32
+ ],
+ "87": [
+  "manually_compiled.jsonl",
+  33
+ ],
+ "88": [
+  "manually_compiled.jsonl",
+  34
+ ],
+ "89": [
+  "manually_compiled.jsonl",
+  35
+ ],
+ "9": [
+  "manually_reviewed.jsonl",
+  27
+ ],
+ "90": [
+  "manually_compiled.jsonl",
+  37
+ ],
+ "92": [
+  "manually_compiled.jsonl",
+  40
+ ],
+ "93": [
+  "manually_compiled.jsonl",
+  41
+ ],
+ "94": [
+  "manually_compiled.jsonl",
+  44
+ ],
+ "95": [
+  "manually_compiled.jsonl",
+  46
+ ],
+ "97": [
+  "manually_compiled.jsonl",
+  51
+ ],
+ "98": [
+  "manually_compiled.jsonl",
+  52
+ ],
+ "99": [
+  "manually_compiled.jsonl",
+  53
+ ]
+}
