@@ -1,0 +1,4 @@
+# LaTeX intermediates and build output; regenerate from the .tex.
+*.aux
+*.log
+*.pdf

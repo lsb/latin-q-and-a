@@ -1,0 +1,112 @@
+\documentclass[border=6pt]{standalone}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{xcolor}
+\definecolor{fam0}{HTML}{2A78D6}
+\definecolor{fam1}{HTML}{EB6834}
+\definecolor{fam2}{HTML}{1BAF7A}
+\definecolor{fam3}{HTML}{4A3AA7}
+\definecolor{fam4}{HTML}{0B0B0B}
+\definecolor{surface}{HTML}{FCFCFB}
+\definecolor{ink}{HTML}{0B0B0B}
+\definecolor{muted}{HTML}{52514E}
+\definecolor{gridc}{HTML}{E8E7E3}
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[
+  width=16cm, height=10cm, xmode=log, log basis x=10,
+  xlabel={mean seconds per answer (log scale)},
+  ylabel={correct (\%)},
+  xlabel style={font=\small, color=muted},
+  ylabel style={font=\small, color=muted},
+  tick label style={font=\footnotesize, color=muted},
+  ymin=-4, ymax=88, xmin=0.0284, xmax=1290.6,
+  grid=both, grid style={gridc, line width=0.3pt},
+  axis line style={gridc}, axis x line*=bottom, axis y line*=left,
+  clip=false, legend style={draw=none, font=\footnotesize, at={(0.02,0.98)}, anchor=north west},
+]
+% instruct -> thinking
+\addplot[fam2, dashed, line width=0.9pt, forget plot] coordinates {(0.254,5.94) (24.012,23.29)};
+\addplot[fam2, dashed, line width=0.9pt, forget plot] coordinates {(0.291,30.37) (9.218,51.60)};
+% scale ladders
+\addplot[fam0, line width=1.1pt, forget plot] coordinates {(0.217,0.46) (0.197,1.37) (0.221,4.34) (0.352,12.33) (1.617,43.61)};
+\addplot[fam1, line width=1.1pt, forget plot] coordinates {(2.609,11.42) (37.583,44.75) (24.348,72.15)};
+\addplot[fam3, line width=1.1pt, forget plot] coordinates {(0.096,1.14) (14.715,14.84)};
+\addplot[fam2, line width=1.1pt, forget plot] coordinates {(0.254,5.94) (0.291,30.37)};
+\addplot[fam2, line width=1.1pt, forget plot] coordinates {(24.012,23.29) (9.218,51.60)};
+% pass@1 -> pass@3 stems
+\addplot[fam3, opacity=0.55, line width=0.8pt, forget plot] coordinates {(14.715,14.84) (14.715,28.08)};
+\addplot[fam3, opacity=0.55, line width=0.8pt, forget plot] coordinates {(0.096,1.14) (0.096,2.05)};
+\addplot[fam0, opacity=0.55, line width=0.8pt, forget plot] coordinates {(0.217,0.46) (0.217,1.37)};
+\addplot[fam0, opacity=0.55, line width=0.8pt, forget plot] coordinates {(0.197,1.37) (0.197,3.42)};
+\addplot[fam0, opacity=0.55, line width=0.8pt, forget plot] coordinates {(0.221,4.34) (0.221,10.27)};
+\addplot[fam0, opacity=0.55, line width=0.8pt, forget plot] coordinates {(0.352,12.33) (0.352,19.18)};
+\addplot[fam0, opacity=0.55, line width=0.8pt, forget plot] coordinates {(1.617,43.61) (1.617,53.42)};
+\addplot[fam1, opacity=0.55, line width=0.8pt, forget plot] coordinates {(2.609,11.42) (2.609,17.12)};
+\addplot[fam1, opacity=0.55, line width=0.8pt, forget plot] coordinates {(37.583,44.75) (37.583,56.16)};
+\addplot[fam1, opacity=0.55, line width=0.8pt, forget plot] coordinates {(24.348,72.15) (24.348,80.14)};
+\addplot[fam2, opacity=0.55, line width=0.8pt, forget plot] coordinates {(24.012,23.29) (24.012,31.51)};
+\addplot[fam2, opacity=0.55, line width=0.8pt, forget plot] coordinates {(0.254,5.94) (0.254,11.64)};
+\addplot[fam2, opacity=0.55, line width=0.8pt, forget plot] coordinates {(9.218,51.60) (9.218,60.96)};
+\addplot[fam2, opacity=0.55, line width=0.8pt, forget plot] coordinates {(0.291,30.37) (0.291,36.30)};
+\addplot[fam4, opacity=0.55, line width=0.8pt, forget plot] coordinates {(496.376,65.75) (496.376,76.71)};
+% markers
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam3, line width=1pt}, forget plot] coordinates {(14.715,28.08)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam3, draw=surface, line width=0.8pt}, forget plot] coordinates {(14.715,14.84)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam3, line width=1pt}, forget plot] coordinates {(0.096,2.05)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam3, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.096,1.14)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam0, line width=1pt}, forget plot] coordinates {(0.217,1.37)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam0, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.217,0.46)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam0, line width=1pt}, forget plot] coordinates {(0.197,3.42)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam0, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.197,1.37)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam0, line width=1pt}, forget plot] coordinates {(0.221,10.27)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam0, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.221,4.34)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam0, line width=1pt}, forget plot] coordinates {(0.352,19.18)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam0, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.352,12.33)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam0, line width=1pt}, forget plot] coordinates {(1.617,53.42)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam0, draw=surface, line width=0.8pt}, forget plot] coordinates {(1.617,43.61)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam1, line width=1pt}, forget plot] coordinates {(2.609,17.12)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam1, draw=surface, line width=0.8pt}, forget plot] coordinates {(2.609,11.42)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam1, line width=1pt}, forget plot] coordinates {(37.583,56.16)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam1, draw=surface, line width=0.8pt}, forget plot] coordinates {(37.583,44.75)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam1, line width=1pt}, forget plot] coordinates {(24.348,80.14)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam1, draw=surface, line width=0.8pt}, forget plot] coordinates {(24.348,72.15)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam2, line width=1pt}, forget plot] coordinates {(24.012,31.51)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam2, draw=surface, line width=0.8pt}, forget plot] coordinates {(24.012,23.29)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam2, line width=1pt}, forget plot] coordinates {(0.254,11.64)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam2, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.254,5.94)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam2, line width=1pt}, forget plot] coordinates {(9.218,60.96)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam2, draw=surface, line width=0.8pt}, forget plot] coordinates {(9.218,51.60)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam2, line width=1pt}, forget plot] coordinates {(0.291,36.30)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam2, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.291,30.37)};
+\addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam4, line width=1pt}, forget plot] coordinates {(496.376,76.71)};
+\addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam4, draw=surface, line width=0.8pt}, forget plot] coordinates {(496.376,65.75)};
+% labels
+\node[anchor=west, font=\scriptsize, text=ink, xshift=8pt, yshift=0pt] at (axis cs:14.715,14.84) {LFM2.5 2.6B};
+\node[anchor=east, font=\scriptsize, text=ink, xshift=-8pt, yshift=17pt] at (axis cs:0.096,1.14) {LFM2.5 230M};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=2pt, yshift=-11pt] at (axis cs:0.217,0.46) {qwen2.5 0.5B};
+\node[anchor=east, font=\scriptsize, text=ink, xshift=-9pt, yshift=-2pt] at (axis cs:0.197,1.37) {qwen2.5 1.5B};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=10pt, yshift=-4pt] at (axis cs:0.221,4.34) {qwen2.5 3B};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=8pt, yshift=-1pt] at (axis cs:0.352,12.33) {qwen2.5 7B};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=0pt] at (axis cs:1.617,43.61) {qwen2.5 32B};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=8pt, yshift=4pt] at (axis cs:2.609,11.42) {gemma4 e2b};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=1pt] at (axis cs:37.583,44.75) {gemma4 12B};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=1pt] at (axis cs:24.348,72.15) {gemma4 31B};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=0pt] at (axis cs:24.012,23.29) {qwen3 4B think};
+\node[anchor=east, font=\scriptsize, text=ink, xshift=-9pt, yshift=7pt] at (axis cs:0.254,5.94) {qwen3 4B instruct};
+\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=1pt] at (axis cs:9.218,51.60) {qwen3 30B-A3B think};
+\node[anchor=east, font=\scriptsize, text=ink, xshift=-10pt, yshift=6pt] at (axis cs:0.291,30.37) {qwen3 30B-A3B instruct};
+\node[anchor=east, font=\scriptsize, text=ink, xshift=-11pt, yshift=-9pt] at (axis cs:496.376,65.75) {qwen3.6 27B};
+\addlegendimage{fam0, line width=1.1pt, mark=*, mark options={fill=fam0, draw=surface}}
+\addlegendentry{qwen2.5}
+\addlegendimage{fam1, line width=1.1pt, mark=*, mark options={fill=fam1, draw=surface}}
+\addlegendentry{gemma4}
+\addlegendimage{fam2, line width=1.1pt, mark=*, mark options={fill=fam2, draw=surface}}
+\addlegendentry{qwen3}
+\addlegendimage{fam3, line width=1.1pt, mark=*, mark options={fill=fam3, draw=surface}}
+\addlegendentry{LFM2.5}
+\addlegendimage{fam4, line width=1.1pt, mark=*, mark options={fill=fam4, draw=surface}}
+\addlegendentry{qwen3.6 (no family)}
+\end{axis}
+\end{tikzpicture}
+\end{document}
