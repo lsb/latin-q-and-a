@@ -335,7 +335,7 @@
                   under the Qwen Research License.}
 }
 
-% ---- Qwen3 2507 releases (the report predates them; see note) ----
+% ---- Qwen3: one collection rather than four repositories ----
 
 @misc{qwen3-techreport,
   author        = {{Qwen Team}},
@@ -348,36 +348,24 @@
   note          = {Describes the original Qwen3 series; the 2507 checkpoints postdate it and replace its hybrid thinking design with separate Instruct and Thinking models.}
 }
 
-@misc{qwen3-4b-instruct-2507-weights,
-  author       = {{Qwen Team}},
-  title        = {Qwen3-4B-Instruct-2507},
-  year         = {2025},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama as \texttt{qwen3:4b-instruct-2507-q4\_K\_M}.}
-}
 
-@misc{qwen3-4b-thinking-2507-weights,
-  author       = {{Qwen Team}},
-  title        = {Qwen3-4B-Thinking-2507},
-  year         = {2025},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama as \texttt{qwen3:4b-thinking-2507-q4\_K\_M}.}
-}
 
-@misc{qwen3-30b-a3b-instruct-2507-weights,
-  author       = {{Qwen Team}},
-  title        = {Qwen3-30B-A3B-Instruct-2507},
-  year         = {2025},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama as \texttt{qwen3:30b-a3b-instruct-2507-q4\_K\_M}.}
-}
 
-@misc{qwen3-30b-a3b-thinking-2507-weights,
+
+@misc{qwen3-collection,
   author       = {{Qwen Team}},
-  title        = {Qwen3-30B-A3B-Thinking-2507},
+  title        = {Qwen3},
   year         = {2025},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama as \texttt{qwen3:30b-a3b-thinking-2507-q4\_K\_M}.}
+  howpublished = {\url{https://huggingface.co/collections/Qwen/qwen3}},
+  note         = {Hugging Face collection, Apache-2.0. The four 2507
+                  checkpoints were run via the Ollama tags
+                  \texttt{qwen3:4b-instruct-2507-q4\_K\_M},
+                  \texttt{4b-thinking-2507-q4\_K\_M},
+                  \texttt{30b-a3b-instruct-2507-q4\_K\_M} and
+                  \texttt{30b-a3b-thinking-2507-q4\_K\_M}. The collection holds
+                  both the original release and the 2507 checkpoints, which
+                  replace its hybrid thinking design with separate Instruct
+                  and Thinking models.}
 }
 
 % ---- Qwen3.6 (blog: qwen3.6-27b, already above; no arXiv report exists) ----
