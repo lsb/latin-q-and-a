@@ -1,0 +1,8 @@
+# LaTeX build artifacts; the paper rebuilds from acl_latex.tex.
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+acl_latex.pdf

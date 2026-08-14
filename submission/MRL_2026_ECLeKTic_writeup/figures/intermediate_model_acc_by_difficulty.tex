@@ -1,0 +1,24 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+\textbf{Model} &
+\textcolor{green!60!black}{\textbf{Green}} &
+\textcolor{blue!80!black}{\textbf{Blue}} &
+\textcolor{orange!90!black}{\textbf{Orange}} &
+\textcolor{red!85!black}{\textbf{Red}} \\
+\midrule
+Gemma 4 E2B           & 52.0  & 44.3 & 17.9 & 11.6 \\
+Gemma 4 31B           & 100.0 & 97.1 & 80.0 & 60.5 \\
+GPT-OSS 120B          & 100.0 & 90.0 & 74.7 & 51.2 \\
+Nemotron 3 Super 120B & 100.0 & 95.7 & 86.3 & 81.4 \\
+\midrule
+\textbf{N questions}            & 25    & 70   & 95   & 43   \\
+\bottomrule
+\end{tabular}
+\caption{Pass@any accuracy (\%) by manually annotated difficulty level for the 233 questions evaluated at this stage. Each model was sampled three times per question; a question is counted as correct if at least one of the three responses was judged correct by GPT-OSS 120B. }
+\label{tab:difficulty-models}
+\vspace{-5mm}
+\end{table}
