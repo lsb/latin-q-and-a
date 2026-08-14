@@ -19,6 +19,44 @@ We **author new Latin** for both the question and the answer, and keep the
 verbatim source sentence as evidence. The flat dataset is **`qa.jsonl`** (one
 pair per line).
 
+## Reproducing the evaluation
+
+One command runs every model in the paper over the 139-pair August set:
+
+```sh
+uv run evaluate.py --qa august_final.jsonl --outdir other --no-cpu --rollouts 3 \
+  --models hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0,hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0,\
+qwen2.5:0.5b,qwen2.5:1.5b,qwen2.5:3b,qwen2.5:7b,qwen2.5:32b,\
+gemma4:e2b,gemma4:12b,gemma4:31b,\
+qwen3:4b-thinking-2507-q4_K_M,qwen3:4b-instruct-2507-q4_K_M,\
+qwen3:30b-a3b-thinking-2507-q4_K_M,qwen3:30b-a3b-instruct-2507-q4_K_M,\
+qwen3.6:27b
+```
+
+You need [`uv`](https://docs.astral.sh/uv/) and a running [Ollama](https://ollama.com)
+holding those fifteen tags plus **`gemma4:31b`**, which is also the LLM judge.
+Everything is 4-bit except the two LFM2.5 models, which are `Q8_0`; all fifteen
+fit in under 20GB.
+
+**It resumes rather than restarts.** `other/answers.jsonl` and
+`other/judgments.jsonl` are committed, and `evaluate.py` skips any
+`(model, question, rollout)` already present. So the command above prints
+`generation already complete` fifteen times and goes straight to the summary
+table — which is the fastest way to check that your setup agrees with ours.
+Delete `other/` to generate from scratch instead; budget days rather than hours,
+since qwen3.6:27b alone averages around 500 seconds per answer.
+
+The figures in the paper come from that same directory:
+
+```sh
+cd graphs && for g in *.py; do uv run $g; done   # PNG + standalone LaTeX for each
+```
+
+One known hazard: on some `dspy` versions the judge returns an empty response for
+every answer and writes nothing, while generation continues to work normally.
+The run reports this as `ERROR not saved` on each judgment. Verdicts are only
+ever appended, never overwritten, so a failed judging pass costs time and no data.
+
 ## What this is
 
 We read **factual prose** (Cato, Caesar, Pliny, Tacitus, Suetonius, Justinian,

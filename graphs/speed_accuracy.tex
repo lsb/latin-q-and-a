@@ -14,7 +14,7 @@
 \begin{document}
 \begin{tikzpicture}
 \begin{axis}[
-  width=16cm, height=10cm, xmode=log, log basis x=10,
+  width=16cm, height=11.5cm, xmode=log, log basis x=10,
   xlabel={mean seconds per answer (log scale)},
   ylabel={correct (\%)},
   xlabel style={font=\small, color=muted},
@@ -81,22 +81,37 @@
 \addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam2, draw=surface, line width=0.8pt}, forget plot] coordinates {(0.303,27.82)};
 \addplot[only marks, mark=*, mark size=2.2pt, mark options={fill=surface, draw=fam4, line width=1pt}, forget plot] coordinates {(511.065,75.54)};
 \addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=fam4, draw=surface, line width=0.8pt}, forget plot] coordinates {(511.065,64.03)};
-% labels
-\node[anchor=west, font=\scriptsize, text=ink, xshift=8pt, yshift=0pt] at (axis cs:14.705,12.23) {LFM2.5 2.6B};
-\node[anchor=east, font=\scriptsize, text=ink, xshift=-8pt, yshift=17pt] at (axis cs:0.098,1.20) {LFM2.5 230M};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=2pt, yshift=-11pt] at (axis cs:0.219,0.48) {qwen2.5 0.5B};
-\node[anchor=east, font=\scriptsize, text=ink, xshift=-9pt, yshift=-2pt] at (axis cs:0.203,1.68) {qwen2.5 1.5B};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=10pt, yshift=-4pt] at (axis cs:0.224,4.56) {qwen2.5 3B};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=8pt, yshift=-1pt] at (axis cs:0.357,10.31) {qwen2.5 7B};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=0pt] at (axis cs:1.658,42.69) {qwen2.5 32B};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=8pt, yshift=4pt] at (axis cs:2.658,6.71) {gemma4 e2b};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=1pt] at (axis cs:39.779,43.65) {gemma4 12B};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=1pt] at (axis cs:25.309,71.46) {gemma4 31B};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=0pt] at (axis cs:24.276,19.90) {qwen3 4B think};
-\node[anchor=east, font=\scriptsize, text=ink, xshift=-9pt, yshift=7pt] at (axis cs:0.258,5.52) {qwen3 4B instruct};
-\node[anchor=west, font=\scriptsize, text=ink, xshift=9pt, yshift=1pt] at (axis cs:9.347,50.36) {qwen3 30B-A3B think};
-\node[anchor=east, font=\scriptsize, text=ink, xshift=-10pt, yshift=6pt] at (axis cs:0.303,27.82) {qwen3 30B-A3B instruct};
-\node[anchor=east, font=\scriptsize, text=ink, xshift=-11pt, yshift=-9pt] at (axis cs:511.065,64.03) {qwen3.6 27B};
+% labels, each with a leader back to its own marker
+\node[anchor=west, font=\tiny, text=ink, xshift=5pt, yshift=1pt] (lbl0) at (axis cs:14.705,12.23) {LFM2.5 2.6B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl0.west) -- (axis cs:14.705,12.23);
+\node[anchor=east, font=\tiny, text=ink, xshift=-6pt, yshift=16pt] (lbl1) at (axis cs:0.098,1.20) {LFM2.5 230M};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl1.east) -- (axis cs:0.098,1.20);
+\node[anchor=west, font=\tiny, text=ink, xshift=4pt, yshift=-8pt] (lbl2) at (axis cs:0.219,0.48) {qwen2.5 0.5B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl2.west) -- (axis cs:0.219,0.48);
+\node[anchor=east, font=\tiny, text=ink, xshift=-5pt, yshift=-6pt] (lbl3) at (axis cs:0.203,1.68) {qwen2.5 1.5B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl3.east) -- (axis cs:0.203,1.68);
+\node[anchor=west, font=\tiny, text=ink, xshift=5pt, yshift=-9pt] (lbl4) at (axis cs:0.224,4.56) {qwen2.5 3B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl4.west) -- (axis cs:0.224,4.56);
+\node[anchor=west, font=\tiny, text=ink, xshift=5pt, yshift=0pt] (lbl5) at (axis cs:0.357,10.31) {qwen2.5 7B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl5.west) -- (axis cs:0.357,10.31);
+\node[anchor=west, font=\tiny, text=ink, xshift=6pt, yshift=1pt] (lbl6) at (axis cs:1.658,42.69) {qwen2.5 32B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl6.west) -- (axis cs:1.658,42.69);
+\node[anchor=west, font=\tiny, text=ink, xshift=5pt, yshift=4pt] (lbl7) at (axis cs:2.658,6.71) {gemma4 e2b};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl7.west) -- (axis cs:2.658,6.71);
+\node[anchor=west, font=\tiny, text=ink, xshift=6pt, yshift=2pt] (lbl8) at (axis cs:39.779,43.65) {gemma4 12B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl8.west) -- (axis cs:39.779,43.65);
+\node[anchor=west, font=\tiny, text=ink, xshift=6pt, yshift=2pt] (lbl9) at (axis cs:25.309,71.46) {gemma4 31B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl9.west) -- (axis cs:25.309,71.46);
+\node[anchor=west, font=\tiny, text=ink, xshift=6pt, yshift=1pt] (lbl10) at (axis cs:24.276,19.90) {qwen3 4B think};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl10.west) -- (axis cs:24.276,19.90);
+\node[anchor=east, font=\tiny, text=ink, xshift=-6pt, yshift=10pt] (lbl11) at (axis cs:0.258,5.52) {qwen3 4B instruct};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl11.east) -- (axis cs:0.258,5.52);
+\node[anchor=west, font=\tiny, text=ink, xshift=6pt, yshift=2pt] (lbl12) at (axis cs:9.347,50.36) {qwen3 30B-A3B think};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl12.west) -- (axis cs:9.347,50.36);
+\node[anchor=east, font=\tiny, text=ink, xshift=-7pt, yshift=5pt] (lbl13) at (axis cs:0.303,27.82) {qwen3 30B-A3B instruct};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl13.east) -- (axis cs:0.303,27.82);
+\node[anchor=east, font=\tiny, text=ink, xshift=-7pt, yshift=-6pt] (lbl14) at (axis cs:511.065,64.03) {qwen3.6 27B};
+\draw[muted, opacity=0.55, line width=0.3pt] (lbl14.east) -- (axis cs:511.065,64.03);
 \addlegendimage{fam0, line width=1.1pt, mark=*, mark options={fill=fam0, draw=surface}}
 \addlegendentry{qwen2.5}
 \addlegendimage{fam1, line width=1.1pt, mark=*, mark options={fill=fam1, draw=surface}}

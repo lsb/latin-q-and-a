@@ -148,14 +148,15 @@ def render_tex(order, mat, n, path):
          r"  yticklabel style={font=\tiny, color=ink},",
          r"  tick style={draw=none}, y dir=reverse, axis line style={draw=none},",
          r"]",
-         r"\addplot[matrix plot*, point meta=explicit] table[meta=v] {",
+         rf"\addplot[matrix plot*, mesh/cols={k}, mesh/ordering=rowwise, "
+         rf"point meta=explicit] table[meta=v] {{",
          r"x y v"]
+    # Every cell of the k x k grid must be present or the mesh shears. The
+    # diagonal carries nan, which pgfplots leaves undrawn.
     for i in range(k):
         for j in range(k):
             v = mat[i][j]
-            if v is not None:
-                L.append(f"{j} {i} {v:.4f}")
-        L.append("")
+            L.append(f"{j} {i} " + ("nan" if v is None else f"{v:.4f}"))
     L += [r"};", r"\end{axis}", r"\end{tikzpicture}", r"\end{document}"]
     Path(path).write_text("\n".join(L) + "\n")
     print(f"wrote {path}")

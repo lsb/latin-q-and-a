@@ -111,8 +111,11 @@ def render_png(rows, best, path):
         Line2D([], [], color=TOP, lw=0, marker="D", ms=6.5, mec=E.SURFACE, mew=1.3,
                label=E.LABEL[best]),
     ]
-    ax.legend(handles=handles, loc="lower right", frameon=False, fontsize=8.5,
-              labelcolor=E.INK, handletextpad=0.6)
+    # Below the axis: the bars fill the left of the plot and the reference
+    # diamonds fill the right, so there is no empty corner to sit in.
+    ax.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.5, -0.075),
+              ncol=2, frameon=False, fontsize=8.5, labelcolor=E.INK,
+              handletextpad=0.6, columnspacing=2.2)
 
     ax.set_title("What the models know, by subject",
                  fontsize=12.5, color=E.INK, loc="left", pad=22)
@@ -141,13 +144,15 @@ def render_tex(rows, best, path):
          r"  tick label style={font=\footnotesize, color=muted},",
          rf"  xmin=0, xmax=100, ymin=-0.8, ymax={len(rows) - 0.2},",
          r"  ytick={" + ",".join(str(i) for i in range(len(rows))) + "},",
-         r"  yticklabels={" + ",".join(esc(r["label"]) for r in rows) + "},",
+         # Each label is braced: a comma inside one would start a new tick.
+         r"  yticklabels={" + ",".join("{" + esc(r["label"]) + "}" for r in rows) + "},",
          r"  ytick style={draw=none},",
          r"  yticklabel style={font=\footnotesize, color=ink},",
          r"  xmajorgrids, grid style={gridc, line width=0.3pt},",
          r"  axis line style={gridc}, axis x line*=bottom, axis y line*=left,",
-         r"  legend style={draw=none, font=\footnotesize, at={(0.99,0.02)},"
-         r" anchor=south east},", r"]"]
+         r"  legend style={draw=none, font=\footnotesize, at={(0.5,-0.11)},"
+         r" anchor=north, legend columns=2, /tikz/every even column/.append style="
+         r"{column sep=12pt}},", r"]"]
     pts = " ".join(f"({r['mean']:.2f},{y})" for y, r in enumerate(rows))
     L.append(rf"\addplot[fill=bar, draw=surface, line width=0.5pt] coordinates {{{pts}}};")
     L.append(r"\addlegendentry{mean over all models}")

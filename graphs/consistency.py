@@ -196,7 +196,7 @@ def render_tex(counts, order, path, questions):
     L += [r"\definecolor{surface}{HTML}{FCFCFB}", r"\definecolor{ink}{HTML}{0B0B0B}",
           r"\definecolor{muted}{HTML}{52514E}", r"\definecolor{gridc}{HTML}{E8E7E3}",
           r"\begin{document}", r"\begin{tikzpicture}", r"\begin{axis}[",
-          r"  width=15cm, height=11cm,", r"  xbar stacked, bar width=11pt,",
+          r"  width=13.2cm, height=11cm,", r"  xbar stacked, bar width=11pt,",
           rf"  xmin={-lim}, xmax={lim}, ymin=-0.8, ymax={len(order) - 0.2},",
           rf"  xlabel={{questions (of {questions})}},",
           r"  xlabel style={font=\small, color=muted},",
@@ -208,9 +208,16 @@ def render_tex(counts, order, path, questions):
           r"  yticklabel style={font=\footnotesize, color=ink},",
           r"  xmajorgrids, grid style={gridc, line width=0.3pt},",
           r"  axis line style={gridc}, axis x line*=bottom, axis y line*=left,",
-          r"  legend style={draw=none, font=\footnotesize, at={(0.99,0.02)},"
-          r" anchor=south east, legend columns=1},",
-          r"  x filter/.code={\pgfmathparse{abs(\pgfmathresult)}},", r"]"]
+          # Below the axis, as in the PNG: the long bottom bars run the full
+          # width of the plot, so an inset legend sits on top of the data.
+          r"  legend style={draw=none, font=\footnotesize, at={(0.5,-0.12)},"
+          r" anchor=north, legend columns=3, /tikz/every even column/.append"
+          r" style={column sep=10pt}},",
+          # An x filter would mirror the negative arm onto the positive side --
+          # it rewrites the data, not just the ticks. Label the ticks instead.
+          "  xtick={" + ",".join(str(t) for t in range(-lim, lim + 1, 20)) + "},",
+          "  xticklabels={" + ",".join(str(abs(t)) for t in range(-lim, lim + 1, 20)) + "},",
+          r"]"]
     # stacked bars need the arms emitted from the rule outward
     for i, (key, _, lab, sign) in enumerate(segs):
         pts = " ".join(f"({sign * counts[m][key]},{j})" for j, m in enumerate(order))

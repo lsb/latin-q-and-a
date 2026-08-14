@@ -60,6 +60,22 @@ NUDGE = {
     "qwen3.6:27b": (-11, -12),
 }
 
+# The pgfplots figure is 16cm wide where the PNG is 11.5in, so an offset in
+# points buys far less separation there. These are tuned for the TeX geometry;
+# NUDGE above is tuned for the PNG.
+TEX_NUDGE = {
+    "qwen2.5:0.5b": (4, -11), "qwen2.5:1.5b": (-5, -9), "qwen2.5:3b": (5, -12),
+    "qwen2.5:7b": (5, -3), "qwen2.5:32b": (6, -2),
+    "qwen3:4b-instruct-2507-q4_K_M": (-6, 7),
+    "qwen3:30b-a3b-instruct-2507-q4_K_M": (-7, 2),
+    "qwen3:4b-thinking-2507-q4_K_M": (6, -2),
+    "qwen3:30b-a3b-thinking-2507-q4_K_M": (6, -1),
+    "gemma4:e2b": (5, 1), "gemma4:12b": (6, -1), "gemma4:31b": (6, -1),
+    "hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0": (-6, 13),
+    "hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0": (5, -2),
+    "qwen3.6:27b": (-7, -9),
+}
+
 
 def xlim_for(d, key):
     """Pad the log axis so the fastest and slowest are not pinned to the frame."""
@@ -93,12 +109,17 @@ def render_png(d, stat, path):
                 mec=color[m], mew=1.6, zorder=5)
         ax.plot(d[m][key], d[m]["pass1"], "o", ms=8.5, color=color[m],
                 mec=E.SURFACE, mew=1.4, zorder=6)
+    # A leader line back to the marker. In the sub-second cluster the labels
+    # have to sit further out than the gaps between points, so proximity alone
+    # does not say which label belongs to which model.
     for m in E.MODELS:
         dx, dy = NUDGE.get(m, (8, -3))
         ax.annotate(E.LABEL[m], (d[m][key], d[m]["pass1"]),
                     textcoords="offset points", xytext=(dx, dy),
                     ha="right" if dx < 0 else "left",
-                    fontsize=8.5, color=E.INK, zorder=7)
+                    fontsize=8.5, color=E.INK, zorder=7,
+                    arrowprops=dict(arrowstyle="-", color=E.MUTED, lw=0.6,
+                                    alpha=0.55, shrinkA=1, shrinkB=6))
 
     ax.set_xlabel(f"{stat} seconds per answer  (log scale)", fontsize=10, color=E.MUTED)
     ax.set_ylabel("correct  (%)", fontsize=10, color=E.MUTED)
@@ -150,7 +171,7 @@ def render_tex(d, stat, path):
     L += [r"\definecolor{surface}{HTML}{FCFCFB}", r"\definecolor{ink}{HTML}{0B0B0B}",
           r"\definecolor{muted}{HTML}{52514E}", r"\definecolor{gridc}{HTML}{E8E7E3}",
           r"\begin{document}", r"\begin{tikzpicture}", r"\begin{axis}[",
-          r"  width=16cm, height=10cm, xmode=log, log basis x=10,",
+          r"  width=16cm, height=11.5cm, xmode=log, log basis x=10,",
           rf"  xlabel={{{stat} seconds per answer (log scale)}},",
           r"  ylabel={correct (\%)},",
           r"  xlabel style={font=\small, color=muted},",
@@ -188,14 +209,16 @@ def render_tex(d, stat, path):
         L.append(rf"\addplot[only marks, mark=*, mark size=2.6pt, "
                  rf"mark options={{fill=fam{ci}, draw=surface, line width=0.8pt}}, forget plot] "
                  rf"coordinates {{({d[m][key]:.3f},{d[m]['pass1']:.2f})}};")
-    L.append("% labels")
-    for m in E.MODELS:
-        dx, dy = NUDGE.get(m, (8, -3))
+    L.append("% labels, each with a leader back to its own marker")
+    for i, m in enumerate(E.MODELS):
+        dx, dy = TEX_NUDGE.get(m, (6, -2))
         anchor = "east" if dx < 0 else "west"
-        L.append(rf"\node[anchor={anchor}, font=\scriptsize, text=ink, "
-                 rf"xshift={dx}pt, yshift={dy + 3}pt] at "
+        L.append(rf"\node[anchor={anchor}, font=\tiny, text=ink, "
+                 rf"xshift={dx}pt, yshift={dy + 3}pt] (lbl{i}) at "
                  rf"(axis cs:{d[m][key]:.3f},{d[m]['pass1']:.2f}) "
                  rf"{{{E.LABEL[m].replace('_', chr(92) + '_')}}};")
+        L.append(rf"\draw[muted, opacity=0.55, line width=0.3pt] (lbl{i}.{anchor}) -- "
+                 rf"(axis cs:{d[m][key]:.3f},{d[m]['pass1']:.2f});")
     for n, i in fam_index.items():
         nm = "qwen3.6 (no family)" if n == "unaff" else n
         L.append(rf"\addlegendimage{{fam{i}, line width=1.1pt, mark=*, "
