@@ -26,7 +26,7 @@ answers:
 
     python3 refresh_gold.py --dry-run
     python3 refresh_gold.py
-    uv run evaluate.py --qa august_final.jsonl --outdir other --no-cpu \
+    uv run evaluate.py --qa august_final.jsonl --outdir august_final --no-cpu \
         --rollouts 3 --models <the same list>
 """
 
@@ -64,7 +64,7 @@ def norm(s):
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--qa", default=str(HERE / "august_final.jsonl"))
-    ap.add_argument("--eval", default=str(HERE / "other"))
+    ap.add_argument("--eval", default=str(HERE / "august_final"))
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 

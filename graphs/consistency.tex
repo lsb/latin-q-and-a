@@ -14,21 +14,21 @@
 \begin{document}
 \begin{tikzpicture}
 \begin{axis}[
-  width=13.2cm, height=11cm,
-  xbar stacked, bar width=11pt,
+  width=5.5cm, height=7.2cm,
+  xbar stacked, bar width=5.4pt,
   xmin=-140, xmax=140, ymin=-0.8, ymax=14.8,
   xlabel={questions (of 139)},
   xlabel style={font=\small, color=muted},
-  tick label style={font=\footnotesize, color=muted},
+  tick label style={font=\tiny, color=muted},
   ytick={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14},
   yticklabels={gemma4 31B,qwen3.6 27B,qwen3 30B-A3B think,gemma4 12B,qwen2.5 32B,qwen3 30B-A3B instruct,qwen3 4B think,LFM2.5 2.6B,qwen2.5 7B,gemma4 e2b,qwen3 4B instruct,qwen2.5 3B,qwen2.5 1.5B,LFM2.5 230M,qwen2.5 0.5B},
   y dir=reverse, ytick style={draw=none},
-  yticklabel style={font=\footnotesize, color=ink},
+  yticklabel style={font=\tiny, color=ink},
   xmajorgrids, grid style={gridc, line width=0.3pt},
   axis line style={gridc}, axis x line*=bottom, axis y line*=left,
-  legend style={draw=none, font=\footnotesize, at={(0.5,-0.12)}, anchor=north, legend columns=3, /tikz/every even column/.append style={column sep=10pt}},
-  xtick={-140,-120,-100,-80,-60,-40,-20,0,20,40,60,80,100,120,140},
-  xticklabels={140,120,100,80,60,40,20,0,20,40,60,80,100,120,140},
+  legend style={draw=none, font=\tiny, at={(0.5,-0.17)}, anchor=north, legend columns=2, /tikz/every even column/.append style={column sep=4pt}},
+  xtick={-140,-70,0,70,140},
+  xticklabels={140,70,0,70,140},
 ]
 \addplot[fill=s0, draw=surface, line width=0.5pt] coordinates {(-87,0) (-73,1) (-57,2) (-45,3) (-48,4) (-28,5) (-18,6) (-3,7) (-8,8) (-3,9) (-2,10) (-1,11) (0,12) (0,13) (0,14)};
 \addlegendentry{all 3 right}

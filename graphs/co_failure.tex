@@ -11,16 +11,16 @@
 \begin{document}
 \begin{tikzpicture}
 \begin{axis}[
-  width=13cm, height=12cm, enlargelimits=false, colormap name=div,
+  width=5.8cm, height=5.8cm, enlargelimits=false, colormap name=div,
   point meta min=-0.5592, point meta max=0.5592,
-  colorbar, colorbar style={font=\footnotesize, color=muted,
-    ylabel={phi correlation}, ylabel style={font=\footnotesize}},
+  colorbar, colorbar style={font=\tiny, color=muted, width=5pt,
+    ylabel={phi}, ylabel style={font=\tiny}},
   xtick={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14},
   ytick={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14},
   xticklabels={gemma4 31B,qwen3.6 27B,qwen3 30B-A3B think,gemma4 12B,qwen2.5 32B,qwen3 30B-A3B instruct,qwen3 4B think,LFM2.5 2.6B,qwen2.5 7B,gemma4 e2b,qwen3 4B instruct,qwen2.5 3B,qwen2.5 1.5B,LFM2.5 230M,qwen2.5 0.5B},
   yticklabels={gemma4 31B,qwen3.6 27B,qwen3 30B-A3B think,gemma4 12B,qwen2.5 32B,qwen3 30B-A3B instruct,qwen3 4B think,LFM2.5 2.6B,qwen2.5 7B,gemma4 e2b,qwen3 4B instruct,qwen2.5 3B,qwen2.5 1.5B,LFM2.5 230M,qwen2.5 0.5B},
-  xticklabel style={rotate=45, anchor=north east, font=\tiny, color=ink},
-  yticklabel style={font=\tiny, color=ink},
+  xticklabel style={rotate=45, anchor=north east, font=\fontsize{4}{5}\selectfont, color=ink},
+  yticklabel style={font=\fontsize{4}{5}\selectfont, color=ink},
   tick style={draw=none}, y dir=reverse, axis line style={draw=none},
 ]
 \addplot[matrix plot*, mesh/cols=15, mesh/ordering=rowwise, point meta=explicit] table[meta=v] {

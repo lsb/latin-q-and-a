@@ -123,7 +123,7 @@ def render_png(order, mat, n, rate, path):
     print(f"wrote {path}")
 
 
-def render_tex(order, mat, n, path):
+def render_tex(order, mat, n, path, narrow=False):
     lim = max(abs(v) for row in mat for v in row if v is not None)
     k = len(order)
     L = [r"\documentclass[border=6pt]{standalone}", r"\usepackage{pgfplots}",
@@ -134,18 +134,26 @@ def render_tex(order, mat, n, path):
          r"\definecolor{ink}{HTML}{0B0B0B}", r"\definecolor{muted}{HTML}{52514E}",
          r"\pgfplotsset{colormap={div}{color=(neg) color=(mid) color=(pos)}}",
          r"\begin{document}", r"\begin{tikzpicture}", r"\begin{axis}[",
-         r"  width=13cm, height=12cm, enlargelimits=false, colormap name=div,",
+         (r"  width=5.8cm, height=5.8cm, enlargelimits=false, colormap name=div,"
+          if narrow else
+          r"  width=13cm, height=12cm, enlargelimits=false, colormap name=div,"),
          rf"  point meta min={-lim:.4f}, point meta max={lim:.4f},",
-         r"  colorbar, colorbar style={font=\footnotesize, color=muted,",
-         r"    ylabel={phi correlation}, ylabel style={font=\footnotesize}},",
+         (r"  colorbar, colorbar style={font=\tiny, color=muted, width=5pt,"
+          if narrow else
+          r"  colorbar, colorbar style={font=\footnotesize, color=muted,"),
+         (r"    ylabel={phi}, ylabel style={font=\tiny}}," if narrow else
+          r"    ylabel={phi correlation}, ylabel style={font=\footnotesize}},"),
          r"  xtick={" + ",".join(str(i) for i in range(k)) + "},",
          r"  ytick={" + ",".join(str(i) for i in range(k)) + "},",
          r"  xticklabels={" + ",".join(E.LABEL[m].replace("_", chr(92) + "_")
                                        for m in order) + "},",
          r"  yticklabels={" + ",".join(E.LABEL[m].replace("_", chr(92) + "_")
                                        for m in order) + "},",
-         r"  xticklabel style={rotate=45, anchor=north east, font=\tiny, color=ink},",
-         r"  yticklabel style={font=\tiny, color=ink},",
+         (r"  xticklabel style={rotate=45, anchor=north east, font=\fontsize{4}{5}"
+          r"\selectfont, color=ink}," if narrow else
+          r"  xticklabel style={rotate=45, anchor=north east, font=\tiny, color=ink},"),
+         (r"  yticklabel style={font=\fontsize{4}{5}\selectfont, color=ink}," if narrow
+          else r"  yticklabel style={font=\tiny, color=ink},"),
          r"  tick style={draw=none}, y dir=reverse, axis line style={draw=none},",
          r"]",
          rf"\addplot[matrix plot*, mesh/cols={k}, mesh/ordering=rowwise, "
@@ -166,6 +174,8 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--qa", default=str(E.DEFAULT_QA))
     p.add_argument("--eval", default=str(E.DEFAULT_EVAL))
+    p.add_argument("--narrow", action="store_true",
+                   help="size the LaTeX figure for a single ACL column")
     p.add_argument("--out", default=str(HERE / "co_failure"))
     args = p.parse_args()
 
@@ -183,7 +193,7 @@ def main():
     for v, a, b in pairs[-4:]:
         print(f"  {v:+.2f}  {E.LABEL[a]} / {E.LABEL[b]}")
     render_png(order, mat, n, rate, Path(args.out + ".png"))
-    render_tex(order, mat, n, Path(args.out + ".tex"))
+    render_tex(order, mat, n, Path(args.out + ".tex"), args.narrow)
 
 
 if __name__ == "__main__":

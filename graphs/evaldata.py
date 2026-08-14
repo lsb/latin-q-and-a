@@ -70,7 +70,7 @@ UNAFFILIATED = {"qwen3.6:27b": "#0b0b0b"}
 SURFACE, INK, MUTED, GRID = "#fcfcfb", "#0b0b0b", "#52514e", "#e8e7e3"
 
 DEFAULT_QA = REPO / "august_final.jsonl"
-DEFAULT_EVAL = REPO / "other"
+DEFAULT_EVAL = REPO / "august_final"
 
 
 def colors():

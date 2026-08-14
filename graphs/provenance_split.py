@@ -3,18 +3,18 @@
 # requires-python = ">=3.11"
 # dependencies = ["matplotlib>=3.11"]
 # ///
-"""provenance-split: corpus-anchored questions against homemade ones.
+"""provenance-split: primary-source questions against secondary-source ones.
 
-The 139 pairs divide almost exactly in half by how they were made. 70 are
-corpus-anchored -- extracted from a real text in the Latin Library, LacusCurtius
-or Bibliotheca Augustana, with a locus you can look up. 69 are homemade
-cultural pairs, written against a citation (mostly Wikipedia) rather than
-lifted from a passage. The split is visible in the provenance field and
-coincides with the compiler: Lee extracted, Vivienne and Marisa composed.
+The 139 pairs divide almost exactly in half by how they were made. 70 come
+from a primary source -- extracted from a Latin text in the Latin Library,
+LacusCurtius or Bibliotheca Augustana, with a locus you can look up. 69 come
+from a secondary source: cultural pairs written against an English citation
+(mostly Wikipedia) rather than lifted from a passage. The split is visible in
+the provenance field and coincides with the compiler.
 
 Each model is one dumbbell: solve rate on each half, joined. What the gap does
-across the range is the question. A constant offset would mean the homemade
-half is simply easier. A gap that widens with capability means the two halves
+across the range is the question. A constant offset would mean the
+secondary-source half is simply easier. A gap that widens with capability means the two halves
 are different in kind -- that the models are being asked to do something else,
 not merely something easier.
 
@@ -34,11 +34,13 @@ import evaldata as E
 HERE = Path(__file__).parent
 
 # Categorical slots 1 and 2 -- the validated adjacent pair.
-KINDS = [("corpus-anchored", "#2a78d6"), ("homemade", "#eb6834")]
+KINDS = [("primary source", "#2a78d6"), ("secondary source", "#eb6834")]
 
 
 def kind_of(row):
-    return "homemade" if "homemade document" in row.get("provenance", "") else "corpus-anchored"
+    # The sheet marks the composed pairs by their provenance string.
+    return ("secondary source" if "homemade document" in row.get("provenance", "")
+            else "primary source")
 
 
 def tabulate(qa_path, eval_dir):
@@ -103,7 +105,7 @@ def render_png(d, order, counts, path):
     ax.legend(handles=handles, loc="lower right", frameon=False, fontsize=8.5,
               labelcolor=E.INK, handletextpad=0.6)
 
-    ax.set_title("Extracted from a text, or written about one",
+    ax.set_title("Primary against secondary sources",
                  fontsize=12.5, color=E.INK, loc="left", pad=22)
     ax.text(0, 1.028, "the number beside each pair is the gap in points; "
                       "correctness uses an LLM as judge",
@@ -114,7 +116,7 @@ def render_png(d, order, counts, path):
     print(f"wrote {path}")
 
 
-def render_tex(d, order, counts, path):
+def render_tex(d, order, counts, path, narrow=False):
     L = [r"\documentclass[border=6pt]{standalone}", r"\usepackage{pgfplots}",
          r"\pgfplotsset{compat=1.18}", r"\usepackage{xcolor}"]
     for i, (_, c) in enumerate(KINDS):
@@ -122,20 +124,25 @@ def render_tex(d, order, counts, path):
     L += [r"\definecolor{surface}{HTML}{FCFCFB}", r"\definecolor{ink}{HTML}{0B0B0B}",
           r"\definecolor{muted}{HTML}{52514E}", r"\definecolor{gridc}{HTML}{E8E7E3}",
           r"\begin{document}", r"\begin{tikzpicture}", r"\begin{axis}[",
-          r"  width=13cm, height=11cm,",
+          (r"  width=6.1cm, height=6.8cm," if narrow else
+           r"  width=13cm, height=11cm,"),
           r"  xlabel={questions solved at least once in three tries (\%)},",
           r"  xlabel style={font=\small, color=muted},",
-          r"  tick label style={font=\footnotesize, color=muted},",
+          (r"  tick label style={font=\tiny, color=muted}," if narrow else
+           r"  tick label style={font=\footnotesize, color=muted},"),
           rf"  xmin=-3, xmax=103, ymin=-0.8, ymax={len(order) - 0.2},",
           r"  ytick={" + ",".join(str(i) for i in range(len(order))) + "},",
           r"  yticklabels={" + ",".join(E.LABEL[m].replace("_", chr(92) + "_")
                                         for m in order) + "},",
           r"  y dir=reverse, ytick style={draw=none},",
-          r"  yticklabel style={font=\footnotesize, color=ink},",
+          (r"  yticklabel style={font=\tiny, color=ink}," if narrow else
+           r"  yticklabel style={font=\footnotesize, color=ink},"),
           r"  xmajorgrids, grid style={gridc, line width=0.3pt},",
           r"  axis line style={gridc}, axis x line*=bottom, axis y line*=left,",
-          r"  legend style={draw=none, font=\footnotesize, at={(0.99,0.02)},"
-          r" anchor=south east},", r"]"]
+          (r"  legend style={draw=none, font=\tiny, at={(0.5,-0.17)},"
+           r" anchor=north, legend columns=1}," if narrow else
+           r"  legend style={draw=none, font=\footnotesize, at={(0.99,0.02)},"
+           r" anchor=south east},"), r"]"]
     for y, m in enumerate(order):
         a, b = d[m][KINDS[0][0]], d[m][KINDS[1][0]]
         L.append(rf"\addplot[gridc, line width=1.6pt, forget plot] coordinates "
@@ -155,17 +162,19 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--qa", default=str(E.DEFAULT_QA))
     p.add_argument("--eval", default=str(E.DEFAULT_EVAL))
+    p.add_argument("--narrow", action="store_true",
+                   help="size the LaTeX figure for a single ACL column")
     p.add_argument("--out", default=str(HERE / "provenance_split"))
     args = p.parse_args()
 
     d, counts = tabulate(Path(args.qa), Path(args.eval))
     order = sorted(d, key=lambda m: -sum(d[m].values()))
-    print(f"{'model':24}{'corpus':>9}{'homemade':>10}{'gap':>7}")
+    print(f"{'model':24}{'primary':>9}{'secondary':>11}{'gap':>7}")
     for m in order:
         a, b = d[m][KINDS[0][0]], d[m][KINDS[1][0]]
         print(f"{E.LABEL[m]:24}{a:9.1f}{b:10.1f}{b - a:+7.1f}")
     render_png(d, order, counts, Path(args.out + ".png"))
-    render_tex(d, order, counts, Path(args.out + ".tex"))
+    render_tex(d, order, counts, Path(args.out + ".tex"), args.narrow)
 
 
 if __name__ == "__main__":

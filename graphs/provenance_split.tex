@@ -11,18 +11,18 @@
 \begin{document}
 \begin{tikzpicture}
 \begin{axis}[
-  width=13cm, height=11cm,
+  width=6.1cm, height=6.8cm,
   xlabel={questions solved at least once in three tries (\%)},
   xlabel style={font=\small, color=muted},
-  tick label style={font=\footnotesize, color=muted},
+  tick label style={font=\tiny, color=muted},
   xmin=-3, xmax=103, ymin=-0.8, ymax=14.8,
   ytick={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14},
   yticklabels={gemma4 31B,qwen3.6 27B,qwen3 30B-A3B think,gemma4 12B,qwen2.5 32B,qwen3 30B-A3B instruct,qwen3 4B think,LFM2.5 2.6B,qwen2.5 7B,gemma4 e2b,qwen3 4B instruct,qwen2.5 3B,qwen2.5 1.5B,LFM2.5 230M,qwen2.5 0.5B},
   y dir=reverse, ytick style={draw=none},
-  yticklabel style={font=\footnotesize, color=ink},
+  yticklabel style={font=\tiny, color=ink},
   xmajorgrids, grid style={gridc, line width=0.3pt},
   axis line style={gridc}, axis x line*=bottom, axis y line*=left,
-  legend style={draw=none, font=\footnotesize, at={(0.99,0.02)}, anchor=south east},
+  legend style={draw=none, font=\tiny, at={(0.5,-0.17)}, anchor=north, legend columns=1},
 ]
 \addplot[gridc, line width=1.6pt, forget plot] coordinates {(68.57,0) (91.30,0)};
 \addplot[gridc, line width=1.6pt, forget plot] coordinates {(67.14,1) (84.06,1)};
@@ -40,9 +40,9 @@
 \addplot[gridc, line width=1.6pt, forget plot] coordinates {(2.86,13) (1.45,13)};
 \addplot[gridc, line width=1.6pt, forget plot] coordinates {(1.43,14) (1.45,14)};
 \addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=k0, draw=surface, line width=0.8pt}] coordinates {(68.57,0) (67.14,1) (55.71,2) (42.86,3) (40.00,4) (25.71,5) (25.71,6) (15.71,7) (10.00,8) (4.29,9) (10.00,10) (8.57,11) (5.71,12) (2.86,13) (1.43,14)};
-\addlegendentry{corpus-anchored (70 questions)}
+\addlegendentry{primary source (70 questions)}
 \addplot[only marks, mark=*, mark size=2.6pt, mark options={fill=k1, draw=surface, line width=0.8pt}] coordinates {(91.30,0) (84.06,1) (65.22,2) (69.57,3) (63.77,4) (42.03,5) (28.99,6) (34.78,7) (24.64,8) (21.74,9) (13.04,10) (13.04,11) (2.90,12) (1.45,13) (1.45,14)};
-\addlegendentry{homemade (69 questions)}
+\addlegendentry{secondary source (69 questions)}
 \end{axis}
 \end{tikzpicture}
 \end{document}

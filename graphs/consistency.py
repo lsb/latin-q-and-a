@@ -183,7 +183,7 @@ def render_png(counts, order, path, questions):
     print(f"wrote {path}")
 
 
-def render_tex(counts, order, path, questions):
+def render_tex(counts, order, path, questions, narrow=False):
     lim = max(max(sum(counts[m][k] for k, _, _ in LEFT),
                   sum(counts[m][k] for k, _, _ in RIGHT)) for m in order)
     lim = (lim // 10 + 1) * 10
@@ -196,27 +196,37 @@ def render_tex(counts, order, path, questions):
     L += [r"\definecolor{surface}{HTML}{FCFCFB}", r"\definecolor{ink}{HTML}{0B0B0B}",
           r"\definecolor{muted}{HTML}{52514E}", r"\definecolor{gridc}{HTML}{E8E7E3}",
           r"\begin{document}", r"\begin{tikzpicture}", r"\begin{axis}[",
-          r"  width=13.2cm, height=11cm,", r"  xbar stacked, bar width=11pt,",
+          (r"  width=5.5cm, height=7.2cm," if narrow else
+           r"  width=13.2cm, height=11cm,"),
+          (r"  xbar stacked, bar width=5.4pt," if narrow
+           else r"  xbar stacked, bar width=11pt,"),
           rf"  xmin={-lim}, xmax={lim}, ymin=-0.8, ymax={len(order) - 0.2},",
           rf"  xlabel={{questions (of {questions})}},",
           r"  xlabel style={font=\small, color=muted},",
-          r"  tick label style={font=\footnotesize, color=muted},",
+          (r"  tick label style={font=\tiny, color=muted}," if narrow else
+           r"  tick label style={font=\footnotesize, color=muted},"),
           r"  ytick={" + ",".join(str(i) for i in range(len(order))) + "},",
           r"  yticklabels={" + ",".join(E.LABEL[m].replace("_", chr(92) + "_")
                                         for m in order) + "},",
           r"  y dir=reverse, ytick style={draw=none},",
-          r"  yticklabel style={font=\footnotesize, color=ink},",
+          (r"  yticklabel style={font=\tiny, color=ink}," if narrow else
+           r"  yticklabel style={font=\footnotesize, color=ink},"),
           r"  xmajorgrids, grid style={gridc, line width=0.3pt},",
           r"  axis line style={gridc}, axis x line*=bottom, axis y line*=left,",
           # Below the axis, as in the PNG: the long bottom bars run the full
           # width of the plot, so an inset legend sits on top of the data.
-          r"  legend style={draw=none, font=\footnotesize, at={(0.5,-0.12)},"
-          r" anchor=north, legend columns=3, /tikz/every even column/.append"
-          r" style={column sep=10pt}},",
+          (r"  legend style={draw=none, font=\tiny, at={(0.5,-0.17)},"
+           r" anchor=north, legend columns=2, /tikz/every even column/.append"
+           r" style={column sep=4pt}}," if narrow else
+           r"  legend style={draw=none, font=\footnotesize, at={(0.5,-0.12)},"
+           r" anchor=north, legend columns=3, /tikz/every even column/.append"
+           r" style={column sep=10pt}},"),
           # An x filter would mirror the negative arm onto the positive side --
           # it rewrites the data, not just the ticks. Label the ticks instead.
-          "  xtick={" + ",".join(str(t) for t in range(-lim, lim + 1, 20)) + "},",
-          "  xticklabels={" + ",".join(str(abs(t)) for t in range(-lim, lim + 1, 20)) + "},",
+          # The step must divide lim, or zero -- the divider the whole chart is
+          # oriented around -- gets no tick.
+          "  xtick={" + ",".join(str(t) for t in range(-lim, lim + 1, lim // 2 if narrow else 20)) + "},",
+          "  xticklabels={" + ",".join(str(abs(t)) for t in range(-lim, lim + 1, lim // 2 if narrow else 20)) + "},",
           r"]"]
     # stacked bars need the arms emitted from the rule outward
     for i, (key, _, lab, sign) in enumerate(segs):
@@ -235,6 +245,8 @@ def main():
     p.add_argument("--qa", default=str(E.DEFAULT_QA))
     p.add_argument("--eval", default=str(E.DEFAULT_EVAL))
     p.add_argument("--clusters", default=str(E.REPO / "semantic_clusters.jsonl"))
+    p.add_argument("--narrow", action="store_true",
+                   help="size the LaTeX figure for a single ACL column")
     p.add_argument("--out", default=str(HERE / "consistency"))
     args = p.parse_args()
 
@@ -250,7 +262,7 @@ def main():
 
     n = sum(counts[order[0]].values())
     render_png(counts, order, Path(args.out + ".png"), n)
-    render_tex(counts, order, Path(args.out + ".tex"), n)
+    render_tex(counts, order, Path(args.out + ".tex"), n, args.narrow)
 
 
 if __name__ == "__main__":

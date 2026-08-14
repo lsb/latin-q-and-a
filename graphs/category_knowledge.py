@@ -128,7 +128,7 @@ def render_png(rows, best, path):
     print(f"wrote {path}")
 
 
-def render_tex(rows, best, path):
+def render_tex(rows, best, path, narrow=False):
     def esc(s):
         return s.replace("_", chr(92) + "_").replace("&", chr(92) + "&")
     L = [r"\documentclass[border=6pt]{standalone}", r"\usepackage{pgfplots}",
@@ -138,16 +138,19 @@ def render_tex(rows, best, path):
          r"\definecolor{surface}{HTML}{FCFCFB}", r"\definecolor{ink}{HTML}{0B0B0B}",
          r"\definecolor{muted}{HTML}{52514E}", r"\definecolor{gridc}{HTML}{E8E7E3}",
          r"\begin{document}", r"\begin{tikzpicture}", r"\begin{axis}[",
-         r"  width=13cm, height=11cm, xbar, bar width=9pt,",
+         (r"  width=4.7cm, height=6.3cm, xbar, bar width=3.9pt," if narrow else
+          r"  width=13cm, height=11cm, xbar, bar width=9pt,"),
          r"  xlabel={questions solved at least once in three tries (\%)},",
          r"  xlabel style={font=\small, color=muted},",
-         r"  tick label style={font=\footnotesize, color=muted},",
+         (r"  tick label style={font=\tiny, color=muted}," if narrow else
+          r"  tick label style={font=\footnotesize, color=muted},"),
          rf"  xmin=0, xmax=100, ymin=-0.8, ymax={len(rows) - 0.2},",
          r"  ytick={" + ",".join(str(i) for i in range(len(rows))) + "},",
          # Each label is braced: a comma inside one would start a new tick.
          r"  yticklabels={" + ",".join("{" + esc(r["label"]) + "}" for r in rows) + "},",
          r"  ytick style={draw=none},",
-         r"  yticklabel style={font=\footnotesize, color=ink},",
+         (r"  yticklabel style={font=\tiny, color=ink}," if narrow else
+          r"  yticklabel style={font=\footnotesize, color=ink},"),
          r"  xmajorgrids, grid style={gridc, line width=0.3pt},",
          r"  axis line style={gridc}, axis x line*=bottom, axis y line*=left,",
          r"  legend style={draw=none, font=\footnotesize, at={(0.5,-0.11)},"
@@ -172,6 +175,8 @@ def main():
                    help="categories with fewer questions are folded into 'other'")
     p.add_argument("--qa", default=str(E.DEFAULT_QA))
     p.add_argument("--eval", default=str(E.DEFAULT_EVAL))
+    p.add_argument("--narrow", action="store_true",
+                   help="size the LaTeX figure for a single ACL column")
     p.add_argument("--out", default=str(HERE / "category_knowledge"))
     args = p.parse_args()
 
@@ -183,7 +188,7 @@ def main():
         t = f"{r['top']:8.1f}" if r["top"] is not None else "       -"
         print(f"{r['category']:38}{r['questions']:>4}{r['mean']:8.1f}{t}")
     render_png(rows, best, Path(args.out + ".png"))
-    render_tex(rows, best, Path(args.out + ".tex"))
+    render_tex(rows, best, Path(args.out + ".tex"), args.narrow)
 
 
 if __name__ == "__main__":

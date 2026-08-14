@@ -24,7 +24,7 @@ pair per line).
 One command runs every model in the paper over the 139-pair August set:
 
 ```sh
-uv run evaluate.py --qa august_final.jsonl --outdir other --no-cpu --rollouts 3 \
+uv run evaluate.py --qa august_final.jsonl --outdir august_final --no-cpu --rollouts 3 \
   --models hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8_0,hf.co/LiquidAI/LFM2.5-230M-GGUF:Q8_0,\
 qwen2.5:0.5b,qwen2.5:1.5b,qwen2.5:3b,qwen2.5:7b,qwen2.5:32b,\
 gemma4:e2b,gemma4:12b,gemma4:31b,\
@@ -38,12 +38,12 @@ holding those fifteen tags plus **`gemma4:31b`**, which is also the LLM judge.
 Everything is 4-bit except the two LFM2.5 models, which are `Q8_0`; all fifteen
 fit in under 20GB.
 
-**It resumes rather than restarts.** `other/answers.jsonl` and
-`other/judgments.jsonl` are committed, and `evaluate.py` skips any
+**It resumes rather than restarts.** `august_final/answers.jsonl` and
+`august_final/judgments.jsonl` are committed, and `evaluate.py` skips any
 `(model, question, rollout)` already present. So the command above prints
 `generation already complete` fifteen times and goes straight to the summary
 table — which is the fastest way to check that your setup agrees with ours.
-Delete `other/` to generate from scratch instead; budget days rather than hours,
+Delete `august_final/` to generate from scratch instead; budget days rather than hours,
 since qwen3.6:27b alone averages around 500 seconds per answer.
 
 The figures in the paper come from that same directory:
