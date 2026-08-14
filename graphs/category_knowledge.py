@@ -64,8 +64,13 @@ def tabulate(qa_path, eval_dir, min_q):
     rows = []
     for c in per:
         n = sum(nq[k] for k in nq if (k == c or (c == "other" and k in folded)))
+        name = c if c != "other" else f"other, {len(folded)} categories"
         rows.append({
-            "category": c if c != "other" else f"other ({len(folded)} categories)",
+            "category": name,
+            # The question count rides in the tick label. Set beside the axis it
+            # lands on top of the subject name; set at the bar's end it collides
+            # with the reference marker.
+            "label": f"{name}  ({n})",
             "questions": n,
             "mean": 100 * sum(per[c]) / len(per[c]),
             "top": 100 * sum(top[c]) / len(top[c]) if top[c] else None,
@@ -92,11 +97,9 @@ def render_png(rows, best, path):
         if r["top"] is not None:
             ax.plot(r["top"], y, "D", ms=6.5, color=TOP, mec=E.SURFACE, mew=1.3,
                     zorder=6)
-        ax.annotate(f"{r['questions']}", (0, y), textcoords="offset points",
-                    xytext=(-8, -3), ha="right", fontsize=8.5, color=E.MUTED)
 
     ax.set_yticks(list(ys))
-    ax.set_yticklabels([r["category"] for r in rows], fontsize=9)
+    ax.set_yticklabels([r["label"] for r in rows], fontsize=9)
     ax.tick_params(axis="y", length=0, colors=E.INK)
     ax.set_ylim(-0.8, len(rows) - 0.2)
     ax.set_xlim(0, 100)
@@ -113,7 +116,7 @@ def render_png(rows, best, path):
 
     ax.set_title("What the models know, by subject",
                  fontsize=12.5, color=E.INK, loc="left", pad=22)
-    ax.text(0, 1.028, "the figure left of each bar is how many questions it rests on; "
+    ax.text(0, 1.028, "the figure after each subject is how many questions it rests on; "
                       "correctness uses an LLM as judge",
             transform=ax.transAxes, fontsize=8.5, color=E.MUTED)
 
@@ -138,7 +141,7 @@ def render_tex(rows, best, path):
          r"  tick label style={font=\footnotesize, color=muted},",
          rf"  xmin=0, xmax=100, ymin=-0.8, ymax={len(rows) - 0.2},",
          r"  ytick={" + ",".join(str(i) for i in range(len(rows))) + "},",
-         r"  yticklabels={" + ",".join(esc(r["category"]) for r in rows) + "},",
+         r"  yticklabels={" + ",".join(esc(r["label"]) for r in rows) + "},",
          r"  ytick style={draw=none},",
          r"  yticklabel style={font=\footnotesize, color=ink},",
          r"  xmajorgrids, grid style={gridc, line width=0.3pt},",
