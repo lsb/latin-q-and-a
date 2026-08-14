@@ -305,7 +305,7 @@
   note         = {Hugging Face GGUF repository, LFM1.0 license. \texttt{Q8\_0} quantisation run via Ollama as \texttt{hf.co/LiquidAI/LFM2.5-2.6B-GGUF:Q8\_0}.}
 }
 
-% ---- Qwen2.5 ----
+% ---- Qwen2.5: one collection rather than five repositories ----
 
 @misc{qwen25-report,
   author        = {Qwen and An Yang and Baosong Yang and Beichen Zhang and Binyuan Hui and Bo Zheng and Bowen Yu and Chengyuan Li and Dayiheng Liu and Fei Huang and Haoran Wei and Huan Lin and Jian Yang and Jianhong Tu and Jianwei Zhang and Jianxin Yang and Jiaxi Yang and Jingren Zhou and Junyang Lin and Kai Dang and Keming Lu and Keqin Bao and Kexin Yang and Le Yu and Mei Li and Mingfeng Xue and Pei Zhang and Qin Zhu and Rui Men and Runji Lin and Tianhao Li and Tianyi Tang and Tingyu Xia and Xingzhang Ren and Xuancheng Ren and Yang Fan and Yang Su and Yichang Zhang and Yu Wan and Yuqiong Liu and Zeyu Cui and Zhenru Zhang and Zihan Qiu},
@@ -317,44 +317,22 @@
   url           = {https://arxiv.org/abs/2412.15115}
 }
 
-@misc{qwen25-0.5b-weights,
-  author       = {{Qwen Team}},
-  title        = {Qwen2.5-0.5B-Instruct},
-  year         = {2024},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama tag \texttt{qwen2.5:0.5b} (\texttt{Q4\_K\_M}).}
-}
 
-@misc{qwen25-1.5b-weights,
-  author       = {{Qwen Team}},
-  title        = {Qwen2.5-1.5B-Instruct},
-  year         = {2024},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama tag \texttt{qwen2.5:1.5b} (\texttt{Q4\_K\_M}).}
-}
 
-@misc{qwen25-3b-weights,
-  author       = {{Qwen Team}},
-  title        = {Qwen2.5-3B-Instruct},
-  year         = {2024},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen2.5-3B-Instruct}},
-  note         = {Hugging Face model repository, Qwen Research License (not Apache-2.0). Run via Ollama tag \texttt{qwen2.5:3b} (\texttt{Q4\_K\_M}).}
-}
 
-@misc{qwen25-7b-weights,
-  author       = {{Qwen Team}},
-  title        = {Qwen2.5-7B-Instruct},
-  year         = {2024},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen2.5-7B-Instruct}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama tag \texttt{qwen2.5:7b} (\texttt{Q4\_K\_M}).}
-}
 
-@misc{qwen25-32b-weights,
+
+@misc{qwen25-collection,
   author       = {{Qwen Team}},
-  title        = {Qwen2.5-32B-Instruct},
+  title        = {Qwen2.5},
   year         = {2024},
-  howpublished = {\url{https://huggingface.co/Qwen/Qwen2.5-32B-Instruct}},
-  note         = {Hugging Face model repository, Apache-2.0. Run via Ollama tag \texttt{qwen2.5:32b} (\texttt{Q4\_K\_M}).}
+  howpublished = {\url{https://huggingface.co/collections/Qwen/qwen25}},
+  note         = {Hugging Face collection. The 0.5B, 1.5B, 3B, 7B and 32B
+                  instruction-tuned checkpoints were run via the Ollama tags
+                  \texttt{qwen2.5:0.5b}, \texttt{1.5b}, \texttt{3b},
+                  \texttt{7b} and \texttt{32b} (\texttt{Q4\_K\_M}). All are
+                  Apache-2.0 except Qwen2.5-3B-Instruct, which is released
+                  under the Qwen Research License.}
 }
 
 % ---- Qwen3 2507 releases (the report predates them; see note) ----
